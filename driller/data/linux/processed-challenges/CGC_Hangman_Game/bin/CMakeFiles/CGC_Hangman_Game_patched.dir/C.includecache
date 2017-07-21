@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/libcgc.h
+
+../processed-challenges/CGC_Hangman_Game/lib/libc.h
+
+/vagrant/driller/data/linux/processed-challenges/CGC_Hangman_Game/lib/libc.c
+libcgc.h
+-
+libc.h
+/vagrant/driller/data/linux/processed-challenges/CGC_Hangman_Game/lib/libc.h
+
+/vagrant/driller/data/linux/processed-challenges/CGC_Hangman_Game/lib/libc.h
+
+/vagrant/driller/data/linux/processed-challenges/CGC_Hangman_Game/src/service.c
+libcgc.h
+-
+libc.h
+/vagrant/driller/data/linux/processed-challenges/CGC_Hangman_Game/src/libc.h
+
+/vagrant/driller/data/linux/processed-challenges/CGC_Hangman_Game/src/words.c
+

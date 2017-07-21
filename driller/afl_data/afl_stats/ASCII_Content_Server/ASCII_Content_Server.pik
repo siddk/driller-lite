@@ -1,0 +1,452 @@
+(lp0
+(I0
+S'start_time     : 1499852158\nlast_update    : 1499852158\nfuzzer_pid     : 4378\ncycles_done    : 0\nexecs_done     : 10\nexecs_per_sec  : 166.67\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 1\npending_total  : 1\nvariable_paths : 0\nbitmap_cvg     : 0.41%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ASCII_Content_Server/input -o /dev/shm/work/ASCII_Content_Server/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ASCII_Content_Server/ASCII_Content_Server.dict -- data/linux/processed-challenges/ASCII_Content_Server/bin/ASCII_Content_Server\n'
+p1
+I6
+tp2
+a(I120
+S'start_time     : 1499852158\nlast_update    : 1499852278\nfuzzer_pid     : 4378\ncycles_done    : 0\nexecs_done     : 94643\nexecs_per_sec  : 805.07\npaths_total    : 20\npaths_favored  : 5\npaths_found    : 19\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 3\npending_favs   : 3\npending_total  : 18\nvariable_paths : 0\nbitmap_cvg     : 0.54%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499852230\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ASCII_Content_Server/input -o /dev/shm/work/ASCII_Content_Server/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ASCII_Content_Server/ASCII_Content_Server.dict -- data/linux/processed-challenges/ASCII_Content_Server/bin/ASCII_Content_Server\n'
+p3
+I14
+tp4
+a(I240
+S'start_time     : 1499852158\nlast_update    : 1499852398\nfuzzer_pid     : 4378\ncycles_done    : 0\nexecs_done     : 190557\nexecs_per_sec  : 781.85\npaths_total    : 20\npaths_favored  : 8\npaths_found    : 19\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 4\npending_favs   : 6\npending_total  : 17\nvariable_paths : 0\nbitmap_cvg     : 0.54%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499852230\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ASCII_Content_Server/input -o /dev/shm/work/ASCII_Content_Server/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ASCII_Content_Server/ASCII_Content_Server.dict -- data/linux/processed-challenges/ASCII_Content_Server/bin/ASCII_Content_Server\n'
+p5
+I1
+tp6
+a(I360
+S'start_time     : 1499852158\nlast_update    : 1499852518\nfuzzer_pid     : 4378\ncycles_done    : 0\nexecs_done     : 280658\nexecs_per_sec  : 717.57\npaths_total    : 28\npaths_favored  : 15\npaths_found    : 27\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 19\npending_favs   : 9\npending_total  : 20\nvariable_paths : 0\nbitmap_cvg     : 0.58%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499852424\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ASCII_Content_Server/input -o /dev/shm/work/ASCII_Content_Server/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ASCII_Content_Server/ASCII_Content_Server.dict -- data/linux/processed-challenges/ASCII_Content_Server/bin/ASCII_Content_Server\n'
+p7
+I7
+tp8
+a(I480
+S'start_time     : 1499852158\nlast_update    : 1499852638\nfuzzer_pid     : 4378\ncycles_done    : 0\nexecs_done     : 366545\nexecs_per_sec  : 709.08\npaths_total    : 37\npaths_favored  : 20\npaths_found    : 36\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 24\npending_favs   : 12\npending_total  : 24\nvariable_paths : 0\nbitmap_cvg     : 0.66%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499852608\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ASCII_Content_Server/input -o /dev/shm/work/ASCII_Content_Server/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ASCII_Content_Server/ASCII_Content_Server.dict -- data/linux/processed-challenges/ASCII_Content_Server/bin/ASCII_Content_Server\n'
+p9
+I9
+tp10
+a(I600
+S'start_time     : 1499852158\nlast_update    : 1499852758\nfuzzer_pid     : 4378\ncycles_done    : 0\nexecs_done     : 450742\nexecs_per_sec  : 671.05\npaths_total    : 42\npaths_favored  : 24\npaths_found    : 41\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 28\npending_favs   : 12\npending_total  : 25\nvariable_paths : 0\nbitmap_cvg     : 0.66%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499852731\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ASCII_Content_Server/input -o /dev/shm/work/ASCII_Content_Server/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ASCII_Content_Server/ASCII_Content_Server.dict -- data/linux/processed-challenges/ASCII_Content_Server/bin/ASCII_Content_Server\n'
+p11
+I5
+tp12
+a(I720
+S'start_time     : 1499852158\nlast_update    : 1499852879\nfuzzer_pid     : 4378\ncycles_done    : 0\nexecs_done     : 537648\nexecs_per_sec  : 734.37\npaths_total    : 52\npaths_favored  : 29\npaths_found    : 51\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 35\npending_favs   : 13\npending_total  : 31\nvariable_paths : 0\nbitmap_cvg     : 0.78%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499852857\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ASCII_Content_Server/input -o /dev/shm/work/ASCII_Content_Server/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ASCII_Content_Server/ASCII_Content_Server.dict -- data/linux/processed-challenges/ASCII_Content_Server/bin/ASCII_Content_Server\n'
+p13
+I10
+tp14
+a(I840
+S'start_time     : 1499852158\nlast_update    : 1499852999\nfuzzer_pid     : 4378\ncycles_done    : 0\nexecs_done     : 622835\nexecs_per_sec  : 677.38\npaths_total    : 54\npaths_favored  : 29\npaths_found    : 53\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 41\npending_favs   : 9\npending_total  : 29\nvariable_paths : 0\nbitmap_cvg     : 0.78%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499852997\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ASCII_Content_Server/input -o /dev/shm/work/ASCII_Content_Server/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ASCII_Content_Server/ASCII_Content_Server.dict -- data/linux/processed-challenges/ASCII_Content_Server/bin/ASCII_Content_Server\n'
+p15
+I2
+tp16
+a(I960
+S'start_time     : 1499852158\nlast_update    : 1499853119\nfuzzer_pid     : 4378\ncycles_done    : 0\nexecs_done     : 705533\nexecs_per_sec  : 704.33\npaths_total    : 66\npaths_favored  : 32\npaths_found    : 65\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 44\npending_favs   : 15\npending_total  : 39\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499853101\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ASCII_Content_Server/input -o /dev/shm/work/ASCII_Content_Server/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ASCII_Content_Server/ASCII_Content_Server.dict -- data/linux/processed-challenges/ASCII_Content_Server/bin/ASCII_Content_Server\n'
+p17
+I12
+tp18
+a(I1080
+S'start_time     : 1499852158\nlast_update    : 1499853239\nfuzzer_pid     : 4378\ncycles_done    : 0\nexecs_done     : 792443\nexecs_per_sec  : 745.27\npaths_total    : 78\npaths_favored  : 35\npaths_found    : 77\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 46\npending_favs   : 18\npending_total  : 49\nvariable_paths : 0\nbitmap_cvg     : 0.88%\nunique_crashes : 2\nunique_hangs   : 0\nlast_path      : 1499853232\nlast_crash     : 1499853214\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ASCII_Content_Server/input -o /dev/shm/work/ASCII_Content_Server/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ASCII_Content_Server/ASCII_Content_Server.dict -- data/linux/processed-challenges/ASCII_Content_Server/bin/ASCII_Content_Server\n'
+p19
+I12
+tp20
+a(I1200
+S'start_time     : 1499852158\nlast_update    : 1499853360\nfuzzer_pid     : 4378\ncycles_done    : 0\nexecs_done     : 879413\nexecs_per_sec  : 702.09\npaths_total    : 81\npaths_favored  : 35\npaths_found    : 80\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 46\npending_favs   : 18\npending_total  : 52\nvariable_paths : 0\nbitmap_cvg     : 0.88%\nunique_crashes : 2\nunique_hangs   : 0\nlast_path      : 1499853345\nlast_crash     : 1499853214\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ASCII_Content_Server/input -o /dev/shm/work/ASCII_Content_Server/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ASCII_Content_Server/ASCII_Content_Server.dict -- data/linux/processed-challenges/ASCII_Content_Server/bin/ASCII_Content_Server\n'
+p21
+I3
+tp22
+a(I1320
+S'start_time     : 1499852158\nlast_update    : 1499853480\nfuzzer_pid     : 4378\ncycles_done    : 0\nexecs_done     : 963055\nexecs_per_sec  : 688.92\npaths_total    : 88\npaths_favored  : 40\npaths_found    : 87\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 48\npending_favs   : 21\npending_total  : 57\nvariable_paths : 0\nbitmap_cvg     : 0.89%\nunique_crashes : 2\nunique_hangs   : 0\nlast_path      : 1499853472\nlast_crash     : 1499853214\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ASCII_Content_Server/input -o /dev/shm/work/ASCII_Content_Server/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ASCII_Content_Server/ASCII_Content_Server.dict -- data/linux/processed-challenges/ASCII_Content_Server/bin/ASCII_Content_Server\n'
+p23
+I7
+tp24
+a(I1440
+S'start_time     : 1499852158\nlast_update    : 1499853600\nfuzzer_pid     : 4378\ncycles_done    : 0\nexecs_done     : 1042869\nexecs_per_sec  : 621.62\npaths_total    : 96\npaths_favored  : 44\npaths_found    : 95\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 52\npending_favs   : 28\npending_total  : 63\nvariable_paths : 0\nbitmap_cvg     : 1.04%\nunique_crashes : 2\nunique_hangs   : 0\nlast_path      : 1499853505\nlast_crash     : 1499853214\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ASCII_Content_Server/input -o /dev/shm/work/ASCII_Content_Server/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ASCII_Content_Server/ASCII_Content_Server.dict -- data/linux/processed-challenges/ASCII_Content_Server/bin/ASCII_Content_Server\n'
+p25
+I8
+tp26
+a(I1560
+S'start_time     : 1499852158\nlast_update    : 1499853720\nfuzzer_pid     : 4378\ncycles_done    : 0\nexecs_done     : 1121951\nexecs_per_sec  : 673.03\npaths_total    : 98\npaths_favored  : 44\npaths_found    : 97\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 54\npending_favs   : 27\npending_total  : 64\nvariable_paths : 0\nbitmap_cvg     : 1.04%\nunique_crashes : 2\nunique_hangs   : 0\nlast_path      : 1499853653\nlast_crash     : 1499853214\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ASCII_Content_Server/input -o /dev/shm/work/ASCII_Content_Server/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ASCII_Content_Server/ASCII_Content_Server.dict -- data/linux/processed-challenges/ASCII_Content_Server/bin/ASCII_Content_Server\n'
+p27
+I2
+tp28
+a(I1680
+S'start_time     : 1499852158\nlast_update    : 1499853840\nfuzzer_pid     : 4378\ncycles_done    : 0\nexecs_done     : 1202037\nexecs_per_sec  : 702.95\npaths_total    : 98\npaths_favored  : 46\npaths_found    : 97\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 56\npending_favs   : 29\npending_total  : 62\nvariable_paths : 0\nbitmap_cvg     : 1.04%\nunique_crashes : 2\nunique_hangs   : 0\nlast_path      : 1499853653\nlast_crash     : 1499853214\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ASCII_Content_Server/input -o /dev/shm/work/ASCII_Content_Server/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ASCII_Content_Server/ASCII_Content_Server.dict -- data/linux/processed-challenges/ASCII_Content_Server/bin/ASCII_Content_Server\n'
+p29
+I0
+tp30
+a(I1800
+S'start_time     : 1499852158\nlast_update    : 1499853961\nfuzzer_pid     : 4378\ncycles_done    : 0\nexecs_done     : 1282718\nexecs_per_sec  : 733.41\npaths_total    : 99\npaths_favored  : 47\npaths_found    : 98\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 59\npending_favs   : 29\npending_total  : 62\nvariable_paths : 0\nbitmap_cvg     : 1.04%\nunique_crashes : 2\nunique_hangs   : 0\nlast_path      : 1499853908\nlast_crash     : 1499853214\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ASCII_Content_Server/input -o /dev/shm/work/ASCII_Content_Server/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ASCII_Content_Server/ASCII_Content_Server.dict -- data/linux/processed-challenges/ASCII_Content_Server/bin/ASCII_Content_Server\n'
+p31
+I1
+tp32
+a(I1920
+S'start_time     : 1499852158\nlast_update    : 1499854081\nfuzzer_pid     : 4378\ncycles_done    : 0\nexecs_done     : 1368689\nexecs_per_sec  : 725.89\npaths_total    : 100\npaths_favored  : 47\npaths_found    : 99\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 63\npending_favs   : 25\npending_total  : 59\nvariable_paths : 0\nbitmap_cvg     : 1.04%\nunique_crashes : 2\nunique_hangs   : 0\nlast_path      : 1499854073\nlast_crash     : 1499853214\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ASCII_Content_Server/input -o /dev/shm/work/ASCII_Content_Server/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ASCII_Content_Server/ASCII_Content_Server.dict -- data/linux/processed-challenges/ASCII_Content_Server/bin/ASCII_Content_Server\n'
+p33
+I1
+tp34
+a(I2040
+S'start_time     : 1499852158\nlast_update    : 1499854201\nfuzzer_pid     : 4378\ncycles_done    : 0\nexecs_done     : 1453658\nexecs_per_sec  : 707.54\npaths_total    : 100\npaths_favored  : 47\npaths_found    : 99\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 66\npending_favs   : 23\npending_total  : 56\nvariable_paths : 0\nbitmap_cvg     : 1.04%\nunique_crashes : 2\nunique_hangs   : 0\nlast_path      : 1499854073\nlast_crash     : 1499853214\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ASCII_Content_Server/input -o /dev/shm/work/ASCII_Content_Server/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ASCII_Content_Server/ASCII_Content_Server.dict -- data/linux/processed-challenges/ASCII_Content_Server/bin/ASCII_Content_Server\n'
+p35
+I0
+tp36
+a(I2160
+S'start_time     : 1499852158\nlast_update    : 1499854321\nfuzzer_pid     : 4378\ncycles_done    : 0\nexecs_done     : 1537601\nexecs_per_sec  : 733.51\npaths_total    : 104\npaths_favored  : 49\npaths_found    : 103\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 71\npending_favs   : 22\npending_total  : 57\nvariable_paths : 0\nbitmap_cvg     : 1.08%\nunique_crashes : 3\nunique_hangs   : 3\nlast_path      : 1499854301\nlast_crash     : 1499854307\nlast_hang      : 1499854276\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ASCII_Content_Server/input -o /dev/shm/work/ASCII_Content_Server/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ASCII_Content_Server/ASCII_Content_Server.dict -- data/linux/processed-challenges/ASCII_Content_Server/bin/ASCII_Content_Server\n'
+p37
+I4
+tp38
+a(I2280
+S'start_time     : 1499852158\nlast_update    : 1499854441\nfuzzer_pid     : 4378\ncycles_done    : 0\nexecs_done     : 1622843\nexecs_per_sec  : 695.07\npaths_total    : 109\npaths_favored  : 53\npaths_found    : 108\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 82\npending_favs   : 23\npending_total  : 58\nvariable_paths : 0\nbitmap_cvg     : 1.09%\nunique_crashes : 5\nunique_hangs   : 3\nlast_path      : 1499854417\nlast_crash     : 1499854368\nlast_hang      : 1499854276\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ASCII_Content_Server/input -o /dev/shm/work/ASCII_Content_Server/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ASCII_Content_Server/ASCII_Content_Server.dict -- data/linux/processed-challenges/ASCII_Content_Server/bin/ASCII_Content_Server\n'
+p39
+I5
+tp40
+a(I2400
+S'start_time     : 1499852158\nlast_update    : 1499854562\nfuzzer_pid     : 4378\ncycles_done    : 0\nexecs_done     : 1707145\nexecs_per_sec  : 694.97\npaths_total    : 113\npaths_favored  : 57\npaths_found    : 112\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 86\npending_favs   : 24\npending_total  : 59\nvariable_paths : 0\nbitmap_cvg     : 1.09%\nunique_crashes : 5\nunique_hangs   : 3\nlast_path      : 1499854502\nlast_crash     : 1499854368\nlast_hang      : 1499854276\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ASCII_Content_Server/input -o /dev/shm/work/ASCII_Content_Server/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ASCII_Content_Server/ASCII_Content_Server.dict -- data/linux/processed-challenges/ASCII_Content_Server/bin/ASCII_Content_Server\n'
+p41
+I4
+tp42
+a(I2520
+S'start_time     : 1499852158\nlast_update    : 1499854682\nfuzzer_pid     : 4378\ncycles_done    : 0\nexecs_done     : 1792968\nexecs_per_sec  : 710.13\npaths_total    : 121\npaths_favored  : 59\npaths_found    : 120\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 90\npending_favs   : 24\npending_total  : 64\nvariable_paths : 0\nbitmap_cvg     : 1.19%\nunique_crashes : 5\nunique_hangs   : 3\nlast_path      : 1499854677\nlast_crash     : 1499854368\nlast_hang      : 1499854276\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ASCII_Content_Server/input -o /dev/shm/work/ASCII_Content_Server/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ASCII_Content_Server/ASCII_Content_Server.dict -- data/linux/processed-challenges/ASCII_Content_Server/bin/ASCII_Content_Server\n'
+p43
+I8
+tp44
+a(I2640
+S'start_time     : 1499852158\nlast_update    : 1499854802\nfuzzer_pid     : 4378\ncycles_done    : 0\nexecs_done     : 1876971\nexecs_per_sec  : 623.92\npaths_total    : 123\npaths_favored  : 62\npaths_found    : 122\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 96\npending_favs   : 24\npending_total  : 63\nvariable_paths : 0\nbitmap_cvg     : 1.26%\nunique_crashes : 5\nunique_hangs   : 3\nlast_path      : 1499854750\nlast_crash     : 1499854368\nlast_hang      : 1499854276\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ASCII_Content_Server/input -o /dev/shm/work/ASCII_Content_Server/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ASCII_Content_Server/ASCII_Content_Server.dict -- data/linux/processed-challenges/ASCII_Content_Server/bin/ASCII_Content_Server\n'
+p45
+I2
+tp46
+a(I2760
+S'start_time     : 1499852158\nlast_update    : 1499854922\nfuzzer_pid     : 4378\ncycles_done    : 0\nexecs_done     : 1955161\nexecs_per_sec  : 606.58\npaths_total    : 123\npaths_favored  : 62\npaths_found    : 122\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 98\npending_favs   : 23\npending_total  : 62\nvariable_paths : 0\nbitmap_cvg     : 1.26%\nunique_crashes : 5\nunique_hangs   : 3\nlast_path      : 1499854750\nlast_crash     : 1499854368\nlast_hang      : 1499854276\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ASCII_Content_Server/input -o /dev/shm/work/ASCII_Content_Server/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ASCII_Content_Server/ASCII_Content_Server.dict -- data/linux/processed-challenges/ASCII_Content_Server/bin/ASCII_Content_Server\n'
+p47
+I0
+tp48
+a(I2880
+S'start_time     : 1499852158\nlast_update    : 1499855043\nfuzzer_pid     : 4378\ncycles_done    : 0\nexecs_done     : 2039093\nexecs_per_sec  : 692.33\npaths_total    : 124\npaths_favored  : 62\npaths_found    : 123\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 99\npending_favs   : 22\npending_total  : 62\nvariable_paths : 0\nbitmap_cvg     : 1.27%\nunique_crashes : 5\nunique_hangs   : 3\nlast_path      : 1499855003\nlast_crash     : 1499854368\nlast_hang      : 1499854276\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ASCII_Content_Server/input -o /dev/shm/work/ASCII_Content_Server/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ASCII_Content_Server/ASCII_Content_Server.dict -- data/linux/processed-challenges/ASCII_Content_Server/bin/ASCII_Content_Server\n'
+p49
+I1
+tp50
+a(I3000
+S'start_time     : 1499852158\nlast_update    : 1499855163\nfuzzer_pid     : 4378\ncycles_done    : 0\nexecs_done     : 2099955\nexecs_per_sec  : 55.65\npaths_total    : 127\npaths_favored  : 64\npaths_found    : 126\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 102\npending_favs   : 22\npending_total  : 62\nvariable_paths : 0\nbitmap_cvg     : 1.29%\nunique_crashes : 8\nunique_hangs   : 6\nlast_path      : 1499855150\nlast_crash     : 1499855101\nlast_hang      : 1499855149\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ASCII_Content_Server/input -o /dev/shm/work/ASCII_Content_Server/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ASCII_Content_Server/ASCII_Content_Server.dict -- data/linux/processed-challenges/ASCII_Content_Server/bin/ASCII_Content_Server\n'
+p51
+I3
+tp52
+a(I3120
+S'start_time     : 1499852158\nlast_update    : 1499855283\nfuzzer_pid     : 4378\ncycles_done    : 0\nexecs_done     : 2141411\nexecs_per_sec  : 713.50\npaths_total    : 127\npaths_favored  : 64\npaths_found    : 126\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 103\npending_favs   : 21\npending_total  : 61\nvariable_paths : 0\nbitmap_cvg     : 1.29%\nunique_crashes : 8\nunique_hangs   : 7\nlast_path      : 1499855150\nlast_crash     : 1499855101\nlast_hang      : 1499855209\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ASCII_Content_Server/input -o /dev/shm/work/ASCII_Content_Server/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ASCII_Content_Server/ASCII_Content_Server.dict -- data/linux/processed-challenges/ASCII_Content_Server/bin/ASCII_Content_Server\n'
+p53
+I0
+tp54
+a(I3240
+S'start_time     : 1499852158\nlast_update    : 1499855403\nfuzzer_pid     : 4378\ncycles_done    : 0\nexecs_done     : 2226999\nexecs_per_sec  : 720.15\npaths_total    : 131\npaths_favored  : 68\npaths_found    : 130\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 107\npending_favs   : 22\npending_total  : 62\nvariable_paths : 0\nbitmap_cvg     : 1.36%\nunique_crashes : 9\nunique_hangs   : 7\nlast_path      : 1499855357\nlast_crash     : 1499855357\nlast_hang      : 1499855209\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ASCII_Content_Server/input -o /dev/shm/work/ASCII_Content_Server/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ASCII_Content_Server/ASCII_Content_Server.dict -- data/linux/processed-challenges/ASCII_Content_Server/bin/ASCII_Content_Server\n'
+p55
+I4
+tp56
+a(I3360
+S'start_time     : 1499852158\nlast_update    : 1499855523\nfuzzer_pid     : 4378\ncycles_done    : 0\nexecs_done     : 2312271\nexecs_per_sec  : 712.19\npaths_total    : 132\npaths_favored  : 69\npaths_found    : 131\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 109\npending_favs   : 21\npending_total  : 61\nvariable_paths : 0\nbitmap_cvg     : 1.36%\nunique_crashes : 9\nunique_hangs   : 7\nlast_path      : 1499855449\nlast_crash     : 1499855357\nlast_hang      : 1499855209\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ASCII_Content_Server/input -o /dev/shm/work/ASCII_Content_Server/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ASCII_Content_Server/ASCII_Content_Server.dict -- data/linux/processed-challenges/ASCII_Content_Server/bin/ASCII_Content_Server\n'
+p57
+I1
+tp58
+a(I3480
+S'start_time     : 1499852158\nlast_update    : 1499855643\nfuzzer_pid     : 4378\ncycles_done    : 0\nexecs_done     : 2399408\nexecs_per_sec  : 734.24\npaths_total    : 134\npaths_favored  : 69\npaths_found    : 133\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 110\npending_favs   : 20\npending_total  : 62\nvariable_paths : 0\nbitmap_cvg     : 1.36%\nunique_crashes : 9\nunique_hangs   : 7\nlast_path      : 1499855575\nlast_crash     : 1499855357\nlast_hang      : 1499855209\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ASCII_Content_Server/input -o /dev/shm/work/ASCII_Content_Server/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ASCII_Content_Server/ASCII_Content_Server.dict -- data/linux/processed-challenges/ASCII_Content_Server/bin/ASCII_Content_Server\n'
+p59
+I2
+tp60
+a(I3600
+S'start_time     : 1499852158\nlast_update    : 1499855764\nfuzzer_pid     : 4378\ncycles_done    : 0\nexecs_done     : 2485748\nexecs_per_sec  : 709.33\npaths_total    : 135\npaths_favored  : 71\npaths_found    : 134\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 112\npending_favs   : 20\npending_total  : 61\nvariable_paths : 0\nbitmap_cvg     : 1.36%\nunique_crashes : 9\nunique_hangs   : 7\nlast_path      : 1499855674\nlast_crash     : 1499855357\nlast_hang      : 1499855209\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ASCII_Content_Server/input -o /dev/shm/work/ASCII_Content_Server/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ASCII_Content_Server/ASCII_Content_Server.dict -- data/linux/processed-challenges/ASCII_Content_Server/bin/ASCII_Content_Server\n'
+p61
+I1
+tp62
+a(I3720
+S'start_time     : 1499852158\nlast_update    : 1499855884\nfuzzer_pid     : 4378\ncycles_done    : 0\nexecs_done     : 2571354\nexecs_per_sec  : 698.39\npaths_total    : 145\npaths_favored  : 71\npaths_found    : 144\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 116\npending_favs   : 18\npending_total  : 68\nvariable_paths : 0\nbitmap_cvg     : 1.39%\nunique_crashes : 10\nunique_hangs   : 7\nlast_path      : 1499855884\nlast_crash     : 1499855784\nlast_hang      : 1499855209\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ASCII_Content_Server/input -o /dev/shm/work/ASCII_Content_Server/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ASCII_Content_Server/ASCII_Content_Server.dict -- data/linux/processed-challenges/ASCII_Content_Server/bin/ASCII_Content_Server\n'
+p63
+I10
+tp64
+a(I3840
+S'start_time     : 1499852158\nlast_update    : 1499856005\nfuzzer_pid     : 4378\ncycles_done    : 0\nexecs_done     : 2656017\nexecs_per_sec  : 721.02\npaths_total    : 165\npaths_favored  : 71\npaths_found    : 164\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 116\npending_favs   : 18\npending_total  : 88\nvariable_paths : 0\nbitmap_cvg     : 1.41%\nunique_crashes : 10\nunique_hangs   : 8\nlast_path      : 1499855967\nlast_crash     : 1499855784\nlast_hang      : 1499855916\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ASCII_Content_Server/input -o /dev/shm/work/ASCII_Content_Server/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ASCII_Content_Server/ASCII_Content_Server.dict -- data/linux/processed-challenges/ASCII_Content_Server/bin/ASCII_Content_Server\n'
+p65
+I20
+tp66
+a(I3960
+S'start_time     : 1499852158\nlast_update    : 1499856125\nfuzzer_pid     : 4378\ncycles_done    : 0\nexecs_done     : 2743109\nexecs_per_sec  : 718.23\npaths_total    : 169\npaths_favored  : 71\npaths_found    : 168\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 116\npending_favs   : 18\npending_total  : 92\nvariable_paths : 0\nbitmap_cvg     : 1.42%\nunique_crashes : 10\nunique_hangs   : 8\nlast_path      : 1499856063\nlast_crash     : 1499855784\nlast_hang      : 1499855916\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ASCII_Content_Server/input -o /dev/shm/work/ASCII_Content_Server/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ASCII_Content_Server/ASCII_Content_Server.dict -- data/linux/processed-challenges/ASCII_Content_Server/bin/ASCII_Content_Server\n'
+p67
+I4
+tp68
+a(I4080
+S'start_time     : 1499852158\nlast_update    : 1499856245\nfuzzer_pid     : 4378\ncycles_done    : 0\nexecs_done     : 2829873\nexecs_per_sec  : 723.65\npaths_total    : 170\npaths_favored  : 82\npaths_found    : 169\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 118\npending_favs   : 34\npending_total  : 91\nvariable_paths : 0\nbitmap_cvg     : 1.42%\nunique_crashes : 10\nunique_hangs   : 8\nlast_path      : 1499856205\nlast_crash     : 1499855784\nlast_hang      : 1499855916\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ASCII_Content_Server/input -o /dev/shm/work/ASCII_Content_Server/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ASCII_Content_Server/ASCII_Content_Server.dict -- data/linux/processed-challenges/ASCII_Content_Server/bin/ASCII_Content_Server\n'
+p69
+I1
+tp70
+a(I4200
+S'start_time     : 1499852158\nlast_update    : 1499856365\nfuzzer_pid     : 4378\ncycles_done    : 0\nexecs_done     : 2916770\nexecs_per_sec  : 723.88\npaths_total    : 171\npaths_favored  : 81\npaths_found    : 170\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 122\npending_favs   : 32\npending_total  : 90\nvariable_paths : 0\nbitmap_cvg     : 1.42%\nunique_crashes : 11\nunique_hangs   : 8\nlast_path      : 1499856314\nlast_crash     : 1499856323\nlast_hang      : 1499855916\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ASCII_Content_Server/input -o /dev/shm/work/ASCII_Content_Server/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ASCII_Content_Server/ASCII_Content_Server.dict -- data/linux/processed-challenges/ASCII_Content_Server/bin/ASCII_Content_Server\n'
+p71
+I1
+tp72
+a(I4320
+S'start_time     : 1499852158\nlast_update    : 1499856485\nfuzzer_pid     : 4378\ncycles_done    : 0\nexecs_done     : 2983173\nexecs_per_sec  : 593.36\npaths_total    : 173\npaths_favored  : 83\npaths_found    : 172\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 125\npending_favs   : 32\npending_total  : 89\nvariable_paths : 0\nbitmap_cvg     : 1.45%\nunique_crashes : 12\nunique_hangs   : 8\nlast_path      : 1499856407\nlast_crash     : 1499856410\nlast_hang      : 1499855916\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ASCII_Content_Server/input -o /dev/shm/work/ASCII_Content_Server/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ASCII_Content_Server/ASCII_Content_Server.dict -- data/linux/processed-challenges/ASCII_Content_Server/bin/ASCII_Content_Server\n'
+p73
+I2
+tp74
+a(I4440
+S'start_time     : 1499852158\nlast_update    : 1499856606\nfuzzer_pid     : 4378\ncycles_done    : 0\nexecs_done     : 3049260\nexecs_per_sec  : 687.75\npaths_total    : 174\npaths_favored  : 83\npaths_found    : 173\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 127\npending_favs   : 31\npending_total  : 89\nvariable_paths : 0\nbitmap_cvg     : 1.45%\nunique_crashes : 12\nunique_hangs   : 8\nlast_path      : 1499856591\nlast_crash     : 1499856410\nlast_hang      : 1499855916\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ASCII_Content_Server/input -o /dev/shm/work/ASCII_Content_Server/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ASCII_Content_Server/ASCII_Content_Server.dict -- data/linux/processed-challenges/ASCII_Content_Server/bin/ASCII_Content_Server\n'
+p75
+I1
+tp76
+a(I4560
+S'start_time     : 1499852158\nlast_update    : 1499856726\nfuzzer_pid     : 4378\ncycles_done    : 0\nexecs_done     : 3134338\nexecs_per_sec  : 671.06\npaths_total    : 176\npaths_favored  : 83\npaths_found    : 175\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 129\npending_favs   : 30\npending_total  : 89\nvariable_paths : 0\nbitmap_cvg     : 1.45%\nunique_crashes : 12\nunique_hangs   : 8\nlast_path      : 1499856710\nlast_crash     : 1499856410\nlast_hang      : 1499855916\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ASCII_Content_Server/input -o /dev/shm/work/ASCII_Content_Server/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ASCII_Content_Server/ASCII_Content_Server.dict -- data/linux/processed-challenges/ASCII_Content_Server/bin/ASCII_Content_Server\n'
+p77
+I2
+tp78
+a(I4680
+S'start_time     : 1499852158\nlast_update    : 1499856846\nfuzzer_pid     : 4378\ncycles_done    : 0\nexecs_done     : 3219826\nexecs_per_sec  : 692.70\npaths_total    : 177\npaths_favored  : 84\npaths_found    : 176\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 131\npending_favs   : 29\npending_total  : 88\nvariable_paths : 0\nbitmap_cvg     : 1.45%\nunique_crashes : 12\nunique_hangs   : 8\nlast_path      : 1499856755\nlast_crash     : 1499856410\nlast_hang      : 1499855916\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ASCII_Content_Server/input -o /dev/shm/work/ASCII_Content_Server/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ASCII_Content_Server/ASCII_Content_Server.dict -- data/linux/processed-challenges/ASCII_Content_Server/bin/ASCII_Content_Server\n'
+p79
+I1
+tp80
+a(I4800
+S'start_time     : 1499852158\nlast_update    : 1499856967\nfuzzer_pid     : 4378\ncycles_done    : 0\nexecs_done     : 3304933\nexecs_per_sec  : 701.65\npaths_total    : 179\npaths_favored  : 84\npaths_found    : 178\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 135\npending_favs   : 26\npending_total  : 87\nvariable_paths : 0\nbitmap_cvg     : 1.46%\nunique_crashes : 13\nunique_hangs   : 8\nlast_path      : 1499856958\nlast_crash     : 1499856901\nlast_hang      : 1499855916\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ASCII_Content_Server/input -o /dev/shm/work/ASCII_Content_Server/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ASCII_Content_Server/ASCII_Content_Server.dict -- data/linux/processed-challenges/ASCII_Content_Server/bin/ASCII_Content_Server\n'
+p81
+I2
+tp82
+a(I4920
+S'start_time     : 1499852158\nlast_update    : 1499857087\nfuzzer_pid     : 4378\ncycles_done    : 0\nexecs_done     : 3389530\nexecs_per_sec  : 702.23\npaths_total    : 179\npaths_favored  : 85\npaths_found    : 178\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 137\npending_favs   : 25\npending_total  : 85\nvariable_paths : 0\nbitmap_cvg     : 1.46%\nunique_crashes : 13\nunique_hangs   : 8\nlast_path      : 1499856958\nlast_crash     : 1499856901\nlast_hang      : 1499855916\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ASCII_Content_Server/input -o /dev/shm/work/ASCII_Content_Server/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ASCII_Content_Server/ASCII_Content_Server.dict -- data/linux/processed-challenges/ASCII_Content_Server/bin/ASCII_Content_Server\n'
+p83
+I0
+tp84
+a(I5040
+S'start_time     : 1499852158\nlast_update    : 1499857207\nfuzzer_pid     : 4378\ncycles_done    : 0\nexecs_done     : 3472918\nexecs_per_sec  : 698.32\npaths_total    : 180\npaths_favored  : 85\npaths_found    : 179\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 139\npending_favs   : 24\npending_total  : 85\nvariable_paths : 0\nbitmap_cvg     : 1.46%\nunique_crashes : 13\nunique_hangs   : 8\nlast_path      : 1499857150\nlast_crash     : 1499856901\nlast_hang      : 1499855916\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ASCII_Content_Server/input -o /dev/shm/work/ASCII_Content_Server/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ASCII_Content_Server/ASCII_Content_Server.dict -- data/linux/processed-challenges/ASCII_Content_Server/bin/ASCII_Content_Server\n'
+p85
+I1
+tp86
+a(I5160
+S'start_time     : 1499852158\nlast_update    : 1499857327\nfuzzer_pid     : 4378\ncycles_done    : 0\nexecs_done     : 3557723\nexecs_per_sec  : 686.50\npaths_total    : 181\npaths_favored  : 85\npaths_found    : 180\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 143\npending_favs   : 23\npending_total  : 84\nvariable_paths : 0\nbitmap_cvg     : 1.47%\nunique_crashes : 13\nunique_hangs   : 8\nlast_path      : 1499857321\nlast_crash     : 1499856901\nlast_hang      : 1499855916\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ASCII_Content_Server/input -o /dev/shm/work/ASCII_Content_Server/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ASCII_Content_Server/ASCII_Content_Server.dict -- data/linux/processed-challenges/ASCII_Content_Server/bin/ASCII_Content_Server\n'
+p87
+I1
+tp88
+a(I5280
+S'start_time     : 1499852158\nlast_update    : 1499857387\nfuzzer_pid     : 4378\ncycles_done    : 0\nexecs_done     : 3600307\nexecs_per_sec  : 725.57\npaths_total    : 181\npaths_favored  : 85\npaths_found    : 180\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 144\npending_favs   : 22\npending_total  : 83\nvariable_paths : 0\nbitmap_cvg     : 1.47%\nunique_crashes : 13\nunique_hangs   : 8\nlast_path      : 1499857321\nlast_crash     : 1499856901\nlast_hang      : 1499855916\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ASCII_Content_Server/input -o /dev/shm/work/ASCII_Content_Server/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ASCII_Content_Server/ASCII_Content_Server.dict -- data/linux/processed-challenges/ASCII_Content_Server/bin/ASCII_Content_Server\n'
+p89
+I0
+tp90
+a(I5400
+S'start_time     : 1499852158\nlast_update    : 1499857567\nfuzzer_pid     : 4378\ncycles_done    : 0\nexecs_done     : 3726173\nexecs_per_sec  : 679.52\npaths_total    : 183\npaths_favored  : 86\npaths_found    : 182\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 147\npending_favs   : 21\npending_total  : 83\nvariable_paths : 0\nbitmap_cvg     : 1.47%\nunique_crashes : 13\nunique_hangs   : 8\nlast_path      : 1499857532\nlast_crash     : 1499856901\nlast_hang      : 1499855916\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ASCII_Content_Server/input -o /dev/shm/work/ASCII_Content_Server/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ASCII_Content_Server/ASCII_Content_Server.dict -- data/linux/processed-challenges/ASCII_Content_Server/bin/ASCII_Content_Server\n'
+p91
+I2
+tp92
+a(I5520
+S'start_time     : 1499852158\nlast_update    : 1499857627\nfuzzer_pid     : 4378\ncycles_done    : 0\nexecs_done     : 3768085\nexecs_per_sec  : 696.71\npaths_total    : 188\npaths_favored  : 87\npaths_found    : 187\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 148\npending_favs   : 21\npending_total  : 87\nvariable_paths : 0\nbitmap_cvg     : 1.47%\nunique_crashes : 13\nunique_hangs   : 8\nlast_path      : 1499857624\nlast_crash     : 1499856901\nlast_hang      : 1499855916\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ASCII_Content_Server/input -o /dev/shm/work/ASCII_Content_Server/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ASCII_Content_Server/ASCII_Content_Server.dict -- data/linux/processed-challenges/ASCII_Content_Server/bin/ASCII_Content_Server\n'
+p93
+I7
+tp94
+a(I5640
+S'start_time     : 1499852158\nlast_update    : 1499857747\nfuzzer_pid     : 4378\ncycles_done    : 0\nexecs_done     : 3853158\nexecs_per_sec  : 720.46\npaths_total    : 190\npaths_favored  : 87\npaths_found    : 189\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 148\npending_favs   : 21\npending_total  : 89\nvariable_paths : 0\nbitmap_cvg     : 1.48%\nunique_crashes : 13\nunique_hangs   : 9\nlast_path      : 1499857683\nlast_crash     : 1499856901\nlast_hang      : 1499857634\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ASCII_Content_Server/input -o /dev/shm/work/ASCII_Content_Server/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ASCII_Content_Server/ASCII_Content_Server.dict -- data/linux/processed-challenges/ASCII_Content_Server/bin/ASCII_Content_Server\n'
+p95
+I1
+tp96
+a(I5760
+S'start_time     : 1499852158\nlast_update    : 1499857868\nfuzzer_pid     : 4378\ncycles_done    : 0\nexecs_done     : 3932364\nexecs_per_sec  : 705.21\npaths_total    : 194\npaths_favored  : 90\npaths_found    : 193\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 151\npending_favs   : 23\npending_total  : 91\nvariable_paths : 0\nbitmap_cvg     : 1.49%\nunique_crashes : 13\nunique_hangs   : 10\nlast_path      : 1499857863\nlast_crash     : 1499856901\nlast_hang      : 1499857799\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ASCII_Content_Server/input -o /dev/shm/work/ASCII_Content_Server/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ASCII_Content_Server/ASCII_Content_Server.dict -- data/linux/processed-challenges/ASCII_Content_Server/bin/ASCII_Content_Server\n'
+p97
+I7
+tp98
+a(I5880
+S'start_time     : 1499852158\nlast_update    : 1499857988\nfuzzer_pid     : 4378\ncycles_done    : 0\nexecs_done     : 4018194\nexecs_per_sec  : 723.96\npaths_total    : 198\npaths_favored  : 90\npaths_found    : 197\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 151\npending_favs   : 23\npending_total  : 95\nvariable_paths : 0\nbitmap_cvg     : 1.49%\nunique_crashes : 13\nunique_hangs   : 10\nlast_path      : 1499857925\nlast_crash     : 1499856901\nlast_hang      : 1499857799\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ASCII_Content_Server/input -o /dev/shm/work/ASCII_Content_Server/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ASCII_Content_Server/ASCII_Content_Server.dict -- data/linux/processed-challenges/ASCII_Content_Server/bin/ASCII_Content_Server\n'
+p99
+I1
+tp100
+a(I6000
+S'start_time     : 1499852158\nlast_update    : 1499858108\nfuzzer_pid     : 4378\ncycles_done    : 0\nexecs_done     : 4105817\nexecs_per_sec  : 754.06\npaths_total    : 199\npaths_favored  : 90\npaths_found    : 198\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 151\npending_favs   : 23\npending_total  : 96\nvariable_paths : 0\nbitmap_cvg     : 1.49%\nunique_crashes : 13\nunique_hangs   : 10\nlast_path      : 1499858010\nlast_crash     : 1499856901\nlast_hang      : 1499857799\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ASCII_Content_Server/input -o /dev/shm/work/ASCII_Content_Server/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ASCII_Content_Server/ASCII_Content_Server.dict -- data/linux/processed-challenges/ASCII_Content_Server/bin/ASCII_Content_Server\n'
+p101
+I1
+tp102
+a(I6120
+S'start_time     : 1499852158\nlast_update    : 1499858228\nfuzzer_pid     : 4378\ncycles_done    : 0\nexecs_done     : 4190231\nexecs_per_sec  : 704.70\npaths_total    : 203\npaths_favored  : 95\npaths_found    : 202\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 155\npending_favs   : 25\npending_total  : 98\nvariable_paths : 0\nbitmap_cvg     : 1.50%\nunique_crashes : 13\nunique_hangs   : 10\nlast_path      : 1499858221\nlast_crash     : 1499856901\nlast_hang      : 1499857799\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ASCII_Content_Server/input -o /dev/shm/work/ASCII_Content_Server/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ASCII_Content_Server/ASCII_Content_Server.dict -- data/linux/processed-challenges/ASCII_Content_Server/bin/ASCII_Content_Server\n'
+p103
+I5
+tp104
+a(I6240
+S'start_time     : 1499852158\nlast_update    : 1499858349\nfuzzer_pid     : 4378\ncycles_done    : 0\nexecs_done     : 4275032\nexecs_per_sec  : 685.34\npaths_total    : 206\npaths_favored  : 95\npaths_found    : 205\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 159\npending_favs   : 28\npending_total  : 100\nvariable_paths : 0\nbitmap_cvg     : 1.52%\nunique_crashes : 14\nunique_hangs   : 10\nlast_path      : 1499858298\nlast_crash     : 1499858295\nlast_hang      : 1499857799\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ASCII_Content_Server/input -o /dev/shm/work/ASCII_Content_Server/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ASCII_Content_Server/ASCII_Content_Server.dict -- data/linux/processed-challenges/ASCII_Content_Server/bin/ASCII_Content_Server\n'
+p105
+I1
+tp106
+a(I6360
+S'start_time     : 1499852158\nlast_update    : 1499858469\nfuzzer_pid     : 4378\ncycles_done    : 0\nexecs_done     : 4357693\nexecs_per_sec  : 703.80\npaths_total    : 209\npaths_favored  : 97\npaths_found    : 208\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 165\npending_favs   : 28\npending_total  : 102\nvariable_paths : 0\nbitmap_cvg     : 1.52%\nunique_crashes : 14\nunique_hangs   : 11\nlast_path      : 1499858458\nlast_crash     : 1499858295\nlast_hang      : 1499858411\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ASCII_Content_Server/input -o /dev/shm/work/ASCII_Content_Server/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ASCII_Content_Server/ASCII_Content_Server.dict -- data/linux/processed-challenges/ASCII_Content_Server/bin/ASCII_Content_Server\n'
+p107
+I4
+tp108
+a(I6480
+S'start_time     : 1499852158\nlast_update    : 1499858589\nfuzzer_pid     : 4378\ncycles_done    : 0\nexecs_done     : 4444331\nexecs_per_sec  : 708.17\npaths_total    : 211\npaths_favored  : 97\npaths_found    : 210\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 165\npending_favs   : 28\npending_total  : 104\nvariable_paths : 0\nbitmap_cvg     : 1.52%\nunique_crashes : 14\nunique_hangs   : 11\nlast_path      : 1499858529\nlast_crash     : 1499858295\nlast_hang      : 1499858411\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ASCII_Content_Server/input -o /dev/shm/work/ASCII_Content_Server/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ASCII_Content_Server/ASCII_Content_Server.dict -- data/linux/processed-challenges/ASCII_Content_Server/bin/ASCII_Content_Server\n'
+p109
+I1
+tp110
+a(I6600
+S'start_time     : 1499852158\nlast_update    : 1499858709\nfuzzer_pid     : 4378\ncycles_done    : 0\nexecs_done     : 4531048\nexecs_per_sec  : 701.44\npaths_total    : 214\npaths_favored  : 97\npaths_found    : 213\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 166\npending_favs   : 27\npending_total  : 106\nvariable_paths : 0\nbitmap_cvg     : 1.52%\nunique_crashes : 14\nunique_hangs   : 11\nlast_path      : 1499858706\nlast_crash     : 1499858295\nlast_hang      : 1499858411\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ASCII_Content_Server/input -o /dev/shm/work/ASCII_Content_Server/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ASCII_Content_Server/ASCII_Content_Server.dict -- data/linux/processed-challenges/ASCII_Content_Server/bin/ASCII_Content_Server\n'
+p111
+I3
+tp112
+a(I6720
+S'start_time     : 1499852158\nlast_update    : 1499858829\nfuzzer_pid     : 4378\ncycles_done    : 0\nexecs_done     : 4617928\nexecs_per_sec  : 737.76\npaths_total    : 214\npaths_favored  : 97\npaths_found    : 213\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 166\npending_favs   : 27\npending_total  : 106\nvariable_paths : 0\nbitmap_cvg     : 1.52%\nunique_crashes : 14\nunique_hangs   : 11\nlast_path      : 1499858706\nlast_crash     : 1499858295\nlast_hang      : 1499858411\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ASCII_Content_Server/input -o /dev/shm/work/ASCII_Content_Server/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ASCII_Content_Server/ASCII_Content_Server.dict -- data/linux/processed-challenges/ASCII_Content_Server/bin/ASCII_Content_Server\n'
+p113
+I0
+tp114
+a(I6840
+S'start_time     : 1499852158\nlast_update    : 1499858949\nfuzzer_pid     : 4378\ncycles_done    : 0\nexecs_done     : 4705812\nexecs_per_sec  : 754.05\npaths_total    : 214\npaths_favored  : 97\npaths_found    : 213\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 169\npending_favs   : 27\npending_total  : 105\nvariable_paths : 0\nbitmap_cvg     : 1.52%\nunique_crashes : 14\nunique_hangs   : 11\nlast_path      : 1499858706\nlast_crash     : 1499858295\nlast_hang      : 1499858411\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ASCII_Content_Server/input -o /dev/shm/work/ASCII_Content_Server/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ASCII_Content_Server/ASCII_Content_Server.dict -- data/linux/processed-challenges/ASCII_Content_Server/bin/ASCII_Content_Server\n'
+p115
+I0
+tp116
+a(I6960
+S'start_time     : 1499852158\nlast_update    : 1499859070\nfuzzer_pid     : 4378\ncycles_done    : 0\nexecs_done     : 4776578\nexecs_per_sec  : 57.50\npaths_total    : 215\npaths_favored  : 97\npaths_found    : 214\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 171\npending_favs   : 25\npending_total  : 104\nvariable_paths : 0\nbitmap_cvg     : 1.52%\nunique_crashes : 14\nunique_hangs   : 11\nlast_path      : 1499859027\nlast_crash     : 1499858295\nlast_hang      : 1499858411\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ASCII_Content_Server/input -o /dev/shm/work/ASCII_Content_Server/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ASCII_Content_Server/ASCII_Content_Server.dict -- data/linux/processed-challenges/ASCII_Content_Server/bin/ASCII_Content_Server\n'
+p117
+I1
+tp118
+a(I7080
+S'start_time     : 1499852158\nlast_update    : 1499859190\nfuzzer_pid     : 4378\ncycles_done    : 0\nexecs_done     : 4837190\nexecs_per_sec  : 717.74\npaths_total    : 215\npaths_favored  : 98\npaths_found    : 214\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 173\npending_favs   : 24\npending_total  : 102\nvariable_paths : 0\nbitmap_cvg     : 1.52%\nunique_crashes : 14\nunique_hangs   : 14\nlast_path      : 1499859027\nlast_crash     : 1499858295\nlast_hang      : 1499859110\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ASCII_Content_Server/input -o /dev/shm/work/ASCII_Content_Server/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ASCII_Content_Server/ASCII_Content_Server.dict -- data/linux/processed-challenges/ASCII_Content_Server/bin/ASCII_Content_Server\n'
+p119
+I0
+tp120
+a(I7200
+S'start_time     : 1499852158\nlast_update    : 1499859310\nfuzzer_pid     : 4378\ncycles_done    : 0\nexecs_done     : 4924715\nexecs_per_sec  : 712.60\npaths_total    : 216\npaths_favored  : 98\npaths_found    : 215\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 174\npending_favs   : 23\npending_total  : 102\nvariable_paths : 0\nbitmap_cvg     : 1.52%\nunique_crashes : 14\nunique_hangs   : 14\nlast_path      : 1499859289\nlast_crash     : 1499858295\nlast_hang      : 1499859110\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ASCII_Content_Server/input -o /dev/shm/work/ASCII_Content_Server/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ASCII_Content_Server/ASCII_Content_Server.dict -- data/linux/processed-challenges/ASCII_Content_Server/bin/ASCII_Content_Server\n'
+p121
+I2
+tp122
+a(I7320
+S'start_time     : 1499852158\nlast_update    : 1499859430\nfuzzer_pid     : 4378\ncycles_done    : 0\nexecs_done     : 5011619\nexecs_per_sec  : 724.97\npaths_total    : 217\npaths_favored  : 98\npaths_found    : 216\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 175\npending_favs   : 22\npending_total  : 102\nvariable_paths : 0\nbitmap_cvg     : 1.52%\nunique_crashes : 14\nunique_hangs   : 14\nlast_path      : 1499859334\nlast_crash     : 1499858295\nlast_hang      : 1499859110\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ASCII_Content_Server/input -o /dev/shm/work/ASCII_Content_Server/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ASCII_Content_Server/ASCII_Content_Server.dict -- data/linux/processed-challenges/ASCII_Content_Server/bin/ASCII_Content_Server\n'
+p123
+I2
+tp124
+a(I7440
+S'start_time     : 1499852158\nlast_update    : 1499859550\nfuzzer_pid     : 4378\ncycles_done    : 0\nexecs_done     : 5097238\nexecs_per_sec  : 709.81\npaths_total    : 221\npaths_favored  : 99\npaths_found    : 220\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 181\npending_favs   : 22\npending_total  : 104\nvariable_paths : 0\nbitmap_cvg     : 1.54%\nunique_crashes : 14\nunique_hangs   : 14\nlast_path      : 1499859541\nlast_crash     : 1499858295\nlast_hang      : 1499859110\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ASCII_Content_Server/input -o /dev/shm/work/ASCII_Content_Server/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ASCII_Content_Server/ASCII_Content_Server.dict -- data/linux/processed-challenges/ASCII_Content_Server/bin/ASCII_Content_Server\n'
+p125
+I3
+tp126
+a(I7560
+S'start_time     : 1499852158\nlast_update    : 1499859671\nfuzzer_pid     : 4378\ncycles_done    : 0\nexecs_done     : 5181547\nexecs_per_sec  : 683.36\npaths_total    : 223\npaths_favored  : 101\npaths_found    : 222\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 185\npending_favs   : 22\npending_total  : 104\nvariable_paths : 0\nbitmap_cvg     : 1.55%\nunique_crashes : 14\nunique_hangs   : 14\nlast_path      : 1499859651\nlast_crash     : 1499858295\nlast_hang      : 1499859110\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ASCII_Content_Server/input -o /dev/shm/work/ASCII_Content_Server/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ASCII_Content_Server/ASCII_Content_Server.dict -- data/linux/processed-challenges/ASCII_Content_Server/bin/ASCII_Content_Server\n'
+p127
+I4
+tp128
+a(I7680
+S'start_time     : 1499852158\nlast_update    : 1499859791\nfuzzer_pid     : 4378\ncycles_done    : 0\nexecs_done     : 5266538\nexecs_per_sec  : 701.91\npaths_total    : 227\npaths_favored  : 102\npaths_found    : 226\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 186\npending_favs   : 23\npending_total  : 107\nvariable_paths : 0\nbitmap_cvg     : 1.55%\nunique_crashes : 14\nunique_hangs   : 14\nlast_path      : 1499859758\nlast_crash     : 1499858295\nlast_hang      : 1499859110\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ASCII_Content_Server/input -o /dev/shm/work/ASCII_Content_Server/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ASCII_Content_Server/ASCII_Content_Server.dict -- data/linux/processed-challenges/ASCII_Content_Server/bin/ASCII_Content_Server\n'
+p129
+I2
+tp130
+a(I7800
+S'start_time     : 1499852158\nlast_update    : 1499859911\nfuzzer_pid     : 4378\ncycles_done    : 0\nexecs_done     : 5352246\nexecs_per_sec  : 726.75\npaths_total    : 230\npaths_favored  : 102\npaths_found    : 229\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 187\npending_favs   : 22\npending_total  : 109\nvariable_paths : 0\nbitmap_cvg     : 1.56%\nunique_crashes : 14\nunique_hangs   : 14\nlast_path      : 1499859884\nlast_crash     : 1499858295\nlast_hang      : 1499859110\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ASCII_Content_Server/input -o /dev/shm/work/ASCII_Content_Server/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ASCII_Content_Server/ASCII_Content_Server.dict -- data/linux/processed-challenges/ASCII_Content_Server/bin/ASCII_Content_Server\n'
+p131
+I3
+tp132
+a(I7920
+S'start_time     : 1499852158\nlast_update    : 1499860031\nfuzzer_pid     : 4378\ncycles_done    : 0\nexecs_done     : 5436660\nexecs_per_sec  : 694.29\npaths_total    : 233\npaths_favored  : 102\npaths_found    : 232\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 187\npending_favs   : 22\npending_total  : 112\nvariable_paths : 0\nbitmap_cvg     : 1.56%\nunique_crashes : 14\nunique_hangs   : 14\nlast_path      : 1499860016\nlast_crash     : 1499858295\nlast_hang      : 1499859110\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ASCII_Content_Server/input -o /dev/shm/work/ASCII_Content_Server/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ASCII_Content_Server/ASCII_Content_Server.dict -- data/linux/processed-challenges/ASCII_Content_Server/bin/ASCII_Content_Server\n'
+p133
+I2
+tp134
+a(I8040
+S'start_time     : 1499852158\nlast_update    : 1499860151\nfuzzer_pid     : 4378\ncycles_done    : 0\nexecs_done     : 5520806\nexecs_per_sec  : 660.20\npaths_total    : 235\npaths_favored  : 103\npaths_found    : 234\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 189\npending_favs   : 24\npending_total  : 113\nvariable_paths : 0\nbitmap_cvg     : 1.57%\nunique_crashes : 14\nunique_hangs   : 15\nlast_path      : 1499860129\nlast_crash     : 1499858295\nlast_hang      : 1499860150\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ASCII_Content_Server/input -o /dev/shm/work/ASCII_Content_Server/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ASCII_Content_Server/ASCII_Content_Server.dict -- data/linux/processed-challenges/ASCII_Content_Server/bin/ASCII_Content_Server\n'
+p135
+I2
+tp136
+a(I8160
+S'start_time     : 1499852158\nlast_update    : 1499860271\nfuzzer_pid     : 4378\ncycles_done    : 0\nexecs_done     : 5599798\nexecs_per_sec  : 677.85\npaths_total    : 235\npaths_favored  : 104\npaths_found    : 234\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 190\npending_favs   : 25\npending_total  : 112\nvariable_paths : 0\nbitmap_cvg     : 1.57%\nunique_crashes : 14\nunique_hangs   : 15\nlast_path      : 1499860129\nlast_crash     : 1499858295\nlast_hang      : 1499860150\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ASCII_Content_Server/input -o /dev/shm/work/ASCII_Content_Server/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ASCII_Content_Server/ASCII_Content_Server.dict -- data/linux/processed-challenges/ASCII_Content_Server/bin/ASCII_Content_Server\n'
+p137
+I2
+tp138
+a(I8280
+S'start_time     : 1499852158\nlast_update    : 1499860391\nfuzzer_pid     : 4378\ncycles_done    : 0\nexecs_done     : 5677392\nexecs_per_sec  : 681.83\npaths_total    : 237\npaths_favored  : 104\npaths_found    : 236\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 193\npending_favs   : 24\npending_total  : 112\nvariable_paths : 0\nbitmap_cvg     : 1.57%\nunique_crashes : 14\nunique_hangs   : 15\nlast_path      : 1499860319\nlast_crash     : 1499858295\nlast_hang      : 1499860150\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ASCII_Content_Server/input -o /dev/shm/work/ASCII_Content_Server/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ASCII_Content_Server/ASCII_Content_Server.dict -- data/linux/processed-challenges/ASCII_Content_Server/bin/ASCII_Content_Server\n'
+p139
+I1
+tp140
+a(I8400
+S'start_time     : 1499852158\nlast_update    : 1499860512\nfuzzer_pid     : 4378\ncycles_done    : 0\nexecs_done     : 5758266\nexecs_per_sec  : 717.93\npaths_total    : 238\npaths_favored  : 105\npaths_found    : 237\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 194\npending_favs   : 24\npending_total  : 112\nvariable_paths : 0\nbitmap_cvg     : 1.57%\nunique_crashes : 14\nunique_hangs   : 16\nlast_path      : 1499860406\nlast_crash     : 1499858295\nlast_hang      : 1499860493\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ASCII_Content_Server/input -o /dev/shm/work/ASCII_Content_Server/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ASCII_Content_Server/ASCII_Content_Server.dict -- data/linux/processed-challenges/ASCII_Content_Server/bin/ASCII_Content_Server\n'
+p141
+I1
+tp142
+a(I8520
+S'start_time     : 1499852158\nlast_update    : 1499860632\nfuzzer_pid     : 4378\ncycles_done    : 0\nexecs_done     : 5840944\nexecs_per_sec  : 747.31\npaths_total    : 241\npaths_favored  : 105\npaths_found    : 240\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 197\npending_favs   : 23\npending_total  : 114\nvariable_paths : 0\nbitmap_cvg     : 1.57%\nunique_crashes : 15\nunique_hangs   : 16\nlast_path      : 1499860603\nlast_crash     : 1499860574\nlast_hang      : 1499860493\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ASCII_Content_Server/input -o /dev/shm/work/ASCII_Content_Server/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ASCII_Content_Server/ASCII_Content_Server.dict -- data/linux/processed-challenges/ASCII_Content_Server/bin/ASCII_Content_Server\n'
+p143
+I3
+tp144
+a(I8640
+S'start_time     : 1499852158\nlast_update    : 1499860752\nfuzzer_pid     : 4378\ncycles_done    : 0\nexecs_done     : 5926535\nexecs_per_sec  : 710.90\npaths_total    : 244\npaths_favored  : 105\npaths_found    : 243\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 197\npending_favs   : 23\npending_total  : 117\nvariable_paths : 0\nbitmap_cvg     : 1.57%\nunique_crashes : 15\nunique_hangs   : 17\nlast_path      : 1499860740\nlast_crash     : 1499860574\nlast_hang      : 1499860713\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ASCII_Content_Server/input -o /dev/shm/work/ASCII_Content_Server/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ASCII_Content_Server/ASCII_Content_Server.dict -- data/linux/processed-challenges/ASCII_Content_Server/bin/ASCII_Content_Server\n'
+p145
+I2
+tp146
+a(I8760
+S'start_time     : 1499852158\nlast_update    : 1499860872\nfuzzer_pid     : 4378\ncycles_done    : 0\nexecs_done     : 6009610\nexecs_per_sec  : 662.02\npaths_total    : 244\npaths_favored  : 105\npaths_found    : 243\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 198\npending_favs   : 22\npending_total  : 116\nvariable_paths : 0\nbitmap_cvg     : 1.57%\nunique_crashes : 15\nunique_hangs   : 17\nlast_path      : 1499860740\nlast_crash     : 1499860574\nlast_hang      : 1499860713\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ASCII_Content_Server/input -o /dev/shm/work/ASCII_Content_Server/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ASCII_Content_Server/ASCII_Content_Server.dict -- data/linux/processed-challenges/ASCII_Content_Server/bin/ASCII_Content_Server\n'
+p147
+I0
+tp148
+a(I8880
+S'start_time     : 1499852158\nlast_update    : 1499860993\nfuzzer_pid     : 4378\ncycles_done    : 0\nexecs_done     : 6094209\nexecs_per_sec  : 710.28\npaths_total    : 244\npaths_favored  : 105\npaths_found    : 243\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 200\npending_favs   : 20\npending_total  : 114\nvariable_paths : 0\nbitmap_cvg     : 1.57%\nunique_crashes : 15\nunique_hangs   : 18\nlast_path      : 1499860740\nlast_crash     : 1499860574\nlast_hang      : 1499860933\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ASCII_Content_Server/input -o /dev/shm/work/ASCII_Content_Server/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ASCII_Content_Server/ASCII_Content_Server.dict -- data/linux/processed-challenges/ASCII_Content_Server/bin/ASCII_Content_Server\n'
+p149
+I3
+tp150
+a(I9000
+S'start_time     : 1499852158\nlast_update    : 1499861113\nfuzzer_pid     : 4378\ncycles_done    : 0\nexecs_done     : 6177432\nexecs_per_sec  : 700.11\npaths_total    : 247\npaths_favored  : 105\npaths_found    : 246\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 200\npending_favs   : 20\npending_total  : 117\nvariable_paths : 0\nbitmap_cvg     : 1.57%\nunique_crashes : 15\nunique_hangs   : 19\nlast_path      : 1499861039\nlast_crash     : 1499860574\nlast_hang      : 1499861010\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ASCII_Content_Server/input -o /dev/shm/work/ASCII_Content_Server/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ASCII_Content_Server/ASCII_Content_Server.dict -- data/linux/processed-challenges/ASCII_Content_Server/bin/ASCII_Content_Server\n'
+p151
+I0
+tp152
+a(I9120
+S'start_time     : 1499852158\nlast_update    : 1499861233\nfuzzer_pid     : 4378\ncycles_done    : 0\nexecs_done     : 6262023\nexecs_per_sec  : 691.15\npaths_total    : 247\npaths_favored  : 105\npaths_found    : 246\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 200\npending_favs   : 20\npending_total  : 117\nvariable_paths : 0\nbitmap_cvg     : 1.57%\nunique_crashes : 15\nunique_hangs   : 19\nlast_path      : 1499861039\nlast_crash     : 1499860574\nlast_hang      : 1499861010\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ASCII_Content_Server/input -o /dev/shm/work/ASCII_Content_Server/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ASCII_Content_Server/ASCII_Content_Server.dict -- data/linux/processed-challenges/ASCII_Content_Server/bin/ASCII_Content_Server\n'
+p153
+I0
+tp154
+a(I9240
+S'start_time     : 1499852158\nlast_update    : 1499861353\nfuzzer_pid     : 4378\ncycles_done    : 0\nexecs_done     : 6345582\nexecs_per_sec  : 709.95\npaths_total    : 247\npaths_favored  : 105\npaths_found    : 246\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 204\npending_favs   : 18\npending_total  : 115\nvariable_paths : 0\nbitmap_cvg     : 1.57%\nunique_crashes : 15\nunique_hangs   : 20\nlast_path      : 1499861039\nlast_crash     : 1499860574\nlast_hang      : 1499861289\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ASCII_Content_Server/input -o /dev/shm/work/ASCII_Content_Server/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ASCII_Content_Server/ASCII_Content_Server.dict -- data/linux/processed-challenges/ASCII_Content_Server/bin/ASCII_Content_Server\n'
+p155
+I2
+tp156
+a(I9360
+S'start_time     : 1499852158\nlast_update    : 1499861473\nfuzzer_pid     : 4378\ncycles_done    : 0\nexecs_done     : 6430268\nexecs_per_sec  : 690.15\npaths_total    : 250\npaths_favored  : 105\npaths_found    : 249\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 204\npending_favs   : 18\npending_total  : 118\nvariable_paths : 0\nbitmap_cvg     : 1.57%\nunique_crashes : 16\nunique_hangs   : 22\nlast_path      : 1499861424\nlast_crash     : 1499861360\nlast_hang      : 1499861430\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ASCII_Content_Server/input -o /dev/shm/work/ASCII_Content_Server/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ASCII_Content_Server/ASCII_Content_Server.dict -- data/linux/processed-challenges/ASCII_Content_Server/bin/ASCII_Content_Server\n'
+p157
+I6
+tp158
+a(I9480
+S'start_time     : 1499852158\nlast_update    : 1499861594\nfuzzer_pid     : 4378\ncycles_done    : 0\nexecs_done     : 6514271\nexecs_per_sec  : 609.08\npaths_total    : 255\npaths_favored  : 107\npaths_found    : 254\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 211\npending_favs   : 21\npending_total  : 121\nvariable_paths : 0\nbitmap_cvg     : 1.58%\nunique_crashes : 17\nunique_hangs   : 23\nlast_path      : 1499861508\nlast_crash     : 1499861529\nlast_hang      : 1499861539\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ASCII_Content_Server/input -o /dev/shm/work/ASCII_Content_Server/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ASCII_Content_Server/ASCII_Content_Server.dict -- data/linux/processed-challenges/ASCII_Content_Server/bin/ASCII_Content_Server\n'
+p159
+I0
+tp160
+a(I9600
+S'start_time     : 1499852158\nlast_update    : 1499861714\nfuzzer_pid     : 4378\ncycles_done    : 0\nexecs_done     : 6578635\nexecs_per_sec  : 697.76\npaths_total    : 255\npaths_favored  : 107\npaths_found    : 254\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 214\npending_favs   : 20\npending_total  : 120\nvariable_paths : 0\nbitmap_cvg     : 1.58%\nunique_crashes : 17\nunique_hangs   : 23\nlast_path      : 1499861508\nlast_crash     : 1499861529\nlast_hang      : 1499861539\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ASCII_Content_Server/input -o /dev/shm/work/ASCII_Content_Server/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ASCII_Content_Server/ASCII_Content_Server.dict -- data/linux/processed-challenges/ASCII_Content_Server/bin/ASCII_Content_Server\n'
+p161
+I0
+tp162
+a(I9720
+S'start_time     : 1499852158\nlast_update    : 1499861834\nfuzzer_pid     : 4378\ncycles_done    : 0\nexecs_done     : 6663885\nexecs_per_sec  : 724.46\npaths_total    : 255\npaths_favored  : 107\npaths_found    : 254\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 218\npending_favs   : 18\npending_total  : 118\nvariable_paths : 0\nbitmap_cvg     : 1.58%\nunique_crashes : 20\nunique_hangs   : 23\nlast_path      : 1499861508\nlast_crash     : 1499861741\nlast_hang      : 1499861539\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ASCII_Content_Server/input -o /dev/shm/work/ASCII_Content_Server/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ASCII_Content_Server/ASCII_Content_Server.dict -- data/linux/processed-challenges/ASCII_Content_Server/bin/ASCII_Content_Server\n'
+p163
+I0
+tp164
+a(I9840
+S'start_time     : 1499852158\nlast_update    : 1499861954\nfuzzer_pid     : 4378\ncycles_done    : 0\nexecs_done     : 6748112\nexecs_per_sec  : 707.84\npaths_total    : 255\npaths_favored  : 107\npaths_found    : 254\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 221\npending_favs   : 16\npending_total  : 116\nvariable_paths : 0\nbitmap_cvg     : 1.58%\nunique_crashes : 20\nunique_hangs   : 23\nlast_path      : 1499861508\nlast_crash     : 1499861741\nlast_hang      : 1499861539\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ASCII_Content_Server/input -o /dev/shm/work/ASCII_Content_Server/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ASCII_Content_Server/ASCII_Content_Server.dict -- data/linux/processed-challenges/ASCII_Content_Server/bin/ASCII_Content_Server\n'
+p165
+I0
+tp166
+a(I9960
+S'start_time     : 1499852158\nlast_update    : 1499862074\nfuzzer_pid     : 4378\ncycles_done    : 0\nexecs_done     : 6832313\nexecs_per_sec  : 686.15\npaths_total    : 256\npaths_favored  : 107\npaths_found    : 255\npaths_imported : 0\nmax_depth      : 12\ncur_path       : 222\npending_favs   : 15\npending_total  : 116\nvariable_paths : 0\nbitmap_cvg     : 1.58%\nunique_crashes : 20\nunique_hangs   : 23\nlast_path      : 1499862064\nlast_crash     : 1499861741\nlast_hang      : 1499861539\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ASCII_Content_Server/input -o /dev/shm/work/ASCII_Content_Server/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ASCII_Content_Server/ASCII_Content_Server.dict -- data/linux/processed-challenges/ASCII_Content_Server/bin/ASCII_Content_Server\n'
+p167
+I1
+tp168
+a(I10080
+S'start_time     : 1499852158\nlast_update    : 1499862195\nfuzzer_pid     : 4378\ncycles_done    : 0\nexecs_done     : 6916241\nexecs_per_sec  : 732.31\npaths_total    : 256\npaths_favored  : 107\npaths_found    : 255\npaths_imported : 0\nmax_depth      : 12\ncur_path       : 227\npending_favs   : 13\npending_total  : 114\nvariable_paths : 0\nbitmap_cvg     : 1.58%\nunique_crashes : 21\nunique_hangs   : 23\nlast_path      : 1499862064\nlast_crash     : 1499862117\nlast_hang      : 1499861539\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ASCII_Content_Server/input -o /dev/shm/work/ASCII_Content_Server/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ASCII_Content_Server/ASCII_Content_Server.dict -- data/linux/processed-challenges/ASCII_Content_Server/bin/ASCII_Content_Server\n'
+p169
+I1
+tp170
+a(I10200
+S'start_time     : 1499852158\nlast_update    : 1499862315\nfuzzer_pid     : 4378\ncycles_done    : 0\nexecs_done     : 7000266\nexecs_per_sec  : 671.55\npaths_total    : 257\npaths_favored  : 108\npaths_found    : 256\npaths_imported : 0\nmax_depth      : 12\ncur_path       : 228\npending_favs   : 13\npending_total  : 114\nvariable_paths : 0\nbitmap_cvg     : 1.58%\nunique_crashes : 21\nunique_hangs   : 23\nlast_path      : 1499862239\nlast_crash     : 1499862117\nlast_hang      : 1499861539\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ASCII_Content_Server/input -o /dev/shm/work/ASCII_Content_Server/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ASCII_Content_Server/ASCII_Content_Server.dict -- data/linux/processed-challenges/ASCII_Content_Server/bin/ASCII_Content_Server\n'
+p171
+I1
+tp172
+a(I10320
+S'start_time     : 1499852158\nlast_update    : 1499862435\nfuzzer_pid     : 4378\ncycles_done    : 0\nexecs_done     : 7081783\nexecs_per_sec  : 655.63\npaths_total    : 261\npaths_favored  : 108\npaths_found    : 260\npaths_imported : 0\nmax_depth      : 12\ncur_path       : 231\npending_favs   : 12\npending_total  : 117\nvariable_paths : 0\nbitmap_cvg     : 1.59%\nunique_crashes : 22\nunique_hangs   : 23\nlast_path      : 1499862425\nlast_crash     : 1499862421\nlast_hang      : 1499861539\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ASCII_Content_Server/input -o /dev/shm/work/ASCII_Content_Server/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ASCII_Content_Server/ASCII_Content_Server.dict -- data/linux/processed-challenges/ASCII_Content_Server/bin/ASCII_Content_Server\n'
+p173
+I4
+tp174
+a(I10440
+S'start_time     : 1499852158\nlast_update    : 1499862555\nfuzzer_pid     : 4378\ncycles_done    : 0\nexecs_done     : 7160851\nexecs_per_sec  : 651.33\npaths_total    : 262\npaths_favored  : 109\npaths_found    : 261\npaths_imported : 0\nmax_depth      : 12\ncur_path       : 233\npending_favs   : 14\npending_total  : 117\nvariable_paths : 0\nbitmap_cvg     : 1.59%\nunique_crashes : 22\nunique_hangs   : 24\nlast_path      : 1499862451\nlast_crash     : 1499862421\nlast_hang      : 1499862440\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ASCII_Content_Server/input -o /dev/shm/work/ASCII_Content_Server/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ASCII_Content_Server/ASCII_Content_Server.dict -- data/linux/processed-challenges/ASCII_Content_Server/bin/ASCII_Content_Server\n'
+p175
+I0
+tp176
+a(I10560
+S'start_time     : 1499852158\nlast_update    : 1499862675\nfuzzer_pid     : 4378\ncycles_done    : 0\nexecs_done     : 7239031\nexecs_per_sec  : 629.38\npaths_total    : 264\npaths_favored  : 109\npaths_found    : 263\npaths_imported : 0\nmax_depth      : 12\ncur_path       : 234\npending_favs   : 13\npending_total  : 118\nvariable_paths : 0\nbitmap_cvg     : 1.59%\nunique_crashes : 22\nunique_hangs   : 24\nlast_path      : 1499862635\nlast_crash     : 1499862421\nlast_hang      : 1499862440\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ASCII_Content_Server/input -o /dev/shm/work/ASCII_Content_Server/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ASCII_Content_Server/ASCII_Content_Server.dict -- data/linux/processed-challenges/ASCII_Content_Server/bin/ASCII_Content_Server\n'
+p177
+I3
+tp178
+a(I10680
+S'start_time     : 1499852158\nlast_update    : 1499862796\nfuzzer_pid     : 4378\ncycles_done    : 0\nexecs_done     : 7318965\nexecs_per_sec  : 701.16\npaths_total    : 265\npaths_favored  : 110\npaths_found    : 264\npaths_imported : 0\nmax_depth      : 12\ncur_path       : 236\npending_favs   : 13\npending_total  : 117\nvariable_paths : 0\nbitmap_cvg     : 1.59%\nunique_crashes : 22\nunique_hangs   : 24\nlast_path      : 1499862727\nlast_crash     : 1499862421\nlast_hang      : 1499862440\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ASCII_Content_Server/input -o /dev/shm/work/ASCII_Content_Server/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ASCII_Content_Server/ASCII_Content_Server.dict -- data/linux/processed-challenges/ASCII_Content_Server/bin/ASCII_Content_Server\n'
+p179
+I0
+tp180
+a.

@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/libcgc.h
+
+/vagrant/driller/data/linux/processed-challenges/Flight_Routes/pov_2/pov.c
+libcgc.h
+-
+

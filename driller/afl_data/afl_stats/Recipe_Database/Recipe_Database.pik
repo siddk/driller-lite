@@ -1,0 +1,452 @@
+(lp0
+(I0
+S'start_time     : 1500295812\nlast_update    : 1500295812\nfuzzer_pid     : 16614\ncycles_done    : 0\nexecs_done     : 10\nexecs_per_sec  : 222.22\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 1\npending_total  : 1\nvariable_paths : 0\nbitmap_cvg     : 0.09%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_Database/input -o /dev/shm/work/Recipe_Database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_Database/Recipe_Database.dict -- data/linux/processed-challenges/Recipe_Database/bin/Recipe_Database\n'
+p1
+I19
+tp2
+a(I120
+S'start_time     : 1500295812\nlast_update    : 1500295932\nfuzzer_pid     : 16614\ncycles_done    : 0\nexecs_done     : 133401\nexecs_per_sec  : 1137.95\npaths_total    : 39\npaths_favored  : 1\npaths_found    : 38\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 1\npending_total  : 39\nvariable_paths : 0\nbitmap_cvg     : 0.33%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500295915\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_Database/input -o /dev/shm/work/Recipe_Database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_Database/Recipe_Database.dict -- data/linux/processed-challenges/Recipe_Database/bin/Recipe_Database\n'
+p3
+I21
+tp4
+a(I240
+S'start_time     : 1500295812\nlast_update    : 1500296052\nfuzzer_pid     : 16614\ncycles_done    : 0\nexecs_done     : 267433\nexecs_per_sec  : 1180.05\npaths_total    : 65\npaths_favored  : 21\npaths_found    : 64\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 2\npending_favs   : 21\npending_total  : 64\nvariable_paths : 0\nbitmap_cvg     : 0.45%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500296049\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_Database/input -o /dev/shm/work/Recipe_Database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_Database/Recipe_Database.dict -- data/linux/processed-challenges/Recipe_Database/bin/Recipe_Database\n'
+p5
+I25
+tp6
+a(I360
+S'start_time     : 1500295812\nlast_update    : 1500296172\nfuzzer_pid     : 16614\ncycles_done    : 0\nexecs_done     : 397267\nexecs_per_sec  : 1072.27\npaths_total    : 78\npaths_favored  : 38\npaths_found    : 77\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 28\npending_favs   : 31\npending_total  : 69\nvariable_paths : 0\nbitmap_cvg     : 0.47%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500296161\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_Database/input -o /dev/shm/work/Recipe_Database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_Database/Recipe_Database.dict -- data/linux/processed-challenges/Recipe_Database/bin/Recipe_Database\n'
+p7
+I13
+tp8
+a(I480
+S'start_time     : 1500295812\nlast_update    : 1500296292\nfuzzer_pid     : 16614\ncycles_done    : 0\nexecs_done     : 521601\nexecs_per_sec  : 961.49\npaths_total    : 102\npaths_favored  : 39\npaths_found    : 101\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 32\npending_favs   : 30\npending_total  : 91\nvariable_paths : 0\nbitmap_cvg     : 0.69%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500296282\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_Database/input -o /dev/shm/work/Recipe_Database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_Database/Recipe_Database.dict -- data/linux/processed-challenges/Recipe_Database/bin/Recipe_Database\n'
+p9
+I25
+tp10
+a(I600
+S'start_time     : 1500295812\nlast_update    : 1500296412\nfuzzer_pid     : 16614\ncycles_done    : 0\nexecs_done     : 638763\nexecs_per_sec  : 996.06\npaths_total    : 118\npaths_favored  : 39\npaths_found    : 117\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 32\npending_favs   : 30\npending_total  : 107\nvariable_paths : 0\nbitmap_cvg     : 0.71%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500296411\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_Database/input -o /dev/shm/work/Recipe_Database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_Database/Recipe_Database.dict -- data/linux/processed-challenges/Recipe_Database/bin/Recipe_Database\n'
+p11
+I15
+tp12
+a(I720
+S'start_time     : 1500295812\nlast_update    : 1500296533\nfuzzer_pid     : 16614\ncycles_done    : 0\nexecs_done     : 763673\nexecs_per_sec  : 1041.04\npaths_total    : 136\npaths_favored  : 54\npaths_found    : 135\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 34\npending_favs   : 44\npending_total  : 123\nvariable_paths : 0\nbitmap_cvg     : 0.75%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500296509\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_Database/input -o /dev/shm/work/Recipe_Database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_Database/Recipe_Database.dict -- data/linux/processed-challenges/Recipe_Database/bin/Recipe_Database\n'
+p13
+I18
+tp14
+a(I840
+S'start_time     : 1500295812\nlast_update    : 1500296653\nfuzzer_pid     : 16614\ncycles_done    : 0\nexecs_done     : 891084\nexecs_per_sec  : 1072.02\npaths_total    : 146\npaths_favored  : 61\npaths_found    : 145\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 44\npending_favs   : 50\npending_total  : 129\nvariable_paths : 0\nbitmap_cvg     : 0.76%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500296651\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_Database/input -o /dev/shm/work/Recipe_Database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_Database/Recipe_Database.dict -- data/linux/processed-challenges/Recipe_Database/bin/Recipe_Database\n'
+p15
+I12
+tp16
+a(I960
+S'start_time     : 1500295812\nlast_update    : 1500296773\nfuzzer_pid     : 16614\ncycles_done    : 0\nexecs_done     : 1018213\nexecs_per_sec  : 1044.82\npaths_total    : 165\npaths_favored  : 61\npaths_found    : 164\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 44\npending_favs   : 50\npending_total  : 148\nvariable_paths : 0\nbitmap_cvg     : 0.93%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500296770\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_Database/input -o /dev/shm/work/Recipe_Database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_Database/Recipe_Database.dict -- data/linux/processed-challenges/Recipe_Database/bin/Recipe_Database\n'
+p17
+I17
+tp18
+a(I1080
+S'start_time     : 1500295812\nlast_update    : 1500296893\nfuzzer_pid     : 16614\ncycles_done    : 0\nexecs_done     : 1142762\nexecs_per_sec  : 1064.20\npaths_total    : 174\npaths_favored  : 69\npaths_found    : 173\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 60\npending_favs   : 50\npending_total  : 147\nvariable_paths : 0\nbitmap_cvg     : 0.94%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500296882\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_Database/input -o /dev/shm/work/Recipe_Database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_Database/Recipe_Database.dict -- data/linux/processed-challenges/Recipe_Database/bin/Recipe_Database\n'
+p19
+I9
+tp20
+a(I1200
+S'start_time     : 1500295812\nlast_update    : 1500297014\nfuzzer_pid     : 16614\ncycles_done    : 0\nexecs_done     : 1268695\nexecs_per_sec  : 1035.30\npaths_total    : 178\npaths_favored  : 69\npaths_found    : 177\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 60\npending_favs   : 50\npending_total  : 151\nvariable_paths : 0\nbitmap_cvg     : 0.94%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500296985\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_Database/input -o /dev/shm/work/Recipe_Database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_Database/Recipe_Database.dict -- data/linux/processed-challenges/Recipe_Database/bin/Recipe_Database\n'
+p21
+I4
+tp22
+a(I1320
+S'start_time     : 1500295812\nlast_update    : 1500297134\nfuzzer_pid     : 16614\ncycles_done    : 0\nexecs_done     : 1391118\nexecs_per_sec  : 1006.26\npaths_total    : 189\npaths_favored  : 71\npaths_found    : 188\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 89\npending_favs   : 42\npending_total  : 150\nvariable_paths : 0\nbitmap_cvg     : 0.96%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500297130\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_Database/input -o /dev/shm/work/Recipe_Database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_Database/Recipe_Database.dict -- data/linux/processed-challenges/Recipe_Database/bin/Recipe_Database\n'
+p23
+I11
+tp24
+a(I1440
+S'start_time     : 1500295812\nlast_update    : 1500297254\nfuzzer_pid     : 16614\ncycles_done    : 0\nexecs_done     : 1514288\nexecs_per_sec  : 1035.28\npaths_total    : 200\npaths_favored  : 71\npaths_found    : 199\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 89\npending_favs   : 42\npending_total  : 161\nvariable_paths : 0\nbitmap_cvg     : 1.01%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500297244\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_Database/input -o /dev/shm/work/Recipe_Database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_Database/Recipe_Database.dict -- data/linux/processed-challenges/Recipe_Database/bin/Recipe_Database\n'
+p25
+I12
+tp26
+a(I1560
+S'start_time     : 1500295812\nlast_update    : 1500297374\nfuzzer_pid     : 16614\ncycles_done    : 0\nexecs_done     : 1630674\nexecs_per_sec  : 965.71\npaths_total    : 230\npaths_favored  : 83\npaths_found    : 229\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 98\npending_favs   : 53\npending_total  : 189\nvariable_paths : 0\nbitmap_cvg     : 1.03%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500297371\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_Database/input -o /dev/shm/work/Recipe_Database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_Database/Recipe_Database.dict -- data/linux/processed-challenges/Recipe_Database/bin/Recipe_Database\n'
+p27
+I30
+tp28
+a(I1680
+S'start_time     : 1500295812\nlast_update    : 1500297495\nfuzzer_pid     : 16614\ncycles_done    : 0\nexecs_done     : 1746582\nexecs_per_sec  : 954.18\npaths_total    : 241\npaths_favored  : 93\npaths_found    : 240\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 100\npending_favs   : 62\npending_total  : 199\nvariable_paths : 0\nbitmap_cvg     : 1.04%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500297461\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_Database/input -o /dev/shm/work/Recipe_Database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_Database/Recipe_Database.dict -- data/linux/processed-challenges/Recipe_Database/bin/Recipe_Database\n'
+p29
+I11
+tp30
+a(I1800
+S'start_time     : 1500295812\nlast_update    : 1500297615\nfuzzer_pid     : 16614\ncycles_done    : 0\nexecs_done     : 1862329\nexecs_per_sec  : 1007.25\npaths_total    : 246\npaths_favored  : 93\npaths_found    : 245\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 125\npending_favs   : 55\npending_total  : 196\nvariable_paths : 0\nbitmap_cvg     : 1.05%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500297609\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_Database/input -o /dev/shm/work/Recipe_Database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_Database/Recipe_Database.dict -- data/linux/processed-challenges/Recipe_Database/bin/Recipe_Database\n'
+p31
+I4
+tp32
+a(I1920
+S'start_time     : 1500295812\nlast_update    : 1500297735\nfuzzer_pid     : 16614\ncycles_done    : 0\nexecs_done     : 1974403\nexecs_per_sec  : 946.30\npaths_total    : 251\npaths_favored  : 94\npaths_found    : 250\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 141\npending_favs   : 48\npending_total  : 193\nvariable_paths : 0\nbitmap_cvg     : 1.05%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500297723\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_Database/input -o /dev/shm/work/Recipe_Database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_Database/Recipe_Database.dict -- data/linux/processed-challenges/Recipe_Database/bin/Recipe_Database\n'
+p33
+I6
+tp34
+a(I2040
+S'start_time     : 1500295812\nlast_update    : 1500297855\nfuzzer_pid     : 16614\ncycles_done    : 0\nexecs_done     : 2088172\nexecs_per_sec  : 986.72\npaths_total    : 257\npaths_favored  : 93\npaths_found    : 256\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 142\npending_favs   : 49\npending_total  : 198\nvariable_paths : 0\nbitmap_cvg     : 1.16%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500297847\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_Database/input -o /dev/shm/work/Recipe_Database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_Database/Recipe_Database.dict -- data/linux/processed-challenges/Recipe_Database/bin/Recipe_Database\n'
+p35
+I6
+tp36
+a(I2160
+S'start_time     : 1500295812\nlast_update    : 1500297975\nfuzzer_pid     : 16614\ncycles_done    : 0\nexecs_done     : 2207258\nexecs_per_sec  : 967.75\npaths_total    : 264\npaths_favored  : 93\npaths_found    : 263\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 142\npending_favs   : 49\npending_total  : 205\nvariable_paths : 0\nbitmap_cvg     : 1.18%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500297966\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_Database/input -o /dev/shm/work/Recipe_Database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_Database/Recipe_Database.dict -- data/linux/processed-challenges/Recipe_Database/bin/Recipe_Database\n'
+p37
+I6
+tp38
+a(I2280
+S'start_time     : 1500295812\nlast_update    : 1500298096\nfuzzer_pid     : 16614\ncycles_done    : 0\nexecs_done     : 2319140\nexecs_per_sec  : 954.62\npaths_total    : 275\npaths_favored  : 91\npaths_found    : 274\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 148\npending_favs   : 48\npending_total  : 215\nvariable_paths : 0\nbitmap_cvg     : 1.19%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500298091\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_Database/input -o /dev/shm/work/Recipe_Database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_Database/Recipe_Database.dict -- data/linux/processed-challenges/Recipe_Database/bin/Recipe_Database\n'
+p39
+I11
+tp40
+a(I2400
+S'start_time     : 1500295812\nlast_update    : 1500298216\nfuzzer_pid     : 16614\ncycles_done    : 0\nexecs_done     : 2428431\nexecs_per_sec  : 842.52\npaths_total    : 287\npaths_favored  : 95\npaths_found    : 286\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 175\npending_favs   : 50\npending_total  : 223\nvariable_paths : 0\nbitmap_cvg     : 1.23%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500298200\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_Database/input -o /dev/shm/work/Recipe_Database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_Database/Recipe_Database.dict -- data/linux/processed-challenges/Recipe_Database/bin/Recipe_Database\n'
+p41
+I14
+tp42
+a(I2520
+S'start_time     : 1500295812\nlast_update    : 1500298336\nfuzzer_pid     : 16614\ncycles_done    : 0\nexecs_done     : 2530432\nexecs_per_sec  : 884.63\npaths_total    : 297\npaths_favored  : 95\npaths_found    : 296\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 175\npending_favs   : 50\npending_total  : 233\nvariable_paths : 0\nbitmap_cvg     : 1.31%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500298302\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_Database/input -o /dev/shm/work/Recipe_Database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_Database/Recipe_Database.dict -- data/linux/processed-challenges/Recipe_Database/bin/Recipe_Database\n'
+p43
+I8
+tp44
+a(I2640
+S'start_time     : 1500295812\nlast_update    : 1500298456\nfuzzer_pid     : 16614\ncycles_done    : 0\nexecs_done     : 2641119\nexecs_per_sec  : 1081.23\npaths_total    : 303\npaths_favored  : 98\npaths_found    : 302\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 183\npending_favs   : 52\npending_total  : 233\nvariable_paths : 0\nbitmap_cvg     : 1.32%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500298448\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_Database/input -o /dev/shm/work/Recipe_Database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_Database/Recipe_Database.dict -- data/linux/processed-challenges/Recipe_Database/bin/Recipe_Database\n'
+p45
+I7
+tp46
+a(I2760
+S'start_time     : 1500295812\nlast_update    : 1500298576\nfuzzer_pid     : 16614\ncycles_done    : 0\nexecs_done     : 2759203\nexecs_per_sec  : 1025.00\npaths_total    : 310\npaths_favored  : 98\npaths_found    : 309\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 191\npending_favs   : 49\npending_total  : 236\nvariable_paths : 0\nbitmap_cvg     : 1.32%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500298550\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_Database/input -o /dev/shm/work/Recipe_Database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_Database/Recipe_Database.dict -- data/linux/processed-challenges/Recipe_Database/bin/Recipe_Database\n'
+p47
+I6
+tp48
+a(I2880
+S'start_time     : 1500295812\nlast_update    : 1500298697\nfuzzer_pid     : 16614\ncycles_done    : 0\nexecs_done     : 2879130\nexecs_per_sec  : 985.03\npaths_total    : 312\npaths_favored  : 98\npaths_found    : 311\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 198\npending_favs   : 48\npending_total  : 236\nvariable_paths : 0\nbitmap_cvg     : 1.32%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500298639\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_Database/input -o /dev/shm/work/Recipe_Database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_Database/Recipe_Database.dict -- data/linux/processed-challenges/Recipe_Database/bin/Recipe_Database\n'
+p49
+I2
+tp50
+a(I3000
+S'start_time     : 1500295812\nlast_update    : 1500298817\nfuzzer_pid     : 16614\ncycles_done    : 0\nexecs_done     : 2981578\nexecs_per_sec  : 878.52\npaths_total    : 323\npaths_favored  : 98\npaths_found    : 322\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 199\npending_favs   : 47\npending_total  : 246\nvariable_paths : 0\nbitmap_cvg     : 1.32%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500298779\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_Database/input -o /dev/shm/work/Recipe_Database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_Database/Recipe_Database.dict -- data/linux/processed-challenges/Recipe_Database/bin/Recipe_Database\n'
+p51
+I11
+tp52
+a(I3120
+S'start_time     : 1500295812\nlast_update    : 1500298937\nfuzzer_pid     : 16614\ncycles_done    : 0\nexecs_done     : 3087645\nexecs_per_sec  : 1001.23\npaths_total    : 328\npaths_favored  : 95\npaths_found    : 327\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 204\npending_favs   : 45\npending_total  : 249\nvariable_paths : 0\nbitmap_cvg     : 1.33%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500298926\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_Database/input -o /dev/shm/work/Recipe_Database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_Database/Recipe_Database.dict -- data/linux/processed-challenges/Recipe_Database/bin/Recipe_Database\n'
+p53
+I6
+tp54
+a(I3240
+S'start_time     : 1500295812\nlast_update    : 1500299057\nfuzzer_pid     : 16614\ncycles_done    : 0\nexecs_done     : 3196144\nexecs_per_sec  : 872.57\npaths_total    : 332\npaths_favored  : 97\npaths_found    : 331\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 215\npending_favs   : 43\npending_total  : 249\nvariable_paths : 0\nbitmap_cvg     : 1.33%\nunique_crashes : 1\nunique_hangs   : 0\nlast_path      : 1500299053\nlast_crash     : 1500299052\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_Database/input -o /dev/shm/work/Recipe_Database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_Database/Recipe_Database.dict -- data/linux/processed-challenges/Recipe_Database/bin/Recipe_Database\n'
+p55
+I3
+tp56
+a(I3360
+S'start_time     : 1500295812\nlast_update    : 1500299177\nfuzzer_pid     : 16614\ncycles_done    : 0\nexecs_done     : 3288856\nexecs_per_sec  : 869.49\npaths_total    : 337\npaths_favored  : 102\npaths_found    : 336\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 228\npending_favs   : 45\npending_total  : 251\nvariable_paths : 0\nbitmap_cvg     : 1.34%\nunique_crashes : 1\nunique_hangs   : 0\nlast_path      : 1500299173\nlast_crash     : 1500299052\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_Database/input -o /dev/shm/work/Recipe_Database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_Database/Recipe_Database.dict -- data/linux/processed-challenges/Recipe_Database/bin/Recipe_Database\n'
+p57
+I5
+tp58
+a(I3480
+S'start_time     : 1500295812\nlast_update    : 1500299298\nfuzzer_pid     : 16614\ncycles_done    : 0\nexecs_done     : 3396077\nexecs_per_sec  : 887.83\npaths_total    : 344\npaths_favored  : 102\npaths_found    : 343\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 228\npending_favs   : 45\npending_total  : 258\nvariable_paths : 0\nbitmap_cvg     : 1.34%\nunique_crashes : 4\nunique_hangs   : 0\nlast_path      : 1500299279\nlast_crash     : 1500299292\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_Database/input -o /dev/shm/work/Recipe_Database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_Database/Recipe_Database.dict -- data/linux/processed-challenges/Recipe_Database/bin/Recipe_Database\n'
+p59
+I7
+tp60
+a(I3600
+S'start_time     : 1500295812\nlast_update    : 1500299418\nfuzzer_pid     : 16614\ncycles_done    : 0\nexecs_done     : 3501134\nexecs_per_sec  : 843.92\npaths_total    : 346\npaths_favored  : 102\npaths_found    : 345\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 237\npending_favs   : 42\npending_total  : 257\nvariable_paths : 0\nbitmap_cvg     : 1.34%\nunique_crashes : 4\nunique_hangs   : 0\nlast_path      : 1500299407\nlast_crash     : 1500299292\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_Database/input -o /dev/shm/work/Recipe_Database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_Database/Recipe_Database.dict -- data/linux/processed-challenges/Recipe_Database/bin/Recipe_Database\n'
+p61
+I2
+tp62
+a(I3720
+S'start_time     : 1500295812\nlast_update    : 1500299538\nfuzzer_pid     : 16614\ncycles_done    : 0\nexecs_done     : 3606379\nexecs_per_sec  : 877.96\npaths_total    : 368\npaths_favored  : 102\npaths_found    : 367\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 237\npending_favs   : 42\npending_total  : 279\nvariable_paths : 0\nbitmap_cvg     : 1.35%\nunique_crashes : 6\nunique_hangs   : 0\nlast_path      : 1500299524\nlast_crash     : 1500299533\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_Database/input -o /dev/shm/work/Recipe_Database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_Database/Recipe_Database.dict -- data/linux/processed-challenges/Recipe_Database/bin/Recipe_Database\n'
+p63
+I23
+tp64
+a(I3840
+S'start_time     : 1500295812\nlast_update    : 1500299658\nfuzzer_pid     : 16614\ncycles_done    : 0\nexecs_done     : 3710100\nexecs_per_sec  : 862.38\npaths_total    : 372\npaths_favored  : 109\npaths_found    : 371\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 252\npending_favs   : 45\npending_total  : 277\nvariable_paths : 0\nbitmap_cvg     : 1.38%\nunique_crashes : 9\nunique_hangs   : 0\nlast_path      : 1500299570\nlast_crash     : 1500299583\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_Database/input -o /dev/shm/work/Recipe_Database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_Database/Recipe_Database.dict -- data/linux/processed-challenges/Recipe_Database/bin/Recipe_Database\n'
+p65
+I3
+tp66
+a(I3960
+S'start_time     : 1500295812\nlast_update    : 1500299778\nfuzzer_pid     : 16614\ncycles_done    : 0\nexecs_done     : 3789089\nexecs_per_sec  : 711.84\npaths_total    : 378\npaths_favored  : 109\npaths_found    : 377\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 254\npending_favs   : 44\npending_total  : 282\nvariable_paths : 0\nbitmap_cvg     : 1.38%\nunique_crashes : 11\nunique_hangs   : 0\nlast_path      : 1500299771\nlast_crash     : 1500299771\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_Database/input -o /dev/shm/work/Recipe_Database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_Database/Recipe_Database.dict -- data/linux/processed-challenges/Recipe_Database/bin/Recipe_Database\n'
+p67
+I6
+tp68
+a(I4080
+S'start_time     : 1500295812\nlast_update    : 1500299898\nfuzzer_pid     : 16614\ncycles_done    : 0\nexecs_done     : 3872583\nexecs_per_sec  : 581.98\npaths_total    : 378\npaths_favored  : 109\npaths_found    : 377\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 257\npending_favs   : 43\npending_total  : 281\nvariable_paths : 0\nbitmap_cvg     : 1.38%\nunique_crashes : 13\nunique_hangs   : 0\nlast_path      : 1500299771\nlast_crash     : 1500299804\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_Database/input -o /dev/shm/work/Recipe_Database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_Database/Recipe_Database.dict -- data/linux/processed-challenges/Recipe_Database/bin/Recipe_Database\n'
+p69
+I0
+tp70
+a(I4200
+S'start_time     : 1500295812\nlast_update    : 1500300018\nfuzzer_pid     : 16614\ncycles_done    : 0\nexecs_done     : 3963426\nexecs_per_sec  : 810.72\npaths_total    : 388\npaths_favored  : 109\npaths_found    : 387\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 257\npending_favs   : 43\npending_total  : 291\nvariable_paths : 0\nbitmap_cvg     : 1.39%\nunique_crashes : 15\nunique_hangs   : 0\nlast_path      : 1500300011\nlast_crash     : 1500299937\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_Database/input -o /dev/shm/work/Recipe_Database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_Database/Recipe_Database.dict -- data/linux/processed-challenges/Recipe_Database/bin/Recipe_Database\n'
+p71
+I10
+tp72
+a(I4320
+S'start_time     : 1500295812\nlast_update    : 1500300139\nfuzzer_pid     : 16614\ncycles_done    : 0\nexecs_done     : 4045475\nexecs_per_sec  : 605.46\npaths_total    : 390\npaths_favored  : 112\npaths_found    : 389\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 263\npending_favs   : 44\npending_total  : 291\nvariable_paths : 0\nbitmap_cvg     : 1.39%\nunique_crashes : 19\nunique_hangs   : 0\nlast_path      : 1500300068\nlast_crash     : 1500300097\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_Database/input -o /dev/shm/work/Recipe_Database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_Database/Recipe_Database.dict -- data/linux/processed-challenges/Recipe_Database/bin/Recipe_Database\n'
+p73
+I2
+tp74
+a(I4440
+S'start_time     : 1500295812\nlast_update    : 1500300259\nfuzzer_pid     : 16614\ncycles_done    : 0\nexecs_done     : 4147431\nexecs_per_sec  : 623.43\npaths_total    : 393\npaths_favored  : 113\npaths_found    : 392\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 270\npending_favs   : 42\npending_total  : 290\nvariable_paths : 0\nbitmap_cvg     : 1.40%\nunique_crashes : 19\nunique_hangs   : 0\nlast_path      : 1500300237\nlast_crash     : 1500300097\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_Database/input -o /dev/shm/work/Recipe_Database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_Database/Recipe_Database.dict -- data/linux/processed-challenges/Recipe_Database/bin/Recipe_Database\n'
+p75
+I3
+tp76
+a(I4560
+S'start_time     : 1500295812\nlast_update    : 1500300379\nfuzzer_pid     : 16614\ncycles_done    : 0\nexecs_done     : 4231761\nexecs_per_sec  : 741.25\npaths_total    : 397\npaths_favored  : 113\npaths_found    : 396\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 270\npending_favs   : 42\npending_total  : 294\nvariable_paths : 0\nbitmap_cvg     : 1.41%\nunique_crashes : 24\nunique_hangs   : 0\nlast_path      : 1500300345\nlast_crash     : 1500300328\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_Database/input -o /dev/shm/work/Recipe_Database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_Database/Recipe_Database.dict -- data/linux/processed-challenges/Recipe_Database/bin/Recipe_Database\n'
+p77
+I4
+tp78
+a(I4680
+S'start_time     : 1500295812\nlast_update    : 1500300500\nfuzzer_pid     : 16614\ncycles_done    : 0\nexecs_done     : 4318814\nexecs_per_sec  : 820.30\npaths_total    : 411\npaths_favored  : 111\npaths_found    : 410\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 275\npending_favs   : 41\npending_total  : 307\nvariable_paths : 0\nbitmap_cvg     : 1.41%\nunique_crashes : 32\nunique_hangs   : 0\nlast_path      : 1500300497\nlast_crash     : 1500300488\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_Database/input -o /dev/shm/work/Recipe_Database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_Database/Recipe_Database.dict -- data/linux/processed-challenges/Recipe_Database/bin/Recipe_Database\n'
+p79
+I14
+tp80
+a(I4800
+S'start_time     : 1500295812\nlast_update    : 1500300620\nfuzzer_pid     : 16614\ncycles_done    : 0\nexecs_done     : 4415900\nexecs_per_sec  : 836.19\npaths_total    : 422\npaths_favored  : 111\npaths_found    : 421\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 275\npending_favs   : 41\npending_total  : 318\nvariable_paths : 0\nbitmap_cvg     : 1.42%\nunique_crashes : 39\nunique_hangs   : 0\nlast_path      : 1500300610\nlast_crash     : 1500300569\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_Database/input -o /dev/shm/work/Recipe_Database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_Database/Recipe_Database.dict -- data/linux/processed-challenges/Recipe_Database/bin/Recipe_Database\n'
+p81
+I11
+tp82
+a(I4920
+S'start_time     : 1500295812\nlast_update    : 1500300740\nfuzzer_pid     : 16614\ncycles_done    : 0\nexecs_done     : 4482836\nexecs_per_sec  : 642.57\npaths_total    : 424\npaths_favored  : 114\npaths_found    : 423\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 276\npending_favs   : 45\npending_total  : 319\nvariable_paths : 0\nbitmap_cvg     : 1.42%\nunique_crashes : 39\nunique_hangs   : 0\nlast_path      : 1500300712\nlast_crash     : 1500300569\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_Database/input -o /dev/shm/work/Recipe_Database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_Database/Recipe_Database.dict -- data/linux/processed-challenges/Recipe_Database/bin/Recipe_Database\n'
+p83
+I2
+tp84
+a(I5040
+S'start_time     : 1500295812\nlast_update    : 1500300860\nfuzzer_pid     : 16614\ncycles_done    : 0\nexecs_done     : 4561490\nexecs_per_sec  : 644.05\npaths_total    : 427\npaths_favored  : 114\npaths_found    : 426\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 276\npending_favs   : 45\npending_total  : 322\nvariable_paths : 0\nbitmap_cvg     : 1.42%\nunique_crashes : 40\nunique_hangs   : 0\nlast_path      : 1500300860\nlast_crash     : 1500300851\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_Database/input -o /dev/shm/work/Recipe_Database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_Database/Recipe_Database.dict -- data/linux/processed-challenges/Recipe_Database/bin/Recipe_Database\n'
+p85
+I3
+tp86
+a(I5160
+S'start_time     : 1500295812\nlast_update    : 1500300981\nfuzzer_pid     : 16614\ncycles_done    : 0\nexecs_done     : 4647286\nexecs_per_sec  : 761.64\npaths_total    : 448\npaths_favored  : 112\npaths_found    : 447\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 288\npending_favs   : 39\npending_total  : 339\nvariable_paths : 0\nbitmap_cvg     : 1.46%\nunique_crashes : 42\nunique_hangs   : 1\nlast_path      : 1500300978\nlast_crash     : 1500300965\nlast_hang      : 1500300896\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_Database/input -o /dev/shm/work/Recipe_Database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_Database/Recipe_Database.dict -- data/linux/processed-challenges/Recipe_Database/bin/Recipe_Database\n'
+p87
+I23
+tp88
+a(I5280
+S'start_time     : 1500295812\nlast_update    : 1500301101\nfuzzer_pid     : 16614\ncycles_done    : 0\nexecs_done     : 4738245\nexecs_per_sec  : 745.22\npaths_total    : 464\npaths_favored  : 112\npaths_found    : 463\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 288\npending_favs   : 39\npending_total  : 355\nvariable_paths : 0\nbitmap_cvg     : 1.50%\nunique_crashes : 49\nunique_hangs   : 1\nlast_path      : 1500301090\nlast_crash     : 1500301099\nlast_hang      : 1500300896\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_Database/input -o /dev/shm/work/Recipe_Database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_Database/Recipe_Database.dict -- data/linux/processed-challenges/Recipe_Database/bin/Recipe_Database\n'
+p89
+I14
+tp90
+a(I5400
+S'start_time     : 1500295812\nlast_update    : 1500301221\nfuzzer_pid     : 16614\ncycles_done    : 0\nexecs_done     : 4809101\nexecs_per_sec  : 316.75\npaths_total    : 467\npaths_favored  : 122\npaths_found    : 466\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 318\npending_favs   : 46\npending_total  : 354\nvariable_paths : 0\nbitmap_cvg     : 1.50%\nunique_crashes : 50\nunique_hangs   : 1\nlast_path      : 1500301136\nlast_crash     : 1500301110\nlast_hang      : 1500300896\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_Database/input -o /dev/shm/work/Recipe_Database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_Database/Recipe_Database.dict -- data/linux/processed-challenges/Recipe_Database/bin/Recipe_Database\n'
+p91
+I3
+tp92
+a(I5520
+S'start_time     : 1500295812\nlast_update    : 1500301341\nfuzzer_pid     : 16614\ncycles_done    : 0\nexecs_done     : 4849084\nexecs_per_sec  : 352.03\npaths_total    : 468\npaths_favored  : 122\npaths_found    : 467\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 326\npending_favs   : 45\npending_total  : 354\nvariable_paths : 0\nbitmap_cvg     : 1.51%\nunique_crashes : 51\nunique_hangs   : 1\nlast_path      : 1500301315\nlast_crash     : 1500301246\nlast_hang      : 1500300896\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_Database/input -o /dev/shm/work/Recipe_Database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_Database/Recipe_Database.dict -- data/linux/processed-challenges/Recipe_Database/bin/Recipe_Database\n'
+p93
+I1
+tp94
+a(I5640
+S'start_time     : 1500295812\nlast_update    : 1500301461\nfuzzer_pid     : 16614\ncycles_done    : 0\nexecs_done     : 4904643\nexecs_per_sec  : 491.99\npaths_total    : 474\npaths_favored  : 122\npaths_found    : 473\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 326\npending_favs   : 45\npending_total  : 360\nvariable_paths : 0\nbitmap_cvg     : 1.51%\nunique_crashes : 52\nunique_hangs   : 1\nlast_path      : 1500301451\nlast_crash     : 1500301394\nlast_hang      : 1500300896\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_Database/input -o /dev/shm/work/Recipe_Database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_Database/Recipe_Database.dict -- data/linux/processed-challenges/Recipe_Database/bin/Recipe_Database\n'
+p95
+I6
+tp96
+a(I5760
+S'start_time     : 1500295812\nlast_update    : 1500301522\nfuzzer_pid     : 16614\ncycles_done    : 0\nexecs_done     : 4934103\nexecs_per_sec  : 474.10\npaths_total    : 477\npaths_favored  : 122\npaths_found    : 476\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 326\npending_favs   : 45\npending_total  : 363\nvariable_paths : 0\nbitmap_cvg     : 1.51%\nunique_crashes : 53\nunique_hangs   : 1\nlast_path      : 1500301502\nlast_crash     : 1500301499\nlast_hang      : 1500300896\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_Database/input -o /dev/shm/work/Recipe_Database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_Database/Recipe_Database.dict -- data/linux/processed-challenges/Recipe_Database/bin/Recipe_Database\n'
+p97
+I3
+tp98
+a(I5880
+S'start_time     : 1500295812\nlast_update    : 1500301642\nfuzzer_pid     : 16614\ncycles_done    : 0\nexecs_done     : 5005603\nexecs_per_sec  : 893.92\npaths_total    : 482\npaths_favored  : 124\npaths_found    : 481\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 327\npending_favs   : 46\npending_total  : 367\nvariable_paths : 0\nbitmap_cvg     : 1.51%\nunique_crashes : 55\nunique_hangs   : 1\nlast_path      : 1500301641\nlast_crash     : 1500301572\nlast_hang      : 1500300896\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_Database/input -o /dev/shm/work/Recipe_Database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_Database/Recipe_Database.dict -- data/linux/processed-challenges/Recipe_Database/bin/Recipe_Database\n'
+p99
+I6
+tp100
+a(I6000
+S'start_time     : 1500295812\nlast_update    : 1500301762\nfuzzer_pid     : 16614\ncycles_done    : 0\nexecs_done     : 5113106\nexecs_per_sec  : 963.52\npaths_total    : 485\npaths_favored  : 124\npaths_found    : 484\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 329\npending_favs   : 45\npending_total  : 369\nvariable_paths : 0\nbitmap_cvg     : 1.51%\nunique_crashes : 55\nunique_hangs   : 1\nlast_path      : 1500301730\nlast_crash     : 1500301572\nlast_hang      : 1500300896\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_Database/input -o /dev/shm/work/Recipe_Database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_Database/Recipe_Database.dict -- data/linux/processed-challenges/Recipe_Database/bin/Recipe_Database\n'
+p101
+I2
+tp102
+a(I6120
+S'start_time     : 1500295812\nlast_update    : 1500301882\nfuzzer_pid     : 16614\ncycles_done    : 0\nexecs_done     : 5193323\nexecs_per_sec  : 678.17\npaths_total    : 485\npaths_favored  : 124\npaths_found    : 484\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 334\npending_favs   : 41\npending_total  : 365\nvariable_paths : 0\nbitmap_cvg     : 1.51%\nunique_crashes : 55\nunique_hangs   : 1\nlast_path      : 1500301730\nlast_crash     : 1500301572\nlast_hang      : 1500300896\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_Database/input -o /dev/shm/work/Recipe_Database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_Database/Recipe_Database.dict -- data/linux/processed-challenges/Recipe_Database/bin/Recipe_Database\n'
+p103
+I0
+tp104
+a(I6240
+S'start_time     : 1500295812\nlast_update    : 1500302003\nfuzzer_pid     : 16614\ncycles_done    : 0\nexecs_done     : 5256540\nexecs_per_sec  : 619.30\npaths_total    : 485\npaths_favored  : 124\npaths_found    : 484\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 365\npending_favs   : 39\npending_total  : 363\nvariable_paths : 0\nbitmap_cvg     : 1.51%\nunique_crashes : 55\nunique_hangs   : 1\nlast_path      : 1500301730\nlast_crash     : 1500301572\nlast_hang      : 1500300896\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_Database/input -o /dev/shm/work/Recipe_Database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_Database/Recipe_Database.dict -- data/linux/processed-challenges/Recipe_Database/bin/Recipe_Database\n'
+p105
+I0
+tp106
+a(I6360
+S'start_time     : 1500295812\nlast_update    : 1500302123\nfuzzer_pid     : 16614\ncycles_done    : 0\nexecs_done     : 5333203\nexecs_per_sec  : 720.26\npaths_total    : 486\npaths_favored  : 124\npaths_found    : 485\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 367\npending_favs   : 39\npending_total  : 363\nvariable_paths : 0\nbitmap_cvg     : 1.51%\nunique_crashes : 56\nunique_hangs   : 1\nlast_path      : 1500302101\nlast_crash     : 1500302044\nlast_hang      : 1500300896\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_Database/input -o /dev/shm/work/Recipe_Database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_Database/Recipe_Database.dict -- data/linux/processed-challenges/Recipe_Database/bin/Recipe_Database\n'
+p107
+I2
+tp108
+a(I6480
+S'start_time     : 1500295812\nlast_update    : 1500302243\nfuzzer_pid     : 16614\ncycles_done    : 0\nexecs_done     : 5415244\nexecs_per_sec  : 382.10\npaths_total    : 491\npaths_favored  : 125\npaths_found    : 490\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 377\npending_favs   : 38\npending_total  : 365\nvariable_paths : 0\nbitmap_cvg     : 1.52%\nunique_crashes : 57\nunique_hangs   : 1\nlast_path      : 1500302240\nlast_crash     : 1500302156\nlast_hang      : 1500300896\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_Database/input -o /dev/shm/work/Recipe_Database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_Database/Recipe_Database.dict -- data/linux/processed-challenges/Recipe_Database/bin/Recipe_Database\n'
+p109
+I8
+tp110
+a(I6600
+S'start_time     : 1500295812\nlast_update    : 1500302363\nfuzzer_pid     : 16614\ncycles_done    : 0\nexecs_done     : 5469390\nexecs_per_sec  : 595.16\npaths_total    : 506\npaths_favored  : 125\npaths_found    : 505\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 377\npending_favs   : 38\npending_total  : 380\nvariable_paths : 0\nbitmap_cvg     : 1.54%\nunique_crashes : 60\nunique_hangs   : 1\nlast_path      : 1500302351\nlast_crash     : 1500302354\nlast_hang      : 1500300896\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_Database/input -o /dev/shm/work/Recipe_Database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_Database/Recipe_Database.dict -- data/linux/processed-challenges/Recipe_Database/bin/Recipe_Database\n'
+p111
+I15
+tp112
+a(I6720
+S'start_time     : 1500295812\nlast_update    : 1500302483\nfuzzer_pid     : 16614\ncycles_done    : 0\nexecs_done     : 5538280\nexecs_per_sec  : 544.80\npaths_total    : 513\npaths_favored  : 136\npaths_found    : 512\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 385\npending_favs   : 50\npending_total  : 386\nvariable_paths : 0\nbitmap_cvg     : 1.54%\nunique_crashes : 66\nunique_hangs   : 1\nlast_path      : 1500302461\nlast_crash     : 1500302446\nlast_hang      : 1500300896\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_Database/input -o /dev/shm/work/Recipe_Database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_Database/Recipe_Database.dict -- data/linux/processed-challenges/Recipe_Database/bin/Recipe_Database\n'
+p113
+I5
+tp114
+a(I6840
+S'start_time     : 1500295812\nlast_update    : 1500302604\nfuzzer_pid     : 16614\ncycles_done    : 0\nexecs_done     : 5613546\nexecs_per_sec  : 689.64\npaths_total    : 519\npaths_favored  : 136\npaths_found    : 518\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 385\npending_favs   : 50\npending_total  : 392\nvariable_paths : 0\nbitmap_cvg     : 1.56%\nunique_crashes : 68\nunique_hangs   : 1\nlast_path      : 1500302598\nlast_crash     : 1500302585\nlast_hang      : 1500300896\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_Database/input -o /dev/shm/work/Recipe_Database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_Database/Recipe_Database.dict -- data/linux/processed-challenges/Recipe_Database/bin/Recipe_Database\n'
+p115
+I6
+tp116
+a(I6960
+S'start_time     : 1500295812\nlast_update    : 1500302724\nfuzzer_pid     : 16614\ncycles_done    : 0\nexecs_done     : 5695017\nexecs_per_sec  : 589.98\npaths_total    : 525\npaths_favored  : 139\npaths_found    : 524\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 386\npending_favs   : 54\npending_total  : 397\nvariable_paths : 0\nbitmap_cvg     : 1.56%\nunique_crashes : 73\nunique_hangs   : 2\nlast_path      : 1500302696\nlast_crash     : 1500302706\nlast_hang      : 1500302700\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_Database/input -o /dev/shm/work/Recipe_Database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_Database/Recipe_Database.dict -- data/linux/processed-challenges/Recipe_Database/bin/Recipe_Database\n'
+p117
+I5
+tp118
+a(I7080
+S'start_time     : 1500295812\nlast_update    : 1500302844\nfuzzer_pid     : 16614\ncycles_done    : 0\nexecs_done     : 5765111\nexecs_per_sec  : 479.29\npaths_total    : 526\npaths_favored  : 140\npaths_found    : 525\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 388\npending_favs   : 54\npending_total  : 397\nvariable_paths : 0\nbitmap_cvg     : 1.56%\nunique_crashes : 74\nunique_hangs   : 2\nlast_path      : 1500302748\nlast_crash     : 1500302726\nlast_hang      : 1500302700\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_Database/input -o /dev/shm/work/Recipe_Database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_Database/Recipe_Database.dict -- data/linux/processed-challenges/Recipe_Database/bin/Recipe_Database\n'
+p119
+I3
+tp120
+a(I7200
+S'start_time     : 1500295812\nlast_update    : 1500302964\nfuzzer_pid     : 16614\ncycles_done    : 0\nexecs_done     : 5864228\nexecs_per_sec  : 947.99\npaths_total    : 530\npaths_favored  : 140\npaths_found    : 529\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 392\npending_favs   : 53\npending_total  : 400\nvariable_paths : 0\nbitmap_cvg     : 1.56%\nunique_crashes : 77\nunique_hangs   : 2\nlast_path      : 1500302911\nlast_crash     : 1500302880\nlast_hang      : 1500302700\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_Database/input -o /dev/shm/work/Recipe_Database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_Database/Recipe_Database.dict -- data/linux/processed-challenges/Recipe_Database/bin/Recipe_Database\n'
+p121
+I2
+tp122
+a(I7320
+S'start_time     : 1500295812\nlast_update    : 1500303085\nfuzzer_pid     : 16614\ncycles_done    : 0\nexecs_done     : 5932575\nexecs_per_sec  : 531.77\npaths_total    : 534\npaths_favored  : 140\npaths_found    : 533\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 393\npending_favs   : 52\npending_total  : 403\nvariable_paths : 0\nbitmap_cvg     : 1.57%\nunique_crashes : 77\nunique_hangs   : 2\nlast_path      : 1500303084\nlast_crash     : 1500302880\nlast_hang      : 1500302700\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_Database/input -o /dev/shm/work/Recipe_Database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_Database/Recipe_Database.dict -- data/linux/processed-challenges/Recipe_Database/bin/Recipe_Database\n'
+p123
+I9
+tp124
+a(I7440
+S'start_time     : 1500295812\nlast_update    : 1500303205\nfuzzer_pid     : 16614\ncycles_done    : 0\nexecs_done     : 6004667\nexecs_per_sec  : 601.28\npaths_total    : 541\npaths_favored  : 140\npaths_found    : 540\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 393\npending_favs   : 52\npending_total  : 410\nvariable_paths : 0\nbitmap_cvg     : 1.58%\nunique_crashes : 78\nunique_hangs   : 3\nlast_path      : 1500303189\nlast_crash     : 1500303168\nlast_hang      : 1500303142\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_Database/input -o /dev/shm/work/Recipe_Database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_Database/Recipe_Database.dict -- data/linux/processed-challenges/Recipe_Database/bin/Recipe_Database\n'
+p125
+I1
+tp126
+a(I7560
+S'start_time     : 1500295812\nlast_update    : 1500303325\nfuzzer_pid     : 16614\ncycles_done    : 0\nexecs_done     : 6076449\nexecs_per_sec  : 600.71\npaths_total    : 542\npaths_favored  : 140\npaths_found    : 541\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 393\npending_favs   : 52\npending_total  : 411\nvariable_paths : 0\nbitmap_cvg     : 1.58%\nunique_crashes : 81\nunique_hangs   : 3\nlast_path      : 1500303319\nlast_crash     : 1500303302\nlast_hang      : 1500303142\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_Database/input -o /dev/shm/work/Recipe_Database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_Database/Recipe_Database.dict -- data/linux/processed-challenges/Recipe_Database/bin/Recipe_Database\n'
+p127
+I3
+tp128
+a(I7680
+S'start_time     : 1500295812\nlast_update    : 1500303445\nfuzzer_pid     : 16614\ncycles_done    : 0\nexecs_done     : 6131315\nexecs_per_sec  : 443.44\npaths_total    : 544\npaths_favored  : 141\npaths_found    : 543\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 395\npending_favs   : 54\npending_total  : 412\nvariable_paths : 0\nbitmap_cvg     : 1.58%\nunique_crashes : 81\nunique_hangs   : 3\nlast_path      : 1500303367\nlast_crash     : 1500303302\nlast_hang      : 1500303142\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_Database/input -o /dev/shm/work/Recipe_Database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_Database/Recipe_Database.dict -- data/linux/processed-challenges/Recipe_Database/bin/Recipe_Database\n'
+p129
+I1
+tp130
+a(I7800
+S'start_time     : 1500295812\nlast_update    : 1500303565\nfuzzer_pid     : 16614\ncycles_done    : 0\nexecs_done     : 6185589\nexecs_per_sec  : 491.63\npaths_total    : 548\npaths_favored  : 141\npaths_found    : 547\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 395\npending_favs   : 54\npending_total  : 416\nvariable_paths : 0\nbitmap_cvg     : 1.58%\nunique_crashes : 86\nunique_hangs   : 3\nlast_path      : 1500303547\nlast_crash     : 1500303543\nlast_hang      : 1500303142\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_Database/input -o /dev/shm/work/Recipe_Database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_Database/Recipe_Database.dict -- data/linux/processed-challenges/Recipe_Database/bin/Recipe_Database\n'
+p131
+I3
+tp132
+a(I7920
+S'start_time     : 1500295812\nlast_update    : 1500303685\nfuzzer_pid     : 16614\ncycles_done    : 0\nexecs_done     : 6243056\nexecs_per_sec  : 481.49\npaths_total    : 550\npaths_favored  : 141\npaths_found    : 549\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 395\npending_favs   : 54\npending_total  : 418\nvariable_paths : 0\nbitmap_cvg     : 1.59%\nunique_crashes : 93\nunique_hangs   : 4\nlast_path      : 1500303641\nlast_crash     : 1500303667\nlast_hang      : 1500303601\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_Database/input -o /dev/shm/work/Recipe_Database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_Database/Recipe_Database.dict -- data/linux/processed-challenges/Recipe_Database/bin/Recipe_Database\n'
+p133
+I2
+tp134
+a(I8040
+S'start_time     : 1500295812\nlast_update    : 1500303806\nfuzzer_pid     : 16614\ncycles_done    : 0\nexecs_done     : 6295331\nexecs_per_sec  : 517.54\npaths_total    : 551\npaths_favored  : 145\npaths_found    : 550\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 412\npending_favs   : 56\npending_total  : 417\nvariable_paths : 0\nbitmap_cvg     : 1.59%\nunique_crashes : 93\nunique_hangs   : 4\nlast_path      : 1500303757\nlast_crash     : 1500303667\nlast_hang      : 1500303601\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_Database/input -o /dev/shm/work/Recipe_Database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_Database/Recipe_Database.dict -- data/linux/processed-challenges/Recipe_Database/bin/Recipe_Database\n'
+p135
+I3
+tp136
+a(I8160
+S'start_time     : 1500295812\nlast_update    : 1500303926\nfuzzer_pid     : 16614\ncycles_done    : 0\nexecs_done     : 6376696\nexecs_per_sec  : 692.16\npaths_total    : 557\npaths_favored  : 145\npaths_found    : 556\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 412\npending_favs   : 56\npending_total  : 423\nvariable_paths : 0\nbitmap_cvg     : 1.59%\nunique_crashes : 94\nunique_hangs   : 4\nlast_path      : 1500303883\nlast_crash     : 1500303869\nlast_hang      : 1500303601\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_Database/input -o /dev/shm/work/Recipe_Database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_Database/Recipe_Database.dict -- data/linux/processed-challenges/Recipe_Database/bin/Recipe_Database\n'
+p137
+I5
+tp138
+a(I8280
+S'start_time     : 1500295812\nlast_update    : 1500304046\nfuzzer_pid     : 16614\ncycles_done    : 0\nexecs_done     : 6446416\nexecs_per_sec  : 444.48\npaths_total    : 560\npaths_favored  : 149\npaths_found    : 559\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 415\npending_favs   : 59\npending_total  : 425\nvariable_paths : 0\nbitmap_cvg     : 1.59%\nunique_crashes : 96\nunique_hangs   : 4\nlast_path      : 1500304045\nlast_crash     : 1500304037\nlast_hang      : 1500303601\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_Database/input -o /dev/shm/work/Recipe_Database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_Database/Recipe_Database.dict -- data/linux/processed-challenges/Recipe_Database/bin/Recipe_Database\n'
+p139
+I5
+tp140
+a(I8400
+S'start_time     : 1500295812\nlast_update    : 1500304166\nfuzzer_pid     : 16614\ncycles_done    : 0\nexecs_done     : 6521996\nexecs_per_sec  : 636.41\npaths_total    : 565\npaths_favored  : 149\npaths_found    : 564\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 415\npending_favs   : 59\npending_total  : 430\nvariable_paths : 0\nbitmap_cvg     : 1.60%\nunique_crashes : 101\nunique_hangs   : 4\nlast_path      : 1500304133\nlast_crash     : 1500304162\nlast_hang      : 1500303601\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_Database/input -o /dev/shm/work/Recipe_Database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_Database/Recipe_Database.dict -- data/linux/processed-challenges/Recipe_Database/bin/Recipe_Database\n'
+p141
+I6
+tp142
+a(I8520
+S'start_time     : 1500295812\nlast_update    : 1500304287\nfuzzer_pid     : 16614\ncycles_done    : 0\nexecs_done     : 6587105\nexecs_per_sec  : 448.45\npaths_total    : 569\npaths_favored  : 151\npaths_found    : 568\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 416\npending_favs   : 61\npending_total  : 433\nvariable_paths : 0\nbitmap_cvg     : 1.60%\nunique_crashes : 103\nunique_hangs   : 4\nlast_path      : 1500304202\nlast_crash     : 1500304208\nlast_hang      : 1500303601\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_Database/input -o /dev/shm/work/Recipe_Database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_Database/Recipe_Database.dict -- data/linux/processed-challenges/Recipe_Database/bin/Recipe_Database\n'
+p143
+I1
+tp144
+a(I8640
+S'start_time     : 1500295812\nlast_update    : 1500304407\nfuzzer_pid     : 16614\ncycles_done    : 0\nexecs_done     : 6668347\nexecs_per_sec  : 799.44\npaths_total    : 574\npaths_favored  : 151\npaths_found    : 573\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 426\npending_favs   : 60\npending_total  : 437\nvariable_paths : 0\nbitmap_cvg     : 1.60%\nunique_crashes : 103\nunique_hangs   : 4\nlast_path      : 1500304380\nlast_crash     : 1500304208\nlast_hang      : 1500303601\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_Database/input -o /dev/shm/work/Recipe_Database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_Database/Recipe_Database.dict -- data/linux/processed-challenges/Recipe_Database/bin/Recipe_Database\n'
+p145
+I5
+tp146
+a(I8760
+S'start_time     : 1500295812\nlast_update    : 1500304527\nfuzzer_pid     : 16614\ncycles_done    : 0\nexecs_done     : 6765404\nexecs_per_sec  : 815.17\npaths_total    : 577\npaths_favored  : 151\npaths_found    : 576\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 426\npending_favs   : 60\npending_total  : 440\nvariable_paths : 0\nbitmap_cvg     : 1.61%\nunique_crashes : 103\nunique_hangs   : 4\nlast_path      : 1500304505\nlast_crash     : 1500304208\nlast_hang      : 1500303601\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_Database/input -o /dev/shm/work/Recipe_Database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_Database/Recipe_Database.dict -- data/linux/processed-challenges/Recipe_Database/bin/Recipe_Database\n'
+p147
+I2
+tp148
+a(I8880
+S'start_time     : 1500295812\nlast_update    : 1500304647\nfuzzer_pid     : 16614\ncycles_done    : 0\nexecs_done     : 6842616\nexecs_per_sec  : 546.25\npaths_total    : 578\npaths_favored  : 154\npaths_found    : 577\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 430\npending_favs   : 62\npending_total  : 439\nvariable_paths : 0\nbitmap_cvg     : 1.61%\nunique_crashes : 103\nunique_hangs   : 4\nlast_path      : 1500304605\nlast_crash     : 1500304208\nlast_hang      : 1500303601\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_Database/input -o /dev/shm/work/Recipe_Database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_Database/Recipe_Database.dict -- data/linux/processed-challenges/Recipe_Database/bin/Recipe_Database\n'
+p149
+I4
+tp150
+a(I9000
+S'start_time     : 1500295812\nlast_update    : 1500304767\nfuzzer_pid     : 16614\ncycles_done    : 0\nexecs_done     : 6927942\nexecs_per_sec  : 759.26\npaths_total    : 584\npaths_favored  : 154\npaths_found    : 583\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 430\npending_favs   : 62\npending_total  : 445\nvariable_paths : 0\nbitmap_cvg     : 1.61%\nunique_crashes : 105\nunique_hangs   : 4\nlast_path      : 1500304752\nlast_crash     : 1500304719\nlast_hang      : 1500303601\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_Database/input -o /dev/shm/work/Recipe_Database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_Database/Recipe_Database.dict -- data/linux/processed-challenges/Recipe_Database/bin/Recipe_Database\n'
+p151
+I3
+tp152
+a(I9120
+S'start_time     : 1500295812\nlast_update    : 1500304888\nfuzzer_pid     : 16614\ncycles_done    : 0\nexecs_done     : 7007667\nexecs_per_sec  : 710.72\npaths_total    : 586\npaths_favored  : 157\npaths_found    : 585\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 431\npending_favs   : 64\npending_total  : 446\nvariable_paths : 0\nbitmap_cvg     : 1.61%\nunique_crashes : 107\nunique_hangs   : 4\nlast_path      : 1500304874\nlast_crash     : 1500304808\nlast_hang      : 1500303601\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_Database/input -o /dev/shm/work/Recipe_Database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_Database/Recipe_Database.dict -- data/linux/processed-challenges/Recipe_Database/bin/Recipe_Database\n'
+p153
+I2
+tp154
+a(I9240
+S'start_time     : 1500295812\nlast_update    : 1500305008\nfuzzer_pid     : 16614\ncycles_done    : 0\nexecs_done     : 7086774\nexecs_per_sec  : 528.67\npaths_total    : 588\npaths_favored  : 157\npaths_found    : 587\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 435\npending_favs   : 62\npending_total  : 446\nvariable_paths : 0\nbitmap_cvg     : 1.66%\nunique_crashes : 108\nunique_hangs   : 4\nlast_path      : 1500305002\nlast_crash     : 1500304953\nlast_hang      : 1500303601\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_Database/input -o /dev/shm/work/Recipe_Database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_Database/Recipe_Database.dict -- data/linux/processed-challenges/Recipe_Database/bin/Recipe_Database\n'
+p155
+I3
+tp156
+a(I9360
+S'start_time     : 1500295812\nlast_update    : 1500305128\nfuzzer_pid     : 16614\ncycles_done    : 0\nexecs_done     : 7163019\nexecs_per_sec  : 731.57\npaths_total    : 589\npaths_favored  : 157\npaths_found    : 588\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 444\npending_favs   : 63\npending_total  : 446\nvariable_paths : 0\nbitmap_cvg     : 1.66%\nunique_crashes : 109\nunique_hangs   : 4\nlast_path      : 1500305032\nlast_crash     : 1500305064\nlast_hang      : 1500303601\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_Database/input -o /dev/shm/work/Recipe_Database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_Database/Recipe_Database.dict -- data/linux/processed-challenges/Recipe_Database/bin/Recipe_Database\n'
+p157
+I1
+tp158
+a(I9480
+S'start_time     : 1500295812\nlast_update    : 1500305248\nfuzzer_pid     : 16614\ncycles_done    : 0\nexecs_done     : 7219466\nexecs_per_sec  : 381.96\npaths_total    : 590\npaths_favored  : 158\npaths_found    : 589\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 446\npending_favs   : 62\npending_total  : 445\nvariable_paths : 0\nbitmap_cvg     : 1.66%\nunique_crashes : 110\nunique_hangs   : 4\nlast_path      : 1500305143\nlast_crash     : 1500305147\nlast_hang      : 1500303601\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_Database/input -o /dev/shm/work/Recipe_Database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_Database/Recipe_Database.dict -- data/linux/processed-challenges/Recipe_Database/bin/Recipe_Database\n'
+p159
+I0
+tp160
+a(I9600
+S'start_time     : 1500295812\nlast_update    : 1500305369\nfuzzer_pid     : 16614\ncycles_done    : 0\nexecs_done     : 7279034\nexecs_per_sec  : 591.20\npaths_total    : 597\npaths_favored  : 158\npaths_found    : 596\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 446\npending_favs   : 62\npending_total  : 452\nvariable_paths : 0\nbitmap_cvg     : 1.66%\nunique_crashes : 112\nunique_hangs   : 4\nlast_path      : 1500305366\nlast_crash     : 1500305339\nlast_hang      : 1500303601\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_Database/input -o /dev/shm/work/Recipe_Database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_Database/Recipe_Database.dict -- data/linux/processed-challenges/Recipe_Database/bin/Recipe_Database\n'
+p161
+I10
+tp162
+a(I9720
+S'start_time     : 1500295812\nlast_update    : 1500305489\nfuzzer_pid     : 16614\ncycles_done    : 0\nexecs_done     : 7350077\nexecs_per_sec  : 589.22\npaths_total    : 603\npaths_favored  : 158\npaths_found    : 602\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 446\npending_favs   : 62\npending_total  : 458\nvariable_paths : 0\nbitmap_cvg     : 1.67%\nunique_crashes : 114\nunique_hangs   : 4\nlast_path      : 1500305463\nlast_crash     : 1500305417\nlast_hang      : 1500303601\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_Database/input -o /dev/shm/work/Recipe_Database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_Database/Recipe_Database.dict -- data/linux/processed-challenges/Recipe_Database/bin/Recipe_Database\n'
+p163
+I7
+tp164
+a(I9840
+S'start_time     : 1500295812\nlast_update    : 1500305609\nfuzzer_pid     : 16614\ncycles_done    : 0\nexecs_done     : 7430343\nexecs_per_sec  : 766.16\npaths_total    : 617\npaths_favored  : 162\npaths_found    : 616\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 455\npending_favs   : 66\npending_total  : 471\nvariable_paths : 0\nbitmap_cvg     : 1.68%\nunique_crashes : 115\nunique_hangs   : 4\nlast_path      : 1500305593\nlast_crash     : 1500305550\nlast_hang      : 1500303601\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_Database/input -o /dev/shm/work/Recipe_Database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_Database/Recipe_Database.dict -- data/linux/processed-challenges/Recipe_Database/bin/Recipe_Database\n'
+p165
+I11
+tp166
+a(I9960
+S'start_time     : 1500295812\nlast_update    : 1500305729\nfuzzer_pid     : 16614\ncycles_done    : 0\nexecs_done     : 7520911\nexecs_per_sec  : 746.68\npaths_total    : 619\npaths_favored  : 162\npaths_found    : 618\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 455\npending_favs   : 66\npending_total  : 473\nvariable_paths : 0\nbitmap_cvg     : 1.68%\nunique_crashes : 116\nunique_hangs   : 4\nlast_path      : 1500305723\nlast_crash     : 1500305674\nlast_hang      : 1500303601\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_Database/input -o /dev/shm/work/Recipe_Database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_Database/Recipe_Database.dict -- data/linux/processed-challenges/Recipe_Database/bin/Recipe_Database\n'
+p167
+I2
+tp168
+a(I10080
+S'start_time     : 1500295812\nlast_update    : 1500305850\nfuzzer_pid     : 16614\ncycles_done    : 0\nexecs_done     : 7587874\nexecs_per_sec  : 460.16\npaths_total    : 620\npaths_favored  : 164\npaths_found    : 619\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 458\npending_favs   : 68\npending_total  : 472\nvariable_paths : 0\nbitmap_cvg     : 1.68%\nunique_crashes : 116\nunique_hangs   : 4\nlast_path      : 1500305733\nlast_crash     : 1500305674\nlast_hang      : 1500303601\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_Database/input -o /dev/shm/work/Recipe_Database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_Database/Recipe_Database.dict -- data/linux/processed-challenges/Recipe_Database/bin/Recipe_Database\n'
+p169
+I0
+tp170
+a(I10200
+S'start_time     : 1500295812\nlast_update    : 1500305970\nfuzzer_pid     : 16614\ncycles_done    : 0\nexecs_done     : 7649502\nexecs_per_sec  : 580.33\npaths_total    : 621\npaths_favored  : 164\npaths_found    : 620\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 464\npending_favs   : 67\npending_total  : 472\nvariable_paths : 0\nbitmap_cvg     : 1.68%\nunique_crashes : 117\nunique_hangs   : 4\nlast_path      : 1500305944\nlast_crash     : 1500305969\nlast_hang      : 1500303601\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_Database/input -o /dev/shm/work/Recipe_Database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_Database/Recipe_Database.dict -- data/linux/processed-challenges/Recipe_Database/bin/Recipe_Database\n'
+p171
+I14
+tp172
+a(I10320
+S'start_time     : 1500295812\nlast_update    : 1500306090\nfuzzer_pid     : 16614\ncycles_done    : 0\nexecs_done     : 7737092\nexecs_per_sec  : 762.16\npaths_total    : 636\npaths_favored  : 164\npaths_found    : 635\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 464\npending_favs   : 67\npending_total  : 487\nvariable_paths : 0\nbitmap_cvg     : 1.70%\nunique_crashes : 123\nunique_hangs   : 4\nlast_path      : 1500306088\nlast_crash     : 1500306074\nlast_hang      : 1500303601\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_Database/input -o /dev/shm/work/Recipe_Database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_Database/Recipe_Database.dict -- data/linux/processed-challenges/Recipe_Database/bin/Recipe_Database\n'
+p173
+I4
+tp174
+a(I10440
+S'start_time     : 1500295812\nlast_update    : 1500306210\nfuzzer_pid     : 16614\ncycles_done    : 0\nexecs_done     : 7801694\nexecs_per_sec  : 349.55\npaths_total    : 638\npaths_favored  : 170\npaths_found    : 637\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 467\npending_favs   : 73\npending_total  : 487\nvariable_paths : 0\nbitmap_cvg     : 1.70%\nunique_crashes : 124\nunique_hangs   : 4\nlast_path      : 1500306144\nlast_crash     : 1500306111\nlast_hang      : 1500303601\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_Database/input -o /dev/shm/work/Recipe_Database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_Database/Recipe_Database.dict -- data/linux/processed-challenges/Recipe_Database/bin/Recipe_Database\n'
+p175
+I0
+tp176
+a(I10560
+S'start_time     : 1500295812\nlast_update    : 1500306331\nfuzzer_pid     : 16614\ncycles_done    : 0\nexecs_done     : 7836191\nexecs_per_sec  : 226.44\npaths_total    : 638\npaths_favored  : 170\npaths_found    : 637\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 468\npending_favs   : 72\npending_total  : 486\nvariable_paths : 0\nbitmap_cvg     : 1.70%\nunique_crashes : 124\nunique_hangs   : 4\nlast_path      : 1500306144\nlast_crash     : 1500306111\nlast_hang      : 1500303601\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_Database/input -o /dev/shm/work/Recipe_Database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_Database/Recipe_Database.dict -- data/linux/processed-challenges/Recipe_Database/bin/Recipe_Database\n'
+p177
+I0
+tp178
+a(I10680
+S'start_time     : 1500295812\nlast_update    : 1500306451\nfuzzer_pid     : 16614\ncycles_done    : 0\nexecs_done     : 7871366\nexecs_per_sec  : 466.22\npaths_total    : 638\npaths_favored  : 170\npaths_found    : 637\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 485\npending_favs   : 72\npending_total  : 485\nvariable_paths : 0\nbitmap_cvg     : 1.70%\nunique_crashes : 124\nunique_hangs   : 4\nlast_path      : 1500306144\nlast_crash     : 1500306111\nlast_hang      : 1500303601\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_Database/input -o /dev/shm/work/Recipe_Database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_Database/Recipe_Database.dict -- data/linux/processed-challenges/Recipe_Database/bin/Recipe_Database\n'
+p179
+I0
+tp180
+a.

@@ -1,0 +1,452 @@
+(lp0
+(I0
+S'start_time     : 1500198444\nlast_update    : 1500198445\nfuzzer_pid     : 23951\ncycles_done    : 0\nexecs_done     : 10\nexecs_per_sec  : 19.76\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 1\npending_total  : 1\nvariable_paths : 0\nbitmap_cvg     : 0.13%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 140\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Printer/input -o /dev/shm/work/Printer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Printer/Printer.dict -- data/linux/processed-challenges/Printer/bin/Printer\n'
+p1
+I1
+tp2
+a(I120
+S'start_time     : 1500198444\nlast_update    : 1500198565\nfuzzer_pid     : 23951\ncycles_done    : 0\nexecs_done     : 3040\nexecs_per_sec  : 25.81\npaths_total    : 11\npaths_favored  : 1\npaths_found    : 10\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 1\npending_total  : 11\nvariable_paths : 0\nbitmap_cvg     : 0.18%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500198545\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 140\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Printer/input -o /dev/shm/work/Printer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Printer/Printer.dict -- data/linux/processed-challenges/Printer/bin/Printer\n'
+p3
+I10
+tp4
+a(I240
+S'start_time     : 1500198444\nlast_update    : 1500198685\nfuzzer_pid     : 23951\ncycles_done    : 0\nexecs_done     : 6072\nexecs_per_sec  : 25.12\npaths_total    : 12\npaths_favored  : 1\npaths_found    : 11\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 1\npending_total  : 12\nvariable_paths : 0\nbitmap_cvg     : 0.18%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500198630\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 140\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Printer/input -o /dev/shm/work/Printer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Printer/Printer.dict -- data/linux/processed-challenges/Printer/bin/Printer\n'
+p5
+I1
+tp6
+a(I360
+S'start_time     : 1500198444\nlast_update    : 1500198805\nfuzzer_pid     : 23951\ncycles_done    : 0\nexecs_done     : 9084\nexecs_per_sec  : 25.05\npaths_total    : 13\npaths_favored  : 1\npaths_found    : 12\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 1\npending_total  : 13\nvariable_paths : 0\nbitmap_cvg     : 0.19%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500198773\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 140\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Printer/input -o /dev/shm/work/Printer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Printer/Printer.dict -- data/linux/processed-challenges/Printer/bin/Printer\n'
+p7
+I1
+tp8
+a(I480
+S'start_time     : 1500198444\nlast_update    : 1500198926\nfuzzer_pid     : 23951\ncycles_done    : 0\nexecs_done     : 12109\nexecs_per_sec  : 25.83\npaths_total    : 14\npaths_favored  : 1\npaths_found    : 13\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 1\npending_total  : 14\nvariable_paths : 0\nbitmap_cvg     : 0.19%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500198860\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 140\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Printer/input -o /dev/shm/work/Printer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Printer/Printer.dict -- data/linux/processed-challenges/Printer/bin/Printer\n'
+p9
+I1
+tp10
+a(I600
+S'start_time     : 1500198444\nlast_update    : 1500199046\nfuzzer_pid     : 23951\ncycles_done    : 0\nexecs_done     : 15119\nexecs_per_sec  : 24.84\npaths_total    : 16\npaths_favored  : 1\npaths_found    : 15\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 1\npending_total  : 16\nvariable_paths : 0\nbitmap_cvg     : 0.25%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500199014\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 140\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Printer/input -o /dev/shm/work/Printer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Printer/Printer.dict -- data/linux/processed-challenges/Printer/bin/Printer\n'
+p11
+I2
+tp12
+a(I720
+S'start_time     : 1500198444\nlast_update    : 1500199166\nfuzzer_pid     : 23951\ncycles_done    : 0\nexecs_done     : 18108\nexecs_per_sec  : 23.86\npaths_total    : 16\npaths_favored  : 1\npaths_found    : 15\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 1\npending_total  : 16\nvariable_paths : 0\nbitmap_cvg     : 0.25%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500199014\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 140\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Printer/input -o /dev/shm/work/Printer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Printer/Printer.dict -- data/linux/processed-challenges/Printer/bin/Printer\n'
+p13
+I0
+tp14
+a(I840
+S'start_time     : 1500198444\nlast_update    : 1500199286\nfuzzer_pid     : 23951\ncycles_done    : 0\nexecs_done     : 21115\nexecs_per_sec  : 24.89\npaths_total    : 16\npaths_favored  : 1\npaths_found    : 15\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 1\npending_total  : 16\nvariable_paths : 0\nbitmap_cvg     : 0.25%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500199014\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 140\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Printer/input -o /dev/shm/work/Printer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Printer/Printer.dict -- data/linux/processed-challenges/Printer/bin/Printer\n'
+p15
+I0
+tp16
+a(I960
+S'start_time     : 1500198444\nlast_update    : 1500199407\nfuzzer_pid     : 23951\ncycles_done    : 0\nexecs_done     : 24101\nexecs_per_sec  : 24.66\npaths_total    : 16\npaths_favored  : 1\npaths_found    : 15\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 1\npending_total  : 16\nvariable_paths : 0\nbitmap_cvg     : 0.25%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500199014\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 140\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Printer/input -o /dev/shm/work/Printer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Printer/Printer.dict -- data/linux/processed-challenges/Printer/bin/Printer\n'
+p17
+I0
+tp18
+a(I1080
+S'start_time     : 1500198444\nlast_update    : 1500199527\nfuzzer_pid     : 23951\ncycles_done    : 0\nexecs_done     : 27103\nexecs_per_sec  : 24.66\npaths_total    : 18\npaths_favored  : 1\npaths_found    : 17\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 1\npending_total  : 18\nvariable_paths : 0\nbitmap_cvg     : 0.27%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500199478\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 140\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Printer/input -o /dev/shm/work/Printer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Printer/Printer.dict -- data/linux/processed-challenges/Printer/bin/Printer\n'
+p19
+I2
+tp20
+a(I1200
+S'start_time     : 1500198444\nlast_update    : 1500199647\nfuzzer_pid     : 23951\ncycles_done    : 0\nexecs_done     : 30141\nexecs_per_sec  : 25.23\npaths_total    : 19\npaths_favored  : 1\npaths_found    : 18\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 1\npending_total  : 19\nvariable_paths : 0\nbitmap_cvg     : 0.28%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500199626\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 140\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Printer/input -o /dev/shm/work/Printer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Printer/Printer.dict -- data/linux/processed-challenges/Printer/bin/Printer\n'
+p21
+I1
+tp22
+a(I1320
+S'start_time     : 1500198444\nlast_update    : 1500199767\nfuzzer_pid     : 23951\ncycles_done    : 0\nexecs_done     : 33172\nexecs_per_sec  : 26.11\npaths_total    : 20\npaths_favored  : 11\npaths_found    : 19\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 1\npending_favs   : 11\npending_total  : 19\nvariable_paths : 0\nbitmap_cvg     : 0.29%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500199655\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 140\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Printer/input -o /dev/shm/work/Printer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Printer/Printer.dict -- data/linux/processed-challenges/Printer/bin/Printer\n'
+p23
+I1
+tp24
+a(I1440
+S'start_time     : 1500198444\nlast_update    : 1500199887\nfuzzer_pid     : 23951\ncycles_done    : 0\nexecs_done     : 36174\nexecs_per_sec  : 25.36\npaths_total    : 23\npaths_favored  : 11\npaths_found    : 22\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 1\npending_favs   : 11\npending_total  : 22\nvariable_paths : 0\nbitmap_cvg     : 0.29%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500199887\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 140\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Printer/input -o /dev/shm/work/Printer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Printer/Printer.dict -- data/linux/processed-challenges/Printer/bin/Printer\n'
+p25
+I3
+tp26
+a(I1560
+S'start_time     : 1500198444\nlast_update    : 1500200008\nfuzzer_pid     : 23951\ncycles_done    : 0\nexecs_done     : 39169\nexecs_per_sec  : 24.51\npaths_total    : 25\npaths_favored  : 11\npaths_found    : 24\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 1\npending_favs   : 11\npending_total  : 24\nvariable_paths : 0\nbitmap_cvg     : 0.30%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500199909\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 140\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Printer/input -o /dev/shm/work/Printer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Printer/Printer.dict -- data/linux/processed-challenges/Printer/bin/Printer\n'
+p27
+I2
+tp28
+a(I1680
+S'start_time     : 1500198444\nlast_update    : 1500200128\nfuzzer_pid     : 23951\ncycles_done    : 0\nexecs_done     : 42203\nexecs_per_sec  : 25.34\npaths_total    : 27\npaths_favored  : 11\npaths_found    : 26\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 1\npending_favs   : 11\npending_total  : 26\nvariable_paths : 0\nbitmap_cvg     : 0.31%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500200053\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 140\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Printer/input -o /dev/shm/work/Printer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Printer/Printer.dict -- data/linux/processed-challenges/Printer/bin/Printer\n'
+p29
+I2
+tp30
+a(I1800
+S'start_time     : 1500198444\nlast_update    : 1500200248\nfuzzer_pid     : 23951\ncycles_done    : 0\nexecs_done     : 45211\nexecs_per_sec  : 25.21\npaths_total    : 28\npaths_favored  : 11\npaths_found    : 27\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 1\npending_favs   : 11\npending_total  : 27\nvariable_paths : 0\nbitmap_cvg     : 0.31%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500200232\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 140\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Printer/input -o /dev/shm/work/Printer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Printer/Printer.dict -- data/linux/processed-challenges/Printer/bin/Printer\n'
+p31
+I1
+tp32
+a(I1920
+S'start_time     : 1500198444\nlast_update    : 1500200368\nfuzzer_pid     : 23951\ncycles_done    : 0\nexecs_done     : 48232\nexecs_per_sec  : 24.78\npaths_total    : 29\npaths_favored  : 11\npaths_found    : 28\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 1\npending_favs   : 11\npending_total  : 28\nvariable_paths : 0\nbitmap_cvg     : 0.31%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500200282\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 140\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Printer/input -o /dev/shm/work/Printer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Printer/Printer.dict -- data/linux/processed-challenges/Printer/bin/Printer\n'
+p33
+I1
+tp34
+a(I2040
+S'start_time     : 1500198444\nlast_update    : 1500200488\nfuzzer_pid     : 23951\ncycles_done    : 0\nexecs_done     : 51226\nexecs_per_sec  : 24.74\npaths_total    : 29\npaths_favored  : 11\npaths_found    : 28\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 1\npending_favs   : 11\npending_total  : 28\nvariable_paths : 0\nbitmap_cvg     : 0.31%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500200282\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 140\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Printer/input -o /dev/shm/work/Printer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Printer/Printer.dict -- data/linux/processed-challenges/Printer/bin/Printer\n'
+p35
+I0
+tp36
+a(I2160
+S'start_time     : 1500198444\nlast_update    : 1500200608\nfuzzer_pid     : 23951\ncycles_done    : 0\nexecs_done     : 54226\nexecs_per_sec  : 24.96\npaths_total    : 30\npaths_favored  : 11\npaths_found    : 29\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 1\npending_favs   : 11\npending_total  : 29\nvariable_paths : 0\nbitmap_cvg     : 0.32%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500200597\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 140\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Printer/input -o /dev/shm/work/Printer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Printer/Printer.dict -- data/linux/processed-challenges/Printer/bin/Printer\n'
+p37
+I1
+tp38
+a(I2280
+S'start_time     : 1500198444\nlast_update    : 1500200728\nfuzzer_pid     : 23951\ncycles_done    : 0\nexecs_done     : 57227\nexecs_per_sec  : 24.74\npaths_total    : 31\npaths_favored  : 11\npaths_found    : 30\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 1\npending_favs   : 11\npending_total  : 30\nvariable_paths : 0\nbitmap_cvg     : 0.32%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500200638\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 140\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Printer/input -o /dev/shm/work/Printer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Printer/Printer.dict -- data/linux/processed-challenges/Printer/bin/Printer\n'
+p39
+I1
+tp40
+a(I2400
+S'start_time     : 1500198444\nlast_update    : 1500200849\nfuzzer_pid     : 23951\ncycles_done    : 0\nexecs_done     : 60245\nexecs_per_sec  : 25.19\npaths_total    : 33\npaths_favored  : 11\npaths_found    : 32\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 1\npending_favs   : 11\npending_total  : 32\nvariable_paths : 0\nbitmap_cvg     : 0.32%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500200836\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 140\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Printer/input -o /dev/shm/work/Printer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Printer/Printer.dict -- data/linux/processed-challenges/Printer/bin/Printer\n'
+p41
+I2
+tp42
+a(I2520
+S'start_time     : 1500198444\nlast_update    : 1500200969\nfuzzer_pid     : 23951\ncycles_done    : 0\nexecs_done     : 63259\nexecs_per_sec  : 25.53\npaths_total    : 33\npaths_favored  : 11\npaths_found    : 32\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 1\npending_favs   : 11\npending_total  : 32\nvariable_paths : 0\nbitmap_cvg     : 0.32%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500200836\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 140\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Printer/input -o /dev/shm/work/Printer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Printer/Printer.dict -- data/linux/processed-challenges/Printer/bin/Printer\n'
+p43
+I0
+tp44
+a(I2640
+S'start_time     : 1500198444\nlast_update    : 1500201089\nfuzzer_pid     : 23951\ncycles_done    : 0\nexecs_done     : 66274\nexecs_per_sec  : 25.07\npaths_total    : 35\npaths_favored  : 17\npaths_found    : 34\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 8\npending_favs   : 17\npending_total  : 33\nvariable_paths : 0\nbitmap_cvg     : 0.32%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500201042\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 140\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Printer/input -o /dev/shm/work/Printer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Printer/Printer.dict -- data/linux/processed-challenges/Printer/bin/Printer\n'
+p45
+I2
+tp46
+a(I2760
+S'start_time     : 1500198444\nlast_update    : 1500201209\nfuzzer_pid     : 23951\ncycles_done    : 0\nexecs_done     : 69303\nexecs_per_sec  : 24.85\npaths_total    : 37\npaths_favored  : 17\npaths_found    : 36\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 9\npending_favs   : 16\npending_total  : 34\nvariable_paths : 0\nbitmap_cvg     : 0.32%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500201160\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 140\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Printer/input -o /dev/shm/work/Printer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Printer/Printer.dict -- data/linux/processed-challenges/Printer/bin/Printer\n'
+p47
+I2
+tp48
+a(I2880
+S'start_time     : 1500198444\nlast_update    : 1500201330\nfuzzer_pid     : 23951\ncycles_done    : 0\nexecs_done     : 72289\nexecs_per_sec  : 25.52\npaths_total    : 39\npaths_favored  : 16\npaths_found    : 38\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 10\npending_favs   : 14\npending_total  : 35\nvariable_paths : 0\nbitmap_cvg     : 0.33%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500201316\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 140\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Printer/input -o /dev/shm/work/Printer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Printer/Printer.dict -- data/linux/processed-challenges/Printer/bin/Printer\n'
+p49
+I2
+tp50
+a(I3000
+S'start_time     : 1500198444\nlast_update    : 1500201450\nfuzzer_pid     : 23951\ncycles_done    : 0\nexecs_done     : 75302\nexecs_per_sec  : 25.04\npaths_total    : 41\npaths_favored  : 16\npaths_found    : 40\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 10\npending_favs   : 14\npending_total  : 37\nvariable_paths : 0\nbitmap_cvg     : 0.33%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500201369\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 140\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Printer/input -o /dev/shm/work/Printer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Printer/Printer.dict -- data/linux/processed-challenges/Printer/bin/Printer\n'
+p51
+I2
+tp52
+a(I3120
+S'start_time     : 1500198444\nlast_update    : 1500201570\nfuzzer_pid     : 23951\ncycles_done    : 0\nexecs_done     : 78309\nexecs_per_sec  : 24.90\npaths_total    : 42\npaths_favored  : 16\npaths_found    : 41\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 10\npending_favs   : 14\npending_total  : 38\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500201466\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 140\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Printer/input -o /dev/shm/work/Printer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Printer/Printer.dict -- data/linux/processed-challenges/Printer/bin/Printer\n'
+p53
+I1
+tp54
+a(I3240
+S'start_time     : 1500198444\nlast_update    : 1500201690\nfuzzer_pid     : 23951\ncycles_done    : 0\nexecs_done     : 81328\nexecs_per_sec  : 24.49\npaths_total    : 43\npaths_favored  : 16\npaths_found    : 42\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 10\npending_favs   : 14\npending_total  : 39\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500201623\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 140\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Printer/input -o /dev/shm/work/Printer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Printer/Printer.dict -- data/linux/processed-challenges/Printer/bin/Printer\n'
+p55
+I1
+tp56
+a(I3360
+S'start_time     : 1500198444\nlast_update    : 1500201811\nfuzzer_pid     : 23951\ncycles_done    : 0\nexecs_done     : 84377\nexecs_per_sec  : 25.23\npaths_total    : 44\npaths_favored  : 16\npaths_found    : 43\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 10\npending_favs   : 14\npending_total  : 40\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500201788\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 140\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Printer/input -o /dev/shm/work/Printer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Printer/Printer.dict -- data/linux/processed-challenges/Printer/bin/Printer\n'
+p57
+I1
+tp58
+a(I3480
+S'start_time     : 1500198444\nlast_update    : 1500201931\nfuzzer_pid     : 23951\ncycles_done    : 0\nexecs_done     : 87385\nexecs_per_sec  : 25.06\npaths_total    : 46\npaths_favored  : 16\npaths_found    : 45\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 10\npending_favs   : 14\npending_total  : 42\nvariable_paths : 0\nbitmap_cvg     : 0.35%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500201907\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 140\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Printer/input -o /dev/shm/work/Printer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Printer/Printer.dict -- data/linux/processed-challenges/Printer/bin/Printer\n'
+p59
+I2
+tp60
+a(I3600
+S'start_time     : 1500198444\nlast_update    : 1500202051\nfuzzer_pid     : 23951\ncycles_done    : 0\nexecs_done     : 90385\nexecs_per_sec  : 25.21\npaths_total    : 48\npaths_favored  : 16\npaths_found    : 47\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 10\npending_favs   : 14\npending_total  : 44\nvariable_paths : 0\nbitmap_cvg     : 0.36%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500202021\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 140\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Printer/input -o /dev/shm/work/Printer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Printer/Printer.dict -- data/linux/processed-challenges/Printer/bin/Printer\n'
+p61
+I2
+tp62
+a(I3720
+S'start_time     : 1500198444\nlast_update    : 1500202171\nfuzzer_pid     : 23951\ncycles_done    : 0\nexecs_done     : 93401\nexecs_per_sec  : 25.10\npaths_total    : 49\npaths_favored  : 16\npaths_found    : 48\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 10\npending_favs   : 14\npending_total  : 45\nvariable_paths : 0\nbitmap_cvg     : 0.36%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500202122\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 140\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Printer/input -o /dev/shm/work/Printer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Printer/Printer.dict -- data/linux/processed-challenges/Printer/bin/Printer\n'
+p63
+I1
+tp64
+a(I3840
+S'start_time     : 1500198444\nlast_update    : 1500202292\nfuzzer_pid     : 23951\ncycles_done    : 0\nexecs_done     : 96397\nexecs_per_sec  : 24.66\npaths_total    : 49\npaths_favored  : 16\npaths_found    : 48\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 10\npending_favs   : 14\npending_total  : 45\nvariable_paths : 0\nbitmap_cvg     : 0.36%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500202122\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 140\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Printer/input -o /dev/shm/work/Printer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Printer/Printer.dict -- data/linux/processed-challenges/Printer/bin/Printer\n'
+p65
+I0
+tp66
+a(I3960
+S'start_time     : 1500198444\nlast_update    : 1500202412\nfuzzer_pid     : 23951\ncycles_done    : 0\nexecs_done     : 99410\nexecs_per_sec  : 25.47\npaths_total    : 51\npaths_favored  : 16\npaths_found    : 50\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 10\npending_favs   : 14\npending_total  : 47\nvariable_paths : 0\nbitmap_cvg     : 0.37%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500202371\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 140\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Printer/input -o /dev/shm/work/Printer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Printer/Printer.dict -- data/linux/processed-challenges/Printer/bin/Printer\n'
+p67
+I2
+tp68
+a(I4080
+S'start_time     : 1500198444\nlast_update    : 1500202532\nfuzzer_pid     : 23951\ncycles_done    : 0\nexecs_done     : 102425\nexecs_per_sec  : 25.28\npaths_total    : 52\npaths_favored  : 16\npaths_found    : 51\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 10\npending_favs   : 14\npending_total  : 48\nvariable_paths : 0\nbitmap_cvg     : 0.37%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500202483\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 140\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Printer/input -o /dev/shm/work/Printer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Printer/Printer.dict -- data/linux/processed-challenges/Printer/bin/Printer\n'
+p69
+I1
+tp70
+a(I4200
+S'start_time     : 1500198444\nlast_update    : 1500202652\nfuzzer_pid     : 23951\ncycles_done    : 0\nexecs_done     : 105424\nexecs_per_sec  : 25.02\npaths_total    : 53\npaths_favored  : 18\npaths_found    : 52\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 17\npending_favs   : 17\npending_total  : 48\nvariable_paths : 0\nbitmap_cvg     : 0.37%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500202629\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 140\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Printer/input -o /dev/shm/work/Printer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Printer/Printer.dict -- data/linux/processed-challenges/Printer/bin/Printer\n'
+p71
+I1
+tp72
+a(I4320
+S'start_time     : 1500198444\nlast_update    : 1500202772\nfuzzer_pid     : 23951\ncycles_done    : 0\nexecs_done     : 108424\nexecs_per_sec  : 25.40\npaths_total    : 59\npaths_favored  : 19\npaths_found    : 58\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 19\npending_favs   : 17\npending_total  : 53\nvariable_paths : 0\nbitmap_cvg     : 0.57%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500202756\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 140\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Printer/input -o /dev/shm/work/Printer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Printer/Printer.dict -- data/linux/processed-challenges/Printer/bin/Printer\n'
+p73
+I6
+tp74
+a(I4440
+S'start_time     : 1500198444\nlast_update    : 1500202893\nfuzzer_pid     : 23951\ncycles_done    : 0\nexecs_done     : 111445\nexecs_per_sec  : 24.62\npaths_total    : 60\npaths_favored  : 21\npaths_found    : 59\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 25\npending_favs   : 19\npending_total  : 53\nvariable_paths : 0\nbitmap_cvg     : 0.57%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500202797\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 140\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Printer/input -o /dev/shm/work/Printer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Printer/Printer.dict -- data/linux/processed-challenges/Printer/bin/Printer\n'
+p75
+I1
+tp76
+a(I4560
+S'start_time     : 1500198444\nlast_update    : 1500202953\nfuzzer_pid     : 23951\ncycles_done    : 0\nexecs_done     : 112972\nexecs_per_sec  : 25.81\npaths_total    : 60\npaths_favored  : 21\npaths_found    : 59\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 27\npending_favs   : 18\npending_total  : 52\nvariable_paths : 0\nbitmap_cvg     : 0.57%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500202797\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 140\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Printer/input -o /dev/shm/work/Printer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Printer/Printer.dict -- data/linux/processed-challenges/Printer/bin/Printer\n'
+p77
+I1
+tp78
+a(I4680
+S'start_time     : 1500198444\nlast_update    : 1500203073\nfuzzer_pid     : 23951\ncycles_done    : 0\nexecs_done     : 115983\nexecs_per_sec  : 24.28\npaths_total    : 62\npaths_favored  : 21\npaths_found    : 61\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 28\npending_favs   : 17\npending_total  : 53\nvariable_paths : 0\nbitmap_cvg     : 0.60%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500203045\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 140\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Printer/input -o /dev/shm/work/Printer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Printer/Printer.dict -- data/linux/processed-challenges/Printer/bin/Printer\n'
+p79
+I2
+tp80
+a(I4800
+S'start_time     : 1500198444\nlast_update    : 1500203194\nfuzzer_pid     : 23951\ncycles_done    : 0\nexecs_done     : 118998\nexecs_per_sec  : 25.10\npaths_total    : 64\npaths_favored  : 24\npaths_found    : 63\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 30\npending_favs   : 18\npending_total  : 53\nvariable_paths : 0\nbitmap_cvg     : 0.62%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500203134\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 140\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Printer/input -o /dev/shm/work/Printer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Printer/Printer.dict -- data/linux/processed-challenges/Printer/bin/Printer\n'
+p81
+I1
+tp82
+a(I4920
+S'start_time     : 1500198444\nlast_update    : 1500203314\nfuzzer_pid     : 23951\ncycles_done    : 0\nexecs_done     : 121975\nexecs_per_sec  : 25.01\npaths_total    : 64\npaths_favored  : 24\npaths_found    : 63\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 32\npending_favs   : 17\npending_total  : 52\nvariable_paths : 0\nbitmap_cvg     : 0.62%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500203134\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 140\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Printer/input -o /dev/shm/work/Printer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Printer/Printer.dict -- data/linux/processed-challenges/Printer/bin/Printer\n'
+p83
+I5
+tp84
+a(I5040
+S'start_time     : 1500198444\nlast_update    : 1500203434\nfuzzer_pid     : 23951\ncycles_done    : 0\nexecs_done     : 124992\nexecs_per_sec  : 25.72\npaths_total    : 71\npaths_favored  : 24\npaths_found    : 70\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 32\npending_favs   : 17\npending_total  : 59\nvariable_paths : 0\nbitmap_cvg     : 0.63%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500203427\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 140\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Printer/input -o /dev/shm/work/Printer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Printer/Printer.dict -- data/linux/processed-challenges/Printer/bin/Printer\n'
+p85
+I3
+tp86
+a(I5160
+S'start_time     : 1500198444\nlast_update    : 1500203554\nfuzzer_pid     : 23951\ncycles_done    : 0\nexecs_done     : 128003\nexecs_per_sec  : 25.28\npaths_total    : 72\npaths_favored  : 24\npaths_found    : 71\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 32\npending_favs   : 17\npending_total  : 60\nvariable_paths : 0\nbitmap_cvg     : 0.63%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500203452\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 140\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Printer/input -o /dev/shm/work/Printer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Printer/Printer.dict -- data/linux/processed-challenges/Printer/bin/Printer\n'
+p87
+I0
+tp88
+a(I5280
+S'start_time     : 1500198444\nlast_update    : 1500203675\nfuzzer_pid     : 23951\ncycles_done    : 0\nexecs_done     : 131024\nexecs_per_sec  : 25.27\npaths_total    : 72\npaths_favored  : 24\npaths_found    : 71\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 32\npending_favs   : 17\npending_total  : 60\nvariable_paths : 0\nbitmap_cvg     : 0.63%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500203452\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 140\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Printer/input -o /dev/shm/work/Printer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Printer/Printer.dict -- data/linux/processed-challenges/Printer/bin/Printer\n'
+p89
+I2
+tp90
+a(I5400
+S'start_time     : 1500198444\nlast_update    : 1500203795\nfuzzer_pid     : 23951\ncycles_done    : 0\nexecs_done     : 134044\nexecs_per_sec  : 25.07\npaths_total    : 75\npaths_favored  : 24\npaths_found    : 74\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 32\npending_favs   : 17\npending_total  : 63\nvariable_paths : 0\nbitmap_cvg     : 0.63%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500203739\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 140\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Printer/input -o /dev/shm/work/Printer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Printer/Printer.dict -- data/linux/processed-challenges/Printer/bin/Printer\n'
+p91
+I1
+tp92
+a(I5520
+S'start_time     : 1500198444\nlast_update    : 1500203915\nfuzzer_pid     : 23951\ncycles_done    : 0\nexecs_done     : 137081\nexecs_per_sec  : 24.72\npaths_total    : 75\npaths_favored  : 24\npaths_found    : 74\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 32\npending_favs   : 17\npending_total  : 63\nvariable_paths : 0\nbitmap_cvg     : 0.63%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500203739\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 140\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Printer/input -o /dev/shm/work/Printer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Printer/Printer.dict -- data/linux/processed-challenges/Printer/bin/Printer\n'
+p93
+I0
+tp94
+a(I5640
+S'start_time     : 1500198444\nlast_update    : 1500204035\nfuzzer_pid     : 23951\ncycles_done    : 0\nexecs_done     : 140077\nexecs_per_sec  : 24.77\npaths_total    : 75\npaths_favored  : 24\npaths_found    : 74\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 32\npending_favs   : 17\npending_total  : 63\nvariable_paths : 0\nbitmap_cvg     : 0.63%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500203739\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 140\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Printer/input -o /dev/shm/work/Printer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Printer/Printer.dict -- data/linux/processed-challenges/Printer/bin/Printer\n'
+p95
+I0
+tp96
+a(I5760
+S'start_time     : 1500198444\nlast_update    : 1500204155\nfuzzer_pid     : 23951\ncycles_done    : 0\nexecs_done     : 143121\nexecs_per_sec  : 25.70\npaths_total    : 75\npaths_favored  : 24\npaths_found    : 74\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 32\npending_favs   : 17\npending_total  : 63\nvariable_paths : 0\nbitmap_cvg     : 0.63%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500203739\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 140\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Printer/input -o /dev/shm/work/Printer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Printer/Printer.dict -- data/linux/processed-challenges/Printer/bin/Printer\n'
+p97
+I0
+tp98
+a(I5880
+S'start_time     : 1500198444\nlast_update    : 1500204276\nfuzzer_pid     : 23951\ncycles_done    : 0\nexecs_done     : 146134\nexecs_per_sec  : 25.27\npaths_total    : 76\npaths_favored  : 24\npaths_found    : 75\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 32\npending_favs   : 17\npending_total  : 64\nvariable_paths : 0\nbitmap_cvg     : 0.63%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500204270\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 140\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Printer/input -o /dev/shm/work/Printer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Printer/Printer.dict -- data/linux/processed-challenges/Printer/bin/Printer\n'
+p99
+I2
+tp100
+a(I6000
+S'start_time     : 1500198444\nlast_update    : 1500204396\nfuzzer_pid     : 23951\ncycles_done    : 0\nexecs_done     : 149147\nexecs_per_sec  : 25.56\npaths_total    : 77\npaths_favored  : 24\npaths_found    : 76\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 32\npending_favs   : 17\npending_total  : 65\nvariable_paths : 0\nbitmap_cvg     : 0.63%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500204296\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 140\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Printer/input -o /dev/shm/work/Printer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Printer/Printer.dict -- data/linux/processed-challenges/Printer/bin/Printer\n'
+p101
+I0
+tp102
+a(I6120
+S'start_time     : 1500198444\nlast_update    : 1500204516\nfuzzer_pid     : 23951\ncycles_done    : 0\nexecs_done     : 152178\nexecs_per_sec  : 26.04\npaths_total    : 77\npaths_favored  : 24\npaths_found    : 76\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 32\npending_favs   : 17\npending_total  : 65\nvariable_paths : 0\nbitmap_cvg     : 0.63%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500204296\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 140\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Printer/input -o /dev/shm/work/Printer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Printer/Printer.dict -- data/linux/processed-challenges/Printer/bin/Printer\n'
+p103
+I0
+tp104
+a(I6240
+S'start_time     : 1500198444\nlast_update    : 1500204636\nfuzzer_pid     : 23951\ncycles_done    : 0\nexecs_done     : 155192\nexecs_per_sec  : 24.57\npaths_total    : 77\npaths_favored  : 24\npaths_found    : 76\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 35\npending_favs   : 18\npending_total  : 64\nvariable_paths : 0\nbitmap_cvg     : 0.63%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500204296\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 140\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Printer/input -o /dev/shm/work/Printer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Printer/Printer.dict -- data/linux/processed-challenges/Printer/bin/Printer\n'
+p105
+I1
+tp106
+a(I6360
+S'start_time     : 1500198444\nlast_update    : 1500204756\nfuzzer_pid     : 23951\ncycles_done    : 0\nexecs_done     : 158228\nexecs_per_sec  : 24.75\npaths_total    : 78\npaths_favored  : 24\npaths_found    : 77\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 35\npending_favs   : 18\npending_total  : 65\nvariable_paths : 0\nbitmap_cvg     : 0.63%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500204689\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 140\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Printer/input -o /dev/shm/work/Printer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Printer/Printer.dict -- data/linux/processed-challenges/Printer/bin/Printer\n'
+p107
+I0
+tp108
+a(I6480
+S'start_time     : 1500198444\nlast_update    : 1500204877\nfuzzer_pid     : 23951\ncycles_done    : 0\nexecs_done     : 161218\nexecs_per_sec  : 24.68\npaths_total    : 78\npaths_favored  : 24\npaths_found    : 77\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 37\npending_favs   : 17\npending_total  : 64\nvariable_paths : 0\nbitmap_cvg     : 0.63%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500204689\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 140\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Printer/input -o /dev/shm/work/Printer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Printer/Printer.dict -- data/linux/processed-challenges/Printer/bin/Printer\n'
+p109
+I1
+tp110
+a(I6600
+S'start_time     : 1500198444\nlast_update    : 1500204997\nfuzzer_pid     : 23951\ncycles_done    : 0\nexecs_done     : 164240\nexecs_per_sec  : 25.52\npaths_total    : 79\npaths_favored  : 24\npaths_found    : 78\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 38\npending_favs   : 16\npending_total  : 64\nvariable_paths : 0\nbitmap_cvg     : 0.63%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500204884\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 140\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Printer/input -o /dev/shm/work/Printer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Printer/Printer.dict -- data/linux/processed-challenges/Printer/bin/Printer\n'
+p111
+I0
+tp112
+a(I6720
+S'start_time     : 1500198444\nlast_update    : 1500205117\nfuzzer_pid     : 23951\ncycles_done    : 0\nexecs_done     : 167265\nexecs_per_sec  : 25.31\npaths_total    : 79\npaths_favored  : 24\npaths_found    : 78\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 38\npending_favs   : 16\npending_total  : 64\nvariable_paths : 0\nbitmap_cvg     : 0.63%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500204884\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 140\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Printer/input -o /dev/shm/work/Printer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Printer/Printer.dict -- data/linux/processed-challenges/Printer/bin/Printer\n'
+p113
+I0
+tp114
+a(I6840
+S'start_time     : 1500198444\nlast_update    : 1500205237\nfuzzer_pid     : 23951\ncycles_done    : 0\nexecs_done     : 170299\nexecs_per_sec  : 24.54\npaths_total    : 79\npaths_favored  : 24\npaths_found    : 78\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 38\npending_favs   : 16\npending_total  : 64\nvariable_paths : 0\nbitmap_cvg     : 0.63%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500204884\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 140\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Printer/input -o /dev/shm/work/Printer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Printer/Printer.dict -- data/linux/processed-challenges/Printer/bin/Printer\n'
+p115
+I0
+tp116
+a(I6960
+S'start_time     : 1500198444\nlast_update    : 1500205358\nfuzzer_pid     : 23951\ncycles_done    : 0\nexecs_done     : 173370\nexecs_per_sec  : 25.71\npaths_total    : 79\npaths_favored  : 24\npaths_found    : 78\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 38\npending_favs   : 16\npending_total  : 64\nvariable_paths : 0\nbitmap_cvg     : 0.63%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500204884\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 140\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Printer/input -o /dev/shm/work/Printer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Printer/Printer.dict -- data/linux/processed-challenges/Printer/bin/Printer\n'
+p117
+I0
+tp118
+a(I7080
+S'start_time     : 1500198444\nlast_update    : 1500205478\nfuzzer_pid     : 23951\ncycles_done    : 0\nexecs_done     : 176403\nexecs_per_sec  : 25.75\npaths_total    : 79\npaths_favored  : 24\npaths_found    : 78\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 38\npending_favs   : 16\npending_total  : 64\nvariable_paths : 0\nbitmap_cvg     : 0.63%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500204884\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 140\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Printer/input -o /dev/shm/work/Printer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Printer/Printer.dict -- data/linux/processed-challenges/Printer/bin/Printer\n'
+p119
+I0
+tp120
+a(I7200
+S'start_time     : 1500198444\nlast_update    : 1500205598\nfuzzer_pid     : 23951\ncycles_done    : 0\nexecs_done     : 179419\nexecs_per_sec  : 24.40\npaths_total    : 79\npaths_favored  : 24\npaths_found    : 78\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 38\npending_favs   : 16\npending_total  : 64\nvariable_paths : 0\nbitmap_cvg     : 0.63%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500204884\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 140\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Printer/input -o /dev/shm/work/Printer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Printer/Printer.dict -- data/linux/processed-challenges/Printer/bin/Printer\n'
+p121
+I0
+tp122
+a(I7320
+S'start_time     : 1500198444\nlast_update    : 1500205718\nfuzzer_pid     : 23951\ncycles_done    : 0\nexecs_done     : 182440\nexecs_per_sec  : 25.15\npaths_total    : 79\npaths_favored  : 24\npaths_found    : 78\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 38\npending_favs   : 16\npending_total  : 64\nvariable_paths : 0\nbitmap_cvg     : 0.63%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500204884\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 140\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Printer/input -o /dev/shm/work/Printer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Printer/Printer.dict -- data/linux/processed-challenges/Printer/bin/Printer\n'
+p123
+I0
+tp124
+a(I7440
+S'start_time     : 1500198444\nlast_update    : 1500205839\nfuzzer_pid     : 23951\ncycles_done    : 0\nexecs_done     : 185492\nexecs_per_sec  : 25.71\npaths_total    : 79\npaths_favored  : 24\npaths_found    : 78\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 38\npending_favs   : 16\npending_total  : 64\nvariable_paths : 0\nbitmap_cvg     : 0.63%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500204884\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 140\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Printer/input -o /dev/shm/work/Printer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Printer/Printer.dict -- data/linux/processed-challenges/Printer/bin/Printer\n'
+p125
+I2
+tp126
+a(I7560
+S'start_time     : 1500198444\nlast_update    : 1500205959\nfuzzer_pid     : 23951\ncycles_done    : 0\nexecs_done     : 188537\nexecs_per_sec  : 25.18\npaths_total    : 81\npaths_favored  : 24\npaths_found    : 80\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 38\npending_favs   : 16\npending_total  : 66\nvariable_paths : 0\nbitmap_cvg     : 0.63%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500205893\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 140\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Printer/input -o /dev/shm/work/Printer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Printer/Printer.dict -- data/linux/processed-challenges/Printer/bin/Printer\n'
+p127
+I0
+tp128
+a(I7680
+S'start_time     : 1500198444\nlast_update    : 1500206079\nfuzzer_pid     : 23951\ncycles_done    : 0\nexecs_done     : 191577\nexecs_per_sec  : 25.30\npaths_total    : 81\npaths_favored  : 24\npaths_found    : 80\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 39\npending_favs   : 15\npending_total  : 65\nvariable_paths : 0\nbitmap_cvg     : 0.63%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500205893\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 140\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Printer/input -o /dev/shm/work/Printer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Printer/Printer.dict -- data/linux/processed-challenges/Printer/bin/Printer\n'
+p129
+I4
+tp130
+a(I7800
+S'start_time     : 1500198444\nlast_update    : 1500206199\nfuzzer_pid     : 23951\ncycles_done    : 0\nexecs_done     : 194595\nexecs_per_sec  : 25.02\npaths_total    : 89\npaths_favored  : 24\npaths_found    : 88\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 39\npending_favs   : 15\npending_total  : 73\nvariable_paths : 0\nbitmap_cvg     : 0.65%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500206174\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 140\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Printer/input -o /dev/shm/work/Printer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Printer/Printer.dict -- data/linux/processed-challenges/Printer/bin/Printer\n'
+p131
+I5
+tp132
+a(I7920
+S'start_time     : 1500198444\nlast_update    : 1500206319\nfuzzer_pid     : 23951\ncycles_done    : 0\nexecs_done     : 197629\nexecs_per_sec  : 25.46\npaths_total    : 91\npaths_favored  : 24\npaths_found    : 90\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 39\npending_favs   : 15\npending_total  : 75\nvariable_paths : 0\nbitmap_cvg     : 0.65%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500206266\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 140\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Printer/input -o /dev/shm/work/Printer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Printer/Printer.dict -- data/linux/processed-challenges/Printer/bin/Printer\n'
+p133
+I1
+tp134
+a(I8040
+S'start_time     : 1500198444\nlast_update    : 1500206439\nfuzzer_pid     : 23951\ncycles_done    : 0\nexecs_done     : 200677\nexecs_per_sec  : 25.59\npaths_total    : 91\npaths_favored  : 24\npaths_found    : 90\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 39\npending_favs   : 15\npending_total  : 75\nvariable_paths : 0\nbitmap_cvg     : 0.65%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500206266\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 140\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Printer/input -o /dev/shm/work/Printer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Printer/Printer.dict -- data/linux/processed-challenges/Printer/bin/Printer\n'
+p135
+I0
+tp136
+a(I8160
+S'start_time     : 1500198444\nlast_update    : 1500206560\nfuzzer_pid     : 23951\ncycles_done    : 0\nexecs_done     : 203704\nexecs_per_sec  : 24.97\npaths_total    : 91\npaths_favored  : 24\npaths_found    : 90\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 39\npending_favs   : 15\npending_total  : 75\nvariable_paths : 0\nbitmap_cvg     : 0.65%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500206266\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 140\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Printer/input -o /dev/shm/work/Printer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Printer/Printer.dict -- data/linux/processed-challenges/Printer/bin/Printer\n'
+p137
+I0
+tp138
+a(I8280
+S'start_time     : 1500198444\nlast_update    : 1500206680\nfuzzer_pid     : 23951\ncycles_done    : 0\nexecs_done     : 206727\nexecs_per_sec  : 25.04\npaths_total    : 91\npaths_favored  : 24\npaths_found    : 90\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 39\npending_favs   : 15\npending_total  : 75\nvariable_paths : 0\nbitmap_cvg     : 0.65%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500206266\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 140\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Printer/input -o /dev/shm/work/Printer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Printer/Printer.dict -- data/linux/processed-challenges/Printer/bin/Printer\n'
+p139
+I0
+tp140
+a(I8400
+S'start_time     : 1500198444\nlast_update    : 1500206800\nfuzzer_pid     : 23951\ncycles_done    : 0\nexecs_done     : 209747\nexecs_per_sec  : 24.02\npaths_total    : 91\npaths_favored  : 24\npaths_found    : 90\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 39\npending_favs   : 15\npending_total  : 75\nvariable_paths : 0\nbitmap_cvg     : 0.65%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500206266\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 140\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Printer/input -o /dev/shm/work/Printer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Printer/Printer.dict -- data/linux/processed-challenges/Printer/bin/Printer\n'
+p141
+I0
+tp142
+a(I8520
+S'start_time     : 1500198444\nlast_update    : 1500206920\nfuzzer_pid     : 23951\ncycles_done    : 0\nexecs_done     : 212769\nexecs_per_sec  : 24.94\npaths_total    : 91\npaths_favored  : 24\npaths_found    : 90\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 39\npending_favs   : 15\npending_total  : 75\nvariable_paths : 0\nbitmap_cvg     : 0.65%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500206266\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 140\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Printer/input -o /dev/shm/work/Printer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Printer/Printer.dict -- data/linux/processed-challenges/Printer/bin/Printer\n'
+p143
+I0
+tp144
+a(I8640
+S'start_time     : 1500198444\nlast_update    : 1500207041\nfuzzer_pid     : 23951\ncycles_done    : 0\nexecs_done     : 215807\nexecs_per_sec  : 25.07\npaths_total    : 91\npaths_favored  : 24\npaths_found    : 90\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 39\npending_favs   : 15\npending_total  : 75\nvariable_paths : 0\nbitmap_cvg     : 0.65%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500206266\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 140\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Printer/input -o /dev/shm/work/Printer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Printer/Printer.dict -- data/linux/processed-challenges/Printer/bin/Printer\n'
+p145
+I0
+tp146
+a(I8760
+S'start_time     : 1500198444\nlast_update    : 1500207161\nfuzzer_pid     : 23951\ncycles_done    : 0\nexecs_done     : 218820\nexecs_per_sec  : 25.44\npaths_total    : 91\npaths_favored  : 24\npaths_found    : 90\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 39\npending_favs   : 15\npending_total  : 75\nvariable_paths : 0\nbitmap_cvg     : 0.65%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500206266\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 140\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Printer/input -o /dev/shm/work/Printer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Printer/Printer.dict -- data/linux/processed-challenges/Printer/bin/Printer\n'
+p147
+I0
+tp148
+a(I8880
+S'start_time     : 1500198444\nlast_update    : 1500207281\nfuzzer_pid     : 23951\ncycles_done    : 0\nexecs_done     : 221818\nexecs_per_sec  : 24.57\npaths_total    : 92\npaths_favored  : 24\npaths_found    : 91\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 39\npending_favs   : 15\npending_total  : 76\nvariable_paths : 0\nbitmap_cvg     : 0.65%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500207245\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 140\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Printer/input -o /dev/shm/work/Printer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Printer/Printer.dict -- data/linux/processed-challenges/Printer/bin/Printer\n'
+p149
+I1
+tp150
+a(I9000
+S'start_time     : 1500198444\nlast_update    : 1500207402\nfuzzer_pid     : 23951\ncycles_done    : 0\nexecs_done     : 224840\nexecs_per_sec  : 24.97\npaths_total    : 92\npaths_favored  : 27\npaths_found    : 91\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 44\npending_favs   : 17\npending_total  : 75\nvariable_paths : 0\nbitmap_cvg     : 0.65%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500207245\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 140\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Printer/input -o /dev/shm/work/Printer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Printer/Printer.dict -- data/linux/processed-challenges/Printer/bin/Printer\n'
+p151
+I0
+tp152
+a(I9120
+S'start_time     : 1500198444\nlast_update    : 1500207522\nfuzzer_pid     : 23951\ncycles_done    : 0\nexecs_done     : 227859\nexecs_per_sec  : 25.05\npaths_total    : 92\npaths_favored  : 27\npaths_found    : 91\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 44\npending_favs   : 17\npending_total  : 75\nvariable_paths : 0\nbitmap_cvg     : 0.65%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500207245\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 140\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Printer/input -o /dev/shm/work/Printer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Printer/Printer.dict -- data/linux/processed-challenges/Printer/bin/Printer\n'
+p153
+I0
+tp154
+a(I9240
+S'start_time     : 1500198444\nlast_update    : 1500207642\nfuzzer_pid     : 23951\ncycles_done    : 0\nexecs_done     : 230890\nexecs_per_sec  : 25.71\npaths_total    : 92\npaths_favored  : 27\npaths_found    : 91\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 46\npending_favs   : 16\npending_total  : 74\nvariable_paths : 0\nbitmap_cvg     : 0.65%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500207245\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 140\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Printer/input -o /dev/shm/work/Printer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Printer/Printer.dict -- data/linux/processed-challenges/Printer/bin/Printer\n'
+p155
+I0
+tp156
+a(I9360
+S'start_time     : 1500198444\nlast_update    : 1500207762\nfuzzer_pid     : 23951\ncycles_done    : 0\nexecs_done     : 233925\nexecs_per_sec  : 25.50\npaths_total    : 93\npaths_favored  : 27\npaths_found    : 92\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 46\npending_favs   : 16\npending_total  : 75\nvariable_paths : 0\nbitmap_cvg     : 0.65%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500207743\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 140\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Printer/input -o /dev/shm/work/Printer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Printer/Printer.dict -- data/linux/processed-challenges/Printer/bin/Printer\n'
+p157
+I1
+tp158
+a(I9480
+S'start_time     : 1500198444\nlast_update    : 1500207882\nfuzzer_pid     : 23951\ncycles_done    : 0\nexecs_done     : 236958\nexecs_per_sec  : 25.56\npaths_total    : 93\npaths_favored  : 27\npaths_found    : 92\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 53\npending_favs   : 15\npending_total  : 74\nvariable_paths : 0\nbitmap_cvg     : 0.65%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500207743\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 140\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Printer/input -o /dev/shm/work/Printer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Printer/Printer.dict -- data/linux/processed-challenges/Printer/bin/Printer\n'
+p159
+I0
+tp160
+a(I9600
+S'start_time     : 1500198444\nlast_update    : 1500208003\nfuzzer_pid     : 23951\ncycles_done    : 0\nexecs_done     : 239976\nexecs_per_sec  : 25.24\npaths_total    : 93\npaths_favored  : 27\npaths_found    : 92\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 55\npending_favs   : 14\npending_total  : 73\nvariable_paths : 0\nbitmap_cvg     : 0.65%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500207743\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 140\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Printer/input -o /dev/shm/work/Printer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Printer/Printer.dict -- data/linux/processed-challenges/Printer/bin/Printer\n'
+p161
+I1
+tp162
+a(I9720
+S'start_time     : 1500198444\nlast_update    : 1500208123\nfuzzer_pid     : 23951\ncycles_done    : 0\nexecs_done     : 242985\nexecs_per_sec  : 25.54\npaths_total    : 94\npaths_favored  : 27\npaths_found    : 93\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 56\npending_favs   : 13\npending_total  : 73\nvariable_paths : 0\nbitmap_cvg     : 0.65%\nunique_crashes : 1\nunique_hangs   : 0\nlast_path      : 1500208029\nlast_crash     : 1500208025\nlast_hang      : 0\nexec_timeout   : 140\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Printer/input -o /dev/shm/work/Printer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Printer/Printer.dict -- data/linux/processed-challenges/Printer/bin/Printer\n'
+p163
+I0
+tp164
+a(I9840
+S'start_time     : 1500198444\nlast_update    : 1500208243\nfuzzer_pid     : 23951\ncycles_done    : 0\nexecs_done     : 246001\nexecs_per_sec  : 24.61\npaths_total    : 94\npaths_favored  : 27\npaths_found    : 93\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 56\npending_favs   : 13\npending_total  : 73\nvariable_paths : 0\nbitmap_cvg     : 0.65%\nunique_crashes : 1\nunique_hangs   : 0\nlast_path      : 1500208029\nlast_crash     : 1500208025\nlast_hang      : 0\nexec_timeout   : 140\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Printer/input -o /dev/shm/work/Printer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Printer/Printer.dict -- data/linux/processed-challenges/Printer/bin/Printer\n'
+p165
+I0
+tp166
+a(I9960
+S'start_time     : 1500198444\nlast_update    : 1500208363\nfuzzer_pid     : 23951\ncycles_done    : 0\nexecs_done     : 249042\nexecs_per_sec  : 25.14\npaths_total    : 94\npaths_favored  : 28\npaths_found    : 93\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 60\npending_favs   : 13\npending_total  : 72\nvariable_paths : 0\nbitmap_cvg     : 0.65%\nunique_crashes : 2\nunique_hangs   : 0\nlast_path      : 1500208029\nlast_crash     : 1500208281\nlast_hang      : 0\nexec_timeout   : 140\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Printer/input -o /dev/shm/work/Printer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Printer/Printer.dict -- data/linux/processed-challenges/Printer/bin/Printer\n'
+p167
+I0
+tp168
+a(I10080
+S'start_time     : 1500198444\nlast_update    : 1500208484\nfuzzer_pid     : 23951\ncycles_done    : 0\nexecs_done     : 252051\nexecs_per_sec  : 25.18\npaths_total    : 94\npaths_favored  : 28\npaths_found    : 93\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 62\npending_favs   : 12\npending_total  : 71\nvariable_paths : 0\nbitmap_cvg     : 0.65%\nunique_crashes : 2\nunique_hangs   : 0\nlast_path      : 1500208029\nlast_crash     : 1500208281\nlast_hang      : 0\nexec_timeout   : 140\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Printer/input -o /dev/shm/work/Printer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Printer/Printer.dict -- data/linux/processed-challenges/Printer/bin/Printer\n'
+p169
+I0
+tp170
+a(I10200
+S'start_time     : 1500198444\nlast_update    : 1500208604\nfuzzer_pid     : 23951\ncycles_done    : 0\nexecs_done     : 255091\nexecs_per_sec  : 25.02\npaths_total    : 94\npaths_favored  : 28\npaths_found    : 93\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 62\npending_favs   : 12\npending_total  : 71\nvariable_paths : 0\nbitmap_cvg     : 0.65%\nunique_crashes : 2\nunique_hangs   : 0\nlast_path      : 1500208029\nlast_crash     : 1500208281\nlast_hang      : 0\nexec_timeout   : 140\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Printer/input -o /dev/shm/work/Printer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Printer/Printer.dict -- data/linux/processed-challenges/Printer/bin/Printer\n'
+p171
+I0
+tp172
+a(I10320
+S'start_time     : 1500198444\nlast_update    : 1500208724\nfuzzer_pid     : 23951\ncycles_done    : 0\nexecs_done     : 258134\nexecs_per_sec  : 25.61\npaths_total    : 94\npaths_favored  : 28\npaths_found    : 93\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 63\npending_favs   : 11\npending_total  : 70\nvariable_paths : 0\nbitmap_cvg     : 0.65%\nunique_crashes : 2\nunique_hangs   : 0\nlast_path      : 1500208029\nlast_crash     : 1500208281\nlast_hang      : 0\nexec_timeout   : 140\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Printer/input -o /dev/shm/work/Printer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Printer/Printer.dict -- data/linux/processed-challenges/Printer/bin/Printer\n'
+p173
+I0
+tp174
+a(I10440
+S'start_time     : 1500198444\nlast_update    : 1500208844\nfuzzer_pid     : 23951\ncycles_done    : 0\nexecs_done     : 261162\nexecs_per_sec  : 25.05\npaths_total    : 94\npaths_favored  : 28\npaths_found    : 93\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 64\npending_favs   : 10\npending_total  : 69\nvariable_paths : 0\nbitmap_cvg     : 0.65%\nunique_crashes : 2\nunique_hangs   : 0\nlast_path      : 1500208029\nlast_crash     : 1500208281\nlast_hang      : 0\nexec_timeout   : 140\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Printer/input -o /dev/shm/work/Printer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Printer/Printer.dict -- data/linux/processed-challenges/Printer/bin/Printer\n'
+p175
+I0
+tp176
+a(I10560
+S'start_time     : 1500198444\nlast_update    : 1500208964\nfuzzer_pid     : 23951\ncycles_done    : 0\nexecs_done     : 264191\nexecs_per_sec  : 25.00\npaths_total    : 94\npaths_favored  : 28\npaths_found    : 93\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 64\npending_favs   : 10\npending_total  : 69\nvariable_paths : 0\nbitmap_cvg     : 0.65%\nunique_crashes : 2\nunique_hangs   : 0\nlast_path      : 1500208029\nlast_crash     : 1500208281\nlast_hang      : 0\nexec_timeout   : 140\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Printer/input -o /dev/shm/work/Printer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Printer/Printer.dict -- data/linux/processed-challenges/Printer/bin/Printer\n'
+p177
+I1
+tp178
+a(I10680
+S'start_time     : 1500198444\nlast_update    : 1500209084\nfuzzer_pid     : 23951\ncycles_done    : 0\nexecs_done     : 267210\nexecs_per_sec  : 25.13\npaths_total    : 96\npaths_favored  : 28\npaths_found    : 95\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 70\npending_favs   : 9\npending_total  : 70\nvariable_paths : 0\nbitmap_cvg     : 0.65%\nunique_crashes : 2\nunique_hangs   : 0\nlast_path      : 1500209067\nlast_crash     : 1500208281\nlast_hang      : 0\nexec_timeout   : 140\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Printer/input -o /dev/shm/work/Printer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Printer/Printer.dict -- data/linux/processed-challenges/Printer/bin/Printer\n'
+p179
+I2
+tp180
+a.

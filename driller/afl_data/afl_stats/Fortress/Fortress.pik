@@ -1,0 +1,452 @@
+(lp0
+(I0
+S'start_time     : 1499927916\nlast_update    : 1499927916\nfuzzer_pid     : 27367\ncycles_done    : 0\nexecs_done     : 10\nexecs_per_sec  : 178.57\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 1\npending_total  : 1\nvariable_paths : 0\nbitmap_cvg     : 0.10%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Fortress/input -o /dev/shm/work/Fortress/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Fortress/Fortress.dict -- data/linux/processed-challenges/Fortress/bin/Fortress\n'
+p1
+I9
+tp2
+a(I120
+S'start_time     : 1499927916\nlast_update    : 1499928036\nfuzzer_pid     : 27367\ncycles_done    : 0\nexecs_done     : 131940\nexecs_per_sec  : 1071.70\npaths_total    : 26\npaths_favored  : 1\npaths_found    : 25\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 1\npending_total  : 26\nvariable_paths : 0\nbitmap_cvg     : 0.87%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499928035\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Fortress/input -o /dev/shm/work/Fortress/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Fortress/Fortress.dict -- data/linux/processed-challenges/Fortress/bin/Fortress\n'
+p3
+I17
+tp4
+a(I240
+S'start_time     : 1499927916\nlast_update    : 1499928156\nfuzzer_pid     : 27367\ncycles_done    : 0\nexecs_done     : 232760\nexecs_per_sec  : 824.44\npaths_total    : 52\npaths_favored  : 14\npaths_found    : 51\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 1\npending_favs   : 13\npending_total  : 51\nvariable_paths : 0\nbitmap_cvg     : 0.94%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499928145\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Fortress/input -o /dev/shm/work/Fortress/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Fortress/Fortress.dict -- data/linux/processed-challenges/Fortress/bin/Fortress\n'
+p5
+I26
+tp6
+a(I360
+S'start_time     : 1499927916\nlast_update    : 1499928277\nfuzzer_pid     : 27367\ncycles_done    : 0\nexecs_done     : 331168\nexecs_per_sec  : 807.05\npaths_total    : 67\npaths_favored  : 25\npaths_found    : 66\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 11\npending_favs   : 22\npending_total  : 64\nvariable_paths : 0\nbitmap_cvg     : 1.05%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499928276\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Fortress/input -o /dev/shm/work/Fortress/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Fortress/Fortress.dict -- data/linux/processed-challenges/Fortress/bin/Fortress\n'
+p7
+I15
+tp8
+a(I480
+S'start_time     : 1499927916\nlast_update    : 1499928397\nfuzzer_pid     : 27367\ncycles_done    : 0\nexecs_done     : 421552\nexecs_per_sec  : 777.14\npaths_total    : 85\npaths_favored  : 25\npaths_found    : 84\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 11\npending_favs   : 22\npending_total  : 82\nvariable_paths : 0\nbitmap_cvg     : 1.09%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499928392\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Fortress/input -o /dev/shm/work/Fortress/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Fortress/Fortress.dict -- data/linux/processed-challenges/Fortress/bin/Fortress\n'
+p9
+I18
+tp10
+a(I600
+S'start_time     : 1499927916\nlast_update    : 1499928517\nfuzzer_pid     : 27367\ncycles_done    : 0\nexecs_done     : 509872\nexecs_per_sec  : 678.92\npaths_total    : 102\npaths_favored  : 32\npaths_found    : 101\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 12\npending_favs   : 29\npending_total  : 98\nvariable_paths : 0\nbitmap_cvg     : 1.16%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499928514\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Fortress/input -o /dev/shm/work/Fortress/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Fortress/Fortress.dict -- data/linux/processed-challenges/Fortress/bin/Fortress\n'
+p11
+I17
+tp12
+a(I720
+S'start_time     : 1499927916\nlast_update    : 1499928637\nfuzzer_pid     : 27367\ncycles_done    : 0\nexecs_done     : 592566\nexecs_per_sec  : 704.62\npaths_total    : 109\npaths_favored  : 32\npaths_found    : 108\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 12\npending_favs   : 29\npending_total  : 105\nvariable_paths : 0\nbitmap_cvg     : 1.17%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499928631\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Fortress/input -o /dev/shm/work/Fortress/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Fortress/Fortress.dict -- data/linux/processed-challenges/Fortress/bin/Fortress\n'
+p13
+I7
+tp14
+a(I840
+S'start_time     : 1499927916\nlast_update    : 1499928757\nfuzzer_pid     : 27367\ncycles_done    : 0\nexecs_done     : 671853\nexecs_per_sec  : 561.02\npaths_total    : 112\npaths_favored  : 36\npaths_found    : 111\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 28\npending_favs   : 31\npending_total  : 105\nvariable_paths : 0\nbitmap_cvg     : 1.19%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499928702\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Fortress/input -o /dev/shm/work/Fortress/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Fortress/Fortress.dict -- data/linux/processed-challenges/Fortress/bin/Fortress\n'
+p15
+I3
+tp16
+a(I960
+S'start_time     : 1499927916\nlast_update    : 1499928878\nfuzzer_pid     : 27367\ncycles_done    : 0\nexecs_done     : 729640\nexecs_per_sec  : 617.92\npaths_total    : 118\npaths_favored  : 36\npaths_found    : 117\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 34\npending_favs   : 30\npending_total  : 110\nvariable_paths : 0\nbitmap_cvg     : 1.20%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499928858\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Fortress/input -o /dev/shm/work/Fortress/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Fortress/Fortress.dict -- data/linux/processed-challenges/Fortress/bin/Fortress\n'
+p17
+I6
+tp18
+a(I1080
+S'start_time     : 1499927916\nlast_update    : 1499928998\nfuzzer_pid     : 27367\ncycles_done    : 0\nexecs_done     : 804694\nexecs_per_sec  : 622.55\npaths_total    : 121\npaths_favored  : 36\npaths_found    : 120\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 34\npending_favs   : 30\npending_total  : 113\nvariable_paths : 0\nbitmap_cvg     : 1.20%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499928973\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Fortress/input -o /dev/shm/work/Fortress/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Fortress/Fortress.dict -- data/linux/processed-challenges/Fortress/bin/Fortress\n'
+p19
+I3
+tp20
+a(I1200
+S'start_time     : 1499927916\nlast_update    : 1499929118\nfuzzer_pid     : 27367\ncycles_done    : 0\nexecs_done     : 870887\nexecs_per_sec  : 338.56\npaths_total    : 125\npaths_favored  : 41\npaths_found    : 124\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 38\npending_favs   : 35\npending_total  : 116\nvariable_paths : 0\nbitmap_cvg     : 1.21%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499929107\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Fortress/input -o /dev/shm/work/Fortress/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Fortress/Fortress.dict -- data/linux/processed-challenges/Fortress/bin/Fortress\n'
+p21
+I4
+tp22
+a(I1320
+S'start_time     : 1499927916\nlast_update    : 1499929238\nfuzzer_pid     : 27367\ncycles_done    : 0\nexecs_done     : 927363\nexecs_per_sec  : 344.52\npaths_total    : 128\npaths_favored  : 43\npaths_found    : 127\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 47\npending_favs   : 36\npending_total  : 118\nvariable_paths : 0\nbitmap_cvg     : 1.21%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499929178\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Fortress/input -o /dev/shm/work/Fortress/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Fortress/Fortress.dict -- data/linux/processed-challenges/Fortress/bin/Fortress\n'
+p23
+I3
+tp24
+a(I1440
+S'start_time     : 1499927916\nlast_update    : 1499929358\nfuzzer_pid     : 27367\ncycles_done    : 0\nexecs_done     : 980422\nexecs_per_sec  : 641.97\npaths_total    : 133\npaths_favored  : 43\npaths_found    : 132\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 57\npending_favs   : 35\npending_total  : 122\nvariable_paths : 0\nbitmap_cvg     : 1.21%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499929358\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Fortress/input -o /dev/shm/work/Fortress/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Fortress/Fortress.dict -- data/linux/processed-challenges/Fortress/bin/Fortress\n'
+p25
+I5
+tp26
+a(I1560
+S'start_time     : 1499927916\nlast_update    : 1499929479\nfuzzer_pid     : 27367\ncycles_done    : 0\nexecs_done     : 1057744\nexecs_per_sec  : 640.59\npaths_total    : 136\npaths_favored  : 43\npaths_found    : 135\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 57\npending_favs   : 35\npending_total  : 125\nvariable_paths : 0\nbitmap_cvg     : 1.21%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499929476\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Fortress/input -o /dev/shm/work/Fortress/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Fortress/Fortress.dict -- data/linux/processed-challenges/Fortress/bin/Fortress\n'
+p27
+I3
+tp28
+a(I1680
+S'start_time     : 1499927916\nlast_update    : 1499929599\nfuzzer_pid     : 27367\ncycles_done    : 0\nexecs_done     : 1130405\nexecs_per_sec  : 358.58\npaths_total    : 136\npaths_favored  : 44\npaths_found    : 135\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 59\npending_favs   : 35\npending_total  : 124\nvariable_paths : 0\nbitmap_cvg     : 1.21%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499929476\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Fortress/input -o /dev/shm/work/Fortress/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Fortress/Fortress.dict -- data/linux/processed-challenges/Fortress/bin/Fortress\n'
+p29
+I0
+tp30
+a(I1800
+S'start_time     : 1499927916\nlast_update    : 1499929719\nfuzzer_pid     : 27367\ncycles_done    : 0\nexecs_done     : 1210308\nexecs_per_sec  : 774.70\npaths_total    : 155\npaths_favored  : 45\npaths_found    : 154\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 65\npending_favs   : 35\npending_total  : 141\nvariable_paths : 0\nbitmap_cvg     : 1.50%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499929704\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Fortress/input -o /dev/shm/work/Fortress/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Fortress/Fortress.dict -- data/linux/processed-challenges/Fortress/bin/Fortress\n'
+p31
+I19
+tp32
+a(I1920
+S'start_time     : 1499927916\nlast_update    : 1499929839\nfuzzer_pid     : 27367\ncycles_done    : 0\nexecs_done     : 1303593\nexecs_per_sec  : 761.56\npaths_total    : 161\npaths_favored  : 45\npaths_found    : 160\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 65\npending_favs   : 35\npending_total  : 147\nvariable_paths : 0\nbitmap_cvg     : 1.51%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499929806\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Fortress/input -o /dev/shm/work/Fortress/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Fortress/Fortress.dict -- data/linux/processed-challenges/Fortress/bin/Fortress\n'
+p33
+I6
+tp34
+a(I2040
+S'start_time     : 1499927916\nlast_update    : 1499929959\nfuzzer_pid     : 27367\ncycles_done    : 0\nexecs_done     : 1371994\nexecs_per_sec  : 669.06\npaths_total    : 169\npaths_favored  : 50\npaths_found    : 168\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 78\npending_favs   : 38\npending_total  : 152\nvariable_paths : 0\nbitmap_cvg     : 1.51%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499929951\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Fortress/input -o /dev/shm/work/Fortress/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Fortress/Fortress.dict -- data/linux/processed-challenges/Fortress/bin/Fortress\n'
+p35
+I8
+tp36
+a(I2160
+S'start_time     : 1499927916\nlast_update    : 1499930080\nfuzzer_pid     : 27367\ncycles_done    : 0\nexecs_done     : 1453414\nexecs_per_sec  : 668.03\npaths_total    : 173\npaths_favored  : 50\npaths_found    : 172\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 78\npending_favs   : 38\npending_total  : 156\nvariable_paths : 0\nbitmap_cvg     : 1.52%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499930059\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Fortress/input -o /dev/shm/work/Fortress/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Fortress/Fortress.dict -- data/linux/processed-challenges/Fortress/bin/Fortress\n'
+p37
+I4
+tp38
+a(I2280
+S'start_time     : 1499927916\nlast_update    : 1499930140\nfuzzer_pid     : 27367\ncycles_done    : 0\nexecs_done     : 1493763\nexecs_per_sec  : 675.90\npaths_total    : 174\npaths_favored  : 50\npaths_found    : 173\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 78\npending_favs   : 38\npending_total  : 157\nvariable_paths : 0\nbitmap_cvg     : 1.52%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499930090\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Fortress/input -o /dev/shm/work/Fortress/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Fortress/Fortress.dict -- data/linux/processed-challenges/Fortress/bin/Fortress\n'
+p39
+I4
+tp40
+a(I2400
+S'start_time     : 1499927916\nlast_update    : 1499930260\nfuzzer_pid     : 27367\ncycles_done    : 0\nexecs_done     : 1549254\nexecs_per_sec  : 648.35\npaths_total    : 179\npaths_favored  : 49\npaths_found    : 178\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 82\npending_favs   : 38\npending_total  : 159\nvariable_paths : 0\nbitmap_cvg     : 1.54%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499930238\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Fortress/input -o /dev/shm/work/Fortress/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Fortress/Fortress.dict -- data/linux/processed-challenges/Fortress/bin/Fortress\n'
+p41
+I2
+tp42
+a(I2520
+S'start_time     : 1499927916\nlast_update    : 1499930380\nfuzzer_pid     : 27367\ncycles_done    : 0\nexecs_done     : 1600574\nexecs_per_sec  : 515.70\npaths_total    : 190\npaths_favored  : 49\npaths_found    : 189\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 87\npending_favs   : 35\npending_total  : 167\nvariable_paths : 0\nbitmap_cvg     : 1.55%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499930364\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Fortress/input -o /dev/shm/work/Fortress/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Fortress/Fortress.dict -- data/linux/processed-challenges/Fortress/bin/Fortress\n'
+p43
+I14
+tp44
+a(I2640
+S'start_time     : 1499927916\nlast_update    : 1499930500\nfuzzer_pid     : 27367\ncycles_done    : 0\nexecs_done     : 1661874\nexecs_per_sec  : 506.79\npaths_total    : 194\npaths_favored  : 49\npaths_found    : 193\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 87\npending_favs   : 35\npending_total  : 171\nvariable_paths : 0\nbitmap_cvg     : 1.57%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499930456\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Fortress/input -o /dev/shm/work/Fortress/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Fortress/Fortress.dict -- data/linux/processed-challenges/Fortress/bin/Fortress\n'
+p45
+I2
+tp46
+a(I2760
+S'start_time     : 1499927916\nlast_update    : 1499930620\nfuzzer_pid     : 27367\ncycles_done    : 0\nexecs_done     : 1723294\nexecs_per_sec  : 516.52\npaths_total    : 196\npaths_favored  : 49\npaths_found    : 195\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 87\npending_favs   : 35\npending_total  : 173\nvariable_paths : 0\nbitmap_cvg     : 1.57%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499930618\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Fortress/input -o /dev/shm/work/Fortress/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Fortress/Fortress.dict -- data/linux/processed-challenges/Fortress/bin/Fortress\n'
+p47
+I5
+tp48
+a(I2880
+S'start_time     : 1499927916\nlast_update    : 1499930740\nfuzzer_pid     : 27367\ncycles_done    : 0\nexecs_done     : 1781303\nexecs_per_sec  : 398.93\npaths_total    : 202\npaths_favored  : 54\npaths_found    : 201\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 98\npending_favs   : 38\npending_total  : 174\nvariable_paths : 0\nbitmap_cvg     : 1.78%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499930712\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Fortress/input -o /dev/shm/work/Fortress/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Fortress/Fortress.dict -- data/linux/processed-challenges/Fortress/bin/Fortress\n'
+p49
+I4
+tp50
+a(I3000
+S'start_time     : 1499927916\nlast_update    : 1499930861\nfuzzer_pid     : 27367\ncycles_done    : 0\nexecs_done     : 1826651\nexecs_per_sec  : 287.32\npaths_total    : 205\npaths_favored  : 56\npaths_found    : 204\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 104\npending_favs   : 37\npending_total  : 174\nvariable_paths : 0\nbitmap_cvg     : 1.78%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499930816\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Fortress/input -o /dev/shm/work/Fortress/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Fortress/Fortress.dict -- data/linux/processed-challenges/Fortress/bin/Fortress\n'
+p51
+I4
+tp52
+a(I3120
+S'start_time     : 1499927916\nlast_update    : 1499930981\nfuzzer_pid     : 27367\ncycles_done    : 0\nexecs_done     : 1881238\nexecs_per_sec  : 375.09\npaths_total    : 210\npaths_favored  : 56\npaths_found    : 209\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 112\npending_favs   : 35\npending_total  : 177\nvariable_paths : 0\nbitmap_cvg     : 1.79%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499930960\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Fortress/input -o /dev/shm/work/Fortress/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Fortress/Fortress.dict -- data/linux/processed-challenges/Fortress/bin/Fortress\n'
+p53
+I2
+tp54
+a(I3240
+S'start_time     : 1499927916\nlast_update    : 1499931101\nfuzzer_pid     : 27367\ncycles_done    : 0\nexecs_done     : 1922841\nexecs_per_sec  : 312.86\npaths_total    : 210\npaths_favored  : 56\npaths_found    : 209\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 113\npending_favs   : 34\npending_total  : 176\nvariable_paths : 0\nbitmap_cvg     : 1.79%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499930960\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Fortress/input -o /dev/shm/work/Fortress/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Fortress/Fortress.dict -- data/linux/processed-challenges/Fortress/bin/Fortress\n'
+p55
+I1
+tp56
+a(I3360
+S'start_time     : 1499927916\nlast_update    : 1499931221\nfuzzer_pid     : 27367\ncycles_done    : 0\nexecs_done     : 1967320\nexecs_per_sec  : 291.39\npaths_total    : 212\npaths_favored  : 56\npaths_found    : 211\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 116\npending_favs   : 33\npending_total  : 177\nvariable_paths : 0\nbitmap_cvg     : 1.79%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499931163\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Fortress/input -o /dev/shm/work/Fortress/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Fortress/Fortress.dict -- data/linux/processed-challenges/Fortress/bin/Fortress\n'
+p57
+I1
+tp58
+a(I3480
+S'start_time     : 1499927916\nlast_update    : 1499931341\nfuzzer_pid     : 27367\ncycles_done    : 0\nexecs_done     : 2020924\nexecs_per_sec  : 563.68\npaths_total    : 214\npaths_favored  : 56\npaths_found    : 213\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 118\npending_favs   : 33\npending_total  : 178\nvariable_paths : 0\nbitmap_cvg     : 1.79%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499931323\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Fortress/input -o /dev/shm/work/Fortress/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Fortress/Fortress.dict -- data/linux/processed-challenges/Fortress/bin/Fortress\n'
+p59
+I2
+tp60
+a(I3600
+S'start_time     : 1499927916\nlast_update    : 1499931462\nfuzzer_pid     : 27367\ncycles_done    : 0\nexecs_done     : 2071646\nexecs_per_sec  : 367.76\npaths_total    : 214\npaths_favored  : 56\npaths_found    : 213\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 123\npending_favs   : 31\npending_total  : 176\nvariable_paths : 0\nbitmap_cvg     : 1.79%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499931323\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Fortress/input -o /dev/shm/work/Fortress/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Fortress/Fortress.dict -- data/linux/processed-challenges/Fortress/bin/Fortress\n'
+p61
+I2
+tp62
+a(I3720
+S'start_time     : 1499927916\nlast_update    : 1499931582\nfuzzer_pid     : 27367\ncycles_done    : 0\nexecs_done     : 2122653\nexecs_per_sec  : 354.28\npaths_total    : 216\npaths_favored  : 55\npaths_found    : 215\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 131\npending_favs   : 29\npending_total  : 176\nvariable_paths : 0\nbitmap_cvg     : 1.81%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499931476\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Fortress/input -o /dev/shm/work/Fortress/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Fortress/Fortress.dict -- data/linux/processed-challenges/Fortress/bin/Fortress\n'
+p63
+I1
+tp64
+a(I3840
+S'start_time     : 1499927916\nlast_update    : 1499931702\nfuzzer_pid     : 27367\ncycles_done    : 0\nexecs_done     : 2178853\nexecs_per_sec  : 641.38\npaths_total    : 225\npaths_favored  : 57\npaths_found    : 224\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 138\npending_favs   : 29\npending_total  : 183\nvariable_paths : 0\nbitmap_cvg     : 1.83%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499931701\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Fortress/input -o /dev/shm/work/Fortress/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Fortress/Fortress.dict -- data/linux/processed-challenges/Fortress/bin/Fortress\n'
+p65
+I11
+tp66
+a(I3960
+S'start_time     : 1499927916\nlast_update    : 1499931822\nfuzzer_pid     : 27367\ncycles_done    : 0\nexecs_done     : 2255353\nexecs_per_sec  : 630.70\npaths_total    : 231\npaths_favored  : 57\npaths_found    : 230\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 138\npending_favs   : 29\npending_total  : 189\nvariable_paths : 0\nbitmap_cvg     : 1.84%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499931815\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Fortress/input -o /dev/shm/work/Fortress/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Fortress/Fortress.dict -- data/linux/processed-challenges/Fortress/bin/Fortress\n'
+p67
+I5
+tp68
+a(I4080
+S'start_time     : 1499927916\nlast_update    : 1499931943\nfuzzer_pid     : 27367\ncycles_done    : 0\nexecs_done     : 2329260\nexecs_per_sec  : 403.13\npaths_total    : 233\npaths_favored  : 61\npaths_found    : 232\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 139\npending_favs   : 34\npending_total  : 190\nvariable_paths : 0\nbitmap_cvg     : 1.84%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499931841\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Fortress/input -o /dev/shm/work/Fortress/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Fortress/Fortress.dict -- data/linux/processed-challenges/Fortress/bin/Fortress\n'
+p69
+I3
+tp70
+a(I4200
+S'start_time     : 1499927916\nlast_update    : 1499932063\nfuzzer_pid     : 27367\ncycles_done    : 0\nexecs_done     : 2398630\nexecs_per_sec  : 600.30\npaths_total    : 236\npaths_favored  : 61\npaths_found    : 235\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 139\npending_favs   : 34\npending_total  : 193\nvariable_paths : 0\nbitmap_cvg     : 1.85%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499931993\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Fortress/input -o /dev/shm/work/Fortress/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Fortress/Fortress.dict -- data/linux/processed-challenges/Fortress/bin/Fortress\n'
+p71
+I2
+tp72
+a(I4320
+S'start_time     : 1499927916\nlast_update    : 1499932183\nfuzzer_pid     : 27367\ncycles_done    : 0\nexecs_done     : 2465983\nexecs_per_sec  : 584.93\npaths_total    : 240\npaths_favored  : 64\npaths_found    : 239\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 140\npending_favs   : 35\npending_total  : 196\nvariable_paths : 0\nbitmap_cvg     : 1.86%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499932150\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Fortress/input -o /dev/shm/work/Fortress/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Fortress/Fortress.dict -- data/linux/processed-challenges/Fortress/bin/Fortress\n'
+p73
+I2
+tp74
+a(I4440
+S'start_time     : 1499927916\nlast_update    : 1499932303\nfuzzer_pid     : 27367\ncycles_done    : 0\nexecs_done     : 2538243\nexecs_per_sec  : 612.44\npaths_total    : 240\npaths_favored  : 64\npaths_found    : 239\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 140\npending_favs   : 35\npending_total  : 196\nvariable_paths : 0\nbitmap_cvg     : 1.86%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499932150\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Fortress/input -o /dev/shm/work/Fortress/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Fortress/Fortress.dict -- data/linux/processed-challenges/Fortress/bin/Fortress\n'
+p75
+I1
+tp76
+a(I4560
+S'start_time     : 1499927916\nlast_update    : 1499932423\nfuzzer_pid     : 27367\ncycles_done    : 0\nexecs_done     : 2605762\nexecs_per_sec  : 623.80\npaths_total    : 249\npaths_favored  : 66\npaths_found    : 248\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 141\npending_favs   : 37\npending_total  : 204\nvariable_paths : 0\nbitmap_cvg     : 1.91%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499932422\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Fortress/input -o /dev/shm/work/Fortress/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Fortress/Fortress.dict -- data/linux/processed-challenges/Fortress/bin/Fortress\n'
+p77
+I10
+tp78
+a(I4680
+S'start_time     : 1499927916\nlast_update    : 1499932543\nfuzzer_pid     : 27367\ncycles_done    : 0\nexecs_done     : 2678635\nexecs_per_sec  : 587.51\npaths_total    : 255\npaths_favored  : 66\npaths_found    : 254\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 141\npending_favs   : 37\npending_total  : 210\nvariable_paths : 0\nbitmap_cvg     : 1.93%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499932542\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Fortress/input -o /dev/shm/work/Fortress/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Fortress/Fortress.dict -- data/linux/processed-challenges/Fortress/bin/Fortress\n'
+p79
+I6
+tp80
+a(I4800
+S'start_time     : 1499927916\nlast_update    : 1499932664\nfuzzer_pid     : 27367\ncycles_done    : 0\nexecs_done     : 2749780\nexecs_per_sec  : 594.36\npaths_total    : 258\npaths_favored  : 66\npaths_found    : 257\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 141\npending_favs   : 37\npending_total  : 213\nvariable_paths : 0\nbitmap_cvg     : 1.93%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499932627\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Fortress/input -o /dev/shm/work/Fortress/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Fortress/Fortress.dict -- data/linux/processed-challenges/Fortress/bin/Fortress\n'
+p81
+I1
+tp82
+a(I4920
+S'start_time     : 1499927916\nlast_update    : 1499932784\nfuzzer_pid     : 27367\ncycles_done    : 0\nexecs_done     : 2810277\nexecs_per_sec  : 627.33\npaths_total    : 265\npaths_favored  : 69\npaths_found    : 264\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 150\npending_favs   : 41\npending_total  : 218\nvariable_paths : 0\nbitmap_cvg     : 1.94%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499932771\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Fortress/input -o /dev/shm/work/Fortress/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Fortress/Fortress.dict -- data/linux/processed-challenges/Fortress/bin/Fortress\n'
+p83
+I8
+tp84
+a(I5040
+S'start_time     : 1499927916\nlast_update    : 1499932904\nfuzzer_pid     : 27367\ncycles_done    : 0\nexecs_done     : 2882517\nexecs_per_sec  : 613.73\npaths_total    : 271\npaths_favored  : 69\npaths_found    : 270\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 150\npending_favs   : 41\npending_total  : 224\nvariable_paths : 0\nbitmap_cvg     : 1.94%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499932895\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Fortress/input -o /dev/shm/work/Fortress/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Fortress/Fortress.dict -- data/linux/processed-challenges/Fortress/bin/Fortress\n'
+p85
+I6
+tp86
+a(I5160
+S'start_time     : 1499927916\nlast_update    : 1499933024\nfuzzer_pid     : 27367\ncycles_done    : 0\nexecs_done     : 2948695\nexecs_per_sec  : 532.95\npaths_total    : 272\npaths_favored  : 68\npaths_found    : 271\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 157\npending_favs   : 40\npending_total  : 224\nvariable_paths : 0\nbitmap_cvg     : 1.95%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499932955\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Fortress/input -o /dev/shm/work/Fortress/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Fortress/Fortress.dict -- data/linux/processed-challenges/Fortress/bin/Fortress\n'
+p87
+I0
+tp88
+a(I5280
+S'start_time     : 1499927916\nlast_update    : 1499933144\nfuzzer_pid     : 27367\ncycles_done    : 0\nexecs_done     : 3002502\nexecs_per_sec  : 513.76\npaths_total    : 274\npaths_favored  : 68\npaths_found    : 273\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 167\npending_favs   : 38\npending_total  : 224\nvariable_paths : 0\nbitmap_cvg     : 1.95%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499933117\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Fortress/input -o /dev/shm/work/Fortress/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Fortress/Fortress.dict -- data/linux/processed-challenges/Fortress/bin/Fortress\n'
+p89
+I4
+tp90
+a(I5400
+S'start_time     : 1499927916\nlast_update    : 1499933264\nfuzzer_pid     : 27367\ncycles_done    : 0\nexecs_done     : 3060040\nexecs_per_sec  : 338.68\npaths_total    : 278\npaths_favored  : 69\npaths_found    : 277\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 175\npending_favs   : 38\npending_total  : 226\nvariable_paths : 0\nbitmap_cvg     : 1.95%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499933246\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Fortress/input -o /dev/shm/work/Fortress/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Fortress/Fortress.dict -- data/linux/processed-challenges/Fortress/bin/Fortress\n'
+p91
+I7
+tp92
+a(I5520
+S'start_time     : 1499927916\nlast_update    : 1499933385\nfuzzer_pid     : 27367\ncycles_done    : 0\nexecs_done     : 3116004\nexecs_per_sec  : 505.80\npaths_total    : 287\npaths_favored  : 69\npaths_found    : 286\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 175\npending_favs   : 38\npending_total  : 235\nvariable_paths : 0\nbitmap_cvg     : 1.96%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499933347\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Fortress/input -o /dev/shm/work/Fortress/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Fortress/Fortress.dict -- data/linux/processed-challenges/Fortress/bin/Fortress\n'
+p93
+I5
+tp94
+a(I5640
+S'start_time     : 1499927916\nlast_update    : 1499933505\nfuzzer_pid     : 27367\ncycles_done    : 0\nexecs_done     : 3176694\nexecs_per_sec  : 515.92\npaths_total    : 290\npaths_favored  : 69\npaths_found    : 289\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 175\npending_favs   : 38\npending_total  : 238\nvariable_paths : 0\nbitmap_cvg     : 1.96%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499933484\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Fortress/input -o /dev/shm/work/Fortress/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Fortress/Fortress.dict -- data/linux/processed-challenges/Fortress/bin/Fortress\n'
+p95
+I2
+tp96
+a(I5760
+S'start_time     : 1499927916\nlast_update    : 1499933625\nfuzzer_pid     : 27367\ncycles_done    : 0\nexecs_done     : 3235233\nexecs_per_sec  : 354.56\npaths_total    : 290\npaths_favored  : 73\npaths_found    : 289\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 179\npending_favs   : 41\npending_total  : 237\nvariable_paths : 0\nbitmap_cvg     : 1.96%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499933484\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Fortress/input -o /dev/shm/work/Fortress/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Fortress/Fortress.dict -- data/linux/processed-challenges/Fortress/bin/Fortress\n'
+p97
+I0
+tp98
+a(I5880
+S'start_time     : 1499927916\nlast_update    : 1499933745\nfuzzer_pid     : 27367\ncycles_done    : 0\nexecs_done     : 3285356\nexecs_per_sec  : 529.24\npaths_total    : 291\npaths_favored  : 73\npaths_found    : 290\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 180\npending_favs   : 40\npending_total  : 237\nvariable_paths : 0\nbitmap_cvg     : 1.96%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499933729\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Fortress/input -o /dev/shm/work/Fortress/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Fortress/Fortress.dict -- data/linux/processed-challenges/Fortress/bin/Fortress\n'
+p99
+I3
+tp100
+a(I6000
+S'start_time     : 1499927916\nlast_update    : 1499933865\nfuzzer_pid     : 27367\ncycles_done    : 0\nexecs_done     : 3350726\nexecs_per_sec  : 536.45\npaths_total    : 293\npaths_favored  : 73\npaths_found    : 292\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 180\npending_favs   : 40\npending_total  : 239\nvariable_paths : 0\nbitmap_cvg     : 1.96%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499933773\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Fortress/input -o /dev/shm/work/Fortress/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Fortress/Fortress.dict -- data/linux/processed-challenges/Fortress/bin/Fortress\n'
+p101
+I0
+tp102
+a(I6120
+S'start_time     : 1499927916\nlast_update    : 1499933985\nfuzzer_pid     : 27367\ncycles_done    : 0\nexecs_done     : 3396003\nexecs_per_sec  : 321.62\npaths_total    : 293\npaths_favored  : 73\npaths_found    : 292\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 192\npending_favs   : 38\npending_total  : 237\nvariable_paths : 0\nbitmap_cvg     : 1.96%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499933773\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Fortress/input -o /dev/shm/work/Fortress/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Fortress/Fortress.dict -- data/linux/processed-challenges/Fortress/bin/Fortress\n'
+p103
+I0
+tp104
+a(I6240
+S'start_time     : 1499927916\nlast_update    : 1499934106\nfuzzer_pid     : 27367\ncycles_done    : 0\nexecs_done     : 3436573\nexecs_per_sec  : 298.21\npaths_total    : 293\npaths_favored  : 73\npaths_found    : 292\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 194\npending_favs   : 37\npending_total  : 236\nvariable_paths : 0\nbitmap_cvg     : 1.96%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499933773\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Fortress/input -o /dev/shm/work/Fortress/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Fortress/Fortress.dict -- data/linux/processed-challenges/Fortress/bin/Fortress\n'
+p105
+I1
+tp106
+a(I6360
+S'start_time     : 1499927916\nlast_update    : 1499934226\nfuzzer_pid     : 27367\ncycles_done    : 0\nexecs_done     : 3481377\nexecs_per_sec  : 439.56\npaths_total    : 296\npaths_favored  : 73\npaths_found    : 295\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 194\npending_favs   : 37\npending_total  : 239\nvariable_paths : 0\nbitmap_cvg     : 1.96%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499934163\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Fortress/input -o /dev/shm/work/Fortress/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Fortress/Fortress.dict -- data/linux/processed-challenges/Fortress/bin/Fortress\n'
+p107
+I3
+tp108
+a(I6480
+S'start_time     : 1499927916\nlast_update    : 1499934346\nfuzzer_pid     : 27367\ncycles_done    : 0\nexecs_done     : 3547162\nexecs_per_sec  : 657.65\npaths_total    : 300\npaths_favored  : 73\npaths_found    : 299\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 199\npending_favs   : 36\npending_total  : 241\nvariable_paths : 0\nbitmap_cvg     : 1.96%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499934337\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Fortress/input -o /dev/shm/work/Fortress/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Fortress/Fortress.dict -- data/linux/processed-challenges/Fortress/bin/Fortress\n'
+p109
+I3
+tp110
+a(I6600
+S'start_time     : 1499927916\nlast_update    : 1499934466\nfuzzer_pid     : 27367\ncycles_done    : 0\nexecs_done     : 3618714\nexecs_per_sec  : 373.31\npaths_total    : 300\npaths_favored  : 73\npaths_found    : 299\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 202\npending_favs   : 34\npending_total  : 239\nvariable_paths : 0\nbitmap_cvg     : 1.96%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499934337\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Fortress/input -o /dev/shm/work/Fortress/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Fortress/Fortress.dict -- data/linux/processed-challenges/Fortress/bin/Fortress\n'
+p111
+I0
+tp112
+a(I6720
+S'start_time     : 1499927916\nlast_update    : 1499934586\nfuzzer_pid     : 27367\ncycles_done    : 0\nexecs_done     : 3666711\nexecs_per_sec  : 512.37\npaths_total    : 300\npaths_favored  : 73\npaths_found    : 299\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 211\npending_favs   : 33\npending_total  : 238\nvariable_paths : 0\nbitmap_cvg     : 1.96%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499934337\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Fortress/input -o /dev/shm/work/Fortress/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Fortress/Fortress.dict -- data/linux/processed-challenges/Fortress/bin/Fortress\n'
+p113
+I0
+tp114
+a(I6840
+S'start_time     : 1499927916\nlast_update    : 1499934707\nfuzzer_pid     : 27367\ncycles_done    : 0\nexecs_done     : 3717389\nexecs_per_sec  : 547.97\npaths_total    : 311\npaths_favored  : 73\npaths_found    : 310\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 214\npending_favs   : 32\npending_total  : 248\nvariable_paths : 0\nbitmap_cvg     : 1.97%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499934699\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Fortress/input -o /dev/shm/work/Fortress/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Fortress/Fortress.dict -- data/linux/processed-challenges/Fortress/bin/Fortress\n'
+p115
+I15
+tp116
+a(I6960
+S'start_time     : 1499927916\nlast_update    : 1499934827\nfuzzer_pid     : 27367\ncycles_done    : 0\nexecs_done     : 3783159\nexecs_per_sec  : 555.61\npaths_total    : 321\npaths_favored  : 73\npaths_found    : 320\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 214\npending_favs   : 32\npending_total  : 258\nvariable_paths : 0\nbitmap_cvg     : 2.00%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499934817\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Fortress/input -o /dev/shm/work/Fortress/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Fortress/Fortress.dict -- data/linux/processed-challenges/Fortress/bin/Fortress\n'
+p117
+I10
+tp118
+a(I7080
+S'start_time     : 1499927916\nlast_update    : 1499934947\nfuzzer_pid     : 27367\ncycles_done    : 0\nexecs_done     : 3847911\nexecs_per_sec  : 538.27\npaths_total    : 328\npaths_favored  : 73\npaths_found    : 327\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 214\npending_favs   : 32\npending_total  : 265\nvariable_paths : 0\nbitmap_cvg     : 2.00%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499934908\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Fortress/input -o /dev/shm/work/Fortress/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Fortress/Fortress.dict -- data/linux/processed-challenges/Fortress/bin/Fortress\n'
+p119
+I4
+tp120
+a(I7200
+S'start_time     : 1499927916\nlast_update    : 1499935067\nfuzzer_pid     : 27367\ncycles_done    : 0\nexecs_done     : 3895697\nexecs_per_sec  : 547.20\npaths_total    : 329\npaths_favored  : 81\npaths_found    : 328\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 219\npending_favs   : 39\npending_total  : 264\nvariable_paths : 0\nbitmap_cvg     : 2.00%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499934947\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Fortress/input -o /dev/shm/work/Fortress/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Fortress/Fortress.dict -- data/linux/processed-challenges/Fortress/bin/Fortress\n'
+p121
+I1
+tp122
+a(I7320
+S'start_time     : 1499927916\nlast_update    : 1499935188\nfuzzer_pid     : 27367\ncycles_done    : 0\nexecs_done     : 3953635\nexecs_per_sec  : 548.11\npaths_total    : 337\npaths_favored  : 81\npaths_found    : 336\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 222\npending_favs   : 37\npending_total  : 270\nvariable_paths : 0\nbitmap_cvg     : 2.01%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499935186\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Fortress/input -o /dev/shm/work/Fortress/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Fortress/Fortress.dict -- data/linux/processed-challenges/Fortress/bin/Fortress\n'
+p123
+I7
+tp124
+a(I7440
+S'start_time     : 1499927916\nlast_update    : 1499935308\nfuzzer_pid     : 27367\ncycles_done    : 0\nexecs_done     : 4016658\nexecs_per_sec  : 362.84\npaths_total    : 337\npaths_favored  : 82\npaths_found    : 336\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 223\npending_favs   : 38\npending_total  : 269\nvariable_paths : 0\nbitmap_cvg     : 2.01%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499935186\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Fortress/input -o /dev/shm/work/Fortress/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Fortress/Fortress.dict -- data/linux/processed-challenges/Fortress/bin/Fortress\n'
+p125
+I0
+tp126
+a(I7560
+S'start_time     : 1499927916\nlast_update    : 1499935428\nfuzzer_pid     : 27367\ncycles_done    : 0\nexecs_done     : 4065772\nexecs_per_sec  : 348.35\npaths_total    : 337\npaths_favored  : 82\npaths_found    : 336\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 228\npending_favs   : 36\npending_total  : 267\nvariable_paths : 0\nbitmap_cvg     : 2.01%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499935186\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Fortress/input -o /dev/shm/work/Fortress/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Fortress/Fortress.dict -- data/linux/processed-challenges/Fortress/bin/Fortress\n'
+p127
+I1
+tp128
+a(I7680
+S'start_time     : 1499927916\nlast_update    : 1499935548\nfuzzer_pid     : 27367\ncycles_done    : 0\nexecs_done     : 4108840\nexecs_per_sec  : 322.55\npaths_total    : 339\npaths_favored  : 82\npaths_found    : 338\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 229\npending_favs   : 35\npending_total  : 268\nvariable_paths : 0\nbitmap_cvg     : 2.01%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499935531\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Fortress/input -o /dev/shm/work/Fortress/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Fortress/Fortress.dict -- data/linux/processed-challenges/Fortress/bin/Fortress\n'
+p129
+I5
+tp130
+a(I7800
+S'start_time     : 1499927916\nlast_update    : 1499935668\nfuzzer_pid     : 27367\ncycles_done    : 0\nexecs_done     : 4167043\nexecs_per_sec  : 470.56\npaths_total    : 343\npaths_favored  : 82\npaths_found    : 342\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 229\npending_favs   : 35\npending_total  : 272\nvariable_paths : 0\nbitmap_cvg     : 2.01%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499935570\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Fortress/input -o /dev/shm/work/Fortress/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Fortress/Fortress.dict -- data/linux/processed-challenges/Fortress/bin/Fortress\n'
+p131
+I2
+tp132
+a(I7920
+S'start_time     : 1499927916\nlast_update    : 1499935788\nfuzzer_pid     : 27367\ncycles_done    : 0\nexecs_done     : 4225295\nexecs_per_sec  : 485.21\npaths_total    : 347\npaths_favored  : 82\npaths_found    : 346\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 229\npending_favs   : 35\npending_total  : 276\nvariable_paths : 0\nbitmap_cvg     : 2.01%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499935778\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Fortress/input -o /dev/shm/work/Fortress/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Fortress/Fortress.dict -- data/linux/processed-challenges/Fortress/bin/Fortress\n'
+p133
+I2
+tp134
+a(I8040
+S'start_time     : 1499927916\nlast_update    : 1499935908\nfuzzer_pid     : 27367\ncycles_done    : 0\nexecs_done     : 4279584\nexecs_per_sec  : 343.50\npaths_total    : 347\npaths_favored  : 82\npaths_found    : 346\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 230\npending_favs   : 34\npending_total  : 275\nvariable_paths : 0\nbitmap_cvg     : 2.01%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499935778\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Fortress/input -o /dev/shm/work/Fortress/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Fortress/Fortress.dict -- data/linux/processed-challenges/Fortress/bin/Fortress\n'
+p135
+I1
+tp136
+a(I8160
+S'start_time     : 1499927916\nlast_update    : 1499936029\nfuzzer_pid     : 27367\ncycles_done    : 0\nexecs_done     : 4331306\nexecs_per_sec  : 350.94\npaths_total    : 348\npaths_favored  : 82\npaths_found    : 347\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 236\npending_favs   : 32\npending_total  : 274\nvariable_paths : 0\nbitmap_cvg     : 2.01%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499935932\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Fortress/input -o /dev/shm/work/Fortress/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Fortress/Fortress.dict -- data/linux/processed-challenges/Fortress/bin/Fortress\n'
+p137
+I6
+tp138
+a(I8280
+S'start_time     : 1499927916\nlast_update    : 1499936149\nfuzzer_pid     : 27367\ncycles_done    : 0\nexecs_done     : 4399185\nexecs_per_sec  : 595.12\npaths_total    : 355\npaths_favored  : 82\npaths_found    : 354\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 236\npending_favs   : 32\npending_total  : 281\nvariable_paths : 0\nbitmap_cvg     : 2.01%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499936086\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Fortress/input -o /dev/shm/work/Fortress/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Fortress/Fortress.dict -- data/linux/processed-challenges/Fortress/bin/Fortress\n'
+p139
+I1
+tp140
+a(I8400
+S'start_time     : 1499927916\nlast_update    : 1499936269\nfuzzer_pid     : 27367\ncycles_done    : 0\nexecs_done     : 4469420\nexecs_per_sec  : 579.92\npaths_total    : 355\npaths_favored  : 82\npaths_found    : 354\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 236\npending_favs   : 32\npending_total  : 281\nvariable_paths : 0\nbitmap_cvg     : 2.01%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499936086\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Fortress/input -o /dev/shm/work/Fortress/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Fortress/Fortress.dict -- data/linux/processed-challenges/Fortress/bin/Fortress\n'
+p141
+I0
+tp142
+a(I8520
+S'start_time     : 1499927916\nlast_update    : 1499936389\nfuzzer_pid     : 27367\ncycles_done    : 0\nexecs_done     : 4529600\nexecs_per_sec  : 533.41\npaths_total    : 355\npaths_favored  : 82\npaths_found    : 354\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 239\npending_favs   : 30\npending_total  : 279\nvariable_paths : 0\nbitmap_cvg     : 2.01%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499936086\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Fortress/input -o /dev/shm/work/Fortress/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Fortress/Fortress.dict -- data/linux/processed-challenges/Fortress/bin/Fortress\n'
+p143
+I2
+tp144
+a(I8640
+S'start_time     : 1499927916\nlast_update    : 1499936509\nfuzzer_pid     : 27367\ncycles_done    : 0\nexecs_done     : 4570994\nexecs_per_sec  : 280.78\npaths_total    : 359\npaths_favored  : 82\npaths_found    : 358\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 246\npending_favs   : 28\npending_total  : 281\nvariable_paths : 0\nbitmap_cvg     : 2.07%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499936502\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Fortress/input -o /dev/shm/work/Fortress/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Fortress/Fortress.dict -- data/linux/processed-challenges/Fortress/bin/Fortress\n'
+p145
+I23
+tp146
+a(I8760
+S'start_time     : 1499927916\nlast_update    : 1499936629\nfuzzer_pid     : 27367\ncycles_done    : 0\nexecs_done     : 4620038\nexecs_per_sec  : 438.85\npaths_total    : 393\npaths_favored  : 82\npaths_found    : 392\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 246\npending_favs   : 28\npending_total  : 315\nvariable_paths : 0\nbitmap_cvg     : 2.09%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499936614\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Fortress/input -o /dev/shm/work/Fortress/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Fortress/Fortress.dict -- data/linux/processed-challenges/Fortress/bin/Fortress\n'
+p147
+I15
+tp148
+a(I8880
+S'start_time     : 1499927916\nlast_update    : 1499936749\nfuzzer_pid     : 27367\ncycles_done    : 0\nexecs_done     : 4674206\nexecs_per_sec  : 451.34\npaths_total    : 399\npaths_favored  : 82\npaths_found    : 398\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 246\npending_favs   : 28\npending_total  : 321\nvariable_paths : 0\nbitmap_cvg     : 2.13%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499936725\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Fortress/input -o /dev/shm/work/Fortress/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Fortress/Fortress.dict -- data/linux/processed-challenges/Fortress/bin/Fortress\n'
+p149
+I8
+tp150
+a(I9000
+S'start_time     : 1499927916\nlast_update    : 1499936870\nfuzzer_pid     : 27367\ncycles_done    : 0\nexecs_done     : 4719772\nexecs_per_sec  : 499.61\npaths_total    : 407\npaths_favored  : 93\npaths_found    : 406\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 247\npending_favs   : 42\npending_total  : 328\nvariable_paths : 0\nbitmap_cvg     : 2.29%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499936865\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Fortress/input -o /dev/shm/work/Fortress/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Fortress/Fortress.dict -- data/linux/processed-challenges/Fortress/bin/Fortress\n'
+p151
+I11
+tp152
+a(I9120
+S'start_time     : 1499927916\nlast_update    : 1499936990\nfuzzer_pid     : 27367\ncycles_done    : 0\nexecs_done     : 4781622\nexecs_per_sec  : 540.17\npaths_total    : 418\npaths_favored  : 93\npaths_found    : 417\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 247\npending_favs   : 42\npending_total  : 339\nvariable_paths : 0\nbitmap_cvg     : 2.30%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499936978\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Fortress/input -o /dev/shm/work/Fortress/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Fortress/Fortress.dict -- data/linux/processed-challenges/Fortress/bin/Fortress\n'
+p153
+I6
+tp154
+a(I9240
+S'start_time     : 1499927916\nlast_update    : 1499937110\nfuzzer_pid     : 27367\ncycles_done    : 0\nexecs_done     : 4843252\nexecs_per_sec  : 517.64\npaths_total    : 422\npaths_favored  : 93\npaths_found    : 421\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 247\npending_favs   : 42\npending_total  : 343\nvariable_paths : 0\nbitmap_cvg     : 2.31%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499937054\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Fortress/input -o /dev/shm/work/Fortress/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Fortress/Fortress.dict -- data/linux/processed-challenges/Fortress/bin/Fortress\n'
+p155
+I5
+tp156
+a(I9360
+S'start_time     : 1499927916\nlast_update    : 1499937230\nfuzzer_pid     : 27367\ncycles_done    : 0\nexecs_done     : 4893561\nexecs_per_sec  : 501.23\npaths_total    : 425\npaths_favored  : 98\npaths_found    : 424\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 255\npending_favs   : 49\npending_total  : 345\nvariable_paths : 0\nbitmap_cvg     : 2.31%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499937156\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Fortress/input -o /dev/shm/work/Fortress/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Fortress/Fortress.dict -- data/linux/processed-challenges/Fortress/bin/Fortress\n'
+p157
+I1
+tp158
+a(I9480
+S'start_time     : 1499927916\nlast_update    : 1499937351\nfuzzer_pid     : 27367\ncycles_done    : 0\nexecs_done     : 4950790\nexecs_per_sec  : 573.67\npaths_total    : 430\npaths_favored  : 98\npaths_found    : 429\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 256\npending_favs   : 48\npending_total  : 349\nvariable_paths : 0\nbitmap_cvg     : 2.33%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1499937350\nlast_crash     : 0\nlast_hang      : 1499937312\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Fortress/input -o /dev/shm/work/Fortress/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Fortress/Fortress.dict -- data/linux/processed-challenges/Fortress/bin/Fortress\n'
+p159
+I7
+tp160
+a(I9600
+S'start_time     : 1499927916\nlast_update    : 1499937471\nfuzzer_pid     : 27367\ncycles_done    : 0\nexecs_done     : 5016918\nexecs_per_sec  : 557.58\npaths_total    : 434\npaths_favored  : 98\npaths_found    : 433\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 256\npending_favs   : 48\npending_total  : 353\nvariable_paths : 0\nbitmap_cvg     : 2.33%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1499937454\nlast_crash     : 0\nlast_hang      : 1499937390\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Fortress/input -o /dev/shm/work/Fortress/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Fortress/Fortress.dict -- data/linux/processed-challenges/Fortress/bin/Fortress\n'
+p161
+I3
+tp162
+a(I9720
+S'start_time     : 1499927916\nlast_update    : 1499937591\nfuzzer_pid     : 27367\ncycles_done    : 0\nexecs_done     : 5081651\nexecs_per_sec  : 363.54\npaths_total    : 437\npaths_favored  : 103\npaths_found    : 436\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 261\npending_favs   : 51\npending_total  : 355\nvariable_paths : 0\nbitmap_cvg     : 2.35%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1499937581\nlast_crash     : 0\nlast_hang      : 1499937572\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Fortress/input -o /dev/shm/work/Fortress/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Fortress/Fortress.dict -- data/linux/processed-challenges/Fortress/bin/Fortress\n'
+p163
+I2
+tp164
+a(I9840
+S'start_time     : 1499927916\nlast_update    : 1499937711\nfuzzer_pid     : 27367\ncycles_done    : 0\nexecs_done     : 5131224\nexecs_per_sec  : 220.65\npaths_total    : 442\npaths_favored  : 103\npaths_found    : 441\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 271\npending_favs   : 49\npending_total  : 358\nvariable_paths : 0\nbitmap_cvg     : 2.37%\nunique_crashes : 0\nunique_hangs   : 6\nlast_path      : 1499937697\nlast_crash     : 0\nlast_hang      : 1499937697\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Fortress/input -o /dev/shm/work/Fortress/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Fortress/Fortress.dict -- data/linux/processed-challenges/Fortress/bin/Fortress\n'
+p165
+I4
+tp166
+a(I9960
+S'start_time     : 1499927916\nlast_update    : 1499937832\nfuzzer_pid     : 27367\ncycles_done    : 0\nexecs_done     : 5164688\nexecs_per_sec  : 398.81\npaths_total    : 462\npaths_favored  : 103\npaths_found    : 461\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 271\npending_favs   : 49\npending_total  : 378\nvariable_paths : 0\nbitmap_cvg     : 2.41%\nunique_crashes : 0\nunique_hangs   : 6\nlast_path      : 1499937829\nlast_crash     : 0\nlast_hang      : 1499937697\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Fortress/input -o /dev/shm/work/Fortress/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Fortress/Fortress.dict -- data/linux/processed-challenges/Fortress/bin/Fortress\n'
+p167
+I33
+tp168
+a(I10080
+S'start_time     : 1499927916\nlast_update    : 1499937952\nfuzzer_pid     : 27367\ncycles_done    : 0\nexecs_done     : 5213309\nexecs_per_sec  : 418.23\npaths_total    : 489\npaths_favored  : 103\npaths_found    : 488\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 271\npending_favs   : 49\npending_total  : 405\nvariable_paths : 0\nbitmap_cvg     : 2.54%\nunique_crashes : 0\nunique_hangs   : 6\nlast_path      : 1499937949\nlast_crash     : 0\nlast_hang      : 1499937697\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Fortress/input -o /dev/shm/work/Fortress/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Fortress/Fortress.dict -- data/linux/processed-challenges/Fortress/bin/Fortress\n'
+p169
+I18
+tp170
+a(I10200
+S'start_time     : 1499927916\nlast_update    : 1499938072\nfuzzer_pid     : 27367\ncycles_done    : 0\nexecs_done     : 5262485\nexecs_per_sec  : 404.82\npaths_total    : 501\npaths_favored  : 103\npaths_found    : 500\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 271\npending_favs   : 49\npending_total  : 417\nvariable_paths : 0\nbitmap_cvg     : 2.57%\nunique_crashes : 0\nunique_hangs   : 7\nlast_path      : 1499938070\nlast_crash     : 0\nlast_hang      : 1499938049\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Fortress/input -o /dev/shm/work/Fortress/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Fortress/Fortress.dict -- data/linux/processed-challenges/Fortress/bin/Fortress\n'
+p171
+I12
+tp172
+a(I10320
+S'start_time     : 1499927916\nlast_update    : 1499938192\nfuzzer_pid     : 27367\ncycles_done    : 0\nexecs_done     : 5296365\nexecs_per_sec  : 258.16\npaths_total    : 505\npaths_favored  : 120\npaths_found    : 504\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 273\npending_favs   : 67\npending_total  : 420\nvariable_paths : 0\nbitmap_cvg     : 2.58%\nunique_crashes : 0\nunique_hangs   : 7\nlast_path      : 1499938080\nlast_crash     : 0\nlast_hang      : 1499938049\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Fortress/input -o /dev/shm/work/Fortress/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Fortress/Fortress.dict -- data/linux/processed-challenges/Fortress/bin/Fortress\n'
+p173
+I0
+tp174
+a(I10440
+S'start_time     : 1499927916\nlast_update    : 1499938312\nfuzzer_pid     : 27367\ncycles_done    : 0\nexecs_done     : 5331302\nexecs_per_sec  : 356.98\npaths_total    : 507\npaths_favored  : 120\npaths_found    : 506\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 273\npending_favs   : 67\npending_total  : 422\nvariable_paths : 0\nbitmap_cvg     : 2.58%\nunique_crashes : 0\nunique_hangs   : 7\nlast_path      : 1499938291\nlast_crash     : 0\nlast_hang      : 1499938049\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Fortress/input -o /dev/shm/work/Fortress/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Fortress/Fortress.dict -- data/linux/processed-challenges/Fortress/bin/Fortress\n'
+p175
+I3
+tp176
+a(I10560
+S'start_time     : 1499927916\nlast_update    : 1499938433\nfuzzer_pid     : 27367\ncycles_done    : 0\nexecs_done     : 5375573\nexecs_per_sec  : 370.23\npaths_total    : 508\npaths_favored  : 120\npaths_found    : 507\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 273\npending_favs   : 67\npending_total  : 423\nvariable_paths : 0\nbitmap_cvg     : 2.58%\nunique_crashes : 0\nunique_hangs   : 9\nlast_path      : 1499938317\nlast_crash     : 0\nlast_hang      : 1499938357\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Fortress/input -o /dev/shm/work/Fortress/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Fortress/Fortress.dict -- data/linux/processed-challenges/Fortress/bin/Fortress\n'
+p177
+I0
+tp178
+a(I10680
+S'start_time     : 1499927916\nlast_update    : 1499938553\nfuzzer_pid     : 27367\ncycles_done    : 0\nexecs_done     : 5423041\nexecs_per_sec  : 338.72\npaths_total    : 508\npaths_favored  : 120\npaths_found    : 507\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 277\npending_favs   : 65\npending_total  : 421\nvariable_paths : 0\nbitmap_cvg     : 2.58%\nunique_crashes : 0\nunique_hangs   : 9\nlast_path      : 1499938317\nlast_crash     : 0\nlast_hang      : 1499938357\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Fortress/input -o /dev/shm/work/Fortress/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Fortress/Fortress.dict -- data/linux/processed-challenges/Fortress/bin/Fortress\n'
+p179
+I1
+tp180
+a.

@@ -1,0 +1,452 @@
+(lp0
+(I0
+S'start_time     : 1500165947\nlast_update    : 1500165947\nfuzzer_pid     : 14167\ncycles_done    : 0\nexecs_done     : 10\nexecs_per_sec  : 212.77\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 1\npending_total  : 1\nvariable_paths : 0\nbitmap_cvg     : 0.15%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Corinth/input -o /dev/shm/work/Corinth/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Corinth/Corinth.dict -- data/linux/processed-challenges/Corinth/bin/Corinth\n'
+p1
+I6
+tp2
+a(I120
+S'start_time     : 1500165947\nlast_update    : 1500166067\nfuzzer_pid     : 14167\ncycles_done    : 0\nexecs_done     : 126472\nexecs_per_sec  : 1028.70\npaths_total    : 12\npaths_favored  : 1\npaths_found    : 11\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 1\npending_total  : 12\nvariable_paths : 0\nbitmap_cvg     : 0.27%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500166005\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Corinth/input -o /dev/shm/work/Corinth/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Corinth/Corinth.dict -- data/linux/processed-challenges/Corinth/bin/Corinth\n'
+p3
+I6
+tp4
+a(I240
+S'start_time     : 1500165947\nlast_update    : 1500166187\nfuzzer_pid     : 14167\ncycles_done    : 0\nexecs_done     : 250166\nexecs_per_sec  : 1020.88\npaths_total    : 17\npaths_favored  : 9\npaths_found    : 16\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 5\npending_favs   : 6\npending_total  : 13\nvariable_paths : 0\nbitmap_cvg     : 0.28%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500166152\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Corinth/input -o /dev/shm/work/Corinth/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Corinth/Corinth.dict -- data/linux/processed-challenges/Corinth/bin/Corinth\n'
+p5
+I5
+tp6
+a(I360
+S'start_time     : 1500165947\nlast_update    : 1500166308\nfuzzer_pid     : 14167\ncycles_done    : 0\nexecs_done     : 374668\nexecs_per_sec  : 978.73\npaths_total    : 21\npaths_favored  : 11\npaths_found    : 20\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 8\npending_favs   : 6\npending_total  : 14\nvariable_paths : 0\nbitmap_cvg     : 0.28%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500166305\nlast_crash     : 0\nlast_hang      : 1500166301\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Corinth/input -o /dev/shm/work/Corinth/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Corinth/Corinth.dict -- data/linux/processed-challenges/Corinth/bin/Corinth\n'
+p7
+I4
+tp8
+a(I480
+S'start_time     : 1500165947\nlast_update    : 1500166428\nfuzzer_pid     : 14167\ncycles_done    : 0\nexecs_done     : 497069\nexecs_per_sec  : 1046.33\npaths_total    : 27\npaths_favored  : 11\npaths_found    : 26\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 13\npending_favs   : 4\npending_total  : 17\nvariable_paths : 0\nbitmap_cvg     : 0.31%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500166387\nlast_crash     : 0\nlast_hang      : 1500166301\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Corinth/input -o /dev/shm/work/Corinth/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Corinth/Corinth.dict -- data/linux/processed-challenges/Corinth/bin/Corinth\n'
+p9
+I6
+tp10
+a(I600
+S'start_time     : 1500165947\nlast_update    : 1500166548\nfuzzer_pid     : 14167\ncycles_done    : 0\nexecs_done     : 618901\nexecs_per_sec  : 1049.80\npaths_total    : 29\npaths_favored  : 13\npaths_found    : 28\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 22\npending_favs   : 3\npending_total  : 15\nvariable_paths : 0\nbitmap_cvg     : 0.32%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500166503\nlast_crash     : 0\nlast_hang      : 1500166301\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Corinth/input -o /dev/shm/work/Corinth/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Corinth/Corinth.dict -- data/linux/processed-challenges/Corinth/bin/Corinth\n'
+p11
+I2
+tp12
+a(I720
+S'start_time     : 1500165947\nlast_update    : 1500166668\nfuzzer_pid     : 14167\ncycles_done    : 0\nexecs_done     : 658273\nexecs_per_sec  : 380.73\npaths_total    : 33\npaths_favored  : 13\npaths_found    : 32\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 26\npending_favs   : 2\npending_total  : 18\nvariable_paths : 0\nbitmap_cvg     : 0.33%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500166650\nlast_crash     : 0\nlast_hang      : 1500166621\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Corinth/input -o /dev/shm/work/Corinth/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Corinth/Corinth.dict -- data/linux/processed-challenges/Corinth/bin/Corinth\n'
+p13
+I5
+tp14
+a(I840
+S'start_time     : 1500165947\nlast_update    : 1500166788\nfuzzer_pid     : 14167\ncycles_done    : 0\nexecs_done     : 672839\nexecs_per_sec  : 91.41\npaths_total    : 34\npaths_favored  : 15\npaths_found    : 33\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 29\npending_favs   : 4\npending_total  : 17\nvariable_paths : 0\nbitmap_cvg     : 0.33%\nunique_crashes : 0\nunique_hangs   : 10\nlast_path      : 1500166669\nlast_crash     : 0\nlast_hang      : 1500166735\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Corinth/input -o /dev/shm/work/Corinth/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Corinth/Corinth.dict -- data/linux/processed-challenges/Corinth/bin/Corinth\n'
+p15
+I0
+tp16
+a(I960
+S'start_time     : 1500165947\nlast_update    : 1500166908\nfuzzer_pid     : 14167\ncycles_done    : 0\nexecs_done     : 690420\nexecs_per_sec  : 296.89\npaths_total    : 36\npaths_favored  : 15\npaths_found    : 35\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 31\npending_favs   : 3\npending_total  : 18\nvariable_paths : 0\nbitmap_cvg     : 0.33%\nunique_crashes : 0\nunique_hangs   : 12\nlast_path      : 1500166903\nlast_crash     : 0\nlast_hang      : 1500166843\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Corinth/input -o /dev/shm/work/Corinth/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Corinth/Corinth.dict -- data/linux/processed-challenges/Corinth/bin/Corinth\n'
+p17
+I2
+tp18
+a(I1080
+S'start_time     : 1500165947\nlast_update    : 1500167029\nfuzzer_pid     : 14167\ncycles_done    : 0\nexecs_done     : 718690\nexecs_per_sec  : 64.29\npaths_total    : 38\npaths_favored  : 16\npaths_found    : 37\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 34\npending_favs   : 2\npending_total  : 18\nvariable_paths : 0\nbitmap_cvg     : 0.33%\nunique_crashes : 0\nunique_hangs   : 16\nlast_path      : 1500167004\nlast_crash     : 0\nlast_hang      : 1500167027\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Corinth/input -o /dev/shm/work/Corinth/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Corinth/Corinth.dict -- data/linux/processed-challenges/Corinth/bin/Corinth\n'
+p19
+I2
+tp20
+a(I1200
+S'start_time     : 1500165947\nlast_update    : 1500167149\nfuzzer_pid     : 14167\ncycles_done    : 0\nexecs_done     : 726018\nexecs_per_sec  : 65.14\npaths_total    : 38\npaths_favored  : 16\npaths_found    : 37\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 34\npending_favs   : 2\npending_total  : 18\nvariable_paths : 0\nbitmap_cvg     : 0.33%\nunique_crashes : 0\nunique_hangs   : 18\nlast_path      : 1500167004\nlast_crash     : 0\nlast_hang      : 1500167091\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Corinth/input -o /dev/shm/work/Corinth/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Corinth/Corinth.dict -- data/linux/processed-challenges/Corinth/bin/Corinth\n'
+p21
+I0
+tp22
+a(I1320
+S'start_time     : 1500165947\nlast_update    : 1500167269\nfuzzer_pid     : 14167\ncycles_done    : 0\nexecs_done     : 734054\nexecs_per_sec  : 50.86\npaths_total    : 38\npaths_favored  : 16\npaths_found    : 37\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 34\npending_favs   : 2\npending_total  : 18\nvariable_paths : 0\nbitmap_cvg     : 0.33%\nunique_crashes : 0\nunique_hangs   : 18\nlast_path      : 1500167004\nlast_crash     : 0\nlast_hang      : 1500167091\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Corinth/input -o /dev/shm/work/Corinth/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Corinth/Corinth.dict -- data/linux/processed-challenges/Corinth/bin/Corinth\n'
+p23
+I0
+tp24
+a(I1440
+S'start_time     : 1500165947\nlast_update    : 1500167389\nfuzzer_pid     : 14167\ncycles_done    : 0\nexecs_done     : 744675\nexecs_per_sec  : 64.29\npaths_total    : 38\npaths_favored  : 16\npaths_found    : 37\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 35\npending_favs   : 3\npending_total  : 17\nvariable_paths : 0\nbitmap_cvg     : 0.33%\nunique_crashes : 0\nunique_hangs   : 18\nlast_path      : 1500167004\nlast_crash     : 0\nlast_hang      : 1500167091\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Corinth/input -o /dev/shm/work/Corinth/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Corinth/Corinth.dict -- data/linux/processed-challenges/Corinth/bin/Corinth\n'
+p25
+I0
+tp26
+a(I1560
+S'start_time     : 1500165947\nlast_update    : 1500167509\nfuzzer_pid     : 14167\ncycles_done    : 0\nexecs_done     : 752553\nexecs_per_sec  : 53.46\npaths_total    : 38\npaths_favored  : 16\npaths_found    : 37\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 35\npending_favs   : 3\npending_total  : 17\nvariable_paths : 0\nbitmap_cvg     : 0.33%\nunique_crashes : 0\nunique_hangs   : 18\nlast_path      : 1500167004\nlast_crash     : 0\nlast_hang      : 1500167091\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Corinth/input -o /dev/shm/work/Corinth/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Corinth/Corinth.dict -- data/linux/processed-challenges/Corinth/bin/Corinth\n'
+p27
+I0
+tp28
+a(I1680
+S'start_time     : 1500165947\nlast_update    : 1500167630\nfuzzer_pid     : 14167\ncycles_done    : 0\nexecs_done     : 764422\nexecs_per_sec  : 114.52\npaths_total    : 38\npaths_favored  : 16\npaths_found    : 37\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 36\npending_favs   : 2\npending_total  : 16\nvariable_paths : 0\nbitmap_cvg     : 0.33%\nunique_crashes : 0\nunique_hangs   : 18\nlast_path      : 1500167004\nlast_crash     : 0\nlast_hang      : 1500167091\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Corinth/input -o /dev/shm/work/Corinth/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Corinth/Corinth.dict -- data/linux/processed-challenges/Corinth/bin/Corinth\n'
+p29
+I0
+tp30
+a(I1800
+S'start_time     : 1500165947\nlast_update    : 1500167750\nfuzzer_pid     : 14167\ncycles_done    : 0\nexecs_done     : 771331\nexecs_per_sec  : 60.51\npaths_total    : 38\npaths_favored  : 16\npaths_found    : 37\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 36\npending_favs   : 2\npending_total  : 16\nvariable_paths : 0\nbitmap_cvg     : 0.33%\nunique_crashes : 0\nunique_hangs   : 18\nlast_path      : 1500167004\nlast_crash     : 0\nlast_hang      : 1500167091\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Corinth/input -o /dev/shm/work/Corinth/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Corinth/Corinth.dict -- data/linux/processed-challenges/Corinth/bin/Corinth\n'
+p31
+I0
+tp32
+a(I1920
+S'start_time     : 1500165947\nlast_update    : 1500167870\nfuzzer_pid     : 14167\ncycles_done    : 0\nexecs_done     : 780043\nexecs_per_sec  : 71.99\npaths_total    : 38\npaths_favored  : 16\npaths_found    : 37\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 36\npending_favs   : 2\npending_total  : 16\nvariable_paths : 0\nbitmap_cvg     : 0.33%\nunique_crashes : 0\nunique_hangs   : 18\nlast_path      : 1500167004\nlast_crash     : 0\nlast_hang      : 1500167091\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Corinth/input -o /dev/shm/work/Corinth/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Corinth/Corinth.dict -- data/linux/processed-challenges/Corinth/bin/Corinth\n'
+p33
+I0
+tp34
+a(I2040
+S'start_time     : 1500165947\nlast_update    : 1500167990\nfuzzer_pid     : 14167\ncycles_done    : 0\nexecs_done     : 790096\nexecs_per_sec  : 51.27\npaths_total    : 38\npaths_favored  : 16\npaths_found    : 37\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 37\npending_favs   : 1\npending_total  : 15\nvariable_paths : 0\nbitmap_cvg     : 0.33%\nunique_crashes : 0\nunique_hangs   : 19\nlast_path      : 1500167004\nlast_crash     : 0\nlast_hang      : 1500167957\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Corinth/input -o /dev/shm/work/Corinth/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Corinth/Corinth.dict -- data/linux/processed-challenges/Corinth/bin/Corinth\n'
+p35
+I0
+tp36
+a(I2160
+S'start_time     : 1500165947\nlast_update    : 1500168111\nfuzzer_pid     : 14167\ncycles_done    : 0\nexecs_done     : 797740\nexecs_per_sec  : 86.16\npaths_total    : 38\npaths_favored  : 16\npaths_found    : 37\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 37\npending_favs   : 1\npending_total  : 15\nvariable_paths : 0\nbitmap_cvg     : 0.33%\nunique_crashes : 0\nunique_hangs   : 19\nlast_path      : 1500167004\nlast_crash     : 0\nlast_hang      : 1500167957\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Corinth/input -o /dev/shm/work/Corinth/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Corinth/Corinth.dict -- data/linux/processed-challenges/Corinth/bin/Corinth\n'
+p37
+I0
+tp38
+a(I2280
+S'start_time     : 1500165947\nlast_update    : 1500168231\nfuzzer_pid     : 14167\ncycles_done    : 0\nexecs_done     : 807235\nexecs_per_sec  : 201.02\npaths_total    : 38\npaths_favored  : 16\npaths_found    : 37\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 37\npending_favs   : 1\npending_total  : 15\nvariable_paths : 0\nbitmap_cvg     : 0.33%\nunique_crashes : 0\nunique_hangs   : 19\nlast_path      : 1500167004\nlast_crash     : 0\nlast_hang      : 1500167957\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Corinth/input -o /dev/shm/work/Corinth/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Corinth/Corinth.dict -- data/linux/processed-challenges/Corinth/bin/Corinth\n'
+p39
+I0
+tp40
+a(I2400
+S'start_time     : 1500165947\nlast_update    : 1500168351\nfuzzer_pid     : 14167\ncycles_done    : 1\nexecs_done     : 925121\nexecs_per_sec  : 1077.83\npaths_total    : 39\npaths_favored  : 16\npaths_found    : 38\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 17\npending_favs   : 0\npending_total  : 15\nvariable_paths : 0\nbitmap_cvg     : 0.33%\nunique_crashes : 0\nunique_hangs   : 19\nlast_path      : 1500168332\nlast_crash     : 0\nlast_hang      : 1500167957\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Corinth/input -o /dev/shm/work/Corinth/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Corinth/Corinth.dict -- data/linux/processed-challenges/Corinth/bin/Corinth\n'
+p41
+I1
+tp42
+a(I2520
+S'start_time     : 1500165947\nlast_update    : 1500168472\nfuzzer_pid     : 14167\ncycles_done    : 1\nexecs_done     : 1052449\nexecs_per_sec  : 1063.04\npaths_total    : 43\npaths_favored  : 16\npaths_found    : 42\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 23\npending_favs   : 0\npending_total  : 17\nvariable_paths : 0\nbitmap_cvg     : 0.33%\nunique_crashes : 0\nunique_hangs   : 19\nlast_path      : 1500168455\nlast_crash     : 0\nlast_hang      : 1500167957\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Corinth/input -o /dev/shm/work/Corinth/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Corinth/Corinth.dict -- data/linux/processed-challenges/Corinth/bin/Corinth\n'
+p43
+I4
+tp44
+a(I2640
+S'start_time     : 1500165947\nlast_update    : 1500168592\nfuzzer_pid     : 14167\ncycles_done    : 1\nexecs_done     : 1169785\nexecs_per_sec  : 406.61\npaths_total    : 43\npaths_favored  : 16\npaths_found    : 42\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 29\npending_favs   : 0\npending_total  : 15\nvariable_paths : 0\nbitmap_cvg     : 0.33%\nunique_crashes : 0\nunique_hangs   : 19\nlast_path      : 1500168455\nlast_crash     : 0\nlast_hang      : 1500167957\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Corinth/input -o /dev/shm/work/Corinth/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Corinth/Corinth.dict -- data/linux/processed-challenges/Corinth/bin/Corinth\n'
+p45
+I0
+tp46
+a(I2760
+S'start_time     : 1500165947\nlast_update    : 1500168712\nfuzzer_pid     : 14167\ncycles_done    : 1\nexecs_done     : 1189309\nexecs_per_sec  : 56.58\npaths_total    : 43\npaths_favored  : 16\npaths_found    : 42\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 32\npending_favs   : 0\npending_total  : 15\nvariable_paths : 0\nbitmap_cvg     : 0.33%\nunique_crashes : 0\nunique_hangs   : 19\nlast_path      : 1500168455\nlast_crash     : 0\nlast_hang      : 1500167957\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Corinth/input -o /dev/shm/work/Corinth/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Corinth/Corinth.dict -- data/linux/processed-challenges/Corinth/bin/Corinth\n'
+p47
+I0
+tp48
+a(I2880
+S'start_time     : 1500165947\nlast_update    : 1500168832\nfuzzer_pid     : 14167\ncycles_done    : 1\nexecs_done     : 1198425\nexecs_per_sec  : 107.90\npaths_total    : 43\npaths_favored  : 16\npaths_found    : 42\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 32\npending_favs   : 0\npending_total  : 15\nvariable_paths : 0\nbitmap_cvg     : 0.33%\nunique_crashes : 0\nunique_hangs   : 19\nlast_path      : 1500168455\nlast_crash     : 0\nlast_hang      : 1500167957\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Corinth/input -o /dev/shm/work/Corinth/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Corinth/Corinth.dict -- data/linux/processed-challenges/Corinth/bin/Corinth\n'
+p49
+I0
+tp50
+a(I3000
+S'start_time     : 1500165947\nlast_update    : 1500168952\nfuzzer_pid     : 14167\ncycles_done    : 1\nexecs_done     : 1218605\nexecs_per_sec  : 225.23\npaths_total    : 43\npaths_favored  : 16\npaths_found    : 42\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 36\npending_favs   : 0\npending_total  : 14\nvariable_paths : 0\nbitmap_cvg     : 0.33%\nunique_crashes : 0\nunique_hangs   : 19\nlast_path      : 1500168455\nlast_crash     : 0\nlast_hang      : 1500167957\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Corinth/input -o /dev/shm/work/Corinth/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Corinth/Corinth.dict -- data/linux/processed-challenges/Corinth/bin/Corinth\n'
+p51
+I0
+tp52
+a(I3120
+S'start_time     : 1500165947\nlast_update    : 1500169072\nfuzzer_pid     : 14167\ncycles_done    : 2\nexecs_done     : 1313201\nexecs_per_sec  : 1065.84\npaths_total    : 43\npaths_favored  : 16\npaths_found    : 42\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 13\npending_favs   : 0\npending_total  : 14\nvariable_paths : 0\nbitmap_cvg     : 0.33%\nunique_crashes : 0\nunique_hangs   : 19\nlast_path      : 1500168455\nlast_crash     : 0\nlast_hang      : 1500167957\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Corinth/input -o /dev/shm/work/Corinth/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Corinth/Corinth.dict -- data/linux/processed-challenges/Corinth/bin/Corinth\n'
+p53
+I0
+tp54
+a(I3240
+S'start_time     : 1500165947\nlast_update    : 1500169193\nfuzzer_pid     : 14167\ncycles_done    : 2\nexecs_done     : 1405924\nexecs_per_sec  : 358.02\npaths_total    : 44\npaths_favored  : 16\npaths_found    : 43\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 31\npending_favs   : 0\npending_total  : 14\nvariable_paths : 0\nbitmap_cvg     : 0.33%\nunique_crashes : 0\nunique_hangs   : 19\nlast_path      : 1500169091\nlast_crash     : 0\nlast_hang      : 1500167957\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Corinth/input -o /dev/shm/work/Corinth/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Corinth/Corinth.dict -- data/linux/processed-challenges/Corinth/bin/Corinth\n'
+p55
+I1
+tp56
+a(I3360
+S'start_time     : 1500165947\nlast_update    : 1500169313\nfuzzer_pid     : 14167\ncycles_done    : 2\nexecs_done     : 1454213\nexecs_per_sec  : 1063.44\npaths_total    : 44\npaths_favored  : 16\npaths_found    : 43\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 38\npending_favs   : 0\npending_total  : 14\nvariable_paths : 0\nbitmap_cvg     : 0.33%\nunique_crashes : 0\nunique_hangs   : 19\nlast_path      : 1500169091\nlast_crash     : 0\nlast_hang      : 1500167957\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Corinth/input -o /dev/shm/work/Corinth/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Corinth/Corinth.dict -- data/linux/processed-challenges/Corinth/bin/Corinth\n'
+p57
+I0
+tp58
+a(I3480
+S'start_time     : 1500165947\nlast_update    : 1500169433\nfuzzer_pid     : 14167\ncycles_done    : 2\nexecs_done     : 1579930\nexecs_per_sec  : 1041.83\npaths_total    : 46\npaths_favored  : 16\npaths_found    : 45\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 43\npending_favs   : 0\npending_total  : 15\nvariable_paths : 0\nbitmap_cvg     : 0.33%\nunique_crashes : 0\nunique_hangs   : 19\nlast_path      : 1500169424\nlast_crash     : 0\nlast_hang      : 1500167957\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Corinth/input -o /dev/shm/work/Corinth/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Corinth/Corinth.dict -- data/linux/processed-challenges/Corinth/bin/Corinth\n'
+p59
+I2
+tp60
+a(I3600
+S'start_time     : 1500165947\nlast_update    : 1500169553\nfuzzer_pid     : 14167\ncycles_done    : 3\nexecs_done     : 1705903\nexecs_per_sec  : 1076.08\npaths_total    : 46\npaths_favored  : 16\npaths_found    : 45\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 3\npending_favs   : 0\npending_total  : 14\nvariable_paths : 0\nbitmap_cvg     : 0.33%\nunique_crashes : 0\nunique_hangs   : 19\nlast_path      : 1500169424\nlast_crash     : 0\nlast_hang      : 1500167957\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Corinth/input -o /dev/shm/work/Corinth/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Corinth/Corinth.dict -- data/linux/processed-challenges/Corinth/bin/Corinth\n'
+p61
+I0
+tp62
+a(I3720
+S'start_time     : 1500165947\nlast_update    : 1500169673\nfuzzer_pid     : 14167\ncycles_done    : 3\nexecs_done     : 1817908\nexecs_per_sec  : 1021.25\npaths_total    : 46\npaths_favored  : 16\npaths_found    : 45\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 22\npending_favs   : 0\npending_total  : 12\nvariable_paths : 0\nbitmap_cvg     : 0.33%\nunique_crashes : 0\nunique_hangs   : 19\nlast_path      : 1500169424\nlast_crash     : 0\nlast_hang      : 1500167957\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Corinth/input -o /dev/shm/work/Corinth/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Corinth/Corinth.dict -- data/linux/processed-challenges/Corinth/bin/Corinth\n'
+p63
+I0
+tp64
+a(I3840
+S'start_time     : 1500165947\nlast_update    : 1500169794\nfuzzer_pid     : 14167\ncycles_done    : 3\nexecs_done     : 1854440\nexecs_per_sec  : 92.26\npaths_total    : 46\npaths_favored  : 16\npaths_found    : 45\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 30\npending_favs   : 0\npending_total  : 12\nvariable_paths : 0\nbitmap_cvg     : 0.33%\nunique_crashes : 0\nunique_hangs   : 19\nlast_path      : 1500169424\nlast_crash     : 0\nlast_hang      : 1500167957\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Corinth/input -o /dev/shm/work/Corinth/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Corinth/Corinth.dict -- data/linux/processed-challenges/Corinth/bin/Corinth\n'
+p65
+I0
+tp66
+a(I3960
+S'start_time     : 1500165947\nlast_update    : 1500169914\nfuzzer_pid     : 14167\ncycles_done    : 3\nexecs_done     : 1890226\nexecs_per_sec  : 230.34\npaths_total    : 46\npaths_favored  : 16\npaths_found    : 45\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 37\npending_favs   : 0\npending_total  : 11\nvariable_paths : 0\nbitmap_cvg     : 0.33%\nunique_crashes : 0\nunique_hangs   : 19\nlast_path      : 1500169424\nlast_crash     : 0\nlast_hang      : 1500167957\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Corinth/input -o /dev/shm/work/Corinth/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Corinth/Corinth.dict -- data/linux/processed-challenges/Corinth/bin/Corinth\n'
+p67
+I0
+tp68
+a(I4080
+S'start_time     : 1500165947\nlast_update    : 1500170034\nfuzzer_pid     : 14167\ncycles_done    : 3\nexecs_done     : 1944757\nexecs_per_sec  : 1061.77\npaths_total    : 47\npaths_favored  : 16\npaths_found    : 46\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 40\npending_favs   : 0\npending_total  : 11\nvariable_paths : 0\nbitmap_cvg     : 0.33%\nunique_crashes : 0\nunique_hangs   : 20\nlast_path      : 1500170017\nlast_crash     : 0\nlast_hang      : 1500169934\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Corinth/input -o /dev/shm/work/Corinth/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Corinth/Corinth.dict -- data/linux/processed-challenges/Corinth/bin/Corinth\n'
+p69
+I1
+tp70
+a(I4200
+S'start_time     : 1500165947\nlast_update    : 1500170154\nfuzzer_pid     : 14167\ncycles_done    : 3\nexecs_done     : 2071190\nexecs_per_sec  : 1068.77\npaths_total    : 48\npaths_favored  : 16\npaths_found    : 47\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 42\npending_favs   : 0\npending_total  : 11\nvariable_paths : 0\nbitmap_cvg     : 0.33%\nunique_crashes : 0\nunique_hangs   : 20\nlast_path      : 1500170049\nlast_crash     : 0\nlast_hang      : 1500169934\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Corinth/input -o /dev/shm/work/Corinth/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Corinth/Corinth.dict -- data/linux/processed-challenges/Corinth/bin/Corinth\n'
+p71
+I1
+tp72
+a(I4320
+S'start_time     : 1500165947\nlast_update    : 1500170274\nfuzzer_pid     : 14167\ncycles_done    : 3\nexecs_done     : 2197966\nexecs_per_sec  : 1066.04\npaths_total    : 50\npaths_favored  : 16\npaths_found    : 49\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 44\npending_favs   : 0\npending_total  : 12\nvariable_paths : 0\nbitmap_cvg     : 0.33%\nunique_crashes : 0\nunique_hangs   : 20\nlast_path      : 1500170212\nlast_crash     : 0\nlast_hang      : 1500169934\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Corinth/input -o /dev/shm/work/Corinth/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Corinth/Corinth.dict -- data/linux/processed-challenges/Corinth/bin/Corinth\n'
+p73
+I2
+tp74
+a(I4440
+S'start_time     : 1500165947\nlast_update    : 1500170395\nfuzzer_pid     : 14167\ncycles_done    : 3\nexecs_done     : 2323868\nexecs_per_sec  : 1060.29\npaths_total    : 50\npaths_favored  : 16\npaths_found    : 49\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 47\npending_favs   : 0\npending_total  : 10\nvariable_paths : 0\nbitmap_cvg     : 0.33%\nunique_crashes : 0\nunique_hangs   : 20\nlast_path      : 1500170212\nlast_crash     : 0\nlast_hang      : 1500169934\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Corinth/input -o /dev/shm/work/Corinth/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Corinth/Corinth.dict -- data/linux/processed-challenges/Corinth/bin/Corinth\n'
+p75
+I0
+tp76
+a(I4560
+S'start_time     : 1500165947\nlast_update    : 1500170515\nfuzzer_pid     : 14167\ncycles_done    : 3\nexecs_done     : 2448655\nexecs_per_sec  : 1037.78\npaths_total    : 52\npaths_favored  : 16\npaths_found    : 51\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 47\npending_favs   : 0\npending_total  : 12\nvariable_paths : 0\nbitmap_cvg     : 0.33%\nunique_crashes : 0\nunique_hangs   : 20\nlast_path      : 1500170434\nlast_crash     : 0\nlast_hang      : 1500169934\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Corinth/input -o /dev/shm/work/Corinth/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Corinth/Corinth.dict -- data/linux/processed-challenges/Corinth/bin/Corinth\n'
+p77
+I2
+tp78
+a(I4680
+S'start_time     : 1500165947\nlast_update    : 1500170575\nfuzzer_pid     : 14167\ncycles_done    : 4\nexecs_done     : 2512163\nexecs_per_sec  : 1078.91\npaths_total    : 52\npaths_favored  : 16\npaths_found    : 51\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 4\npending_favs   : 0\npending_total  : 11\nvariable_paths : 0\nbitmap_cvg     : 0.33%\nunique_crashes : 0\nunique_hangs   : 20\nlast_path      : 1500170434\nlast_crash     : 0\nlast_hang      : 1500169934\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Corinth/input -o /dev/shm/work/Corinth/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Corinth/Corinth.dict -- data/linux/processed-challenges/Corinth/bin/Corinth\n'
+p79
+I0
+tp80
+a(I4800
+S'start_time     : 1500165947\nlast_update    : 1500170695\nfuzzer_pid     : 14167\ncycles_done    : 4\nexecs_done     : 2610002\nexecs_per_sec  : 372.81\npaths_total    : 52\npaths_favored  : 16\npaths_found    : 51\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 31\npending_favs   : 0\npending_total  : 11\nvariable_paths : 0\nbitmap_cvg     : 0.33%\nunique_crashes : 0\nunique_hangs   : 20\nlast_path      : 1500170434\nlast_crash     : 0\nlast_hang      : 1500169934\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Corinth/input -o /dev/shm/work/Corinth/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Corinth/Corinth.dict -- data/linux/processed-challenges/Corinth/bin/Corinth\n'
+p81
+I0
+tp82
+a(I4920
+S'start_time     : 1500165947\nlast_update    : 1500170815\nfuzzer_pid     : 14167\ncycles_done    : 4\nexecs_done     : 2677267\nexecs_per_sec  : 1060.65\npaths_total    : 52\npaths_favored  : 16\npaths_found    : 51\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 41\npending_favs   : 0\npending_total  : 11\nvariable_paths : 0\nbitmap_cvg     : 0.33%\nunique_crashes : 0\nunique_hangs   : 20\nlast_path      : 1500170434\nlast_crash     : 0\nlast_hang      : 1500169934\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Corinth/input -o /dev/shm/work/Corinth/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Corinth/Corinth.dict -- data/linux/processed-challenges/Corinth/bin/Corinth\n'
+p83
+I0
+tp84
+a(I5040
+S'start_time     : 1500165947\nlast_update    : 1500170935\nfuzzer_pid     : 14167\ncycles_done    : 5\nexecs_done     : 2803262\nexecs_per_sec  : 1076.02\npaths_total    : 52\npaths_favored  : 16\npaths_found    : 51\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 2\npending_favs   : 0\npending_total  : 9\nvariable_paths : 0\nbitmap_cvg     : 0.33%\nunique_crashes : 0\nunique_hangs   : 21\nlast_path      : 1500170434\nlast_crash     : 0\nlast_hang      : 1500170922\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Corinth/input -o /dev/shm/work/Corinth/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Corinth/Corinth.dict -- data/linux/processed-challenges/Corinth/bin/Corinth\n'
+p85
+I1
+tp86
+a(I5160
+S'start_time     : 1500165947\nlast_update    : 1500171056\nfuzzer_pid     : 14167\ncycles_done    : 5\nexecs_done     : 2873485\nexecs_per_sec  : 62.77\npaths_total    : 54\npaths_favored  : 16\npaths_found    : 53\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 53\npending_favs   : 1\npending_total  : 11\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 22\nlast_path      : 1500171001\nlast_crash     : 0\nlast_hang      : 1500171003\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Corinth/input -o /dev/shm/work/Corinth/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Corinth/Corinth.dict -- data/linux/processed-challenges/Corinth/bin/Corinth\n'
+p87
+I1
+tp88
+a(I5280
+S'start_time     : 1500165947\nlast_update    : 1500171176\nfuzzer_pid     : 14167\ncycles_done    : 5\nexecs_done     : 2881267\nexecs_per_sec  : 77.63\npaths_total    : 54\npaths_favored  : 16\npaths_found    : 53\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 53\npending_favs   : 1\npending_total  : 11\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 22\nlast_path      : 1500171001\nlast_crash     : 0\nlast_hang      : 1500171003\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Corinth/input -o /dev/shm/work/Corinth/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Corinth/Corinth.dict -- data/linux/processed-challenges/Corinth/bin/Corinth\n'
+p89
+I0
+tp90
+a(I5400
+S'start_time     : 1500165947\nlast_update    : 1500171296\nfuzzer_pid     : 14167\ncycles_done    : 5\nexecs_done     : 2891898\nexecs_per_sec  : 223.04\npaths_total    : 54\npaths_favored  : 16\npaths_found    : 53\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 53\npending_favs   : 1\npending_total  : 11\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 22\nlast_path      : 1500171001\nlast_crash     : 0\nlast_hang      : 1500171003\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Corinth/input -o /dev/shm/work/Corinth/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Corinth/Corinth.dict -- data/linux/processed-challenges/Corinth/bin/Corinth\n'
+p91
+I1
+tp92
+a(I5520
+S'start_time     : 1500165947\nlast_update    : 1500171416\nfuzzer_pid     : 14167\ncycles_done    : 5\nexecs_done     : 2924784\nexecs_per_sec  : 389.98\npaths_total    : 55\npaths_favored  : 16\npaths_found    : 54\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 53\npending_favs   : 1\npending_total  : 12\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 23\nlast_path      : 1500171322\nlast_crash     : 0\nlast_hang      : 1500171373\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Corinth/input -o /dev/shm/work/Corinth/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Corinth/Corinth.dict -- data/linux/processed-challenges/Corinth/bin/Corinth\n'
+p93
+I0
+tp94
+a(I5640
+S'start_time     : 1500165947\nlast_update    : 1500171536\nfuzzer_pid     : 14167\ncycles_done    : 5\nexecs_done     : 2935695\nexecs_per_sec  : 67.87\npaths_total    : 55\npaths_favored  : 17\npaths_found    : 54\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 54\npending_favs   : 1\npending_total  : 11\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 23\nlast_path      : 1500171322\nlast_crash     : 0\nlast_hang      : 1500171373\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Corinth/input -o /dev/shm/work/Corinth/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Corinth/Corinth.dict -- data/linux/processed-challenges/Corinth/bin/Corinth\n'
+p95
+I0
+tp96
+a(I5760
+S'start_time     : 1500165947\nlast_update    : 1500171657\nfuzzer_pid     : 14167\ncycles_done    : 5\nexecs_done     : 2959310\nexecs_per_sec  : 271.06\npaths_total    : 55\npaths_favored  : 17\npaths_found    : 54\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 54\npending_favs   : 1\npending_total  : 11\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 23\nlast_path      : 1500171322\nlast_crash     : 0\nlast_hang      : 1500171373\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Corinth/input -o /dev/shm/work/Corinth/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Corinth/Corinth.dict -- data/linux/processed-challenges/Corinth/bin/Corinth\n'
+p97
+I0
+tp98
+a(I5880
+S'start_time     : 1500165947\nlast_update    : 1500171777\nfuzzer_pid     : 14167\ncycles_done    : 6\nexecs_done     : 3041236\nexecs_per_sec  : 207.19\npaths_total    : 55\npaths_favored  : 17\npaths_found    : 54\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 2\npending_favs   : 0\npending_total  : 10\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 23\nlast_path      : 1500171322\nlast_crash     : 0\nlast_hang      : 1500171373\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Corinth/input -o /dev/shm/work/Corinth/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Corinth/Corinth.dict -- data/linux/processed-challenges/Corinth/bin/Corinth\n'
+p99
+I0
+tp100
+a(I6000
+S'start_time     : 1500165947\nlast_update    : 1500171897\nfuzzer_pid     : 14167\ncycles_done    : 6\nexecs_done     : 3153240\nexecs_per_sec  : 1046.74\npaths_total    : 55\npaths_favored  : 17\npaths_found    : 54\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 9\npending_favs   : 0\npending_total  : 10\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 23\nlast_path      : 1500171322\nlast_crash     : 0\nlast_hang      : 1500171373\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Corinth/input -o /dev/shm/work/Corinth/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Corinth/Corinth.dict -- data/linux/processed-challenges/Corinth/bin/Corinth\n'
+p101
+I0
+tp102
+a(I6120
+S'start_time     : 1500165947\nlast_update    : 1500172017\nfuzzer_pid     : 14167\ncycles_done    : 6\nexecs_done     : 3267474\nexecs_per_sec  : 1075.81\npaths_total    : 55\npaths_favored  : 17\npaths_found    : 54\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 22\npending_favs   : 0\npending_total  : 10\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 23\nlast_path      : 1500171322\nlast_crash     : 0\nlast_hang      : 1500171373\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Corinth/input -o /dev/shm/work/Corinth/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Corinth/Corinth.dict -- data/linux/processed-challenges/Corinth/bin/Corinth\n'
+p103
+I0
+tp104
+a(I6240
+S'start_time     : 1500165947\nlast_update    : 1500172137\nfuzzer_pid     : 14167\ncycles_done    : 6\nexecs_done     : 3356917\nexecs_per_sec  : 354.24\npaths_total    : 55\npaths_favored  : 17\npaths_found    : 54\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 31\npending_favs   : 0\npending_total  : 10\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 23\nlast_path      : 1500171322\nlast_crash     : 0\nlast_hang      : 1500171373\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Corinth/input -o /dev/shm/work/Corinth/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Corinth/Corinth.dict -- data/linux/processed-challenges/Corinth/bin/Corinth\n'
+p105
+I0
+tp106
+a(I6360
+S'start_time     : 1500165947\nlast_update    : 1500172258\nfuzzer_pid     : 14167\ncycles_done    : 6\nexecs_done     : 3404117\nexecs_per_sec  : 102.84\npaths_total    : 56\npaths_favored  : 17\npaths_found    : 55\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 33\npending_favs   : 0\npending_total  : 11\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 23\nlast_path      : 1500172219\nlast_crash     : 0\nlast_hang      : 1500171373\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Corinth/input -o /dev/shm/work/Corinth/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Corinth/Corinth.dict -- data/linux/processed-challenges/Corinth/bin/Corinth\n'
+p107
+I1
+tp108
+a(I6480
+S'start_time     : 1500165947\nlast_update    : 1500172378\nfuzzer_pid     : 14167\ncycles_done    : 6\nexecs_done     : 3457437\nexecs_per_sec  : 985.60\npaths_total    : 56\npaths_favored  : 17\npaths_found    : 55\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 51\npending_favs   : 0\npending_total  : 11\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 23\nlast_path      : 1500172219\nlast_crash     : 0\nlast_hang      : 1500171373\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Corinth/input -o /dev/shm/work/Corinth/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Corinth/Corinth.dict -- data/linux/processed-challenges/Corinth/bin/Corinth\n'
+p109
+I0
+tp110
+a(I6600
+S'start_time     : 1500165947\nlast_update    : 1500172498\nfuzzer_pid     : 14167\ncycles_done    : 6\nexecs_done     : 3581798\nexecs_per_sec  : 1073.54\npaths_total    : 56\npaths_favored  : 17\npaths_found    : 55\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 51\npending_favs   : 0\npending_total  : 11\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 23\nlast_path      : 1500172219\nlast_crash     : 0\nlast_hang      : 1500171373\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Corinth/input -o /dev/shm/work/Corinth/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Corinth/Corinth.dict -- data/linux/processed-challenges/Corinth/bin/Corinth\n'
+p111
+I0
+tp112
+a(I6720
+S'start_time     : 1500165947\nlast_update    : 1500172619\nfuzzer_pid     : 14167\ncycles_done    : 6\nexecs_done     : 3677370\nexecs_per_sec  : 564.10\npaths_total    : 56\npaths_favored  : 17\npaths_found    : 55\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 53\npending_favs   : 0\npending_total  : 10\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 23\nlast_path      : 1500172219\nlast_crash     : 0\nlast_hang      : 1500171373\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Corinth/input -o /dev/shm/work/Corinth/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Corinth/Corinth.dict -- data/linux/processed-challenges/Corinth/bin/Corinth\n'
+p113
+I0
+tp114
+a(I6840
+S'start_time     : 1500165947\nlast_update    : 1500172739\nfuzzer_pid     : 14167\ncycles_done    : 7\nexecs_done     : 3739227\nexecs_per_sec  : 1065.07\npaths_total    : 56\npaths_favored  : 17\npaths_found    : 55\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 1\npending_favs   : 0\npending_total  : 10\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 23\nlast_path      : 1500172219\nlast_crash     : 0\nlast_hang      : 1500171373\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Corinth/input -o /dev/shm/work/Corinth/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Corinth/Corinth.dict -- data/linux/processed-challenges/Corinth/bin/Corinth\n'
+p115
+I0
+tp116
+a(I6960
+S'start_time     : 1500165947\nlast_update    : 1500172859\nfuzzer_pid     : 14167\ncycles_done    : 7\nexecs_done     : 3847593\nexecs_per_sec  : 1067.86\npaths_total    : 56\npaths_favored  : 17\npaths_found    : 55\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 4\npending_favs   : 0\npending_total  : 9\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 23\nlast_path      : 1500172219\nlast_crash     : 0\nlast_hang      : 1500171373\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Corinth/input -o /dev/shm/work/Corinth/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Corinth/Corinth.dict -- data/linux/processed-challenges/Corinth/bin/Corinth\n'
+p117
+I0
+tp118
+a(I7080
+S'start_time     : 1500165947\nlast_update    : 1500172979\nfuzzer_pid     : 14167\ncycles_done    : 7\nexecs_done     : 3956748\nexecs_per_sec  : 795.50\npaths_total    : 56\npaths_favored  : 17\npaths_found    : 55\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 13\npending_favs   : 0\npending_total  : 9\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 23\nlast_path      : 1500172219\nlast_crash     : 0\nlast_hang      : 1500171373\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Corinth/input -o /dev/shm/work/Corinth/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Corinth/Corinth.dict -- data/linux/processed-challenges/Corinth/bin/Corinth\n'
+p119
+I0
+tp120
+a(I7200
+S'start_time     : 1500165947\nlast_update    : 1500173099\nfuzzer_pid     : 14167\ncycles_done    : 7\nexecs_done     : 4061466\nexecs_per_sec  : 1077.10\npaths_total    : 56\npaths_favored  : 17\npaths_found    : 55\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 22\npending_favs   : 0\npending_total  : 9\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 23\nlast_path      : 1500172219\nlast_crash     : 0\nlast_hang      : 1500171373\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Corinth/input -o /dev/shm/work/Corinth/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Corinth/Corinth.dict -- data/linux/processed-challenges/Corinth/bin/Corinth\n'
+p121
+I0
+tp122
+a(I7320
+S'start_time     : 1500165947\nlast_update    : 1500173220\nfuzzer_pid     : 14167\ncycles_done    : 7\nexecs_done     : 4145326\nexecs_per_sec  : 408.03\npaths_total    : 57\npaths_favored  : 17\npaths_found    : 56\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 27\npending_favs   : 0\npending_total  : 10\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 24\nlast_path      : 1500173170\nlast_crash     : 0\nlast_hang      : 1500173160\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Corinth/input -o /dev/shm/work/Corinth/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Corinth/Corinth.dict -- data/linux/processed-challenges/Corinth/bin/Corinth\n'
+p123
+I1
+tp124
+a(I7440
+S'start_time     : 1500165947\nlast_update    : 1500173340\nfuzzer_pid     : 14167\ncycles_done    : 7\nexecs_done     : 4193383\nexecs_per_sec  : 488.50\npaths_total    : 57\npaths_favored  : 17\npaths_found    : 56\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 33\npending_favs   : 0\npending_total  : 10\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 24\nlast_path      : 1500173170\nlast_crash     : 0\nlast_hang      : 1500173160\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Corinth/input -o /dev/shm/work/Corinth/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Corinth/Corinth.dict -- data/linux/processed-challenges/Corinth/bin/Corinth\n'
+p125
+I0
+tp126
+a(I7560
+S'start_time     : 1500165947\nlast_update    : 1500173460\nfuzzer_pid     : 14167\ncycles_done    : 7\nexecs_done     : 4243291\nexecs_per_sec  : 1092.15\npaths_total    : 57\npaths_favored  : 17\npaths_found    : 56\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 41\npending_favs   : 0\npending_total  : 10\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 24\nlast_path      : 1500173170\nlast_crash     : 0\nlast_hang      : 1500173160\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Corinth/input -o /dev/shm/work/Corinth/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Corinth/Corinth.dict -- data/linux/processed-challenges/Corinth/bin/Corinth\n'
+p127
+I0
+tp128
+a(I7680
+S'start_time     : 1500165947\nlast_update    : 1500173580\nfuzzer_pid     : 14167\ncycles_done    : 7\nexecs_done     : 4335253\nexecs_per_sec  : 695.18\npaths_total    : 57\npaths_favored  : 17\npaths_found    : 56\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 54\npending_favs   : 0\npending_total  : 10\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 24\nlast_path      : 1500173170\nlast_crash     : 0\nlast_hang      : 1500173160\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Corinth/input -o /dev/shm/work/Corinth/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Corinth/Corinth.dict -- data/linux/processed-challenges/Corinth/bin/Corinth\n'
+p129
+I0
+tp130
+a(I7800
+S'start_time     : 1500165947\nlast_update    : 1500173700\nfuzzer_pid     : 14167\ncycles_done    : 7\nexecs_done     : 4347467\nexecs_per_sec  : 58.83\npaths_total    : 57\npaths_favored  : 17\npaths_found    : 56\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 55\npending_favs   : 0\npending_total  : 10\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 24\nlast_path      : 1500173170\nlast_crash     : 0\nlast_hang      : 1500173160\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Corinth/input -o /dev/shm/work/Corinth/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Corinth/Corinth.dict -- data/linux/processed-challenges/Corinth/bin/Corinth\n'
+p131
+I0
+tp132
+a(I7920
+S'start_time     : 1500165947\nlast_update    : 1500173820\nfuzzer_pid     : 14167\ncycles_done    : 7\nexecs_done     : 4362986\nexecs_per_sec  : 246.12\npaths_total    : 57\npaths_favored  : 17\npaths_found    : 56\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 55\npending_favs   : 0\npending_total  : 10\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 24\nlast_path      : 1500173170\nlast_crash     : 0\nlast_hang      : 1500173160\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Corinth/input -o /dev/shm/work/Corinth/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Corinth/Corinth.dict -- data/linux/processed-challenges/Corinth/bin/Corinth\n'
+p133
+I0
+tp134
+a(I8040
+S'start_time     : 1500165947\nlast_update    : 1500173941\nfuzzer_pid     : 14167\ncycles_done    : 7\nexecs_done     : 4398788\nexecs_per_sec  : 301.53\npaths_total    : 57\npaths_favored  : 17\npaths_found    : 56\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 55\npending_favs   : 0\npending_total  : 10\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 24\nlast_path      : 1500173170\nlast_crash     : 0\nlast_hang      : 1500173160\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Corinth/input -o /dev/shm/work/Corinth/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Corinth/Corinth.dict -- data/linux/processed-challenges/Corinth/bin/Corinth\n'
+p135
+I0
+tp136
+a(I8160
+S'start_time     : 1500165947\nlast_update    : 1500174061\nfuzzer_pid     : 14167\ncycles_done    : 8\nexecs_done     : 4444518\nexecs_per_sec  : 1034.89\npaths_total    : 57\npaths_favored  : 17\npaths_found    : 56\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 2\npending_favs   : 0\npending_total  : 9\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 24\nlast_path      : 1500173170\nlast_crash     : 0\nlast_hang      : 1500173160\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Corinth/input -o /dev/shm/work/Corinth/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Corinth/Corinth.dict -- data/linux/processed-challenges/Corinth/bin/Corinth\n'
+p137
+I0
+tp138
+a(I8280
+S'start_time     : 1500165947\nlast_update    : 1500174181\nfuzzer_pid     : 14167\ncycles_done    : 8\nexecs_done     : 4564218\nexecs_per_sec  : 1017.45\npaths_total    : 57\npaths_favored  : 17\npaths_found    : 56\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 6\npending_favs   : 0\npending_total  : 9\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 24\nlast_path      : 1500173170\nlast_crash     : 0\nlast_hang      : 1500173160\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Corinth/input -o /dev/shm/work/Corinth/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Corinth/Corinth.dict -- data/linux/processed-challenges/Corinth/bin/Corinth\n'
+p139
+I0
+tp140
+a(I8400
+S'start_time     : 1500165947\nlast_update    : 1500174301\nfuzzer_pid     : 14167\ncycles_done    : 8\nexecs_done     : 4669219\nexecs_per_sec  : 586.13\npaths_total    : 57\npaths_favored  : 17\npaths_found    : 56\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 13\npending_favs   : 0\npending_total  : 9\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 24\nlast_path      : 1500173170\nlast_crash     : 0\nlast_hang      : 1500173160\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Corinth/input -o /dev/shm/work/Corinth/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Corinth/Corinth.dict -- data/linux/processed-challenges/Corinth/bin/Corinth\n'
+p141
+I0
+tp142
+a(I8520
+S'start_time     : 1500165947\nlast_update    : 1500174422\nfuzzer_pid     : 14167\ncycles_done    : 8\nexecs_done     : 4793303\nexecs_per_sec  : 1061.58\npaths_total    : 57\npaths_favored  : 17\npaths_found    : 56\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 25\npending_favs   : 0\npending_total  : 9\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 24\nlast_path      : 1500173170\nlast_crash     : 0\nlast_hang      : 1500173160\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Corinth/input -o /dev/shm/work/Corinth/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Corinth/Corinth.dict -- data/linux/processed-challenges/Corinth/bin/Corinth\n'
+p143
+I0
+tp144
+a(I8640
+S'start_time     : 1500165947\nlast_update    : 1500174542\nfuzzer_pid     : 14167\ncycles_done    : 8\nexecs_done     : 4887246\nexecs_per_sec  : 360.57\npaths_total    : 57\npaths_favored  : 17\npaths_found    : 56\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 29\npending_favs   : 0\npending_total  : 8\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 24\nlast_path      : 1500173170\nlast_crash     : 0\nlast_hang      : 1500173160\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Corinth/input -o /dev/shm/work/Corinth/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Corinth/Corinth.dict -- data/linux/processed-challenges/Corinth/bin/Corinth\n'
+p145
+I0
+tp146
+a(I8760
+S'start_time     : 1500165947\nlast_update    : 1500174662\nfuzzer_pid     : 14167\ncycles_done    : 8\nexecs_done     : 4935402\nexecs_per_sec  : 298.19\npaths_total    : 57\npaths_favored  : 17\npaths_found    : 56\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 32\npending_favs   : 0\npending_total  : 8\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 24\nlast_path      : 1500173170\nlast_crash     : 0\nlast_hang      : 1500173160\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Corinth/input -o /dev/shm/work/Corinth/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Corinth/Corinth.dict -- data/linux/processed-challenges/Corinth/bin/Corinth\n'
+p147
+I0
+tp148
+a(I8880
+S'start_time     : 1500165947\nlast_update    : 1500174782\nfuzzer_pid     : 14167\ncycles_done    : 8\nexecs_done     : 4980806\nexecs_per_sec  : 339.53\npaths_total    : 57\npaths_favored  : 17\npaths_found    : 56\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 35\npending_favs   : 0\npending_total  : 8\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 24\nlast_path      : 1500173170\nlast_crash     : 0\nlast_hang      : 1500173160\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Corinth/input -o /dev/shm/work/Corinth/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Corinth/Corinth.dict -- data/linux/processed-challenges/Corinth/bin/Corinth\n'
+p149
+I0
+tp150
+a(I9000
+S'start_time     : 1500165947\nlast_update    : 1500174903\nfuzzer_pid     : 14167\ncycles_done    : 8\nexecs_done     : 5090683\nexecs_per_sec  : 1080.23\npaths_total    : 57\npaths_favored  : 17\npaths_found    : 56\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 48\npending_favs   : 0\npending_total  : 8\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 24\nlast_path      : 1500173170\nlast_crash     : 0\nlast_hang      : 1500173160\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Corinth/input -o /dev/shm/work/Corinth/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Corinth/Corinth.dict -- data/linux/processed-challenges/Corinth/bin/Corinth\n'
+p151
+I1
+tp152
+a(I9120
+S'start_time     : 1500165947\nlast_update    : 1500175023\nfuzzer_pid     : 14167\ncycles_done    : 8\nexecs_done     : 5216726\nexecs_per_sec  : 934.06\npaths_total    : 58\npaths_favored  : 17\npaths_found    : 57\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 52\npending_favs   : 0\npending_total  : 8\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 24\nlast_path      : 1500174903\nlast_crash     : 0\nlast_hang      : 1500173160\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Corinth/input -o /dev/shm/work/Corinth/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Corinth/Corinth.dict -- data/linux/processed-challenges/Corinth/bin/Corinth\n'
+p153
+I0
+tp154
+a(I9240
+S'start_time     : 1500165947\nlast_update    : 1500175143\nfuzzer_pid     : 14167\ncycles_done    : 8\nexecs_done     : 5334049\nexecs_per_sec  : 793.94\npaths_total    : 58\npaths_favored  : 17\npaths_found    : 57\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 52\npending_favs   : 0\npending_total  : 8\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 24\nlast_path      : 1500174903\nlast_crash     : 0\nlast_hang      : 1500173160\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Corinth/input -o /dev/shm/work/Corinth/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Corinth/Corinth.dict -- data/linux/processed-challenges/Corinth/bin/Corinth\n'
+p155
+I0
+tp156
+a(I9360
+S'start_time     : 1500165947\nlast_update    : 1500175263\nfuzzer_pid     : 14167\ncycles_done    : 8\nexecs_done     : 5443204\nexecs_per_sec  : 345.70\npaths_total    : 58\npaths_favored  : 17\npaths_found    : 57\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 53\npending_favs   : 0\npending_total  : 7\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 25\nlast_path      : 1500174903\nlast_crash     : 0\nlast_hang      : 1500175202\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Corinth/input -o /dev/shm/work/Corinth/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Corinth/Corinth.dict -- data/linux/processed-challenges/Corinth/bin/Corinth\n'
+p157
+I0
+tp158
+a(I9480
+S'start_time     : 1500165947\nlast_update    : 1500175383\nfuzzer_pid     : 14167\ncycles_done    : 8\nexecs_done     : 5480101\nexecs_per_sec  : 364.63\npaths_total    : 58\npaths_favored  : 17\npaths_found    : 57\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 55\npending_favs   : 0\npending_total  : 7\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 25\nlast_path      : 1500174903\nlast_crash     : 0\nlast_hang      : 1500175202\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Corinth/input -o /dev/shm/work/Corinth/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Corinth/Corinth.dict -- data/linux/processed-challenges/Corinth/bin/Corinth\n'
+p159
+I0
+tp160
+a(I9600
+S'start_time     : 1500165947\nlast_update    : 1500175504\nfuzzer_pid     : 14167\ncycles_done    : 9\nexecs_done     : 5555700\nexecs_per_sec  : 1094.28\npaths_total    : 58\npaths_favored  : 17\npaths_found    : 57\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 3\npending_favs   : 0\npending_total  : 7\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 25\nlast_path      : 1500174903\nlast_crash     : 0\nlast_hang      : 1500175202\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Corinth/input -o /dev/shm/work/Corinth/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Corinth/Corinth.dict -- data/linux/processed-challenges/Corinth/bin/Corinth\n'
+p161
+I0
+tp162
+a(I9720
+S'start_time     : 1500165947\nlast_update    : 1500175624\nfuzzer_pid     : 14167\ncycles_done    : 9\nexecs_done     : 5671896\nexecs_per_sec  : 450.95\npaths_total    : 58\npaths_favored  : 17\npaths_found    : 57\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 9\npending_favs   : 0\npending_total  : 7\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 25\nlast_path      : 1500174903\nlast_crash     : 0\nlast_hang      : 1500175202\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Corinth/input -o /dev/shm/work/Corinth/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Corinth/Corinth.dict -- data/linux/processed-challenges/Corinth/bin/Corinth\n'
+p163
+I0
+tp164
+a(I9840
+S'start_time     : 1500165947\nlast_update    : 1500175744\nfuzzer_pid     : 14167\ncycles_done    : 9\nexecs_done     : 5783723\nexecs_per_sec  : 1010.19\npaths_total    : 58\npaths_favored  : 17\npaths_found    : 57\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 13\npending_favs   : 0\npending_total  : 6\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 25\nlast_path      : 1500174903\nlast_crash     : 0\nlast_hang      : 1500175202\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Corinth/input -o /dev/shm/work/Corinth/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Corinth/Corinth.dict -- data/linux/processed-challenges/Corinth/bin/Corinth\n'
+p165
+I0
+tp166
+a(I9960
+S'start_time     : 1500165947\nlast_update    : 1500175864\nfuzzer_pid     : 14167\ncycles_done    : 9\nexecs_done     : 5896613\nexecs_per_sec  : 1100.31\npaths_total    : 58\npaths_favored  : 17\npaths_found    : 57\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 22\npending_favs   : 0\npending_total  : 5\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 25\nlast_path      : 1500174903\nlast_crash     : 0\nlast_hang      : 1500175202\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Corinth/input -o /dev/shm/work/Corinth/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Corinth/Corinth.dict -- data/linux/processed-challenges/Corinth/bin/Corinth\n'
+p167
+I0
+tp168
+a(I10080
+S'start_time     : 1500165947\nlast_update    : 1500175984\nfuzzer_pid     : 14167\ncycles_done    : 9\nexecs_done     : 5972098\nexecs_per_sec  : 262.47\npaths_total    : 58\npaths_favored  : 17\npaths_found    : 57\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 31\npending_favs   : 0\npending_total  : 5\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 25\nlast_path      : 1500174903\nlast_crash     : 0\nlast_hang      : 1500175202\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Corinth/input -o /dev/shm/work/Corinth/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Corinth/Corinth.dict -- data/linux/processed-challenges/Corinth/bin/Corinth\n'
+p169
+I0
+tp170
+a(I10200
+S'start_time     : 1500165947\nlast_update    : 1500176105\nfuzzer_pid     : 14167\ncycles_done    : 9\nexecs_done     : 6011686\nexecs_per_sec  : 228.66\npaths_total    : 58\npaths_favored  : 17\npaths_found    : 57\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 35\npending_favs   : 0\npending_total  : 5\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 25\nlast_path      : 1500174903\nlast_crash     : 0\nlast_hang      : 1500175202\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Corinth/input -o /dev/shm/work/Corinth/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Corinth/Corinth.dict -- data/linux/processed-challenges/Corinth/bin/Corinth\n'
+p171
+I0
+tp172
+a(I10320
+S'start_time     : 1500165947\nlast_update    : 1500176225\nfuzzer_pid     : 14167\ncycles_done    : 9\nexecs_done     : 6125895\nexecs_per_sec  : 1092.61\npaths_total    : 58\npaths_favored  : 17\npaths_found    : 57\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 44\npending_favs   : 0\npending_total  : 5\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 25\nlast_path      : 1500174903\nlast_crash     : 0\nlast_hang      : 1500175202\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Corinth/input -o /dev/shm/work/Corinth/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Corinth/Corinth.dict -- data/linux/processed-challenges/Corinth/bin/Corinth\n'
+p173
+I0
+tp174
+a(I10440
+S'start_time     : 1500165947\nlast_update    : 1500176345\nfuzzer_pid     : 14167\ncycles_done    : 9\nexecs_done     : 6249565\nexecs_per_sec  : 1102.34\npaths_total    : 58\npaths_favored  : 17\npaths_found    : 57\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 49\npending_favs   : 0\npending_total  : 5\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 25\nlast_path      : 1500174903\nlast_crash     : 0\nlast_hang      : 1500175202\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Corinth/input -o /dev/shm/work/Corinth/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Corinth/Corinth.dict -- data/linux/processed-challenges/Corinth/bin/Corinth\n'
+p175
+I0
+tp176
+a(I10560
+S'start_time     : 1500165947\nlast_update    : 1500176465\nfuzzer_pid     : 14167\ncycles_done    : 9\nexecs_done     : 6379000\nexecs_per_sec  : 1118.38\npaths_total    : 58\npaths_favored  : 17\npaths_found    : 57\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 49\npending_favs   : 0\npending_total  : 5\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 25\nlast_path      : 1500174903\nlast_crash     : 0\nlast_hang      : 1500175202\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Corinth/input -o /dev/shm/work/Corinth/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Corinth/Corinth.dict -- data/linux/processed-challenges/Corinth/bin/Corinth\n'
+p177
+I0
+tp178
+a(I10680
+S'start_time     : 1500165947\nlast_update    : 1500176586\nfuzzer_pid     : 14167\ncycles_done    : 9\nexecs_done     : 6425040\nexecs_per_sec  : 253.54\npaths_total    : 58\npaths_favored  : 17\npaths_found    : 57\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 55\npending_favs   : 0\npending_total  : 4\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 25\nlast_path      : 1500174903\nlast_crash     : 0\nlast_hang      : 1500175202\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Corinth/input -o /dev/shm/work/Corinth/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Corinth/Corinth.dict -- data/linux/processed-challenges/Corinth/bin/Corinth\n'
+p179
+I0
+tp180
+a.

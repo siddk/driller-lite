@@ -1,0 +1,452 @@
+(lp0
+(I0
+S'start_time     : 1499798097\nlast_update    : 1499798097\nfuzzer_pid     : 16821\ncycles_done    : 0\nexecs_done     : 10\nexecs_per_sec  : 101.01\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 1\npending_total  : 1\nvariable_paths : 0\nbitmap_cvg     : 0.09%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/expression_database/input -o /dev/shm/work/expression_database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/expression_database/expression_database.dict -- data/linux/processed-challenges/expression_database/bin/expression_database\n'
+p1
+I16
+tp2
+a(I120
+S'start_time     : 1499798097\nlast_update    : 1499798217\nfuzzer_pid     : 16821\ncycles_done    : 0\nexecs_done     : 31699\nexecs_per_sec  : 258.04\npaths_total    : 27\npaths_favored  : 1\npaths_found    : 26\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 1\npending_total  : 27\nvariable_paths : 0\nbitmap_cvg     : 0.25%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499798216\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/expression_database/input -o /dev/shm/work/expression_database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/expression_database/expression_database.dict -- data/linux/processed-challenges/expression_database/bin/expression_database\n'
+p3
+I11
+tp4
+a(I240
+S'start_time     : 1499798097\nlast_update    : 1499798337\nfuzzer_pid     : 16821\ncycles_done    : 0\nexecs_done     : 63024\nexecs_per_sec  : 261.53\npaths_total    : 32\npaths_favored  : 1\npaths_found    : 31\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 1\npending_total  : 32\nvariable_paths : 0\nbitmap_cvg     : 0.26%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499798317\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/expression_database/input -o /dev/shm/work/expression_database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/expression_database/expression_database.dict -- data/linux/processed-challenges/expression_database/bin/expression_database\n'
+p5
+I6
+tp6
+a(I360
+S'start_time     : 1499798097\nlast_update    : 1499798457\nfuzzer_pid     : 16821\ncycles_done    : 0\nexecs_done     : 94094\nexecs_per_sec  : 257.57\npaths_total    : 34\npaths_favored  : 1\npaths_found    : 33\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 1\npending_total  : 34\nvariable_paths : 0\nbitmap_cvg     : 0.26%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499798438\nlast_crash     : 0\nlast_hang      : 1499798385\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/expression_database/input -o /dev/shm/work/expression_database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/expression_database/expression_database.dict -- data/linux/processed-challenges/expression_database/bin/expression_database\n'
+p7
+I1
+tp8
+a(I480
+S'start_time     : 1499798097\nlast_update    : 1499798578\nfuzzer_pid     : 16821\ncycles_done    : 0\nexecs_done     : 124909\nexecs_per_sec  : 259.69\npaths_total    : 37\npaths_favored  : 1\npaths_found    : 36\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 1\npending_total  : 37\nvariable_paths : 0\nbitmap_cvg     : 0.27%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499798517\nlast_crash     : 0\nlast_hang      : 1499798385\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/expression_database/input -o /dev/shm/work/expression_database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/expression_database/expression_database.dict -- data/linux/processed-challenges/expression_database/bin/expression_database\n'
+p9
+I3
+tp10
+a(I600
+S'start_time     : 1499798097\nlast_update    : 1499798698\nfuzzer_pid     : 16821\ncycles_done    : 0\nexecs_done     : 156009\nexecs_per_sec  : 259.92\npaths_total    : 38\npaths_favored  : 1\npaths_found    : 37\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 1\npending_total  : 38\nvariable_paths : 0\nbitmap_cvg     : 0.27%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499798641\nlast_crash     : 0\nlast_hang      : 1499798385\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/expression_database/input -o /dev/shm/work/expression_database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/expression_database/expression_database.dict -- data/linux/processed-challenges/expression_database/bin/expression_database\n'
+p11
+I1
+tp12
+a(I720
+S'start_time     : 1499798097\nlast_update    : 1499798818\nfuzzer_pid     : 16821\ncycles_done    : 0\nexecs_done     : 187057\nexecs_per_sec  : 253.37\npaths_total    : 50\npaths_favored  : 13\npaths_found    : 49\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 5\npending_favs   : 13\npending_total  : 49\nvariable_paths : 0\nbitmap_cvg     : 0.28%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499798817\nlast_crash     : 0\nlast_hang      : 1499798385\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/expression_database/input -o /dev/shm/work/expression_database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/expression_database/expression_database.dict -- data/linux/processed-challenges/expression_database/bin/expression_database\n'
+p13
+I12
+tp14
+a(I840
+S'start_time     : 1499798097\nlast_update    : 1499798938\nfuzzer_pid     : 16821\ncycles_done    : 0\nexecs_done     : 218082\nexecs_per_sec  : 263.47\npaths_total    : 53\npaths_favored  : 13\npaths_found    : 52\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 5\npending_favs   : 13\npending_total  : 52\nvariable_paths : 0\nbitmap_cvg     : 0.28%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499798839\nlast_crash     : 0\nlast_hang      : 1499798385\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/expression_database/input -o /dev/shm/work/expression_database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/expression_database/expression_database.dict -- data/linux/processed-challenges/expression_database/bin/expression_database\n'
+p15
+I3
+tp16
+a(I960
+S'start_time     : 1499798097\nlast_update    : 1499799059\nfuzzer_pid     : 16821\ncycles_done    : 0\nexecs_done     : 248837\nexecs_per_sec  : 253.05\npaths_total    : 56\npaths_favored  : 13\npaths_found    : 55\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 5\npending_favs   : 13\npending_total  : 55\nvariable_paths : 0\nbitmap_cvg     : 0.28%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499799027\nlast_crash     : 0\nlast_hang      : 1499798385\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/expression_database/input -o /dev/shm/work/expression_database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/expression_database/expression_database.dict -- data/linux/processed-challenges/expression_database/bin/expression_database\n'
+p17
+I3
+tp18
+a(I1080
+S'start_time     : 1499798097\nlast_update    : 1499799179\nfuzzer_pid     : 16821\ncycles_done    : 0\nexecs_done     : 279787\nexecs_per_sec  : 254.95\npaths_total    : 58\npaths_favored  : 13\npaths_found    : 57\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 5\npending_favs   : 13\npending_total  : 57\nvariable_paths : 0\nbitmap_cvg     : 0.28%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499799172\nlast_crash     : 0\nlast_hang      : 1499798385\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/expression_database/input -o /dev/shm/work/expression_database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/expression_database/expression_database.dict -- data/linux/processed-challenges/expression_database/bin/expression_database\n'
+p19
+I2
+tp20
+a(I1200
+S'start_time     : 1499798097\nlast_update    : 1499799299\nfuzzer_pid     : 16821\ncycles_done    : 0\nexecs_done     : 310797\nexecs_per_sec  : 259.31\npaths_total    : 60\npaths_favored  : 13\npaths_found    : 59\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 5\npending_favs   : 13\npending_total  : 59\nvariable_paths : 0\nbitmap_cvg     : 0.29%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499799293\nlast_crash     : 0\nlast_hang      : 1499798385\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/expression_database/input -o /dev/shm/work/expression_database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/expression_database/expression_database.dict -- data/linux/processed-challenges/expression_database/bin/expression_database\n'
+p21
+I2
+tp22
+a(I1320
+S'start_time     : 1499798097\nlast_update    : 1499799419\nfuzzer_pid     : 16821\ncycles_done    : 0\nexecs_done     : 341674\nexecs_per_sec  : 259.71\npaths_total    : 63\npaths_favored  : 19\npaths_found    : 62\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 16\npending_favs   : 17\npending_total  : 60\nvariable_paths : 0\nbitmap_cvg     : 0.29%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499799410\nlast_crash     : 0\nlast_hang      : 1499798385\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/expression_database/input -o /dev/shm/work/expression_database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/expression_database/expression_database.dict -- data/linux/processed-challenges/expression_database/bin/expression_database\n'
+p23
+I3
+tp24
+a(I1440
+S'start_time     : 1499798097\nlast_update    : 1499799539\nfuzzer_pid     : 16821\ncycles_done    : 0\nexecs_done     : 372534\nexecs_per_sec  : 254.07\npaths_total    : 65\npaths_favored  : 19\npaths_found    : 64\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 16\npending_favs   : 17\npending_total  : 62\nvariable_paths : 0\nbitmap_cvg     : 0.29%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499799438\nlast_crash     : 0\nlast_hang      : 1499798385\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/expression_database/input -o /dev/shm/work/expression_database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/expression_database/expression_database.dict -- data/linux/processed-challenges/expression_database/bin/expression_database\n'
+p25
+I2
+tp26
+a(I1560
+S'start_time     : 1499798097\nlast_update    : 1499799659\nfuzzer_pid     : 16821\ncycles_done    : 0\nexecs_done     : 403301\nexecs_per_sec  : 258.90\npaths_total    : 66\npaths_favored  : 19\npaths_found    : 65\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 25\npending_favs   : 15\npending_total  : 60\nvariable_paths : 0\nbitmap_cvg     : 0.29%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499799610\nlast_crash     : 0\nlast_hang      : 1499798385\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/expression_database/input -o /dev/shm/work/expression_database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/expression_database/expression_database.dict -- data/linux/processed-challenges/expression_database/bin/expression_database\n'
+p27
+I1
+tp28
+a(I1680
+S'start_time     : 1499798097\nlast_update    : 1499799780\nfuzzer_pid     : 16821\ncycles_done    : 0\nexecs_done     : 433849\nexecs_per_sec  : 259.60\npaths_total    : 68\npaths_favored  : 18\npaths_found    : 67\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 39\npending_favs   : 12\npending_total  : 58\nvariable_paths : 0\nbitmap_cvg     : 0.30%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499799712\nlast_crash     : 0\nlast_hang      : 1499798385\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/expression_database/input -o /dev/shm/work/expression_database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/expression_database/expression_database.dict -- data/linux/processed-challenges/expression_database/bin/expression_database\n'
+p29
+I2
+tp30
+a(I1800
+S'start_time     : 1499798097\nlast_update    : 1499799900\nfuzzer_pid     : 16821\ncycles_done    : 0\nexecs_done     : 464112\nexecs_per_sec  : 249.49\npaths_total    : 69\npaths_favored  : 18\npaths_found    : 68\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 42\npending_favs   : 11\npending_total  : 58\nvariable_paths : 0\nbitmap_cvg     : 0.30%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499799872\nlast_crash     : 0\nlast_hang      : 1499798385\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/expression_database/input -o /dev/shm/work/expression_database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/expression_database/expression_database.dict -- data/linux/processed-challenges/expression_database/bin/expression_database\n'
+p31
+I1
+tp32
+a(I1920
+S'start_time     : 1499798097\nlast_update    : 1499800020\nfuzzer_pid     : 16821\ncycles_done    : 0\nexecs_done     : 494397\nexecs_per_sec  : 253.77\npaths_total    : 69\npaths_favored  : 20\npaths_found    : 68\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 52\npending_favs   : 11\npending_total  : 56\nvariable_paths : 0\nbitmap_cvg     : 0.30%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499799872\nlast_crash     : 0\nlast_hang      : 1499798385\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/expression_database/input -o /dev/shm/work/expression_database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/expression_database/expression_database.dict -- data/linux/processed-challenges/expression_database/bin/expression_database\n'
+p33
+I0
+tp34
+a(I2040
+S'start_time     : 1499798097\nlast_update    : 1499800140\nfuzzer_pid     : 16821\ncycles_done    : 0\nexecs_done     : 522633\nexecs_per_sec  : 217.18\npaths_total    : 75\npaths_favored  : 20\npaths_found    : 74\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 58\npending_favs   : 9\npending_total  : 60\nvariable_paths : 0\nbitmap_cvg     : 0.42%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499800091\nlast_crash     : 0\nlast_hang      : 1499798385\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/expression_database/input -o /dev/shm/work/expression_database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/expression_database/expression_database.dict -- data/linux/processed-challenges/expression_database/bin/expression_database\n'
+p35
+I6
+tp36
+a(I2160
+S'start_time     : 1499798097\nlast_update    : 1499800260\nfuzzer_pid     : 16821\ncycles_done    : 0\nexecs_done     : 548933\nexecs_per_sec  : 234.04\npaths_total    : 101\npaths_favored  : 20\npaths_found    : 100\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 58\npending_favs   : 9\npending_total  : 86\nvariable_paths : 0\nbitmap_cvg     : 0.54%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499800260\nlast_crash     : 0\nlast_hang      : 1499798385\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/expression_database/input -o /dev/shm/work/expression_database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/expression_database/expression_database.dict -- data/linux/processed-challenges/expression_database/bin/expression_database\n'
+p37
+I29
+tp38
+a(I2280
+S'start_time     : 1499798097\nlast_update    : 1499800380\nfuzzer_pid     : 16821\ncycles_done    : 0\nexecs_done     : 577287\nexecs_per_sec  : 240.29\npaths_total    : 136\npaths_favored  : 20\npaths_found    : 135\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 58\npending_favs   : 9\npending_total  : 121\nvariable_paths : 0\nbitmap_cvg     : 0.60%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499800374\nlast_crash     : 0\nlast_hang      : 1499798385\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/expression_database/input -o /dev/shm/work/expression_database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/expression_database/expression_database.dict -- data/linux/processed-challenges/expression_database/bin/expression_database\n'
+p39
+I32
+tp40
+a(I2400
+S'start_time     : 1499798097\nlast_update    : 1499800501\nfuzzer_pid     : 16821\ncycles_done    : 0\nexecs_done     : 605559\nexecs_per_sec  : 238.22\npaths_total    : 142\npaths_favored  : 20\npaths_found    : 141\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 58\npending_favs   : 9\npending_total  : 127\nvariable_paths : 0\nbitmap_cvg     : 0.61%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499800485\nlast_crash     : 0\nlast_hang      : 1499798385\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/expression_database/input -o /dev/shm/work/expression_database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/expression_database/expression_database.dict -- data/linux/processed-challenges/expression_database/bin/expression_database\n'
+p41
+I6
+tp42
+a(I2520
+S'start_time     : 1499798097\nlast_update    : 1499800621\nfuzzer_pid     : 16821\ncycles_done    : 0\nexecs_done     : 633931\nexecs_per_sec  : 233.89\npaths_total    : 150\npaths_favored  : 20\npaths_found    : 149\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 58\npending_favs   : 9\npending_total  : 135\nvariable_paths : 0\nbitmap_cvg     : 0.62%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499800612\nlast_crash     : 0\nlast_hang      : 1499798385\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/expression_database/input -o /dev/shm/work/expression_database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/expression_database/expression_database.dict -- data/linux/processed-challenges/expression_database/bin/expression_database\n'
+p43
+I8
+tp44
+a(I2640
+S'start_time     : 1499798097\nlast_update    : 1499800741\nfuzzer_pid     : 16821\ncycles_done    : 0\nexecs_done     : 662209\nexecs_per_sec  : 233.81\npaths_total    : 153\npaths_favored  : 20\npaths_found    : 152\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 58\npending_favs   : 9\npending_total  : 138\nvariable_paths : 0\nbitmap_cvg     : 0.62%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499800686\nlast_crash     : 0\nlast_hang      : 1499798385\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/expression_database/input -o /dev/shm/work/expression_database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/expression_database/expression_database.dict -- data/linux/processed-challenges/expression_database/bin/expression_database\n'
+p45
+I3
+tp46
+a(I2760
+S'start_time     : 1499798097\nlast_update    : 1499800862\nfuzzer_pid     : 16821\ncycles_done    : 0\nexecs_done     : 690659\nexecs_per_sec  : 239.52\npaths_total    : 156\npaths_favored  : 20\npaths_found    : 155\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 58\npending_favs   : 9\npending_total  : 141\nvariable_paths : 0\nbitmap_cvg     : 0.63%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499800852\nlast_crash     : 0\nlast_hang      : 1499798385\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/expression_database/input -o /dev/shm/work/expression_database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/expression_database/expression_database.dict -- data/linux/processed-challenges/expression_database/bin/expression_database\n'
+p47
+I3
+tp48
+a(I2880
+S'start_time     : 1499798097\nlast_update    : 1499800982\nfuzzer_pid     : 16821\ncycles_done    : 0\nexecs_done     : 720590\nexecs_per_sec  : 258.68\npaths_total    : 157\npaths_favored  : 38\npaths_found    : 156\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 67\npending_favs   : 32\npending_total  : 140\nvariable_paths : 0\nbitmap_cvg     : 0.63%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499800905\nlast_crash     : 0\nlast_hang      : 1499798385\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/expression_database/input -o /dev/shm/work/expression_database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/expression_database/expression_database.dict -- data/linux/processed-challenges/expression_database/bin/expression_database\n'
+p49
+I1
+tp50
+a(I3000
+S'start_time     : 1499798097\nlast_update    : 1499801102\nfuzzer_pid     : 16821\ncycles_done    : 0\nexecs_done     : 748613\nexecs_per_sec  : 224.21\npaths_total    : 157\npaths_favored  : 38\npaths_found    : 156\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 81\npending_favs   : 31\npending_total  : 139\nvariable_paths : 0\nbitmap_cvg     : 0.63%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499800905\nlast_crash     : 0\nlast_hang      : 1499798385\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/expression_database/input -o /dev/shm/work/expression_database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/expression_database/expression_database.dict -- data/linux/processed-challenges/expression_database/bin/expression_database\n'
+p51
+I0
+tp52
+a(I3120
+S'start_time     : 1499798097\nlast_update    : 1499801223\nfuzzer_pid     : 16821\ncycles_done    : 0\nexecs_done     : 776877\nexecs_per_sec  : 232.55\npaths_total    : 163\npaths_favored  : 38\npaths_found    : 162\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 81\npending_favs   : 31\npending_total  : 145\nvariable_paths : 0\nbitmap_cvg     : 0.64%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499801205\nlast_crash     : 0\nlast_hang      : 1499798385\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/expression_database/input -o /dev/shm/work/expression_database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/expression_database/expression_database.dict -- data/linux/processed-challenges/expression_database/bin/expression_database\n'
+p53
+I6
+tp54
+a(I3240
+S'start_time     : 1499798097\nlast_update    : 1499801343\nfuzzer_pid     : 16821\ncycles_done    : 0\nexecs_done     : 805243\nexecs_per_sec  : 232.72\npaths_total    : 166\npaths_favored  : 38\npaths_found    : 165\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 81\npending_favs   : 31\npending_total  : 148\nvariable_paths : 0\nbitmap_cvg     : 0.64%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499801318\nlast_crash     : 0\nlast_hang      : 1499798385\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/expression_database/input -o /dev/shm/work/expression_database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/expression_database/expression_database.dict -- data/linux/processed-challenges/expression_database/bin/expression_database\n'
+p55
+I3
+tp56
+a(I3360
+S'start_time     : 1499798097\nlast_update    : 1499801463\nfuzzer_pid     : 16821\ncycles_done    : 0\nexecs_done     : 834399\nexecs_per_sec  : 236.90\npaths_total    : 168\npaths_favored  : 38\npaths_found    : 167\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 81\npending_favs   : 31\npending_total  : 150\nvariable_paths : 0\nbitmap_cvg     : 0.65%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499801406\nlast_crash     : 0\nlast_hang      : 1499798385\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/expression_database/input -o /dev/shm/work/expression_database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/expression_database/expression_database.dict -- data/linux/processed-challenges/expression_database/bin/expression_database\n'
+p57
+I3
+tp58
+a(I3480
+S'start_time     : 1499798097\nlast_update    : 1499801583\nfuzzer_pid     : 16821\ncycles_done    : 0\nexecs_done     : 863587\nexecs_per_sec  : 244.89\npaths_total    : 172\npaths_favored  : 38\npaths_found    : 171\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 81\npending_favs   : 31\npending_total  : 154\nvariable_paths : 0\nbitmap_cvg     : 0.65%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499801536\nlast_crash     : 0\nlast_hang      : 1499798385\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/expression_database/input -o /dev/shm/work/expression_database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/expression_database/expression_database.dict -- data/linux/processed-challenges/expression_database/bin/expression_database\n'
+p59
+I3
+tp60
+a(I3600
+S'start_time     : 1499798097\nlast_update    : 1499801703\nfuzzer_pid     : 16821\ncycles_done    : 0\nexecs_done     : 893035\nexecs_per_sec  : 241.86\npaths_total    : 174\npaths_favored  : 38\npaths_found    : 173\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 81\npending_favs   : 31\npending_total  : 156\nvariable_paths : 0\nbitmap_cvg     : 0.65%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499801616\nlast_crash     : 0\nlast_hang      : 1499798385\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/expression_database/input -o /dev/shm/work/expression_database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/expression_database/expression_database.dict -- data/linux/processed-challenges/expression_database/bin/expression_database\n'
+p61
+I2
+tp62
+a(I3720
+S'start_time     : 1499798097\nlast_update    : 1499801823\nfuzzer_pid     : 16821\ncycles_done    : 0\nexecs_done     : 922164\nexecs_per_sec  : 231.38\npaths_total    : 175\npaths_favored  : 42\npaths_found    : 174\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 84\npending_favs   : 35\npending_total  : 156\nvariable_paths : 0\nbitmap_cvg     : 0.65%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499801788\nlast_crash     : 0\nlast_hang      : 1499798385\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/expression_database/input -o /dev/shm/work/expression_database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/expression_database/expression_database.dict -- data/linux/processed-challenges/expression_database/bin/expression_database\n'
+p63
+I1
+tp64
+a(I3840
+S'start_time     : 1499798097\nlast_update    : 1499801944\nfuzzer_pid     : 16821\ncycles_done    : 0\nexecs_done     : 949732\nexecs_per_sec  : 227.60\npaths_total    : 182\npaths_favored  : 42\npaths_found    : 181\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 84\npending_favs   : 35\npending_total  : 163\nvariable_paths : 0\nbitmap_cvg     : 0.74%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499801943\nlast_crash     : 0\nlast_hang      : 1499798385\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/expression_database/input -o /dev/shm/work/expression_database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/expression_database/expression_database.dict -- data/linux/processed-challenges/expression_database/bin/expression_database\n'
+p65
+I7
+tp66
+a(I3960
+S'start_time     : 1499798097\nlast_update    : 1499802064\nfuzzer_pid     : 16821\ncycles_done    : 0\nexecs_done     : 979460\nexecs_per_sec  : 242.00\npaths_total    : 192\npaths_favored  : 42\npaths_found    : 191\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 84\npending_favs   : 35\npending_total  : 173\nvariable_paths : 0\nbitmap_cvg     : 0.75%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499802063\nlast_crash     : 0\nlast_hang      : 1499798385\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/expression_database/input -o /dev/shm/work/expression_database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/expression_database/expression_database.dict -- data/linux/processed-challenges/expression_database/bin/expression_database\n'
+p67
+I10
+tp68
+a(I4080
+S'start_time     : 1499798097\nlast_update    : 1499802184\nfuzzer_pid     : 16821\ncycles_done    : 0\nexecs_done     : 1009695\nexecs_per_sec  : 254.43\npaths_total    : 195\npaths_favored  : 42\npaths_found    : 194\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 84\npending_favs   : 35\npending_total  : 176\nvariable_paths : 0\nbitmap_cvg     : 0.75%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499802170\nlast_crash     : 0\nlast_hang      : 1499798385\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/expression_database/input -o /dev/shm/work/expression_database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/expression_database/expression_database.dict -- data/linux/processed-challenges/expression_database/bin/expression_database\n'
+p69
+I3
+tp70
+a(I4200
+S'start_time     : 1499798097\nlast_update    : 1499802304\nfuzzer_pid     : 16821\ncycles_done    : 0\nexecs_done     : 1039985\nexecs_per_sec  : 252.39\npaths_total    : 197\npaths_favored  : 42\npaths_found    : 196\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 84\npending_favs   : 35\npending_total  : 178\nvariable_paths : 0\nbitmap_cvg     : 0.75%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499802243\nlast_crash     : 0\nlast_hang      : 1499798385\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/expression_database/input -o /dev/shm/work/expression_database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/expression_database/expression_database.dict -- data/linux/processed-challenges/expression_database/bin/expression_database\n'
+p71
+I2
+tp72
+a(I4320
+S'start_time     : 1499798097\nlast_update    : 1499802425\nfuzzer_pid     : 16821\ncycles_done    : 0\nexecs_done     : 1069975\nexecs_per_sec  : 248.49\npaths_total    : 202\npaths_favored  : 42\npaths_found    : 201\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 84\npending_favs   : 35\npending_total  : 183\nvariable_paths : 0\nbitmap_cvg     : 0.77%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499802384\nlast_crash     : 0\nlast_hang      : 1499798385\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/expression_database/input -o /dev/shm/work/expression_database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/expression_database/expression_database.dict -- data/linux/processed-challenges/expression_database/bin/expression_database\n'
+p73
+I5
+tp74
+a(I4440
+S'start_time     : 1499798097\nlast_update    : 1499802545\nfuzzer_pid     : 16821\ncycles_done    : 0\nexecs_done     : 1099796\nexecs_per_sec  : 244.86\npaths_total    : 202\npaths_favored  : 42\npaths_found    : 201\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 84\npending_favs   : 35\npending_total  : 183\nvariable_paths : 0\nbitmap_cvg     : 0.77%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1499802384\nlast_crash     : 0\nlast_hang      : 1499802495\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/expression_database/input -o /dev/shm/work/expression_database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/expression_database/expression_database.dict -- data/linux/processed-challenges/expression_database/bin/expression_database\n'
+p75
+I0
+tp76
+a(I4560
+S'start_time     : 1499798097\nlast_update    : 1499802665\nfuzzer_pid     : 16821\ncycles_done    : 0\nexecs_done     : 1128731\nexecs_per_sec  : 240.06\npaths_total    : 205\npaths_favored  : 53\npaths_found    : 204\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 97\npending_favs   : 46\npending_total  : 185\nvariable_paths : 0\nbitmap_cvg     : 0.77%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1499802657\nlast_crash     : 0\nlast_hang      : 1499802495\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/expression_database/input -o /dev/shm/work/expression_database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/expression_database/expression_database.dict -- data/linux/processed-challenges/expression_database/bin/expression_database\n'
+p77
+I3
+tp78
+a(I4680
+S'start_time     : 1499798097\nlast_update    : 1499802785\nfuzzer_pid     : 16821\ncycles_done    : 0\nexecs_done     : 1158234\nexecs_per_sec  : 250.39\npaths_total    : 213\npaths_favored  : 53\npaths_found    : 212\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 97\npending_favs   : 46\npending_total  : 193\nvariable_paths : 0\nbitmap_cvg     : 0.77%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1499802773\nlast_crash     : 0\nlast_hang      : 1499802495\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/expression_database/input -o /dev/shm/work/expression_database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/expression_database/expression_database.dict -- data/linux/processed-challenges/expression_database/bin/expression_database\n'
+p79
+I8
+tp80
+a(I4800
+S'start_time     : 1499798097\nlast_update    : 1499802906\nfuzzer_pid     : 16821\ncycles_done    : 0\nexecs_done     : 1188669\nexecs_per_sec  : 252.19\npaths_total    : 224\npaths_favored  : 53\npaths_found    : 223\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 97\npending_favs   : 46\npending_total  : 204\nvariable_paths : 0\nbitmap_cvg     : 0.78%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1499802904\nlast_crash     : 0\nlast_hang      : 1499802495\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/expression_database/input -o /dev/shm/work/expression_database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/expression_database/expression_database.dict -- data/linux/processed-challenges/expression_database/bin/expression_database\n'
+p81
+I11
+tp82
+a(I4920
+S'start_time     : 1499798097\nlast_update    : 1499803026\nfuzzer_pid     : 16821\ncycles_done    : 0\nexecs_done     : 1219299\nexecs_per_sec  : 255.82\npaths_total    : 227\npaths_favored  : 53\npaths_found    : 226\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 97\npending_favs   : 46\npending_total  : 207\nvariable_paths : 0\nbitmap_cvg     : 0.78%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1499802979\nlast_crash     : 0\nlast_hang      : 1499802912\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/expression_database/input -o /dev/shm/work/expression_database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/expression_database/expression_database.dict -- data/linux/processed-challenges/expression_database/bin/expression_database\n'
+p83
+I3
+tp84
+a(I5040
+S'start_time     : 1499798097\nlast_update    : 1499803086\nfuzzer_pid     : 16821\ncycles_done    : 0\nexecs_done     : 1234819\nexecs_per_sec  : 261.69\npaths_total    : 229\npaths_favored  : 53\npaths_found    : 228\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 97\npending_favs   : 46\npending_total  : 209\nvariable_paths : 0\nbitmap_cvg     : 0.78%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1499803047\nlast_crash     : 0\nlast_hang      : 1499802912\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/expression_database/input -o /dev/shm/work/expression_database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/expression_database/expression_database.dict -- data/linux/processed-challenges/expression_database/bin/expression_database\n'
+p85
+I3
+tp86
+a(I5160
+S'start_time     : 1499798097\nlast_update    : 1499803206\nfuzzer_pid     : 16821\ncycles_done    : 0\nexecs_done     : 1265629\nexecs_per_sec  : 254.20\npaths_total    : 231\npaths_favored  : 53\npaths_found    : 230\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 97\npending_favs   : 46\npending_total  : 211\nvariable_paths : 0\nbitmap_cvg     : 0.78%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1499803169\nlast_crash     : 0\nlast_hang      : 1499802912\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/expression_database/input -o /dev/shm/work/expression_database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/expression_database/expression_database.dict -- data/linux/processed-challenges/expression_database/bin/expression_database\n'
+p87
+I1
+tp88
+a(I5280
+S'start_time     : 1499798097\nlast_update    : 1499803327\nfuzzer_pid     : 16821\ncycles_done    : 0\nexecs_done     : 1295994\nexecs_per_sec  : 242.89\npaths_total    : 232\npaths_favored  : 53\npaths_found    : 231\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 97\npending_favs   : 46\npending_total  : 212\nvariable_paths : 0\nbitmap_cvg     : 0.78%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1499803271\nlast_crash     : 0\nlast_hang      : 1499802912\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/expression_database/input -o /dev/shm/work/expression_database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/expression_database/expression_database.dict -- data/linux/processed-challenges/expression_database/bin/expression_database\n'
+p89
+I1
+tp90
+a(I5400
+S'start_time     : 1499798097\nlast_update    : 1499803447\nfuzzer_pid     : 16821\ncycles_done    : 0\nexecs_done     : 1324748\nexecs_per_sec  : 240.19\npaths_total    : 232\npaths_favored  : 54\npaths_found    : 231\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 101\npending_favs   : 47\npending_total  : 211\nvariable_paths : 0\nbitmap_cvg     : 0.78%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1499803271\nlast_crash     : 0\nlast_hang      : 1499802912\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/expression_database/input -o /dev/shm/work/expression_database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/expression_database/expression_database.dict -- data/linux/processed-challenges/expression_database/bin/expression_database\n'
+p91
+I1
+tp92
+a(I5520
+S'start_time     : 1499798097\nlast_update    : 1499803567\nfuzzer_pid     : 16821\ncycles_done    : 0\nexecs_done     : 1352802\nexecs_per_sec  : 225.47\npaths_total    : 233\npaths_favored  : 55\npaths_found    : 232\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 107\npending_favs   : 47\npending_total  : 211\nvariable_paths : 0\nbitmap_cvg     : 0.78%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1499803470\nlast_crash     : 0\nlast_hang      : 1499802912\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/expression_database/input -o /dev/shm/work/expression_database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/expression_database/expression_database.dict -- data/linux/processed-challenges/expression_database/bin/expression_database\n'
+p93
+I0
+tp94
+a(I5640
+S'start_time     : 1499798097\nlast_update    : 1499803687\nfuzzer_pid     : 16821\ncycles_done    : 0\nexecs_done     : 1380004\nexecs_per_sec  : 219.37\npaths_total    : 233\npaths_favored  : 55\npaths_found    : 232\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 107\npending_favs   : 47\npending_total  : 211\nvariable_paths : 0\nbitmap_cvg     : 0.78%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1499803470\nlast_crash     : 0\nlast_hang      : 1499802912\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/expression_database/input -o /dev/shm/work/expression_database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/expression_database/expression_database.dict -- data/linux/processed-challenges/expression_database/bin/expression_database\n'
+p95
+I1
+tp96
+a(I5760
+S'start_time     : 1499798097\nlast_update    : 1499803808\nfuzzer_pid     : 16821\ncycles_done    : 0\nexecs_done     : 1408325\nexecs_per_sec  : 210.86\npaths_total    : 234\npaths_favored  : 55\npaths_found    : 233\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 115\npending_favs   : 46\npending_total  : 211\nvariable_paths : 0\nbitmap_cvg     : 0.78%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1499803697\nlast_crash     : 0\nlast_hang      : 1499802912\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/expression_database/input -o /dev/shm/work/expression_database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/expression_database/expression_database.dict -- data/linux/processed-challenges/expression_database/bin/expression_database\n'
+p97
+I0
+tp98
+a(I5880
+S'start_time     : 1499798097\nlast_update    : 1499803928\nfuzzer_pid     : 16821\ncycles_done    : 0\nexecs_done     : 1433753\nexecs_per_sec  : 212.19\npaths_total    : 234\npaths_favored  : 55\npaths_found    : 233\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 115\npending_favs   : 46\npending_total  : 211\nvariable_paths : 0\nbitmap_cvg     : 0.78%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1499803697\nlast_crash     : 0\nlast_hang      : 1499802912\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/expression_database/input -o /dev/shm/work/expression_database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/expression_database/expression_database.dict -- data/linux/processed-challenges/expression_database/bin/expression_database\n'
+p99
+I0
+tp100
+a(I6000
+S'start_time     : 1499798097\nlast_update    : 1499804048\nfuzzer_pid     : 16821\ncycles_done    : 0\nexecs_done     : 1460019\nexecs_per_sec  : 229.76\npaths_total    : 235\npaths_favored  : 55\npaths_found    : 234\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 115\npending_favs   : 46\npending_total  : 212\nvariable_paths : 0\nbitmap_cvg     : 0.78%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1499804003\nlast_crash     : 0\nlast_hang      : 1499802912\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/expression_database/input -o /dev/shm/work/expression_database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/expression_database/expression_database.dict -- data/linux/processed-challenges/expression_database/bin/expression_database\n'
+p101
+I3
+tp102
+a(I6120
+S'start_time     : 1499798097\nlast_update    : 1499804168\nfuzzer_pid     : 16821\ncycles_done    : 0\nexecs_done     : 1487969\nexecs_per_sec  : 236.93\npaths_total    : 238\npaths_favored  : 55\npaths_found    : 237\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 115\npending_favs   : 46\npending_total  : 215\nvariable_paths : 0\nbitmap_cvg     : 0.78%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1499804165\nlast_crash     : 0\nlast_hang      : 1499802912\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/expression_database/input -o /dev/shm/work/expression_database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/expression_database/expression_database.dict -- data/linux/processed-challenges/expression_database/bin/expression_database\n'
+p103
+I3
+tp104
+a(I6240
+S'start_time     : 1499798097\nlast_update    : 1499804288\nfuzzer_pid     : 16821\ncycles_done    : 0\nexecs_done     : 1516151\nexecs_per_sec  : 233.00\npaths_total    : 241\npaths_favored  : 55\npaths_found    : 240\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 115\npending_favs   : 46\npending_total  : 218\nvariable_paths : 0\nbitmap_cvg     : 0.78%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1499804278\nlast_crash     : 0\nlast_hang      : 1499802912\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/expression_database/input -o /dev/shm/work/expression_database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/expression_database/expression_database.dict -- data/linux/processed-challenges/expression_database/bin/expression_database\n'
+p105
+I3
+tp106
+a(I6360
+S'start_time     : 1499798097\nlast_update    : 1499804409\nfuzzer_pid     : 16821\ncycles_done    : 0\nexecs_done     : 1544191\nexecs_per_sec  : 232.27\npaths_total    : 243\npaths_favored  : 55\npaths_found    : 242\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 115\npending_favs   : 46\npending_total  : 220\nvariable_paths : 0\nbitmap_cvg     : 0.78%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1499804346\nlast_crash     : 0\nlast_hang      : 1499802912\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/expression_database/input -o /dev/shm/work/expression_database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/expression_database/expression_database.dict -- data/linux/processed-challenges/expression_database/bin/expression_database\n'
+p107
+I1
+tp108
+a(I6480
+S'start_time     : 1499798097\nlast_update    : 1499804529\nfuzzer_pid     : 16821\ncycles_done    : 0\nexecs_done     : 1572257\nexecs_per_sec  : 230.83\npaths_total    : 244\npaths_favored  : 55\npaths_found    : 243\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 115\npending_favs   : 46\npending_total  : 221\nvariable_paths : 0\nbitmap_cvg     : 0.78%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1499804448\nlast_crash     : 0\nlast_hang      : 1499802912\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/expression_database/input -o /dev/shm/work/expression_database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/expression_database/expression_database.dict -- data/linux/processed-challenges/expression_database/bin/expression_database\n'
+p109
+I1
+tp110
+a(I6600
+S'start_time     : 1499798097\nlast_update    : 1499804649\nfuzzer_pid     : 16821\ncycles_done    : 0\nexecs_done     : 1600491\nexecs_per_sec  : 239.14\npaths_total    : 247\npaths_favored  : 55\npaths_found    : 246\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 115\npending_favs   : 46\npending_total  : 224\nvariable_paths : 0\nbitmap_cvg     : 0.78%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1499804622\nlast_crash     : 0\nlast_hang      : 1499804598\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/expression_database/input -o /dev/shm/work/expression_database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/expression_database/expression_database.dict -- data/linux/processed-challenges/expression_database/bin/expression_database\n'
+p111
+I2
+tp112
+a(I6720
+S'start_time     : 1499798097\nlast_update    : 1499804770\nfuzzer_pid     : 16821\ncycles_done    : 0\nexecs_done     : 1627906\nexecs_per_sec  : 230.25\npaths_total    : 247\npaths_favored  : 56\npaths_found    : 246\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 116\npending_favs   : 46\npending_total  : 223\nvariable_paths : 0\nbitmap_cvg     : 0.78%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1499804622\nlast_crash     : 0\nlast_hang      : 1499804598\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/expression_database/input -o /dev/shm/work/expression_database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/expression_database/expression_database.dict -- data/linux/processed-challenges/expression_database/bin/expression_database\n'
+p113
+I0
+tp114
+a(I6840
+S'start_time     : 1499798097\nlast_update    : 1499804890\nfuzzer_pid     : 16821\ncycles_done    : 0\nexecs_done     : 1655157\nexecs_per_sec  : 252.87\npaths_total    : 247\npaths_favored  : 56\npaths_found    : 246\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 116\npending_favs   : 46\npending_total  : 223\nvariable_paths : 0\nbitmap_cvg     : 0.78%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1499804622\nlast_crash     : 0\nlast_hang      : 1499804598\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/expression_database/input -o /dev/shm/work/expression_database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/expression_database/expression_database.dict -- data/linux/processed-challenges/expression_database/bin/expression_database\n'
+p115
+I0
+tp116
+a(I6960
+S'start_time     : 1499798097\nlast_update    : 1499805010\nfuzzer_pid     : 16821\ncycles_done    : 0\nexecs_done     : 1684229\nexecs_per_sec  : 237.28\npaths_total    : 247\npaths_favored  : 56\npaths_found    : 246\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 118\npending_favs   : 45\npending_total  : 222\nvariable_paths : 0\nbitmap_cvg     : 0.78%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1499804622\nlast_crash     : 0\nlast_hang      : 1499804598\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/expression_database/input -o /dev/shm/work/expression_database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/expression_database/expression_database.dict -- data/linux/processed-challenges/expression_database/bin/expression_database\n'
+p117
+I1
+tp118
+a(I7080
+S'start_time     : 1499798097\nlast_update    : 1499805131\nfuzzer_pid     : 16821\ncycles_done    : 0\nexecs_done     : 1714381\nexecs_per_sec  : 257.81\npaths_total    : 248\npaths_favored  : 57\npaths_found    : 247\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 119\npending_favs   : 45\npending_total  : 222\nvariable_paths : 0\nbitmap_cvg     : 0.79%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1499805022\nlast_crash     : 0\nlast_hang      : 1499804598\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/expression_database/input -o /dev/shm/work/expression_database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/expression_database/expression_database.dict -- data/linux/processed-challenges/expression_database/bin/expression_database\n'
+p119
+I1
+tp120
+a(I7200
+S'start_time     : 1499798097\nlast_update    : 1499805251\nfuzzer_pid     : 16821\ncycles_done    : 0\nexecs_done     : 1745347\nexecs_per_sec  : 230.99\npaths_total    : 249\npaths_favored  : 57\npaths_found    : 248\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 124\npending_favs   : 44\npending_total  : 222\nvariable_paths : 0\nbitmap_cvg     : 0.79%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1499805187\nlast_crash     : 0\nlast_hang      : 1499804598\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/expression_database/input -o /dev/shm/work/expression_database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/expression_database/expression_database.dict -- data/linux/processed-challenges/expression_database/bin/expression_database\n'
+p121
+I0
+tp122
+a(I7320
+S'start_time     : 1499798097\nlast_update    : 1499805371\nfuzzer_pid     : 16821\ncycles_done    : 0\nexecs_done     : 1772841\nexecs_per_sec  : 225.33\npaths_total    : 249\npaths_favored  : 57\npaths_found    : 248\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 124\npending_favs   : 44\npending_total  : 222\nvariable_paths : 0\nbitmap_cvg     : 0.79%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1499805187\nlast_crash     : 0\nlast_hang      : 1499804598\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/expression_database/input -o /dev/shm/work/expression_database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/expression_database/expression_database.dict -- data/linux/processed-challenges/expression_database/bin/expression_database\n'
+p123
+I0
+tp124
+a(I7440
+S'start_time     : 1499798097\nlast_update    : 1499805491\nfuzzer_pid     : 16821\ncycles_done    : 0\nexecs_done     : 1801426\nexecs_per_sec  : 235.79\npaths_total    : 249\npaths_favored  : 57\npaths_found    : 248\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 136\npending_favs   : 43\npending_total  : 221\nvariable_paths : 0\nbitmap_cvg     : 0.79%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1499805187\nlast_crash     : 0\nlast_hang      : 1499804598\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/expression_database/input -o /dev/shm/work/expression_database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/expression_database/expression_database.dict -- data/linux/processed-challenges/expression_database/bin/expression_database\n'
+p125
+I0
+tp126
+a(I7560
+S'start_time     : 1499798097\nlast_update    : 1499805612\nfuzzer_pid     : 16821\ncycles_done    : 0\nexecs_done     : 1830261\nexecs_per_sec  : 248.17\npaths_total    : 250\npaths_favored  : 57\npaths_found    : 249\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 136\npending_favs   : 43\npending_total  : 222\nvariable_paths : 0\nbitmap_cvg     : 0.79%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1499805571\nlast_crash     : 0\nlast_hang      : 1499804598\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/expression_database/input -o /dev/shm/work/expression_database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/expression_database/expression_database.dict -- data/linux/processed-challenges/expression_database/bin/expression_database\n'
+p127
+I2
+tp128
+a(I7680
+S'start_time     : 1499798097\nlast_update    : 1499805732\nfuzzer_pid     : 16821\ncycles_done    : 0\nexecs_done     : 1860635\nexecs_per_sec  : 249.03\npaths_total    : 252\npaths_favored  : 57\npaths_found    : 251\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 136\npending_favs   : 43\npending_total  : 224\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1499805670\nlast_crash     : 0\nlast_hang      : 1499804598\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/expression_database/input -o /dev/shm/work/expression_database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/expression_database/expression_database.dict -- data/linux/processed-challenges/expression_database/bin/expression_database\n'
+p129
+I2
+tp130
+a(I7800
+S'start_time     : 1499798097\nlast_update    : 1499805852\nfuzzer_pid     : 16821\ncycles_done    : 0\nexecs_done     : 1890835\nexecs_per_sec  : 256.33\npaths_total    : 254\npaths_favored  : 57\npaths_found    : 253\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 136\npending_favs   : 43\npending_total  : 226\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1499805819\nlast_crash     : 0\nlast_hang      : 1499804598\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/expression_database/input -o /dev/shm/work/expression_database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/expression_database/expression_database.dict -- data/linux/processed-challenges/expression_database/bin/expression_database\n'
+p131
+I1
+tp132
+a(I7920
+S'start_time     : 1499798097\nlast_update    : 1499805972\nfuzzer_pid     : 16821\ncycles_done    : 0\nexecs_done     : 1921161\nexecs_per_sec  : 250.77\npaths_total    : 254\npaths_favored  : 57\npaths_found    : 253\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 136\npending_favs   : 43\npending_total  : 226\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1499805819\nlast_crash     : 0\nlast_hang      : 1499805946\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/expression_database/input -o /dev/shm/work/expression_database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/expression_database/expression_database.dict -- data/linux/processed-challenges/expression_database/bin/expression_database\n'
+p133
+I0
+tp134
+a(I8040
+S'start_time     : 1499798097\nlast_update    : 1499806092\nfuzzer_pid     : 16821\ncycles_done    : 0\nexecs_done     : 1951360\nexecs_per_sec  : 255.37\npaths_total    : 255\npaths_favored  : 57\npaths_found    : 254\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 136\npending_favs   : 43\npending_total  : 227\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1499806041\nlast_crash     : 0\nlast_hang      : 1499805946\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/expression_database/input -o /dev/shm/work/expression_database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/expression_database/expression_database.dict -- data/linux/processed-challenges/expression_database/bin/expression_database\n'
+p135
+I1
+tp136
+a(I8160
+S'start_time     : 1499798097\nlast_update    : 1499806213\nfuzzer_pid     : 16821\ncycles_done    : 0\nexecs_done     : 1981150\nexecs_per_sec  : 213.88\npaths_total    : 256\npaths_favored  : 58\npaths_found    : 255\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 139\npending_favs   : 44\npending_total  : 227\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1499806162\nlast_crash     : 0\nlast_hang      : 1499805946\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/expression_database/input -o /dev/shm/work/expression_database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/expression_database/expression_database.dict -- data/linux/processed-challenges/expression_database/bin/expression_database\n'
+p137
+I1
+tp138
+a(I8280
+S'start_time     : 1499798097\nlast_update    : 1499806333\nfuzzer_pid     : 16821\ncycles_done    : 0\nexecs_done     : 2006505\nexecs_per_sec  : 213.77\npaths_total    : 256\npaths_favored  : 58\npaths_found    : 255\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 139\npending_favs   : 44\npending_total  : 227\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1499806162\nlast_crash     : 0\nlast_hang      : 1499805946\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/expression_database/input -o /dev/shm/work/expression_database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/expression_database/expression_database.dict -- data/linux/processed-challenges/expression_database/bin/expression_database\n'
+p139
+I0
+tp140
+a(I8400
+S'start_time     : 1499798097\nlast_update    : 1499806453\nfuzzer_pid     : 16821\ncycles_done    : 0\nexecs_done     : 2032458\nexecs_per_sec  : 222.46\npaths_total    : 256\npaths_favored  : 58\npaths_found    : 255\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 139\npending_favs   : 44\npending_total  : 227\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1499806162\nlast_crash     : 0\nlast_hang      : 1499805946\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/expression_database/input -o /dev/shm/work/expression_database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/expression_database/expression_database.dict -- data/linux/processed-challenges/expression_database/bin/expression_database\n'
+p141
+I0
+tp142
+a(I8520
+S'start_time     : 1499798097\nlast_update    : 1499806573\nfuzzer_pid     : 16821\ncycles_done    : 0\nexecs_done     : 2060019\nexecs_per_sec  : 223.51\npaths_total    : 256\npaths_favored  : 58\npaths_found    : 255\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 143\npending_favs   : 43\npending_total  : 226\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1499806162\nlast_crash     : 0\nlast_hang      : 1499805946\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/expression_database/input -o /dev/shm/work/expression_database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/expression_database/expression_database.dict -- data/linux/processed-challenges/expression_database/bin/expression_database\n'
+p143
+I0
+tp144
+a(I8640
+S'start_time     : 1499798097\nlast_update    : 1499806693\nfuzzer_pid     : 16821\ncycles_done    : 0\nexecs_done     : 2089196\nexecs_per_sec  : 261.61\npaths_total    : 257\npaths_favored  : 58\npaths_found    : 256\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 155\npending_favs   : 42\npending_total  : 226\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1499806665\nlast_crash     : 0\nlast_hang      : 1499805946\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/expression_database/input -o /dev/shm/work/expression_database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/expression_database/expression_database.dict -- data/linux/processed-challenges/expression_database/bin/expression_database\n'
+p145
+I3
+tp146
+a(I8760
+S'start_time     : 1499798097\nlast_update    : 1499806814\nfuzzer_pid     : 16821\ncycles_done    : 0\nexecs_done     : 2119703\nexecs_per_sec  : 260.45\npaths_total    : 259\npaths_favored  : 58\npaths_found    : 258\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 155\npending_favs   : 42\npending_total  : 228\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1499806734\nlast_crash     : 0\nlast_hang      : 1499805946\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/expression_database/input -o /dev/shm/work/expression_database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/expression_database/expression_database.dict -- data/linux/processed-challenges/expression_database/bin/expression_database\n'
+p147
+I0
+tp148
+a(I8880
+S'start_time     : 1499798097\nlast_update    : 1499806934\nfuzzer_pid     : 16821\ncycles_done    : 0\nexecs_done     : 2150093\nexecs_per_sec  : 251.14\npaths_total    : 259\npaths_favored  : 60\npaths_found    : 258\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 163\npending_favs   : 43\npending_total  : 227\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1499806734\nlast_crash     : 0\nlast_hang      : 1499805946\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/expression_database/input -o /dev/shm/work/expression_database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/expression_database/expression_database.dict -- data/linux/processed-challenges/expression_database/bin/expression_database\n'
+p149
+I0
+tp150
+a(I9000
+S'start_time     : 1499798097\nlast_update    : 1499807054\nfuzzer_pid     : 16821\ncycles_done    : 0\nexecs_done     : 2179053\nexecs_per_sec  : 224.27\npaths_total    : 259\npaths_favored  : 60\npaths_found    : 258\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 164\npending_favs   : 43\npending_total  : 226\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1499806734\nlast_crash     : 0\nlast_hang      : 1499805946\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/expression_database/input -o /dev/shm/work/expression_database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/expression_database/expression_database.dict -- data/linux/processed-challenges/expression_database/bin/expression_database\n'
+p151
+I0
+tp152
+a(I9120
+S'start_time     : 1499798097\nlast_update    : 1499807174\nfuzzer_pid     : 16821\ncycles_done    : 0\nexecs_done     : 2206286\nexecs_per_sec  : 238.64\npaths_total    : 259\npaths_favored  : 60\npaths_found    : 258\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 164\npending_favs   : 43\npending_total  : 226\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1499806734\nlast_crash     : 0\nlast_hang      : 1499805946\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/expression_database/input -o /dev/shm/work/expression_database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/expression_database/expression_database.dict -- data/linux/processed-challenges/expression_database/bin/expression_database\n'
+p153
+I3
+tp154
+a(I9240
+S'start_time     : 1499798097\nlast_update    : 1499807294\nfuzzer_pid     : 16821\ncycles_done    : 0\nexecs_done     : 2235864\nexecs_per_sec  : 247.36\npaths_total    : 264\npaths_favored  : 60\npaths_found    : 263\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 164\npending_favs   : 43\npending_total  : 231\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1499807294\nlast_crash     : 0\nlast_hang      : 1499805946\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/expression_database/input -o /dev/shm/work/expression_database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/expression_database/expression_database.dict -- data/linux/processed-challenges/expression_database/bin/expression_database\n'
+p155
+I5
+tp156
+a(I9360
+S'start_time     : 1499798097\nlast_update    : 1499807415\nfuzzer_pid     : 16821\ncycles_done    : 0\nexecs_done     : 2265735\nexecs_per_sec  : 249.09\npaths_total    : 267\npaths_favored  : 60\npaths_found    : 266\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 164\npending_favs   : 43\npending_total  : 234\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1499807326\nlast_crash     : 0\nlast_hang      : 1499805946\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/expression_database/input -o /dev/shm/work/expression_database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/expression_database/expression_database.dict -- data/linux/processed-challenges/expression_database/bin/expression_database\n'
+p157
+I1
+tp158
+a(I9480
+S'start_time     : 1499798097\nlast_update    : 1499807535\nfuzzer_pid     : 16821\ncycles_done    : 0\nexecs_done     : 2295440\nexecs_per_sec  : 248.71\npaths_total    : 268\npaths_favored  : 60\npaths_found    : 267\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 164\npending_favs   : 43\npending_total  : 235\nvariable_paths : 0\nbitmap_cvg     : 0.81%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1499807458\nlast_crash     : 0\nlast_hang      : 1499805946\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/expression_database/input -o /dev/shm/work/expression_database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/expression_database/expression_database.dict -- data/linux/processed-challenges/expression_database/bin/expression_database\n'
+p159
+I2
+tp160
+a(I9600
+S'start_time     : 1499798097\nlast_update    : 1499807655\nfuzzer_pid     : 16821\ncycles_done    : 0\nexecs_done     : 2325275\nexecs_per_sec  : 249.80\npaths_total    : 270\npaths_favored  : 60\npaths_found    : 269\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 164\npending_favs   : 43\npending_total  : 237\nvariable_paths : 0\nbitmap_cvg     : 0.81%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1499807575\nlast_crash     : 0\nlast_hang      : 1499805946\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/expression_database/input -o /dev/shm/work/expression_database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/expression_database/expression_database.dict -- data/linux/processed-challenges/expression_database/bin/expression_database\n'
+p161
+I2
+tp162
+a(I9720
+S'start_time     : 1499798097\nlast_update    : 1499807775\nfuzzer_pid     : 16821\ncycles_done    : 0\nexecs_done     : 2355124\nexecs_per_sec  : 249.54\npaths_total    : 274\npaths_favored  : 60\npaths_found    : 273\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 164\npending_favs   : 43\npending_total  : 241\nvariable_paths : 0\nbitmap_cvg     : 0.81%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1499807751\nlast_crash     : 0\nlast_hang      : 1499805946\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/expression_database/input -o /dev/shm/work/expression_database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/expression_database/expression_database.dict -- data/linux/processed-challenges/expression_database/bin/expression_database\n'
+p163
+I2
+tp164
+a(I9840
+S'start_time     : 1499798097\nlast_update    : 1499807896\nfuzzer_pid     : 16821\ncycles_done    : 0\nexecs_done     : 2384064\nexecs_per_sec  : 237.57\npaths_total    : 274\npaths_favored  : 61\npaths_found    : 273\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 167\npending_favs   : 45\npending_total  : 240\nvariable_paths : 0\nbitmap_cvg     : 0.81%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1499807751\nlast_crash     : 0\nlast_hang      : 1499805946\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/expression_database/input -o /dev/shm/work/expression_database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/expression_database/expression_database.dict -- data/linux/processed-challenges/expression_database/bin/expression_database\n'
+p165
+I0
+tp166
+a(I9960
+S'start_time     : 1499798097\nlast_update    : 1499808016\nfuzzer_pid     : 16821\ncycles_done    : 0\nexecs_done     : 2412526\nexecs_per_sec  : 209.64\npaths_total    : 274\npaths_favored  : 62\npaths_found    : 273\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 169\npending_favs   : 44\npending_total  : 239\nvariable_paths : 0\nbitmap_cvg     : 0.81%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1499807751\nlast_crash     : 0\nlast_hang      : 1499805946\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/expression_database/input -o /dev/shm/work/expression_database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/expression_database/expression_database.dict -- data/linux/processed-challenges/expression_database/bin/expression_database\n'
+p167
+I2
+tp168
+a(I10080
+S'start_time     : 1499798097\nlast_update    : 1499808136\nfuzzer_pid     : 16821\ncycles_done    : 0\nexecs_done     : 2438226\nexecs_per_sec  : 215.22\npaths_total    : 276\npaths_favored  : 62\npaths_found    : 275\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 169\npending_favs   : 44\npending_total  : 241\nvariable_paths : 0\nbitmap_cvg     : 0.83%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1499808018\nlast_crash     : 0\nlast_hang      : 1499805946\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/expression_database/input -o /dev/shm/work/expression_database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/expression_database/expression_database.dict -- data/linux/processed-challenges/expression_database/bin/expression_database\n'
+p169
+I0
+tp170
+a(I10200
+S'start_time     : 1499798097\nlast_update    : 1499808256\nfuzzer_pid     : 16821\ncycles_done    : 0\nexecs_done     : 2463610\nexecs_per_sec  : 210.86\npaths_total    : 276\npaths_favored  : 62\npaths_found    : 275\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 169\npending_favs   : 44\npending_total  : 241\nvariable_paths : 0\nbitmap_cvg     : 0.83%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1499808018\nlast_crash     : 0\nlast_hang      : 1499805946\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/expression_database/input -o /dev/shm/work/expression_database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/expression_database/expression_database.dict -- data/linux/processed-challenges/expression_database/bin/expression_database\n'
+p171
+I2
+tp172
+a(I10320
+S'start_time     : 1499798097\nlast_update    : 1499808376\nfuzzer_pid     : 16821\ncycles_done    : 0\nexecs_done     : 2491274\nexecs_per_sec  : 224.54\npaths_total    : 278\npaths_favored  : 62\npaths_found    : 277\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 169\npending_favs   : 44\npending_total  : 243\nvariable_paths : 0\nbitmap_cvg     : 0.83%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1499808266\nlast_crash     : 0\nlast_hang      : 1499805946\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/expression_database/input -o /dev/shm/work/expression_database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/expression_database/expression_database.dict -- data/linux/processed-challenges/expression_database/bin/expression_database\n'
+p173
+I1
+tp174
+a(I10440
+S'start_time     : 1499798097\nlast_update    : 1499808497\nfuzzer_pid     : 16821\ncycles_done    : 0\nexecs_done     : 2518940\nexecs_per_sec  : 225.86\npaths_total    : 279\npaths_favored  : 62\npaths_found    : 278\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 169\npending_favs   : 44\npending_total  : 244\nvariable_paths : 0\nbitmap_cvg     : 0.83%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1499808403\nlast_crash     : 0\nlast_hang      : 1499805946\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/expression_database/input -o /dev/shm/work/expression_database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/expression_database/expression_database.dict -- data/linux/processed-challenges/expression_database/bin/expression_database\n'
+p175
+I1
+tp176
+a(I10560
+S'start_time     : 1499798097\nlast_update    : 1499808617\nfuzzer_pid     : 16821\ncycles_done    : 0\nexecs_done     : 2546970\nexecs_per_sec  : 237.69\npaths_total    : 280\npaths_favored  : 62\npaths_found    : 279\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 169\npending_favs   : 44\npending_total  : 245\nvariable_paths : 0\nbitmap_cvg     : 0.83%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1499808497\nlast_crash     : 0\nlast_hang      : 1499805946\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/expression_database/input -o /dev/shm/work/expression_database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/expression_database/expression_database.dict -- data/linux/processed-challenges/expression_database/bin/expression_database\n'
+p177
+I0
+tp178
+a(I10680
+S'start_time     : 1499798097\nlast_update    : 1499808737\nfuzzer_pid     : 16821\ncycles_done    : 0\nexecs_done     : 2574594\nexecs_per_sec  : 231.79\npaths_total    : 280\npaths_favored  : 62\npaths_found    : 279\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 169\npending_favs   : 44\npending_total  : 245\nvariable_paths : 0\nbitmap_cvg     : 0.83%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1499808497\nlast_crash     : 0\nlast_hang      : 1499805946\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/expression_database/input -o /dev/shm/work/expression_database/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/expression_database/expression_database.dict -- data/linux/processed-challenges/expression_database/bin/expression_database\n'
+p179
+I0
+tp180
+a.

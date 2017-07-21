@@ -1,0 +1,452 @@
+(lp0
+(I0
+S'start_time     : 1499830521\nlast_update    : 1499830521\nfuzzer_pid     : 6827\ncycles_done    : 0\nexecs_done     : 10\nexecs_per_sec  : 78.74\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 1\npending_total  : 1\nvariable_paths : 0\nbitmap_cvg     : 0.15%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 40\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/AIS-Lite/input -o /dev/shm/work/AIS-Lite/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/AIS-Lite/AIS-Lite.dict -- data/linux/processed-challenges/AIS-Lite/bin/AIS-Lite\n'
+p1
+I15
+tp2
+a(I120
+S'start_time     : 1499830521\nlast_update    : 1499830641\nfuzzer_pid     : 6827\ncycles_done    : 0\nexecs_done     : 146202\nexecs_per_sec  : 1223.35\npaths_total    : 21\npaths_favored  : 1\npaths_found    : 20\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 1\npending_total  : 21\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499830637\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 40\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/AIS-Lite/input -o /dev/shm/work/AIS-Lite/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/AIS-Lite/AIS-Lite.dict -- data/linux/processed-challenges/AIS-Lite/bin/AIS-Lite\n'
+p3
+I6
+tp4
+a(I240
+S'start_time     : 1499830521\nlast_update    : 1499830762\nfuzzer_pid     : 6827\ncycles_done    : 0\nexecs_done     : 276752\nexecs_per_sec  : 1104.87\npaths_total    : 33\npaths_favored  : 8\npaths_found    : 32\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 13\npending_favs   : 6\npending_total  : 30\nvariable_paths : 0\nbitmap_cvg     : 0.39%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499830751\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 40\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/AIS-Lite/input -o /dev/shm/work/AIS-Lite/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/AIS-Lite/AIS-Lite.dict -- data/linux/processed-challenges/AIS-Lite/bin/AIS-Lite\n'
+p5
+I12
+tp6
+a(I360
+S'start_time     : 1499830521\nlast_update    : 1499830882\nfuzzer_pid     : 6827\ncycles_done    : 0\nexecs_done     : 409724\nexecs_per_sec  : 1142.80\npaths_total    : 42\npaths_favored  : 11\npaths_found    : 41\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 20\npending_favs   : 7\npending_total  : 37\nvariable_paths : 0\nbitmap_cvg     : 0.39%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499830872\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 40\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/AIS-Lite/input -o /dev/shm/work/AIS-Lite/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/AIS-Lite/AIS-Lite.dict -- data/linux/processed-challenges/AIS-Lite/bin/AIS-Lite\n'
+p7
+I9
+tp8
+a(I480
+S'start_time     : 1499830521\nlast_update    : 1499831002\nfuzzer_pid     : 6827\ncycles_done    : 0\nexecs_done     : 546186\nexecs_per_sec  : 1099.39\npaths_total    : 48\npaths_favored  : 13\npaths_found    : 47\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 23\npending_favs   : 7\npending_total  : 41\nvariable_paths : 0\nbitmap_cvg     : 0.42%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499830996\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 40\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/AIS-Lite/input -o /dev/shm/work/AIS-Lite/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/AIS-Lite/AIS-Lite.dict -- data/linux/processed-challenges/AIS-Lite/bin/AIS-Lite\n'
+p9
+I7
+tp10
+a(I600
+S'start_time     : 1499830521\nlast_update    : 1499831122\nfuzzer_pid     : 6827\ncycles_done    : 0\nexecs_done     : 682489\nexecs_per_sec  : 1134.26\npaths_total    : 51\npaths_favored  : 13\npaths_found    : 50\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 23\npending_favs   : 7\npending_total  : 44\nvariable_paths : 0\nbitmap_cvg     : 0.42%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499831058\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 40\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/AIS-Lite/input -o /dev/shm/work/AIS-Lite/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/AIS-Lite/AIS-Lite.dict -- data/linux/processed-challenges/AIS-Lite/bin/AIS-Lite\n'
+p11
+I2
+tp12
+a(I720
+S'start_time     : 1499830521\nlast_update    : 1499831243\nfuzzer_pid     : 6827\ncycles_done    : 0\nexecs_done     : 807451\nexecs_per_sec  : 1096.85\npaths_total    : 53\npaths_favored  : 16\npaths_found    : 52\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 43\npending_favs   : 7\npending_total  : 38\nvariable_paths : 0\nbitmap_cvg     : 0.42%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499831222\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 40\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/AIS-Lite/input -o /dev/shm/work/AIS-Lite/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/AIS-Lite/AIS-Lite.dict -- data/linux/processed-challenges/AIS-Lite/bin/AIS-Lite\n'
+p13
+I4
+tp14
+a(I840
+S'start_time     : 1499830521\nlast_update    : 1499831363\nfuzzer_pid     : 6827\ncycles_done    : 0\nexecs_done     : 943021\nexecs_per_sec  : 1118.25\npaths_total    : 58\npaths_favored  : 16\npaths_found    : 57\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 43\npending_favs   : 7\npending_total  : 43\nvariable_paths : 0\nbitmap_cvg     : 0.45%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499831306\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 40\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/AIS-Lite/input -o /dev/shm/work/AIS-Lite/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/AIS-Lite/AIS-Lite.dict -- data/linux/processed-challenges/AIS-Lite/bin/AIS-Lite\n'
+p15
+I3
+tp16
+a(I960
+S'start_time     : 1499830521\nlast_update    : 1499831483\nfuzzer_pid     : 6827\ncycles_done    : 0\nexecs_done     : 1075989\nexecs_per_sec  : 1043.04\npaths_total    : 69\npaths_favored  : 21\npaths_found    : 68\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 55\npending_favs   : 8\npending_total  : 47\nvariable_paths : 0\nbitmap_cvg     : 0.50%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499831480\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 40\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/AIS-Lite/input -o /dev/shm/work/AIS-Lite/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/AIS-Lite/AIS-Lite.dict -- data/linux/processed-challenges/AIS-Lite/bin/AIS-Lite\n'
+p17
+I12
+tp18
+a(I1080
+S'start_time     : 1499830521\nlast_update    : 1499831603\nfuzzer_pid     : 6827\ncycles_done    : 0\nexecs_done     : 1208699\nexecs_per_sec  : 1096.75\npaths_total    : 82\npaths_favored  : 21\npaths_found    : 81\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 55\npending_favs   : 8\npending_total  : 60\nvariable_paths : 0\nbitmap_cvg     : 0.51%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499831571\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 40\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/AIS-Lite/input -o /dev/shm/work/AIS-Lite/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/AIS-Lite/AIS-Lite.dict -- data/linux/processed-challenges/AIS-Lite/bin/AIS-Lite\n'
+p19
+I12
+tp20
+a(I1200
+S'start_time     : 1499830521\nlast_update    : 1499831724\nfuzzer_pid     : 6827\ncycles_done    : 0\nexecs_done     : 1341931\nexecs_per_sec  : 1065.64\npaths_total    : 83\npaths_favored  : 28\npaths_found    : 82\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 66\npending_favs   : 9\npending_total  : 54\nvariable_paths : 0\nbitmap_cvg     : 0.51%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499831638\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 40\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/AIS-Lite/input -o /dev/shm/work/AIS-Lite/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/AIS-Lite/AIS-Lite.dict -- data/linux/processed-challenges/AIS-Lite/bin/AIS-Lite\n'
+p21
+I1
+tp22
+a(I1320
+S'start_time     : 1499830521\nlast_update    : 1499831844\nfuzzer_pid     : 6827\ncycles_done    : 0\nexecs_done     : 1470347\nexecs_per_sec  : 1048.45\npaths_total    : 94\npaths_favored  : 28\npaths_found    : 93\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 69\npending_favs   : 7\npending_total  : 63\nvariable_paths : 0\nbitmap_cvg     : 0.60%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499831844\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 40\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/AIS-Lite/input -o /dev/shm/work/AIS-Lite/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/AIS-Lite/AIS-Lite.dict -- data/linux/processed-challenges/AIS-Lite/bin/AIS-Lite\n'
+p23
+I11
+tp24
+a(I1440
+S'start_time     : 1499830521\nlast_update    : 1499831964\nfuzzer_pid     : 6827\ncycles_done    : 0\nexecs_done     : 1597493\nexecs_per_sec  : 1051.30\npaths_total    : 101\npaths_favored  : 30\npaths_found    : 100\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 74\npending_favs   : 12\npending_total  : 68\nvariable_paths : 0\nbitmap_cvg     : 0.60%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499831951\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 40\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/AIS-Lite/input -o /dev/shm/work/AIS-Lite/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/AIS-Lite/AIS-Lite.dict -- data/linux/processed-challenges/AIS-Lite/bin/AIS-Lite\n'
+p25
+I7
+tp26
+a(I1560
+S'start_time     : 1499830521\nlast_update    : 1499832084\nfuzzer_pid     : 6827\ncycles_done    : 0\nexecs_done     : 1727441\nexecs_per_sec  : 1076.53\npaths_total    : 101\npaths_favored  : 30\npaths_found    : 100\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 74\npending_favs   : 12\npending_total  : 68\nvariable_paths : 0\nbitmap_cvg     : 0.60%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499831951\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 40\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/AIS-Lite/input -o /dev/shm/work/AIS-Lite/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/AIS-Lite/AIS-Lite.dict -- data/linux/processed-challenges/AIS-Lite/bin/AIS-Lite\n'
+p27
+I0
+tp28
+a(I1680
+S'start_time     : 1499830521\nlast_update    : 1499832205\nfuzzer_pid     : 6827\ncycles_done    : 0\nexecs_done     : 1849850\nexecs_per_sec  : 1054.18\npaths_total    : 116\npaths_favored  : 31\npaths_found    : 115\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 85\npending_favs   : 10\npending_total  : 79\nvariable_paths : 0\nbitmap_cvg     : 0.63%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499832204\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 40\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/AIS-Lite/input -o /dev/shm/work/AIS-Lite/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/AIS-Lite/AIS-Lite.dict -- data/linux/processed-challenges/AIS-Lite/bin/AIS-Lite\n'
+p29
+I17
+tp30
+a(I1800
+S'start_time     : 1499830521\nlast_update    : 1499832325\nfuzzer_pid     : 6827\ncycles_done    : 0\nexecs_done     : 1979251\nexecs_per_sec  : 944.59\npaths_total    : 132\npaths_favored  : 46\npaths_found    : 131\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 87\npending_favs   : 26\npending_total  : 94\nvariable_paths : 0\nbitmap_cvg     : 0.67%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499832289\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 40\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/AIS-Lite/input -o /dev/shm/work/AIS-Lite/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/AIS-Lite/AIS-Lite.dict -- data/linux/processed-challenges/AIS-Lite/bin/AIS-Lite\n'
+p31
+I14
+tp32
+a(I1920
+S'start_time     : 1499830521\nlast_update    : 1499832445\nfuzzer_pid     : 6827\ncycles_done    : 0\nexecs_done     : 2106643\nexecs_per_sec  : 1064.05\npaths_total    : 148\npaths_favored  : 46\npaths_found    : 147\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 88\npending_favs   : 25\npending_total  : 109\nvariable_paths : 0\nbitmap_cvg     : 0.69%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499832407\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 40\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/AIS-Lite/input -o /dev/shm/work/AIS-Lite/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/AIS-Lite/AIS-Lite.dict -- data/linux/processed-challenges/AIS-Lite/bin/AIS-Lite\n'
+p33
+I17
+tp34
+a(I2040
+S'start_time     : 1499830521\nlast_update    : 1499832566\nfuzzer_pid     : 6827\ncycles_done    : 0\nexecs_done     : 2231460\nexecs_per_sec  : 909.08\npaths_total    : 149\npaths_favored  : 51\npaths_found    : 148\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 92\npending_favs   : 28\npending_total  : 107\nvariable_paths : 0\nbitmap_cvg     : 0.69%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499832449\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 40\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/AIS-Lite/input -o /dev/shm/work/AIS-Lite/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/AIS-Lite/AIS-Lite.dict -- data/linux/processed-challenges/AIS-Lite/bin/AIS-Lite\n'
+p35
+I0
+tp36
+a(I2160
+S'start_time     : 1499830521\nlast_update    : 1499832686\nfuzzer_pid     : 6827\ncycles_done    : 0\nexecs_done     : 2350776\nexecs_per_sec  : 1058.99\npaths_total    : 149\npaths_favored  : 51\npaths_found    : 148\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 104\npending_favs   : 24\npending_total  : 103\nvariable_paths : 0\nbitmap_cvg     : 0.69%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499832449\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 40\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/AIS-Lite/input -o /dev/shm/work/AIS-Lite/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/AIS-Lite/AIS-Lite.dict -- data/linux/processed-challenges/AIS-Lite/bin/AIS-Lite\n'
+p37
+I0
+tp38
+a(I2280
+S'start_time     : 1499830521\nlast_update    : 1499832806\nfuzzer_pid     : 6827\ncycles_done    : 0\nexecs_done     : 2478201\nexecs_per_sec  : 1050.94\npaths_total    : 150\npaths_favored  : 51\npaths_found    : 149\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 109\npending_favs   : 20\npending_total  : 100\nvariable_paths : 0\nbitmap_cvg     : 0.69%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499832794\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 40\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/AIS-Lite/input -o /dev/shm/work/AIS-Lite/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/AIS-Lite/AIS-Lite.dict -- data/linux/processed-challenges/AIS-Lite/bin/AIS-Lite\n'
+p39
+I1
+tp40
+a(I2400
+S'start_time     : 1499830521\nlast_update    : 1499832926\nfuzzer_pid     : 6827\ncycles_done    : 0\nexecs_done     : 2608609\nexecs_per_sec  : 1088.88\npaths_total    : 154\npaths_favored  : 51\npaths_found    : 153\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 109\npending_favs   : 20\npending_total  : 104\nvariable_paths : 0\nbitmap_cvg     : 0.69%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499832899\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 40\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/AIS-Lite/input -o /dev/shm/work/AIS-Lite/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/AIS-Lite/AIS-Lite.dict -- data/linux/processed-challenges/AIS-Lite/bin/AIS-Lite\n'
+p41
+I4
+tp42
+a(I2520
+S'start_time     : 1499830521\nlast_update    : 1499833046\nfuzzer_pid     : 6827\ncycles_done    : 0\nexecs_done     : 2736654\nexecs_per_sec  : 985.43\npaths_total    : 155\npaths_favored  : 52\npaths_found    : 154\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 114\npending_favs   : 19\npending_total  : 102\nvariable_paths : 0\nbitmap_cvg     : 0.69%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499832969\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 40\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/AIS-Lite/input -o /dev/shm/work/AIS-Lite/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/AIS-Lite/AIS-Lite.dict -- data/linux/processed-challenges/AIS-Lite/bin/AIS-Lite\n'
+p43
+I1
+tp44
+a(I2640
+S'start_time     : 1499830521\nlast_update    : 1499833166\nfuzzer_pid     : 6827\ncycles_done    : 0\nexecs_done     : 2863015\nexecs_per_sec  : 957.57\npaths_total    : 158\npaths_favored  : 53\npaths_found    : 157\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 119\npending_favs   : 18\npending_total  : 103\nvariable_paths : 0\nbitmap_cvg     : 0.69%\nunique_crashes : 1\nunique_hangs   : 0\nlast_path      : 1499833127\nlast_crash     : 1499833159\nlast_hang      : 0\nexec_timeout   : 40\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/AIS-Lite/input -o /dev/shm/work/AIS-Lite/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/AIS-Lite/AIS-Lite.dict -- data/linux/processed-challenges/AIS-Lite/bin/AIS-Lite\n'
+p45
+I3
+tp46
+a(I2760
+S'start_time     : 1499830521\nlast_update    : 1499833287\nfuzzer_pid     : 6827\ncycles_done    : 0\nexecs_done     : 2988749\nexecs_per_sec  : 1051.64\npaths_total    : 163\npaths_favored  : 53\npaths_found    : 162\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 119\npending_favs   : 18\npending_total  : 108\nvariable_paths : 0\nbitmap_cvg     : 0.70%\nunique_crashes : 2\nunique_hangs   : 0\nlast_path      : 1499833285\nlast_crash     : 1499833189\nlast_hang      : 0\nexec_timeout   : 40\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/AIS-Lite/input -o /dev/shm/work/AIS-Lite/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/AIS-Lite/AIS-Lite.dict -- data/linux/processed-challenges/AIS-Lite/bin/AIS-Lite\n'
+p47
+I5
+tp48
+a(I2880
+S'start_time     : 1499830521\nlast_update    : 1499833407\nfuzzer_pid     : 6827\ncycles_done    : 0\nexecs_done     : 3113308\nexecs_per_sec  : 1028.81\npaths_total    : 164\npaths_favored  : 53\npaths_found    : 163\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 133\npending_favs   : 17\npending_total  : 106\nvariable_paths : 0\nbitmap_cvg     : 0.70%\nunique_crashes : 4\nunique_hangs   : 0\nlast_path      : 1499833306\nlast_crash     : 1499833294\nlast_hang      : 0\nexec_timeout   : 40\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/AIS-Lite/input -o /dev/shm/work/AIS-Lite/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/AIS-Lite/AIS-Lite.dict -- data/linux/processed-challenges/AIS-Lite/bin/AIS-Lite\n'
+p49
+I1
+tp50
+a(I3000
+S'start_time     : 1499830521\nlast_update    : 1499833527\nfuzzer_pid     : 6827\ncycles_done    : 0\nexecs_done     : 3232581\nexecs_per_sec  : 931.32\npaths_total    : 167\npaths_favored  : 55\npaths_found    : 166\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 140\npending_favs   : 16\npending_total  : 106\nvariable_paths : 0\nbitmap_cvg     : 0.70%\nunique_crashes : 4\nunique_hangs   : 0\nlast_path      : 1499833429\nlast_crash     : 1499833294\nlast_hang      : 0\nexec_timeout   : 40\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/AIS-Lite/input -o /dev/shm/work/AIS-Lite/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/AIS-Lite/AIS-Lite.dict -- data/linux/processed-challenges/AIS-Lite/bin/AIS-Lite\n'
+p51
+I3
+tp52
+a(I3120
+S'start_time     : 1499830521\nlast_update    : 1499833647\nfuzzer_pid     : 6827\ncycles_done    : 0\nexecs_done     : 3349670\nexecs_per_sec  : 993.23\npaths_total    : 178\npaths_favored  : 55\npaths_found    : 177\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 140\npending_favs   : 16\npending_total  : 117\nvariable_paths : 0\nbitmap_cvg     : 0.70%\nunique_crashes : 4\nunique_hangs   : 0\nlast_path      : 1499833636\nlast_crash     : 1499833294\nlast_hang      : 0\nexec_timeout   : 40\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/AIS-Lite/input -o /dev/shm/work/AIS-Lite/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/AIS-Lite/AIS-Lite.dict -- data/linux/processed-challenges/AIS-Lite/bin/AIS-Lite\n'
+p53
+I11
+tp54
+a(I3240
+S'start_time     : 1499830521\nlast_update    : 1499833767\nfuzzer_pid     : 6827\ncycles_done    : 0\nexecs_done     : 3468574\nexecs_per_sec  : 1131.67\npaths_total    : 180\npaths_favored  : 55\npaths_found    : 179\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 142\npending_favs   : 15\npending_total  : 117\nvariable_paths : 0\nbitmap_cvg     : 0.70%\nunique_crashes : 4\nunique_hangs   : 0\nlast_path      : 1499833750\nlast_crash     : 1499833294\nlast_hang      : 0\nexec_timeout   : 40\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/AIS-Lite/input -o /dev/shm/work/AIS-Lite/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/AIS-Lite/AIS-Lite.dict -- data/linux/processed-challenges/AIS-Lite/bin/AIS-Lite\n'
+p55
+I2
+tp56
+a(I3360
+S'start_time     : 1499830521\nlast_update    : 1499833888\nfuzzer_pid     : 6827\ncycles_done    : 0\nexecs_done     : 3586114\nexecs_per_sec  : 982.34\npaths_total    : 180\npaths_favored  : 55\npaths_found    : 179\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 146\npending_favs   : 13\npending_total  : 114\nvariable_paths : 0\nbitmap_cvg     : 0.70%\nunique_crashes : 4\nunique_hangs   : 0\nlast_path      : 1499833750\nlast_crash     : 1499833294\nlast_hang      : 0\nexec_timeout   : 40\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/AIS-Lite/input -o /dev/shm/work/AIS-Lite/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/AIS-Lite/AIS-Lite.dict -- data/linux/processed-challenges/AIS-Lite/bin/AIS-Lite\n'
+p57
+I0
+tp58
+a(I3480
+S'start_time     : 1499830521\nlast_update    : 1499834008\nfuzzer_pid     : 6827\ncycles_done    : 0\nexecs_done     : 3709937\nexecs_per_sec  : 1079.69\npaths_total    : 181\npaths_favored  : 55\npaths_found    : 180\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 153\npending_favs   : 9\npending_total  : 111\nvariable_paths : 0\nbitmap_cvg     : 0.70%\nunique_crashes : 4\nunique_hangs   : 0\nlast_path      : 1499833909\nlast_crash     : 1499833294\nlast_hang      : 0\nexec_timeout   : 40\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/AIS-Lite/input -o /dev/shm/work/AIS-Lite/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/AIS-Lite/AIS-Lite.dict -- data/linux/processed-challenges/AIS-Lite/bin/AIS-Lite\n'
+p59
+I1
+tp60
+a(I3600
+S'start_time     : 1499830521\nlast_update    : 1499834128\nfuzzer_pid     : 6827\ncycles_done    : 0\nexecs_done     : 3828550\nexecs_per_sec  : 870.91\npaths_total    : 182\npaths_favored  : 55\npaths_found    : 181\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 158\npending_favs   : 7\npending_total  : 110\nvariable_paths : 0\nbitmap_cvg     : 0.70%\nunique_crashes : 5\nunique_hangs   : 0\nlast_path      : 1499834026\nlast_crash     : 1499834101\nlast_hang      : 0\nexec_timeout   : 40\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/AIS-Lite/input -o /dev/shm/work/AIS-Lite/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/AIS-Lite/AIS-Lite.dict -- data/linux/processed-challenges/AIS-Lite/bin/AIS-Lite\n'
+p61
+I1
+tp62
+a(I3720
+S'start_time     : 1499830521\nlast_update    : 1499834248\nfuzzer_pid     : 6827\ncycles_done    : 0\nexecs_done     : 3950380\nexecs_per_sec  : 1042.84\npaths_total    : 187\npaths_favored  : 55\npaths_found    : 186\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 160\npending_favs   : 6\npending_total  : 114\nvariable_paths : 0\nbitmap_cvg     : 0.71%\nunique_crashes : 7\nunique_hangs   : 0\nlast_path      : 1499834225\nlast_crash     : 1499834152\nlast_hang      : 0\nexec_timeout   : 40\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/AIS-Lite/input -o /dev/shm/work/AIS-Lite/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/AIS-Lite/AIS-Lite.dict -- data/linux/processed-challenges/AIS-Lite/bin/AIS-Lite\n'
+p63
+I5
+tp64
+a(I3840
+S'start_time     : 1499830521\nlast_update    : 1499834369\nfuzzer_pid     : 6827\ncycles_done    : 0\nexecs_done     : 4069144\nexecs_per_sec  : 982.10\npaths_total    : 191\npaths_favored  : 58\npaths_found    : 190\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 161\npending_favs   : 8\npending_total  : 117\nvariable_paths : 0\nbitmap_cvg     : 0.79%\nunique_crashes : 7\nunique_hangs   : 0\nlast_path      : 1499834368\nlast_crash     : 1499834152\nlast_hang      : 0\nexec_timeout   : 40\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/AIS-Lite/input -o /dev/shm/work/AIS-Lite/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/AIS-Lite/AIS-Lite.dict -- data/linux/processed-challenges/AIS-Lite/bin/AIS-Lite\n'
+p65
+I4
+tp66
+a(I3960
+S'start_time     : 1499830521\nlast_update    : 1499834489\nfuzzer_pid     : 6827\ncycles_done    : 0\nexecs_done     : 4186157\nexecs_per_sec  : 966.77\npaths_total    : 194\npaths_favored  : 58\npaths_found    : 193\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 161\npending_favs   : 8\npending_total  : 120\nvariable_paths : 0\nbitmap_cvg     : 0.81%\nunique_crashes : 7\nunique_hangs   : 0\nlast_path      : 1499834392\nlast_crash     : 1499834152\nlast_hang      : 0\nexec_timeout   : 40\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/AIS-Lite/input -o /dev/shm/work/AIS-Lite/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/AIS-Lite/AIS-Lite.dict -- data/linux/processed-challenges/AIS-Lite/bin/AIS-Lite\n'
+p67
+I3
+tp68
+a(I4080
+S'start_time     : 1499830521\nlast_update    : 1499834609\nfuzzer_pid     : 6827\ncycles_done    : 0\nexecs_done     : 4304407\nexecs_per_sec  : 1037.32\npaths_total    : 196\npaths_favored  : 55\npaths_found    : 195\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 179\npending_favs   : 9\npending_total  : 119\nvariable_paths : 0\nbitmap_cvg     : 0.81%\nunique_crashes : 7\nunique_hangs   : 0\nlast_path      : 1499834499\nlast_crash     : 1499834152\nlast_hang      : 0\nexec_timeout   : 40\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/AIS-Lite/input -o /dev/shm/work/AIS-Lite/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/AIS-Lite/AIS-Lite.dict -- data/linux/processed-challenges/AIS-Lite/bin/AIS-Lite\n'
+p69
+I2
+tp70
+a(I4200
+S'start_time     : 1499830521\nlast_update    : 1499834729\nfuzzer_pid     : 6827\ncycles_done    : 0\nexecs_done     : 4425772\nexecs_per_sec  : 1023.97\npaths_total    : 198\npaths_favored  : 55\npaths_found    : 197\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 183\npending_favs   : 6\npending_total  : 118\nvariable_paths : 0\nbitmap_cvg     : 0.81%\nunique_crashes : 7\nunique_hangs   : 1\nlast_path      : 1499834705\nlast_crash     : 1499834152\nlast_hang      : 1499834728\nexec_timeout   : 40\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/AIS-Lite/input -o /dev/shm/work/AIS-Lite/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/AIS-Lite/AIS-Lite.dict -- data/linux/processed-challenges/AIS-Lite/bin/AIS-Lite\n'
+p71
+I3
+tp72
+a(I4320
+S'start_time     : 1499830521\nlast_update    : 1499834849\nfuzzer_pid     : 6827\ncycles_done    : 0\nexecs_done     : 4552262\nexecs_per_sec  : 1036.54\npaths_total    : 201\npaths_favored  : 55\npaths_found    : 200\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 183\npending_favs   : 6\npending_total  : 121\nvariable_paths : 0\nbitmap_cvg     : 0.82%\nunique_crashes : 7\nunique_hangs   : 3\nlast_path      : 1499834754\nlast_crash     : 1499834152\nlast_hang      : 1499834830\nexec_timeout   : 40\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/AIS-Lite/input -o /dev/shm/work/AIS-Lite/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/AIS-Lite/AIS-Lite.dict -- data/linux/processed-challenges/AIS-Lite/bin/AIS-Lite\n'
+p73
+I2
+tp74
+a(I4440
+S'start_time     : 1499830521\nlast_update    : 1499834969\nfuzzer_pid     : 6827\ncycles_done    : 0\nexecs_done     : 4670746\nexecs_per_sec  : 908.65\npaths_total    : 201\npaths_favored  : 56\npaths_found    : 200\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 189\npending_favs   : 6\npending_total  : 118\nvariable_paths : 0\nbitmap_cvg     : 0.82%\nunique_crashes : 7\nunique_hangs   : 3\nlast_path      : 1499834754\nlast_crash     : 1499834152\nlast_hang      : 1499834830\nexec_timeout   : 40\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/AIS-Lite/input -o /dev/shm/work/AIS-Lite/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/AIS-Lite/AIS-Lite.dict -- data/linux/processed-challenges/AIS-Lite/bin/AIS-Lite\n'
+p75
+I0
+tp76
+a(I4560
+S'start_time     : 1499830521\nlast_update    : 1499835090\nfuzzer_pid     : 6827\ncycles_done    : 0\nexecs_done     : 4788238\nexecs_per_sec  : 1021.43\npaths_total    : 220\npaths_favored  : 56\npaths_found    : 219\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 193\npending_favs   : 5\npending_total  : 136\nvariable_paths : 0\nbitmap_cvg     : 0.87%\nunique_crashes : 26\nunique_hangs   : 3\nlast_path      : 1499835072\nlast_crash     : 1499835086\nlast_hang      : 1499834830\nexec_timeout   : 40\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/AIS-Lite/input -o /dev/shm/work/AIS-Lite/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/AIS-Lite/AIS-Lite.dict -- data/linux/processed-challenges/AIS-Lite/bin/AIS-Lite\n'
+p77
+I19
+tp78
+a(I4680
+S'start_time     : 1499830521\nlast_update    : 1499835210\nfuzzer_pid     : 6827\ncycles_done    : 0\nexecs_done     : 4906415\nexecs_per_sec  : 990.48\npaths_total    : 225\npaths_favored  : 68\npaths_found    : 224\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 194\npending_favs   : 18\npending_total  : 140\nvariable_paths : 0\nbitmap_cvg     : 0.91%\nunique_crashes : 38\nunique_hangs   : 4\nlast_path      : 1499835186\nlast_crash     : 1499835206\nlast_hang      : 1499835153\nexec_timeout   : 40\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/AIS-Lite/input -o /dev/shm/work/AIS-Lite/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/AIS-Lite/AIS-Lite.dict -- data/linux/processed-challenges/AIS-Lite/bin/AIS-Lite\n'
+p79
+I5
+tp80
+a(I4800
+S'start_time     : 1499830521\nlast_update    : 1499835330\nfuzzer_pid     : 6827\ncycles_done    : 0\nexecs_done     : 5027908\nexecs_per_sec  : 1057.15\npaths_total    : 228\npaths_favored  : 68\npaths_found    : 227\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 197\npending_favs   : 20\npending_total  : 142\nvariable_paths : 0\nbitmap_cvg     : 0.91%\nunique_crashes : 48\nunique_hangs   : 4\nlast_path      : 1499835256\nlast_crash     : 1499835292\nlast_hang      : 1499835153\nexec_timeout   : 40\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/AIS-Lite/input -o /dev/shm/work/AIS-Lite/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/AIS-Lite/AIS-Lite.dict -- data/linux/processed-challenges/AIS-Lite/bin/AIS-Lite\n'
+p81
+I3
+tp82
+a(I4920
+S'start_time     : 1499830521\nlast_update    : 1499835450\nfuzzer_pid     : 6827\ncycles_done    : 0\nexecs_done     : 5148682\nexecs_per_sec  : 997.65\npaths_total    : 230\npaths_favored  : 69\npaths_found    : 229\npaths_imported : 0\nmax_depth      : 12\ncur_path       : 201\npending_favs   : 18\npending_total  : 141\nvariable_paths : 0\nbitmap_cvg     : 0.92%\nunique_crashes : 49\nunique_hangs   : 4\nlast_path      : 1499835437\nlast_crash     : 1499835431\nlast_hang      : 1499835153\nexec_timeout   : 40\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/AIS-Lite/input -o /dev/shm/work/AIS-Lite/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/AIS-Lite/AIS-Lite.dict -- data/linux/processed-challenges/AIS-Lite/bin/AIS-Lite\n'
+p83
+I2
+tp84
+a(I5040
+S'start_time     : 1499830521\nlast_update    : 1499835571\nfuzzer_pid     : 6827\ncycles_done    : 0\nexecs_done     : 5269784\nexecs_per_sec  : 912.43\npaths_total    : 235\npaths_favored  : 66\npaths_found    : 234\npaths_imported : 0\nmax_depth      : 12\ncur_path       : 204\npending_favs   : 15\npending_total  : 145\nvariable_paths : 0\nbitmap_cvg     : 0.92%\nunique_crashes : 50\nunique_hangs   : 4\nlast_path      : 1499835549\nlast_crash     : 1499835457\nlast_hang      : 1499835153\nexec_timeout   : 40\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/AIS-Lite/input -o /dev/shm/work/AIS-Lite/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/AIS-Lite/AIS-Lite.dict -- data/linux/processed-challenges/AIS-Lite/bin/AIS-Lite\n'
+p85
+I5
+tp86
+a(I5160
+S'start_time     : 1499830521\nlast_update    : 1499835691\nfuzzer_pid     : 6827\ncycles_done    : 0\nexecs_done     : 5395270\nexecs_per_sec  : 1021.67\npaths_total    : 239\npaths_favored  : 69\npaths_found    : 238\npaths_imported : 0\nmax_depth      : 12\ncur_path       : 207\npending_favs   : 17\npending_total  : 148\nvariable_paths : 0\nbitmap_cvg     : 0.93%\nunique_crashes : 52\nunique_hangs   : 4\nlast_path      : 1499835660\nlast_crash     : 1499835688\nlast_hang      : 1499835153\nexec_timeout   : 40\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/AIS-Lite/input -o /dev/shm/work/AIS-Lite/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/AIS-Lite/AIS-Lite.dict -- data/linux/processed-challenges/AIS-Lite/bin/AIS-Lite\n'
+p87
+I4
+tp88
+a(I5280
+S'start_time     : 1499830521\nlast_update    : 1499835811\nfuzzer_pid     : 6827\ncycles_done    : 0\nexecs_done     : 5514889\nexecs_per_sec  : 928.05\npaths_total    : 240\npaths_favored  : 69\npaths_found    : 239\npaths_imported : 0\nmax_depth      : 12\ncur_path       : 209\npending_favs   : 15\npending_total  : 147\nvariable_paths : 0\nbitmap_cvg     : 0.95%\nunique_crashes : 53\nunique_hangs   : 4\nlast_path      : 1499835754\nlast_crash     : 1499835753\nlast_hang      : 1499835153\nexec_timeout   : 40\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/AIS-Lite/input -o /dev/shm/work/AIS-Lite/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/AIS-Lite/AIS-Lite.dict -- data/linux/processed-challenges/AIS-Lite/bin/AIS-Lite\n'
+p89
+I1
+tp90
+a(I5400
+S'start_time     : 1499830521\nlast_update    : 1499835931\nfuzzer_pid     : 6827\ncycles_done    : 0\nexecs_done     : 5633138\nexecs_per_sec  : 1013.78\npaths_total    : 243\npaths_favored  : 70\npaths_found    : 242\npaths_imported : 0\nmax_depth      : 12\ncur_path       : 215\npending_favs   : 14\npending_total  : 148\nvariable_paths : 0\nbitmap_cvg     : 0.96%\nunique_crashes : 58\nunique_hangs   : 4\nlast_path      : 1499835927\nlast_crash     : 1499835927\nlast_hang      : 1499835153\nexec_timeout   : 40\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/AIS-Lite/input -o /dev/shm/work/AIS-Lite/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/AIS-Lite/AIS-Lite.dict -- data/linux/processed-challenges/AIS-Lite/bin/AIS-Lite\n'
+p91
+I3
+tp92
+a(I5520
+S'start_time     : 1499830521\nlast_update    : 1499836051\nfuzzer_pid     : 6827\ncycles_done    : 0\nexecs_done     : 5749138\nexecs_per_sec  : 862.42\npaths_total    : 243\npaths_favored  : 70\npaths_found    : 242\npaths_imported : 0\nmax_depth      : 12\ncur_path       : 220\npending_favs   : 13\npending_total  : 146\nvariable_paths : 0\nbitmap_cvg     : 0.96%\nunique_crashes : 64\nunique_hangs   : 4\nlast_path      : 1499835927\nlast_crash     : 1499836039\nlast_hang      : 1499835153\nexec_timeout   : 40\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/AIS-Lite/input -o /dev/shm/work/AIS-Lite/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/AIS-Lite/AIS-Lite.dict -- data/linux/processed-challenges/AIS-Lite/bin/AIS-Lite\n'
+p93
+I0
+tp94
+a(I5640
+S'start_time     : 1499830521\nlast_update    : 1499836172\nfuzzer_pid     : 6827\ncycles_done    : 0\nexecs_done     : 5863514\nexecs_per_sec  : 1022.73\npaths_total    : 244\npaths_favored  : 69\npaths_found    : 243\npaths_imported : 0\nmax_depth      : 12\ncur_path       : 221\npending_favs   : 13\npending_total  : 146\nvariable_paths : 0\nbitmap_cvg     : 0.96%\nunique_crashes : 67\nunique_hangs   : 4\nlast_path      : 1499836096\nlast_crash     : 1499836170\nlast_hang      : 1499835153\nexec_timeout   : 40\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/AIS-Lite/input -o /dev/shm/work/AIS-Lite/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/AIS-Lite/AIS-Lite.dict -- data/linux/processed-challenges/AIS-Lite/bin/AIS-Lite\n'
+p95
+I1
+tp96
+a(I5760
+S'start_time     : 1499830521\nlast_update    : 1499836292\nfuzzer_pid     : 6827\ncycles_done    : 0\nexecs_done     : 5983977\nexecs_per_sec  : 1012.62\npaths_total    : 244\npaths_favored  : 69\npaths_found    : 243\npaths_imported : 0\nmax_depth      : 12\ncur_path       : 229\npending_favs   : 10\npending_total  : 143\nvariable_paths : 0\nbitmap_cvg     : 0.96%\nunique_crashes : 69\nunique_hangs   : 4\nlast_path      : 1499836096\nlast_crash     : 1499836184\nlast_hang      : 1499835153\nexec_timeout   : 40\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/AIS-Lite/input -o /dev/shm/work/AIS-Lite/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/AIS-Lite/AIS-Lite.dict -- data/linux/processed-challenges/AIS-Lite/bin/AIS-Lite\n'
+p97
+I0
+tp98
+a(I5880
+S'start_time     : 1499830521\nlast_update    : 1499836352\nfuzzer_pid     : 6827\ncycles_done    : 0\nexecs_done     : 6041831\nexecs_per_sec  : 1003.44\npaths_total    : 244\npaths_favored  : 69\npaths_found    : 243\npaths_imported : 0\nmax_depth      : 12\ncur_path       : 230\npending_favs   : 9\npending_total  : 142\nvariable_paths : 0\nbitmap_cvg     : 0.96%\nunique_crashes : 70\nunique_hangs   : 4\nlast_path      : 1499836096\nlast_crash     : 1499836302\nlast_hang      : 1499835153\nexec_timeout   : 40\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/AIS-Lite/input -o /dev/shm/work/AIS-Lite/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/AIS-Lite/AIS-Lite.dict -- data/linux/processed-challenges/AIS-Lite/bin/AIS-Lite\n'
+p99
+I0
+tp100
+a(I6000
+S'start_time     : 1499830521\nlast_update    : 1499836472\nfuzzer_pid     : 6827\ncycles_done    : 0\nexecs_done     : 6160418\nexecs_per_sec  : 1016.01\npaths_total    : 244\npaths_favored  : 69\npaths_found    : 243\npaths_imported : 0\nmax_depth      : 12\ncur_path       : 234\npending_favs   : 7\npending_total  : 140\nvariable_paths : 0\nbitmap_cvg     : 0.96%\nunique_crashes : 70\nunique_hangs   : 4\nlast_path      : 1499836096\nlast_crash     : 1499836302\nlast_hang      : 1499835153\nexec_timeout   : 40\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/AIS-Lite/input -o /dev/shm/work/AIS-Lite/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/AIS-Lite/AIS-Lite.dict -- data/linux/processed-challenges/AIS-Lite/bin/AIS-Lite\n'
+p101
+I0
+tp102
+a(I6120
+S'start_time     : 1499830521\nlast_update    : 1499836592\nfuzzer_pid     : 6827\ncycles_done    : 0\nexecs_done     : 6276379\nexecs_per_sec  : 992.47\npaths_total    : 252\npaths_favored  : 69\npaths_found    : 251\npaths_imported : 0\nmax_depth      : 13\ncur_path       : 238\npending_favs   : 5\npending_total  : 146\nvariable_paths : 0\nbitmap_cvg     : 0.98%\nunique_crashes : 73\nunique_hangs   : 4\nlast_path      : 1499836581\nlast_crash     : 1499836585\nlast_hang      : 1499835153\nexec_timeout   : 40\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/AIS-Lite/input -o /dev/shm/work/AIS-Lite/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/AIS-Lite/AIS-Lite.dict -- data/linux/processed-challenges/AIS-Lite/bin/AIS-Lite\n'
+p103
+I9
+tp104
+a(I6240
+S'start_time     : 1499830521\nlast_update    : 1499836712\nfuzzer_pid     : 6827\ncycles_done    : 0\nexecs_done     : 6394296\nexecs_per_sec  : 952.62\npaths_total    : 255\npaths_favored  : 72\npaths_found    : 254\npaths_imported : 0\nmax_depth      : 13\ncur_path       : 240\npending_favs   : 10\npending_total  : 148\nvariable_paths : 0\nbitmap_cvg     : 0.98%\nunique_crashes : 77\nunique_hangs   : 4\nlast_path      : 1499836704\nlast_crash     : 1499836648\nlast_hang      : 1499835153\nexec_timeout   : 40\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/AIS-Lite/input -o /dev/shm/work/AIS-Lite/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/AIS-Lite/AIS-Lite.dict -- data/linux/processed-challenges/AIS-Lite/bin/AIS-Lite\n'
+p105
+I10
+tp106
+a(I6360
+S'start_time     : 1499830521\nlast_update    : 1499836833\nfuzzer_pid     : 6827\ncycles_done    : 0\nexecs_done     : 6515826\nexecs_per_sec  : 1013.92\npaths_total    : 264\npaths_favored  : 72\npaths_found    : 263\npaths_imported : 0\nmax_depth      : 13\ncur_path       : 241\npending_favs   : 11\npending_total  : 156\nvariable_paths : 0\nbitmap_cvg     : 1.18%\nunique_crashes : 77\nunique_hangs   : 4\nlast_path      : 1499836819\nlast_crash     : 1499836648\nlast_hang      : 1499835153\nexec_timeout   : 40\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/AIS-Lite/input -o /dev/shm/work/AIS-Lite/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/AIS-Lite/AIS-Lite.dict -- data/linux/processed-challenges/AIS-Lite/bin/AIS-Lite\n'
+p107
+I1
+tp108
+a(I6480
+S'start_time     : 1499830521\nlast_update    : 1499836953\nfuzzer_pid     : 6827\ncycles_done    : 0\nexecs_done     : 6633415\nexecs_per_sec  : 1007.27\npaths_total    : 265\npaths_favored  : 76\npaths_found    : 264\npaths_imported : 0\nmax_depth      : 13\ncur_path       : 243\npending_favs   : 15\npending_total  : 156\nvariable_paths : 0\nbitmap_cvg     : 1.18%\nunique_crashes : 81\nunique_hangs   : 4\nlast_path      : 1499836938\nlast_crash     : 1499836885\nlast_hang      : 1499835153\nexec_timeout   : 40\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/AIS-Lite/input -o /dev/shm/work/AIS-Lite/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/AIS-Lite/AIS-Lite.dict -- data/linux/processed-challenges/AIS-Lite/bin/AIS-Lite\n'
+p109
+I4
+tp110
+a(I6600
+S'start_time     : 1499830521\nlast_update    : 1499837073\nfuzzer_pid     : 6827\ncycles_done    : 0\nexecs_done     : 6744827\nexecs_per_sec  : 940.85\npaths_total    : 270\npaths_favored  : 79\npaths_found    : 269\npaths_imported : 0\nmax_depth      : 14\ncur_path       : 248\npending_favs   : 15\npending_total  : 159\nvariable_paths : 0\nbitmap_cvg     : 1.38%\nunique_crashes : 83\nunique_hangs   : 4\nlast_path      : 1499837072\nlast_crash     : 1499837070\nlast_hang      : 1499835153\nexec_timeout   : 40\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/AIS-Lite/input -o /dev/shm/work/AIS-Lite/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/AIS-Lite/AIS-Lite.dict -- data/linux/processed-challenges/AIS-Lite/bin/AIS-Lite\n'
+p111
+I4
+tp112
+a(I6720
+S'start_time     : 1499830521\nlast_update    : 1499837194\nfuzzer_pid     : 6827\ncycles_done    : 0\nexecs_done     : 6863005\nexecs_per_sec  : 957.06\npaths_total    : 274\npaths_favored  : 80\npaths_found    : 273\npaths_imported : 0\nmax_depth      : 14\ncur_path       : 249\npending_favs   : 19\npending_total  : 162\nvariable_paths : 0\nbitmap_cvg     : 1.41%\nunique_crashes : 85\nunique_hangs   : 4\nlast_path      : 1499837182\nlast_crash     : 1499837184\nlast_hang      : 1499835153\nexec_timeout   : 40\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/AIS-Lite/input -o /dev/shm/work/AIS-Lite/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/AIS-Lite/AIS-Lite.dict -- data/linux/processed-challenges/AIS-Lite/bin/AIS-Lite\n'
+p113
+I4
+tp114
+a(I6840
+S'start_time     : 1499830521\nlast_update    : 1499837314\nfuzzer_pid     : 6827\ncycles_done    : 0\nexecs_done     : 6985908\nexecs_per_sec  : 1074.19\npaths_total    : 276\npaths_favored  : 80\npaths_found    : 275\npaths_imported : 0\nmax_depth      : 14\ncur_path       : 249\npending_favs   : 19\npending_total  : 164\nvariable_paths : 0\nbitmap_cvg     : 1.42%\nunique_crashes : 85\nunique_hangs   : 4\nlast_path      : 1499837242\nlast_crash     : 1499837184\nlast_hang      : 1499835153\nexec_timeout   : 40\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/AIS-Lite/input -o /dev/shm/work/AIS-Lite/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/AIS-Lite/AIS-Lite.dict -- data/linux/processed-challenges/AIS-Lite/bin/AIS-Lite\n'
+p115
+I1
+tp116
+a(I6960
+S'start_time     : 1499830521\nlast_update    : 1499837434\nfuzzer_pid     : 6827\ncycles_done    : 0\nexecs_done     : 7095559\nexecs_per_sec  : 947.49\npaths_total    : 278\npaths_favored  : 82\npaths_found    : 277\npaths_imported : 0\nmax_depth      : 14\ncur_path       : 250\npending_favs   : 20\npending_total  : 165\nvariable_paths : 0\nbitmap_cvg     : 1.42%\nunique_crashes : 86\nunique_hangs   : 4\nlast_path      : 1499837380\nlast_crash     : 1499837419\nlast_hang      : 1499835153\nexec_timeout   : 40\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/AIS-Lite/input -o /dev/shm/work/AIS-Lite/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/AIS-Lite/AIS-Lite.dict -- data/linux/processed-challenges/AIS-Lite/bin/AIS-Lite\n'
+p117
+I1
+tp118
+a(I7080
+S'start_time     : 1499830521\nlast_update    : 1499837554\nfuzzer_pid     : 6827\ncycles_done    : 0\nexecs_done     : 7210960\nexecs_per_sec  : 997.18\npaths_total    : 278\npaths_favored  : 82\npaths_found    : 277\npaths_imported : 0\nmax_depth      : 14\ncur_path       : 252\npending_favs   : 18\npending_total  : 163\nvariable_paths : 0\nbitmap_cvg     : 1.42%\nunique_crashes : 87\nunique_hangs   : 4\nlast_path      : 1499837380\nlast_crash     : 1499837487\nlast_hang      : 1499835153\nexec_timeout   : 40\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/AIS-Lite/input -o /dev/shm/work/AIS-Lite/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/AIS-Lite/AIS-Lite.dict -- data/linux/processed-challenges/AIS-Lite/bin/AIS-Lite\n'
+p119
+I9
+tp120
+a(I7200
+S'start_time     : 1499830521\nlast_update    : 1499837674\nfuzzer_pid     : 6827\ncycles_done    : 0\nexecs_done     : 7332200\nexecs_per_sec  : 1025.66\npaths_total    : 300\npaths_favored  : 82\npaths_found    : 299\npaths_imported : 0\nmax_depth      : 14\ncur_path       : 256\npending_favs   : 16\npending_total  : 183\nvariable_paths : 0\nbitmap_cvg     : 1.47%\nunique_crashes : 88\nunique_hangs   : 4\nlast_path      : 1499837657\nlast_crash     : 1499837649\nlast_hang      : 1499835153\nexec_timeout   : 40\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/AIS-Lite/input -o /dev/shm/work/AIS-Lite/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/AIS-Lite/AIS-Lite.dict -- data/linux/processed-challenges/AIS-Lite/bin/AIS-Lite\n'
+p121
+I16
+tp122
+a(I7320
+S'start_time     : 1499830521\nlast_update    : 1499837794\nfuzzer_pid     : 6827\ncycles_done    : 0\nexecs_done     : 7448210\nexecs_per_sec  : 977.57\npaths_total    : 303\npaths_favored  : 94\npaths_found    : 302\npaths_imported : 0\nmax_depth      : 14\ncur_path       : 262\npending_favs   : 28\npending_total  : 185\nvariable_paths : 0\nbitmap_cvg     : 1.48%\nunique_crashes : 90\nunique_hangs   : 4\nlast_path      : 1499837727\nlast_crash     : 1499837786\nlast_hang      : 1499835153\nexec_timeout   : 40\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/AIS-Lite/input -o /dev/shm/work/AIS-Lite/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/AIS-Lite/AIS-Lite.dict -- data/linux/processed-challenges/AIS-Lite/bin/AIS-Lite\n'
+p123
+I8
+tp124
+a(I7440
+S'start_time     : 1499830521\nlast_update    : 1499837915\nfuzzer_pid     : 6827\ncycles_done    : 0\nexecs_done     : 7561455\nexecs_per_sec  : 996.02\npaths_total    : 319\npaths_favored  : 94\npaths_found    : 318\npaths_imported : 0\nmax_depth      : 15\ncur_path       : 265\npending_favs   : 28\npending_total  : 200\nvariable_paths : 0\nbitmap_cvg     : 1.56%\nunique_crashes : 91\nunique_hangs   : 4\nlast_path      : 1499837879\nlast_crash     : 1499837914\nlast_hang      : 1499835153\nexec_timeout   : 40\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/AIS-Lite/input -o /dev/shm/work/AIS-Lite/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/AIS-Lite/AIS-Lite.dict -- data/linux/processed-challenges/AIS-Lite/bin/AIS-Lite\n'
+p125
+I12
+tp126
+a(I7560
+S'start_time     : 1499830521\nlast_update    : 1499838035\nfuzzer_pid     : 6827\ncycles_done    : 0\nexecs_done     : 7677629\nexecs_per_sec  : 1006.34\npaths_total    : 324\npaths_favored  : 107\npaths_found    : 323\npaths_imported : 0\nmax_depth      : 15\ncur_path       : 267\npending_favs   : 41\npending_total  : 204\nvariable_paths : 0\nbitmap_cvg     : 1.56%\nunique_crashes : 92\nunique_hangs   : 4\nlast_path      : 1499838015\nlast_crash     : 1499838005\nlast_hang      : 1499835153\nexec_timeout   : 40\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/AIS-Lite/input -o /dev/shm/work/AIS-Lite/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/AIS-Lite/AIS-Lite.dict -- data/linux/processed-challenges/AIS-Lite/bin/AIS-Lite\n'
+p127
+I2
+tp128
+a(I7680
+S'start_time     : 1499830521\nlast_update    : 1499838155\nfuzzer_pid     : 6827\ncycles_done    : 0\nexecs_done     : 7793671\nexecs_per_sec  : 973.87\npaths_total    : 327\npaths_favored  : 108\npaths_found    : 326\npaths_imported : 0\nmax_depth      : 15\ncur_path       : 268\npending_favs   : 42\npending_total  : 206\nvariable_paths : 0\nbitmap_cvg     : 1.56%\nunique_crashes : 92\nunique_hangs   : 4\nlast_path      : 1499838146\nlast_crash     : 1499838005\nlast_hang      : 1499835153\nexec_timeout   : 40\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/AIS-Lite/input -o /dev/shm/work/AIS-Lite/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/AIS-Lite/AIS-Lite.dict -- data/linux/processed-challenges/AIS-Lite/bin/AIS-Lite\n'
+p129
+I4
+tp130
+a(I7800
+S'start_time     : 1499830521\nlast_update    : 1499838275\nfuzzer_pid     : 6827\ncycles_done    : 0\nexecs_done     : 7910564\nexecs_per_sec  : 882.28\npaths_total    : 331\npaths_favored  : 108\npaths_found    : 330\npaths_imported : 0\nmax_depth      : 15\ncur_path       : 270\npending_favs   : 42\npending_total  : 209\nvariable_paths : 0\nbitmap_cvg     : 1.57%\nunique_crashes : 96\nunique_hangs   : 4\nlast_path      : 1499838256\nlast_crash     : 1499838255\nlast_hang      : 1499835153\nexec_timeout   : 40\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/AIS-Lite/input -o /dev/shm/work/AIS-Lite/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/AIS-Lite/AIS-Lite.dict -- data/linux/processed-challenges/AIS-Lite/bin/AIS-Lite\n'
+p131
+I7
+tp132
+a(I7920
+S'start_time     : 1499830521\nlast_update    : 1499838396\nfuzzer_pid     : 6827\ncycles_done    : 0\nexecs_done     : 8024958\nexecs_per_sec  : 1020.12\npaths_total    : 343\npaths_favored  : 108\npaths_found    : 342\npaths_imported : 0\nmax_depth      : 15\ncur_path       : 271\npending_favs   : 41\npending_total  : 220\nvariable_paths : 0\nbitmap_cvg     : 1.59%\nunique_crashes : 100\nunique_hangs   : 4\nlast_path      : 1499838382\nlast_crash     : 1499838363\nlast_hang      : 1499835153\nexec_timeout   : 40\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/AIS-Lite/input -o /dev/shm/work/AIS-Lite/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/AIS-Lite/AIS-Lite.dict -- data/linux/processed-challenges/AIS-Lite/bin/AIS-Lite\n'
+p133
+I10
+tp134
+a(I8040
+S'start_time     : 1499830521\nlast_update    : 1499838516\nfuzzer_pid     : 6827\ncycles_done    : 0\nexecs_done     : 8139054\nexecs_per_sec  : 985.04\npaths_total    : 350\npaths_favored  : 115\npaths_found    : 349\npaths_imported : 0\nmax_depth      : 15\ncur_path       : 272\npending_favs   : 48\npending_total  : 226\nvariable_paths : 0\nbitmap_cvg     : 1.63%\nunique_crashes : 101\nunique_hangs   : 4\nlast_path      : 1499838512\nlast_crash     : 1499838489\nlast_hang      : 1499835153\nexec_timeout   : 40\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/AIS-Lite/input -o /dev/shm/work/AIS-Lite/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/AIS-Lite/AIS-Lite.dict -- data/linux/processed-challenges/AIS-Lite/bin/AIS-Lite\n'
+p135
+I4
+tp136
+a(I8160
+S'start_time     : 1499830521\nlast_update    : 1499838636\nfuzzer_pid     : 6827\ncycles_done    : 0\nexecs_done     : 8259183\nexecs_per_sec  : 879.09\npaths_total    : 350\npaths_favored  : 116\npaths_found    : 349\npaths_imported : 0\nmax_depth      : 15\ncur_path       : 275\npending_favs   : 48\npending_total  : 224\nvariable_paths : 0\nbitmap_cvg     : 1.63%\nunique_crashes : 101\nunique_hangs   : 4\nlast_path      : 1499838512\nlast_crash     : 1499838489\nlast_hang      : 1499835153\nexec_timeout   : 40\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/AIS-Lite/input -o /dev/shm/work/AIS-Lite/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/AIS-Lite/AIS-Lite.dict -- data/linux/processed-challenges/AIS-Lite/bin/AIS-Lite\n'
+p137
+I0
+tp138
+a(I8280
+S'start_time     : 1499830521\nlast_update    : 1499838756\nfuzzer_pid     : 6827\ncycles_done    : 0\nexecs_done     : 8379518\nexecs_per_sec  : 1019.00\npaths_total    : 352\npaths_favored  : 116\npaths_found    : 351\npaths_imported : 0\nmax_depth      : 15\ncur_path       : 278\npending_favs   : 47\npending_total  : 225\nvariable_paths : 0\nbitmap_cvg     : 1.64%\nunique_crashes : 101\nunique_hangs   : 4\nlast_path      : 1499838714\nlast_crash     : 1499838489\nlast_hang      : 1499835153\nexec_timeout   : 40\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/AIS-Lite/input -o /dev/shm/work/AIS-Lite/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/AIS-Lite/AIS-Lite.dict -- data/linux/processed-challenges/AIS-Lite/bin/AIS-Lite\n'
+p139
+I2
+tp140
+a(I8400
+S'start_time     : 1499830521\nlast_update    : 1499838876\nfuzzer_pid     : 6827\ncycles_done    : 0\nexecs_done     : 8501920\nexecs_per_sec  : 1070.91\npaths_total    : 352\npaths_favored  : 117\npaths_found    : 351\npaths_imported : 0\nmax_depth      : 15\ncur_path       : 282\npending_favs   : 47\npending_total  : 223\nvariable_paths : 0\nbitmap_cvg     : 1.64%\nunique_crashes : 101\nunique_hangs   : 4\nlast_path      : 1499838714\nlast_crash     : 1499838489\nlast_hang      : 1499835153\nexec_timeout   : 40\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/AIS-Lite/input -o /dev/shm/work/AIS-Lite/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/AIS-Lite/AIS-Lite.dict -- data/linux/processed-challenges/AIS-Lite/bin/AIS-Lite\n'
+p141
+I0
+tp142
+a(I8520
+S'start_time     : 1499830521\nlast_update    : 1499838997\nfuzzer_pid     : 6827\ncycles_done    : 0\nexecs_done     : 8624902\nexecs_per_sec  : 1049.36\npaths_total    : 353\npaths_favored  : 117\npaths_found    : 352\npaths_imported : 0\nmax_depth      : 15\ncur_path       : 284\npending_favs   : 45\npending_total  : 222\nvariable_paths : 0\nbitmap_cvg     : 1.64%\nunique_crashes : 103\nunique_hangs   : 4\nlast_path      : 1499838990\nlast_crash     : 1499838996\nlast_hang      : 1499835153\nexec_timeout   : 40\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/AIS-Lite/input -o /dev/shm/work/AIS-Lite/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/AIS-Lite/AIS-Lite.dict -- data/linux/processed-challenges/AIS-Lite/bin/AIS-Lite\n'
+p143
+I1
+tp144
+a(I8640
+S'start_time     : 1499830521\nlast_update    : 1499839117\nfuzzer_pid     : 6827\ncycles_done    : 0\nexecs_done     : 8750373\nexecs_per_sec  : 1032.04\npaths_total    : 353\npaths_favored  : 117\npaths_found    : 352\npaths_imported : 0\nmax_depth      : 15\ncur_path       : 285\npending_favs   : 45\npending_total  : 221\nvariable_paths : 0\nbitmap_cvg     : 1.64%\nunique_crashes : 104\nunique_hangs   : 4\nlast_path      : 1499838990\nlast_crash     : 1499839014\nlast_hang      : 1499835153\nexec_timeout   : 40\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/AIS-Lite/input -o /dev/shm/work/AIS-Lite/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/AIS-Lite/AIS-Lite.dict -- data/linux/processed-challenges/AIS-Lite/bin/AIS-Lite\n'
+p145
+I1
+tp146
+a(I8760
+S'start_time     : 1499830521\nlast_update    : 1499839237\nfuzzer_pid     : 6827\ncycles_done    : 0\nexecs_done     : 8873163\nexecs_per_sec  : 1059.25\npaths_total    : 355\npaths_favored  : 118\npaths_found    : 354\npaths_imported : 0\nmax_depth      : 15\ncur_path       : 289\npending_favs   : 44\npending_total  : 221\nvariable_paths : 0\nbitmap_cvg     : 1.64%\nunique_crashes : 105\nunique_hangs   : 4\nlast_path      : 1499839214\nlast_crash     : 1499839173\nlast_hang      : 1499835153\nexec_timeout   : 40\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/AIS-Lite/input -o /dev/shm/work/AIS-Lite/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/AIS-Lite/AIS-Lite.dict -- data/linux/processed-challenges/AIS-Lite/bin/AIS-Lite\n'
+p147
+I1
+tp148
+a(I8880
+S'start_time     : 1499830521\nlast_update    : 1499839357\nfuzzer_pid     : 6827\ncycles_done    : 0\nexecs_done     : 8996117\nexecs_per_sec  : 1066.12\npaths_total    : 355\npaths_favored  : 118\npaths_found    : 354\npaths_imported : 0\nmax_depth      : 15\ncur_path       : 291\npending_favs   : 43\npending_total  : 219\nvariable_paths : 0\nbitmap_cvg     : 1.64%\nunique_crashes : 105\nunique_hangs   : 4\nlast_path      : 1499839214\nlast_crash     : 1499839173\nlast_hang      : 1499835153\nexec_timeout   : 40\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/AIS-Lite/input -o /dev/shm/work/AIS-Lite/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/AIS-Lite/AIS-Lite.dict -- data/linux/processed-challenges/AIS-Lite/bin/AIS-Lite\n'
+p149
+I0
+tp150
+a(I9000
+S'start_time     : 1499830521\nlast_update    : 1499839477\nfuzzer_pid     : 6827\ncycles_done    : 0\nexecs_done     : 9119674\nexecs_per_sec  : 1017.96\npaths_total    : 355\npaths_favored  : 118\npaths_found    : 354\npaths_imported : 0\nmax_depth      : 15\ncur_path       : 295\npending_favs   : 41\npending_total  : 217\nvariable_paths : 0\nbitmap_cvg     : 1.64%\nunique_crashes : 106\nunique_hangs   : 4\nlast_path      : 1499839214\nlast_crash     : 1499839413\nlast_hang      : 1499835153\nexec_timeout   : 40\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/AIS-Lite/input -o /dev/shm/work/AIS-Lite/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/AIS-Lite/AIS-Lite.dict -- data/linux/processed-challenges/AIS-Lite/bin/AIS-Lite\n'
+p151
+I0
+tp152
+a(I9120
+S'start_time     : 1499830521\nlast_update    : 1499839597\nfuzzer_pid     : 6827\ncycles_done    : 0\nexecs_done     : 9243066\nexecs_per_sec  : 972.91\npaths_total    : 355\npaths_favored  : 118\npaths_found    : 354\npaths_imported : 0\nmax_depth      : 15\ncur_path       : 298\npending_favs   : 39\npending_total  : 215\nvariable_paths : 0\nbitmap_cvg     : 1.64%\nunique_crashes : 107\nunique_hangs   : 4\nlast_path      : 1499839214\nlast_crash     : 1499839515\nlast_hang      : 1499835153\nexec_timeout   : 40\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/AIS-Lite/input -o /dev/shm/work/AIS-Lite/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/AIS-Lite/AIS-Lite.dict -- data/linux/processed-challenges/AIS-Lite/bin/AIS-Lite\n'
+p153
+I0
+tp154
+a(I9240
+S'start_time     : 1499830521\nlast_update    : 1499839718\nfuzzer_pid     : 6827\ncycles_done    : 0\nexecs_done     : 9367301\nexecs_per_sec  : 968.88\npaths_total    : 355\npaths_favored  : 118\npaths_found    : 354\npaths_imported : 0\nmax_depth      : 15\ncur_path       : 301\npending_favs   : 37\npending_total  : 213\nvariable_paths : 0\nbitmap_cvg     : 1.64%\nunique_crashes : 108\nunique_hangs   : 4\nlast_path      : 1499839214\nlast_crash     : 1499839686\nlast_hang      : 1499835153\nexec_timeout   : 40\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/AIS-Lite/input -o /dev/shm/work/AIS-Lite/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/AIS-Lite/AIS-Lite.dict -- data/linux/processed-challenges/AIS-Lite/bin/AIS-Lite\n'
+p155
+I0
+tp156
+a(I9360
+S'start_time     : 1499830521\nlast_update    : 1499839838\nfuzzer_pid     : 6827\ncycles_done    : 0\nexecs_done     : 9487398\nexecs_per_sec  : 877.82\npaths_total    : 355\npaths_favored  : 118\npaths_found    : 354\npaths_imported : 0\nmax_depth      : 15\ncur_path       : 304\npending_favs   : 35\npending_total  : 211\nvariable_paths : 0\nbitmap_cvg     : 1.64%\nunique_crashes : 108\nunique_hangs   : 4\nlast_path      : 1499839214\nlast_crash     : 1499839686\nlast_hang      : 1499835153\nexec_timeout   : 40\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/AIS-Lite/input -o /dev/shm/work/AIS-Lite/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/AIS-Lite/AIS-Lite.dict -- data/linux/processed-challenges/AIS-Lite/bin/AIS-Lite\n'
+p157
+I0
+tp158
+a(I9480
+S'start_time     : 1499830521\nlast_update    : 1499839958\nfuzzer_pid     : 6827\ncycles_done    : 0\nexecs_done     : 9600763\nexecs_per_sec  : 994.03\npaths_total    : 355\npaths_favored  : 118\npaths_found    : 354\npaths_imported : 0\nmax_depth      : 15\ncur_path       : 305\npending_favs   : 34\npending_total  : 210\nvariable_paths : 0\nbitmap_cvg     : 1.64%\nunique_crashes : 109\nunique_hangs   : 4\nlast_path      : 1499839214\nlast_crash     : 1499839875\nlast_hang      : 1499835153\nexec_timeout   : 40\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/AIS-Lite/input -o /dev/shm/work/AIS-Lite/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/AIS-Lite/AIS-Lite.dict -- data/linux/processed-challenges/AIS-Lite/bin/AIS-Lite\n'
+p159
+I1
+tp160
+a(I9600
+S'start_time     : 1499830521\nlast_update    : 1499840078\nfuzzer_pid     : 6827\ncycles_done    : 0\nexecs_done     : 9715159\nexecs_per_sec  : 984.30\npaths_total    : 356\npaths_favored  : 118\npaths_found    : 355\npaths_imported : 0\nmax_depth      : 16\ncur_path       : 306\npending_favs   : 34\npending_total  : 210\nvariable_paths : 0\nbitmap_cvg     : 1.66%\nunique_crashes : 110\nunique_hangs   : 4\nlast_path      : 1499839974\nlast_crash     : 1499839965\nlast_hang      : 1499835153\nexec_timeout   : 40\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/AIS-Lite/input -o /dev/shm/work/AIS-Lite/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/AIS-Lite/AIS-Lite.dict -- data/linux/processed-challenges/AIS-Lite/bin/AIS-Lite\n'
+p161
+I0
+tp162
+a(I9720
+S'start_time     : 1499830521\nlast_update    : 1499840198\nfuzzer_pid     : 6827\ncycles_done    : 0\nexecs_done     : 9828325\nexecs_per_sec  : 885.38\npaths_total    : 356\npaths_favored  : 118\npaths_found    : 355\npaths_imported : 0\nmax_depth      : 16\ncur_path       : 308\npending_favs   : 32\npending_total  : 208\nvariable_paths : 0\nbitmap_cvg     : 1.66%\nunique_crashes : 112\nunique_hangs   : 4\nlast_path      : 1499839974\nlast_crash     : 1499840154\nlast_hang      : 1499835153\nexec_timeout   : 40\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/AIS-Lite/input -o /dev/shm/work/AIS-Lite/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/AIS-Lite/AIS-Lite.dict -- data/linux/processed-challenges/AIS-Lite/bin/AIS-Lite\n'
+p163
+I0
+tp164
+a(I9840
+S'start_time     : 1499830521\nlast_update    : 1499840319\nfuzzer_pid     : 6827\ncycles_done    : 0\nexecs_done     : 9940572\nexecs_per_sec  : 1012.48\npaths_total    : 356\npaths_favored  : 118\npaths_found    : 355\npaths_imported : 0\nmax_depth      : 16\ncur_path       : 309\npending_favs   : 31\npending_total  : 207\nvariable_paths : 0\nbitmap_cvg     : 1.66%\nunique_crashes : 112\nunique_hangs   : 4\nlast_path      : 1499839974\nlast_crash     : 1499840154\nlast_hang      : 1499835153\nexec_timeout   : 40\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/AIS-Lite/input -o /dev/shm/work/AIS-Lite/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/AIS-Lite/AIS-Lite.dict -- data/linux/processed-challenges/AIS-Lite/bin/AIS-Lite\n'
+p165
+I0
+tp166
+a(I9960
+S'start_time     : 1499830521\nlast_update    : 1499840439\nfuzzer_pid     : 6827\ncycles_done    : 0\nexecs_done     : 10056208\nexecs_per_sec  : 1026.83\npaths_total    : 357\npaths_favored  : 118\npaths_found    : 356\npaths_imported : 0\nmax_depth      : 16\ncur_path       : 310\npending_favs   : 30\npending_total  : 207\nvariable_paths : 0\nbitmap_cvg     : 1.66%\nunique_crashes : 112\nunique_hangs   : 4\nlast_path      : 1499840399\nlast_crash     : 1499840154\nlast_hang      : 1499835153\nexec_timeout   : 40\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/AIS-Lite/input -o /dev/shm/work/AIS-Lite/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/AIS-Lite/AIS-Lite.dict -- data/linux/processed-challenges/AIS-Lite/bin/AIS-Lite\n'
+p167
+I1
+tp168
+a(I10080
+S'start_time     : 1499830521\nlast_update    : 1499840559\nfuzzer_pid     : 6827\ncycles_done    : 0\nexecs_done     : 10171048\nexecs_per_sec  : 1006.27\npaths_total    : 357\npaths_favored  : 118\npaths_found    : 356\npaths_imported : 0\nmax_depth      : 16\ncur_path       : 311\npending_favs   : 29\npending_total  : 206\nvariable_paths : 0\nbitmap_cvg     : 1.66%\nunique_crashes : 114\nunique_hangs   : 4\nlast_path      : 1499840399\nlast_crash     : 1499840551\nlast_hang      : 1499835153\nexec_timeout   : 40\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/AIS-Lite/input -o /dev/shm/work/AIS-Lite/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/AIS-Lite/AIS-Lite.dict -- data/linux/processed-challenges/AIS-Lite/bin/AIS-Lite\n'
+p169
+I0
+tp170
+a(I10200
+S'start_time     : 1499830521\nlast_update    : 1499840679\nfuzzer_pid     : 6827\ncycles_done    : 0\nexecs_done     : 10281685\nexecs_per_sec  : 948.63\npaths_total    : 358\npaths_favored  : 118\npaths_found    : 357\npaths_imported : 0\nmax_depth      : 16\ncur_path       : 314\npending_favs   : 27\npending_total  : 205\nvariable_paths : 0\nbitmap_cvg     : 1.66%\nunique_crashes : 115\nunique_hangs   : 4\nlast_path      : 1499840679\nlast_crash     : 1499840615\nlast_hang      : 1499835153\nexec_timeout   : 40\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/AIS-Lite/input -o /dev/shm/work/AIS-Lite/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/AIS-Lite/AIS-Lite.dict -- data/linux/processed-challenges/AIS-Lite/bin/AIS-Lite\n'
+p171
+I2
+tp172
+a(I10320
+S'start_time     : 1499830521\nlast_update    : 1499840800\nfuzzer_pid     : 6827\ncycles_done    : 0\nexecs_done     : 10396561\nexecs_per_sec  : 860.80\npaths_total    : 359\npaths_favored  : 117\npaths_found    : 358\npaths_imported : 0\nmax_depth      : 16\ncur_path       : 315\npending_favs   : 27\npending_total  : 205\nvariable_paths : 0\nbitmap_cvg     : 1.67%\nunique_crashes : 117\nunique_hangs   : 4\nlast_path      : 1499840724\nlast_crash     : 1499840751\nlast_hang      : 1499835153\nexec_timeout   : 40\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/AIS-Lite/input -o /dev/shm/work/AIS-Lite/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/AIS-Lite/AIS-Lite.dict -- data/linux/processed-challenges/AIS-Lite/bin/AIS-Lite\n'
+p173
+I0
+tp174
+a(I10440
+S'start_time     : 1499830521\nlast_update    : 1499840920\nfuzzer_pid     : 6827\ncycles_done    : 0\nexecs_done     : 10510767\nexecs_per_sec  : 1000.84\npaths_total    : 359\npaths_favored  : 117\npaths_found    : 358\npaths_imported : 0\nmax_depth      : 16\ncur_path       : 316\npending_favs   : 26\npending_total  : 204\nvariable_paths : 0\nbitmap_cvg     : 1.67%\nunique_crashes : 118\nunique_hangs   : 4\nlast_path      : 1499840724\nlast_crash     : 1499840808\nlast_hang      : 1499835153\nexec_timeout   : 40\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/AIS-Lite/input -o /dev/shm/work/AIS-Lite/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/AIS-Lite/AIS-Lite.dict -- data/linux/processed-challenges/AIS-Lite/bin/AIS-Lite\n'
+p175
+I0
+tp176
+a(I10560
+S'start_time     : 1499830521\nlast_update    : 1499841040\nfuzzer_pid     : 6827\ncycles_done    : 0\nexecs_done     : 10623123\nexecs_per_sec  : 883.68\npaths_total    : 359\npaths_favored  : 117\npaths_found    : 358\npaths_imported : 0\nmax_depth      : 16\ncur_path       : 319\npending_favs   : 24\npending_total  : 202\nvariable_paths : 0\nbitmap_cvg     : 1.67%\nunique_crashes : 119\nunique_hangs   : 4\nlast_path      : 1499840724\nlast_crash     : 1499840992\nlast_hang      : 1499835153\nexec_timeout   : 40\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/AIS-Lite/input -o /dev/shm/work/AIS-Lite/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/AIS-Lite/AIS-Lite.dict -- data/linux/processed-challenges/AIS-Lite/bin/AIS-Lite\n'
+p177
+I0
+tp178
+a(I10680
+S'start_time     : 1499830521\nlast_update    : 1499841160\nfuzzer_pid     : 6827\ncycles_done    : 0\nexecs_done     : 10738150\nexecs_per_sec  : 987.08\npaths_total    : 360\npaths_favored  : 117\npaths_found    : 359\npaths_imported : 0\nmax_depth      : 16\ncur_path       : 320\npending_favs   : 23\npending_total  : 202\nvariable_paths : 0\nbitmap_cvg     : 1.67%\nunique_crashes : 119\nunique_hangs   : 5\nlast_path      : 1499841136\nlast_crash     : 1499840992\nlast_hang      : 1499841154\nexec_timeout   : 40\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/AIS-Lite/input -o /dev/shm/work/AIS-Lite/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/AIS-Lite/AIS-Lite.dict -- data/linux/processed-challenges/AIS-Lite/bin/AIS-Lite\n'
+p179
+I1
+tp180
+a.

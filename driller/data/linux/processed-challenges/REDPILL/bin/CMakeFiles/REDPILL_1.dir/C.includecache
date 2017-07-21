@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/libcgc.h
+
+../processed-challenges/REDPILL/cb_1/lib/libc.h
+
+/vagrant/driller/data/linux/processed-challenges/REDPILL/cb_1/lib/libc.c
+libcgc.h
+-
+libc.h
+/vagrant/driller/data/linux/processed-challenges/REDPILL/cb_1/lib/libc.h
+
+/vagrant/driller/data/linux/processed-challenges/REDPILL/cb_1/lib/libc.h
+
+/vagrant/driller/data/linux/processed-challenges/REDPILL/cb_1/src/kernel.c
+libcgc.h
+-
+libc.h
+/vagrant/driller/data/linux/processed-challenges/REDPILL/cb_1/src/libc.h
+kernel.h
+/vagrant/driller/data/linux/processed-challenges/REDPILL/cb_1/src/kernel.h
+
+/vagrant/driller/data/linux/processed-challenges/REDPILL/cb_1/src/kernel.h
+libcgc.h
+-
+libc.h
+/vagrant/driller/data/linux/processed-challenges/REDPILL/cb_1/src/libc.h
+

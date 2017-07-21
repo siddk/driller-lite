@@ -1,0 +1,452 @@
+(lp0
+(I0
+S'start_time     : 1500274173\nlast_update    : 1500274173\nfuzzer_pid     : 30931\ncycles_done    : 0\nexecs_done     : 10\nexecs_per_sec  : 212.77\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 1\npending_total  : 1\nvariable_paths : 0\nbitmap_cvg     : 0.10%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/reallystream/input -o /dev/shm/work/reallystream/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/reallystream/reallystream.dict -- data/linux/processed-challenges/reallystream/bin/reallystream\n'
+p1
+I10
+tp2
+a(I120
+S'start_time     : 1500274173\nlast_update    : 1500274293\nfuzzer_pid     : 30931\ncycles_done    : 0\nexecs_done     : 97701\nexecs_per_sec  : 817.79\npaths_total    : 17\npaths_favored  : 1\npaths_found    : 16\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 1\npending_total  : 17\nvariable_paths : 0\nbitmap_cvg     : 0.17%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500274250\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/reallystream/input -o /dev/shm/work/reallystream/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/reallystream/reallystream.dict -- data/linux/processed-challenges/reallystream/bin/reallystream\n'
+p3
+I7
+tp4
+a(I240
+S'start_time     : 1500274173\nlast_update    : 1500274413\nfuzzer_pid     : 30931\ncycles_done    : 0\nexecs_done     : 194322\nexecs_per_sec  : 794.57\npaths_total    : 27\npaths_favored  : 9\npaths_found    : 26\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 16\npending_favs   : 7\npending_total  : 24\nvariable_paths : 0\nbitmap_cvg     : 0.28%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500274407\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/reallystream/input -o /dev/shm/work/reallystream/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/reallystream/reallystream.dict -- data/linux/processed-challenges/reallystream/bin/reallystream\n'
+p5
+I10
+tp6
+a(I360
+S'start_time     : 1500274173\nlast_update    : 1500274534\nfuzzer_pid     : 30931\ncycles_done    : 0\nexecs_done     : 286053\nexecs_per_sec  : 754.81\npaths_total    : 43\npaths_favored  : 15\npaths_found    : 42\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 21\npending_favs   : 10\npending_total  : 37\nvariable_paths : 0\nbitmap_cvg     : 0.42%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500274492\nlast_crash     : 0\nlast_hang      : 1500274467\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/reallystream/input -o /dev/shm/work/reallystream/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/reallystream/reallystream.dict -- data/linux/processed-challenges/reallystream/bin/reallystream\n'
+p7
+I16
+tp8
+a(I480
+S'start_time     : 1500274173\nlast_update    : 1500274654\nfuzzer_pid     : 30931\ncycles_done    : 0\nexecs_done     : 377077\nexecs_per_sec  : 737.98\npaths_total    : 46\npaths_favored  : 15\npaths_found    : 45\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 21\npending_favs   : 10\npending_total  : 40\nvariable_paths : 0\nbitmap_cvg     : 0.43%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500274633\nlast_crash     : 0\nlast_hang      : 1500274467\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/reallystream/input -o /dev/shm/work/reallystream/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/reallystream/reallystream.dict -- data/linux/processed-challenges/reallystream/bin/reallystream\n'
+p9
+I4
+tp10
+a(I600
+S'start_time     : 1500274173\nlast_update    : 1500274774\nfuzzer_pid     : 30931\ncycles_done    : 0\nexecs_done     : 468762\nexecs_per_sec  : 797.83\npaths_total    : 50\npaths_favored  : 24\npaths_found    : 49\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 29\npending_favs   : 14\npending_total  : 38\nvariable_paths : 0\nbitmap_cvg     : 0.44%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500274757\nlast_crash     : 0\nlast_hang      : 1500274467\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/reallystream/input -o /dev/shm/work/reallystream/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/reallystream/reallystream.dict -- data/linux/processed-challenges/reallystream/bin/reallystream\n'
+p11
+I3
+tp12
+a(I720
+S'start_time     : 1500274173\nlast_update    : 1500274894\nfuzzer_pid     : 30931\ncycles_done    : 0\nexecs_done     : 559917\nexecs_per_sec  : 746.19\npaths_total    : 51\npaths_favored  : 25\npaths_found    : 50\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 38\npending_favs   : 10\npending_total  : 33\nvariable_paths : 0\nbitmap_cvg     : 0.50%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500274782\nlast_crash     : 0\nlast_hang      : 1500274467\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/reallystream/input -o /dev/shm/work/reallystream/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/reallystream/reallystream.dict -- data/linux/processed-challenges/reallystream/bin/reallystream\n'
+p13
+I3
+tp14
+a(I840
+S'start_time     : 1500274173\nlast_update    : 1500275014\nfuzzer_pid     : 30931\ncycles_done    : 0\nexecs_done     : 650699\nexecs_per_sec  : 793.98\npaths_total    : 71\npaths_favored  : 25\npaths_found    : 70\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 39\npending_favs   : 9\npending_total  : 52\nvariable_paths : 0\nbitmap_cvg     : 0.51%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500274989\nlast_crash     : 0\nlast_hang      : 1500274912\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/reallystream/input -o /dev/shm/work/reallystream/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/reallystream/reallystream.dict -- data/linux/processed-challenges/reallystream/bin/reallystream\n'
+p15
+I18
+tp16
+a(I960
+S'start_time     : 1500274173\nlast_update    : 1500275135\nfuzzer_pid     : 30931\ncycles_done    : 0\nexecs_done     : 744433\nexecs_per_sec  : 775.86\npaths_total    : 74\npaths_favored  : 28\npaths_found    : 73\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 45\npending_favs   : 13\npending_total  : 54\nvariable_paths : 0\nbitmap_cvg     : 0.51%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500275128\nlast_crash     : 0\nlast_hang      : 1500275129\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/reallystream/input -o /dev/shm/work/reallystream/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/reallystream/reallystream.dict -- data/linux/processed-challenges/reallystream/bin/reallystream\n'
+p17
+I3
+tp18
+a(I1080
+S'start_time     : 1500274173\nlast_update    : 1500275255\nfuzzer_pid     : 30931\ncycles_done    : 0\nexecs_done     : 837715\nexecs_per_sec  : 793.15\npaths_total    : 89\npaths_favored  : 28\npaths_found    : 88\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 48\npending_favs   : 12\npending_total  : 67\nvariable_paths : 0\nbitmap_cvg     : 0.56%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500275218\nlast_crash     : 0\nlast_hang      : 1500275129\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/reallystream/input -o /dev/shm/work/reallystream/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/reallystream/reallystream.dict -- data/linux/processed-challenges/reallystream/bin/reallystream\n'
+p19
+I15
+tp20
+a(I1200
+S'start_time     : 1500274173\nlast_update    : 1500275375\nfuzzer_pid     : 30931\ncycles_done    : 0\nexecs_done     : 932167\nexecs_per_sec  : 759.13\npaths_total    : 94\npaths_favored  : 40\npaths_found    : 92\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 49\npending_favs   : 24\npending_total  : 71\nvariable_paths : 0\nbitmap_cvg     : 0.56%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500275375\nlast_crash     : 0\nlast_hang      : 1500275336\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/reallystream/input -o /dev/shm/work/reallystream/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/reallystream/reallystream.dict -- data/linux/processed-challenges/reallystream/bin/reallystream\n'
+p21
+I6
+tp22
+a(I1320
+S'start_time     : 1500274173\nlast_update    : 1500275495\nfuzzer_pid     : 30931\ncycles_done    : 0\nexecs_done     : 1025364\nexecs_per_sec  : 787.84\npaths_total    : 99\npaths_favored  : 40\npaths_found    : 98\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 49\npending_favs   : 24\npending_total  : 76\nvariable_paths : 0\nbitmap_cvg     : 0.56%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500275422\nlast_crash     : 0\nlast_hang      : 1500275336\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/reallystream/input -o /dev/shm/work/reallystream/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/reallystream/reallystream.dict -- data/linux/processed-challenges/reallystream/bin/reallystream\n'
+p23
+I4
+tp24
+a(I1440
+S'start_time     : 1500274173\nlast_update    : 1500275615\nfuzzer_pid     : 30931\ncycles_done    : 0\nexecs_done     : 1117023\nexecs_per_sec  : 760.05\npaths_total    : 104\npaths_favored  : 43\npaths_found    : 103\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 50\npending_favs   : 27\npending_total  : 80\nvariable_paths : 0\nbitmap_cvg     : 0.57%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500275603\nlast_crash     : 0\nlast_hang      : 1500275336\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/reallystream/input -o /dev/shm/work/reallystream/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/reallystream/reallystream.dict -- data/linux/processed-challenges/reallystream/bin/reallystream\n'
+p25
+I5
+tp26
+a(I1560
+S'start_time     : 1500274173\nlast_update    : 1500275735\nfuzzer_pid     : 30931\ncycles_done    : 0\nexecs_done     : 1205465\nexecs_per_sec  : 748.09\npaths_total    : 112\npaths_favored  : 47\npaths_found    : 111\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 57\npending_favs   : 28\npending_total  : 85\nvariable_paths : 0\nbitmap_cvg     : 0.57%\nunique_crashes : 0\nunique_hangs   : 7\nlast_path      : 1500275730\nlast_crash     : 0\nlast_hang      : 1500275700\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/reallystream/input -o /dev/shm/work/reallystream/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/reallystream/reallystream.dict -- data/linux/processed-challenges/reallystream/bin/reallystream\n'
+p27
+I8
+tp28
+a(I1680
+S'start_time     : 1500274173\nlast_update    : 1500275856\nfuzzer_pid     : 30931\ncycles_done    : 0\nexecs_done     : 1295912\nexecs_per_sec  : 738.72\npaths_total    : 114\npaths_favored  : 47\npaths_found    : 113\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 57\npending_favs   : 28\npending_total  : 87\nvariable_paths : 0\nbitmap_cvg     : 0.58%\nunique_crashes : 0\nunique_hangs   : 7\nlast_path      : 1500275831\nlast_crash     : 0\nlast_hang      : 1500275700\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/reallystream/input -o /dev/shm/work/reallystream/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/reallystream/reallystream.dict -- data/linux/processed-challenges/reallystream/bin/reallystream\n'
+p29
+I2
+tp30
+a(I1800
+S'start_time     : 1500274173\nlast_update    : 1500275976\nfuzzer_pid     : 30931\ncycles_done    : 0\nexecs_done     : 1386361\nexecs_per_sec  : 769.67\npaths_total    : 117\npaths_favored  : 48\npaths_found    : 116\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 61\npending_favs   : 30\npending_total  : 89\nvariable_paths : 0\nbitmap_cvg     : 0.58%\nunique_crashes : 0\nunique_hangs   : 8\nlast_path      : 1500275963\nlast_crash     : 0\nlast_hang      : 1500275931\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/reallystream/input -o /dev/shm/work/reallystream/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/reallystream/reallystream.dict -- data/linux/processed-challenges/reallystream/bin/reallystream\n'
+p31
+I3
+tp32
+a(I1920
+S'start_time     : 1500274173\nlast_update    : 1500276096\nfuzzer_pid     : 30931\ncycles_done    : 0\nexecs_done     : 1475209\nexecs_per_sec  : 702.22\npaths_total    : 117\npaths_favored  : 48\npaths_found    : 116\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 67\npending_favs   : 28\npending_total  : 87\nvariable_paths : 0\nbitmap_cvg     : 0.58%\nunique_crashes : 0\nunique_hangs   : 12\nlast_path      : 1500275963\nlast_crash     : 0\nlast_hang      : 1500276092\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/reallystream/input -o /dev/shm/work/reallystream/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/reallystream/reallystream.dict -- data/linux/processed-challenges/reallystream/bin/reallystream\n'
+p33
+I0
+tp34
+a(I2040
+S'start_time     : 1500274173\nlast_update    : 1500276216\nfuzzer_pid     : 30931\ncycles_done    : 0\nexecs_done     : 1565917\nexecs_per_sec  : 743.28\npaths_total    : 120\npaths_favored  : 48\npaths_found    : 119\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 75\npending_favs   : 26\npending_total  : 87\nvariable_paths : 0\nbitmap_cvg     : 0.58%\nunique_crashes : 0\nunique_hangs   : 13\nlast_path      : 1500276215\nlast_crash     : 0\nlast_hang      : 1500276102\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/reallystream/input -o /dev/shm/work/reallystream/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/reallystream/reallystream.dict -- data/linux/processed-challenges/reallystream/bin/reallystream\n'
+p35
+I3
+tp36
+a(I2160
+S'start_time     : 1500274173\nlast_update    : 1500276336\nfuzzer_pid     : 30931\ncycles_done    : 0\nexecs_done     : 1657659\nexecs_per_sec  : 753.56\npaths_total    : 125\npaths_favored  : 50\npaths_found    : 124\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 80\npending_favs   : 24\npending_total  : 87\nvariable_paths : 0\nbitmap_cvg     : 0.58%\nunique_crashes : 0\nunique_hangs   : 13\nlast_path      : 1500276298\nlast_crash     : 0\nlast_hang      : 1500276102\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/reallystream/input -o /dev/shm/work/reallystream/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/reallystream/reallystream.dict -- data/linux/processed-challenges/reallystream/bin/reallystream\n'
+p37
+I5
+tp38
+a(I2280
+S'start_time     : 1500274173\nlast_update    : 1500276457\nfuzzer_pid     : 30931\ncycles_done    : 0\nexecs_done     : 1747328\nexecs_per_sec  : 771.80\npaths_total    : 127\npaths_favored  : 51\npaths_found    : 126\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 87\npending_favs   : 21\npending_total  : 84\nvariable_paths : 0\nbitmap_cvg     : 0.60%\nunique_crashes : 0\nunique_hangs   : 13\nlast_path      : 1500276409\nlast_crash     : 0\nlast_hang      : 1500276102\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/reallystream/input -o /dev/shm/work/reallystream/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/reallystream/reallystream.dict -- data/linux/processed-challenges/reallystream/bin/reallystream\n'
+p39
+I2
+tp40
+a(I2400
+S'start_time     : 1500274173\nlast_update    : 1500276577\nfuzzer_pid     : 30931\ncycles_done    : 0\nexecs_done     : 1837942\nexecs_per_sec  : 780.43\npaths_total    : 128\npaths_favored  : 51\npaths_found    : 127\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 97\npending_favs   : 16\npending_total  : 80\nvariable_paths : 0\nbitmap_cvg     : 0.60%\nunique_crashes : 0\nunique_hangs   : 14\nlast_path      : 1500276524\nlast_crash     : 0\nlast_hang      : 1500276565\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/reallystream/input -o /dev/shm/work/reallystream/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/reallystream/reallystream.dict -- data/linux/processed-challenges/reallystream/bin/reallystream\n'
+p41
+I1
+tp42
+a(I2520
+S'start_time     : 1500274173\nlast_update    : 1500276697\nfuzzer_pid     : 30931\ncycles_done    : 0\nexecs_done     : 1928361\nexecs_per_sec  : 754.85\npaths_total    : 130\npaths_favored  : 51\npaths_found    : 129\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 106\npending_favs   : 13\npending_total  : 79\nvariable_paths : 0\nbitmap_cvg     : 0.60%\nunique_crashes : 0\nunique_hangs   : 16\nlast_path      : 1500276665\nlast_crash     : 0\nlast_hang      : 1500276643\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/reallystream/input -o /dev/shm/work/reallystream/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/reallystream/reallystream.dict -- data/linux/processed-challenges/reallystream/bin/reallystream\n'
+p43
+I2
+tp44
+a(I2640
+S'start_time     : 1500274173\nlast_update    : 1500276817\nfuzzer_pid     : 30931\ncycles_done    : 0\nexecs_done     : 2013537\nexecs_per_sec  : 717.05\npaths_total    : 130\npaths_favored  : 51\npaths_found    : 129\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 117\npending_favs   : 10\npending_total  : 76\nvariable_paths : 0\nbitmap_cvg     : 0.60%\nunique_crashes : 0\nunique_hangs   : 18\nlast_path      : 1500276665\nlast_crash     : 0\nlast_hang      : 1500276802\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/reallystream/input -o /dev/shm/work/reallystream/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/reallystream/reallystream.dict -- data/linux/processed-challenges/reallystream/bin/reallystream\n'
+p45
+I1
+tp46
+a(I2760
+S'start_time     : 1500274173\nlast_update    : 1500276937\nfuzzer_pid     : 30931\ncycles_done    : 0\nexecs_done     : 2106316\nexecs_per_sec  : 779.05\npaths_total    : 135\npaths_favored  : 51\npaths_found    : 134\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 120\npending_favs   : 8\npending_total  : 78\nvariable_paths : 0\nbitmap_cvg     : 0.60%\nunique_crashes : 0\nunique_hangs   : 18\nlast_path      : 1500276913\nlast_crash     : 0\nlast_hang      : 1500276802\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/reallystream/input -o /dev/shm/work/reallystream/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/reallystream/reallystream.dict -- data/linux/processed-challenges/reallystream/bin/reallystream\n'
+p47
+I4
+tp48
+a(I2880
+S'start_time     : 1500274173\nlast_update    : 1500277057\nfuzzer_pid     : 30931\ncycles_done    : 0\nexecs_done     : 2195768\nexecs_per_sec  : 742.78\npaths_total    : 147\npaths_favored  : 51\npaths_found    : 146\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 126\npending_favs   : 4\npending_total  : 86\nvariable_paths : 0\nbitmap_cvg     : 0.68%\nunique_crashes : 0\nunique_hangs   : 18\nlast_path      : 1500277042\nlast_crash     : 0\nlast_hang      : 1500276802\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/reallystream/input -o /dev/shm/work/reallystream/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/reallystream/reallystream.dict -- data/linux/processed-challenges/reallystream/bin/reallystream\n'
+p49
+I12
+tp50
+a(I3000
+S'start_time     : 1500274173\nlast_update    : 1500277177\nfuzzer_pid     : 30931\ncycles_done    : 0\nexecs_done     : 2285697\nexecs_per_sec  : 779.46\npaths_total    : 152\npaths_favored  : 55\npaths_found    : 151\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 127\npending_favs   : 13\npending_total  : 90\nvariable_paths : 0\nbitmap_cvg     : 0.69%\nunique_crashes : 0\nunique_hangs   : 18\nlast_path      : 1500277169\nlast_crash     : 0\nlast_hang      : 1500276802\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/reallystream/input -o /dev/shm/work/reallystream/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/reallystream/reallystream.dict -- data/linux/processed-challenges/reallystream/bin/reallystream\n'
+p51
+I5
+tp52
+a(I3120
+S'start_time     : 1500274173\nlast_update    : 1500277298\nfuzzer_pid     : 30931\ncycles_done    : 0\nexecs_done     : 2372772\nexecs_per_sec  : 684.31\npaths_total    : 154\npaths_favored  : 55\npaths_found    : 153\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 135\npending_favs   : 11\npending_total  : 90\nvariable_paths : 0\nbitmap_cvg     : 0.69%\nunique_crashes : 0\nunique_hangs   : 18\nlast_path      : 1500277291\nlast_crash     : 0\nlast_hang      : 1500276802\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/reallystream/input -o /dev/shm/work/reallystream/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/reallystream/reallystream.dict -- data/linux/processed-challenges/reallystream/bin/reallystream\n'
+p53
+I2
+tp54
+a(I3240
+S'start_time     : 1500274173\nlast_update    : 1500277418\nfuzzer_pid     : 30931\ncycles_done    : 0\nexecs_done     : 2462187\nexecs_per_sec  : 768.78\npaths_total    : 156\npaths_favored  : 54\npaths_found    : 155\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 137\npending_favs   : 10\npending_total  : 91\nvariable_paths : 0\nbitmap_cvg     : 0.71%\nunique_crashes : 0\nunique_hangs   : 18\nlast_path      : 1500277365\nlast_crash     : 0\nlast_hang      : 1500276802\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/reallystream/input -o /dev/shm/work/reallystream/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/reallystream/reallystream.dict -- data/linux/processed-challenges/reallystream/bin/reallystream\n'
+p55
+I2
+tp56
+a(I3360
+S'start_time     : 1500274173\nlast_update    : 1500277538\nfuzzer_pid     : 30931\ncycles_done    : 0\nexecs_done     : 2552505\nexecs_per_sec  : 750.65\npaths_total    : 160\npaths_favored  : 54\npaths_found    : 159\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 138\npending_favs   : 10\npending_total  : 94\nvariable_paths : 0\nbitmap_cvg     : 0.71%\nunique_crashes : 0\nunique_hangs   : 18\nlast_path      : 1500277537\nlast_crash     : 0\nlast_hang      : 1500276802\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/reallystream/input -o /dev/shm/work/reallystream/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/reallystream/reallystream.dict -- data/linux/processed-challenges/reallystream/bin/reallystream\n'
+p57
+I4
+tp58
+a(I3480
+S'start_time     : 1500274173\nlast_update    : 1500277658\nfuzzer_pid     : 30931\ncycles_done    : 0\nexecs_done     : 2641653\nexecs_per_sec  : 739.00\npaths_total    : 162\npaths_favored  : 57\npaths_found    : 161\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 139\npending_favs   : 13\npending_total  : 95\nvariable_paths : 0\nbitmap_cvg     : 0.72%\nunique_crashes : 0\nunique_hangs   : 18\nlast_path      : 1500277619\nlast_crash     : 0\nlast_hang      : 1500276802\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/reallystream/input -o /dev/shm/work/reallystream/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/reallystream/reallystream.dict -- data/linux/processed-challenges/reallystream/bin/reallystream\n'
+p59
+I2
+tp60
+a(I3600
+S'start_time     : 1500274173\nlast_update    : 1500277778\nfuzzer_pid     : 30931\ncycles_done    : 0\nexecs_done     : 2730499\nexecs_per_sec  : 757.98\npaths_total    : 164\npaths_favored  : 59\npaths_found    : 163\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 141\npending_favs   : 14\npending_total  : 96\nvariable_paths : 0\nbitmap_cvg     : 0.72%\nunique_crashes : 0\nunique_hangs   : 18\nlast_path      : 1500277709\nlast_crash     : 0\nlast_hang      : 1500276802\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/reallystream/input -o /dev/shm/work/reallystream/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/reallystream/reallystream.dict -- data/linux/processed-challenges/reallystream/bin/reallystream\n'
+p61
+I2
+tp62
+a(I3720
+S'start_time     : 1500274173\nlast_update    : 1500277898\nfuzzer_pid     : 30931\ncycles_done    : 0\nexecs_done     : 2818884\nexecs_per_sec  : 755.21\npaths_total    : 165\npaths_favored  : 60\npaths_found    : 164\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 142\npending_favs   : 14\npending_total  : 96\nvariable_paths : 0\nbitmap_cvg     : 0.72%\nunique_crashes : 0\nunique_hangs   : 18\nlast_path      : 1500277840\nlast_crash     : 0\nlast_hang      : 1500276802\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/reallystream/input -o /dev/shm/work/reallystream/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/reallystream/reallystream.dict -- data/linux/processed-challenges/reallystream/bin/reallystream\n'
+p63
+I1
+tp64
+a(I3840
+S'start_time     : 1500274173\nlast_update    : 1500278019\nfuzzer_pid     : 30931\ncycles_done    : 0\nexecs_done     : 2906524\nexecs_per_sec  : 734.20\npaths_total    : 176\npaths_favored  : 60\npaths_found    : 175\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 143\npending_favs   : 13\npending_total  : 106\nvariable_paths : 0\nbitmap_cvg     : 0.74%\nunique_crashes : 0\nunique_hangs   : 18\nlast_path      : 1500277985\nlast_crash     : 0\nlast_hang      : 1500276802\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/reallystream/input -o /dev/shm/work/reallystream/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/reallystream/reallystream.dict -- data/linux/processed-challenges/reallystream/bin/reallystream\n'
+p65
+I11
+tp66
+a(I3960
+S'start_time     : 1500274173\nlast_update    : 1500278139\nfuzzer_pid     : 30931\ncycles_done    : 0\nexecs_done     : 2994384\nexecs_per_sec  : 744.58\npaths_total    : 178\npaths_favored  : 63\npaths_found    : 177\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 144\npending_favs   : 17\npending_total  : 107\nvariable_paths : 0\nbitmap_cvg     : 0.74%\nunique_crashes : 0\nunique_hangs   : 18\nlast_path      : 1500278038\nlast_crash     : 0\nlast_hang      : 1500276802\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/reallystream/input -o /dev/shm/work/reallystream/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/reallystream/reallystream.dict -- data/linux/processed-challenges/reallystream/bin/reallystream\n'
+p67
+I2
+tp68
+a(I4080
+S'start_time     : 1500274173\nlast_update    : 1500278259\nfuzzer_pid     : 30931\ncycles_done    : 0\nexecs_done     : 3078955\nexecs_per_sec  : 725.68\npaths_total    : 181\npaths_favored  : 63\npaths_found    : 180\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 149\npending_favs   : 15\npending_total  : 108\nvariable_paths : 0\nbitmap_cvg     : 0.75%\nunique_crashes : 0\nunique_hangs   : 18\nlast_path      : 1500278255\nlast_crash     : 0\nlast_hang      : 1500276802\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/reallystream/input -o /dev/shm/work/reallystream/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/reallystream/reallystream.dict -- data/linux/processed-challenges/reallystream/bin/reallystream\n'
+p69
+I4
+tp70
+a(I4200
+S'start_time     : 1500274173\nlast_update    : 1500278379\nfuzzer_pid     : 30931\ncycles_done    : 0\nexecs_done     : 3166639\nexecs_per_sec  : 754.44\npaths_total    : 184\npaths_favored  : 63\npaths_found    : 183\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 149\npending_favs   : 15\npending_total  : 111\nvariable_paths : 0\nbitmap_cvg     : 0.75%\nunique_crashes : 0\nunique_hangs   : 18\nlast_path      : 1500278286\nlast_crash     : 0\nlast_hang      : 1500276802\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/reallystream/input -o /dev/shm/work/reallystream/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/reallystream/reallystream.dict -- data/linux/processed-challenges/reallystream/bin/reallystream\n'
+p71
+I2
+tp72
+a(I4320
+S'start_time     : 1500274173\nlast_update    : 1500278499\nfuzzer_pid     : 30931\ncycles_done    : 0\nexecs_done     : 3257014\nexecs_per_sec  : 700.28\npaths_total    : 186\npaths_favored  : 67\npaths_found    : 185\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 159\npending_favs   : 19\npending_total  : 111\nvariable_paths : 0\nbitmap_cvg     : 0.75%\nunique_crashes : 0\nunique_hangs   : 18\nlast_path      : 1500278445\nlast_crash     : 0\nlast_hang      : 1500276802\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/reallystream/input -o /dev/shm/work/reallystream/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/reallystream/reallystream.dict -- data/linux/processed-challenges/reallystream/bin/reallystream\n'
+p73
+I2
+tp74
+a(I4440
+S'start_time     : 1500274173\nlast_update    : 1500278620\nfuzzer_pid     : 30931\ncycles_done    : 0\nexecs_done     : 3343792\nexecs_per_sec  : 731.70\npaths_total    : 188\npaths_favored  : 67\npaths_found    : 187\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 159\npending_favs   : 19\npending_total  : 113\nvariable_paths : 0\nbitmap_cvg     : 0.75%\nunique_crashes : 0\nunique_hangs   : 18\nlast_path      : 1500278594\nlast_crash     : 0\nlast_hang      : 1500276802\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/reallystream/input -o /dev/shm/work/reallystream/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/reallystream/reallystream.dict -- data/linux/processed-challenges/reallystream/bin/reallystream\n'
+p75
+I2
+tp76
+a(I4560
+S'start_time     : 1500274173\nlast_update    : 1500278740\nfuzzer_pid     : 30931\ncycles_done    : 0\nexecs_done     : 3432901\nexecs_per_sec  : 751.44\npaths_total    : 191\npaths_favored  : 68\npaths_found    : 190\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 160\npending_favs   : 19\npending_total  : 115\nvariable_paths : 0\nbitmap_cvg     : 0.75%\nunique_crashes : 0\nunique_hangs   : 18\nlast_path      : 1500278727\nlast_crash     : 0\nlast_hang      : 1500276802\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/reallystream/input -o /dev/shm/work/reallystream/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/reallystream/reallystream.dict -- data/linux/processed-challenges/reallystream/bin/reallystream\n'
+p77
+I4
+tp78
+a(I4680
+S'start_time     : 1500274173\nlast_update    : 1500278860\nfuzzer_pid     : 30931\ncycles_done    : 0\nexecs_done     : 3519480\nexecs_per_sec  : 712.62\npaths_total    : 193\npaths_favored  : 69\npaths_found    : 192\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 161\npending_favs   : 19\npending_total  : 116\nvariable_paths : 0\nbitmap_cvg     : 0.76%\nunique_crashes : 0\nunique_hangs   : 18\nlast_path      : 1500278803\nlast_crash     : 0\nlast_hang      : 1500276802\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/reallystream/input -o /dev/shm/work/reallystream/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/reallystream/reallystream.dict -- data/linux/processed-challenges/reallystream/bin/reallystream\n'
+p79
+I1
+tp80
+a(I4800
+S'start_time     : 1500274173\nlast_update    : 1500278981\nfuzzer_pid     : 30931\ncycles_done    : 0\nexecs_done     : 3606370\nexecs_per_sec  : 729.45\npaths_total    : 194\npaths_favored  : 69\npaths_found    : 193\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 162\npending_favs   : 18\npending_total  : 116\nvariable_paths : 0\nbitmap_cvg     : 0.76%\nunique_crashes : 0\nunique_hangs   : 18\nlast_path      : 1500278938\nlast_crash     : 0\nlast_hang      : 1500276802\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/reallystream/input -o /dev/shm/work/reallystream/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/reallystream/reallystream.dict -- data/linux/processed-challenges/reallystream/bin/reallystream\n'
+p81
+I1
+tp82
+a(I4920
+S'start_time     : 1500274173\nlast_update    : 1500279101\nfuzzer_pid     : 30931\ncycles_done    : 0\nexecs_done     : 3692579\nexecs_per_sec  : 682.38\npaths_total    : 196\npaths_favored  : 70\npaths_found    : 195\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 164\npending_favs   : 18\npending_total  : 116\nvariable_paths : 0\nbitmap_cvg     : 0.76%\nunique_crashes : 0\nunique_hangs   : 18\nlast_path      : 1500279026\nlast_crash     : 0\nlast_hang      : 1500276802\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/reallystream/input -o /dev/shm/work/reallystream/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/reallystream/reallystream.dict -- data/linux/processed-challenges/reallystream/bin/reallystream\n'
+p83
+I2
+tp84
+a(I5040
+S'start_time     : 1500274173\nlast_update    : 1500279221\nfuzzer_pid     : 30931\ncycles_done    : 0\nexecs_done     : 3777797\nexecs_per_sec  : 692.82\npaths_total    : 197\npaths_favored  : 70\npaths_found    : 196\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 166\npending_favs   : 17\npending_total  : 116\nvariable_paths : 0\nbitmap_cvg     : 0.76%\nunique_crashes : 0\nunique_hangs   : 18\nlast_path      : 1500279158\nlast_crash     : 0\nlast_hang      : 1500276802\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/reallystream/input -o /dev/shm/work/reallystream/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/reallystream/reallystream.dict -- data/linux/processed-challenges/reallystream/bin/reallystream\n'
+p85
+I1
+tp86
+a(I5160
+S'start_time     : 1500274173\nlast_update    : 1500279341\nfuzzer_pid     : 30931\ncycles_done    : 0\nexecs_done     : 3864659\nexecs_per_sec  : 738.80\npaths_total    : 200\npaths_favored  : 70\npaths_found    : 199\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 167\npending_favs   : 16\npending_total  : 118\nvariable_paths : 0\nbitmap_cvg     : 0.76%\nunique_crashes : 0\nunique_hangs   : 19\nlast_path      : 1500279331\nlast_crash     : 0\nlast_hang      : 1500279333\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/reallystream/input -o /dev/shm/work/reallystream/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/reallystream/reallystream.dict -- data/linux/processed-challenges/reallystream/bin/reallystream\n'
+p87
+I3
+tp88
+a(I5280
+S'start_time     : 1500274173\nlast_update    : 1500279462\nfuzzer_pid     : 30931\ncycles_done    : 0\nexecs_done     : 3950679\nexecs_per_sec  : 724.99\npaths_total    : 202\npaths_favored  : 71\npaths_found    : 201\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 171\npending_favs   : 16\npending_total  : 119\nvariable_paths : 0\nbitmap_cvg     : 0.76%\nunique_crashes : 0\nunique_hangs   : 19\nlast_path      : 1500279444\nlast_crash     : 0\nlast_hang      : 1500279333\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/reallystream/input -o /dev/shm/work/reallystream/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/reallystream/reallystream.dict -- data/linux/processed-challenges/reallystream/bin/reallystream\n'
+p89
+I2
+tp90
+a(I5400
+S'start_time     : 1500274173\nlast_update    : 1500279582\nfuzzer_pid     : 30931\ncycles_done    : 0\nexecs_done     : 4039551\nexecs_per_sec  : 657.12\npaths_total    : 202\npaths_favored  : 73\npaths_found    : 201\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 174\npending_favs   : 17\npending_total  : 118\nvariable_paths : 0\nbitmap_cvg     : 0.76%\nunique_crashes : 0\nunique_hangs   : 19\nlast_path      : 1500279444\nlast_crash     : 0\nlast_hang      : 1500279333\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/reallystream/input -o /dev/shm/work/reallystream/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/reallystream/reallystream.dict -- data/linux/processed-challenges/reallystream/bin/reallystream\n'
+p91
+I0
+tp92
+a(I5520
+S'start_time     : 1500274173\nlast_update    : 1500279702\nfuzzer_pid     : 30931\ncycles_done    : 0\nexecs_done     : 4127809\nexecs_per_sec  : 730.84\npaths_total    : 206\npaths_favored  : 73\npaths_found    : 205\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 174\npending_favs   : 17\npending_total  : 122\nvariable_paths : 0\nbitmap_cvg     : 0.76%\nunique_crashes : 0\nunique_hangs   : 19\nlast_path      : 1500279684\nlast_crash     : 0\nlast_hang      : 1500279333\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/reallystream/input -o /dev/shm/work/reallystream/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/reallystream/reallystream.dict -- data/linux/processed-challenges/reallystream/bin/reallystream\n'
+p93
+I4
+tp94
+a(I5640
+S'start_time     : 1500274173\nlast_update    : 1500279822\nfuzzer_pid     : 30931\ncycles_done    : 0\nexecs_done     : 4216072\nexecs_per_sec  : 744.28\npaths_total    : 206\npaths_favored  : 74\npaths_found    : 205\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 175\npending_favs   : 17\npending_total  : 121\nvariable_paths : 0\nbitmap_cvg     : 0.76%\nunique_crashes : 0\nunique_hangs   : 19\nlast_path      : 1500279684\nlast_crash     : 0\nlast_hang      : 1500279333\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/reallystream/input -o /dev/shm/work/reallystream/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/reallystream/reallystream.dict -- data/linux/processed-challenges/reallystream/bin/reallystream\n'
+p95
+I0
+tp96
+a(I5760
+S'start_time     : 1500274173\nlast_update    : 1500279943\nfuzzer_pid     : 30931\ncycles_done    : 0\nexecs_done     : 4302465\nexecs_per_sec  : 708.50\npaths_total    : 209\npaths_favored  : 74\npaths_found    : 208\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 177\npending_favs   : 16\npending_total  : 123\nvariable_paths : 0\nbitmap_cvg     : 0.79%\nunique_crashes : 0\nunique_hangs   : 19\nlast_path      : 1500279883\nlast_crash     : 0\nlast_hang      : 1500279333\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/reallystream/input -o /dev/shm/work/reallystream/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/reallystream/reallystream.dict -- data/linux/processed-challenges/reallystream/bin/reallystream\n'
+p97
+I3
+tp98
+a(I5880
+S'start_time     : 1500274173\nlast_update    : 1500280063\nfuzzer_pid     : 30931\ncycles_done    : 0\nexecs_done     : 4385726\nexecs_per_sec  : 721.36\npaths_total    : 210\npaths_favored  : 74\npaths_found    : 209\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 178\npending_favs   : 16\npending_total  : 123\nvariable_paths : 0\nbitmap_cvg     : 0.79%\nunique_crashes : 0\nunique_hangs   : 19\nlast_path      : 1500279973\nlast_crash     : 0\nlast_hang      : 1500279333\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/reallystream/input -o /dev/shm/work/reallystream/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/reallystream/reallystream.dict -- data/linux/processed-challenges/reallystream/bin/reallystream\n'
+p99
+I1
+tp100
+a(I6000
+S'start_time     : 1500274173\nlast_update    : 1500280183\nfuzzer_pid     : 30931\ncycles_done    : 0\nexecs_done     : 4469159\nexecs_per_sec  : 657.76\npaths_total    : 211\npaths_favored  : 75\npaths_found    : 210\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 180\npending_favs   : 15\npending_total  : 122\nvariable_paths : 0\nbitmap_cvg     : 0.79%\nunique_crashes : 0\nunique_hangs   : 19\nlast_path      : 1500280117\nlast_crash     : 0\nlast_hang      : 1500279333\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/reallystream/input -o /dev/shm/work/reallystream/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/reallystream/reallystream.dict -- data/linux/processed-challenges/reallystream/bin/reallystream\n'
+p101
+I1
+tp102
+a(I6120
+S'start_time     : 1500274173\nlast_update    : 1500280303\nfuzzer_pid     : 30931\ncycles_done    : 0\nexecs_done     : 4553780\nexecs_per_sec  : 708.64\npaths_total    : 213\npaths_favored  : 75\npaths_found    : 212\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 180\npending_favs   : 15\npending_total  : 124\nvariable_paths : 0\nbitmap_cvg     : 0.79%\nunique_crashes : 0\nunique_hangs   : 19\nlast_path      : 1500280200\nlast_crash     : 0\nlast_hang      : 1500279333\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/reallystream/input -o /dev/shm/work/reallystream/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/reallystream/reallystream.dict -- data/linux/processed-challenges/reallystream/bin/reallystream\n'
+p103
+I2
+tp104
+a(I6240
+S'start_time     : 1500274173\nlast_update    : 1500280423\nfuzzer_pid     : 30931\ncycles_done    : 0\nexecs_done     : 4636507\nexecs_per_sec  : 701.58\npaths_total    : 213\npaths_favored  : 74\npaths_found    : 212\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 181\npending_favs   : 15\npending_total  : 123\nvariable_paths : 0\nbitmap_cvg     : 0.79%\nunique_crashes : 0\nunique_hangs   : 20\nlast_path      : 1500280200\nlast_crash     : 0\nlast_hang      : 1500280398\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/reallystream/input -o /dev/shm/work/reallystream/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/reallystream/reallystream.dict -- data/linux/processed-challenges/reallystream/bin/reallystream\n'
+p105
+I0
+tp106
+a(I6360
+S'start_time     : 1500274173\nlast_update    : 1500280544\nfuzzer_pid     : 30931\ncycles_done    : 0\nexecs_done     : 4719317\nexecs_per_sec  : 719.33\npaths_total    : 215\npaths_favored  : 74\npaths_found    : 214\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 182\npending_favs   : 14\npending_total  : 124\nvariable_paths : 0\nbitmap_cvg     : 0.79%\nunique_crashes : 0\nunique_hangs   : 20\nlast_path      : 1500280491\nlast_crash     : 0\nlast_hang      : 1500280398\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/reallystream/input -o /dev/shm/work/reallystream/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/reallystream/reallystream.dict -- data/linux/processed-challenges/reallystream/bin/reallystream\n'
+p107
+I2
+tp108
+a(I6480
+S'start_time     : 1500274173\nlast_update    : 1500280664\nfuzzer_pid     : 30931\ncycles_done    : 0\nexecs_done     : 4802380\nexecs_per_sec  : 729.87\npaths_total    : 217\npaths_favored  : 74\npaths_found    : 216\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 192\npending_favs   : 13\npending_total  : 124\nvariable_paths : 0\nbitmap_cvg     : 0.79%\nunique_crashes : 0\nunique_hangs   : 20\nlast_path      : 1500280663\nlast_crash     : 0\nlast_hang      : 1500280398\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/reallystream/input -o /dev/shm/work/reallystream/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/reallystream/reallystream.dict -- data/linux/processed-challenges/reallystream/bin/reallystream\n'
+p109
+I2
+tp110
+a(I6600
+S'start_time     : 1500274173\nlast_update    : 1500280784\nfuzzer_pid     : 30931\ncycles_done    : 0\nexecs_done     : 4890194\nexecs_per_sec  : 721.48\npaths_total    : 219\npaths_favored  : 74\npaths_found    : 218\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 192\npending_favs   : 13\npending_total  : 126\nvariable_paths : 0\nbitmap_cvg     : 0.79%\nunique_crashes : 0\nunique_hangs   : 20\nlast_path      : 1500280683\nlast_crash     : 0\nlast_hang      : 1500280398\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/reallystream/input -o /dev/shm/work/reallystream/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/reallystream/reallystream.dict -- data/linux/processed-challenges/reallystream/bin/reallystream\n'
+p111
+I2
+tp112
+a(I6720
+S'start_time     : 1500274173\nlast_update    : 1500280904\nfuzzer_pid     : 30931\ncycles_done    : 0\nexecs_done     : 4974539\nexecs_per_sec  : 709.86\npaths_total    : 219\npaths_favored  : 74\npaths_found    : 218\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 194\npending_favs   : 11\npending_total  : 124\nvariable_paths : 0\nbitmap_cvg     : 0.79%\nunique_crashes : 0\nunique_hangs   : 20\nlast_path      : 1500280683\nlast_crash     : 0\nlast_hang      : 1500280398\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/reallystream/input -o /dev/shm/work/reallystream/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/reallystream/reallystream.dict -- data/linux/processed-challenges/reallystream/bin/reallystream\n'
+p113
+I0
+tp114
+a(I6840
+S'start_time     : 1500274173\nlast_update    : 1500281024\nfuzzer_pid     : 30931\ncycles_done    : 0\nexecs_done     : 5058353\nexecs_per_sec  : 738.45\npaths_total    : 221\npaths_favored  : 74\npaths_found    : 220\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 195\npending_favs   : 10\npending_total  : 125\nvariable_paths : 0\nbitmap_cvg     : 0.79%\nunique_crashes : 0\nunique_hangs   : 20\nlast_path      : 1500281001\nlast_crash     : 0\nlast_hang      : 1500280398\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/reallystream/input -o /dev/shm/work/reallystream/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/reallystream/reallystream.dict -- data/linux/processed-challenges/reallystream/bin/reallystream\n'
+p115
+I2
+tp116
+a(I6960
+S'start_time     : 1500274173\nlast_update    : 1500281144\nfuzzer_pid     : 30931\ncycles_done    : 0\nexecs_done     : 5145667\nexecs_per_sec  : 685.09\npaths_total    : 221\npaths_favored  : 75\npaths_found    : 220\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 200\npending_favs   : 9\npending_total  : 123\nvariable_paths : 0\nbitmap_cvg     : 0.79%\nunique_crashes : 0\nunique_hangs   : 21\nlast_path      : 1500281001\nlast_crash     : 0\nlast_hang      : 1500281104\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/reallystream/input -o /dev/shm/work/reallystream/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/reallystream/reallystream.dict -- data/linux/processed-challenges/reallystream/bin/reallystream\n'
+p117
+I0
+tp118
+a(I7080
+S'start_time     : 1500274173\nlast_update    : 1500281265\nfuzzer_pid     : 30931\ncycles_done    : 0\nexecs_done     : 5229765\nexecs_per_sec  : 726.78\npaths_total    : 221\npaths_favored  : 75\npaths_found    : 220\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 201\npending_favs   : 8\npending_total  : 122\nvariable_paths : 0\nbitmap_cvg     : 0.79%\nunique_crashes : 0\nunique_hangs   : 21\nlast_path      : 1500281001\nlast_crash     : 0\nlast_hang      : 1500281104\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/reallystream/input -o /dev/shm/work/reallystream/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/reallystream/reallystream.dict -- data/linux/processed-challenges/reallystream/bin/reallystream\n'
+p119
+I0
+tp120
+a(I7200
+S'start_time     : 1500274173\nlast_update    : 1500281385\nfuzzer_pid     : 30931\ncycles_done    : 0\nexecs_done     : 5315196\nexecs_per_sec  : 732.04\npaths_total    : 222\npaths_favored  : 75\npaths_found    : 221\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 206\npending_favs   : 6\npending_total  : 121\nvariable_paths : 0\nbitmap_cvg     : 0.79%\nunique_crashes : 0\nunique_hangs   : 22\nlast_path      : 1500281382\nlast_crash     : 0\nlast_hang      : 1500281367\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/reallystream/input -o /dev/shm/work/reallystream/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/reallystream/reallystream.dict -- data/linux/processed-challenges/reallystream/bin/reallystream\n'
+p121
+I1
+tp122
+a(I7320
+S'start_time     : 1500274173\nlast_update    : 1500281505\nfuzzer_pid     : 30931\ncycles_done    : 0\nexecs_done     : 5404225\nexecs_per_sec  : 679.92\npaths_total    : 224\npaths_favored  : 76\npaths_found    : 223\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 208\npending_favs   : 6\npending_total  : 122\nvariable_paths : 0\nbitmap_cvg     : 0.79%\nunique_crashes : 0\nunique_hangs   : 23\nlast_path      : 1500281416\nlast_crash     : 0\nlast_hang      : 1500281489\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/reallystream/input -o /dev/shm/work/reallystream/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/reallystream/reallystream.dict -- data/linux/processed-challenges/reallystream/bin/reallystream\n'
+p123
+I2
+tp124
+a(I7440
+S'start_time     : 1500274173\nlast_update    : 1500281625\nfuzzer_pid     : 30931\ncycles_done    : 0\nexecs_done     : 5490653\nexecs_per_sec  : 732.51\npaths_total    : 229\npaths_favored  : 76\npaths_found    : 228\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 208\npending_favs   : 6\npending_total  : 127\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 23\nlast_path      : 1500281553\nlast_crash     : 0\nlast_hang      : 1500281489\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/reallystream/input -o /dev/shm/work/reallystream/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/reallystream/reallystream.dict -- data/linux/processed-challenges/reallystream/bin/reallystream\n'
+p125
+I5
+tp126
+a(I7560
+S'start_time     : 1500274173\nlast_update    : 1500281745\nfuzzer_pid     : 30931\ncycles_done    : 0\nexecs_done     : 5579511\nexecs_per_sec  : 766.69\npaths_total    : 229\npaths_favored  : 76\npaths_found    : 228\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 210\npending_favs   : 8\npending_total  : 126\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 23\nlast_path      : 1500281553\nlast_crash     : 0\nlast_hang      : 1500281489\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/reallystream/input -o /dev/shm/work/reallystream/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/reallystream/reallystream.dict -- data/linux/processed-challenges/reallystream/bin/reallystream\n'
+p127
+I0
+tp128
+a(I7680
+S'start_time     : 1500274173\nlast_update    : 1500281866\nfuzzer_pid     : 30931\ncycles_done    : 0\nexecs_done     : 5660506\nexecs_per_sec  : 688.86\npaths_total    : 230\npaths_favored  : 76\npaths_found    : 229\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 212\npending_favs   : 7\npending_total  : 126\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 23\nlast_path      : 1500281840\nlast_crash     : 0\nlast_hang      : 1500281489\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/reallystream/input -o /dev/shm/work/reallystream/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/reallystream/reallystream.dict -- data/linux/processed-challenges/reallystream/bin/reallystream\n'
+p129
+I1
+tp130
+a(I7800
+S'start_time     : 1500274173\nlast_update    : 1500281986\nfuzzer_pid     : 30931\ncycles_done    : 0\nexecs_done     : 5743548\nexecs_per_sec  : 748.19\npaths_total    : 230\npaths_favored  : 76\npaths_found    : 229\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 213\npending_favs   : 6\npending_total  : 125\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 23\nlast_path      : 1500281840\nlast_crash     : 0\nlast_hang      : 1500281489\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/reallystream/input -o /dev/shm/work/reallystream/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/reallystream/reallystream.dict -- data/linux/processed-challenges/reallystream/bin/reallystream\n'
+p131
+I0
+tp132
+a(I7920
+S'start_time     : 1500274173\nlast_update    : 1500282106\nfuzzer_pid     : 30931\ncycles_done    : 0\nexecs_done     : 5826018\nexecs_per_sec  : 656.60\npaths_total    : 231\npaths_favored  : 77\npaths_found    : 230\npaths_imported : 0\nmax_depth      : 12\ncur_path       : 222\npending_favs   : 5\npending_total  : 124\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 23\nlast_path      : 1500282042\nlast_crash     : 0\nlast_hang      : 1500281489\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/reallystream/input -o /dev/shm/work/reallystream/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/reallystream/reallystream.dict -- data/linux/processed-challenges/reallystream/bin/reallystream\n'
+p133
+I1
+tp134
+a(I8040
+S'start_time     : 1500274173\nlast_update    : 1500282226\nfuzzer_pid     : 30931\ncycles_done    : 0\nexecs_done     : 5912373\nexecs_per_sec  : 711.00\npaths_total    : 233\npaths_favored  : 77\npaths_found    : 232\npaths_imported : 0\nmax_depth      : 12\ncur_path       : 222\npending_favs   : 5\npending_total  : 126\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 24\nlast_path      : 1500282136\nlast_crash     : 0\nlast_hang      : 1500282110\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/reallystream/input -o /dev/shm/work/reallystream/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/reallystream/reallystream.dict -- data/linux/processed-challenges/reallystream/bin/reallystream\n'
+p135
+I2
+tp136
+a(I8160
+S'start_time     : 1500274173\nlast_update    : 1500282346\nfuzzer_pid     : 30931\ncycles_done    : 0\nexecs_done     : 5997535\nexecs_per_sec  : 738.54\npaths_total    : 233\npaths_favored  : 77\npaths_found    : 232\npaths_imported : 0\nmax_depth      : 12\ncur_path       : 224\npending_favs   : 4\npending_total  : 125\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 25\nlast_path      : 1500282136\nlast_crash     : 0\nlast_hang      : 1500282309\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/reallystream/input -o /dev/shm/work/reallystream/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/reallystream/reallystream.dict -- data/linux/processed-challenges/reallystream/bin/reallystream\n'
+p137
+I0
+tp138
+a(I8280
+S'start_time     : 1500274173\nlast_update    : 1500282466\nfuzzer_pid     : 30931\ncycles_done    : 0\nexecs_done     : 6081430\nexecs_per_sec  : 680.99\npaths_total    : 234\npaths_favored  : 77\npaths_found    : 233\npaths_imported : 0\nmax_depth      : 12\ncur_path       : 228\npending_favs   : 3\npending_total  : 124\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 26\nlast_path      : 1500282402\nlast_crash     : 0\nlast_hang      : 1500282395\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/reallystream/input -o /dev/shm/work/reallystream/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/reallystream/reallystream.dict -- data/linux/processed-challenges/reallystream/bin/reallystream\n'
+p139
+I1
+tp140
+a(I8400
+S'start_time     : 1500274173\nlast_update    : 1500282586\nfuzzer_pid     : 30931\ncycles_done    : 0\nexecs_done     : 6163688\nexecs_per_sec  : 682.72\npaths_total    : 235\npaths_favored  : 74\npaths_found    : 234\npaths_imported : 0\nmax_depth      : 12\ncur_path       : 230\npending_favs   : 3\npending_total  : 124\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 28\nlast_path      : 1500282486\nlast_crash     : 0\nlast_hang      : 1500282496\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/reallystream/input -o /dev/shm/work/reallystream/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/reallystream/reallystream.dict -- data/linux/processed-challenges/reallystream/bin/reallystream\n'
+p141
+I1
+tp142
+a(I8520
+S'start_time     : 1500274173\nlast_update    : 1500282707\nfuzzer_pid     : 30931\ncycles_done    : 0\nexecs_done     : 6245104\nexecs_per_sec  : 658.74\npaths_total    : 237\npaths_favored  : 74\npaths_found    : 236\npaths_imported : 0\nmax_depth      : 13\ncur_path       : 233\npending_favs   : 2\npending_total  : 125\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 30\nlast_path      : 1500282689\nlast_crash     : 0\nlast_hang      : 1500282665\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/reallystream/input -o /dev/shm/work/reallystream/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/reallystream/reallystream.dict -- data/linux/processed-challenges/reallystream/bin/reallystream\n'
+p143
+I2
+tp144
+a(I8640
+S'start_time     : 1500274173\nlast_update    : 1500282827\nfuzzer_pid     : 30931\ncycles_done    : 0\nexecs_done     : 6327596\nexecs_per_sec  : 734.48\npaths_total    : 237\npaths_favored  : 74\npaths_found    : 236\npaths_imported : 0\nmax_depth      : 13\ncur_path       : 234\npending_favs   : 1\npending_total  : 124\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 30\nlast_path      : 1500282689\nlast_crash     : 0\nlast_hang      : 1500282665\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/reallystream/input -o /dev/shm/work/reallystream/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/reallystream/reallystream.dict -- data/linux/processed-challenges/reallystream/bin/reallystream\n'
+p145
+I0
+tp146
+a(I8760
+S'start_time     : 1500274173\nlast_update    : 1500282947\nfuzzer_pid     : 30931\ncycles_done    : 1\nexecs_done     : 6422035\nexecs_per_sec  : 785.06\npaths_total    : 237\npaths_favored  : 74\npaths_found    : 236\npaths_imported : 0\nmax_depth      : 13\ncur_path       : 33\npending_favs   : 0\npending_total  : 119\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 30\nlast_path      : 1500282689\nlast_crash     : 0\nlast_hang      : 1500282665\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/reallystream/input -o /dev/shm/work/reallystream/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/reallystream/reallystream.dict -- data/linux/processed-challenges/reallystream/bin/reallystream\n'
+p147
+I0
+tp148
+a(I8880
+S'start_time     : 1500274173\nlast_update    : 1500283067\nfuzzer_pid     : 30931\ncycles_done    : 1\nexecs_done     : 6512687\nexecs_per_sec  : 733.79\npaths_total    : 237\npaths_favored  : 74\npaths_found    : 236\npaths_imported : 0\nmax_depth      : 13\ncur_path       : 70\npending_favs   : 0\npending_total  : 118\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 30\nlast_path      : 1500282689\nlast_crash     : 0\nlast_hang      : 1500282665\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/reallystream/input -o /dev/shm/work/reallystream/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/reallystream/reallystream.dict -- data/linux/processed-challenges/reallystream/bin/reallystream\n'
+p149
+I0
+tp150
+a(I9000
+S'start_time     : 1500274173\nlast_update    : 1500283187\nfuzzer_pid     : 30931\ncycles_done    : 1\nexecs_done     : 6605110\nexecs_per_sec  : 788.43\npaths_total    : 237\npaths_favored  : 74\npaths_found    : 236\npaths_imported : 0\nmax_depth      : 13\ncur_path       : 87\npending_favs   : 0\npending_total  : 118\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 30\nlast_path      : 1500282689\nlast_crash     : 0\nlast_hang      : 1500282665\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/reallystream/input -o /dev/shm/work/reallystream/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/reallystream/reallystream.dict -- data/linux/processed-challenges/reallystream/bin/reallystream\n'
+p151
+I0
+tp152
+a(I9120
+S'start_time     : 1500274173\nlast_update    : 1500283247\nfuzzer_pid     : 30931\ncycles_done    : 1\nexecs_done     : 6651193\nexecs_per_sec  : 745.97\npaths_total    : 237\npaths_favored  : 74\npaths_found    : 236\npaths_imported : 0\nmax_depth      : 13\ncur_path       : 98\npending_favs   : 0\npending_total  : 118\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 30\nlast_path      : 1500282689\nlast_crash     : 0\nlast_hang      : 1500282665\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/reallystream/input -o /dev/shm/work/reallystream/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/reallystream/reallystream.dict -- data/linux/processed-challenges/reallystream/bin/reallystream\n'
+p153
+I4
+tp154
+a(I9240
+S'start_time     : 1500274173\nlast_update    : 1500283367\nfuzzer_pid     : 30931\ncycles_done    : 1\nexecs_done     : 6743830\nexecs_per_sec  : 747.95\npaths_total    : 241\npaths_favored  : 74\npaths_found    : 240\npaths_imported : 0\nmax_depth      : 13\ncur_path       : 98\npending_favs   : 0\npending_total  : 122\nvariable_paths : 0\nbitmap_cvg     : 0.81%\nunique_crashes : 0\nunique_hangs   : 30\nlast_path      : 1500283299\nlast_crash     : 0\nlast_hang      : 1500282665\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/reallystream/input -o /dev/shm/work/reallystream/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/reallystream/reallystream.dict -- data/linux/processed-challenges/reallystream/bin/reallystream\n'
+p155
+I0
+tp156
+a(I9360
+S'start_time     : 1500274173\nlast_update    : 1500283488\nfuzzer_pid     : 30931\ncycles_done    : 1\nexecs_done     : 6835158\nexecs_per_sec  : 666.58\npaths_total    : 241\npaths_favored  : 75\npaths_found    : 240\npaths_imported : 0\nmax_depth      : 13\ncur_path       : 239\npending_favs   : 1\npending_total  : 121\nvariable_paths : 0\nbitmap_cvg     : 0.81%\nunique_crashes : 0\nunique_hangs   : 30\nlast_path      : 1500283299\nlast_crash     : 0\nlast_hang      : 1500282665\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/reallystream/input -o /dev/shm/work/reallystream/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/reallystream/reallystream.dict -- data/linux/processed-challenges/reallystream/bin/reallystream\n'
+p157
+I1
+tp158
+a(I9480
+S'start_time     : 1500274173\nlast_update    : 1500283608\nfuzzer_pid     : 30931\ncycles_done    : 2\nexecs_done     : 6924766\nexecs_per_sec  : 817.13\npaths_total    : 242\npaths_favored  : 75\npaths_found    : 241\npaths_imported : 0\nmax_depth      : 13\ncur_path       : 30\npending_favs   : 0\npending_total  : 118\nvariable_paths : 0\nbitmap_cvg     : 0.81%\nunique_crashes : 0\nunique_hangs   : 30\nlast_path      : 1500283523\nlast_crash     : 0\nlast_hang      : 1500282665\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/reallystream/input -o /dev/shm/work/reallystream/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/reallystream/reallystream.dict -- data/linux/processed-challenges/reallystream/bin/reallystream\n'
+p159
+I0
+tp160
+a(I9600
+S'start_time     : 1500274173\nlast_update    : 1500283728\nfuzzer_pid     : 30931\ncycles_done    : 2\nexecs_done     : 7018646\nexecs_per_sec  : 755.97\npaths_total    : 244\npaths_favored  : 77\npaths_found    : 243\npaths_imported : 0\nmax_depth      : 13\ncur_path       : 127\npending_favs   : 2\npending_total  : 118\nvariable_paths : 0\nbitmap_cvg     : 0.82%\nunique_crashes : 0\nunique_hangs   : 30\nlast_path      : 1500283682\nlast_crash     : 0\nlast_hang      : 1500282665\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/reallystream/input -o /dev/shm/work/reallystream/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/reallystream/reallystream.dict -- data/linux/processed-challenges/reallystream/bin/reallystream\n'
+p161
+I2
+tp162
+a(I9720
+S'start_time     : 1500274173\nlast_update    : 1500283848\nfuzzer_pid     : 30931\ncycles_done    : 2\nexecs_done     : 7078758\nexecs_per_sec  : 399.56\npaths_total    : 244\npaths_favored  : 77\npaths_found    : 243\npaths_imported : 0\nmax_depth      : 13\ncur_path       : 242\npending_favs   : 2\npending_total  : 118\nvariable_paths : 0\nbitmap_cvg     : 0.82%\nunique_crashes : 0\nunique_hangs   : 30\nlast_path      : 1500283682\nlast_crash     : 0\nlast_hang      : 1500282665\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/reallystream/input -o /dev/shm/work/reallystream/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/reallystream/reallystream.dict -- data/linux/processed-challenges/reallystream/bin/reallystream\n'
+p163
+I0
+tp164
+a(I9840
+S'start_time     : 1500274173\nlast_update    : 1500283968\nfuzzer_pid     : 30931\ncycles_done    : 2\nexecs_done     : 7127310\nexecs_per_sec  : 397.47\npaths_total    : 244\npaths_favored  : 77\npaths_found    : 243\npaths_imported : 0\nmax_depth      : 13\ncur_path       : 242\npending_favs   : 2\npending_total  : 118\nvariable_paths : 0\nbitmap_cvg     : 0.82%\nunique_crashes : 0\nunique_hangs   : 30\nlast_path      : 1500283682\nlast_crash     : 0\nlast_hang      : 1500282665\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/reallystream/input -o /dev/shm/work/reallystream/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/reallystream/reallystream.dict -- data/linux/processed-challenges/reallystream/bin/reallystream\n'
+p165
+I0
+tp166
+a(I9960
+S'start_time     : 1500274173\nlast_update    : 1500284089\nfuzzer_pid     : 30931\ncycles_done    : 2\nexecs_done     : 7175606\nexecs_per_sec  : 408.99\npaths_total    : 244\npaths_favored  : 77\npaths_found    : 243\npaths_imported : 0\nmax_depth      : 13\ncur_path       : 242\npending_favs   : 2\npending_total  : 118\nvariable_paths : 0\nbitmap_cvg     : 0.82%\nunique_crashes : 0\nunique_hangs   : 31\nlast_path      : 1500283682\nlast_crash     : 0\nlast_hang      : 1500284071\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/reallystream/input -o /dev/shm/work/reallystream/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/reallystream/reallystream.dict -- data/linux/processed-challenges/reallystream/bin/reallystream\n'
+p167
+I0
+tp168
+a(I10080
+S'start_time     : 1500274173\nlast_update    : 1500284209\nfuzzer_pid     : 30931\ncycles_done    : 2\nexecs_done     : 7250016\nexecs_per_sec  : 745.68\npaths_total    : 245\npaths_favored  : 78\npaths_found    : 244\npaths_imported : 0\nmax_depth      : 13\ncur_path       : 244\npending_favs   : 1\npending_total  : 117\nvariable_paths : 0\nbitmap_cvg     : 0.82%\nunique_crashes : 0\nunique_hangs   : 32\nlast_path      : 1500284152\nlast_crash     : 0\nlast_hang      : 1500284153\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/reallystream/input -o /dev/shm/work/reallystream/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/reallystream/reallystream.dict -- data/linux/processed-challenges/reallystream/bin/reallystream\n'
+p169
+I1
+tp170
+a(I10200
+S'start_time     : 1500274173\nlast_update    : 1500284329\nfuzzer_pid     : 30931\ncycles_done    : 3\nexecs_done     : 7341194\nexecs_per_sec  : 765.30\npaths_total    : 245\npaths_favored  : 78\npaths_found    : 244\npaths_imported : 0\nmax_depth      : 13\ncur_path       : 27\npending_favs   : 0\npending_total  : 114\nvariable_paths : 0\nbitmap_cvg     : 0.82%\nunique_crashes : 0\nunique_hangs   : 33\nlast_path      : 1500284152\nlast_crash     : 0\nlast_hang      : 1500284236\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/reallystream/input -o /dev/shm/work/reallystream/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/reallystream/reallystream.dict -- data/linux/processed-challenges/reallystream/bin/reallystream\n'
+p171
+I0
+tp172
+a(I10320
+S'start_time     : 1500274173\nlast_update    : 1500284449\nfuzzer_pid     : 30931\ncycles_done    : 3\nexecs_done     : 7432669\nexecs_per_sec  : 764.72\npaths_total    : 245\npaths_favored  : 78\npaths_found    : 244\npaths_imported : 0\nmax_depth      : 13\ncur_path       : 53\npending_favs   : 0\npending_total  : 111\nvariable_paths : 0\nbitmap_cvg     : 0.82%\nunique_crashes : 0\nunique_hangs   : 34\nlast_path      : 1500284152\nlast_crash     : 0\nlast_hang      : 1500284434\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/reallystream/input -o /dev/shm/work/reallystream/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/reallystream/reallystream.dict -- data/linux/processed-challenges/reallystream/bin/reallystream\n'
+p173
+I1
+tp174
+a(I10440
+S'start_time     : 1500274173\nlast_update    : 1500284569\nfuzzer_pid     : 30931\ncycles_done    : 3\nexecs_done     : 7527934\nexecs_per_sec  : 819.55\npaths_total    : 246\npaths_favored  : 78\npaths_found    : 245\npaths_imported : 0\nmax_depth      : 13\ncur_path       : 64\npending_favs   : 0\npending_total  : 109\nvariable_paths : 0\nbitmap_cvg     : 0.82%\nunique_crashes : 0\nunique_hangs   : 34\nlast_path      : 1500284500\nlast_crash     : 0\nlast_hang      : 1500284434\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/reallystream/input -o /dev/shm/work/reallystream/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/reallystream/reallystream.dict -- data/linux/processed-challenges/reallystream/bin/reallystream\n'
+p175
+I2
+tp176
+a(I10560
+S'start_time     : 1500274173\nlast_update    : 1500284690\nfuzzer_pid     : 30931\ncycles_done    : 3\nexecs_done     : 7625245\nexecs_per_sec  : 836.41\npaths_total    : 248\npaths_favored  : 78\npaths_found    : 247\npaths_imported : 0\nmax_depth      : 13\ncur_path       : 76\npending_favs   : 0\npending_total  : 110\nvariable_paths : 0\nbitmap_cvg     : 0.82%\nunique_crashes : 0\nunique_hangs   : 34\nlast_path      : 1500284602\nlast_crash     : 0\nlast_hang      : 1500284434\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/reallystream/input -o /dev/shm/work/reallystream/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/reallystream/reallystream.dict -- data/linux/processed-challenges/reallystream/bin/reallystream\n'
+p177
+I0
+tp178
+a(I10680
+S'start_time     : 1500274173\nlast_update    : 1500284810\nfuzzer_pid     : 30931\ncycles_done    : 3\nexecs_done     : 7725182\nexecs_per_sec  : 800.19\npaths_total    : 248\npaths_favored  : 78\npaths_found    : 247\npaths_imported : 0\nmax_depth      : 13\ncur_path       : 92\npending_favs   : 0\npending_total  : 110\nvariable_paths : 0\nbitmap_cvg     : 0.82%\nunique_crashes : 0\nunique_hangs   : 34\nlast_path      : 1500284602\nlast_crash     : 0\nlast_hang      : 1500284434\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/reallystream/input -o /dev/shm/work/reallystream/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/reallystream/reallystream.dict -- data/linux/processed-challenges/reallystream/bin/reallystream\n'
+p179
+I0
+tp180
+a.

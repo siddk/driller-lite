@@ -1,0 +1,452 @@
+(lp0
+(I0
+S'start_time     : 1499884643\nlast_update    : 1499884643\nfuzzer_pid     : 19737\ncycles_done    : 0\nexecs_done     : 10\nexecs_per_sec  : 142.86\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 1\npending_total  : 1\nvariable_paths : 0\nbitmap_cvg     : 0.33%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Finicky_File_Folder/input -o /dev/shm/work/Finicky_File_Folder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Finicky_File_Folder/Finicky_File_Folder.dict -- data/linux/processed-challenges/Finicky_File_Folder/bin/Finicky_File_Folder\n'
+p1
+I2
+tp2
+a(I120
+S'start_time     : 1499884643\nlast_update    : 1499884763\nfuzzer_pid     : 19737\ncycles_done    : 0\nexecs_done     : 34026\nexecs_per_sec  : 292.30\npaths_total    : 10\npaths_favored  : 1\npaths_found    : 9\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 1\npending_total  : 10\nvariable_paths : 0\nbitmap_cvg     : 0.51%\nunique_crashes : 3\nunique_hangs   : 5\nlast_path      : 1499884737\nlast_crash     : 1499884684\nlast_hang      : 1499884672\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Finicky_File_Folder/input -o /dev/shm/work/Finicky_File_Folder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Finicky_File_Folder/Finicky_File_Folder.dict -- data/linux/processed-challenges/Finicky_File_Folder/bin/Finicky_File_Folder\n'
+p3
+I8
+tp4
+a(I240
+S'start_time     : 1499884643\nlast_update    : 1499884884\nfuzzer_pid     : 19737\ncycles_done    : 0\nexecs_done     : 69041\nexecs_per_sec  : 286.73\npaths_total    : 12\npaths_favored  : 1\npaths_found    : 11\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 1\npending_total  : 12\nvariable_paths : 0\nbitmap_cvg     : 0.52%\nunique_crashes : 3\nunique_hangs   : 5\nlast_path      : 1499884842\nlast_crash     : 1499884684\nlast_hang      : 1499884672\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Finicky_File_Folder/input -o /dev/shm/work/Finicky_File_Folder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Finicky_File_Folder/Finicky_File_Folder.dict -- data/linux/processed-challenges/Finicky_File_Folder/bin/Finicky_File_Folder\n'
+p5
+I2
+tp6
+a(I360
+S'start_time     : 1499884643\nlast_update    : 1499885004\nfuzzer_pid     : 19737\ncycles_done    : 0\nexecs_done     : 104463\nexecs_per_sec  : 301.38\npaths_total    : 12\npaths_favored  : 1\npaths_found    : 11\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 1\npending_total  : 12\nvariable_paths : 0\nbitmap_cvg     : 0.52%\nunique_crashes : 3\nunique_hangs   : 5\nlast_path      : 1499884842\nlast_crash     : 1499884684\nlast_hang      : 1499884672\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Finicky_File_Folder/input -o /dev/shm/work/Finicky_File_Folder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Finicky_File_Folder/Finicky_File_Folder.dict -- data/linux/processed-challenges/Finicky_File_Folder/bin/Finicky_File_Folder\n'
+p7
+I0
+tp8
+a(I480
+S'start_time     : 1499884643\nlast_update    : 1499885124\nfuzzer_pid     : 19737\ncycles_done    : 0\nexecs_done     : 139506\nexecs_per_sec  : 297.00\npaths_total    : 12\npaths_favored  : 1\npaths_found    : 11\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 1\npending_total  : 12\nvariable_paths : 0\nbitmap_cvg     : 0.52%\nunique_crashes : 3\nunique_hangs   : 5\nlast_path      : 1499884842\nlast_crash     : 1499884684\nlast_hang      : 1499884672\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Finicky_File_Folder/input -o /dev/shm/work/Finicky_File_Folder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Finicky_File_Folder/Finicky_File_Folder.dict -- data/linux/processed-challenges/Finicky_File_Folder/bin/Finicky_File_Folder\n'
+p9
+I0
+tp10
+a(I600
+S'start_time     : 1499884643\nlast_update    : 1499885244\nfuzzer_pid     : 19737\ncycles_done    : 0\nexecs_done     : 172304\nexecs_per_sec  : 250.05\npaths_total    : 12\npaths_favored  : 11\npaths_found    : 11\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 4\npending_favs   : 8\npending_total  : 9\nvariable_paths : 0\nbitmap_cvg     : 0.52%\nunique_crashes : 3\nunique_hangs   : 5\nlast_path      : 1499884842\nlast_crash     : 1499884684\nlast_hang      : 1499884672\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Finicky_File_Folder/input -o /dev/shm/work/Finicky_File_Folder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Finicky_File_Folder/Finicky_File_Folder.dict -- data/linux/processed-challenges/Finicky_File_Folder/bin/Finicky_File_Folder\n'
+p11
+I0
+tp12
+a(I720
+S'start_time     : 1499884643\nlast_update    : 1499885364\nfuzzer_pid     : 19737\ncycles_done    : 0\nexecs_done     : 188627\nexecs_per_sec  : 205.56\npaths_total    : 17\npaths_favored  : 12\npaths_found    : 16\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 6\npending_favs   : 7\npending_total  : 12\nvariable_paths : 0\nbitmap_cvg     : 0.60%\nunique_crashes : 4\nunique_hangs   : 5\nlast_path      : 1499885343\nlast_crash     : 1499885337\nlast_hang      : 1499884672\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Finicky_File_Folder/input -o /dev/shm/work/Finicky_File_Folder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Finicky_File_Folder/Finicky_File_Folder.dict -- data/linux/processed-challenges/Finicky_File_Folder/bin/Finicky_File_Folder\n'
+p13
+I5
+tp14
+a(I840
+S'start_time     : 1499884643\nlast_update    : 1499885485\nfuzzer_pid     : 19737\ncycles_done    : 0\nexecs_done     : 209201\nexecs_per_sec  : 148.61\npaths_total    : 27\npaths_favored  : 14\npaths_found    : 26\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 7\npending_favs   : 10\npending_total  : 21\nvariable_paths : 0\nbitmap_cvg     : 0.63%\nunique_crashes : 8\nunique_hangs   : 6\nlast_path      : 1499885477\nlast_crash     : 1499885480\nlast_hang      : 1499885442\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Finicky_File_Folder/input -o /dev/shm/work/Finicky_File_Folder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Finicky_File_Folder/Finicky_File_Folder.dict -- data/linux/processed-challenges/Finicky_File_Folder/bin/Finicky_File_Folder\n'
+p15
+I10
+tp16
+a(I960
+S'start_time     : 1499884643\nlast_update    : 1499885605\nfuzzer_pid     : 19737\ncycles_done    : 0\nexecs_done     : 227146\nexecs_per_sec  : 154.34\npaths_total    : 29\npaths_favored  : 14\npaths_found    : 28\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 7\npending_favs   : 10\npending_total  : 23\nvariable_paths : 0\nbitmap_cvg     : 0.63%\nunique_crashes : 10\nunique_hangs   : 9\nlast_path      : 1499885519\nlast_crash     : 1499885595\nlast_hang      : 1499885555\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Finicky_File_Folder/input -o /dev/shm/work/Finicky_File_Folder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Finicky_File_Folder/Finicky_File_Folder.dict -- data/linux/processed-challenges/Finicky_File_Folder/bin/Finicky_File_Folder\n'
+p17
+I2
+tp18
+a(I1080
+S'start_time     : 1499884643\nlast_update    : 1499885725\nfuzzer_pid     : 19737\ncycles_done    : 0\nexecs_done     : 245277\nexecs_per_sec  : 150.32\npaths_total    : 30\npaths_favored  : 14\npaths_found    : 29\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 7\npending_favs   : 10\npending_total  : 24\nvariable_paths : 0\nbitmap_cvg     : 0.65%\nunique_crashes : 10\nunique_hangs   : 11\nlast_path      : 1499885674\nlast_crash     : 1499885595\nlast_hang      : 1499885624\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Finicky_File_Folder/input -o /dev/shm/work/Finicky_File_Folder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Finicky_File_Folder/Finicky_File_Folder.dict -- data/linux/processed-challenges/Finicky_File_Folder/bin/Finicky_File_Folder\n'
+p19
+I1
+tp20
+a(I1200
+S'start_time     : 1499884643\nlast_update    : 1499885845\nfuzzer_pid     : 19737\ncycles_done    : 0\nexecs_done     : 263183\nexecs_per_sec  : 147.20\npaths_total    : 31\npaths_favored  : 14\npaths_found    : 30\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 7\npending_favs   : 10\npending_total  : 25\nvariable_paths : 0\nbitmap_cvg     : 0.65%\nunique_crashes : 11\nunique_hangs   : 13\nlast_path      : 1499885833\nlast_crash     : 1499885740\nlast_hang      : 1499885838\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Finicky_File_Folder/input -o /dev/shm/work/Finicky_File_Folder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Finicky_File_Folder/Finicky_File_Folder.dict -- data/linux/processed-challenges/Finicky_File_Folder/bin/Finicky_File_Folder\n'
+p21
+I1
+tp22
+a(I1320
+S'start_time     : 1499884643\nlast_update    : 1499885965\nfuzzer_pid     : 19737\ncycles_done    : 0\nexecs_done     : 281263\nexecs_per_sec  : 141.89\npaths_total    : 32\npaths_favored  : 14\npaths_found    : 31\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 7\npending_favs   : 10\npending_total  : 26\nvariable_paths : 0\nbitmap_cvg     : 0.65%\nunique_crashes : 14\nunique_hangs   : 13\nlast_path      : 1499885864\nlast_crash     : 1499885943\nlast_hang      : 1499885838\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Finicky_File_Folder/input -o /dev/shm/work/Finicky_File_Folder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Finicky_File_Folder/Finicky_File_Folder.dict -- data/linux/processed-challenges/Finicky_File_Folder/bin/Finicky_File_Folder\n'
+p23
+I1
+tp24
+a(I1440
+S'start_time     : 1499884643\nlast_update    : 1499886086\nfuzzer_pid     : 19737\ncycles_done    : 0\nexecs_done     : 299109\nexecs_per_sec  : 148.51\npaths_total    : 32\npaths_favored  : 14\npaths_found    : 31\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 7\npending_favs   : 10\npending_total  : 26\nvariable_paths : 0\nbitmap_cvg     : 0.65%\nunique_crashes : 14\nunique_hangs   : 14\nlast_path      : 1499885864\nlast_crash     : 1499885943\nlast_hang      : 1499886038\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Finicky_File_Folder/input -o /dev/shm/work/Finicky_File_Folder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Finicky_File_Folder/Finicky_File_Folder.dict -- data/linux/processed-challenges/Finicky_File_Folder/bin/Finicky_File_Folder\n'
+p25
+I0
+tp26
+a(I1560
+S'start_time     : 1499884643\nlast_update    : 1499886206\nfuzzer_pid     : 19737\ncycles_done    : 0\nexecs_done     : 317365\nexecs_per_sec  : 150.39\npaths_total    : 32\npaths_favored  : 14\npaths_found    : 31\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 7\npending_favs   : 10\npending_total  : 26\nvariable_paths : 0\nbitmap_cvg     : 0.65%\nunique_crashes : 15\nunique_hangs   : 15\nlast_path      : 1499885864\nlast_crash     : 1499886100\nlast_hang      : 1499886107\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Finicky_File_Folder/input -o /dev/shm/work/Finicky_File_Folder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Finicky_File_Folder/Finicky_File_Folder.dict -- data/linux/processed-challenges/Finicky_File_Folder/bin/Finicky_File_Folder\n'
+p27
+I0
+tp28
+a(I1680
+S'start_time     : 1499884643\nlast_update    : 1499886326\nfuzzer_pid     : 19737\ncycles_done    : 0\nexecs_done     : 335552\nexecs_per_sec  : 153.08\npaths_total    : 33\npaths_favored  : 14\npaths_found    : 32\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 7\npending_favs   : 10\npending_total  : 27\nvariable_paths : 0\nbitmap_cvg     : 0.65%\nunique_crashes : 15\nunique_hangs   : 16\nlast_path      : 1499886295\nlast_crash     : 1499886100\nlast_hang      : 1499886221\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Finicky_File_Folder/input -o /dev/shm/work/Finicky_File_Folder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Finicky_File_Folder/Finicky_File_Folder.dict -- data/linux/processed-challenges/Finicky_File_Folder/bin/Finicky_File_Folder\n'
+p29
+I1
+tp30
+a(I1800
+S'start_time     : 1499884643\nlast_update    : 1499886446\nfuzzer_pid     : 19737\ncycles_done    : 0\nexecs_done     : 353025\nexecs_per_sec  : 142.57\npaths_total    : 33\npaths_favored  : 14\npaths_found    : 32\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 7\npending_favs   : 10\npending_total  : 27\nvariable_paths : 0\nbitmap_cvg     : 0.65%\nunique_crashes : 16\nunique_hangs   : 16\nlast_path      : 1499886295\nlast_crash     : 1499886364\nlast_hang      : 1499886221\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Finicky_File_Folder/input -o /dev/shm/work/Finicky_File_Folder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Finicky_File_Folder/Finicky_File_Folder.dict -- data/linux/processed-challenges/Finicky_File_Folder/bin/Finicky_File_Folder\n'
+p31
+I0
+tp32
+a(I1920
+S'start_time     : 1499884643\nlast_update    : 1499886567\nfuzzer_pid     : 19737\ncycles_done    : 0\nexecs_done     : 370933\nexecs_per_sec  : 80.54\npaths_total    : 34\npaths_favored  : 21\npaths_found    : 33\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 12\npending_favs   : 18\npending_total  : 26\nvariable_paths : 0\nbitmap_cvg     : 0.72%\nunique_crashes : 16\nunique_hangs   : 17\nlast_path      : 1499886493\nlast_crash     : 1499886364\nlast_hang      : 1499886478\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Finicky_File_Folder/input -o /dev/shm/work/Finicky_File_Folder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Finicky_File_Folder/Finicky_File_Folder.dict -- data/linux/processed-challenges/Finicky_File_Folder/bin/Finicky_File_Folder\n'
+p33
+I1
+tp34
+a(I2040
+S'start_time     : 1499884643\nlast_update    : 1499886687\nfuzzer_pid     : 19737\ncycles_done    : 0\nexecs_done     : 388520\nexecs_per_sec  : 172.79\npaths_total    : 34\npaths_favored  : 21\npaths_found    : 33\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 14\npending_favs   : 16\npending_total  : 24\nvariable_paths : 0\nbitmap_cvg     : 0.72%\nunique_crashes : 16\nunique_hangs   : 17\nlast_path      : 1499886493\nlast_crash     : 1499886364\nlast_hang      : 1499886478\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Finicky_File_Folder/input -o /dev/shm/work/Finicky_File_Folder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Finicky_File_Folder/Finicky_File_Folder.dict -- data/linux/processed-challenges/Finicky_File_Folder/bin/Finicky_File_Folder\n'
+p35
+I1
+tp36
+a(I2160
+S'start_time     : 1499884643\nlast_update    : 1499886807\nfuzzer_pid     : 19737\ncycles_done    : 0\nexecs_done     : 408483\nexecs_per_sec  : 169.15\npaths_total    : 36\npaths_favored  : 21\npaths_found    : 35\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 15\npending_favs   : 15\npending_total  : 25\nvariable_paths : 0\nbitmap_cvg     : 0.74%\nunique_crashes : 17\nunique_hangs   : 17\nlast_path      : 1499886765\nlast_crash     : 1499886771\nlast_hang      : 1499886478\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Finicky_File_Folder/input -o /dev/shm/work/Finicky_File_Folder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Finicky_File_Folder/Finicky_File_Folder.dict -- data/linux/processed-challenges/Finicky_File_Folder/bin/Finicky_File_Folder\n'
+p37
+I1
+tp38
+a(I2280
+S'start_time     : 1499884643\nlast_update    : 1499886927\nfuzzer_pid     : 19737\ncycles_done    : 0\nexecs_done     : 426436\nexecs_per_sec  : 136.92\npaths_total    : 36\npaths_favored  : 22\npaths_found    : 35\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 17\npending_favs   : 14\npending_total  : 23\nvariable_paths : 0\nbitmap_cvg     : 0.74%\nunique_crashes : 17\nunique_hangs   : 17\nlast_path      : 1499886765\nlast_crash     : 1499886771\nlast_hang      : 1499886478\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Finicky_File_Folder/input -o /dev/shm/work/Finicky_File_Folder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Finicky_File_Folder/Finicky_File_Folder.dict -- data/linux/processed-challenges/Finicky_File_Folder/bin/Finicky_File_Folder\n'
+p39
+I0
+tp40
+a(I2400
+S'start_time     : 1499884643\nlast_update    : 1499887048\nfuzzer_pid     : 19737\ncycles_done    : 0\nexecs_done     : 443704\nexecs_per_sec  : 141.52\npaths_total    : 38\npaths_favored  : 22\npaths_found    : 37\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 17\npending_favs   : 14\npending_total  : 25\nvariable_paths : 0\nbitmap_cvg     : 0.74%\nunique_crashes : 22\nunique_hangs   : 19\nlast_path      : 1499886940\nlast_crash     : 1499887040\nlast_hang      : 1499887011\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Finicky_File_Folder/input -o /dev/shm/work/Finicky_File_Folder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Finicky_File_Folder/Finicky_File_Folder.dict -- data/linux/processed-challenges/Finicky_File_Folder/bin/Finicky_File_Folder\n'
+p41
+I2
+tp42
+a(I2520
+S'start_time     : 1499884643\nlast_update    : 1499887168\nfuzzer_pid     : 19737\ncycles_done    : 0\nexecs_done     : 460235\nexecs_per_sec  : 305.27\npaths_total    : 38\npaths_favored  : 23\npaths_found    : 37\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 19\npending_favs   : 13\npending_total  : 23\nvariable_paths : 0\nbitmap_cvg     : 0.74%\nunique_crashes : 24\nunique_hangs   : 21\nlast_path      : 1499886940\nlast_crash     : 1499887163\nlast_hang      : 1499887128\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Finicky_File_Folder/input -o /dev/shm/work/Finicky_File_Folder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Finicky_File_Folder/Finicky_File_Folder.dict -- data/linux/processed-challenges/Finicky_File_Folder/bin/Finicky_File_Folder\n'
+p43
+I0
+tp44
+a(I2640
+S'start_time     : 1499884643\nlast_update    : 1499887288\nfuzzer_pid     : 19737\ncycles_done    : 0\nexecs_done     : 477914\nexecs_per_sec  : 89.99\npaths_total    : 39\npaths_favored  : 24\npaths_found    : 38\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 21\npending_favs   : 13\npending_total  : 23\nvariable_paths : 0\nbitmap_cvg     : 0.74%\nunique_crashes : 24\nunique_hangs   : 21\nlast_path      : 1499887176\nlast_crash     : 1499887163\nlast_hang      : 1499887128\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Finicky_File_Folder/input -o /dev/shm/work/Finicky_File_Folder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Finicky_File_Folder/Finicky_File_Folder.dict -- data/linux/processed-challenges/Finicky_File_Folder/bin/Finicky_File_Folder\n'
+p45
+I1
+tp46
+a(I2760
+S'start_time     : 1499884643\nlast_update    : 1499887408\nfuzzer_pid     : 19737\ncycles_done    : 0\nexecs_done     : 499653\nexecs_per_sec  : 145.20\npaths_total    : 39\npaths_favored  : 24\npaths_found    : 38\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 24\npending_favs   : 12\npending_total  : 22\nvariable_paths : 0\nbitmap_cvg     : 0.74%\nunique_crashes : 24\nunique_hangs   : 21\nlast_path      : 1499887176\nlast_crash     : 1499887163\nlast_hang      : 1499887128\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Finicky_File_Folder/input -o /dev/shm/work/Finicky_File_Folder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Finicky_File_Folder/Finicky_File_Folder.dict -- data/linux/processed-challenges/Finicky_File_Folder/bin/Finicky_File_Folder\n'
+p47
+I0
+tp48
+a(I2880
+S'start_time     : 1499884643\nlast_update    : 1499887528\nfuzzer_pid     : 19737\ncycles_done    : 0\nexecs_done     : 518444\nexecs_per_sec  : 115.27\npaths_total    : 40\npaths_favored  : 24\npaths_found    : 39\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 25\npending_favs   : 11\npending_total  : 22\nvariable_paths : 0\nbitmap_cvg     : 0.74%\nunique_crashes : 24\nunique_hangs   : 21\nlast_path      : 1499887482\nlast_crash     : 1499887163\nlast_hang      : 1499887128\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Finicky_File_Folder/input -o /dev/shm/work/Finicky_File_Folder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Finicky_File_Folder/Finicky_File_Folder.dict -- data/linux/processed-challenges/Finicky_File_Folder/bin/Finicky_File_Folder\n'
+p49
+I1
+tp50
+a(I3000
+S'start_time     : 1499884643\nlast_update    : 1499887649\nfuzzer_pid     : 19737\ncycles_done    : 0\nexecs_done     : 534902\nexecs_per_sec  : 135.25\npaths_total    : 42\npaths_favored  : 24\npaths_found    : 41\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 25\npending_favs   : 11\npending_total  : 24\nvariable_paths : 0\nbitmap_cvg     : 0.74%\nunique_crashes : 24\nunique_hangs   : 22\nlast_path      : 1499887571\nlast_crash     : 1499887163\nlast_hang      : 1499887573\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Finicky_File_Folder/input -o /dev/shm/work/Finicky_File_Folder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Finicky_File_Folder/Finicky_File_Folder.dict -- data/linux/processed-challenges/Finicky_File_Folder/bin/Finicky_File_Folder\n'
+p51
+I2
+tp52
+a(I3120
+S'start_time     : 1499884643\nlast_update    : 1499887769\nfuzzer_pid     : 19737\ncycles_done    : 0\nexecs_done     : 553383\nexecs_per_sec  : 152.16\npaths_total    : 46\npaths_favored  : 24\npaths_found    : 45\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 26\npending_favs   : 12\npending_total  : 27\nvariable_paths : 0\nbitmap_cvg     : 0.76%\nunique_crashes : 27\nunique_hangs   : 25\nlast_path      : 1499887751\nlast_crash     : 1499887683\nlast_hang      : 1499887726\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Finicky_File_Folder/input -o /dev/shm/work/Finicky_File_Folder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Finicky_File_Folder/Finicky_File_Folder.dict -- data/linux/processed-challenges/Finicky_File_Folder/bin/Finicky_File_Folder\n'
+p53
+I4
+tp54
+a(I3240
+S'start_time     : 1499884643\nlast_update    : 1499887829\nfuzzer_pid     : 19737\ncycles_done    : 0\nexecs_done     : 562338\nexecs_per_sec  : 154.15\npaths_total    : 46\npaths_favored  : 24\npaths_found    : 45\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 26\npending_favs   : 12\npending_total  : 27\nvariable_paths : 0\nbitmap_cvg     : 0.76%\nunique_crashes : 27\nunique_hangs   : 26\nlast_path      : 1499887751\nlast_crash     : 1499887683\nlast_hang      : 1499887783\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Finicky_File_Folder/input -o /dev/shm/work/Finicky_File_Folder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Finicky_File_Folder/Finicky_File_Folder.dict -- data/linux/processed-challenges/Finicky_File_Folder/bin/Finicky_File_Folder\n'
+p55
+I0
+tp56
+a(I3360
+S'start_time     : 1499884643\nlast_update    : 1499887949\nfuzzer_pid     : 19737\ncycles_done    : 0\nexecs_done     : 584041\nexecs_per_sec  : 363.62\npaths_total    : 46\npaths_favored  : 27\npaths_found    : 45\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 30\npending_favs   : 14\npending_total  : 25\nvariable_paths : 0\nbitmap_cvg     : 0.76%\nunique_crashes : 27\nunique_hangs   : 27\nlast_path      : 1499887751\nlast_crash     : 1499887683\nlast_hang      : 1499887934\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Finicky_File_Folder/input -o /dev/shm/work/Finicky_File_Folder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Finicky_File_Folder/Finicky_File_Folder.dict -- data/linux/processed-challenges/Finicky_File_Folder/bin/Finicky_File_Folder\n'
+p57
+I0
+tp58
+a(I3480
+S'start_time     : 1499884643\nlast_update    : 1499888069\nfuzzer_pid     : 19737\ncycles_done    : 0\nexecs_done     : 617282\nexecs_per_sec  : 130.88\npaths_total    : 46\npaths_favored  : 27\npaths_found    : 45\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 30\npending_favs   : 14\npending_total  : 25\nvariable_paths : 0\nbitmap_cvg     : 0.76%\nunique_crashes : 28\nunique_hangs   : 28\nlast_path      : 1499887751\nlast_crash     : 1499887970\nlast_hang      : 1499887971\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Finicky_File_Folder/input -o /dev/shm/work/Finicky_File_Folder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Finicky_File_Folder/Finicky_File_Folder.dict -- data/linux/processed-challenges/Finicky_File_Folder/bin/Finicky_File_Folder\n'
+p59
+I0
+tp60
+a(I3600
+S'start_time     : 1499884643\nlast_update    : 1499888189\nfuzzer_pid     : 19737\ncycles_done    : 0\nexecs_done     : 635778\nexecs_per_sec  : 83.09\npaths_total    : 49\npaths_favored  : 27\npaths_found    : 48\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 33\npending_favs   : 12\npending_total  : 26\nvariable_paths : 0\nbitmap_cvg     : 0.82%\nunique_crashes : 31\nunique_hangs   : 29\nlast_path      : 1499888182\nlast_crash     : 1499888183\nlast_hang      : 1499888183\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Finicky_File_Folder/input -o /dev/shm/work/Finicky_File_Folder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Finicky_File_Folder/Finicky_File_Folder.dict -- data/linux/processed-challenges/Finicky_File_Folder/bin/Finicky_File_Folder\n'
+p61
+I4
+tp62
+a(I3720
+S'start_time     : 1499884643\nlast_update    : 1499888310\nfuzzer_pid     : 19737\ncycles_done    : 0\nexecs_done     : 653290\nexecs_per_sec  : 166.22\npaths_total    : 52\npaths_favored  : 29\npaths_found    : 51\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 34\npending_favs   : 12\npending_total  : 28\nvariable_paths : 0\nbitmap_cvg     : 0.82%\nunique_crashes : 35\nunique_hangs   : 31\nlast_path      : 1499888295\nlast_crash     : 1499888277\nlast_hang      : 1499888269\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Finicky_File_Folder/input -o /dev/shm/work/Finicky_File_Folder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Finicky_File_Folder/Finicky_File_Folder.dict -- data/linux/processed-challenges/Finicky_File_Folder/bin/Finicky_File_Folder\n'
+p63
+I3
+tp64
+a(I3840
+S'start_time     : 1499884643\nlast_update    : 1499888430\nfuzzer_pid     : 19737\ncycles_done    : 0\nexecs_done     : 673748\nexecs_per_sec  : 168.83\npaths_total    : 53\npaths_favored  : 29\npaths_found    : 52\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 34\npending_favs   : 12\npending_total  : 29\nvariable_paths : 0\nbitmap_cvg     : 0.82%\nunique_crashes : 36\nunique_hangs   : 32\nlast_path      : 1499888317\nlast_crash     : 1499888399\nlast_hang      : 1499888311\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Finicky_File_Folder/input -o /dev/shm/work/Finicky_File_Folder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Finicky_File_Folder/Finicky_File_Folder.dict -- data/linux/processed-challenges/Finicky_File_Folder/bin/Finicky_File_Folder\n'
+p65
+I1
+tp66
+a(I3960
+S'start_time     : 1499884643\nlast_update    : 1499888550\nfuzzer_pid     : 19737\ncycles_done    : 0\nexecs_done     : 694082\nexecs_per_sec  : 171.13\npaths_total    : 56\npaths_favored  : 29\npaths_found    : 55\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 34\npending_favs   : 12\npending_total  : 32\nvariable_paths : 0\nbitmap_cvg     : 0.83%\nunique_crashes : 36\nunique_hangs   : 32\nlast_path      : 1499888508\nlast_crash     : 1499888399\nlast_hang      : 1499888311\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Finicky_File_Folder/input -o /dev/shm/work/Finicky_File_Folder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Finicky_File_Folder/Finicky_File_Folder.dict -- data/linux/processed-challenges/Finicky_File_Folder/bin/Finicky_File_Folder\n'
+p67
+I2
+tp68
+a(I4080
+S'start_time     : 1499884643\nlast_update    : 1499888670\nfuzzer_pid     : 19737\ncycles_done    : 0\nexecs_done     : 714524\nexecs_per_sec  : 175.42\npaths_total    : 56\npaths_favored  : 29\npaths_found    : 55\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 34\npending_favs   : 12\npending_total  : 32\nvariable_paths : 0\nbitmap_cvg     : 0.83%\nunique_crashes : 36\nunique_hangs   : 32\nlast_path      : 1499888508\nlast_crash     : 1499888399\nlast_hang      : 1499888311\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Finicky_File_Folder/input -o /dev/shm/work/Finicky_File_Folder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Finicky_File_Folder/Finicky_File_Folder.dict -- data/linux/processed-challenges/Finicky_File_Folder/bin/Finicky_File_Folder\n'
+p69
+I1
+tp70
+a(I4200
+S'start_time     : 1499884643\nlast_update    : 1499888790\nfuzzer_pid     : 19737\ncycles_done    : 0\nexecs_done     : 734958\nexecs_per_sec  : 166.78\npaths_total    : 57\npaths_favored  : 29\npaths_found    : 56\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 34\npending_favs   : 12\npending_total  : 33\nvariable_paths : 0\nbitmap_cvg     : 0.83%\nunique_crashes : 36\nunique_hangs   : 33\nlast_path      : 1499888688\nlast_crash     : 1499888399\nlast_hang      : 1499888779\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Finicky_File_Folder/input -o /dev/shm/work/Finicky_File_Folder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Finicky_File_Folder/Finicky_File_Folder.dict -- data/linux/processed-challenges/Finicky_File_Folder/bin/Finicky_File_Folder\n'
+p71
+I0
+tp72
+a(I4320
+S'start_time     : 1499884643\nlast_update    : 1499888911\nfuzzer_pid     : 19737\ncycles_done    : 0\nexecs_done     : 755094\nexecs_per_sec  : 166.91\npaths_total    : 57\npaths_favored  : 29\npaths_found    : 56\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 34\npending_favs   : 12\npending_total  : 33\nvariable_paths : 0\nbitmap_cvg     : 0.83%\nunique_crashes : 36\nunique_hangs   : 34\nlast_path      : 1499888688\nlast_crash     : 1499888399\nlast_hang      : 1499888869\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Finicky_File_Folder/input -o /dev/shm/work/Finicky_File_Folder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Finicky_File_Folder/Finicky_File_Folder.dict -- data/linux/processed-challenges/Finicky_File_Folder/bin/Finicky_File_Folder\n'
+p73
+I0
+tp74
+a(I4440
+S'start_time     : 1499884643\nlast_update    : 1499889031\nfuzzer_pid     : 19737\ncycles_done    : 0\nexecs_done     : 775519\nexecs_per_sec  : 170.72\npaths_total    : 58\npaths_favored  : 29\npaths_found    : 57\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 34\npending_favs   : 12\npending_total  : 34\nvariable_paths : 0\nbitmap_cvg     : 0.83%\nunique_crashes : 36\nunique_hangs   : 34\nlast_path      : 1499889017\nlast_crash     : 1499888399\nlast_hang      : 1499888869\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Finicky_File_Folder/input -o /dev/shm/work/Finicky_File_Folder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Finicky_File_Folder/Finicky_File_Folder.dict -- data/linux/processed-challenges/Finicky_File_Folder/bin/Finicky_File_Folder\n'
+p75
+I1
+tp76
+a(I4560
+S'start_time     : 1499884643\nlast_update    : 1499889151\nfuzzer_pid     : 19737\ncycles_done    : 0\nexecs_done     : 795757\nexecs_per_sec  : 171.91\npaths_total    : 58\npaths_favored  : 29\npaths_found    : 57\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 34\npending_favs   : 12\npending_total  : 34\nvariable_paths : 0\nbitmap_cvg     : 0.83%\nunique_crashes : 36\nunique_hangs   : 34\nlast_path      : 1499889017\nlast_crash     : 1499888399\nlast_hang      : 1499888869\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Finicky_File_Folder/input -o /dev/shm/work/Finicky_File_Folder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Finicky_File_Folder/Finicky_File_Folder.dict -- data/linux/processed-challenges/Finicky_File_Folder/bin/Finicky_File_Folder\n'
+p77
+I0
+tp78
+a(I4680
+S'start_time     : 1499884643\nlast_update    : 1499889271\nfuzzer_pid     : 19737\ncycles_done    : 0\nexecs_done     : 813921\nexecs_per_sec  : 163.29\npaths_total    : 60\npaths_favored  : 28\npaths_found    : 59\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 35\npending_favs   : 15\npending_total  : 35\nvariable_paths : 0\nbitmap_cvg     : 0.83%\nunique_crashes : 36\nunique_hangs   : 35\nlast_path      : 1499889268\nlast_crash     : 1499888399\nlast_hang      : 1499889259\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Finicky_File_Folder/input -o /dev/shm/work/Finicky_File_Folder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Finicky_File_Folder/Finicky_File_Folder.dict -- data/linux/processed-challenges/Finicky_File_Folder/bin/Finicky_File_Folder\n'
+p79
+I3
+tp80
+a(I4800
+S'start_time     : 1499884643\nlast_update    : 1499889391\nfuzzer_pid     : 19737\ncycles_done    : 0\nexecs_done     : 834133\nexecs_per_sec  : 169.59\npaths_total    : 61\npaths_favored  : 28\npaths_found    : 60\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 35\npending_favs   : 15\npending_total  : 36\nvariable_paths : 0\nbitmap_cvg     : 0.83%\nunique_crashes : 36\nunique_hangs   : 35\nlast_path      : 1499889301\nlast_crash     : 1499888399\nlast_hang      : 1499889259\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Finicky_File_Folder/input -o /dev/shm/work/Finicky_File_Folder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Finicky_File_Folder/Finicky_File_Folder.dict -- data/linux/processed-challenges/Finicky_File_Folder/bin/Finicky_File_Folder\n'
+p81
+I1
+tp82
+a(I4920
+S'start_time     : 1499884643\nlast_update    : 1499889511\nfuzzer_pid     : 19737\ncycles_done    : 0\nexecs_done     : 854132\nexecs_per_sec  : 156.89\npaths_total    : 62\npaths_favored  : 28\npaths_found    : 61\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 35\npending_favs   : 15\npending_total  : 37\nvariable_paths : 0\nbitmap_cvg     : 0.83%\nunique_crashes : 36\nunique_hangs   : 35\nlast_path      : 1499889393\nlast_crash     : 1499888399\nlast_hang      : 1499889259\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Finicky_File_Folder/input -o /dev/shm/work/Finicky_File_Folder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Finicky_File_Folder/Finicky_File_Folder.dict -- data/linux/processed-challenges/Finicky_File_Folder/bin/Finicky_File_Folder\n'
+p83
+I0
+tp84
+a(I5040
+S'start_time     : 1499884643\nlast_update    : 1499889632\nfuzzer_pid     : 19737\ncycles_done    : 0\nexecs_done     : 874173\nexecs_per_sec  : 176.75\npaths_total    : 63\npaths_favored  : 28\npaths_found    : 62\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 35\npending_favs   : 15\npending_total  : 38\nvariable_paths : 0\nbitmap_cvg     : 0.83%\nunique_crashes : 36\nunique_hangs   : 35\nlast_path      : 1499889630\nlast_crash     : 1499888399\nlast_hang      : 1499889259\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Finicky_File_Folder/input -o /dev/shm/work/Finicky_File_Folder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Finicky_File_Folder/Finicky_File_Folder.dict -- data/linux/processed-challenges/Finicky_File_Folder/bin/Finicky_File_Folder\n'
+p85
+I1
+tp86
+a(I5160
+S'start_time     : 1499884643\nlast_update    : 1499889752\nfuzzer_pid     : 19737\ncycles_done    : 0\nexecs_done     : 894558\nexecs_per_sec  : 173.46\npaths_total    : 63\npaths_favored  : 28\npaths_found    : 62\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 35\npending_favs   : 15\npending_total  : 38\nvariable_paths : 0\nbitmap_cvg     : 0.83%\nunique_crashes : 36\nunique_hangs   : 35\nlast_path      : 1499889630\nlast_crash     : 1499888399\nlast_hang      : 1499889259\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Finicky_File_Folder/input -o /dev/shm/work/Finicky_File_Folder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Finicky_File_Folder/Finicky_File_Folder.dict -- data/linux/processed-challenges/Finicky_File_Folder/bin/Finicky_File_Folder\n'
+p87
+I2
+tp88
+a(I5280
+S'start_time     : 1499884643\nlast_update    : 1499889872\nfuzzer_pid     : 19737\ncycles_done    : 0\nexecs_done     : 914854\nexecs_per_sec  : 165.64\npaths_total    : 67\npaths_favored  : 28\npaths_found    : 66\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 35\npending_favs   : 15\npending_total  : 42\nvariable_paths : 0\nbitmap_cvg     : 0.83%\nunique_crashes : 36\nunique_hangs   : 35\nlast_path      : 1499889865\nlast_crash     : 1499888399\nlast_hang      : 1499889259\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Finicky_File_Folder/input -o /dev/shm/work/Finicky_File_Folder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Finicky_File_Folder/Finicky_File_Folder.dict -- data/linux/processed-challenges/Finicky_File_Folder/bin/Finicky_File_Folder\n'
+p89
+I2
+tp90
+a(I5400
+S'start_time     : 1499884643\nlast_update    : 1499889992\nfuzzer_pid     : 19737\ncycles_done    : 0\nexecs_done     : 935248\nexecs_per_sec  : 167.20\npaths_total    : 67\npaths_favored  : 28\npaths_found    : 66\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 35\npending_favs   : 15\npending_total  : 42\nvariable_paths : 0\nbitmap_cvg     : 0.83%\nunique_crashes : 36\nunique_hangs   : 35\nlast_path      : 1499889865\nlast_crash     : 1499888399\nlast_hang      : 1499889259\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Finicky_File_Folder/input -o /dev/shm/work/Finicky_File_Folder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Finicky_File_Folder/Finicky_File_Folder.dict -- data/linux/processed-challenges/Finicky_File_Folder/bin/Finicky_File_Folder\n'
+p91
+I0
+tp92
+a(I5520
+S'start_time     : 1499884643\nlast_update    : 1499890112\nfuzzer_pid     : 19737\ncycles_done    : 0\nexecs_done     : 955471\nexecs_per_sec  : 168.97\npaths_total    : 67\npaths_favored  : 28\npaths_found    : 66\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 35\npending_favs   : 15\npending_total  : 42\nvariable_paths : 0\nbitmap_cvg     : 0.83%\nunique_crashes : 36\nunique_hangs   : 36\nlast_path      : 1499889865\nlast_crash     : 1499888399\nlast_hang      : 1499890099\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Finicky_File_Folder/input -o /dev/shm/work/Finicky_File_Folder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Finicky_File_Folder/Finicky_File_Folder.dict -- data/linux/processed-challenges/Finicky_File_Folder/bin/Finicky_File_Folder\n'
+p93
+I0
+tp94
+a(I5640
+S'start_time     : 1499884643\nlast_update    : 1499890232\nfuzzer_pid     : 19737\ncycles_done    : 0\nexecs_done     : 977879\nexecs_per_sec  : 57.23\npaths_total    : 68\npaths_favored  : 29\npaths_found    : 67\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 38\npending_favs   : 17\npending_total  : 42\nvariable_paths : 0\nbitmap_cvg     : 0.86%\nunique_crashes : 38\nunique_hangs   : 37\nlast_path      : 1499890216\nlast_crash     : 1499890213\nlast_hang      : 1499890212\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Finicky_File_Folder/input -o /dev/shm/work/Finicky_File_Folder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Finicky_File_Folder/Finicky_File_Folder.dict -- data/linux/processed-challenges/Finicky_File_Folder/bin/Finicky_File_Folder\n'
+p95
+I1
+tp96
+a(I5760
+S'start_time     : 1499884643\nlast_update    : 1499890353\nfuzzer_pid     : 19737\ncycles_done    : 0\nexecs_done     : 999478\nexecs_per_sec  : 304.40\npaths_total    : 69\npaths_favored  : 29\npaths_found    : 68\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 39\npending_favs   : 17\npending_total  : 42\nvariable_paths : 0\nbitmap_cvg     : 0.86%\nunique_crashes : 39\nunique_hangs   : 37\nlast_path      : 1499890323\nlast_crash     : 1499890336\nlast_hang      : 1499890212\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Finicky_File_Folder/input -o /dev/shm/work/Finicky_File_Folder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Finicky_File_Folder/Finicky_File_Folder.dict -- data/linux/processed-challenges/Finicky_File_Folder/bin/Finicky_File_Folder\n'
+p97
+I1
+tp98
+a(I5880
+S'start_time     : 1499884643\nlast_update    : 1499890473\nfuzzer_pid     : 19737\ncycles_done    : 0\nexecs_done     : 1010692\nexecs_per_sec  : 221.18\npaths_total    : 69\npaths_favored  : 29\npaths_found    : 68\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 39\npending_favs   : 17\npending_total  : 42\nvariable_paths : 0\nbitmap_cvg     : 0.86%\nunique_crashes : 39\nunique_hangs   : 37\nlast_path      : 1499890323\nlast_crash     : 1499890336\nlast_hang      : 1499890212\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Finicky_File_Folder/input -o /dev/shm/work/Finicky_File_Folder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Finicky_File_Folder/Finicky_File_Folder.dict -- data/linux/processed-challenges/Finicky_File_Folder/bin/Finicky_File_Folder\n'
+p99
+I0
+tp100
+a(I6000
+S'start_time     : 1499884643\nlast_update    : 1499890593\nfuzzer_pid     : 19737\ncycles_done    : 0\nexecs_done     : 1029415\nexecs_per_sec  : 51.77\npaths_total    : 69\npaths_favored  : 28\npaths_found    : 68\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 41\npending_favs   : 16\npending_total  : 41\nvariable_paths : 0\nbitmap_cvg     : 0.86%\nunique_crashes : 39\nunique_hangs   : 37\nlast_path      : 1499890323\nlast_crash     : 1499890336\nlast_hang      : 1499890212\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Finicky_File_Folder/input -o /dev/shm/work/Finicky_File_Folder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Finicky_File_Folder/Finicky_File_Folder.dict -- data/linux/processed-challenges/Finicky_File_Folder/bin/Finicky_File_Folder\n'
+p101
+I1
+tp102
+a(I6120
+S'start_time     : 1499884643\nlast_update    : 1499890714\nfuzzer_pid     : 19737\ncycles_done    : 0\nexecs_done     : 1045026\nexecs_per_sec  : 150.12\npaths_total    : 72\npaths_favored  : 28\npaths_found    : 71\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 41\npending_favs   : 16\npending_total  : 44\nvariable_paths : 0\nbitmap_cvg     : 0.86%\nunique_crashes : 39\nunique_hangs   : 37\nlast_path      : 1499890659\nlast_crash     : 1499890336\nlast_hang      : 1499890212\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Finicky_File_Folder/input -o /dev/shm/work/Finicky_File_Folder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Finicky_File_Folder/Finicky_File_Folder.dict -- data/linux/processed-challenges/Finicky_File_Folder/bin/Finicky_File_Folder\n'
+p103
+I2
+tp104
+a(I6240
+S'start_time     : 1499884643\nlast_update    : 1499890834\nfuzzer_pid     : 19737\ncycles_done    : 0\nexecs_done     : 1063386\nexecs_per_sec  : 150.45\npaths_total    : 72\npaths_favored  : 28\npaths_found    : 71\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 41\npending_favs   : 16\npending_total  : 44\nvariable_paths : 0\nbitmap_cvg     : 0.86%\nunique_crashes : 39\nunique_hangs   : 37\nlast_path      : 1499890659\nlast_crash     : 1499890336\nlast_hang      : 1499890212\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Finicky_File_Folder/input -o /dev/shm/work/Finicky_File_Folder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Finicky_File_Folder/Finicky_File_Folder.dict -- data/linux/processed-challenges/Finicky_File_Folder/bin/Finicky_File_Folder\n'
+p105
+I0
+tp106
+a(I6360
+S'start_time     : 1499884643\nlast_update    : 1499890954\nfuzzer_pid     : 19737\ncycles_done    : 0\nexecs_done     : 1082501\nexecs_per_sec  : 81.90\npaths_total    : 74\npaths_favored  : 31\npaths_found    : 73\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 42\npending_favs   : 18\npending_total  : 45\nvariable_paths : 0\nbitmap_cvg     : 0.87%\nunique_crashes : 41\nunique_hangs   : 38\nlast_path      : 1499890906\nlast_crash     : 1499890945\nlast_hang      : 1499890905\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Finicky_File_Folder/input -o /dev/shm/work/Finicky_File_Folder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Finicky_File_Folder/Finicky_File_Folder.dict -- data/linux/processed-challenges/Finicky_File_Folder/bin/Finicky_File_Folder\n'
+p107
+I2
+tp108
+a(I6480
+S'start_time     : 1499884643\nlast_update    : 1499891074\nfuzzer_pid     : 19737\ncycles_done    : 0\nexecs_done     : 1101956\nexecs_per_sec  : 149.61\npaths_total    : 76\npaths_favored  : 33\npaths_found    : 75\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 43\npending_favs   : 19\npending_total  : 46\nvariable_paths : 0\nbitmap_cvg     : 0.88%\nunique_crashes : 42\nunique_hangs   : 39\nlast_path      : 1499891069\nlast_crash     : 1499891056\nlast_hang      : 1499890991\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Finicky_File_Folder/input -o /dev/shm/work/Finicky_File_Folder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Finicky_File_Folder/Finicky_File_Folder.dict -- data/linux/processed-challenges/Finicky_File_Folder/bin/Finicky_File_Folder\n'
+p109
+I2
+tp110
+a(I6600
+S'start_time     : 1499884643\nlast_update    : 1499891194\nfuzzer_pid     : 19737\ncycles_done    : 0\nexecs_done     : 1122606\nexecs_per_sec  : 248.94\npaths_total    : 77\npaths_favored  : 35\npaths_found    : 76\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 44\npending_favs   : 21\npending_total  : 46\nvariable_paths : 0\nbitmap_cvg     : 0.88%\nunique_crashes : 44\nunique_hangs   : 40\nlast_path      : 1499891189\nlast_crash     : 1499891188\nlast_hang      : 1499891190\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Finicky_File_Folder/input -o /dev/shm/work/Finicky_File_Folder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Finicky_File_Folder/Finicky_File_Folder.dict -- data/linux/processed-challenges/Finicky_File_Folder/bin/Finicky_File_Folder\n'
+p111
+I3
+tp112
+a(I6720
+S'start_time     : 1499884643\nlast_update    : 1499891314\nfuzzer_pid     : 19737\ncycles_done    : 0\nexecs_done     : 1140056\nexecs_per_sec  : 137.23\npaths_total    : 79\npaths_favored  : 35\npaths_found    : 78\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 44\npending_favs   : 21\npending_total  : 48\nvariable_paths : 0\nbitmap_cvg     : 0.88%\nunique_crashes : 46\nunique_hangs   : 41\nlast_path      : 1499891221\nlast_crash     : 1499891283\nlast_hang      : 1499891283\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Finicky_File_Folder/input -o /dev/shm/work/Finicky_File_Folder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Finicky_File_Folder/Finicky_File_Folder.dict -- data/linux/processed-challenges/Finicky_File_Folder/bin/Finicky_File_Folder\n'
+p113
+I1
+tp114
+a(I6840
+S'start_time     : 1499884643\nlast_update    : 1499891435\nfuzzer_pid     : 19737\ncycles_done    : 0\nexecs_done     : 1158089\nexecs_per_sec  : 178.02\npaths_total    : 80\npaths_favored  : 35\npaths_found    : 79\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 46\npending_favs   : 22\npending_total  : 48\nvariable_paths : 0\nbitmap_cvg     : 0.88%\nunique_crashes : 48\nunique_hangs   : 43\nlast_path      : 1499891369\nlast_crash     : 1499891406\nlast_hang      : 1499891420\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Finicky_File_Folder/input -o /dev/shm/work/Finicky_File_Folder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Finicky_File_Folder/Finicky_File_Folder.dict -- data/linux/processed-challenges/Finicky_File_Folder/bin/Finicky_File_Folder\n'
+p115
+I0
+tp116
+a(I6960
+S'start_time     : 1499884643\nlast_update    : 1499891555\nfuzzer_pid     : 19737\ncycles_done    : 0\nexecs_done     : 1177402\nexecs_per_sec  : 155.85\npaths_total    : 80\npaths_favored  : 35\npaths_found    : 79\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 47\npending_favs   : 22\npending_total  : 47\nvariable_paths : 0\nbitmap_cvg     : 0.88%\nunique_crashes : 50\nunique_hangs   : 45\nlast_path      : 1499891369\nlast_crash     : 1499891515\nlast_hang      : 1499891514\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Finicky_File_Folder/input -o /dev/shm/work/Finicky_File_Folder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Finicky_File_Folder/Finicky_File_Folder.dict -- data/linux/processed-challenges/Finicky_File_Folder/bin/Finicky_File_Folder\n'
+p117
+I4
+tp118
+a(I7080
+S'start_time     : 1499884643\nlast_update    : 1499891675\nfuzzer_pid     : 19737\ncycles_done    : 0\nexecs_done     : 1196887\nexecs_per_sec  : 284.15\npaths_total    : 84\npaths_favored  : 38\npaths_found    : 83\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 54\npending_favs   : 23\npending_total  : 49\nvariable_paths : 0\nbitmap_cvg     : 0.89%\nunique_crashes : 53\nunique_hangs   : 54\nlast_path      : 1499891606\nlast_crash     : 1499891665\nlast_hang      : 1499891657\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Finicky_File_Folder/input -o /dev/shm/work/Finicky_File_Folder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Finicky_File_Folder/Finicky_File_Folder.dict -- data/linux/processed-challenges/Finicky_File_Folder/bin/Finicky_File_Folder\n'
+p119
+I1
+tp120
+a(I7200
+S'start_time     : 1499884643\nlast_update    : 1499891795\nfuzzer_pid     : 19737\ncycles_done    : 0\nexecs_done     : 1210971\nexecs_per_sec  : 138.96\npaths_total    : 87\npaths_favored  : 38\npaths_found    : 86\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 54\npending_favs   : 23\npending_total  : 52\nvariable_paths : 0\nbitmap_cvg     : 0.89%\nunique_crashes : 55\nunique_hangs   : 54\nlast_path      : 1499891780\nlast_crash     : 1499891770\nlast_hang      : 1499891657\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Finicky_File_Folder/input -o /dev/shm/work/Finicky_File_Folder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Finicky_File_Folder/Finicky_File_Folder.dict -- data/linux/processed-challenges/Finicky_File_Folder/bin/Finicky_File_Folder\n'
+p121
+I3
+tp122
+a(I7320
+S'start_time     : 1499884643\nlast_update    : 1499891915\nfuzzer_pid     : 19737\ncycles_done    : 0\nexecs_done     : 1228850\nexecs_per_sec  : 162.11\npaths_total    : 88\npaths_favored  : 38\npaths_found    : 87\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 54\npending_favs   : 23\npending_total  : 53\nvariable_paths : 0\nbitmap_cvg     : 0.89%\nunique_crashes : 56\nunique_hangs   : 55\nlast_path      : 1499891815\nlast_crash     : 1499891867\nlast_hang      : 1499891876\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Finicky_File_Folder/input -o /dev/shm/work/Finicky_File_Folder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Finicky_File_Folder/Finicky_File_Folder.dict -- data/linux/processed-challenges/Finicky_File_Folder/bin/Finicky_File_Folder\n'
+p123
+I1
+tp124
+a(I7440
+S'start_time     : 1499884643\nlast_update    : 1499892035\nfuzzer_pid     : 19737\ncycles_done    : 0\nexecs_done     : 1247113\nexecs_per_sec  : 144.65\npaths_total    : 89\npaths_favored  : 38\npaths_found    : 88\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 54\npending_favs   : 23\npending_total  : 54\nvariable_paths : 0\nbitmap_cvg     : 0.89%\nunique_crashes : 56\nunique_hangs   : 55\nlast_path      : 1499891942\nlast_crash     : 1499891867\nlast_hang      : 1499891876\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Finicky_File_Folder/input -o /dev/shm/work/Finicky_File_Folder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Finicky_File_Folder/Finicky_File_Folder.dict -- data/linux/processed-challenges/Finicky_File_Folder/bin/Finicky_File_Folder\n'
+p125
+I0
+tp126
+a(I7560
+S'start_time     : 1499884643\nlast_update    : 1499892155\nfuzzer_pid     : 19737\ncycles_done    : 0\nexecs_done     : 1265397\nexecs_per_sec  : 149.55\npaths_total    : 89\npaths_favored  : 38\npaths_found    : 88\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 54\npending_favs   : 23\npending_total  : 54\nvariable_paths : 0\nbitmap_cvg     : 0.89%\nunique_crashes : 56\nunique_hangs   : 55\nlast_path      : 1499891942\nlast_crash     : 1499891867\nlast_hang      : 1499891876\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Finicky_File_Folder/input -o /dev/shm/work/Finicky_File_Folder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Finicky_File_Folder/Finicky_File_Folder.dict -- data/linux/processed-challenges/Finicky_File_Folder/bin/Finicky_File_Folder\n'
+p127
+I0
+tp128
+a(I7680
+S'start_time     : 1499884643\nlast_update    : 1499892276\nfuzzer_pid     : 19737\ncycles_done    : 0\nexecs_done     : 1283515\nexecs_per_sec  : 148.55\npaths_total    : 89\npaths_favored  : 38\npaths_found    : 88\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 54\npending_favs   : 23\npending_total  : 54\nvariable_paths : 0\nbitmap_cvg     : 0.89%\nunique_crashes : 56\nunique_hangs   : 55\nlast_path      : 1499891942\nlast_crash     : 1499891867\nlast_hang      : 1499891876\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Finicky_File_Folder/input -o /dev/shm/work/Finicky_File_Folder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Finicky_File_Folder/Finicky_File_Folder.dict -- data/linux/processed-challenges/Finicky_File_Folder/bin/Finicky_File_Folder\n'
+p129
+I0
+tp130
+a(I7800
+S'start_time     : 1499884643\nlast_update    : 1499892396\nfuzzer_pid     : 19737\ncycles_done    : 0\nexecs_done     : 1301640\nexecs_per_sec  : 156.29\npaths_total    : 89\npaths_favored  : 38\npaths_found    : 88\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 54\npending_favs   : 23\npending_total  : 54\nvariable_paths : 0\nbitmap_cvg     : 0.89%\nunique_crashes : 56\nunique_hangs   : 56\nlast_path      : 1499891942\nlast_crash     : 1499891867\nlast_hang      : 1499892297\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Finicky_File_Folder/input -o /dev/shm/work/Finicky_File_Folder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Finicky_File_Folder/Finicky_File_Folder.dict -- data/linux/processed-challenges/Finicky_File_Folder/bin/Finicky_File_Folder\n'
+p131
+I0
+tp132
+a(I7920
+S'start_time     : 1499884643\nlast_update    : 1499892516\nfuzzer_pid     : 19737\ncycles_done    : 0\nexecs_done     : 1319075\nexecs_per_sec  : 153.24\npaths_total    : 89\npaths_favored  : 38\npaths_found    : 88\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 54\npending_favs   : 23\npending_total  : 54\nvariable_paths : 0\nbitmap_cvg     : 0.89%\nunique_crashes : 56\nunique_hangs   : 56\nlast_path      : 1499891942\nlast_crash     : 1499891867\nlast_hang      : 1499892297\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Finicky_File_Folder/input -o /dev/shm/work/Finicky_File_Folder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Finicky_File_Folder/Finicky_File_Folder.dict -- data/linux/processed-challenges/Finicky_File_Folder/bin/Finicky_File_Folder\n'
+p133
+I0
+tp134
+a(I8040
+S'start_time     : 1499884643\nlast_update    : 1499892636\nfuzzer_pid     : 19737\ncycles_done    : 0\nexecs_done     : 1336935\nexecs_per_sec  : 144.08\npaths_total    : 89\npaths_favored  : 38\npaths_found    : 88\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 54\npending_favs   : 23\npending_total  : 54\nvariable_paths : 0\nbitmap_cvg     : 0.89%\nunique_crashes : 56\nunique_hangs   : 56\nlast_path      : 1499891942\nlast_crash     : 1499891867\nlast_hang      : 1499892297\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Finicky_File_Folder/input -o /dev/shm/work/Finicky_File_Folder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Finicky_File_Folder/Finicky_File_Folder.dict -- data/linux/processed-challenges/Finicky_File_Folder/bin/Finicky_File_Folder\n'
+p135
+I0
+tp136
+a(I8160
+S'start_time     : 1499884643\nlast_update    : 1499892757\nfuzzer_pid     : 19737\ncycles_done    : 0\nexecs_done     : 1354661\nexecs_per_sec  : 137.69\npaths_total    : 89\npaths_favored  : 38\npaths_found    : 88\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 54\npending_favs   : 23\npending_total  : 54\nvariable_paths : 0\nbitmap_cvg     : 0.89%\nunique_crashes : 56\nunique_hangs   : 56\nlast_path      : 1499891942\nlast_crash     : 1499891867\nlast_hang      : 1499892297\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Finicky_File_Folder/input -o /dev/shm/work/Finicky_File_Folder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Finicky_File_Folder/Finicky_File_Folder.dict -- data/linux/processed-challenges/Finicky_File_Folder/bin/Finicky_File_Folder\n'
+p137
+I0
+tp138
+a(I8280
+S'start_time     : 1499884643\nlast_update    : 1499892877\nfuzzer_pid     : 19737\ncycles_done    : 0\nexecs_done     : 1371096\nexecs_per_sec  : 156.19\npaths_total    : 89\npaths_favored  : 39\npaths_found    : 88\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 55\npending_favs   : 24\npending_total  : 53\nvariable_paths : 0\nbitmap_cvg     : 0.89%\nunique_crashes : 56\nunique_hangs   : 56\nlast_path      : 1499891942\nlast_crash     : 1499891867\nlast_hang      : 1499892297\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Finicky_File_Folder/input -o /dev/shm/work/Finicky_File_Folder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Finicky_File_Folder/Finicky_File_Folder.dict -- data/linux/processed-challenges/Finicky_File_Folder/bin/Finicky_File_Folder\n'
+p139
+I2
+tp140
+a(I8400
+S'start_time     : 1499884643\nlast_update    : 1499892997\nfuzzer_pid     : 19737\ncycles_done    : 0\nexecs_done     : 1389246\nexecs_per_sec  : 60.86\npaths_total    : 91\npaths_favored  : 39\npaths_found    : 90\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 56\npending_favs   : 23\npending_total  : 54\nvariable_paths : 0\nbitmap_cvg     : 0.89%\nunique_crashes : 57\nunique_hangs   : 58\nlast_path      : 1499892927\nlast_crash     : 1499892927\nlast_hang      : 1499892927\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Finicky_File_Folder/input -o /dev/shm/work/Finicky_File_Folder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Finicky_File_Folder/Finicky_File_Folder.dict -- data/linux/processed-challenges/Finicky_File_Folder/bin/Finicky_File_Folder\n'
+p141
+I2
+tp142
+a(I8520
+S'start_time     : 1499884643\nlast_update    : 1499893117\nfuzzer_pid     : 19737\ncycles_done    : 0\nexecs_done     : 1404894\nexecs_per_sec  : 158.46\npaths_total    : 94\npaths_favored  : 39\npaths_found    : 93\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 56\npending_favs   : 23\npending_total  : 57\nvariable_paths : 0\nbitmap_cvg     : 0.89%\nunique_crashes : 57\nunique_hangs   : 58\nlast_path      : 1499893115\nlast_crash     : 1499892927\nlast_hang      : 1499892927\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Finicky_File_Folder/input -o /dev/shm/work/Finicky_File_Folder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Finicky_File_Folder/Finicky_File_Folder.dict -- data/linux/processed-challenges/Finicky_File_Folder/bin/Finicky_File_Folder\n'
+p143
+I1
+tp144
+a(I8640
+S'start_time     : 1499884643\nlast_update    : 1499893237\nfuzzer_pid     : 19737\ncycles_done    : 0\nexecs_done     : 1423066\nexecs_per_sec  : 144.29\npaths_total    : 94\npaths_favored  : 39\npaths_found    : 93\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 56\npending_favs   : 23\npending_total  : 57\nvariable_paths : 0\nbitmap_cvg     : 0.89%\nunique_crashes : 58\nunique_hangs   : 58\nlast_path      : 1499893115\nlast_crash     : 1499893230\nlast_hang      : 1499892927\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Finicky_File_Folder/input -o /dev/shm/work/Finicky_File_Folder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Finicky_File_Folder/Finicky_File_Folder.dict -- data/linux/processed-challenges/Finicky_File_Folder/bin/Finicky_File_Folder\n'
+p145
+I0
+tp146
+a(I8760
+S'start_time     : 1499884643\nlast_update    : 1499893358\nfuzzer_pid     : 19737\ncycles_done    : 0\nexecs_done     : 1441390\nexecs_per_sec  : 156.63\npaths_total    : 95\npaths_favored  : 39\npaths_found    : 94\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 56\npending_favs   : 23\npending_total  : 58\nvariable_paths : 0\nbitmap_cvg     : 0.89%\nunique_crashes : 58\nunique_hangs   : 59\nlast_path      : 1499893340\nlast_crash     : 1499893230\nlast_hang      : 1499893303\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Finicky_File_Folder/input -o /dev/shm/work/Finicky_File_Folder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Finicky_File_Folder/Finicky_File_Folder.dict -- data/linux/processed-challenges/Finicky_File_Folder/bin/Finicky_File_Folder\n'
+p147
+I1
+tp148
+a(I8880
+S'start_time     : 1499884643\nlast_update    : 1499893478\nfuzzer_pid     : 19737\ncycles_done    : 0\nexecs_done     : 1459352\nexecs_per_sec  : 148.10\npaths_total    : 95\npaths_favored  : 39\npaths_found    : 94\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 56\npending_favs   : 23\npending_total  : 58\nvariable_paths : 0\nbitmap_cvg     : 0.89%\nunique_crashes : 58\nunique_hangs   : 59\nlast_path      : 1499893340\nlast_crash     : 1499893230\nlast_hang      : 1499893303\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Finicky_File_Folder/input -o /dev/shm/work/Finicky_File_Folder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Finicky_File_Folder/Finicky_File_Folder.dict -- data/linux/processed-challenges/Finicky_File_Folder/bin/Finicky_File_Folder\n'
+p149
+I1
+tp150
+a(I9000
+S'start_time     : 1499884643\nlast_update    : 1499893598\nfuzzer_pid     : 19737\ncycles_done    : 0\nexecs_done     : 1477388\nexecs_per_sec  : 153.81\npaths_total    : 96\npaths_favored  : 39\npaths_found    : 95\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 56\npending_favs   : 23\npending_total  : 59\nvariable_paths : 0\nbitmap_cvg     : 0.89%\nunique_crashes : 58\nunique_hangs   : 59\nlast_path      : 1499893505\nlast_crash     : 1499893230\nlast_hang      : 1499893303\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Finicky_File_Folder/input -o /dev/shm/work/Finicky_File_Folder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Finicky_File_Folder/Finicky_File_Folder.dict -- data/linux/processed-challenges/Finicky_File_Folder/bin/Finicky_File_Folder\n'
+p151
+I0
+tp152
+a(I9120
+S'start_time     : 1499884643\nlast_update    : 1499893718\nfuzzer_pid     : 19737\ncycles_done    : 0\nexecs_done     : 1495700\nexecs_per_sec  : 135.94\npaths_total    : 96\npaths_favored  : 39\npaths_found    : 95\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 56\npending_favs   : 23\npending_total  : 59\nvariable_paths : 0\nbitmap_cvg     : 0.89%\nunique_crashes : 58\nunique_hangs   : 59\nlast_path      : 1499893505\nlast_crash     : 1499893230\nlast_hang      : 1499893303\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Finicky_File_Folder/input -o /dev/shm/work/Finicky_File_Folder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Finicky_File_Folder/Finicky_File_Folder.dict -- data/linux/processed-challenges/Finicky_File_Folder/bin/Finicky_File_Folder\n'
+p153
+I0
+tp154
+a(I9240
+S'start_time     : 1499884643\nlast_update    : 1499893839\nfuzzer_pid     : 19737\ncycles_done    : 0\nexecs_done     : 1514003\nexecs_per_sec  : 156.49\npaths_total    : 96\npaths_favored  : 39\npaths_found    : 95\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 56\npending_favs   : 23\npending_total  : 59\nvariable_paths : 0\nbitmap_cvg     : 0.89%\nunique_crashes : 59\nunique_hangs   : 59\nlast_path      : 1499893505\nlast_crash     : 1499893740\nlast_hang      : 1499893303\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Finicky_File_Folder/input -o /dev/shm/work/Finicky_File_Folder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Finicky_File_Folder/Finicky_File_Folder.dict -- data/linux/processed-challenges/Finicky_File_Folder/bin/Finicky_File_Folder\n'
+p155
+I0
+tp156
+a(I9360
+S'start_time     : 1499884643\nlast_update    : 1499893959\nfuzzer_pid     : 19737\ncycles_done    : 0\nexecs_done     : 1532381\nexecs_per_sec  : 168.30\npaths_total    : 96\npaths_favored  : 39\npaths_found    : 95\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 56\npending_favs   : 23\npending_total  : 59\nvariable_paths : 0\nbitmap_cvg     : 0.89%\nunique_crashes : 59\nunique_hangs   : 59\nlast_path      : 1499893505\nlast_crash     : 1499893740\nlast_hang      : 1499893303\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Finicky_File_Folder/input -o /dev/shm/work/Finicky_File_Folder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Finicky_File_Folder/Finicky_File_Folder.dict -- data/linux/processed-challenges/Finicky_File_Folder/bin/Finicky_File_Folder\n'
+p157
+I0
+tp158
+a(I9480
+S'start_time     : 1499884643\nlast_update    : 1499894079\nfuzzer_pid     : 19737\ncycles_done    : 0\nexecs_done     : 1550626\nexecs_per_sec  : 150.53\npaths_total    : 96\npaths_favored  : 39\npaths_found    : 95\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 56\npending_favs   : 23\npending_total  : 59\nvariable_paths : 0\nbitmap_cvg     : 0.89%\nunique_crashes : 59\nunique_hangs   : 59\nlast_path      : 1499893505\nlast_crash     : 1499893740\nlast_hang      : 1499893303\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Finicky_File_Folder/input -o /dev/shm/work/Finicky_File_Folder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Finicky_File_Folder/Finicky_File_Folder.dict -- data/linux/processed-challenges/Finicky_File_Folder/bin/Finicky_File_Folder\n'
+p159
+I0
+tp160
+a(I9600
+S'start_time     : 1499884643\nlast_update    : 1499894199\nfuzzer_pid     : 19737\ncycles_done    : 0\nexecs_done     : 1567794\nexecs_per_sec  : 162.26\npaths_total    : 96\npaths_favored  : 39\npaths_found    : 95\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 57\npending_favs   : 22\npending_total  : 58\nvariable_paths : 0\nbitmap_cvg     : 0.89%\nunique_crashes : 60\nunique_hangs   : 60\nlast_path      : 1499893505\nlast_crash     : 1499894186\nlast_hang      : 1499894155\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Finicky_File_Folder/input -o /dev/shm/work/Finicky_File_Folder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Finicky_File_Folder/Finicky_File_Folder.dict -- data/linux/processed-challenges/Finicky_File_Folder/bin/Finicky_File_Folder\n'
+p161
+I0
+tp162
+a(I9720
+S'start_time     : 1499884643\nlast_update    : 1499894319\nfuzzer_pid     : 19737\ncycles_done    : 0\nexecs_done     : 1585583\nexecs_per_sec  : 165.28\npaths_total    : 96\npaths_favored  : 39\npaths_found    : 95\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 58\npending_favs   : 21\npending_total  : 57\nvariable_paths : 0\nbitmap_cvg     : 0.89%\nunique_crashes : 60\nunique_hangs   : 60\nlast_path      : 1499893505\nlast_crash     : 1499894186\nlast_hang      : 1499894155\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Finicky_File_Folder/input -o /dev/shm/work/Finicky_File_Folder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Finicky_File_Folder/Finicky_File_Folder.dict -- data/linux/processed-challenges/Finicky_File_Folder/bin/Finicky_File_Folder\n'
+p163
+I0
+tp164
+a(I9840
+S'start_time     : 1499884643\nlast_update    : 1499894439\nfuzzer_pid     : 19737\ncycles_done    : 0\nexecs_done     : 1603970\nexecs_per_sec  : 160.62\npaths_total    : 96\npaths_favored  : 39\npaths_found    : 95\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 63\npending_favs   : 20\npending_total  : 56\nvariable_paths : 0\nbitmap_cvg     : 0.89%\nunique_crashes : 64\nunique_hangs   : 61\nlast_path      : 1499893505\nlast_crash     : 1499894352\nlast_hang      : 1499894332\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Finicky_File_Folder/input -o /dev/shm/work/Finicky_File_Folder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Finicky_File_Folder/Finicky_File_Folder.dict -- data/linux/processed-challenges/Finicky_File_Folder/bin/Finicky_File_Folder\n'
+p165
+I0
+tp166
+a(I9960
+S'start_time     : 1499884643\nlast_update    : 1499894560\nfuzzer_pid     : 19737\ncycles_done    : 0\nexecs_done     : 1622738\nexecs_per_sec  : 171.71\npaths_total    : 96\npaths_favored  : 39\npaths_found    : 95\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 66\npending_favs   : 19\npending_total  : 55\nvariable_paths : 0\nbitmap_cvg     : 0.89%\nunique_crashes : 64\nunique_hangs   : 61\nlast_path      : 1499893505\nlast_crash     : 1499894352\nlast_hang      : 1499894332\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Finicky_File_Folder/input -o /dev/shm/work/Finicky_File_Folder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Finicky_File_Folder/Finicky_File_Folder.dict -- data/linux/processed-challenges/Finicky_File_Folder/bin/Finicky_File_Folder\n'
+p167
+I2
+tp168
+a(I10080
+S'start_time     : 1499884643\nlast_update    : 1499894680\nfuzzer_pid     : 19737\ncycles_done    : 0\nexecs_done     : 1642955\nexecs_per_sec  : 171.26\npaths_total    : 99\npaths_favored  : 39\npaths_found    : 98\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 67\npending_favs   : 18\npending_total  : 57\nvariable_paths : 0\nbitmap_cvg     : 0.92%\nunique_crashes : 66\nunique_hangs   : 62\nlast_path      : 1499894635\nlast_crash     : 1499894564\nlast_hang      : 1499894562\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Finicky_File_Folder/input -o /dev/shm/work/Finicky_File_Folder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Finicky_File_Folder/Finicky_File_Folder.dict -- data/linux/processed-challenges/Finicky_File_Folder/bin/Finicky_File_Folder\n'
+p169
+I1
+tp170
+a(I10200
+S'start_time     : 1499884643\nlast_update    : 1499894800\nfuzzer_pid     : 19737\ncycles_done    : 0\nexecs_done     : 1666603\nexecs_per_sec  : 51.60\npaths_total    : 99\npaths_favored  : 41\npaths_found    : 98\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 68\npending_favs   : 19\npending_total  : 56\nvariable_paths : 0\nbitmap_cvg     : 0.92%\nunique_crashes : 66\nunique_hangs   : 63\nlast_path      : 1499894635\nlast_crash     : 1499894564\nlast_hang      : 1499894728\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Finicky_File_Folder/input -o /dev/shm/work/Finicky_File_Folder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Finicky_File_Folder/Finicky_File_Folder.dict -- data/linux/processed-challenges/Finicky_File_Folder/bin/Finicky_File_Folder\n'
+p171
+I0
+tp172
+a(I10320
+S'start_time     : 1499884643\nlast_update    : 1499894920\nfuzzer_pid     : 19737\ncycles_done    : 0\nexecs_done     : 1675188\nexecs_per_sec  : 115.08\npaths_total    : 99\npaths_favored  : 41\npaths_found    : 98\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 68\npending_favs   : 19\npending_total  : 56\nvariable_paths : 0\nbitmap_cvg     : 0.92%\nunique_crashes : 67\nunique_hangs   : 63\nlast_path      : 1499894635\nlast_crash     : 1499894872\nlast_hang      : 1499894728\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Finicky_File_Folder/input -o /dev/shm/work/Finicky_File_Folder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Finicky_File_Folder/Finicky_File_Folder.dict -- data/linux/processed-challenges/Finicky_File_Folder/bin/Finicky_File_Folder\n'
+p173
+I0
+tp174
+a(I10440
+S'start_time     : 1499884643\nlast_update    : 1499895041\nfuzzer_pid     : 19737\ncycles_done    : 0\nexecs_done     : 1697641\nexecs_per_sec  : 198.29\npaths_total    : 99\npaths_favored  : 41\npaths_found    : 98\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 69\npending_favs   : 18\npending_total  : 55\nvariable_paths : 0\nbitmap_cvg     : 0.92%\nunique_crashes : 67\nunique_hangs   : 63\nlast_path      : 1499894635\nlast_crash     : 1499894872\nlast_hang      : 1499894728\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Finicky_File_Folder/input -o /dev/shm/work/Finicky_File_Folder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Finicky_File_Folder/Finicky_File_Folder.dict -- data/linux/processed-challenges/Finicky_File_Folder/bin/Finicky_File_Folder\n'
+p175
+I0
+tp176
+a(I10560
+S'start_time     : 1499884643\nlast_update    : 1499895161\nfuzzer_pid     : 19737\ncycles_done    : 0\nexecs_done     : 1717417\nexecs_per_sec  : 267.84\npaths_total    : 99\npaths_favored  : 41\npaths_found    : 98\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 70\npending_favs   : 17\npending_total  : 54\nvariable_paths : 0\nbitmap_cvg     : 0.92%\nunique_crashes : 68\nunique_hangs   : 63\nlast_path      : 1499894635\nlast_crash     : 1499895102\nlast_hang      : 1499894728\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Finicky_File_Folder/input -o /dev/shm/work/Finicky_File_Folder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Finicky_File_Folder/Finicky_File_Folder.dict -- data/linux/processed-challenges/Finicky_File_Folder/bin/Finicky_File_Folder\n'
+p177
+I0
+tp178
+a(I10680
+S'start_time     : 1499884643\nlast_update    : 1499895281\nfuzzer_pid     : 19737\ncycles_done    : 0\nexecs_done     : 1744809\nexecs_per_sec  : 343.21\npaths_total    : 100\npaths_favored  : 41\npaths_found    : 99\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 71\npending_favs   : 16\npending_total  : 54\nvariable_paths : 0\nbitmap_cvg     : 0.92%\nunique_crashes : 68\nunique_hangs   : 63\nlast_path      : 1499895239\nlast_crash     : 1499895102\nlast_hang      : 1499894728\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Finicky_File_Folder/input -o /dev/shm/work/Finicky_File_Folder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Finicky_File_Folder/Finicky_File_Folder.dict -- data/linux/processed-challenges/Finicky_File_Folder/bin/Finicky_File_Folder\n'
+p179
+I2
+tp180
+a.

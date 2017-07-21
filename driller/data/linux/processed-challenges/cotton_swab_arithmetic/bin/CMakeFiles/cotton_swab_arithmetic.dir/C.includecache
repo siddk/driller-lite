@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/libcgc.h
+
+../processed-challenges/cotton_swab_arithmetic/lib/libc.h
+libcgc.h
+-
+
+/vagrant/driller/data/linux/processed-challenges/cotton_swab_arithmetic/lib/libc.c
+libc.h
+/vagrant/driller/data/linux/processed-challenges/cotton_swab_arithmetic/lib/libc.h
+
+/vagrant/driller/data/linux/processed-challenges/cotton_swab_arithmetic/lib/libc.h
+libcgc.h
+-
+
+/vagrant/driller/data/linux/processed-challenges/cotton_swab_arithmetic/src/service.c
+service.h
+/vagrant/driller/data/linux/processed-challenges/cotton_swab_arithmetic/src/service.h
+
+/vagrant/driller/data/linux/processed-challenges/cotton_swab_arithmetic/src/service.h
+libcgc.h
+-
+libc.h
+/vagrant/driller/data/linux/processed-challenges/cotton_swab_arithmetic/src/libc.h
+

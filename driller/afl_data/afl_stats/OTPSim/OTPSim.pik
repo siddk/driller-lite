@@ -1,0 +1,452 @@
+(lp0
+(I0
+S'start_time     : 1500036149\nlast_update    : 1500036149\nfuzzer_pid     : 7454\ncycles_done    : 0\nexecs_done     : 10\nexecs_per_sec  : 204.08\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 1\npending_total  : 1\nvariable_paths : 0\nbitmap_cvg     : 0.15%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/OTPSim/input -o /dev/shm/work/OTPSim/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/OTPSim/OTPSim.dict -- data/linux/processed-challenges/OTPSim/bin/OTPSim\n'
+p1
+I15
+tp2
+a(I120
+S'start_time     : 1500036149\nlast_update    : 1500036269\nfuzzer_pid     : 7454\ncycles_done    : 0\nexecs_done     : 159299\nexecs_per_sec  : 1331.00\npaths_total    : 16\npaths_favored  : 1\npaths_found    : 15\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 1\npending_total  : 16\nvariable_paths : 0\nbitmap_cvg     : 0.20%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500036178\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/OTPSim/input -o /dev/shm/work/OTPSim/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/OTPSim/OTPSim.dict -- data/linux/processed-challenges/OTPSim/bin/OTPSim\n'
+p3
+I1
+tp4
+a(I240
+S'start_time     : 1500036149\nlast_update    : 1500036389\nfuzzer_pid     : 7454\ncycles_done    : 2\nexecs_done     : 314136\nexecs_per_sec  : 1254.03\npaths_total    : 16\npaths_favored  : 4\npaths_found    : 15\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 13\npending_favs   : 0\npending_total  : 9\nvariable_paths : 0\nbitmap_cvg     : 0.20%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500036178\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/OTPSim/input -o /dev/shm/work/OTPSim/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/OTPSim/OTPSim.dict -- data/linux/processed-challenges/OTPSim/bin/OTPSim\n'
+p5
+I0
+tp6
+a(I360
+S'start_time     : 1500036149\nlast_update    : 1500036509\nfuzzer_pid     : 7454\ncycles_done    : 4\nexecs_done     : 460374\nexecs_per_sec  : 1252.48\npaths_total    : 16\npaths_favored  : 4\npaths_found    : 15\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 5\npending_favs   : 0\npending_total  : 6\nvariable_paths : 0\nbitmap_cvg     : 0.20%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500036178\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/OTPSim/input -o /dev/shm/work/OTPSim/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/OTPSim/OTPSim.dict -- data/linux/processed-challenges/OTPSim/bin/OTPSim\n'
+p7
+I0
+tp8
+a(I480
+S'start_time     : 1500036149\nlast_update    : 1500036630\nfuzzer_pid     : 7454\ncycles_done    : 6\nexecs_done     : 610283\nexecs_per_sec  : 1257.87\npaths_total    : 16\npaths_favored  : 4\npaths_found    : 15\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 0\npending_total  : 3\nvariable_paths : 0\nbitmap_cvg     : 0.20%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500036178\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/OTPSim/input -o /dev/shm/work/OTPSim/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/OTPSim/OTPSim.dict -- data/linux/processed-challenges/OTPSim/bin/OTPSim\n'
+p9
+I0
+tp10
+a(I600
+S'start_time     : 1500036149\nlast_update    : 1500036750\nfuzzer_pid     : 7454\ncycles_done    : 8\nexecs_done     : 762095\nexecs_per_sec  : 1300.18\npaths_total    : 16\npaths_favored  : 4\npaths_found    : 15\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 0\npending_total  : 1\nvariable_paths : 0\nbitmap_cvg     : 0.20%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500036178\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/OTPSim/input -o /dev/shm/work/OTPSim/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/OTPSim/OTPSim.dict -- data/linux/processed-challenges/OTPSim/bin/OTPSim\n'
+p11
+I1
+tp12
+a(I720
+S'start_time     : 1500036149\nlast_update    : 1500036870\nfuzzer_pid     : 7454\ncycles_done    : 8\nexecs_done     : 869285\nexecs_per_sec  : 811.13\npaths_total    : 23\npaths_favored  : 5\npaths_found    : 22\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 18\npending_favs   : 1\npending_total  : 7\nvariable_paths : 0\nbitmap_cvg     : 0.21%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500036780\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/OTPSim/input -o /dev/shm/work/OTPSim/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/OTPSim/OTPSim.dict -- data/linux/processed-challenges/OTPSim/bin/OTPSim\n'
+p13
+I6
+tp14
+a(I840
+S'start_time     : 1500036149\nlast_update    : 1500036990\nfuzzer_pid     : 7454\ncycles_done    : 9\nexecs_done     : 975085\nexecs_per_sec  : 969.51\npaths_total    : 23\npaths_favored  : 5\npaths_found    : 22\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 1\npending_favs   : 0\npending_total  : 6\nvariable_paths : 0\nbitmap_cvg     : 0.21%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500036780\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/OTPSim/input -o /dev/shm/work/OTPSim/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/OTPSim/OTPSim.dict -- data/linux/processed-challenges/OTPSim/bin/OTPSim\n'
+p15
+I0
+tp16
+a(I960
+S'start_time     : 1500036149\nlast_update    : 1500037110\nfuzzer_pid     : 7454\ncycles_done    : 9\nexecs_done     : 1096502\nexecs_per_sec  : 1187.72\npaths_total    : 23\npaths_favored  : 5\npaths_found    : 22\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 16\npending_favs   : 0\npending_total  : 6\nvariable_paths : 0\nbitmap_cvg     : 0.21%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500036780\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/OTPSim/input -o /dev/shm/work/OTPSim/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/OTPSim/OTPSim.dict -- data/linux/processed-challenges/OTPSim/bin/OTPSim\n'
+p17
+I0
+tp18
+a(I1080
+S'start_time     : 1500036149\nlast_update    : 1500037231\nfuzzer_pid     : 7454\ncycles_done    : 9\nexecs_done     : 1186730\nexecs_per_sec  : 484.99\npaths_total    : 23\npaths_favored  : 5\npaths_found    : 22\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 20\npending_favs   : 0\npending_total  : 5\nvariable_paths : 0\nbitmap_cvg     : 0.21%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500036780\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/OTPSim/input -o /dev/shm/work/OTPSim/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/OTPSim/OTPSim.dict -- data/linux/processed-challenges/OTPSim/bin/OTPSim\n'
+p19
+I0
+tp20
+a(I1200
+S'start_time     : 1500036149\nlast_update    : 1500037351\nfuzzer_pid     : 7454\ncycles_done    : 9\nexecs_done     : 1245673\nexecs_per_sec  : 489.01\npaths_total    : 23\npaths_favored  : 5\npaths_found    : 22\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 20\npending_favs   : 0\npending_total  : 5\nvariable_paths : 0\nbitmap_cvg     : 0.21%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500036780\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/OTPSim/input -o /dev/shm/work/OTPSim/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/OTPSim/OTPSim.dict -- data/linux/processed-challenges/OTPSim/bin/OTPSim\n'
+p21
+I0
+tp22
+a(I1320
+S'start_time     : 1500036149\nlast_update    : 1500037471\nfuzzer_pid     : 7454\ncycles_done    : 9\nexecs_done     : 1305938\nexecs_per_sec  : 512.27\npaths_total    : 23\npaths_favored  : 5\npaths_found    : 22\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 20\npending_favs   : 0\npending_total  : 5\nvariable_paths : 0\nbitmap_cvg     : 0.21%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500036780\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/OTPSim/input -o /dev/shm/work/OTPSim/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/OTPSim/OTPSim.dict -- data/linux/processed-challenges/OTPSim/bin/OTPSim\n'
+p23
+I0
+tp24
+a(I1440
+S'start_time     : 1500036149\nlast_update    : 1500037591\nfuzzer_pid     : 7454\ncycles_done    : 9\nexecs_done     : 1365768\nexecs_per_sec  : 505.08\npaths_total    : 23\npaths_favored  : 5\npaths_found    : 22\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 20\npending_favs   : 0\npending_total  : 5\nvariable_paths : 0\nbitmap_cvg     : 0.21%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500036780\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/OTPSim/input -o /dev/shm/work/OTPSim/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/OTPSim/OTPSim.dict -- data/linux/processed-challenges/OTPSim/bin/OTPSim\n'
+p25
+I0
+tp26
+a(I1560
+S'start_time     : 1500036149\nlast_update    : 1500037711\nfuzzer_pid     : 7454\ncycles_done    : 9\nexecs_done     : 1438474\nexecs_per_sec  : 373.92\npaths_total    : 23\npaths_favored  : 5\npaths_found    : 22\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 21\npending_favs   : 0\npending_total  : 4\nvariable_paths : 0\nbitmap_cvg     : 0.21%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500036780\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/OTPSim/input -o /dev/shm/work/OTPSim/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/OTPSim/OTPSim.dict -- data/linux/processed-challenges/OTPSim/bin/OTPSim\n'
+p27
+I0
+tp28
+a(I1680
+S'start_time     : 1500036149\nlast_update    : 1500037831\nfuzzer_pid     : 7454\ncycles_done    : 9\nexecs_done     : 1481237\nexecs_per_sec  : 351.98\npaths_total    : 23\npaths_favored  : 5\npaths_found    : 22\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 21\npending_favs   : 0\npending_total  : 4\nvariable_paths : 0\nbitmap_cvg     : 0.21%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500036780\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/OTPSim/input -o /dev/shm/work/OTPSim/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/OTPSim/OTPSim.dict -- data/linux/processed-challenges/OTPSim/bin/OTPSim\n'
+p29
+I0
+tp30
+a(I1800
+S'start_time     : 1500036149\nlast_update    : 1500037952\nfuzzer_pid     : 7454\ncycles_done    : 9\nexecs_done     : 1524202\nexecs_per_sec  : 367.28\npaths_total    : 23\npaths_favored  : 5\npaths_found    : 22\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 21\npending_favs   : 0\npending_total  : 4\nvariable_paths : 0\nbitmap_cvg     : 0.21%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500036780\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/OTPSim/input -o /dev/shm/work/OTPSim/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/OTPSim/OTPSim.dict -- data/linux/processed-challenges/OTPSim/bin/OTPSim\n'
+p31
+I0
+tp32
+a(I1920
+S'start_time     : 1500036149\nlast_update    : 1500038072\nfuzzer_pid     : 7454\ncycles_done    : 9\nexecs_done     : 1567708\nexecs_per_sec  : 356.69\npaths_total    : 23\npaths_favored  : 5\npaths_found    : 22\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 21\npending_favs   : 0\npending_total  : 4\nvariable_paths : 0\nbitmap_cvg     : 0.21%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500036780\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/OTPSim/input -o /dev/shm/work/OTPSim/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/OTPSim/OTPSim.dict -- data/linux/processed-challenges/OTPSim/bin/OTPSim\n'
+p33
+I0
+tp34
+a(I2040
+S'start_time     : 1500036149\nlast_update    : 1500038192\nfuzzer_pid     : 7454\ncycles_done    : 9\nexecs_done     : 1610786\nexecs_per_sec  : 360.76\npaths_total    : 23\npaths_favored  : 5\npaths_found    : 22\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 21\npending_favs   : 0\npending_total  : 4\nvariable_paths : 0\nbitmap_cvg     : 0.21%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500036780\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/OTPSim/input -o /dev/shm/work/OTPSim/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/OTPSim/OTPSim.dict -- data/linux/processed-challenges/OTPSim/bin/OTPSim\n'
+p35
+I0
+tp36
+a(I2160
+S'start_time     : 1500036149\nlast_update    : 1500038312\nfuzzer_pid     : 7454\ncycles_done    : 9\nexecs_done     : 1654074\nexecs_per_sec  : 364.56\npaths_total    : 23\npaths_favored  : 5\npaths_found    : 22\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 21\npending_favs   : 0\npending_total  : 4\nvariable_paths : 0\nbitmap_cvg     : 0.21%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500036780\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/OTPSim/input -o /dev/shm/work/OTPSim/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/OTPSim/OTPSim.dict -- data/linux/processed-challenges/OTPSim/bin/OTPSim\n'
+p37
+I0
+tp38
+a(I2280
+S'start_time     : 1500036149\nlast_update    : 1500038432\nfuzzer_pid     : 7454\ncycles_done    : 9\nexecs_done     : 1697180\nexecs_per_sec  : 356.82\npaths_total    : 23\npaths_favored  : 5\npaths_found    : 22\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 21\npending_favs   : 0\npending_total  : 4\nvariable_paths : 0\nbitmap_cvg     : 0.21%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500036780\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/OTPSim/input -o /dev/shm/work/OTPSim/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/OTPSim/OTPSim.dict -- data/linux/processed-challenges/OTPSim/bin/OTPSim\n'
+p39
+I0
+tp40
+a(I2400
+S'start_time     : 1500036149\nlast_update    : 1500038552\nfuzzer_pid     : 7454\ncycles_done    : 9\nexecs_done     : 1740916\nexecs_per_sec  : 371.31\npaths_total    : 23\npaths_favored  : 5\npaths_found    : 22\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 21\npending_favs   : 0\npending_total  : 4\nvariable_paths : 0\nbitmap_cvg     : 0.21%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500036780\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/OTPSim/input -o /dev/shm/work/OTPSim/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/OTPSim/OTPSim.dict -- data/linux/processed-challenges/OTPSim/bin/OTPSim\n'
+p41
+I0
+tp42
+a(I2520
+S'start_time     : 1500036149\nlast_update    : 1500038673\nfuzzer_pid     : 7454\ncycles_done    : 9\nexecs_done     : 1785058\nexecs_per_sec  : 369.42\npaths_total    : 23\npaths_favored  : 5\npaths_found    : 22\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 21\npending_favs   : 0\npending_total  : 4\nvariable_paths : 0\nbitmap_cvg     : 0.21%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500036780\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/OTPSim/input -o /dev/shm/work/OTPSim/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/OTPSim/OTPSim.dict -- data/linux/processed-challenges/OTPSim/bin/OTPSim\n'
+p43
+I0
+tp44
+a(I2640
+S'start_time     : 1500036149\nlast_update    : 1500038793\nfuzzer_pid     : 7454\ncycles_done    : 9\nexecs_done     : 1829246\nexecs_per_sec  : 154.88\npaths_total    : 26\npaths_favored  : 5\npaths_found    : 25\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 24\npending_favs   : 0\npending_total  : 6\nvariable_paths : 0\nbitmap_cvg     : 0.21%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500038739\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/OTPSim/input -o /dev/shm/work/OTPSim/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/OTPSim/OTPSim.dict -- data/linux/processed-challenges/OTPSim/bin/OTPSim\n'
+p45
+I3
+tp46
+a(I2760
+S'start_time     : 1500036149\nlast_update    : 1500038913\nfuzzer_pid     : 7454\ncycles_done    : 9\nexecs_done     : 1847663\nexecs_per_sec  : 152.10\npaths_total    : 26\npaths_favored  : 5\npaths_found    : 25\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 24\npending_favs   : 0\npending_total  : 6\nvariable_paths : 0\nbitmap_cvg     : 0.21%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500038739\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/OTPSim/input -o /dev/shm/work/OTPSim/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/OTPSim/OTPSim.dict -- data/linux/processed-challenges/OTPSim/bin/OTPSim\n'
+p47
+I0
+tp48
+a(I2880
+S'start_time     : 1500036149\nlast_update    : 1500039033\nfuzzer_pid     : 7454\ncycles_done    : 9\nexecs_done     : 1866050\nexecs_per_sec  : 154.04\npaths_total    : 26\npaths_favored  : 5\npaths_found    : 25\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 24\npending_favs   : 0\npending_total  : 6\nvariable_paths : 0\nbitmap_cvg     : 0.21%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500038739\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/OTPSim/input -o /dev/shm/work/OTPSim/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/OTPSim/OTPSim.dict -- data/linux/processed-challenges/OTPSim/bin/OTPSim\n'
+p49
+I0
+tp50
+a(I3000
+S'start_time     : 1500036149\nlast_update    : 1500039153\nfuzzer_pid     : 7454\ncycles_done    : 9\nexecs_done     : 1884485\nexecs_per_sec  : 153.13\npaths_total    : 26\npaths_favored  : 5\npaths_found    : 25\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 24\npending_favs   : 0\npending_total  : 6\nvariable_paths : 0\nbitmap_cvg     : 0.21%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500038739\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/OTPSim/input -o /dev/shm/work/OTPSim/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/OTPSim/OTPSim.dict -- data/linux/processed-challenges/OTPSim/bin/OTPSim\n'
+p51
+I0
+tp52
+a(I3120
+S'start_time     : 1500036149\nlast_update    : 1500039274\nfuzzer_pid     : 7454\ncycles_done    : 9\nexecs_done     : 1902770\nexecs_per_sec  : 155.82\npaths_total    : 26\npaths_favored  : 5\npaths_found    : 25\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 24\npending_favs   : 0\npending_total  : 6\nvariable_paths : 0\nbitmap_cvg     : 0.21%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500038739\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/OTPSim/input -o /dev/shm/work/OTPSim/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/OTPSim/OTPSim.dict -- data/linux/processed-challenges/OTPSim/bin/OTPSim\n'
+p53
+I0
+tp54
+a(I3240
+S'start_time     : 1500036149\nlast_update    : 1500039394\nfuzzer_pid     : 7454\ncycles_done    : 9\nexecs_done     : 1920947\nexecs_per_sec  : 150.67\npaths_total    : 26\npaths_favored  : 5\npaths_found    : 25\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 24\npending_favs   : 0\npending_total  : 6\nvariable_paths : 0\nbitmap_cvg     : 0.21%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500038739\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/OTPSim/input -o /dev/shm/work/OTPSim/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/OTPSim/OTPSim.dict -- data/linux/processed-challenges/OTPSim/bin/OTPSim\n'
+p55
+I0
+tp56
+a(I3360
+S'start_time     : 1500036149\nlast_update    : 1500039514\nfuzzer_pid     : 7454\ncycles_done    : 9\nexecs_done     : 1939229\nexecs_per_sec  : 155.44\npaths_total    : 26\npaths_favored  : 5\npaths_found    : 25\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 24\npending_favs   : 0\npending_total  : 6\nvariable_paths : 0\nbitmap_cvg     : 0.21%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500038739\nlast_crash     : 0\nlast_hang      : 1500039427\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/OTPSim/input -o /dev/shm/work/OTPSim/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/OTPSim/OTPSim.dict -- data/linux/processed-challenges/OTPSim/bin/OTPSim\n'
+p57
+I0
+tp58
+a(I3480
+S'start_time     : 1500036149\nlast_update    : 1500039634\nfuzzer_pid     : 7454\ncycles_done    : 9\nexecs_done     : 1957540\nexecs_per_sec  : 151.73\npaths_total    : 26\npaths_favored  : 5\npaths_found    : 25\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 24\npending_favs   : 0\npending_total  : 6\nvariable_paths : 0\nbitmap_cvg     : 0.21%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500038739\nlast_crash     : 0\nlast_hang      : 1500039427\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/OTPSim/input -o /dev/shm/work/OTPSim/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/OTPSim/OTPSim.dict -- data/linux/processed-challenges/OTPSim/bin/OTPSim\n'
+p59
+I0
+tp60
+a(I3600
+S'start_time     : 1500036149\nlast_update    : 1500039755\nfuzzer_pid     : 7454\ncycles_done    : 9\nexecs_done     : 1975753\nexecs_per_sec  : 149.49\npaths_total    : 26\npaths_favored  : 5\npaths_found    : 25\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 24\npending_favs   : 0\npending_total  : 6\nvariable_paths : 0\nbitmap_cvg     : 0.21%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500038739\nlast_crash     : 0\nlast_hang      : 1500039427\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/OTPSim/input -o /dev/shm/work/OTPSim/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/OTPSim/OTPSim.dict -- data/linux/processed-challenges/OTPSim/bin/OTPSim\n'
+p61
+I0
+tp62
+a(I3720
+S'start_time     : 1500036149\nlast_update    : 1500039875\nfuzzer_pid     : 7454\ncycles_done    : 9\nexecs_done     : 1993975\nexecs_per_sec  : 154.44\npaths_total    : 26\npaths_favored  : 5\npaths_found    : 25\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 24\npending_favs   : 0\npending_total  : 6\nvariable_paths : 0\nbitmap_cvg     : 0.21%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500038739\nlast_crash     : 0\nlast_hang      : 1500039427\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/OTPSim/input -o /dev/shm/work/OTPSim/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/OTPSim/OTPSim.dict -- data/linux/processed-challenges/OTPSim/bin/OTPSim\n'
+p63
+I0
+tp64
+a(I3840
+S'start_time     : 1500036149\nlast_update    : 1500039995\nfuzzer_pid     : 7454\ncycles_done    : 9\nexecs_done     : 2012251\nexecs_per_sec  : 147.93\npaths_total    : 26\npaths_favored  : 5\npaths_found    : 25\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 24\npending_favs   : 0\npending_total  : 6\nvariable_paths : 0\nbitmap_cvg     : 0.21%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500038739\nlast_crash     : 0\nlast_hang      : 1500039427\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/OTPSim/input -o /dev/shm/work/OTPSim/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/OTPSim/OTPSim.dict -- data/linux/processed-challenges/OTPSim/bin/OTPSim\n'
+p65
+I0
+tp66
+a(I3960
+S'start_time     : 1500036149\nlast_update    : 1500040115\nfuzzer_pid     : 7454\ncycles_done    : 9\nexecs_done     : 2030311\nexecs_per_sec  : 150.59\npaths_total    : 26\npaths_favored  : 5\npaths_found    : 25\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 24\npending_favs   : 0\npending_total  : 6\nvariable_paths : 0\nbitmap_cvg     : 0.21%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500038739\nlast_crash     : 0\nlast_hang      : 1500039427\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/OTPSim/input -o /dev/shm/work/OTPSim/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/OTPSim/OTPSim.dict -- data/linux/processed-challenges/OTPSim/bin/OTPSim\n'
+p67
+I0
+tp68
+a(I4080
+S'start_time     : 1500036149\nlast_update    : 1500040236\nfuzzer_pid     : 7454\ncycles_done    : 9\nexecs_done     : 2048608\nexecs_per_sec  : 154.44\npaths_total    : 26\npaths_favored  : 5\npaths_found    : 25\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 24\npending_favs   : 0\npending_total  : 6\nvariable_paths : 0\nbitmap_cvg     : 0.21%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500038739\nlast_crash     : 0\nlast_hang      : 1500039427\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/OTPSim/input -o /dev/shm/work/OTPSim/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/OTPSim/OTPSim.dict -- data/linux/processed-challenges/OTPSim/bin/OTPSim\n'
+p69
+I0
+tp70
+a(I4200
+S'start_time     : 1500036149\nlast_update    : 1500040356\nfuzzer_pid     : 7454\ncycles_done    : 9\nexecs_done     : 2066941\nexecs_per_sec  : 148.59\npaths_total    : 26\npaths_favored  : 5\npaths_found    : 25\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 24\npending_favs   : 0\npending_total  : 6\nvariable_paths : 0\nbitmap_cvg     : 0.21%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500038739\nlast_crash     : 0\nlast_hang      : 1500039427\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/OTPSim/input -o /dev/shm/work/OTPSim/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/OTPSim/OTPSim.dict -- data/linux/processed-challenges/OTPSim/bin/OTPSim\n'
+p71
+I0
+tp72
+a(I4320
+S'start_time     : 1500036149\nlast_update    : 1500040476\nfuzzer_pid     : 7454\ncycles_done    : 9\nexecs_done     : 2085224\nexecs_per_sec  : 153.79\npaths_total    : 26\npaths_favored  : 5\npaths_found    : 25\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 24\npending_favs   : 0\npending_total  : 6\nvariable_paths : 0\nbitmap_cvg     : 0.21%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500038739\nlast_crash     : 0\nlast_hang      : 1500039427\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/OTPSim/input -o /dev/shm/work/OTPSim/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/OTPSim/OTPSim.dict -- data/linux/processed-challenges/OTPSim/bin/OTPSim\n'
+p73
+I0
+tp74
+a(I4440
+S'start_time     : 1500036149\nlast_update    : 1500040597\nfuzzer_pid     : 7454\ncycles_done    : 9\nexecs_done     : 2103629\nexecs_per_sec  : 154.79\npaths_total    : 26\npaths_favored  : 5\npaths_found    : 25\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 24\npending_favs   : 0\npending_total  : 6\nvariable_paths : 0\nbitmap_cvg     : 0.21%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500038739\nlast_crash     : 0\nlast_hang      : 1500039427\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/OTPSim/input -o /dev/shm/work/OTPSim/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/OTPSim/OTPSim.dict -- data/linux/processed-challenges/OTPSim/bin/OTPSim\n'
+p75
+I0
+tp76
+a(I4560
+S'start_time     : 1500036149\nlast_update    : 1500040717\nfuzzer_pid     : 7454\ncycles_done    : 9\nexecs_done     : 2122076\nexecs_per_sec  : 152.58\npaths_total    : 26\npaths_favored  : 5\npaths_found    : 25\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 24\npending_favs   : 0\npending_total  : 6\nvariable_paths : 0\nbitmap_cvg     : 0.21%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500038739\nlast_crash     : 0\nlast_hang      : 1500039427\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/OTPSim/input -o /dev/shm/work/OTPSim/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/OTPSim/OTPSim.dict -- data/linux/processed-challenges/OTPSim/bin/OTPSim\n'
+p77
+I0
+tp78
+a(I4680
+S'start_time     : 1500036149\nlast_update    : 1500040837\nfuzzer_pid     : 7454\ncycles_done    : 9\nexecs_done     : 2140472\nexecs_per_sec  : 148.58\npaths_total    : 26\npaths_favored  : 5\npaths_found    : 25\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 24\npending_favs   : 0\npending_total  : 6\nvariable_paths : 0\nbitmap_cvg     : 0.21%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500038739\nlast_crash     : 0\nlast_hang      : 1500039427\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/OTPSim/input -o /dev/shm/work/OTPSim/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/OTPSim/OTPSim.dict -- data/linux/processed-challenges/OTPSim/bin/OTPSim\n'
+p79
+I0
+tp80
+a(I4800
+S'start_time     : 1500036149\nlast_update    : 1500040957\nfuzzer_pid     : 7454\ncycles_done    : 9\nexecs_done     : 2158718\nexecs_per_sec  : 150.77\npaths_total    : 26\npaths_favored  : 5\npaths_found    : 25\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 24\npending_favs   : 0\npending_total  : 6\nvariable_paths : 0\nbitmap_cvg     : 0.21%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500038739\nlast_crash     : 0\nlast_hang      : 1500039427\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/OTPSim/input -o /dev/shm/work/OTPSim/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/OTPSim/OTPSim.dict -- data/linux/processed-challenges/OTPSim/bin/OTPSim\n'
+p81
+I0
+tp82
+a(I4920
+S'start_time     : 1500036149\nlast_update    : 1500041078\nfuzzer_pid     : 7454\ncycles_done    : 9\nexecs_done     : 2177099\nexecs_per_sec  : 154.83\npaths_total    : 26\npaths_favored  : 5\npaths_found    : 25\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 24\npending_favs   : 0\npending_total  : 6\nvariable_paths : 0\nbitmap_cvg     : 0.21%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500038739\nlast_crash     : 0\nlast_hang      : 1500039427\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/OTPSim/input -o /dev/shm/work/OTPSim/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/OTPSim/OTPSim.dict -- data/linux/processed-challenges/OTPSim/bin/OTPSim\n'
+p83
+I0
+tp84
+a(I5040
+S'start_time     : 1500036149\nlast_update    : 1500041198\nfuzzer_pid     : 7454\ncycles_done    : 9\nexecs_done     : 2195405\nexecs_per_sec  : 152.17\npaths_total    : 26\npaths_favored  : 5\npaths_found    : 25\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 24\npending_favs   : 0\npending_total  : 6\nvariable_paths : 0\nbitmap_cvg     : 0.21%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500038739\nlast_crash     : 0\nlast_hang      : 1500039427\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/OTPSim/input -o /dev/shm/work/OTPSim/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/OTPSim/OTPSim.dict -- data/linux/processed-challenges/OTPSim/bin/OTPSim\n'
+p85
+I0
+tp86
+a(I5160
+S'start_time     : 1500036149\nlast_update    : 1500041318\nfuzzer_pid     : 7454\ncycles_done    : 9\nexecs_done     : 2213731\nexecs_per_sec  : 153.79\npaths_total    : 26\npaths_favored  : 5\npaths_found    : 25\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 24\npending_favs   : 0\npending_total  : 6\nvariable_paths : 0\nbitmap_cvg     : 0.21%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500038739\nlast_crash     : 0\nlast_hang      : 1500039427\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/OTPSim/input -o /dev/shm/work/OTPSim/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/OTPSim/OTPSim.dict -- data/linux/processed-challenges/OTPSim/bin/OTPSim\n'
+p87
+I0
+tp88
+a(I5280
+S'start_time     : 1500036149\nlast_update    : 1500041379\nfuzzer_pid     : 7454\ncycles_done    : 9\nexecs_done     : 2222921\nexecs_per_sec  : 150.80\npaths_total    : 26\npaths_favored  : 5\npaths_found    : 25\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 24\npending_favs   : 0\npending_total  : 6\nvariable_paths : 0\nbitmap_cvg     : 0.21%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500038739\nlast_crash     : 0\nlast_hang      : 1500039427\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/OTPSim/input -o /dev/shm/work/OTPSim/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/OTPSim/OTPSim.dict -- data/linux/processed-challenges/OTPSim/bin/OTPSim\n'
+p89
+I0
+tp90
+a(I5400
+S'start_time     : 1500036149\nlast_update    : 1500041499\nfuzzer_pid     : 7454\ncycles_done    : 9\nexecs_done     : 2241095\nexecs_per_sec  : 153.61\npaths_total    : 26\npaths_favored  : 5\npaths_found    : 25\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 24\npending_favs   : 0\npending_total  : 6\nvariable_paths : 0\nbitmap_cvg     : 0.21%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500038739\nlast_crash     : 0\nlast_hang      : 1500039427\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/OTPSim/input -o /dev/shm/work/OTPSim/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/OTPSim/OTPSim.dict -- data/linux/processed-challenges/OTPSim/bin/OTPSim\n'
+p91
+I0
+tp92
+a(I5520
+S'start_time     : 1500036149\nlast_update    : 1500041619\nfuzzer_pid     : 7454\ncycles_done    : 9\nexecs_done     : 2259347\nexecs_per_sec  : 152.85\npaths_total    : 26\npaths_favored  : 5\npaths_found    : 25\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 24\npending_favs   : 0\npending_total  : 6\nvariable_paths : 0\nbitmap_cvg     : 0.21%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500038739\nlast_crash     : 0\nlast_hang      : 1500039427\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/OTPSim/input -o /dev/shm/work/OTPSim/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/OTPSim/OTPSim.dict -- data/linux/processed-challenges/OTPSim/bin/OTPSim\n'
+p93
+I0
+tp94
+a(I5640
+S'start_time     : 1500036149\nlast_update    : 1500041739\nfuzzer_pid     : 7454\ncycles_done    : 9\nexecs_done     : 2277518\nexecs_per_sec  : 152.46\npaths_total    : 26\npaths_favored  : 5\npaths_found    : 25\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 24\npending_favs   : 0\npending_total  : 6\nvariable_paths : 0\nbitmap_cvg     : 0.21%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500038739\nlast_crash     : 0\nlast_hang      : 1500039427\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/OTPSim/input -o /dev/shm/work/OTPSim/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/OTPSim/OTPSim.dict -- data/linux/processed-challenges/OTPSim/bin/OTPSim\n'
+p95
+I0
+tp96
+a(I5760
+S'start_time     : 1500036149\nlast_update    : 1500041860\nfuzzer_pid     : 7454\ncycles_done    : 9\nexecs_done     : 2295539\nexecs_per_sec  : 149.33\npaths_total    : 26\npaths_favored  : 5\npaths_found    : 25\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 24\npending_favs   : 0\npending_total  : 6\nvariable_paths : 0\nbitmap_cvg     : 0.21%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500038739\nlast_crash     : 0\nlast_hang      : 1500039427\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/OTPSim/input -o /dev/shm/work/OTPSim/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/OTPSim/OTPSim.dict -- data/linux/processed-challenges/OTPSim/bin/OTPSim\n'
+p97
+I0
+tp98
+a(I5880
+S'start_time     : 1500036149\nlast_update    : 1500041980\nfuzzer_pid     : 7454\ncycles_done    : 9\nexecs_done     : 2313563\nexecs_per_sec  : 149.69\npaths_total    : 26\npaths_favored  : 5\npaths_found    : 25\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 24\npending_favs   : 0\npending_total  : 6\nvariable_paths : 0\nbitmap_cvg     : 0.21%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500038739\nlast_crash     : 0\nlast_hang      : 1500039427\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/OTPSim/input -o /dev/shm/work/OTPSim/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/OTPSim/OTPSim.dict -- data/linux/processed-challenges/OTPSim/bin/OTPSim\n'
+p99
+I0
+tp100
+a(I6000
+S'start_time     : 1500036149\nlast_update    : 1500042100\nfuzzer_pid     : 7454\ncycles_done    : 9\nexecs_done     : 2331703\nexecs_per_sec  : 150.22\npaths_total    : 26\npaths_favored  : 5\npaths_found    : 25\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 24\npending_favs   : 0\npending_total  : 6\nvariable_paths : 0\nbitmap_cvg     : 0.21%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500038739\nlast_crash     : 0\nlast_hang      : 1500039427\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/OTPSim/input -o /dev/shm/work/OTPSim/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/OTPSim/OTPSim.dict -- data/linux/processed-challenges/OTPSim/bin/OTPSim\n'
+p101
+I0
+tp102
+a(I6120
+S'start_time     : 1500036149\nlast_update    : 1500042220\nfuzzer_pid     : 7454\ncycles_done    : 9\nexecs_done     : 2349818\nexecs_per_sec  : 153.02\npaths_total    : 26\npaths_favored  : 5\npaths_found    : 25\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 24\npending_favs   : 0\npending_total  : 6\nvariable_paths : 0\nbitmap_cvg     : 0.21%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500038739\nlast_crash     : 0\nlast_hang      : 1500039427\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/OTPSim/input -o /dev/shm/work/OTPSim/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/OTPSim/OTPSim.dict -- data/linux/processed-challenges/OTPSim/bin/OTPSim\n'
+p103
+I0
+tp104
+a(I6240
+S'start_time     : 1500036149\nlast_update    : 1500042341\nfuzzer_pid     : 7454\ncycles_done    : 9\nexecs_done     : 2368004\nexecs_per_sec  : 151.61\npaths_total    : 26\npaths_favored  : 5\npaths_found    : 25\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 24\npending_favs   : 0\npending_total  : 6\nvariable_paths : 0\nbitmap_cvg     : 0.21%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500038739\nlast_crash     : 0\nlast_hang      : 1500039427\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/OTPSim/input -o /dev/shm/work/OTPSim/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/OTPSim/OTPSim.dict -- data/linux/processed-challenges/OTPSim/bin/OTPSim\n'
+p105
+I0
+tp106
+a(I6360
+S'start_time     : 1500036149\nlast_update    : 1500042461\nfuzzer_pid     : 7454\ncycles_done    : 9\nexecs_done     : 2386289\nexecs_per_sec  : 151.79\npaths_total    : 26\npaths_favored  : 5\npaths_found    : 25\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 24\npending_favs   : 0\npending_total  : 6\nvariable_paths : 0\nbitmap_cvg     : 0.21%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500038739\nlast_crash     : 0\nlast_hang      : 1500039427\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/OTPSim/input -o /dev/shm/work/OTPSim/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/OTPSim/OTPSim.dict -- data/linux/processed-challenges/OTPSim/bin/OTPSim\n'
+p107
+I0
+tp108
+a(I6480
+S'start_time     : 1500036149\nlast_update    : 1500042581\nfuzzer_pid     : 7454\ncycles_done    : 9\nexecs_done     : 2404454\nexecs_per_sec  : 151.98\npaths_total    : 26\npaths_favored  : 5\npaths_found    : 25\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 24\npending_favs   : 0\npending_total  : 6\nvariable_paths : 0\nbitmap_cvg     : 0.21%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500038739\nlast_crash     : 0\nlast_hang      : 1500039427\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/OTPSim/input -o /dev/shm/work/OTPSim/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/OTPSim/OTPSim.dict -- data/linux/processed-challenges/OTPSim/bin/OTPSim\n'
+p109
+I0
+tp110
+a(I6600
+S'start_time     : 1500036149\nlast_update    : 1500042701\nfuzzer_pid     : 7454\ncycles_done    : 9\nexecs_done     : 2422568\nexecs_per_sec  : 151.66\npaths_total    : 26\npaths_favored  : 5\npaths_found    : 25\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 24\npending_favs   : 0\npending_total  : 6\nvariable_paths : 0\nbitmap_cvg     : 0.21%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500038739\nlast_crash     : 0\nlast_hang      : 1500039427\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/OTPSim/input -o /dev/shm/work/OTPSim/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/OTPSim/OTPSim.dict -- data/linux/processed-challenges/OTPSim/bin/OTPSim\n'
+p111
+I0
+tp112
+a(I6720
+S'start_time     : 1500036149\nlast_update    : 1500042821\nfuzzer_pid     : 7454\ncycles_done    : 9\nexecs_done     : 2440802\nexecs_per_sec  : 151.36\npaths_total    : 26\npaths_favored  : 5\npaths_found    : 25\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 24\npending_favs   : 0\npending_total  : 6\nvariable_paths : 0\nbitmap_cvg     : 0.21%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500038739\nlast_crash     : 0\nlast_hang      : 1500039427\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/OTPSim/input -o /dev/shm/work/OTPSim/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/OTPSim/OTPSim.dict -- data/linux/processed-challenges/OTPSim/bin/OTPSim\n'
+p113
+I0
+tp114
+a(I6840
+S'start_time     : 1500036149\nlast_update    : 1500042942\nfuzzer_pid     : 7454\ncycles_done    : 9\nexecs_done     : 2458961\nexecs_per_sec  : 149.55\npaths_total    : 26\npaths_favored  : 5\npaths_found    : 25\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 24\npending_favs   : 0\npending_total  : 6\nvariable_paths : 0\nbitmap_cvg     : 0.21%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500038739\nlast_crash     : 0\nlast_hang      : 1500039427\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/OTPSim/input -o /dev/shm/work/OTPSim/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/OTPSim/OTPSim.dict -- data/linux/processed-challenges/OTPSim/bin/OTPSim\n'
+p115
+I0
+tp116
+a(I6960
+S'start_time     : 1500036149\nlast_update    : 1500043062\nfuzzer_pid     : 7454\ncycles_done    : 9\nexecs_done     : 2477054\nexecs_per_sec  : 150.84\npaths_total    : 26\npaths_favored  : 5\npaths_found    : 25\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 24\npending_favs   : 0\npending_total  : 6\nvariable_paths : 0\nbitmap_cvg     : 0.21%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500038739\nlast_crash     : 0\nlast_hang      : 1500039427\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/OTPSim/input -o /dev/shm/work/OTPSim/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/OTPSim/OTPSim.dict -- data/linux/processed-challenges/OTPSim/bin/OTPSim\n'
+p117
+I0
+tp118
+a(I7080
+S'start_time     : 1500036149\nlast_update    : 1500043182\nfuzzer_pid     : 7454\ncycles_done    : 9\nexecs_done     : 2495193\nexecs_per_sec  : 149.75\npaths_total    : 26\npaths_favored  : 5\npaths_found    : 25\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 24\npending_favs   : 0\npending_total  : 6\nvariable_paths : 0\nbitmap_cvg     : 0.21%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500038739\nlast_crash     : 0\nlast_hang      : 1500039427\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/OTPSim/input -o /dev/shm/work/OTPSim/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/OTPSim/OTPSim.dict -- data/linux/processed-challenges/OTPSim/bin/OTPSim\n'
+p119
+I0
+tp120
+a(I7200
+S'start_time     : 1500036149\nlast_update    : 1500043303\nfuzzer_pid     : 7454\ncycles_done    : 9\nexecs_done     : 2513141\nexecs_per_sec  : 150.25\npaths_total    : 26\npaths_favored  : 5\npaths_found    : 25\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 24\npending_favs   : 0\npending_total  : 6\nvariable_paths : 0\nbitmap_cvg     : 0.21%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500038739\nlast_crash     : 0\nlast_hang      : 1500039427\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/OTPSim/input -o /dev/shm/work/OTPSim/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/OTPSim/OTPSim.dict -- data/linux/processed-challenges/OTPSim/bin/OTPSim\n'
+p121
+I0
+tp122
+a(I7320
+S'start_time     : 1500036149\nlast_update    : 1500043423\nfuzzer_pid     : 7454\ncycles_done    : 9\nexecs_done     : 2531198\nexecs_per_sec  : 151.94\npaths_total    : 26\npaths_favored  : 5\npaths_found    : 25\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 24\npending_favs   : 0\npending_total  : 6\nvariable_paths : 0\nbitmap_cvg     : 0.21%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500038739\nlast_crash     : 0\nlast_hang      : 1500039427\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/OTPSim/input -o /dev/shm/work/OTPSim/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/OTPSim/OTPSim.dict -- data/linux/processed-challenges/OTPSim/bin/OTPSim\n'
+p123
+I0
+tp124
+a(I7440
+S'start_time     : 1500036149\nlast_update    : 1500043543\nfuzzer_pid     : 7454\ncycles_done    : 9\nexecs_done     : 2549444\nexecs_per_sec  : 152.65\npaths_total    : 26\npaths_favored  : 5\npaths_found    : 25\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 24\npending_favs   : 0\npending_total  : 6\nvariable_paths : 0\nbitmap_cvg     : 0.21%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500038739\nlast_crash     : 0\nlast_hang      : 1500039427\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/OTPSim/input -o /dev/shm/work/OTPSim/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/OTPSim/OTPSim.dict -- data/linux/processed-challenges/OTPSim/bin/OTPSim\n'
+p125
+I0
+tp126
+a(I7560
+S'start_time     : 1500036149\nlast_update    : 1500043663\nfuzzer_pid     : 7454\ncycles_done    : 9\nexecs_done     : 2567579\nexecs_per_sec  : 148.75\npaths_total    : 26\npaths_favored  : 5\npaths_found    : 25\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 24\npending_favs   : 0\npending_total  : 6\nvariable_paths : 0\nbitmap_cvg     : 0.21%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500038739\nlast_crash     : 0\nlast_hang      : 1500039427\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/OTPSim/input -o /dev/shm/work/OTPSim/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/OTPSim/OTPSim.dict -- data/linux/processed-challenges/OTPSim/bin/OTPSim\n'
+p127
+I0
+tp128
+a(I7680
+S'start_time     : 1500036149\nlast_update    : 1500043784\nfuzzer_pid     : 7454\ncycles_done    : 9\nexecs_done     : 2585825\nexecs_per_sec  : 151.63\npaths_total    : 26\npaths_favored  : 5\npaths_found    : 25\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 24\npending_favs   : 0\npending_total  : 6\nvariable_paths : 0\nbitmap_cvg     : 0.21%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500038739\nlast_crash     : 0\nlast_hang      : 1500039427\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/OTPSim/input -o /dev/shm/work/OTPSim/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/OTPSim/OTPSim.dict -- data/linux/processed-challenges/OTPSim/bin/OTPSim\n'
+p129
+I0
+tp130
+a(I7800
+S'start_time     : 1500036149\nlast_update    : 1500043904\nfuzzer_pid     : 7454\ncycles_done    : 9\nexecs_done     : 2604101\nexecs_per_sec  : 150.85\npaths_total    : 26\npaths_favored  : 5\npaths_found    : 25\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 24\npending_favs   : 0\npending_total  : 6\nvariable_paths : 0\nbitmap_cvg     : 0.21%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500038739\nlast_crash     : 0\nlast_hang      : 1500039427\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/OTPSim/input -o /dev/shm/work/OTPSim/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/OTPSim/OTPSim.dict -- data/linux/processed-challenges/OTPSim/bin/OTPSim\n'
+p131
+I0
+tp132
+a(I7920
+S'start_time     : 1500036149\nlast_update    : 1500044024\nfuzzer_pid     : 7454\ncycles_done    : 9\nexecs_done     : 2622413\nexecs_per_sec  : 155.05\npaths_total    : 26\npaths_favored  : 5\npaths_found    : 25\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 24\npending_favs   : 0\npending_total  : 6\nvariable_paths : 0\nbitmap_cvg     : 0.21%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500038739\nlast_crash     : 0\nlast_hang      : 1500039427\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/OTPSim/input -o /dev/shm/work/OTPSim/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/OTPSim/OTPSim.dict -- data/linux/processed-challenges/OTPSim/bin/OTPSim\n'
+p133
+I0
+tp134
+a(I8040
+S'start_time     : 1500036149\nlast_update    : 1500044144\nfuzzer_pid     : 7454\ncycles_done    : 9\nexecs_done     : 2640728\nexecs_per_sec  : 151.23\npaths_total    : 26\npaths_favored  : 5\npaths_found    : 25\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 24\npending_favs   : 0\npending_total  : 6\nvariable_paths : 0\nbitmap_cvg     : 0.21%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500038739\nlast_crash     : 0\nlast_hang      : 1500039427\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/OTPSim/input -o /dev/shm/work/OTPSim/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/OTPSim/OTPSim.dict -- data/linux/processed-challenges/OTPSim/bin/OTPSim\n'
+p135
+I0
+tp136
+a(I8160
+S'start_time     : 1500036149\nlast_update    : 1500044264\nfuzzer_pid     : 7454\ncycles_done    : 9\nexecs_done     : 2658905\nexecs_per_sec  : 152.04\npaths_total    : 26\npaths_favored  : 5\npaths_found    : 25\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 24\npending_favs   : 0\npending_total  : 6\nvariable_paths : 0\nbitmap_cvg     : 0.21%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500038739\nlast_crash     : 0\nlast_hang      : 1500039427\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/OTPSim/input -o /dev/shm/work/OTPSim/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/OTPSim/OTPSim.dict -- data/linux/processed-challenges/OTPSim/bin/OTPSim\n'
+p137
+I0
+tp138
+a(I8280
+S'start_time     : 1500036149\nlast_update    : 1500044384\nfuzzer_pid     : 7454\ncycles_done    : 9\nexecs_done     : 2677094\nexecs_per_sec  : 152.74\npaths_total    : 26\npaths_favored  : 5\npaths_found    : 25\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 24\npending_favs   : 0\npending_total  : 6\nvariable_paths : 0\nbitmap_cvg     : 0.21%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500038739\nlast_crash     : 0\nlast_hang      : 1500039427\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/OTPSim/input -o /dev/shm/work/OTPSim/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/OTPSim/OTPSim.dict -- data/linux/processed-challenges/OTPSim/bin/OTPSim\n'
+p139
+I0
+tp140
+a(I8400
+S'start_time     : 1500036149\nlast_update    : 1500044505\nfuzzer_pid     : 7454\ncycles_done    : 9\nexecs_done     : 2695142\nexecs_per_sec  : 151.88\npaths_total    : 26\npaths_favored  : 5\npaths_found    : 25\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 24\npending_favs   : 0\npending_total  : 6\nvariable_paths : 0\nbitmap_cvg     : 0.21%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500038739\nlast_crash     : 0\nlast_hang      : 1500039427\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/OTPSim/input -o /dev/shm/work/OTPSim/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/OTPSim/OTPSim.dict -- data/linux/processed-challenges/OTPSim/bin/OTPSim\n'
+p141
+I0
+tp142
+a(I8520
+S'start_time     : 1500036149\nlast_update    : 1500044625\nfuzzer_pid     : 7454\ncycles_done    : 9\nexecs_done     : 2713281\nexecs_per_sec  : 150.36\npaths_total    : 26\npaths_favored  : 5\npaths_found    : 25\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 24\npending_favs   : 0\npending_total  : 6\nvariable_paths : 0\nbitmap_cvg     : 0.21%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500038739\nlast_crash     : 0\nlast_hang      : 1500044506\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/OTPSim/input -o /dev/shm/work/OTPSim/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/OTPSim/OTPSim.dict -- data/linux/processed-challenges/OTPSim/bin/OTPSim\n'
+p143
+I0
+tp144
+a(I8640
+S'start_time     : 1500036149\nlast_update    : 1500044745\nfuzzer_pid     : 7454\ncycles_done    : 9\nexecs_done     : 2731511\nexecs_per_sec  : 151.71\npaths_total    : 26\npaths_favored  : 5\npaths_found    : 25\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 24\npending_favs   : 0\npending_total  : 6\nvariable_paths : 0\nbitmap_cvg     : 0.21%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500038739\nlast_crash     : 0\nlast_hang      : 1500044506\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/OTPSim/input -o /dev/shm/work/OTPSim/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/OTPSim/OTPSim.dict -- data/linux/processed-challenges/OTPSim/bin/OTPSim\n'
+p145
+I0
+tp146
+a(I8760
+S'start_time     : 1500036149\nlast_update    : 1500044865\nfuzzer_pid     : 7454\ncycles_done    : 9\nexecs_done     : 2749733\nexecs_per_sec  : 153.12\npaths_total    : 26\npaths_favored  : 5\npaths_found    : 25\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 24\npending_favs   : 0\npending_total  : 6\nvariable_paths : 0\nbitmap_cvg     : 0.21%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500038739\nlast_crash     : 0\nlast_hang      : 1500044506\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/OTPSim/input -o /dev/shm/work/OTPSim/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/OTPSim/OTPSim.dict -- data/linux/processed-challenges/OTPSim/bin/OTPSim\n'
+p147
+I0
+tp148
+a(I8880
+S'start_time     : 1500036149\nlast_update    : 1500044985\nfuzzer_pid     : 7454\ncycles_done    : 9\nexecs_done     : 2767727\nexecs_per_sec  : 153.57\npaths_total    : 26\npaths_favored  : 5\npaths_found    : 25\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 24\npending_favs   : 0\npending_total  : 6\nvariable_paths : 0\nbitmap_cvg     : 0.21%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500038739\nlast_crash     : 0\nlast_hang      : 1500044506\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/OTPSim/input -o /dev/shm/work/OTPSim/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/OTPSim/OTPSim.dict -- data/linux/processed-challenges/OTPSim/bin/OTPSim\n'
+p149
+I0
+tp150
+a(I9000
+S'start_time     : 1500036149\nlast_update    : 1500045105\nfuzzer_pid     : 7454\ncycles_done    : 9\nexecs_done     : 2785781\nexecs_per_sec  : 152.72\npaths_total    : 26\npaths_favored  : 5\npaths_found    : 25\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 24\npending_favs   : 0\npending_total  : 6\nvariable_paths : 0\nbitmap_cvg     : 0.21%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500038739\nlast_crash     : 0\nlast_hang      : 1500044506\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/OTPSim/input -o /dev/shm/work/OTPSim/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/OTPSim/OTPSim.dict -- data/linux/processed-challenges/OTPSim/bin/OTPSim\n'
+p151
+I0
+tp152
+a(I9120
+S'start_time     : 1500036149\nlast_update    : 1500045226\nfuzzer_pid     : 7454\ncycles_done    : 9\nexecs_done     : 2803883\nexecs_per_sec  : 150.59\npaths_total    : 26\npaths_favored  : 5\npaths_found    : 25\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 24\npending_favs   : 0\npending_total  : 6\nvariable_paths : 0\nbitmap_cvg     : 0.21%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500038739\nlast_crash     : 0\nlast_hang      : 1500044506\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/OTPSim/input -o /dev/shm/work/OTPSim/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/OTPSim/OTPSim.dict -- data/linux/processed-challenges/OTPSim/bin/OTPSim\n'
+p153
+I0
+tp154
+a(I9240
+S'start_time     : 1500036149\nlast_update    : 1500045346\nfuzzer_pid     : 7454\ncycles_done    : 9\nexecs_done     : 2822075\nexecs_per_sec  : 154.21\npaths_total    : 26\npaths_favored  : 5\npaths_found    : 25\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 24\npending_favs   : 0\npending_total  : 6\nvariable_paths : 0\nbitmap_cvg     : 0.21%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500038739\nlast_crash     : 0\nlast_hang      : 1500044506\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/OTPSim/input -o /dev/shm/work/OTPSim/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/OTPSim/OTPSim.dict -- data/linux/processed-challenges/OTPSim/bin/OTPSim\n'
+p155
+I0
+tp156
+a(I9360
+S'start_time     : 1500036149\nlast_update    : 1500045466\nfuzzer_pid     : 7454\ncycles_done    : 9\nexecs_done     : 2840324\nexecs_per_sec  : 154.69\npaths_total    : 26\npaths_favored  : 5\npaths_found    : 25\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 24\npending_favs   : 0\npending_total  : 6\nvariable_paths : 0\nbitmap_cvg     : 0.21%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500038739\nlast_crash     : 0\nlast_hang      : 1500044506\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/OTPSim/input -o /dev/shm/work/OTPSim/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/OTPSim/OTPSim.dict -- data/linux/processed-challenges/OTPSim/bin/OTPSim\n'
+p157
+I0
+tp158
+a(I9480
+S'start_time     : 1500036149\nlast_update    : 1500045586\nfuzzer_pid     : 7454\ncycles_done    : 9\nexecs_done     : 2858636\nexecs_per_sec  : 152.85\npaths_total    : 26\npaths_favored  : 5\npaths_found    : 25\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 24\npending_favs   : 0\npending_total  : 6\nvariable_paths : 0\nbitmap_cvg     : 0.21%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500038739\nlast_crash     : 0\nlast_hang      : 1500044506\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/OTPSim/input -o /dev/shm/work/OTPSim/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/OTPSim/OTPSim.dict -- data/linux/processed-challenges/OTPSim/bin/OTPSim\n'
+p159
+I0
+tp160
+a(I9600
+S'start_time     : 1500036149\nlast_update    : 1500045707\nfuzzer_pid     : 7454\ncycles_done    : 9\nexecs_done     : 2876813\nexecs_per_sec  : 150.44\npaths_total    : 26\npaths_favored  : 5\npaths_found    : 25\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 24\npending_favs   : 0\npending_total  : 6\nvariable_paths : 0\nbitmap_cvg     : 0.21%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500038739\nlast_crash     : 0\nlast_hang      : 1500044506\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/OTPSim/input -o /dev/shm/work/OTPSim/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/OTPSim/OTPSim.dict -- data/linux/processed-challenges/OTPSim/bin/OTPSim\n'
+p161
+I0
+tp162
+a(I9720
+S'start_time     : 1500036149\nlast_update    : 1500045827\nfuzzer_pid     : 7454\ncycles_done    : 9\nexecs_done     : 2895525\nexecs_per_sec  : 160.45\npaths_total    : 26\npaths_favored  : 5\npaths_found    : 25\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 24\npending_favs   : 0\npending_total  : 6\nvariable_paths : 0\nbitmap_cvg     : 0.21%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500038739\nlast_crash     : 0\nlast_hang      : 1500044506\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/OTPSim/input -o /dev/shm/work/OTPSim/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/OTPSim/OTPSim.dict -- data/linux/processed-challenges/OTPSim/bin/OTPSim\n'
+p163
+I0
+tp164
+a(I9840
+S'start_time     : 1500036149\nlast_update    : 1500045947\nfuzzer_pid     : 7454\ncycles_done    : 10\nexecs_done     : 2981741\nexecs_per_sec  : 649.12\npaths_total    : 26\npaths_favored  : 5\npaths_found    : 25\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 17\npending_favs   : 0\npending_total  : 5\nvariable_paths : 0\nbitmap_cvg     : 0.21%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500038739\nlast_crash     : 0\nlast_hang      : 1500044506\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/OTPSim/input -o /dev/shm/work/OTPSim/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/OTPSim/OTPSim.dict -- data/linux/processed-challenges/OTPSim/bin/OTPSim\n'
+p165
+I0
+tp166
+a(I9960
+S'start_time     : 1500036149\nlast_update    : 1500046067\nfuzzer_pid     : 7454\ncycles_done    : 10\nexecs_done     : 3054762\nexecs_per_sec  : 589.12\npaths_total    : 26\npaths_favored  : 5\npaths_found    : 25\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 17\npending_favs   : 0\npending_total  : 5\nvariable_paths : 0\nbitmap_cvg     : 0.21%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500038739\nlast_crash     : 0\nlast_hang      : 1500044506\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/OTPSim/input -o /dev/shm/work/OTPSim/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/OTPSim/OTPSim.dict -- data/linux/processed-challenges/OTPSim/bin/OTPSim\n'
+p167
+I0
+tp168
+a(I10080
+S'start_time     : 1500036149\nlast_update    : 1500046188\nfuzzer_pid     : 7454\ncycles_done    : 10\nexecs_done     : 3123556\nexecs_per_sec  : 569.72\npaths_total    : 26\npaths_favored  : 5\npaths_found    : 25\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 17\npending_favs   : 0\npending_total  : 5\nvariable_paths : 0\nbitmap_cvg     : 0.21%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500038739\nlast_crash     : 0\nlast_hang      : 1500044506\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/OTPSim/input -o /dev/shm/work/OTPSim/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/OTPSim/OTPSim.dict -- data/linux/processed-challenges/OTPSim/bin/OTPSim\n'
+p169
+I0
+tp170
+a(I10200
+S'start_time     : 1500036149\nlast_update    : 1500046308\nfuzzer_pid     : 7454\ncycles_done    : 10\nexecs_done     : 3197874\nexecs_per_sec  : 1200.95\npaths_total    : 26\npaths_favored  : 5\npaths_found    : 25\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 17\npending_favs   : 0\npending_total  : 5\nvariable_paths : 0\nbitmap_cvg     : 0.21%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500038739\nlast_crash     : 0\nlast_hang      : 1500044506\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/OTPSim/input -o /dev/shm/work/OTPSim/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/OTPSim/OTPSim.dict -- data/linux/processed-challenges/OTPSim/bin/OTPSim\n'
+p171
+I0
+tp172
+a(I10320
+S'start_time     : 1500036149\nlast_update    : 1500046428\nfuzzer_pid     : 7454\ncycles_done    : 11\nexecs_done     : 3266224\nexecs_per_sec  : 1331.87\npaths_total    : 26\npaths_favored  : 5\npaths_found    : 25\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 2\npending_favs   : 0\npending_total  : 4\nvariable_paths : 0\nbitmap_cvg     : 0.21%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500038739\nlast_crash     : 0\nlast_hang      : 1500044506\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/OTPSim/input -o /dev/shm/work/OTPSim/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/OTPSim/OTPSim.dict -- data/linux/processed-challenges/OTPSim/bin/OTPSim\n'
+p173
+I0
+tp174
+a(I10440
+S'start_time     : 1500036149\nlast_update    : 1500046548\nfuzzer_pid     : 7454\ncycles_done    : 11\nexecs_done     : 3336085\nexecs_per_sec  : 1129.35\npaths_total    : 26\npaths_favored  : 5\npaths_found    : 25\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 17\npending_favs   : 0\npending_total  : 4\nvariable_paths : 0\nbitmap_cvg     : 0.21%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500038739\nlast_crash     : 0\nlast_hang      : 1500044506\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/OTPSim/input -o /dev/shm/work/OTPSim/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/OTPSim/OTPSim.dict -- data/linux/processed-challenges/OTPSim/bin/OTPSim\n'
+p175
+I0
+tp176
+a(I10560
+S'start_time     : 1500036149\nlast_update    : 1500046668\nfuzzer_pid     : 7454\ncycles_done    : 11\nexecs_done     : 3397613\nexecs_per_sec  : 255.69\npaths_total    : 26\npaths_favored  : 5\npaths_found    : 25\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 22\npending_favs   : 0\npending_total  : 4\nvariable_paths : 0\nbitmap_cvg     : 0.21%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500038739\nlast_crash     : 0\nlast_hang      : 1500044506\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/OTPSim/input -o /dev/shm/work/OTPSim/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/OTPSim/OTPSim.dict -- data/linux/processed-challenges/OTPSim/bin/OTPSim\n'
+p177
+I0
+tp178
+a(I10680
+S'start_time     : 1500036149\nlast_update    : 1500046789\nfuzzer_pid     : 7454\ncycles_done    : 11\nexecs_done     : 3427948\nexecs_per_sec  : 253.91\npaths_total    : 26\npaths_favored  : 5\npaths_found    : 25\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 22\npending_favs   : 0\npending_total  : 4\nvariable_paths : 0\nbitmap_cvg     : 0.21%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500038739\nlast_crash     : 0\nlast_hang      : 1500044506\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/OTPSim/input -o /dev/shm/work/OTPSim/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/OTPSim/OTPSim.dict -- data/linux/processed-challenges/OTPSim/bin/OTPSim\n'
+p179
+I0
+tp180
+a.

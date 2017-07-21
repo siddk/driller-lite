@@ -1,0 +1,6 @@
+add_compile_options( -fno-exceptions -fno-rtti -DCPLUSPLUS )
+set( SERVICE_ID "00120" )
+set( AUTHOR_ID "KPRCA" )
+add_compile_options( -O0 -g -Wno-overlength-strings -Wno-packed -Wno-narrowing -Wall -include _defines.h )
+set( VULN_COUNT "1" )
+buildCB()

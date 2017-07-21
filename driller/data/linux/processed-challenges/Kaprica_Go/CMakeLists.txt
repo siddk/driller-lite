@@ -1,0 +1,7 @@
+set( POLLS_TESTING_SEED "-1038971563" )
+set( POLLS_RELEASE_SEED "-868333550" )
+add_compile_options( -g -Ofast -Wall -Wno-unused-function -Wno-unused -Wno-compare-distinct-pointer-types -Wno-sometimes-uninitialized -fshort-enums )
+set( SERVICE_ID "00039" )
+set( AUTHOR_ID "KPRCA" )
+set( POLLS_RELEASE_COUNT "0" )
+buildCB()

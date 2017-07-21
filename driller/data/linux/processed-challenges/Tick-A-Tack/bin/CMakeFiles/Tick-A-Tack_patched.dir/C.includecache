@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/libcgc.h
+
+../processed-challenges/Tick-A-Tack/lib/libc.h
+
+../processed-challenges/Tick-A-Tack/lib/tt.h
+
+/vagrant/driller/data/linux/processed-challenges/Tick-A-Tack/lib/libc.c
+libcgc.h
+-
+libc.h
+/vagrant/driller/data/linux/processed-challenges/Tick-A-Tack/lib/libc.h
+
+/vagrant/driller/data/linux/processed-challenges/Tick-A-Tack/lib/libc.h
+
+/vagrant/driller/data/linux/processed-challenges/Tick-A-Tack/lib/tt.c
+libcgc.h
+-
+libc.h
+/vagrant/driller/data/linux/processed-challenges/Tick-A-Tack/lib/libc.h
+tt.h
+/vagrant/driller/data/linux/processed-challenges/Tick-A-Tack/lib/tt.h
+
+/vagrant/driller/data/linux/processed-challenges/Tick-A-Tack/lib/tt.h
+
+/vagrant/driller/data/linux/processed-challenges/Tick-A-Tack/src/service.c
+libcgc.h
+-
+libc.h
+/vagrant/driller/data/linux/processed-challenges/Tick-A-Tack/src/libc.h
+tt.h
+/vagrant/driller/data/linux/processed-challenges/Tick-A-Tack/src/tt.h
+service.h
+/vagrant/driller/data/linux/processed-challenges/Tick-A-Tack/src/service.h
+
+/vagrant/driller/data/linux/processed-challenges/Tick-A-Tack/src/service.h
+

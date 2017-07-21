@@ -1,0 +1,452 @@
+(lp0
+(I0
+S'start_time     : 1499949846\nlast_update    : 1499949846\nfuzzer_pid     : 8206\ncycles_done    : 0\nexecs_done     : 10\nexecs_per_sec  : 181.82\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 1\npending_total  : 1\nvariable_paths : 0\nbitmap_cvg     : 0.11%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simplenote/input -o /dev/shm/work/simplenote/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simplenote/simplenote.dict -- data/linux/processed-challenges/simplenote/bin/simplenote\n'
+p1
+I23
+tp2
+a(I120
+S'start_time     : 1499949846\nlast_update    : 1499949966\nfuzzer_pid     : 8206\ncycles_done    : 0\nexecs_done     : 146646\nexecs_per_sec  : 1213.03\npaths_total    : 43\npaths_favored  : 1\npaths_found    : 42\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 1\npending_total  : 43\nvariable_paths : 0\nbitmap_cvg     : 0.43%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499949966\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simplenote/input -o /dev/shm/work/simplenote/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simplenote/simplenote.dict -- data/linux/processed-challenges/simplenote/bin/simplenote\n'
+p3
+I20
+tp4
+a(I240
+S'start_time     : 1499949846\nlast_update    : 1499950086\nfuzzer_pid     : 8206\ncycles_done    : 0\nexecs_done     : 287995\nexecs_per_sec  : 1182.08\npaths_total    : 82\npaths_favored  : 17\npaths_found    : 81\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 6\npending_favs   : 17\npending_total  : 81\nvariable_paths : 0\nbitmap_cvg     : 0.54%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499950080\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simplenote/input -o /dev/shm/work/simplenote/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simplenote/simplenote.dict -- data/linux/processed-challenges/simplenote/bin/simplenote\n'
+p5
+I39
+tp6
+a(I360
+S'start_time     : 1499949846\nlast_update    : 1499950206\nfuzzer_pid     : 8206\ncycles_done    : 0\nexecs_done     : 427239\nexecs_per_sec  : 1160.97\npaths_total    : 101\npaths_favored  : 25\npaths_found    : 100\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 32\npending_favs   : 21\npending_total  : 93\nvariable_paths : 0\nbitmap_cvg     : 0.54%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499950202\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simplenote/input -o /dev/shm/work/simplenote/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simplenote/simplenote.dict -- data/linux/processed-challenges/simplenote/bin/simplenote\n'
+p7
+I19
+tp8
+a(I480
+S'start_time     : 1499949846\nlast_update    : 1499950326\nfuzzer_pid     : 8206\ncycles_done    : 0\nexecs_done     : 564864\nexecs_per_sec  : 1098.80\npaths_total    : 114\npaths_favored  : 31\npaths_found    : 113\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 58\npending_favs   : 23\npending_total  : 99\nvariable_paths : 0\nbitmap_cvg     : 0.79%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499950314\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simplenote/input -o /dev/shm/work/simplenote/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simplenote/simplenote.dict -- data/linux/processed-challenges/simplenote/bin/simplenote\n'
+p9
+I13
+tp10
+a(I600
+S'start_time     : 1499949846\nlast_update    : 1499950446\nfuzzer_pid     : 8206\ncycles_done    : 0\nexecs_done     : 690729\nexecs_per_sec  : 1018.76\npaths_total    : 114\npaths_favored  : 31\npaths_found    : 113\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 79\npending_favs   : 17\npending_total  : 92\nvariable_paths : 0\nbitmap_cvg     : 0.79%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499950314\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simplenote/input -o /dev/shm/work/simplenote/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simplenote/simplenote.dict -- data/linux/processed-challenges/simplenote/bin/simplenote\n'
+p11
+I0
+tp12
+a(I720
+S'start_time     : 1499949846\nlast_update    : 1499950566\nfuzzer_pid     : 8206\ncycles_done    : 0\nexecs_done     : 827815\nexecs_per_sec  : 1129.50\npaths_total    : 124\npaths_favored  : 33\npaths_found    : 123\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 88\npending_favs   : 17\npending_total  : 97\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499950545\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simplenote/input -o /dev/shm/work/simplenote/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simplenote/simplenote.dict -- data/linux/processed-challenges/simplenote/bin/simplenote\n'
+p13
+I10
+tp14
+a(I840
+S'start_time     : 1499949846\nlast_update    : 1499950687\nfuzzer_pid     : 8206\ncycles_done    : 0\nexecs_done     : 967864\nexecs_per_sec  : 1175.70\npaths_total    : 134\npaths_favored  : 34\npaths_found    : 133\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 104\npending_favs   : 14\npending_total  : 103\nvariable_paths : 0\nbitmap_cvg     : 0.83%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499950647\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simplenote/input -o /dev/shm/work/simplenote/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simplenote/simplenote.dict -- data/linux/processed-challenges/simplenote/bin/simplenote\n'
+p15
+I10
+tp16
+a(I960
+S'start_time     : 1499949846\nlast_update    : 1499950807\nfuzzer_pid     : 8206\ncycles_done    : 0\nexecs_done     : 1103127\nexecs_per_sec  : 959.26\npaths_total    : 137\npaths_favored  : 35\npaths_found    : 136\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 107\npending_favs   : 17\npending_total  : 104\nvariable_paths : 0\nbitmap_cvg     : 0.85%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499950773\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simplenote/input -o /dev/shm/work/simplenote/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simplenote/simplenote.dict -- data/linux/processed-challenges/simplenote/bin/simplenote\n'
+p17
+I3
+tp18
+a(I1080
+S'start_time     : 1499949846\nlast_update    : 1499950927\nfuzzer_pid     : 8206\ncycles_done    : 0\nexecs_done     : 1235881\nexecs_per_sec  : 1133.62\npaths_total    : 145\npaths_favored  : 36\npaths_found    : 144\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 109\npending_favs   : 17\npending_total  : 110\nvariable_paths : 0\nbitmap_cvg     : 0.85%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499950927\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simplenote/input -o /dev/shm/work/simplenote/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simplenote/simplenote.dict -- data/linux/processed-challenges/simplenote/bin/simplenote\n'
+p19
+I8
+tp20
+a(I1200
+S'start_time     : 1499949846\nlast_update    : 1499951048\nfuzzer_pid     : 8206\ncycles_done    : 0\nexecs_done     : 1370348\nexecs_per_sec  : 1103.71\npaths_total    : 155\npaths_favored  : 40\npaths_found    : 154\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 119\npending_favs   : 19\npending_total  : 115\nvariable_paths : 0\nbitmap_cvg     : 0.93%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499951048\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simplenote/input -o /dev/shm/work/simplenote/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simplenote/simplenote.dict -- data/linux/processed-challenges/simplenote/bin/simplenote\n'
+p21
+I10
+tp22
+a(I1320
+S'start_time     : 1499949846\nlast_update    : 1499951168\nfuzzer_pid     : 8206\ncycles_done    : 0\nexecs_done     : 1505253\nexecs_per_sec  : 1136.12\npaths_total    : 163\npaths_favored  : 40\npaths_found    : 162\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 129\npending_favs   : 17\npending_total  : 118\nvariable_paths : 0\nbitmap_cvg     : 0.93%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499951166\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simplenote/input -o /dev/shm/work/simplenote/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simplenote/simplenote.dict -- data/linux/processed-challenges/simplenote/bin/simplenote\n'
+p23
+I8
+tp24
+a(I1440
+S'start_time     : 1499949846\nlast_update    : 1499951288\nfuzzer_pid     : 8206\ncycles_done    : 0\nexecs_done     : 1642113\nexecs_per_sec  : 1028.30\npaths_total    : 169\npaths_favored  : 40\npaths_found    : 168\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 130\npending_favs   : 17\npending_total  : 123\nvariable_paths : 0\nbitmap_cvg     : 0.94%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499951286\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simplenote/input -o /dev/shm/work/simplenote/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simplenote/simplenote.dict -- data/linux/processed-challenges/simplenote/bin/simplenote\n'
+p25
+I8
+tp26
+a(I1560
+S'start_time     : 1499949846\nlast_update    : 1499951408\nfuzzer_pid     : 8206\ncycles_done    : 0\nexecs_done     : 1778541\nexecs_per_sec  : 1138.20\npaths_total    : 178\npaths_favored  : 40\npaths_found    : 177\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 130\npending_favs   : 17\npending_total  : 132\nvariable_paths : 0\nbitmap_cvg     : 1.00%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499951361\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simplenote/input -o /dev/shm/work/simplenote/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simplenote/simplenote.dict -- data/linux/processed-challenges/simplenote/bin/simplenote\n'
+p27
+I7
+tp28
+a(I1680
+S'start_time     : 1499949846\nlast_update    : 1499951528\nfuzzer_pid     : 8206\ncycles_done    : 0\nexecs_done     : 1904675\nexecs_per_sec  : 729.94\npaths_total    : 186\npaths_favored  : 43\npaths_found    : 185\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 145\npending_favs   : 19\npending_total  : 135\nvariable_paths : 0\nbitmap_cvg     : 1.07%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499951528\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simplenote/input -o /dev/shm/work/simplenote/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simplenote/simplenote.dict -- data/linux/processed-challenges/simplenote/bin/simplenote\n'
+p29
+I10
+tp30
+a(I1800
+S'start_time     : 1499949846\nlast_update    : 1499951649\nfuzzer_pid     : 8206\ncycles_done    : 0\nexecs_done     : 2030426\nexecs_per_sec  : 1053.28\npaths_total    : 191\npaths_favored  : 49\npaths_found    : 190\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 150\npending_favs   : 23\npending_total  : 136\nvariable_paths : 0\nbitmap_cvg     : 1.08%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499951604\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simplenote/input -o /dev/shm/work/simplenote/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simplenote/simplenote.dict -- data/linux/processed-challenges/simplenote/bin/simplenote\n'
+p31
+I3
+tp32
+a(I1920
+S'start_time     : 1499949846\nlast_update    : 1499951769\nfuzzer_pid     : 8206\ncycles_done    : 0\nexecs_done     : 2158961\nexecs_per_sec  : 1053.56\npaths_total    : 215\npaths_favored  : 49\npaths_found    : 214\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 161\npending_favs   : 20\npending_total  : 157\nvariable_paths : 0\nbitmap_cvg     : 1.15%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499951760\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simplenote/input -o /dev/shm/work/simplenote/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simplenote/simplenote.dict -- data/linux/processed-challenges/simplenote/bin/simplenote\n'
+p33
+I24
+tp34
+a(I2040
+S'start_time     : 1499949846\nlast_update    : 1499951889\nfuzzer_pid     : 8206\ncycles_done    : 0\nexecs_done     : 2286396\nexecs_per_sec  : 1096.94\npaths_total    : 231\npaths_favored  : 57\npaths_found    : 230\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 163\npending_favs   : 30\npending_total  : 172\nvariable_paths : 0\nbitmap_cvg     : 1.16%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499951880\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simplenote/input -o /dev/shm/work/simplenote/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simplenote/simplenote.dict -- data/linux/processed-challenges/simplenote/bin/simplenote\n'
+p35
+I16
+tp36
+a(I2160
+S'start_time     : 1499949846\nlast_update    : 1499952009\nfuzzer_pid     : 8206\ncycles_done    : 0\nexecs_done     : 2412187\nexecs_per_sec  : 1014.89\npaths_total    : 232\npaths_favored  : 60\npaths_found    : 231\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 172\npending_favs   : 30\npending_total  : 170\nvariable_paths : 0\nbitmap_cvg     : 1.17%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499951912\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simplenote/input -o /dev/shm/work/simplenote/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simplenote/simplenote.dict -- data/linux/processed-challenges/simplenote/bin/simplenote\n'
+p37
+I1
+tp38
+a(I2280
+S'start_time     : 1499949846\nlast_update    : 1499952129\nfuzzer_pid     : 8206\ncycles_done    : 0\nexecs_done     : 2532360\nexecs_per_sec  : 1025.73\npaths_total    : 236\npaths_favored  : 60\npaths_found    : 235\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 177\npending_favs   : 27\npending_total  : 171\nvariable_paths : 0\nbitmap_cvg     : 1.17%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499952122\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simplenote/input -o /dev/shm/work/simplenote/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simplenote/simplenote.dict -- data/linux/processed-challenges/simplenote/bin/simplenote\n'
+p39
+I4
+tp40
+a(I2400
+S'start_time     : 1499949846\nlast_update    : 1499952250\nfuzzer_pid     : 8206\ncycles_done    : 0\nexecs_done     : 2659570\nexecs_per_sec  : 1046.30\npaths_total    : 239\npaths_favored  : 60\npaths_found    : 238\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 177\npending_favs   : 27\npending_total  : 174\nvariable_paths : 0\nbitmap_cvg     : 1.18%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499952163\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simplenote/input -o /dev/shm/work/simplenote/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simplenote/simplenote.dict -- data/linux/processed-challenges/simplenote/bin/simplenote\n'
+p41
+I3
+tp42
+a(I2520
+S'start_time     : 1499949846\nlast_update    : 1499952370\nfuzzer_pid     : 8206\ncycles_done    : 0\nexecs_done     : 2775389\nexecs_per_sec  : 1071.25\npaths_total    : 251\npaths_favored  : 64\npaths_found    : 250\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 182\npending_favs   : 28\npending_total  : 183\nvariable_paths : 0\nbitmap_cvg     : 1.21%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499952357\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simplenote/input -o /dev/shm/work/simplenote/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simplenote/simplenote.dict -- data/linux/processed-challenges/simplenote/bin/simplenote\n'
+p43
+I12
+tp44
+a(I2640
+S'start_time     : 1499949846\nlast_update    : 1499952490\nfuzzer_pid     : 8206\ncycles_done    : 0\nexecs_done     : 2873758\nexecs_per_sec  : 987.51\npaths_total    : 252\npaths_favored  : 65\npaths_found    : 251\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 190\npending_favs   : 27\npending_total  : 181\nvariable_paths : 0\nbitmap_cvg     : 1.21%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499952462\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simplenote/input -o /dev/shm/work/simplenote/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simplenote/simplenote.dict -- data/linux/processed-challenges/simplenote/bin/simplenote\n'
+p45
+I2
+tp46
+a(I2760
+S'start_time     : 1499949846\nlast_update    : 1499952610\nfuzzer_pid     : 8206\ncycles_done    : 0\nexecs_done     : 3005487\nexecs_per_sec  : 1083.06\npaths_total    : 257\npaths_favored  : 65\npaths_found    : 256\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 190\npending_favs   : 27\npending_total  : 186\nvariable_paths : 0\nbitmap_cvg     : 1.21%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499952540\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simplenote/input -o /dev/shm/work/simplenote/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simplenote/simplenote.dict -- data/linux/processed-challenges/simplenote/bin/simplenote\n'
+p47
+I4
+tp48
+a(I2880
+S'start_time     : 1499949846\nlast_update    : 1499952730\nfuzzer_pid     : 8206\ncycles_done    : 0\nexecs_done     : 3140280\nexecs_per_sec  : 1105.75\npaths_total    : 263\npaths_favored  : 67\npaths_found    : 262\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 191\npending_favs   : 29\npending_total  : 191\nvariable_paths : 0\nbitmap_cvg     : 1.21%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499952707\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simplenote/input -o /dev/shm/work/simplenote/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simplenote/simplenote.dict -- data/linux/processed-challenges/simplenote/bin/simplenote\n'
+p49
+I6
+tp50
+a(I3000
+S'start_time     : 1499949846\nlast_update    : 1499952850\nfuzzer_pid     : 8206\ncycles_done    : 0\nexecs_done     : 3269272\nexecs_per_sec  : 1056.27\npaths_total    : 270\npaths_favored  : 67\npaths_found    : 269\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 195\npending_favs   : 28\npending_total  : 197\nvariable_paths : 0\nbitmap_cvg     : 1.23%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499952848\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simplenote/input -o /dev/shm/work/simplenote/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simplenote/simplenote.dict -- data/linux/processed-challenges/simplenote/bin/simplenote\n'
+p51
+I7
+tp52
+a(I3120
+S'start_time     : 1499949846\nlast_update    : 1499952971\nfuzzer_pid     : 8206\ncycles_done    : 0\nexecs_done     : 3392877\nexecs_per_sec  : 1039.25\npaths_total    : 283\npaths_favored  : 71\npaths_found    : 282\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 197\npending_favs   : 33\npending_total  : 208\nvariable_paths : 0\nbitmap_cvg     : 1.25%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499952956\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simplenote/input -o /dev/shm/work/simplenote/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simplenote/simplenote.dict -- data/linux/processed-challenges/simplenote/bin/simplenote\n'
+p53
+I14
+tp54
+a(I3240
+S'start_time     : 1499949846\nlast_update    : 1499953091\nfuzzer_pid     : 8206\ncycles_done    : 0\nexecs_done     : 3520299\nexecs_per_sec  : 1079.14\npaths_total    : 288\npaths_favored  : 71\npaths_found    : 287\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 197\npending_favs   : 33\npending_total  : 213\nvariable_paths : 0\nbitmap_cvg     : 1.32%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499953026\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simplenote/input -o /dev/shm/work/simplenote/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simplenote/simplenote.dict -- data/linux/processed-challenges/simplenote/bin/simplenote\n'
+p55
+I4
+tp56
+a(I3360
+S'start_time     : 1499949846\nlast_update    : 1499953211\nfuzzer_pid     : 8206\ncycles_done    : 0\nexecs_done     : 3632863\nexecs_per_sec  : 985.64\npaths_total    : 299\npaths_favored  : 76\npaths_found    : 298\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 208\npending_favs   : 40\npending_total  : 222\nvariable_paths : 0\nbitmap_cvg     : 1.35%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499953206\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simplenote/input -o /dev/shm/work/simplenote/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simplenote/simplenote.dict -- data/linux/processed-challenges/simplenote/bin/simplenote\n'
+p57
+I11
+tp58
+a(I3480
+S'start_time     : 1499949846\nlast_update    : 1499953331\nfuzzer_pid     : 8206\ncycles_done    : 0\nexecs_done     : 3747019\nexecs_per_sec  : 938.79\npaths_total    : 305\npaths_favored  : 79\npaths_found    : 304\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 211\npending_favs   : 44\npending_total  : 227\nvariable_paths : 0\nbitmap_cvg     : 1.35%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499953283\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simplenote/input -o /dev/shm/work/simplenote/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simplenote/simplenote.dict -- data/linux/processed-challenges/simplenote/bin/simplenote\n'
+p59
+I6
+tp60
+a(I3600
+S'start_time     : 1499949846\nlast_update    : 1499953451\nfuzzer_pid     : 8206\ncycles_done    : 0\nexecs_done     : 3857404\nexecs_per_sec  : 926.27\npaths_total    : 308\npaths_favored  : 79\npaths_found    : 307\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 217\npending_favs   : 41\npending_total  : 227\nvariable_paths : 0\nbitmap_cvg     : 1.36%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499953429\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simplenote/input -o /dev/shm/work/simplenote/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simplenote/simplenote.dict -- data/linux/processed-challenges/simplenote/bin/simplenote\n'
+p61
+I3
+tp62
+a(I3720
+S'start_time     : 1499949846\nlast_update    : 1499953571\nfuzzer_pid     : 8206\ncycles_done    : 0\nexecs_done     : 3969756\nexecs_per_sec  : 1008.23\npaths_total    : 309\npaths_favored  : 80\npaths_found    : 308\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 231\npending_favs   : 39\npending_total  : 225\nvariable_paths : 0\nbitmap_cvg     : 1.36%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499953557\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simplenote/input -o /dev/shm/work/simplenote/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simplenote/simplenote.dict -- data/linux/processed-challenges/simplenote/bin/simplenote\n'
+p63
+I1
+tp64
+a(I3840
+S'start_time     : 1499949846\nlast_update    : 1499953692\nfuzzer_pid     : 8206\ncycles_done    : 0\nexecs_done     : 4082785\nexecs_per_sec  : 829.60\npaths_total    : 311\npaths_favored  : 79\npaths_found    : 310\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 238\npending_favs   : 35\npending_total  : 223\nvariable_paths : 0\nbitmap_cvg     : 1.36%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499953667\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simplenote/input -o /dev/shm/work/simplenote/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simplenote/simplenote.dict -- data/linux/processed-challenges/simplenote/bin/simplenote\n'
+p65
+I2
+tp66
+a(I3960
+S'start_time     : 1499949846\nlast_update    : 1499953812\nfuzzer_pid     : 8206\ncycles_done    : 0\nexecs_done     : 4186803\nexecs_per_sec  : 955.94\npaths_total    : 318\npaths_favored  : 79\npaths_found    : 317\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 242\npending_favs   : 34\npending_total  : 229\nvariable_paths : 0\nbitmap_cvg     : 1.37%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499953785\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simplenote/input -o /dev/shm/work/simplenote/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simplenote/simplenote.dict -- data/linux/processed-challenges/simplenote/bin/simplenote\n'
+p67
+I7
+tp68
+a(I4080
+S'start_time     : 1499949846\nlast_update    : 1499953932\nfuzzer_pid     : 8206\ncycles_done    : 0\nexecs_done     : 4278747\nexecs_per_sec  : 658.21\npaths_total    : 321\npaths_favored  : 81\npaths_found    : 320\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 247\npending_favs   : 34\npending_total  : 230\nvariable_paths : 0\nbitmap_cvg     : 1.38%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499953888\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simplenote/input -o /dev/shm/work/simplenote/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simplenote/simplenote.dict -- data/linux/processed-challenges/simplenote/bin/simplenote\n'
+p69
+I3
+tp70
+a(I4200
+S'start_time     : 1499949846\nlast_update    : 1499954052\nfuzzer_pid     : 8206\ncycles_done    : 0\nexecs_done     : 4384872\nexecs_per_sec  : 982.69\npaths_total    : 327\npaths_favored  : 81\npaths_found    : 326\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 250\npending_favs   : 33\npending_total  : 235\nvariable_paths : 0\nbitmap_cvg     : 1.39%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499954027\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simplenote/input -o /dev/shm/work/simplenote/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simplenote/simplenote.dict -- data/linux/processed-challenges/simplenote/bin/simplenote\n'
+p71
+I6
+tp72
+a(I4320
+S'start_time     : 1499949846\nlast_update    : 1499954172\nfuzzer_pid     : 8206\ncycles_done    : 0\nexecs_done     : 4503118\nexecs_per_sec  : 981.87\npaths_total    : 330\npaths_favored  : 82\npaths_found    : 329\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 256\npending_favs   : 34\npending_total  : 235\nvariable_paths : 0\nbitmap_cvg     : 1.39%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499954149\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simplenote/input -o /dev/shm/work/simplenote/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simplenote/simplenote.dict -- data/linux/processed-challenges/simplenote/bin/simplenote\n'
+p73
+I3
+tp74
+a(I4440
+S'start_time     : 1499949846\nlast_update    : 1499954292\nfuzzer_pid     : 8206\ncycles_done    : 0\nexecs_done     : 4623932\nexecs_per_sec  : 868.94\npaths_total    : 333\npaths_favored  : 81\npaths_found    : 332\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 265\npending_favs   : 35\npending_total  : 236\nvariable_paths : 0\nbitmap_cvg     : 1.40%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499954221\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simplenote/input -o /dev/shm/work/simplenote/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simplenote/simplenote.dict -- data/linux/processed-challenges/simplenote/bin/simplenote\n'
+p75
+I3
+tp76
+a(I4560
+S'start_time     : 1499949846\nlast_update    : 1499954413\nfuzzer_pid     : 8206\ncycles_done    : 0\nexecs_done     : 4728390\nexecs_per_sec  : 977.58\npaths_total    : 337\npaths_favored  : 81\npaths_found    : 336\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 265\npending_favs   : 35\npending_total  : 240\nvariable_paths : 0\nbitmap_cvg     : 1.40%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499954365\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simplenote/input -o /dev/shm/work/simplenote/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simplenote/simplenote.dict -- data/linux/processed-challenges/simplenote/bin/simplenote\n'
+p77
+I4
+tp78
+a(I4680
+S'start_time     : 1499949846\nlast_update    : 1499954533\nfuzzer_pid     : 8206\ncycles_done    : 0\nexecs_done     : 4836904\nexecs_per_sec  : 832.36\npaths_total    : 340\npaths_favored  : 83\npaths_found    : 339\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 269\npending_favs   : 36\npending_total  : 240\nvariable_paths : 0\nbitmap_cvg     : 1.41%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499954526\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simplenote/input -o /dev/shm/work/simplenote/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simplenote/simplenote.dict -- data/linux/processed-challenges/simplenote/bin/simplenote\n'
+p79
+I4
+tp80
+a(I4800
+S'start_time     : 1499949846\nlast_update    : 1499954653\nfuzzer_pid     : 8206\ncycles_done    : 0\nexecs_done     : 4953486\nexecs_per_sec  : 943.76\npaths_total    : 348\npaths_favored  : 83\npaths_found    : 347\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 269\npending_favs   : 36\npending_total  : 248\nvariable_paths : 0\nbitmap_cvg     : 1.42%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499954569\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simplenote/input -o /dev/shm/work/simplenote/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simplenote/simplenote.dict -- data/linux/processed-challenges/simplenote/bin/simplenote\n'
+p81
+I7
+tp82
+a(I4920
+S'start_time     : 1499949846\nlast_update    : 1499954774\nfuzzer_pid     : 8206\ncycles_done    : 0\nexecs_done     : 5068330\nexecs_per_sec  : 893.78\npaths_total    : 349\npaths_favored  : 87\npaths_found    : 348\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 278\npending_favs   : 37\npending_total  : 246\nvariable_paths : 0\nbitmap_cvg     : 1.42%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499954737\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simplenote/input -o /dev/shm/work/simplenote/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simplenote/simplenote.dict -- data/linux/processed-challenges/simplenote/bin/simplenote\n'
+p83
+I1
+tp84
+a(I5040
+S'start_time     : 1499949846\nlast_update    : 1499954894\nfuzzer_pid     : 8206\ncycles_done    : 0\nexecs_done     : 5188106\nexecs_per_sec  : 1006.99\npaths_total    : 352\npaths_favored  : 87\npaths_found    : 351\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 278\npending_favs   : 37\npending_total  : 249\nvariable_paths : 0\nbitmap_cvg     : 1.42%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499954847\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simplenote/input -o /dev/shm/work/simplenote/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simplenote/simplenote.dict -- data/linux/processed-challenges/simplenote/bin/simplenote\n'
+p85
+I3
+tp86
+a(I5160
+S'start_time     : 1499949846\nlast_update    : 1499955014\nfuzzer_pid     : 8206\ncycles_done    : 0\nexecs_done     : 5303888\nexecs_per_sec  : 982.31\npaths_total    : 357\npaths_favored  : 88\npaths_found    : 356\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 280\npending_favs   : 37\npending_total  : 253\nvariable_paths : 0\nbitmap_cvg     : 1.42%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499954985\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simplenote/input -o /dev/shm/work/simplenote/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simplenote/simplenote.dict -- data/linux/processed-challenges/simplenote/bin/simplenote\n'
+p87
+I5
+tp88
+a(I5280
+S'start_time     : 1499949846\nlast_update    : 1499955134\nfuzzer_pid     : 8206\ncycles_done    : 0\nexecs_done     : 5420730\nexecs_per_sec  : 976.39\npaths_total    : 360\npaths_favored  : 88\npaths_found    : 359\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 280\npending_favs   : 37\npending_total  : 256\nvariable_paths : 0\nbitmap_cvg     : 1.42%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499955072\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simplenote/input -o /dev/shm/work/simplenote/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simplenote/simplenote.dict -- data/linux/processed-challenges/simplenote/bin/simplenote\n'
+p89
+I3
+tp90
+a(I5400
+S'start_time     : 1499949846\nlast_update    : 1499955255\nfuzzer_pid     : 8206\ncycles_done    : 0\nexecs_done     : 5536946\nexecs_per_sec  : 989.73\npaths_total    : 363\npaths_favored  : 89\npaths_found    : 362\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 281\npending_favs   : 37\npending_total  : 258\nvariable_paths : 0\nbitmap_cvg     : 1.42%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499955241\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simplenote/input -o /dev/shm/work/simplenote/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simplenote/simplenote.dict -- data/linux/processed-challenges/simplenote/bin/simplenote\n'
+p91
+I3
+tp92
+a(I5520
+S'start_time     : 1499949846\nlast_update    : 1499955375\nfuzzer_pid     : 8206\ncycles_done    : 0\nexecs_done     : 5654604\nexecs_per_sec  : 1027.50\npaths_total    : 365\npaths_favored  : 89\npaths_found    : 364\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 284\npending_favs   : 36\npending_total  : 259\nvariable_paths : 0\nbitmap_cvg     : 1.42%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499955298\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simplenote/input -o /dev/shm/work/simplenote/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simplenote/simplenote.dict -- data/linux/processed-challenges/simplenote/bin/simplenote\n'
+p93
+I2
+tp94
+a(I5640
+S'start_time     : 1499949846\nlast_update    : 1499955495\nfuzzer_pid     : 8206\ncycles_done    : 0\nexecs_done     : 5752006\nexecs_per_sec  : 911.42\npaths_total    : 379\npaths_favored  : 87\npaths_found    : 378\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 289\npending_favs   : 35\npending_total  : 271\nvariable_paths : 0\nbitmap_cvg     : 1.46%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499955493\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simplenote/input -o /dev/shm/work/simplenote/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simplenote/simplenote.dict -- data/linux/processed-challenges/simplenote/bin/simplenote\n'
+p95
+I14
+tp96
+a(I5760
+S'start_time     : 1499949846\nlast_update    : 1499955615\nfuzzer_pid     : 8206\ncycles_done    : 0\nexecs_done     : 5859155\nexecs_per_sec  : 833.24\npaths_total    : 383\npaths_favored  : 88\npaths_found    : 382\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 293\npending_favs   : 38\npending_total  : 274\nvariable_paths : 0\nbitmap_cvg     : 1.46%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499955559\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simplenote/input -o /dev/shm/work/simplenote/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simplenote/simplenote.dict -- data/linux/processed-challenges/simplenote/bin/simplenote\n'
+p97
+I4
+tp98
+a(I5880
+S'start_time     : 1499949846\nlast_update    : 1499955736\nfuzzer_pid     : 8206\ncycles_done    : 0\nexecs_done     : 5972873\nexecs_per_sec  : 955.90\npaths_total    : 391\npaths_favored  : 88\npaths_found    : 390\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 293\npending_favs   : 38\npending_total  : 282\nvariable_paths : 0\nbitmap_cvg     : 1.46%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499955722\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simplenote/input -o /dev/shm/work/simplenote/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simplenote/simplenote.dict -- data/linux/processed-challenges/simplenote/bin/simplenote\n'
+p99
+I8
+tp100
+a(I6000
+S'start_time     : 1499949846\nlast_update    : 1499955856\nfuzzer_pid     : 8206\ncycles_done    : 0\nexecs_done     : 6085432\nexecs_per_sec  : 962.64\npaths_total    : 393\npaths_favored  : 89\npaths_found    : 392\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 295\npending_favs   : 38\npending_total  : 283\nvariable_paths : 0\nbitmap_cvg     : 1.46%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499955842\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simplenote/input -o /dev/shm/work/simplenote/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simplenote/simplenote.dict -- data/linux/processed-challenges/simplenote/bin/simplenote\n'
+p101
+I2
+tp102
+a(I6120
+S'start_time     : 1499949846\nlast_update    : 1499955976\nfuzzer_pid     : 8206\ncycles_done    : 0\nexecs_done     : 6199074\nexecs_per_sec  : 979.77\npaths_total    : 397\npaths_favored  : 89\npaths_found    : 396\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 298\npending_favs   : 37\npending_total  : 286\nvariable_paths : 0\nbitmap_cvg     : 1.47%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499955908\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simplenote/input -o /dev/shm/work/simplenote/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simplenote/simplenote.dict -- data/linux/processed-challenges/simplenote/bin/simplenote\n'
+p103
+I4
+tp104
+a(I6240
+S'start_time     : 1499949846\nlast_update    : 1499956097\nfuzzer_pid     : 8206\ncycles_done    : 0\nexecs_done     : 6303791\nexecs_per_sec  : 993.48\npaths_total    : 397\npaths_favored  : 90\npaths_found    : 396\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 307\npending_favs   : 36\npending_total  : 284\nvariable_paths : 0\nbitmap_cvg     : 1.47%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499955908\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simplenote/input -o /dev/shm/work/simplenote/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simplenote/simplenote.dict -- data/linux/processed-challenges/simplenote/bin/simplenote\n'
+p105
+I0
+tp106
+a(I6360
+S'start_time     : 1499949846\nlast_update    : 1499956217\nfuzzer_pid     : 8206\ncycles_done    : 0\nexecs_done     : 6413191\nexecs_per_sec  : 983.20\npaths_total    : 399\npaths_favored  : 90\npaths_found    : 398\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 312\npending_favs   : 34\npending_total  : 284\nvariable_paths : 0\nbitmap_cvg     : 1.47%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499956211\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simplenote/input -o /dev/shm/work/simplenote/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simplenote/simplenote.dict -- data/linux/processed-challenges/simplenote/bin/simplenote\n'
+p107
+I2
+tp108
+a(I6480
+S'start_time     : 1499949846\nlast_update    : 1499956337\nfuzzer_pid     : 8206\ncycles_done    : 0\nexecs_done     : 6497386\nexecs_per_sec  : 386.58\npaths_total    : 401\npaths_favored  : 90\npaths_found    : 400\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 316\npending_favs   : 33\npending_total  : 285\nvariable_paths : 0\nbitmap_cvg     : 1.47%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499956333\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simplenote/input -o /dev/shm/work/simplenote/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simplenote/simplenote.dict -- data/linux/processed-challenges/simplenote/bin/simplenote\n'
+p109
+I2
+tp110
+a(I6600
+S'start_time     : 1499949846\nlast_update    : 1499956457\nfuzzer_pid     : 8206\ncycles_done    : 0\nexecs_done     : 6593654\nexecs_per_sec  : 806.50\npaths_total    : 406\npaths_favored  : 90\npaths_found    : 405\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 316\npending_favs   : 33\npending_total  : 290\nvariable_paths : 0\nbitmap_cvg     : 1.48%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499956389\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simplenote/input -o /dev/shm/work/simplenote/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simplenote/simplenote.dict -- data/linux/processed-challenges/simplenote/bin/simplenote\n'
+p111
+I5
+tp112
+a(I6720
+S'start_time     : 1499949846\nlast_update    : 1499956517\nfuzzer_pid     : 8206\ncycles_done    : 0\nexecs_done     : 6642000\nexecs_per_sec  : 825.60\npaths_total    : 407\npaths_favored  : 90\npaths_found    : 406\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 316\npending_favs   : 33\npending_total  : 291\nvariable_paths : 0\nbitmap_cvg     : 1.48%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499956500\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simplenote/input -o /dev/shm/work/simplenote/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simplenote/simplenote.dict -- data/linux/processed-challenges/simplenote/bin/simplenote\n'
+p113
+I3
+tp114
+a(I6840
+S'start_time     : 1499949846\nlast_update    : 1499956637\nfuzzer_pid     : 8206\ncycles_done    : 0\nexecs_done     : 6721361\nexecs_per_sec  : 648.34\npaths_total    : 410\npaths_favored  : 95\npaths_found    : 409\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 321\npending_favs   : 38\npending_total  : 292\nvariable_paths : 0\nbitmap_cvg     : 1.48%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499956601\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simplenote/input -o /dev/shm/work/simplenote/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simplenote/simplenote.dict -- data/linux/processed-challenges/simplenote/bin/simplenote\n'
+p115
+I2
+tp116
+a(I6960
+S'start_time     : 1499949846\nlast_update    : 1499956757\nfuzzer_pid     : 8206\ncycles_done    : 0\nexecs_done     : 6791745\nexecs_per_sec  : 794.12\npaths_total    : 413\npaths_favored  : 95\npaths_found    : 412\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 321\npending_favs   : 38\npending_total  : 295\nvariable_paths : 0\nbitmap_cvg     : 1.48%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499956717\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simplenote/input -o /dev/shm/work/simplenote/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simplenote/simplenote.dict -- data/linux/processed-challenges/simplenote/bin/simplenote\n'
+p117
+I6
+tp118
+a(I7080
+S'start_time     : 1499949846\nlast_update    : 1499956878\nfuzzer_pid     : 8206\ncycles_done    : 0\nexecs_done     : 6889834\nexecs_per_sec  : 905.92\npaths_total    : 417\npaths_favored  : 96\npaths_found    : 416\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 327\npending_favs   : 38\npending_total  : 298\nvariable_paths : 0\nbitmap_cvg     : 1.49%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499956787\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simplenote/input -o /dev/shm/work/simplenote/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simplenote/simplenote.dict -- data/linux/processed-challenges/simplenote/bin/simplenote\n'
+p119
+I2
+tp120
+a(I7200
+S'start_time     : 1499949846\nlast_update    : 1499956998\nfuzzer_pid     : 8206\ncycles_done    : 0\nexecs_done     : 7011058\nexecs_per_sec  : 1016.72\npaths_total    : 421\npaths_favored  : 96\npaths_found    : 420\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 327\npending_favs   : 38\npending_total  : 302\nvariable_paths : 0\nbitmap_cvg     : 1.49%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499956958\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simplenote/input -o /dev/shm/work/simplenote/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simplenote/simplenote.dict -- data/linux/processed-challenges/simplenote/bin/simplenote\n'
+p121
+I2
+tp122
+a(I7320
+S'start_time     : 1499949846\nlast_update    : 1499957118\nfuzzer_pid     : 8206\ncycles_done    : 0\nexecs_done     : 7125404\nexecs_per_sec  : 910.74\npaths_total    : 423\npaths_favored  : 96\npaths_found    : 422\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 331\npending_favs   : 37\npending_total  : 302\nvariable_paths : 0\nbitmap_cvg     : 1.49%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499957072\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simplenote/input -o /dev/shm/work/simplenote/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simplenote/simplenote.dict -- data/linux/processed-challenges/simplenote/bin/simplenote\n'
+p123
+I4
+tp124
+a(I7440
+S'start_time     : 1499949846\nlast_update    : 1499957238\nfuzzer_pid     : 8206\ncycles_done    : 0\nexecs_done     : 7233823\nexecs_per_sec  : 537.22\npaths_total    : 425\npaths_favored  : 96\npaths_found    : 424\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 333\npending_favs   : 36\npending_total  : 302\nvariable_paths : 0\nbitmap_cvg     : 1.49%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499957139\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simplenote/input -o /dev/shm/work/simplenote/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simplenote/simplenote.dict -- data/linux/processed-challenges/simplenote/bin/simplenote\n'
+p125
+I1
+tp126
+a(I7560
+S'start_time     : 1499949846\nlast_update    : 1499957359\nfuzzer_pid     : 8206\ncycles_done    : 0\nexecs_done     : 7291756\nexecs_per_sec  : 356.05\npaths_total    : 426\npaths_favored  : 97\npaths_found    : 425\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 336\npending_favs   : 36\npending_total  : 302\nvariable_paths : 0\nbitmap_cvg     : 1.49%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499957257\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simplenote/input -o /dev/shm/work/simplenote/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simplenote/simplenote.dict -- data/linux/processed-challenges/simplenote/bin/simplenote\n'
+p127
+I2
+tp128
+a(I7680
+S'start_time     : 1499949846\nlast_update    : 1499957479\nfuzzer_pid     : 8206\ncycles_done    : 0\nexecs_done     : 7380051\nexecs_per_sec  : 913.88\npaths_total    : 428\npaths_favored  : 98\npaths_found    : 427\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 337\npending_favs   : 36\npending_total  : 303\nvariable_paths : 0\nbitmap_cvg     : 1.49%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499957390\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simplenote/input -o /dev/shm/work/simplenote/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simplenote/simplenote.dict -- data/linux/processed-challenges/simplenote/bin/simplenote\n'
+p129
+I0
+tp130
+a(I7800
+S'start_time     : 1499949846\nlast_update    : 1499957599\nfuzzer_pid     : 8206\ncycles_done    : 0\nexecs_done     : 7491810\nexecs_per_sec  : 989.63\npaths_total    : 428\npaths_favored  : 98\npaths_found    : 427\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 340\npending_favs   : 33\npending_total  : 300\nvariable_paths : 0\nbitmap_cvg     : 1.49%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499957390\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simplenote/input -o /dev/shm/work/simplenote/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simplenote/simplenote.dict -- data/linux/processed-challenges/simplenote/bin/simplenote\n'
+p131
+I1
+tp132
+a(I7920
+S'start_time     : 1499949846\nlast_update    : 1499957719\nfuzzer_pid     : 8206\ncycles_done    : 0\nexecs_done     : 7582145\nexecs_per_sec  : 885.53\npaths_total    : 431\npaths_favored  : 98\npaths_found    : 430\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 340\npending_favs   : 33\npending_total  : 303\nvariable_paths : 0\nbitmap_cvg     : 1.50%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499957694\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simplenote/input -o /dev/shm/work/simplenote/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simplenote/simplenote.dict -- data/linux/processed-challenges/simplenote/bin/simplenote\n'
+p133
+I2
+tp134
+a(I8040
+S'start_time     : 1499949846\nlast_update    : 1499957839\nfuzzer_pid     : 8206\ncycles_done    : 0\nexecs_done     : 7690504\nexecs_per_sec  : 963.22\npaths_total    : 438\npaths_favored  : 100\npaths_found    : 437\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 341\npending_favs   : 34\npending_total  : 309\nvariable_paths : 0\nbitmap_cvg     : 1.50%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499957811\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simplenote/input -o /dev/shm/work/simplenote/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simplenote/simplenote.dict -- data/linux/processed-challenges/simplenote/bin/simplenote\n'
+p135
+I7
+tp136
+a(I8160
+S'start_time     : 1499949846\nlast_update    : 1499957959\nfuzzer_pid     : 8206\ncycles_done    : 0\nexecs_done     : 7800440\nexecs_per_sec  : 936.90\npaths_total    : 438\npaths_favored  : 102\npaths_found    : 437\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 342\npending_favs   : 36\npending_total  : 308\nvariable_paths : 0\nbitmap_cvg     : 1.50%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499957811\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simplenote/input -o /dev/shm/work/simplenote/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simplenote/simplenote.dict -- data/linux/processed-challenges/simplenote/bin/simplenote\n'
+p137
+I1
+tp138
+a(I8280
+S'start_time     : 1499949846\nlast_update    : 1499958080\nfuzzer_pid     : 8206\ncycles_done    : 0\nexecs_done     : 7904999\nexecs_per_sec  : 900.37\npaths_total    : 440\npaths_favored  : 102\npaths_found    : 439\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 357\npending_favs   : 34\npending_total  : 308\nvariable_paths : 0\nbitmap_cvg     : 1.51%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499958078\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simplenote/input -o /dev/shm/work/simplenote/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simplenote/simplenote.dict -- data/linux/processed-challenges/simplenote/bin/simplenote\n'
+p139
+I1
+tp140
+a(I8400
+S'start_time     : 1499949846\nlast_update    : 1499958200\nfuzzer_pid     : 8206\ncycles_done    : 0\nexecs_done     : 8017958\nexecs_per_sec  : 877.15\npaths_total    : 441\npaths_favored  : 102\npaths_found    : 440\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 372\npending_favs   : 32\npending_total  : 307\nvariable_paths : 0\nbitmap_cvg     : 1.51%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499958146\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simplenote/input -o /dev/shm/work/simplenote/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simplenote/simplenote.dict -- data/linux/processed-challenges/simplenote/bin/simplenote\n'
+p141
+I7
+tp142
+a(I8520
+S'start_time     : 1499949846\nlast_update    : 1499958320\nfuzzer_pid     : 8206\ncycles_done    : 0\nexecs_done     : 8139354\nexecs_per_sec  : 1038.25\npaths_total    : 447\npaths_favored  : 102\npaths_found    : 446\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 372\npending_favs   : 32\npending_total  : 313\nvariable_paths : 0\nbitmap_cvg     : 1.53%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499958249\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simplenote/input -o /dev/shm/work/simplenote/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simplenote/simplenote.dict -- data/linux/processed-challenges/simplenote/bin/simplenote\n'
+p143
+I0
+tp144
+a(I8640
+S'start_time     : 1499949846\nlast_update    : 1499958441\nfuzzer_pid     : 8206\ncycles_done    : 0\nexecs_done     : 8210254\nexecs_per_sec  : 418.03\npaths_total    : 447\npaths_favored  : 104\npaths_found    : 446\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 378\npending_favs   : 34\npending_total  : 311\nvariable_paths : 0\nbitmap_cvg     : 1.53%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499958249\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simplenote/input -o /dev/shm/work/simplenote/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simplenote/simplenote.dict -- data/linux/processed-challenges/simplenote/bin/simplenote\n'
+p145
+I6
+tp146
+a(I8760
+S'start_time     : 1499949846\nlast_update    : 1499958561\nfuzzer_pid     : 8206\ncycles_done    : 0\nexecs_done     : 8296187\nexecs_per_sec  : 801.22\npaths_total    : 455\npaths_favored  : 104\npaths_found    : 454\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 378\npending_favs   : 34\npending_total  : 319\nvariable_paths : 0\nbitmap_cvg     : 1.54%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499958537\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simplenote/input -o /dev/shm/work/simplenote/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simplenote/simplenote.dict -- data/linux/processed-challenges/simplenote/bin/simplenote\n'
+p147
+I4
+tp148
+a(I8880
+S'start_time     : 1499949846\nlast_update    : 1499958681\nfuzzer_pid     : 8206\ncycles_done    : 0\nexecs_done     : 8363871\nexecs_per_sec  : 350.19\npaths_total    : 457\npaths_favored  : 109\npaths_found    : 456\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 379\npending_favs   : 38\npending_total  : 320\nvariable_paths : 0\nbitmap_cvg     : 1.54%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499958589\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simplenote/input -o /dev/shm/work/simplenote/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simplenote/simplenote.dict -- data/linux/processed-challenges/simplenote/bin/simplenote\n'
+p149
+I0
+tp150
+a(I9000
+S'start_time     : 1499949846\nlast_update    : 1499958801\nfuzzer_pid     : 8206\ncycles_done    : 0\nexecs_done     : 8420033\nexecs_per_sec  : 405.05\npaths_total    : 457\npaths_favored  : 109\npaths_found    : 456\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 382\npending_favs   : 37\npending_total  : 319\nvariable_paths : 0\nbitmap_cvg     : 1.54%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499958589\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simplenote/input -o /dev/shm/work/simplenote/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simplenote/simplenote.dict -- data/linux/processed-challenges/simplenote/bin/simplenote\n'
+p151
+I0
+tp152
+a(I9120
+S'start_time     : 1499949846\nlast_update    : 1499958921\nfuzzer_pid     : 8206\ncycles_done    : 0\nexecs_done     : 8508312\nexecs_per_sec  : 1015.81\npaths_total    : 458\npaths_favored  : 109\npaths_found    : 457\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 393\npending_favs   : 36\npending_total  : 319\nvariable_paths : 0\nbitmap_cvg     : 1.54%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499958907\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simplenote/input -o /dev/shm/work/simplenote/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simplenote/simplenote.dict -- data/linux/processed-challenges/simplenote/bin/simplenote\n'
+p153
+I4
+tp154
+a(I9240
+S'start_time     : 1499949846\nlast_update    : 1499959042\nfuzzer_pid     : 8206\ncycles_done    : 0\nexecs_done     : 8621748\nexecs_per_sec  : 990.96\npaths_total    : 461\npaths_favored  : 109\npaths_found    : 460\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 394\npending_favs   : 35\npending_total  : 321\nvariable_paths : 0\nbitmap_cvg     : 1.54%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499958978\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simplenote/input -o /dev/shm/work/simplenote/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simplenote/simplenote.dict -- data/linux/processed-challenges/simplenote/bin/simplenote\n'
+p155
+I0
+tp156
+a(I9360
+S'start_time     : 1499949846\nlast_update    : 1499959162\nfuzzer_pid     : 8206\ncycles_done    : 0\nexecs_done     : 8718393\nexecs_per_sec  : 380.21\npaths_total    : 463\npaths_favored  : 110\npaths_found    : 462\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 399\npending_favs   : 36\npending_total  : 322\nvariable_paths : 0\nbitmap_cvg     : 1.55%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499959122\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simplenote/input -o /dev/shm/work/simplenote/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simplenote/simplenote.dict -- data/linux/processed-challenges/simplenote/bin/simplenote\n'
+p157
+I2
+tp158
+a(I9480
+S'start_time     : 1499949846\nlast_update    : 1499959282\nfuzzer_pid     : 8206\ncycles_done    : 0\nexecs_done     : 8768828\nexecs_per_sec  : 393.62\npaths_total    : 463\npaths_favored  : 110\npaths_found    : 462\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 400\npending_favs   : 35\npending_total  : 321\nvariable_paths : 0\nbitmap_cvg     : 1.55%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499959122\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simplenote/input -o /dev/shm/work/simplenote/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simplenote/simplenote.dict -- data/linux/processed-challenges/simplenote/bin/simplenote\n'
+p159
+I0
+tp160
+a(I9600
+S'start_time     : 1499949846\nlast_update    : 1499959402\nfuzzer_pid     : 8206\ncycles_done    : 0\nexecs_done     : 8813459\nexecs_per_sec  : 339.47\npaths_total    : 463\npaths_favored  : 110\npaths_found    : 462\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 402\npending_favs   : 34\npending_total  : 320\nvariable_paths : 0\nbitmap_cvg     : 1.55%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499959122\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simplenote/input -o /dev/shm/work/simplenote/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simplenote/simplenote.dict -- data/linux/processed-challenges/simplenote/bin/simplenote\n'
+p161
+I2
+tp162
+a(I9720
+S'start_time     : 1499949846\nlast_update    : 1499959523\nfuzzer_pid     : 8206\ncycles_done    : 0\nexecs_done     : 8859945\nexecs_per_sec  : 380.90\npaths_total    : 465\npaths_favored  : 111\npaths_found    : 464\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 405\npending_favs   : 34\npending_total  : 321\nvariable_paths : 0\nbitmap_cvg     : 1.55%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499959433\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simplenote/input -o /dev/shm/work/simplenote/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simplenote/simplenote.dict -- data/linux/processed-challenges/simplenote/bin/simplenote\n'
+p163
+I0
+tp164
+a(I9840
+S'start_time     : 1499949846\nlast_update    : 1499959643\nfuzzer_pid     : 8206\ncycles_done    : 0\nexecs_done     : 8917216\nexecs_per_sec  : 644.06\npaths_total    : 465\npaths_favored  : 111\npaths_found    : 464\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 407\npending_favs   : 32\npending_total  : 319\nvariable_paths : 0\nbitmap_cvg     : 1.55%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499959433\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simplenote/input -o /dev/shm/work/simplenote/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simplenote/simplenote.dict -- data/linux/processed-challenges/simplenote/bin/simplenote\n'
+p165
+I0
+tp166
+a(I9960
+S'start_time     : 1499949846\nlast_update    : 1499959763\nfuzzer_pid     : 8206\ncycles_done    : 0\nexecs_done     : 8986994\nexecs_per_sec  : 404.19\npaths_total    : 466\npaths_favored  : 112\npaths_found    : 465\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 410\npending_favs   : 32\npending_total  : 319\nvariable_paths : 0\nbitmap_cvg     : 1.56%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499959706\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simplenote/input -o /dev/shm/work/simplenote/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simplenote/simplenote.dict -- data/linux/processed-challenges/simplenote/bin/simplenote\n'
+p167
+I3
+tp168
+a(I10080
+S'start_time     : 1499949846\nlast_update    : 1499959883\nfuzzer_pid     : 8206\ncycles_done    : 0\nexecs_done     : 9071381\nexecs_per_sec  : 825.97\npaths_total    : 471\npaths_favored  : 112\npaths_found    : 470\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 410\npending_favs   : 32\npending_total  : 324\nvariable_paths : 0\nbitmap_cvg     : 1.56%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499959869\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simplenote/input -o /dev/shm/work/simplenote/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simplenote/simplenote.dict -- data/linux/processed-challenges/simplenote/bin/simplenote\n'
+p169
+I3
+tp170
+a(I10200
+S'start_time     : 1499949846\nlast_update    : 1499960004\nfuzzer_pid     : 8206\ncycles_done    : 0\nexecs_done     : 9137586\nexecs_per_sec  : 303.22\npaths_total    : 471\npaths_favored  : 114\npaths_found    : 470\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 411\npending_favs   : 33\npending_total  : 323\nvariable_paths : 0\nbitmap_cvg     : 1.56%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499959869\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simplenote/input -o /dev/shm/work/simplenote/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simplenote/simplenote.dict -- data/linux/processed-challenges/simplenote/bin/simplenote\n'
+p171
+I0
+tp172
+a(I10320
+S'start_time     : 1499949846\nlast_update    : 1499960124\nfuzzer_pid     : 8206\ncycles_done    : 0\nexecs_done     : 9189271\nexecs_per_sec  : 613.40\npaths_total    : 474\npaths_favored  : 114\npaths_found    : 473\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 411\npending_favs   : 33\npending_total  : 326\nvariable_paths : 0\nbitmap_cvg     : 1.56%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499960078\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simplenote/input -o /dev/shm/work/simplenote/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simplenote/simplenote.dict -- data/linux/processed-challenges/simplenote/bin/simplenote\n'
+p173
+I3
+tp174
+a(I10440
+S'start_time     : 1499949846\nlast_update    : 1499960244\nfuzzer_pid     : 8206\ncycles_done    : 0\nexecs_done     : 9231329\nexecs_per_sec  : 656.91\npaths_total    : 475\npaths_favored  : 115\npaths_found    : 474\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 413\npending_favs   : 34\npending_total  : 326\nvariable_paths : 0\nbitmap_cvg     : 1.57%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499960227\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simplenote/input -o /dev/shm/work/simplenote/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simplenote/simplenote.dict -- data/linux/processed-challenges/simplenote/bin/simplenote\n'
+p175
+I1
+tp176
+a(I10560
+S'start_time     : 1499949846\nlast_update    : 1499960364\nfuzzer_pid     : 8206\ncycles_done    : 0\nexecs_done     : 9327154\nexecs_per_sec  : 1042.38\npaths_total    : 476\npaths_favored  : 116\npaths_found    : 475\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 423\npending_favs   : 33\npending_total  : 325\nvariable_paths : 0\nbitmap_cvg     : 1.57%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499960340\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simplenote/input -o /dev/shm/work/simplenote/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simplenote/simplenote.dict -- data/linux/processed-challenges/simplenote/bin/simplenote\n'
+p177
+I3
+tp178
+a(I10680
+S'start_time     : 1499949846\nlast_update    : 1499960484\nfuzzer_pid     : 8206\ncycles_done    : 0\nexecs_done     : 9445328\nexecs_per_sec  : 973.54\npaths_total    : 479\npaths_favored  : 116\npaths_found    : 478\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 423\npending_favs   : 33\npending_total  : 328\nvariable_paths : 0\nbitmap_cvg     : 1.57%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499960466\nlast_crash     : 0\nlast_hang      : 1499960389\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simplenote/input -o /dev/shm/work/simplenote/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simplenote/simplenote.dict -- data/linux/processed-challenges/simplenote/bin/simplenote\n'
+p179
+I2
+tp180
+a.

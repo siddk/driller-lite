@@ -1,0 +1,452 @@
+(lp0
+(I0
+S'start_time     : 1500112121\nlast_update    : 1500112121\nfuzzer_pid     : 17590\ncycles_done    : 0\nexecs_done     : 10\nexecs_per_sec  : 204.08\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 1\npending_total  : 1\nvariable_paths : 0\nbitmap_cvg     : 0.19%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Street_map_service/input -o /dev/shm/work/Street_map_service/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Street_map_service/Street_map_service.dict -- data/linux/processed-challenges/Street_map_service/bin/Street_map_service\n'
+p1
+I41
+tp2
+a(I120
+S'start_time     : 1500112121\nlast_update    : 1500112242\nfuzzer_pid     : 17590\ncycles_done    : 0\nexecs_done     : 134818\nexecs_per_sec  : 1138.63\npaths_total    : 66\npaths_favored  : 1\npaths_found    : 65\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 1\npending_total  : 66\nvariable_paths : 0\nbitmap_cvg     : 0.60%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500112226\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Street_map_service/input -o /dev/shm/work/Street_map_service/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Street_map_service/Street_map_service.dict -- data/linux/processed-challenges/Street_map_service/bin/Street_map_service\n'
+p3
+I25
+tp4
+a(I240
+S'start_time     : 1500112121\nlast_update    : 1500112362\nfuzzer_pid     : 17590\ncycles_done    : 0\nexecs_done     : 269213\nexecs_per_sec  : 1130.02\npaths_total    : 77\npaths_favored  : 20\npaths_found    : 76\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 4\npending_favs   : 18\npending_total  : 74\nvariable_paths : 0\nbitmap_cvg     : 0.61%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500112349\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Street_map_service/input -o /dev/shm/work/Street_map_service/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Street_map_service/Street_map_service.dict -- data/linux/processed-challenges/Street_map_service/bin/Street_map_service\n'
+p5
+I11
+tp6
+a(I360
+S'start_time     : 1500112121\nlast_update    : 1500112482\nfuzzer_pid     : 17590\ncycles_done    : 0\nexecs_done     : 398956\nexecs_per_sec  : 1028.07\npaths_total    : 127\npaths_favored  : 26\npaths_found    : 126\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 41\npending_favs   : 21\npending_total  : 120\nvariable_paths : 0\nbitmap_cvg     : 0.71%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500112481\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Street_map_service/input -o /dev/shm/work/Street_map_service/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Street_map_service/Street_map_service.dict -- data/linux/processed-challenges/Street_map_service/bin/Street_map_service\n'
+p7
+I51
+tp8
+a(I480
+S'start_time     : 1500112121\nlast_update    : 1500112602\nfuzzer_pid     : 17590\ncycles_done    : 0\nexecs_done     : 521786\nexecs_per_sec  : 1037.65\npaths_total    : 154\npaths_favored  : 26\npaths_found    : 153\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 41\npending_favs   : 21\npending_total  : 147\nvariable_paths : 0\nbitmap_cvg     : 0.81%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500112583\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Street_map_service/input -o /dev/shm/work/Street_map_service/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Street_map_service/Street_map_service.dict -- data/linux/processed-challenges/Street_map_service/bin/Street_map_service\n'
+p9
+I27
+tp10
+a(I600
+S'start_time     : 1500112121\nlast_update    : 1500112722\nfuzzer_pid     : 17590\ncycles_done    : 0\nexecs_done     : 636970\nexecs_per_sec  : 1068.70\npaths_total    : 170\npaths_favored  : 57\npaths_found    : 169\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 67\npending_favs   : 47\npending_total  : 156\nvariable_paths : 0\nbitmap_cvg     : 0.85%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500112722\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Street_map_service/input -o /dev/shm/work/Street_map_service/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Street_map_service/Street_map_service.dict -- data/linux/processed-challenges/Street_map_service/bin/Street_map_service\n'
+p11
+I17
+tp12
+a(I720
+S'start_time     : 1500112121\nlast_update    : 1500112843\nfuzzer_pid     : 17590\ncycles_done    : 0\nexecs_done     : 765672\nexecs_per_sec  : 1076.25\npaths_total    : 184\npaths_favored  : 57\npaths_found    : 183\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 67\npending_favs   : 47\npending_total  : 170\nvariable_paths : 0\nbitmap_cvg     : 0.87%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500112836\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Street_map_service/input -o /dev/shm/work/Street_map_service/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Street_map_service/Street_map_service.dict -- data/linux/processed-challenges/Street_map_service/bin/Street_map_service\n'
+p13
+I12
+tp14
+a(I840
+S'start_time     : 1500112121\nlast_update    : 1500112963\nfuzzer_pid     : 17590\ncycles_done    : 0\nexecs_done     : 885810\nexecs_per_sec  : 1004.90\npaths_total    : 194\npaths_favored  : 72\npaths_found    : 193\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 78\npending_favs   : 59\npending_total  : 176\nvariable_paths : 0\nbitmap_cvg     : 0.88%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500112952\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Street_map_service/input -o /dev/shm/work/Street_map_service/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Street_map_service/Street_map_service.dict -- data/linux/processed-challenges/Street_map_service/bin/Street_map_service\n'
+p15
+I10
+tp16
+a(I960
+S'start_time     : 1500112121\nlast_update    : 1500113083\nfuzzer_pid     : 17590\ncycles_done    : 0\nexecs_done     : 1006341\nexecs_per_sec  : 954.40\npaths_total    : 198\npaths_favored  : 76\npaths_found    : 197\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 80\npending_favs   : 63\npending_total  : 179\nvariable_paths : 0\nbitmap_cvg     : 0.89%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500113073\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Street_map_service/input -o /dev/shm/work/Street_map_service/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Street_map_service/Street_map_service.dict -- data/linux/processed-challenges/Street_map_service/bin/Street_map_service\n'
+p17
+I4
+tp18
+a(I1080
+S'start_time     : 1500112121\nlast_update    : 1500113203\nfuzzer_pid     : 17590\ncycles_done    : 0\nexecs_done     : 1115240\nexecs_per_sec  : 911.09\npaths_total    : 199\npaths_favored  : 73\npaths_found    : 198\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 87\npending_favs   : 57\npending_total  : 176\nvariable_paths : 0\nbitmap_cvg     : 0.89%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500113155\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Street_map_service/input -o /dev/shm/work/Street_map_service/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Street_map_service/Street_map_service.dict -- data/linux/processed-challenges/Street_map_service/bin/Street_map_service\n'
+p19
+I1
+tp20
+a(I1200
+S'start_time     : 1500112121\nlast_update    : 1500113323\nfuzzer_pid     : 17590\ncycles_done    : 0\nexecs_done     : 1226135\nexecs_per_sec  : 808.21\npaths_total    : 200\npaths_favored  : 73\npaths_found    : 199\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 103\npending_favs   : 53\npending_total  : 173\nvariable_paths : 0\nbitmap_cvg     : 0.89%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500113253\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Street_map_service/input -o /dev/shm/work/Street_map_service/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Street_map_service/Street_map_service.dict -- data/linux/processed-challenges/Street_map_service/bin/Street_map_service\n'
+p21
+I1
+tp22
+a(I1320
+S'start_time     : 1500112121\nlast_update    : 1500113443\nfuzzer_pid     : 17590\ncycles_done    : 0\nexecs_done     : 1324517\nexecs_per_sec  : 746.85\npaths_total    : 204\npaths_favored  : 72\npaths_found    : 203\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 108\npending_favs   : 51\npending_total  : 175\nvariable_paths : 0\nbitmap_cvg     : 0.89%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500113443\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Street_map_service/input -o /dev/shm/work/Street_map_service/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Street_map_service/Street_map_service.dict -- data/linux/processed-challenges/Street_map_service/bin/Street_map_service\n'
+p23
+I6
+tp24
+a(I1440
+S'start_time     : 1500112121\nlast_update    : 1500113563\nfuzzer_pid     : 17590\ncycles_done    : 0\nexecs_done     : 1424559\nexecs_per_sec  : 827.44\npaths_total    : 220\npaths_favored  : 72\npaths_found    : 219\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 108\npending_favs   : 51\npending_total  : 191\nvariable_paths : 0\nbitmap_cvg     : 0.98%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500113558\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Street_map_service/input -o /dev/shm/work/Street_map_service/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Street_map_service/Street_map_service.dict -- data/linux/processed-challenges/Street_map_service/bin/Street_map_service\n'
+p25
+I14
+tp26
+a(I1560
+S'start_time     : 1500112121\nlast_update    : 1500113684\nfuzzer_pid     : 17590\ncycles_done    : 0\nexecs_done     : 1528318\nexecs_per_sec  : 992.71\npaths_total    : 228\npaths_favored  : 82\npaths_found    : 227\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 115\npending_favs   : 61\npending_total  : 196\nvariable_paths : 0\nbitmap_cvg     : 0.99%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500113641\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Street_map_service/input -o /dev/shm/work/Street_map_service/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Street_map_service/Street_map_service.dict -- data/linux/processed-challenges/Street_map_service/bin/Street_map_service\n'
+p27
+I8
+tp28
+a(I1680
+S'start_time     : 1500112121\nlast_update    : 1500113804\nfuzzer_pid     : 17590\ncycles_done    : 0\nexecs_done     : 1648534\nexecs_per_sec  : 1028.52\npaths_total    : 243\npaths_favored  : 82\npaths_found    : 242\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 115\npending_favs   : 61\npending_total  : 211\nvariable_paths : 0\nbitmap_cvg     : 1.15%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500113798\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Street_map_service/input -o /dev/shm/work/Street_map_service/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Street_map_service/Street_map_service.dict -- data/linux/processed-challenges/Street_map_service/bin/Street_map_service\n'
+p29
+I15
+tp30
+a(I1800
+S'start_time     : 1500112121\nlast_update    : 1500113924\nfuzzer_pid     : 17590\ncycles_done    : 0\nexecs_done     : 1763902\nexecs_per_sec  : 701.86\npaths_total    : 247\npaths_favored  : 92\npaths_found    : 246\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 121\npending_favs   : 70\npending_total  : 212\nvariable_paths : 0\nbitmap_cvg     : 1.15%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500113920\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Street_map_service/input -o /dev/shm/work/Street_map_service/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Street_map_service/Street_map_service.dict -- data/linux/processed-challenges/Street_map_service/bin/Street_map_service\n'
+p31
+I4
+tp32
+a(I1920
+S'start_time     : 1500112121\nlast_update    : 1500114044\nfuzzer_pid     : 17590\ncycles_done    : 0\nexecs_done     : 1852148\nexecs_per_sec  : 838.50\npaths_total    : 251\npaths_favored  : 93\npaths_found    : 250\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 128\npending_favs   : 71\npending_total  : 215\nvariable_paths : 0\nbitmap_cvg     : 1.16%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500114004\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Street_map_service/input -o /dev/shm/work/Street_map_service/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Street_map_service/Street_map_service.dict -- data/linux/processed-challenges/Street_map_service/bin/Street_map_service\n'
+p33
+I4
+tp34
+a(I2040
+S'start_time     : 1500112121\nlast_update    : 1500114164\nfuzzer_pid     : 17590\ncycles_done    : 0\nexecs_done     : 1960130\nexecs_per_sec  : 844.79\npaths_total    : 255\npaths_favored  : 93\npaths_found    : 254\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 132\npending_favs   : 69\npending_total  : 216\nvariable_paths : 0\nbitmap_cvg     : 1.16%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500114145\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Street_map_service/input -o /dev/shm/work/Street_map_service/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Street_map_service/Street_map_service.dict -- data/linux/processed-challenges/Street_map_service/bin/Street_map_service\n'
+p35
+I5
+tp36
+a(I2160
+S'start_time     : 1500112121\nlast_update    : 1500114285\nfuzzer_pid     : 17590\ncycles_done    : 0\nexecs_done     : 2041442\nexecs_per_sec  : 682.76\npaths_total    : 260\npaths_favored  : 95\npaths_found    : 259\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 141\npending_favs   : 71\npending_total  : 220\nvariable_paths : 0\nbitmap_cvg     : 1.17%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500114279\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Street_map_service/input -o /dev/shm/work/Street_map_service/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Street_map_service/Street_map_service.dict -- data/linux/processed-challenges/Street_map_service/bin/Street_map_service\n'
+p37
+I4
+tp38
+a(I2280
+S'start_time     : 1500112121\nlast_update    : 1500114405\nfuzzer_pid     : 17590\ncycles_done    : 0\nexecs_done     : 2124463\nexecs_per_sec  : 677.82\npaths_total    : 272\npaths_favored  : 95\npaths_found    : 271\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 141\npending_favs   : 71\npending_total  : 232\nvariable_paths : 0\nbitmap_cvg     : 1.21%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500114370\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Street_map_service/input -o /dev/shm/work/Street_map_service/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Street_map_service/Street_map_service.dict -- data/linux/processed-challenges/Street_map_service/bin/Street_map_service\n'
+p39
+I12
+tp40
+a(I2400
+S'start_time     : 1500112121\nlast_update    : 1500114525\nfuzzer_pid     : 17590\ncycles_done    : 0\nexecs_done     : 2212585\nexecs_per_sec  : 905.95\npaths_total    : 276\npaths_favored  : 100\npaths_found    : 275\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 144\npending_favs   : 79\npending_total  : 235\nvariable_paths : 0\nbitmap_cvg     : 1.21%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500114504\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Street_map_service/input -o /dev/shm/work/Street_map_service/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Street_map_service/Street_map_service.dict -- data/linux/processed-challenges/Street_map_service/bin/Street_map_service\n'
+p41
+I4
+tp42
+a(I2520
+S'start_time     : 1500112121\nlast_update    : 1500114645\nfuzzer_pid     : 17590\ncycles_done    : 0\nexecs_done     : 2302226\nexecs_per_sec  : 809.01\npaths_total    : 280\npaths_favored  : 100\npaths_found    : 279\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 146\npending_favs   : 78\npending_total  : 238\nvariable_paths : 0\nbitmap_cvg     : 1.21%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500114636\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Street_map_service/input -o /dev/shm/work/Street_map_service/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Street_map_service/Street_map_service.dict -- data/linux/processed-challenges/Street_map_service/bin/Street_map_service\n'
+p43
+I4
+tp44
+a(I2640
+S'start_time     : 1500112121\nlast_update    : 1500114766\nfuzzer_pid     : 17590\ncycles_done    : 0\nexecs_done     : 2398874\nexecs_per_sec  : 824.37\npaths_total    : 292\npaths_favored  : 100\npaths_found    : 291\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 146\npending_favs   : 78\npending_total  : 250\nvariable_paths : 0\nbitmap_cvg     : 1.24%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500114762\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Street_map_service/input -o /dev/shm/work/Street_map_service/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Street_map_service/Street_map_service.dict -- data/linux/processed-challenges/Street_map_service/bin/Street_map_service\n'
+p45
+I12
+tp46
+a(I2760
+S'start_time     : 1500112121\nlast_update    : 1500114886\nfuzzer_pid     : 17590\ncycles_done    : 0\nexecs_done     : 2495447\nexecs_per_sec  : 884.29\npaths_total    : 295\npaths_favored  : 108\npaths_found    : 294\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 152\npending_favs   : 83\npending_total  : 251\nvariable_paths : 0\nbitmap_cvg     : 1.25%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500114829\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Street_map_service/input -o /dev/shm/work/Street_map_service/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Street_map_service/Street_map_service.dict -- data/linux/processed-challenges/Street_map_service/bin/Street_map_service\n'
+p47
+I3
+tp48
+a(I2880
+S'start_time     : 1500112121\nlast_update    : 1500115006\nfuzzer_pid     : 17590\ncycles_done    : 0\nexecs_done     : 2609242\nexecs_per_sec  : 920.45\npaths_total    : 311\npaths_favored  : 111\npaths_found    : 310\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 163\npending_favs   : 81\npending_total  : 262\nvariable_paths : 0\nbitmap_cvg     : 1.26%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500114999\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Street_map_service/input -o /dev/shm/work/Street_map_service/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Street_map_service/Street_map_service.dict -- data/linux/processed-challenges/Street_map_service/bin/Street_map_service\n'
+p49
+I17
+tp50
+a(I3000
+S'start_time     : 1500112121\nlast_update    : 1500115126\nfuzzer_pid     : 17590\ncycles_done    : 0\nexecs_done     : 2720058\nexecs_per_sec  : 821.98\npaths_total    : 317\npaths_favored  : 117\npaths_found    : 316\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 169\npending_favs   : 87\npending_total  : 265\nvariable_paths : 0\nbitmap_cvg     : 1.27%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500115093\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Street_map_service/input -o /dev/shm/work/Street_map_service/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Street_map_service/Street_map_service.dict -- data/linux/processed-challenges/Street_map_service/bin/Street_map_service\n'
+p51
+I5
+tp52
+a(I3120
+S'start_time     : 1500112121\nlast_update    : 1500115247\nfuzzer_pid     : 17590\ncycles_done    : 0\nexecs_done     : 2838019\nexecs_per_sec  : 1018.60\npaths_total    : 330\npaths_favored  : 119\npaths_found    : 329\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 173\npending_favs   : 87\npending_total  : 276\nvariable_paths : 0\nbitmap_cvg     : 1.28%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500115242\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Street_map_service/input -o /dev/shm/work/Street_map_service/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Street_map_service/Street_map_service.dict -- data/linux/processed-challenges/Street_map_service/bin/Street_map_service\n'
+p53
+I13
+tp54
+a(I3240
+S'start_time     : 1500112121\nlast_update    : 1500115367\nfuzzer_pid     : 17590\ncycles_done    : 0\nexecs_done     : 2957683\nexecs_per_sec  : 997.34\npaths_total    : 339\npaths_favored  : 126\npaths_found    : 338\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 177\npending_favs   : 91\npending_total  : 284\nvariable_paths : 0\nbitmap_cvg     : 1.33%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500115364\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Street_map_service/input -o /dev/shm/work/Street_map_service/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Street_map_service/Street_map_service.dict -- data/linux/processed-challenges/Street_map_service/bin/Street_map_service\n'
+p55
+I9
+tp56
+a(I3360
+S'start_time     : 1500112121\nlast_update    : 1500115487\nfuzzer_pid     : 17590\ncycles_done    : 0\nexecs_done     : 3066335\nexecs_per_sec  : 772.80\npaths_total    : 341\npaths_favored  : 128\npaths_found    : 340\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 183\npending_favs   : 89\npending_total  : 282\nvariable_paths : 0\nbitmap_cvg     : 1.33%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500115435\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Street_map_service/input -o /dev/shm/work/Street_map_service/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Street_map_service/Street_map_service.dict -- data/linux/processed-challenges/Street_map_service/bin/Street_map_service\n'
+p57
+I2
+tp58
+a(I3480
+S'start_time     : 1500112121\nlast_update    : 1500115607\nfuzzer_pid     : 17590\ncycles_done    : 0\nexecs_done     : 3175878\nexecs_per_sec  : 1067.39\npaths_total    : 347\npaths_favored  : 128\npaths_found    : 346\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 184\npending_favs   : 88\npending_total  : 287\nvariable_paths : 0\nbitmap_cvg     : 1.34%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500115606\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Street_map_service/input -o /dev/shm/work/Street_map_service/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Street_map_service/Street_map_service.dict -- data/linux/processed-challenges/Street_map_service/bin/Street_map_service\n'
+p59
+I6
+tp60
+a(I3600
+S'start_time     : 1500112121\nlast_update    : 1500115727\nfuzzer_pid     : 17590\ncycles_done    : 0\nexecs_done     : 3298266\nexecs_per_sec  : 964.84\npaths_total    : 348\npaths_favored  : 125\npaths_found    : 347\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 185\npending_favs   : 86\npending_total  : 287\nvariable_paths : 0\nbitmap_cvg     : 1.34%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500115653\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Street_map_service/input -o /dev/shm/work/Street_map_service/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Street_map_service/Street_map_service.dict -- data/linux/processed-challenges/Street_map_service/bin/Street_map_service\n'
+p61
+I1
+tp62
+a(I3720
+S'start_time     : 1500112121\nlast_update    : 1500115847\nfuzzer_pid     : 17590\ncycles_done    : 0\nexecs_done     : 3406917\nexecs_per_sec  : 941.04\npaths_total    : 350\npaths_favored  : 125\npaths_found    : 349\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 192\npending_favs   : 83\npending_total  : 286\nvariable_paths : 0\nbitmap_cvg     : 1.34%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500115838\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Street_map_service/input -o /dev/shm/work/Street_map_service/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Street_map_service/Street_map_service.dict -- data/linux/processed-challenges/Street_map_service/bin/Street_map_service\n'
+p63
+I3
+tp64
+a(I3840
+S'start_time     : 1500112121\nlast_update    : 1500115968\nfuzzer_pid     : 17590\ncycles_done    : 0\nexecs_done     : 3503388\nexecs_per_sec  : 760.76\npaths_total    : 354\npaths_favored  : 127\npaths_found    : 353\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 197\npending_favs   : 83\npending_total  : 288\nvariable_paths : 0\nbitmap_cvg     : 1.34%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500115941\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Street_map_service/input -o /dev/shm/work/Street_map_service/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Street_map_service/Street_map_service.dict -- data/linux/processed-challenges/Street_map_service/bin/Street_map_service\n'
+p65
+I3
+tp66
+a(I3960
+S'start_time     : 1500112121\nlast_update    : 1500116088\nfuzzer_pid     : 17590\ncycles_done    : 0\nexecs_done     : 3602274\nexecs_per_sec  : 892.38\npaths_total    : 355\npaths_favored  : 127\npaths_found    : 354\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 201\npending_favs   : 81\npending_total  : 287\nvariable_paths : 0\nbitmap_cvg     : 1.34%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500116036\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Street_map_service/input -o /dev/shm/work/Street_map_service/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Street_map_service/Street_map_service.dict -- data/linux/processed-challenges/Street_map_service/bin/Street_map_service\n'
+p67
+I1
+tp68
+a(I4080
+S'start_time     : 1500112121\nlast_update    : 1500116208\nfuzzer_pid     : 17590\ncycles_done    : 0\nexecs_done     : 3699313\nexecs_per_sec  : 690.29\npaths_total    : 355\npaths_favored  : 127\npaths_found    : 354\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 208\npending_favs   : 79\npending_total  : 285\nvariable_paths : 0\nbitmap_cvg     : 1.34%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500116036\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Street_map_service/input -o /dev/shm/work/Street_map_service/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Street_map_service/Street_map_service.dict -- data/linux/processed-challenges/Street_map_service/bin/Street_map_service\n'
+p69
+I0
+tp70
+a(I4200
+S'start_time     : 1500112121\nlast_update    : 1500116329\nfuzzer_pid     : 17590\ncycles_done    : 0\nexecs_done     : 3786842\nexecs_per_sec  : 744.44\npaths_total    : 358\npaths_favored  : 127\npaths_found    : 357\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 209\npending_favs   : 79\npending_total  : 287\nvariable_paths : 0\nbitmap_cvg     : 1.34%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500116217\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Street_map_service/input -o /dev/shm/work/Street_map_service/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Street_map_service/Street_map_service.dict -- data/linux/processed-challenges/Street_map_service/bin/Street_map_service\n'
+p71
+I3
+tp72
+a(I4320
+S'start_time     : 1500112121\nlast_update    : 1500116449\nfuzzer_pid     : 17590\ncycles_done    : 0\nexecs_done     : 3880985\nexecs_per_sec  : 851.41\npaths_total    : 358\npaths_favored  : 127\npaths_found    : 357\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 213\npending_favs   : 77\npending_total  : 285\nvariable_paths : 0\nbitmap_cvg     : 1.34%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500116217\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Street_map_service/input -o /dev/shm/work/Street_map_service/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Street_map_service/Street_map_service.dict -- data/linux/processed-challenges/Street_map_service/bin/Street_map_service\n'
+p73
+I0
+tp74
+a(I4440
+S'start_time     : 1500112121\nlast_update    : 1500116569\nfuzzer_pid     : 17590\ncycles_done    : 0\nexecs_done     : 3975186\nexecs_per_sec  : 707.96\npaths_total    : 358\npaths_favored  : 127\npaths_found    : 357\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 216\npending_favs   : 76\npending_total  : 284\nvariable_paths : 0\nbitmap_cvg     : 1.34%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500116217\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Street_map_service/input -o /dev/shm/work/Street_map_service/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Street_map_service/Street_map_service.dict -- data/linux/processed-challenges/Street_map_service/bin/Street_map_service\n'
+p75
+I0
+tp76
+a(I4560
+S'start_time     : 1500112121\nlast_update    : 1500116689\nfuzzer_pid     : 17590\ncycles_done    : 0\nexecs_done     : 4060266\nexecs_per_sec  : 765.18\npaths_total    : 358\npaths_favored  : 127\npaths_found    : 357\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 219\npending_favs   : 75\npending_total  : 283\nvariable_paths : 0\nbitmap_cvg     : 1.34%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500116217\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Street_map_service/input -o /dev/shm/work/Street_map_service/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Street_map_service/Street_map_service.dict -- data/linux/processed-challenges/Street_map_service/bin/Street_map_service\n'
+p77
+I0
+tp78
+a(I4680
+S'start_time     : 1500112121\nlast_update    : 1500116810\nfuzzer_pid     : 17590\ncycles_done    : 0\nexecs_done     : 4162456\nexecs_per_sec  : 925.39\npaths_total    : 359\npaths_favored  : 128\npaths_found    : 358\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 225\npending_favs   : 73\npending_total  : 281\nvariable_paths : 0\nbitmap_cvg     : 1.34%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500116769\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Street_map_service/input -o /dev/shm/work/Street_map_service/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Street_map_service/Street_map_service.dict -- data/linux/processed-challenges/Street_map_service/bin/Street_map_service\n'
+p79
+I1
+tp80
+a(I4800
+S'start_time     : 1500112121\nlast_update    : 1500116930\nfuzzer_pid     : 17590\ncycles_done    : 0\nexecs_done     : 4273351\nexecs_per_sec  : 947.73\npaths_total    : 359\npaths_favored  : 128\npaths_found    : 358\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 228\npending_favs   : 70\npending_total  : 278\nvariable_paths : 0\nbitmap_cvg     : 1.34%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500116769\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Street_map_service/input -o /dev/shm/work/Street_map_service/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Street_map_service/Street_map_service.dict -- data/linux/processed-challenges/Street_map_service/bin/Street_map_service\n'
+p81
+I0
+tp82
+a(I4920
+S'start_time     : 1500112121\nlast_update    : 1500117050\nfuzzer_pid     : 17590\ncycles_done    : 0\nexecs_done     : 4379394\nexecs_per_sec  : 800.19\npaths_total    : 362\npaths_favored  : 128\npaths_found    : 361\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 230\npending_favs   : 68\npending_total  : 279\nvariable_paths : 0\nbitmap_cvg     : 1.35%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500117007\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Street_map_service/input -o /dev/shm/work/Street_map_service/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Street_map_service/Street_map_service.dict -- data/linux/processed-challenges/Street_map_service/bin/Street_map_service\n'
+p83
+I3
+tp84
+a(I5040
+S'start_time     : 1500112121\nlast_update    : 1500117170\nfuzzer_pid     : 17590\ncycles_done    : 0\nexecs_done     : 4486102\nexecs_per_sec  : 976.19\npaths_total    : 363\npaths_favored  : 130\npaths_found    : 362\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 232\npending_favs   : 70\npending_total  : 278\nvariable_paths : 0\nbitmap_cvg     : 1.35%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500117124\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Street_map_service/input -o /dev/shm/work/Street_map_service/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Street_map_service/Street_map_service.dict -- data/linux/processed-challenges/Street_map_service/bin/Street_map_service\n'
+p85
+I1
+tp86
+a(I5160
+S'start_time     : 1500112121\nlast_update    : 1500117290\nfuzzer_pid     : 17590\ncycles_done    : 0\nexecs_done     : 4589762\nexecs_per_sec  : 899.64\npaths_total    : 370\npaths_favored  : 130\npaths_found    : 369\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 235\npending_favs   : 69\npending_total  : 284\nvariable_paths : 0\nbitmap_cvg     : 1.35%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500117281\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Street_map_service/input -o /dev/shm/work/Street_map_service/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Street_map_service/Street_map_service.dict -- data/linux/processed-challenges/Street_map_service/bin/Street_map_service\n'
+p87
+I7
+tp88
+a(I5280
+S'start_time     : 1500112121\nlast_update    : 1500117411\nfuzzer_pid     : 17590\ncycles_done    : 0\nexecs_done     : 4697386\nexecs_per_sec  : 897.42\npaths_total    : 377\npaths_favored  : 131\npaths_found    : 376\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 236\npending_favs   : 70\npending_total  : 290\nvariable_paths : 0\nbitmap_cvg     : 1.37%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500117396\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Street_map_service/input -o /dev/shm/work/Street_map_service/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Street_map_service/Street_map_service.dict -- data/linux/processed-challenges/Street_map_service/bin/Street_map_service\n'
+p89
+I7
+tp90
+a(I5400
+S'start_time     : 1500112121\nlast_update    : 1500117531\nfuzzer_pid     : 17590\ncycles_done    : 0\nexecs_done     : 4783176\nexecs_per_sec  : 651.15\npaths_total    : 377\npaths_favored  : 131\npaths_found    : 376\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 239\npending_favs   : 69\npending_total  : 289\nvariable_paths : 0\nbitmap_cvg     : 1.37%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500117396\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Street_map_service/input -o /dev/shm/work/Street_map_service/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Street_map_service/Street_map_service.dict -- data/linux/processed-challenges/Street_map_service/bin/Street_map_service\n'
+p91
+I0
+tp92
+a(I5520
+S'start_time     : 1500112121\nlast_update    : 1500117651\nfuzzer_pid     : 17590\ncycles_done    : 0\nexecs_done     : 4869285\nexecs_per_sec  : 762.87\npaths_total    : 381\npaths_favored  : 131\npaths_found    : 380\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 239\npending_favs   : 69\npending_total  : 293\nvariable_paths : 0\nbitmap_cvg     : 1.37%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500117593\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Street_map_service/input -o /dev/shm/work/Street_map_service/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Street_map_service/Street_map_service.dict -- data/linux/processed-challenges/Street_map_service/bin/Street_map_service\n'
+p93
+I4
+tp94
+a(I5640
+S'start_time     : 1500112121\nlast_update    : 1500117771\nfuzzer_pid     : 17590\ncycles_done    : 0\nexecs_done     : 4964616\nexecs_per_sec  : 879.46\npaths_total    : 383\npaths_favored  : 131\npaths_found    : 382\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 243\npending_favs   : 68\npending_total  : 294\nvariable_paths : 0\nbitmap_cvg     : 1.37%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500117715\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Street_map_service/input -o /dev/shm/work/Street_map_service/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Street_map_service/Street_map_service.dict -- data/linux/processed-challenges/Street_map_service/bin/Street_map_service\n'
+p95
+I2
+tp96
+a(I5760
+S'start_time     : 1500112121\nlast_update    : 1500117891\nfuzzer_pid     : 17590\ncycles_done    : 0\nexecs_done     : 5067055\nexecs_per_sec  : 844.51\npaths_total    : 387\npaths_favored  : 132\npaths_found    : 386\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 245\npending_favs   : 67\npending_total  : 296\nvariable_paths : 0\nbitmap_cvg     : 1.38%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500117872\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Street_map_service/input -o /dev/shm/work/Street_map_service/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Street_map_service/Street_map_service.dict -- data/linux/processed-challenges/Street_map_service/bin/Street_map_service\n'
+p97
+I4
+tp98
+a(I5880
+S'start_time     : 1500112121\nlast_update    : 1500118011\nfuzzer_pid     : 17590\ncycles_done    : 0\nexecs_done     : 5153049\nexecs_per_sec  : 697.28\npaths_total    : 387\npaths_favored  : 135\npaths_found    : 386\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 247\npending_favs   : 69\npending_total  : 294\nvariable_paths : 0\nbitmap_cvg     : 1.38%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500117872\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Street_map_service/input -o /dev/shm/work/Street_map_service/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Street_map_service/Street_map_service.dict -- data/linux/processed-challenges/Street_map_service/bin/Street_map_service\n'
+p99
+I0
+tp100
+a(I6000
+S'start_time     : 1500112121\nlast_update    : 1500118132\nfuzzer_pid     : 17590\ncycles_done    : 0\nexecs_done     : 5232947\nexecs_per_sec  : 634.54\npaths_total    : 387\npaths_favored  : 135\npaths_found    : 386\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 248\npending_favs   : 68\npending_total  : 293\nvariable_paths : 0\nbitmap_cvg     : 1.38%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500117872\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Street_map_service/input -o /dev/shm/work/Street_map_service/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Street_map_service/Street_map_service.dict -- data/linux/processed-challenges/Street_map_service/bin/Street_map_service\n'
+p101
+I0
+tp102
+a(I6120
+S'start_time     : 1500112121\nlast_update    : 1500118252\nfuzzer_pid     : 17590\ncycles_done    : 0\nexecs_done     : 5321892\nexecs_per_sec  : 894.32\npaths_total    : 388\npaths_favored  : 135\npaths_found    : 387\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 251\npending_favs   : 66\npending_total  : 292\nvariable_paths : 0\nbitmap_cvg     : 1.38%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500118233\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Street_map_service/input -o /dev/shm/work/Street_map_service/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Street_map_service/Street_map_service.dict -- data/linux/processed-challenges/Street_map_service/bin/Street_map_service\n'
+p103
+I1
+tp104
+a(I6240
+S'start_time     : 1500112121\nlast_update    : 1500118372\nfuzzer_pid     : 17590\ncycles_done    : 0\nexecs_done     : 5429807\nexecs_per_sec  : 858.15\npaths_total    : 388\npaths_favored  : 135\npaths_found    : 387\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 254\npending_favs   : 63\npending_total  : 289\nvariable_paths : 0\nbitmap_cvg     : 1.38%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500118233\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Street_map_service/input -o /dev/shm/work/Street_map_service/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Street_map_service/Street_map_service.dict -- data/linux/processed-challenges/Street_map_service/bin/Street_map_service\n'
+p105
+I0
+tp106
+a(I6360
+S'start_time     : 1500112121\nlast_update    : 1500118492\nfuzzer_pid     : 17590\ncycles_done    : 0\nexecs_done     : 5530345\nexecs_per_sec  : 797.04\npaths_total    : 388\npaths_favored  : 135\npaths_found    : 387\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 256\npending_favs   : 61\npending_total  : 287\nvariable_paths : 0\nbitmap_cvg     : 1.38%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500118233\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Street_map_service/input -o /dev/shm/work/Street_map_service/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Street_map_service/Street_map_service.dict -- data/linux/processed-challenges/Street_map_service/bin/Street_map_service\n'
+p107
+I0
+tp108
+a(I6480
+S'start_time     : 1500112121\nlast_update    : 1500118612\nfuzzer_pid     : 17590\ncycles_done    : 0\nexecs_done     : 5612118\nexecs_per_sec  : 637.76\npaths_total    : 390\npaths_favored  : 135\npaths_found    : 389\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 259\npending_favs   : 59\npending_total  : 287\nvariable_paths : 0\nbitmap_cvg     : 1.38%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500118599\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Street_map_service/input -o /dev/shm/work/Street_map_service/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Street_map_service/Street_map_service.dict -- data/linux/processed-challenges/Street_map_service/bin/Street_map_service\n'
+p109
+I2
+tp110
+a(I6600
+S'start_time     : 1500112121\nlast_update    : 1500118733\nfuzzer_pid     : 17590\ncycles_done    : 0\nexecs_done     : 5688821\nexecs_per_sec  : 676.31\npaths_total    : 392\npaths_favored  : 135\npaths_found    : 391\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 259\npending_favs   : 59\npending_total  : 289\nvariable_paths : 0\nbitmap_cvg     : 1.41%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500118721\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Street_map_service/input -o /dev/shm/work/Street_map_service/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Street_map_service/Street_map_service.dict -- data/linux/processed-challenges/Street_map_service/bin/Street_map_service\n'
+p111
+I2
+tp112
+a(I6720
+S'start_time     : 1500112121\nlast_update    : 1500118853\nfuzzer_pid     : 17590\ncycles_done    : 0\nexecs_done     : 5769083\nexecs_per_sec  : 705.08\npaths_total    : 398\npaths_favored  : 135\npaths_found    : 397\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 260\npending_favs   : 62\npending_total  : 294\nvariable_paths : 0\nbitmap_cvg     : 1.45%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500118824\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Street_map_service/input -o /dev/shm/work/Street_map_service/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Street_map_service/Street_map_service.dict -- data/linux/processed-challenges/Street_map_service/bin/Street_map_service\n'
+p113
+I6
+tp114
+a(I6840
+S'start_time     : 1500112121\nlast_update    : 1500118913\nfuzzer_pid     : 17590\ncycles_done    : 0\nexecs_done     : 5810896\nexecs_per_sec  : 660.48\npaths_total    : 398\npaths_favored  : 135\npaths_found    : 397\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 260\npending_favs   : 62\npending_total  : 294\nvariable_paths : 0\nbitmap_cvg     : 1.45%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500118824\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Street_map_service/input -o /dev/shm/work/Street_map_service/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Street_map_service/Street_map_service.dict -- data/linux/processed-challenges/Street_map_service/bin/Street_map_service\n'
+p115
+I2
+tp116
+a(I6960
+S'start_time     : 1500112121\nlast_update    : 1500119033\nfuzzer_pid     : 17590\ncycles_done    : 0\nexecs_done     : 5888333\nexecs_per_sec  : 587.95\npaths_total    : 401\npaths_favored  : 135\npaths_found    : 400\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 261\npending_favs   : 61\npending_total  : 296\nvariable_paths : 0\nbitmap_cvg     : 1.46%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500119002\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Street_map_service/input -o /dev/shm/work/Street_map_service/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Street_map_service/Street_map_service.dict -- data/linux/processed-challenges/Street_map_service/bin/Street_map_service\n'
+p117
+I24
+tp118
+a(I7080
+S'start_time     : 1500112121\nlast_update    : 1500119153\nfuzzer_pid     : 17590\ncycles_done    : 0\nexecs_done     : 5962624\nexecs_per_sec  : 650.12\npaths_total    : 445\npaths_favored  : 135\npaths_found    : 444\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 261\npending_favs   : 61\npending_total  : 340\nvariable_paths : 0\nbitmap_cvg     : 1.55%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500119148\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Street_map_service/input -o /dev/shm/work/Street_map_service/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Street_map_service/Street_map_service.dict -- data/linux/processed-challenges/Street_map_service/bin/Street_map_service\n'
+p119
+I29
+tp120
+a(I7200
+S'start_time     : 1500112121\nlast_update    : 1500119273\nfuzzer_pid     : 17590\ncycles_done    : 0\nexecs_done     : 6038208\nexecs_per_sec  : 598.03\npaths_total    : 455\npaths_favored  : 148\npaths_found    : 454\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 263\npending_favs   : 75\npending_total  : 349\nvariable_paths : 0\nbitmap_cvg     : 1.55%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500119216\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Street_map_service/input -o /dev/shm/work/Street_map_service/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Street_map_service/Street_map_service.dict -- data/linux/processed-challenges/Street_map_service/bin/Street_map_service\n'
+p121
+I3
+tp122
+a(I7320
+S'start_time     : 1500112121\nlast_update    : 1500119394\nfuzzer_pid     : 17590\ncycles_done    : 0\nexecs_done     : 6119194\nexecs_per_sec  : 717.90\npaths_total    : 456\npaths_favored  : 148\npaths_found    : 455\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 265\npending_favs   : 74\npending_total  : 349\nvariable_paths : 0\nbitmap_cvg     : 1.55%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500119329\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Street_map_service/input -o /dev/shm/work/Street_map_service/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Street_map_service/Street_map_service.dict -- data/linux/processed-challenges/Street_map_service/bin/Street_map_service\n'
+p123
+I0
+tp124
+a(I7440
+S'start_time     : 1500112121\nlast_update    : 1500119514\nfuzzer_pid     : 17590\ncycles_done    : 0\nexecs_done     : 6199637\nexecs_per_sec  : 623.49\npaths_total    : 456\npaths_favored  : 148\npaths_found    : 455\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 266\npending_favs   : 73\npending_total  : 348\nvariable_paths : 0\nbitmap_cvg     : 1.55%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500119329\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Street_map_service/input -o /dev/shm/work/Street_map_service/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Street_map_service/Street_map_service.dict -- data/linux/processed-challenges/Street_map_service/bin/Street_map_service\n'
+p125
+I1
+tp126
+a(I7560
+S'start_time     : 1500112121\nlast_update    : 1500119634\nfuzzer_pid     : 17590\ncycles_done    : 0\nexecs_done     : 6279995\nexecs_per_sec  : 673.80\npaths_total    : 457\npaths_favored  : 149\npaths_found    : 456\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 272\npending_favs   : 73\npending_total  : 348\nvariable_paths : 0\nbitmap_cvg     : 1.55%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500119548\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Street_map_service/input -o /dev/shm/work/Street_map_service/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Street_map_service/Street_map_service.dict -- data/linux/processed-challenges/Street_map_service/bin/Street_map_service\n'
+p127
+I0
+tp128
+a(I7680
+S'start_time     : 1500112121\nlast_update    : 1500119755\nfuzzer_pid     : 17590\ncycles_done    : 0\nexecs_done     : 6352726\nexecs_per_sec  : 660.83\npaths_total    : 457\npaths_favored  : 149\npaths_found    : 456\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 273\npending_favs   : 72\npending_total  : 347\nvariable_paths : 0\nbitmap_cvg     : 1.55%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500119548\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Street_map_service/input -o /dev/shm/work/Street_map_service/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Street_map_service/Street_map_service.dict -- data/linux/processed-challenges/Street_map_service/bin/Street_map_service\n'
+p129
+I2
+tp130
+a(I7800
+S'start_time     : 1500112121\nlast_update    : 1500119875\nfuzzer_pid     : 17590\ncycles_done    : 0\nexecs_done     : 6428115\nexecs_per_sec  : 616.26\npaths_total    : 459\npaths_favored  : 149\npaths_found    : 458\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 274\npending_favs   : 72\npending_total  : 348\nvariable_paths : 0\nbitmap_cvg     : 1.56%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500119802\nlast_crash     : 0\nlast_hang      : 1500119813\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Street_map_service/input -o /dev/shm/work/Street_map_service/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Street_map_service/Street_map_service.dict -- data/linux/processed-challenges/Street_map_service/bin/Street_map_service\n'
+p131
+I0
+tp132
+a(I7920
+S'start_time     : 1500112121\nlast_update    : 1500119995\nfuzzer_pid     : 17590\ncycles_done    : 0\nexecs_done     : 6508495\nexecs_per_sec  : 713.62\npaths_total    : 459\npaths_favored  : 151\npaths_found    : 458\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 281\npending_favs   : 72\npending_total  : 346\nvariable_paths : 0\nbitmap_cvg     : 1.56%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500119802\nlast_crash     : 0\nlast_hang      : 1500119813\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Street_map_service/input -o /dev/shm/work/Street_map_service/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Street_map_service/Street_map_service.dict -- data/linux/processed-challenges/Street_map_service/bin/Street_map_service\n'
+p133
+I0
+tp134
+a(I8040
+S'start_time     : 1500112121\nlast_update    : 1500120115\nfuzzer_pid     : 17590\ncycles_done    : 0\nexecs_done     : 6592637\nexecs_per_sec  : 701.71\npaths_total    : 459\npaths_favored  : 151\npaths_found    : 458\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 283\npending_favs   : 71\npending_total  : 345\nvariable_paths : 0\nbitmap_cvg     : 1.56%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500119802\nlast_crash     : 0\nlast_hang      : 1500119813\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Street_map_service/input -o /dev/shm/work/Street_map_service/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Street_map_service/Street_map_service.dict -- data/linux/processed-challenges/Street_map_service/bin/Street_map_service\n'
+p135
+I0
+tp136
+a(I8160
+S'start_time     : 1500112121\nlast_update    : 1500120236\nfuzzer_pid     : 17590\ncycles_done    : 0\nexecs_done     : 6681157\nexecs_per_sec  : 745.51\npaths_total    : 459\npaths_favored  : 151\npaths_found    : 458\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 286\npending_favs   : 70\npending_total  : 344\nvariable_paths : 0\nbitmap_cvg     : 1.56%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500119802\nlast_crash     : 0\nlast_hang      : 1500119813\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Street_map_service/input -o /dev/shm/work/Street_map_service/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Street_map_service/Street_map_service.dict -- data/linux/processed-challenges/Street_map_service/bin/Street_map_service\n'
+p137
+I0
+tp138
+a(I8280
+S'start_time     : 1500112121\nlast_update    : 1500120356\nfuzzer_pid     : 17590\ncycles_done    : 0\nexecs_done     : 6761042\nexecs_per_sec  : 550.04\npaths_total    : 459\npaths_favored  : 151\npaths_found    : 458\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 293\npending_favs   : 69\npending_total  : 343\nvariable_paths : 0\nbitmap_cvg     : 1.56%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500119802\nlast_crash     : 0\nlast_hang      : 1500119813\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Street_map_service/input -o /dev/shm/work/Street_map_service/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Street_map_service/Street_map_service.dict -- data/linux/processed-challenges/Street_map_service/bin/Street_map_service\n'
+p139
+I1
+tp140
+a(I8400
+S'start_time     : 1500112121\nlast_update    : 1500120476\nfuzzer_pid     : 17590\ncycles_done    : 0\nexecs_done     : 6832441\nexecs_per_sec  : 691.96\npaths_total    : 460\npaths_favored  : 151\npaths_found    : 459\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 294\npending_favs   : 68\npending_total  : 343\nvariable_paths : 0\nbitmap_cvg     : 1.56%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500120397\nlast_crash     : 0\nlast_hang      : 1500119813\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Street_map_service/input -o /dev/shm/work/Street_map_service/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Street_map_service/Street_map_service.dict -- data/linux/processed-challenges/Street_map_service/bin/Street_map_service\n'
+p141
+I0
+tp142
+a(I8520
+S'start_time     : 1500112121\nlast_update    : 1500120596\nfuzzer_pid     : 17590\ncycles_done    : 0\nexecs_done     : 6928254\nexecs_per_sec  : 974.07\npaths_total    : 462\npaths_favored  : 151\npaths_found    : 461\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 295\npending_favs   : 67\npending_total  : 344\nvariable_paths : 0\nbitmap_cvg     : 1.56%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500120569\nlast_crash     : 0\nlast_hang      : 1500119813\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Street_map_service/input -o /dev/shm/work/Street_map_service/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Street_map_service/Street_map_service.dict -- data/linux/processed-challenges/Street_map_service/bin/Street_map_service\n'
+p143
+I3
+tp144
+a(I8640
+S'start_time     : 1500112121\nlast_update    : 1500120716\nfuzzer_pid     : 17590\ncycles_done    : 0\nexecs_done     : 7048745\nexecs_per_sec  : 1045.94\npaths_total    : 463\npaths_favored  : 151\npaths_found    : 462\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 306\npending_favs   : 63\npending_total  : 340\nvariable_paths : 0\nbitmap_cvg     : 1.56%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500120607\nlast_crash     : 0\nlast_hang      : 1500119813\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Street_map_service/input -o /dev/shm/work/Street_map_service/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Street_map_service/Street_map_service.dict -- data/linux/processed-challenges/Street_map_service/bin/Street_map_service\n'
+p145
+I1
+tp146
+a(I8760
+S'start_time     : 1500112121\nlast_update    : 1500120836\nfuzzer_pid     : 17590\ncycles_done    : 0\nexecs_done     : 7169093\nexecs_per_sec  : 985.66\npaths_total    : 465\npaths_favored  : 153\npaths_found    : 464\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 312\npending_favs   : 60\npending_total  : 337\nvariable_paths : 0\nbitmap_cvg     : 1.56%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500120778\nlast_crash     : 0\nlast_hang      : 1500120722\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Street_map_service/input -o /dev/shm/work/Street_map_service/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Street_map_service/Street_map_service.dict -- data/linux/processed-challenges/Street_map_service/bin/Street_map_service\n'
+p147
+I3
+tp148
+a(I8880
+S'start_time     : 1500112121\nlast_update    : 1500120957\nfuzzer_pid     : 17590\ncycles_done    : 0\nexecs_done     : 7277620\nexecs_per_sec  : 859.95\npaths_total    : 467\npaths_favored  : 154\npaths_found    : 466\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 320\npending_favs   : 58\npending_total  : 336\nvariable_paths : 0\nbitmap_cvg     : 1.56%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500120888\nlast_crash     : 0\nlast_hang      : 1500120722\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Street_map_service/input -o /dev/shm/work/Street_map_service/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Street_map_service/Street_map_service.dict -- data/linux/processed-challenges/Street_map_service/bin/Street_map_service\n'
+p149
+I5
+tp150
+a(I9000
+S'start_time     : 1500112121\nlast_update    : 1500121077\nfuzzer_pid     : 17590\ncycles_done    : 0\nexecs_done     : 7373240\nexecs_per_sec  : 665.22\npaths_total    : 473\npaths_favored  : 158\npaths_found    : 472\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 323\npending_favs   : 60\npending_total  : 340\nvariable_paths : 0\nbitmap_cvg     : 1.57%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500121070\nlast_crash     : 0\nlast_hang      : 1500121072\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Street_map_service/input -o /dev/shm/work/Street_map_service/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Street_map_service/Street_map_service.dict -- data/linux/processed-challenges/Street_map_service/bin/Street_map_service\n'
+p151
+I4
+tp152
+a(I9120
+S'start_time     : 1500112121\nlast_update    : 1500121197\nfuzzer_pid     : 17590\ncycles_done    : 0\nexecs_done     : 7468144\nexecs_per_sec  : 858.45\npaths_total    : 476\npaths_favored  : 158\npaths_found    : 475\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 323\npending_favs   : 60\npending_total  : 343\nvariable_paths : 0\nbitmap_cvg     : 1.57%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500121133\nlast_crash     : 0\nlast_hang      : 1500121121\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Street_map_service/input -o /dev/shm/work/Street_map_service/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Street_map_service/Street_map_service.dict -- data/linux/processed-challenges/Street_map_service/bin/Street_map_service\n'
+p153
+I0
+tp154
+a(I9240
+S'start_time     : 1500112121\nlast_update    : 1500121317\nfuzzer_pid     : 17590\ncycles_done    : 0\nexecs_done     : 7564470\nexecs_per_sec  : 506.87\npaths_total    : 476\npaths_favored  : 159\npaths_found    : 475\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 329\npending_favs   : 59\npending_total  : 341\nvariable_paths : 0\nbitmap_cvg     : 1.57%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500121133\nlast_crash     : 0\nlast_hang      : 1500121121\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Street_map_service/input -o /dev/shm/work/Street_map_service/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Street_map_service/Street_map_service.dict -- data/linux/processed-challenges/Street_map_service/bin/Street_map_service\n'
+p155
+I3
+tp156
+a(I9360
+S'start_time     : 1500112121\nlast_update    : 1500121438\nfuzzer_pid     : 17590\ncycles_done    : 0\nexecs_done     : 7661330\nexecs_per_sec  : 826.63\npaths_total    : 480\npaths_favored  : 159\npaths_found    : 479\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 329\npending_favs   : 59\npending_total  : 345\nvariable_paths : 0\nbitmap_cvg     : 1.57%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500121421\nlast_crash     : 0\nlast_hang      : 1500121121\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Street_map_service/input -o /dev/shm/work/Street_map_service/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Street_map_service/Street_map_service.dict -- data/linux/processed-challenges/Street_map_service/bin/Street_map_service\n'
+p157
+I1
+tp158
+a(I9480
+S'start_time     : 1500112121\nlast_update    : 1500121558\nfuzzer_pid     : 17590\ncycles_done    : 0\nexecs_done     : 7759602\nexecs_per_sec  : 980.09\npaths_total    : 480\npaths_favored  : 159\npaths_found    : 479\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 338\npending_favs   : 57\npending_total  : 342\nvariable_paths : 0\nbitmap_cvg     : 1.57%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500121421\nlast_crash     : 0\nlast_hang      : 1500121121\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Street_map_service/input -o /dev/shm/work/Street_map_service/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Street_map_service/Street_map_service.dict -- data/linux/processed-challenges/Street_map_service/bin/Street_map_service\n'
+p159
+I0
+tp160
+a(I9600
+S'start_time     : 1500112121\nlast_update    : 1500121678\nfuzzer_pid     : 17590\ncycles_done    : 0\nexecs_done     : 7874921\nexecs_per_sec  : 976.18\npaths_total    : 482\npaths_favored  : 159\npaths_found    : 481\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 342\npending_favs   : 55\npending_total  : 341\nvariable_paths : 0\nbitmap_cvg     : 1.58%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500121677\nlast_crash     : 0\nlast_hang      : 1500121121\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Street_map_service/input -o /dev/shm/work/Street_map_service/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Street_map_service/Street_map_service.dict -- data/linux/processed-challenges/Street_map_service/bin/Street_map_service\n'
+p161
+I5
+tp162
+a(I9720
+S'start_time     : 1500112121\nlast_update    : 1500121799\nfuzzer_pid     : 17590\ncycles_done    : 0\nexecs_done     : 7964532\nexecs_per_sec  : 780.98\npaths_total    : 485\npaths_favored  : 161\npaths_found    : 484\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 343\npending_favs   : 57\npending_total  : 343\nvariable_paths : 0\nbitmap_cvg     : 1.59%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500121710\nlast_crash     : 0\nlast_hang      : 1500121121\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Street_map_service/input -o /dev/shm/work/Street_map_service/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Street_map_service/Street_map_service.dict -- data/linux/processed-challenges/Street_map_service/bin/Street_map_service\n'
+p163
+I0
+tp164
+a(I9840
+S'start_time     : 1500112121\nlast_update    : 1500121919\nfuzzer_pid     : 17590\ncycles_done    : 0\nexecs_done     : 8069913\nexecs_per_sec  : 789.59\npaths_total    : 485\npaths_favored  : 161\npaths_found    : 484\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 351\npending_favs   : 54\npending_total  : 339\nvariable_paths : 0\nbitmap_cvg     : 1.59%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500121710\nlast_crash     : 0\nlast_hang      : 1500121121\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Street_map_service/input -o /dev/shm/work/Street_map_service/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Street_map_service/Street_map_service.dict -- data/linux/processed-challenges/Street_map_service/bin/Street_map_service\n'
+p165
+I0
+tp166
+a(I9960
+S'start_time     : 1500112121\nlast_update    : 1500122039\nfuzzer_pid     : 17590\ncycles_done    : 0\nexecs_done     : 8161229\nexecs_per_sec  : 745.41\npaths_total    : 486\npaths_favored  : 162\npaths_found    : 485\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 353\npending_favs   : 54\npending_total  : 339\nvariable_paths : 0\nbitmap_cvg     : 1.59%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500121985\nlast_crash     : 0\nlast_hang      : 1500121121\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Street_map_service/input -o /dev/shm/work/Street_map_service/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Street_map_service/Street_map_service.dict -- data/linux/processed-challenges/Street_map_service/bin/Street_map_service\n'
+p167
+I1
+tp168
+a(I10080
+S'start_time     : 1500112121\nlast_update    : 1500122159\nfuzzer_pid     : 17590\ncycles_done    : 0\nexecs_done     : 8248098\nexecs_per_sec  : 682.24\npaths_total    : 486\npaths_favored  : 162\npaths_found    : 485\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 355\npending_favs   : 53\npending_total  : 338\nvariable_paths : 0\nbitmap_cvg     : 1.59%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500121985\nlast_crash     : 0\nlast_hang      : 1500121121\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Street_map_service/input -o /dev/shm/work/Street_map_service/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Street_map_service/Street_map_service.dict -- data/linux/processed-challenges/Street_map_service/bin/Street_map_service\n'
+p169
+I1
+tp170
+a(I10200
+S'start_time     : 1500112121\nlast_update    : 1500122279\nfuzzer_pid     : 17590\ncycles_done    : 0\nexecs_done     : 8345160\nexecs_per_sec  : 832.58\npaths_total    : 487\npaths_favored  : 162\npaths_found    : 486\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 359\npending_favs   : 51\npending_total  : 337\nvariable_paths : 0\nbitmap_cvg     : 1.59%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500122193\nlast_crash     : 0\nlast_hang      : 1500121121\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Street_map_service/input -o /dev/shm/work/Street_map_service/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Street_map_service/Street_map_service.dict -- data/linux/processed-challenges/Street_map_service/bin/Street_map_service\n'
+p171
+I1
+tp172
+a(I10320
+S'start_time     : 1500112121\nlast_update    : 1500122400\nfuzzer_pid     : 17590\ncycles_done    : 0\nexecs_done     : 8444090\nexecs_per_sec  : 799.32\npaths_total    : 488\npaths_favored  : 162\npaths_found    : 487\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 360\npending_favs   : 50\npending_total  : 337\nvariable_paths : 0\nbitmap_cvg     : 1.59%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500122327\nlast_crash     : 0\nlast_hang      : 1500121121\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Street_map_service/input -o /dev/shm/work/Street_map_service/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Street_map_service/Street_map_service.dict -- data/linux/processed-challenges/Street_map_service/bin/Street_map_service\n'
+p173
+I2
+tp174
+a(I10440
+S'start_time     : 1500112121\nlast_update    : 1500122520\nfuzzer_pid     : 17590\ncycles_done    : 0\nexecs_done     : 8544068\nexecs_per_sec  : 770.39\npaths_total    : 490\npaths_favored  : 164\npaths_found    : 489\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 361\npending_favs   : 51\npending_total  : 338\nvariable_paths : 0\nbitmap_cvg     : 1.59%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500122433\nlast_crash     : 0\nlast_hang      : 1500121121\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Street_map_service/input -o /dev/shm/work/Street_map_service/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Street_map_service/Street_map_service.dict -- data/linux/processed-challenges/Street_map_service/bin/Street_map_service\n'
+p175
+I1
+tp176
+a(I10560
+S'start_time     : 1500112121\nlast_update    : 1500122640\nfuzzer_pid     : 17590\ncycles_done    : 0\nexecs_done     : 8644881\nexecs_per_sec  : 799.21\npaths_total    : 493\npaths_favored  : 164\npaths_found    : 492\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 369\npending_favs   : 50\npending_total  : 339\nvariable_paths : 0\nbitmap_cvg     : 1.59%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500122621\nlast_crash     : 0\nlast_hang      : 1500121121\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Street_map_service/input -o /dev/shm/work/Street_map_service/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Street_map_service/Street_map_service.dict -- data/linux/processed-challenges/Street_map_service/bin/Street_map_service\n'
+p177
+I3
+tp178
+a(I10680
+S'start_time     : 1500112121\nlast_update    : 1500122760\nfuzzer_pid     : 17590\ncycles_done    : 0\nexecs_done     : 8739360\nexecs_per_sec  : 759.35\npaths_total    : 496\npaths_favored  : 164\npaths_found    : 495\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 372\npending_favs   : 52\npending_total  : 341\nvariable_paths : 0\nbitmap_cvg     : 1.60%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500122712\nlast_crash     : 0\nlast_hang      : 1500121121\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Street_map_service/input -o /dev/shm/work/Street_map_service/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Street_map_service/Street_map_service.dict -- data/linux/processed-challenges/Street_map_service/bin/Street_map_service\n'
+p179
+I2
+tp180
+a.

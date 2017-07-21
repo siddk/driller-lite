@@ -1,0 +1,6 @@
+set( SERVICE_ID "00038" )
+set( POLLS_RELEASE_SEED "2100533457" )
+set( AUTHOR_ID "NRFIN" )
+add_compile_options( -O0 -g -Wall -Wextra -Wno-overlength-strings -Wno-missing-field-initializers -Wno-sign-compare -Wno-unused-function )
+set( POLLS_TESTING_SEED "-860155297" )
+buildCB()

@@ -1,0 +1,452 @@
+(lp0
+(I0
+S'start_time     : 1500209224\nlast_update    : 1500209224\nfuzzer_pid     : 13639\ncycles_done    : 0\nexecs_done     : 10\nexecs_per_sec  : 144.93\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 1\npending_total  : 1\nvariable_paths : 0\nbitmap_cvg     : 0.14%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/cyber_blogger/input -o /dev/shm/work/cyber_blogger/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/cyber_blogger/cyber_blogger.dict -- data/linux/processed-challenges/cyber_blogger/bin/cyber_blogger\n'
+p1
+I25
+tp2
+a(I120
+S'start_time     : 1500209224\nlast_update    : 1500209344\nfuzzer_pid     : 13639\ncycles_done    : 0\nexecs_done     : 69940\nexecs_per_sec  : 577.84\npaths_total    : 72\npaths_favored  : 1\npaths_found    : 71\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 1\npending_total  : 72\nvariable_paths : 0\nbitmap_cvg     : 0.65%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500209331\nlast_crash     : 0\nlast_hang      : 1500209292\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/cyber_blogger/input -o /dev/shm/work/cyber_blogger/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/cyber_blogger/cyber_blogger.dict -- data/linux/processed-challenges/cyber_blogger/bin/cyber_blogger\n'
+p3
+I48
+tp4
+a(I240
+S'start_time     : 1500209224\nlast_update    : 1500209464\nfuzzer_pid     : 13639\ncycles_done    : 0\nexecs_done     : 138924\nexecs_per_sec  : 590.08\npaths_total    : 80\npaths_favored  : 1\npaths_found    : 79\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 1\npending_total  : 80\nvariable_paths : 0\nbitmap_cvg     : 0.65%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500209408\nlast_crash     : 0\nlast_hang      : 1500209350\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/cyber_blogger/input -o /dev/shm/work/cyber_blogger/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/cyber_blogger/cyber_blogger.dict -- data/linux/processed-challenges/cyber_blogger/bin/cyber_blogger\n'
+p5
+I7
+tp6
+a(I360
+S'start_time     : 1500209224\nlast_update    : 1500209585\nfuzzer_pid     : 13639\ncycles_done    : 0\nexecs_done     : 208986\nexecs_per_sec  : 589.03\npaths_total    : 90\npaths_favored  : 31\npaths_found    : 89\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 5\npending_favs   : 30\npending_total  : 88\nvariable_paths : 0\nbitmap_cvg     : 0.67%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500209574\nlast_crash     : 0\nlast_hang      : 1500209471\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/cyber_blogger/input -o /dev/shm/work/cyber_blogger/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/cyber_blogger/cyber_blogger.dict -- data/linux/processed-challenges/cyber_blogger/bin/cyber_blogger\n'
+p7
+I10
+tp8
+a(I480
+S'start_time     : 1500209224\nlast_update    : 1500209705\nfuzzer_pid     : 13639\ncycles_done    : 0\nexecs_done     : 279394\nexecs_per_sec  : 583.93\npaths_total    : 93\npaths_favored  : 31\npaths_found    : 92\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 5\npending_favs   : 30\npending_total  : 91\nvariable_paths : 0\nbitmap_cvg     : 0.67%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500209629\nlast_crash     : 0\nlast_hang      : 1500209471\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/cyber_blogger/input -o /dev/shm/work/cyber_blogger/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/cyber_blogger/cyber_blogger.dict -- data/linux/processed-challenges/cyber_blogger/bin/cyber_blogger\n'
+p9
+I3
+tp10
+a(I600
+S'start_time     : 1500209224\nlast_update    : 1500209825\nfuzzer_pid     : 13639\ncycles_done    : 0\nexecs_done     : 349009\nexecs_per_sec  : 529.55\npaths_total    : 104\npaths_favored  : 35\npaths_found    : 103\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 10\npending_favs   : 31\npending_total  : 99\nvariable_paths : 0\nbitmap_cvg     : 0.70%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500209824\nlast_crash     : 0\nlast_hang      : 1500209471\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/cyber_blogger/input -o /dev/shm/work/cyber_blogger/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/cyber_blogger/cyber_blogger.dict -- data/linux/processed-challenges/cyber_blogger/bin/cyber_blogger\n'
+p11
+I11
+tp12
+a(I720
+S'start_time     : 1500209224\nlast_update    : 1500209945\nfuzzer_pid     : 13639\ncycles_done    : 0\nexecs_done     : 415756\nexecs_per_sec  : 563.15\npaths_total    : 110\npaths_favored  : 37\npaths_found    : 109\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 18\npending_favs   : 27\npending_total  : 99\nvariable_paths : 0\nbitmap_cvg     : 0.72%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500209938\nlast_crash     : 0\nlast_hang      : 1500209832\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/cyber_blogger/input -o /dev/shm/work/cyber_blogger/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/cyber_blogger/cyber_blogger.dict -- data/linux/processed-challenges/cyber_blogger/bin/cyber_blogger\n'
+p13
+I6
+tp14
+a(I840
+S'start_time     : 1500209224\nlast_update    : 1500210065\nfuzzer_pid     : 13639\ncycles_done    : 0\nexecs_done     : 482850\nexecs_per_sec  : 561.43\npaths_total    : 114\npaths_favored  : 37\npaths_found    : 113\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 23\npending_favs   : 26\npending_total  : 102\nvariable_paths : 0\nbitmap_cvg     : 0.72%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500210023\nlast_crash     : 0\nlast_hang      : 1500209832\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/cyber_blogger/input -o /dev/shm/work/cyber_blogger/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/cyber_blogger/cyber_blogger.dict -- data/linux/processed-challenges/cyber_blogger/bin/cyber_blogger\n'
+p15
+I4
+tp16
+a(I960
+S'start_time     : 1500209224\nlast_update    : 1500210186\nfuzzer_pid     : 13639\ncycles_done    : 0\nexecs_done     : 550576\nexecs_per_sec  : 499.62\npaths_total    : 137\npaths_favored  : 38\npaths_found    : 136\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 29\npending_favs   : 26\npending_total  : 124\nvariable_paths : 0\nbitmap_cvg     : 0.85%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500210186\nlast_crash     : 0\nlast_hang      : 1500209832\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/cyber_blogger/input -o /dev/shm/work/cyber_blogger/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/cyber_blogger/cyber_blogger.dict -- data/linux/processed-challenges/cyber_blogger/bin/cyber_blogger\n'
+p17
+I23
+tp18
+a(I1080
+S'start_time     : 1500209224\nlast_update    : 1500210306\nfuzzer_pid     : 13639\ncycles_done    : 0\nexecs_done     : 611045\nexecs_per_sec  : 505.15\npaths_total    : 162\npaths_favored  : 38\npaths_found    : 161\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 29\npending_favs   : 26\npending_total  : 149\nvariable_paths : 0\nbitmap_cvg     : 0.96%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500210291\nlast_crash     : 0\nlast_hang      : 1500209832\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/cyber_blogger/input -o /dev/shm/work/cyber_blogger/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/cyber_blogger/cyber_blogger.dict -- data/linux/processed-challenges/cyber_blogger/bin/cyber_blogger\n'
+p19
+I25
+tp20
+a(I1200
+S'start_time     : 1500209224\nlast_update    : 1500210426\nfuzzer_pid     : 13639\ncycles_done    : 0\nexecs_done     : 670017\nexecs_per_sec  : 371.28\npaths_total    : 171\npaths_favored  : 51\npaths_found    : 170\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 36\npending_favs   : 41\npending_total  : 157\nvariable_paths : 0\nbitmap_cvg     : 0.99%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500210420\nlast_crash     : 0\nlast_hang      : 1500209832\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/cyber_blogger/input -o /dev/shm/work/cyber_blogger/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/cyber_blogger/cyber_blogger.dict -- data/linux/processed-challenges/cyber_blogger/bin/cyber_blogger\n'
+p21
+I9
+tp22
+a(I1320
+S'start_time     : 1500209224\nlast_update    : 1500210546\nfuzzer_pid     : 13639\ncycles_done    : 0\nexecs_done     : 719604\nexecs_per_sec  : 475.95\npaths_total    : 175\npaths_favored  : 54\npaths_found    : 174\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 52\npending_favs   : 43\npending_total  : 158\nvariable_paths : 0\nbitmap_cvg     : 0.99%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500210455\nlast_crash     : 0\nlast_hang      : 1500209832\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/cyber_blogger/input -o /dev/shm/work/cyber_blogger/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/cyber_blogger/cyber_blogger.dict -- data/linux/processed-challenges/cyber_blogger/bin/cyber_blogger\n'
+p23
+I4
+tp24
+a(I1440
+S'start_time     : 1500209224\nlast_update    : 1500210666\nfuzzer_pid     : 13639\ncycles_done    : 0\nexecs_done     : 769482\nexecs_per_sec  : 505.00\npaths_total    : 180\npaths_favored  : 54\npaths_found    : 179\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 55\npending_favs   : 42\npending_total  : 162\nvariable_paths : 0\nbitmap_cvg     : 1.00%\nunique_crashes : 0\nunique_hangs   : 7\nlast_path      : 1500210664\nlast_crash     : 0\nlast_hang      : 1500210633\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/cyber_blogger/input -o /dev/shm/work/cyber_blogger/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/cyber_blogger/cyber_blogger.dict -- data/linux/processed-challenges/cyber_blogger/bin/cyber_blogger\n'
+p25
+I5
+tp26
+a(I1560
+S'start_time     : 1500209224\nlast_update    : 1500210726\nfuzzer_pid     : 13639\ncycles_done    : 0\nexecs_done     : 800322\nexecs_per_sec  : 502.08\npaths_total    : 180\npaths_favored  : 54\npaths_found    : 179\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 55\npending_favs   : 42\npending_total  : 162\nvariable_paths : 0\nbitmap_cvg     : 1.00%\nunique_crashes : 0\nunique_hangs   : 7\nlast_path      : 1500210664\nlast_crash     : 0\nlast_hang      : 1500210633\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/cyber_blogger/input -o /dev/shm/work/cyber_blogger/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/cyber_blogger/cyber_blogger.dict -- data/linux/processed-challenges/cyber_blogger/bin/cyber_blogger\n'
+p27
+I2
+tp28
+a(I1680
+S'start_time     : 1500209224\nlast_update    : 1500210847\nfuzzer_pid     : 13639\ncycles_done    : 0\nexecs_done     : 862352\nexecs_per_sec  : 517.88\npaths_total    : 183\npaths_favored  : 54\npaths_found    : 182\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 55\npending_favs   : 42\npending_total  : 165\nvariable_paths : 0\nbitmap_cvg     : 1.00%\nunique_crashes : 0\nunique_hangs   : 7\nlast_path      : 1500210802\nlast_crash     : 0\nlast_hang      : 1500210633\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/cyber_blogger/input -o /dev/shm/work/cyber_blogger/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/cyber_blogger/cyber_blogger.dict -- data/linux/processed-challenges/cyber_blogger/bin/cyber_blogger\n'
+p29
+I2
+tp30
+a(I1800
+S'start_time     : 1500209224\nlast_update    : 1500210967\nfuzzer_pid     : 13639\ncycles_done    : 0\nexecs_done     : 909625\nexecs_per_sec  : 183.69\npaths_total    : 184\npaths_favored  : 55\npaths_found    : 183\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 62\npending_favs   : 42\npending_total  : 165\nvariable_paths : 0\nbitmap_cvg     : 1.00%\nunique_crashes : 0\nunique_hangs   : 7\nlast_path      : 1500210888\nlast_crash     : 0\nlast_hang      : 1500210633\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/cyber_blogger/input -o /dev/shm/work/cyber_blogger/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/cyber_blogger/cyber_blogger.dict -- data/linux/processed-challenges/cyber_blogger/bin/cyber_blogger\n'
+p31
+I1
+tp32
+a(I1920
+S'start_time     : 1500209224\nlast_update    : 1500211087\nfuzzer_pid     : 13639\ncycles_done    : 0\nexecs_done     : 932026\nexecs_per_sec  : 181.81\npaths_total    : 186\npaths_favored  : 55\npaths_found    : 185\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 62\npending_favs   : 42\npending_total  : 167\nvariable_paths : 0\nbitmap_cvg     : 1.00%\nunique_crashes : 0\nunique_hangs   : 7\nlast_path      : 1500211086\nlast_crash     : 0\nlast_hang      : 1500210633\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/cyber_blogger/input -o /dev/shm/work/cyber_blogger/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/cyber_blogger/cyber_blogger.dict -- data/linux/processed-challenges/cyber_blogger/bin/cyber_blogger\n'
+p33
+I3
+tp34
+a(I2040
+S'start_time     : 1500209224\nlast_update    : 1500211207\nfuzzer_pid     : 13639\ncycles_done    : 0\nexecs_done     : 961241\nexecs_per_sec  : 248.25\npaths_total    : 188\npaths_favored  : 55\npaths_found    : 187\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 62\npending_favs   : 42\npending_total  : 169\nvariable_paths : 0\nbitmap_cvg     : 1.00%\nunique_crashes : 0\nunique_hangs   : 7\nlast_path      : 1500211124\nlast_crash     : 0\nlast_hang      : 1500210633\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/cyber_blogger/input -o /dev/shm/work/cyber_blogger/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/cyber_blogger/cyber_blogger.dict -- data/linux/processed-challenges/cyber_blogger/bin/cyber_blogger\n'
+p35
+I2
+tp36
+a(I2160
+S'start_time     : 1500209224\nlast_update    : 1500211327\nfuzzer_pid     : 13639\ncycles_done    : 0\nexecs_done     : 1019613\nexecs_per_sec  : 494.58\npaths_total    : 191\npaths_favored  : 55\npaths_found    : 190\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 77\npending_favs   : 40\npending_total  : 170\nvariable_paths : 0\nbitmap_cvg     : 1.00%\nunique_crashes : 0\nunique_hangs   : 7\nlast_path      : 1500211283\nlast_crash     : 0\nlast_hang      : 1500210633\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/cyber_blogger/input -o /dev/shm/work/cyber_blogger/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/cyber_blogger/cyber_blogger.dict -- data/linux/processed-challenges/cyber_blogger/bin/cyber_blogger\n'
+p37
+I5
+tp38
+a(I2280
+S'start_time     : 1500209224\nlast_update    : 1500211448\nfuzzer_pid     : 13639\ncycles_done    : 0\nexecs_done     : 1079159\nexecs_per_sec  : 491.97\npaths_total    : 197\npaths_favored  : 55\npaths_found    : 196\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 85\npending_favs   : 38\npending_total  : 174\nvariable_paths : 0\nbitmap_cvg     : 1.00%\nunique_crashes : 0\nunique_hangs   : 8\nlast_path      : 1500211391\nlast_crash     : 0\nlast_hang      : 1500211396\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/cyber_blogger/input -o /dev/shm/work/cyber_blogger/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/cyber_blogger/cyber_blogger.dict -- data/linux/processed-challenges/cyber_blogger/bin/cyber_blogger\n'
+p39
+I2
+tp40
+a(I2400
+S'start_time     : 1500209224\nlast_update    : 1500211568\nfuzzer_pid     : 13639\ncycles_done    : 0\nexecs_done     : 1139343\nexecs_per_sec  : 480.93\npaths_total    : 199\npaths_favored  : 55\npaths_found    : 198\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 96\npending_favs   : 36\npending_total  : 174\nvariable_paths : 0\nbitmap_cvg     : 1.00%\nunique_crashes : 0\nunique_hangs   : 8\nlast_path      : 1500211547\nlast_crash     : 0\nlast_hang      : 1500211396\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/cyber_blogger/input -o /dev/shm/work/cyber_blogger/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/cyber_blogger/cyber_blogger.dict -- data/linux/processed-challenges/cyber_blogger/bin/cyber_blogger\n'
+p41
+I3
+tp42
+a(I2520
+S'start_time     : 1500209224\nlast_update    : 1500211688\nfuzzer_pid     : 13639\ncycles_done    : 0\nexecs_done     : 1196009\nexecs_per_sec  : 469.02\npaths_total    : 207\npaths_favored  : 55\npaths_found    : 206\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 99\npending_favs   : 35\npending_total  : 181\nvariable_paths : 0\nbitmap_cvg     : 1.00%\nunique_crashes : 0\nunique_hangs   : 8\nlast_path      : 1500211655\nlast_crash     : 0\nlast_hang      : 1500211396\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/cyber_blogger/input -o /dev/shm/work/cyber_blogger/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/cyber_blogger/cyber_blogger.dict -- data/linux/processed-challenges/cyber_blogger/bin/cyber_blogger\n'
+p43
+I8
+tp44
+a(I2640
+S'start_time     : 1500209224\nlast_update    : 1500211808\nfuzzer_pid     : 13639\ncycles_done    : 0\nexecs_done     : 1252674\nexecs_per_sec  : 473.38\npaths_total    : 208\npaths_favored  : 55\npaths_found    : 207\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 99\npending_favs   : 35\npending_total  : 182\nvariable_paths : 0\nbitmap_cvg     : 1.00%\nunique_crashes : 0\nunique_hangs   : 8\nlast_path      : 1500211721\nlast_crash     : 0\nlast_hang      : 1500211396\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/cyber_blogger/input -o /dev/shm/work/cyber_blogger/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/cyber_blogger/cyber_blogger.dict -- data/linux/processed-challenges/cyber_blogger/bin/cyber_blogger\n'
+p45
+I1
+tp46
+a(I2760
+S'start_time     : 1500209224\nlast_update    : 1500211929\nfuzzer_pid     : 13639\ncycles_done    : 0\nexecs_done     : 1309268\nexecs_per_sec  : 461.77\npaths_total    : 210\npaths_favored  : 55\npaths_found    : 209\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 99\npending_favs   : 35\npending_total  : 184\nvariable_paths : 0\nbitmap_cvg     : 1.00%\nunique_crashes : 0\nunique_hangs   : 9\nlast_path      : 1500211871\nlast_crash     : 0\nlast_hang      : 1500211881\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/cyber_blogger/input -o /dev/shm/work/cyber_blogger/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/cyber_blogger/cyber_blogger.dict -- data/linux/processed-challenges/cyber_blogger/bin/cyber_blogger\n'
+p47
+I1
+tp48
+a(I2880
+S'start_time     : 1500209224\nlast_update    : 1500212049\nfuzzer_pid     : 13639\ncycles_done    : 0\nexecs_done     : 1368558\nexecs_per_sec  : 462.33\npaths_total    : 210\npaths_favored  : 55\npaths_found    : 209\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 103\npending_favs   : 34\npending_total  : 181\nvariable_paths : 0\nbitmap_cvg     : 1.00%\nunique_crashes : 0\nunique_hangs   : 10\nlast_path      : 1500211871\nlast_crash     : 0\nlast_hang      : 1500211965\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/cyber_blogger/input -o /dev/shm/work/cyber_blogger/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/cyber_blogger/cyber_blogger.dict -- data/linux/processed-challenges/cyber_blogger/bin/cyber_blogger\n'
+p49
+I2
+tp50
+a(I3000
+S'start_time     : 1500209224\nlast_update    : 1500212169\nfuzzer_pid     : 13639\ncycles_done    : 0\nexecs_done     : 1421141\nexecs_per_sec  : 439.57\npaths_total    : 213\npaths_favored  : 55\npaths_found    : 212\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 108\npending_favs   : 32\npending_total  : 182\nvariable_paths : 0\nbitmap_cvg     : 1.00%\nunique_crashes : 0\nunique_hangs   : 10\nlast_path      : 1500212146\nlast_crash     : 0\nlast_hang      : 1500211965\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/cyber_blogger/input -o /dev/shm/work/cyber_blogger/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/cyber_blogger/cyber_blogger.dict -- data/linux/processed-challenges/cyber_blogger/bin/cyber_blogger\n'
+p51
+I3
+tp52
+a(I3120
+S'start_time     : 1500209224\nlast_update    : 1500212289\nfuzzer_pid     : 13639\ncycles_done    : 0\nexecs_done     : 1473627\nexecs_per_sec  : 316.97\npaths_total    : 215\npaths_favored  : 55\npaths_found    : 214\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 117\npending_favs   : 30\npending_total  : 182\nvariable_paths : 0\nbitmap_cvg     : 1.00%\nunique_crashes : 0\nunique_hangs   : 10\nlast_path      : 1500212198\nlast_crash     : 0\nlast_hang      : 1500211965\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/cyber_blogger/input -o /dev/shm/work/cyber_blogger/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/cyber_blogger/cyber_blogger.dict -- data/linux/processed-challenges/cyber_blogger/bin/cyber_blogger\n'
+p53
+I4
+tp54
+a(I3240
+S'start_time     : 1500209224\nlast_update    : 1500212410\nfuzzer_pid     : 13639\ncycles_done    : 0\nexecs_done     : 1538718\nexecs_per_sec  : 544.22\npaths_total    : 221\npaths_favored  : 55\npaths_found    : 220\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 119\npending_favs   : 29\npending_total  : 187\nvariable_paths : 0\nbitmap_cvg     : 1.01%\nunique_crashes : 0\nunique_hangs   : 10\nlast_path      : 1500212391\nlast_crash     : 0\nlast_hang      : 1500211965\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/cyber_blogger/input -o /dev/shm/work/cyber_blogger/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/cyber_blogger/cyber_blogger.dict -- data/linux/processed-challenges/cyber_blogger/bin/cyber_blogger\n'
+p55
+I3
+tp56
+a(I3360
+S'start_time     : 1500209224\nlast_update    : 1500212530\nfuzzer_pid     : 13639\ncycles_done    : 0\nexecs_done     : 1604415\nexecs_per_sec  : 555.08\npaths_total    : 224\npaths_favored  : 55\npaths_found    : 223\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 123\npending_favs   : 29\npending_total  : 189\nvariable_paths : 0\nbitmap_cvg     : 1.01%\nunique_crashes : 0\nunique_hangs   : 10\nlast_path      : 1500212511\nlast_crash     : 0\nlast_hang      : 1500211965\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/cyber_blogger/input -o /dev/shm/work/cyber_blogger/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/cyber_blogger/cyber_blogger.dict -- data/linux/processed-challenges/cyber_blogger/bin/cyber_blogger\n'
+p57
+I2
+tp58
+a(I3480
+S'start_time     : 1500209224\nlast_update    : 1500212650\nfuzzer_pid     : 13639\ncycles_done    : 0\nexecs_done     : 1663124\nexecs_per_sec  : 424.75\npaths_total    : 228\npaths_favored  : 55\npaths_found    : 227\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 124\npending_favs   : 28\npending_total  : 192\nvariable_paths : 0\nbitmap_cvg     : 1.01%\nunique_crashes : 0\nunique_hangs   : 10\nlast_path      : 1500212609\nlast_crash     : 0\nlast_hang      : 1500211965\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/cyber_blogger/input -o /dev/shm/work/cyber_blogger/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/cyber_blogger/cyber_blogger.dict -- data/linux/processed-challenges/cyber_blogger/bin/cyber_blogger\n'
+p59
+I6
+tp60
+a(I3600
+S'start_time     : 1500209224\nlast_update    : 1500212770\nfuzzer_pid     : 13639\ncycles_done    : 0\nexecs_done     : 1714256\nexecs_per_sec  : 414.03\npaths_total    : 230\npaths_favored  : 55\npaths_found    : 229\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 124\npending_favs   : 28\npending_total  : 194\nvariable_paths : 0\nbitmap_cvg     : 1.01%\nunique_crashes : 0\nunique_hangs   : 11\nlast_path      : 1500212683\nlast_crash     : 0\nlast_hang      : 1500212691\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/cyber_blogger/input -o /dev/shm/work/cyber_blogger/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/cyber_blogger/cyber_blogger.dict -- data/linux/processed-challenges/cyber_blogger/bin/cyber_blogger\n'
+p61
+I1
+tp62
+a(I3720
+S'start_time     : 1500209224\nlast_update    : 1500212890\nfuzzer_pid     : 13639\ncycles_done    : 0\nexecs_done     : 1764947\nexecs_per_sec  : 406.55\npaths_total    : 232\npaths_favored  : 58\npaths_found    : 231\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 133\npending_favs   : 30\npending_total  : 195\nvariable_paths : 0\nbitmap_cvg     : 1.02%\nunique_crashes : 0\nunique_hangs   : 11\nlast_path      : 1500212831\nlast_crash     : 0\nlast_hang      : 1500212691\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/cyber_blogger/input -o /dev/shm/work/cyber_blogger/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/cyber_blogger/cyber_blogger.dict -- data/linux/processed-challenges/cyber_blogger/bin/cyber_blogger\n'
+p63
+I5
+tp64
+a(I3840
+S'start_time     : 1500209224\nlast_update    : 1500213011\nfuzzer_pid     : 13639\ncycles_done    : 0\nexecs_done     : 1818665\nexecs_per_sec  : 448.36\npaths_total    : 236\npaths_favored  : 58\npaths_found    : 235\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 133\npending_favs   : 30\npending_total  : 199\nvariable_paths : 0\nbitmap_cvg     : 1.02%\nunique_crashes : 0\nunique_hangs   : 11\nlast_path      : 1500212934\nlast_crash     : 0\nlast_hang      : 1500212691\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/cyber_blogger/input -o /dev/shm/work/cyber_blogger/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/cyber_blogger/cyber_blogger.dict -- data/linux/processed-challenges/cyber_blogger/bin/cyber_blogger\n'
+p65
+I1
+tp66
+a(I3960
+S'start_time     : 1500209224\nlast_update    : 1500213131\nfuzzer_pid     : 13639\ncycles_done    : 0\nexecs_done     : 1872950\nexecs_per_sec  : 466.80\npaths_total    : 239\npaths_favored  : 58\npaths_found    : 238\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 133\npending_favs   : 30\npending_total  : 202\nvariable_paths : 0\nbitmap_cvg     : 1.04%\nunique_crashes : 0\nunique_hangs   : 12\nlast_path      : 1500213107\nlast_crash     : 0\nlast_hang      : 1500213031\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/cyber_blogger/input -o /dev/shm/work/cyber_blogger/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/cyber_blogger/cyber_blogger.dict -- data/linux/processed-challenges/cyber_blogger/bin/cyber_blogger\n'
+p67
+I2
+tp68
+a(I4080
+S'start_time     : 1500209224\nlast_update    : 1500213251\nfuzzer_pid     : 13639\ncycles_done    : 0\nexecs_done     : 1928301\nexecs_per_sec  : 469.87\npaths_total    : 240\npaths_favored  : 58\npaths_found    : 239\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 133\npending_favs   : 30\npending_total  : 203\nvariable_paths : 0\nbitmap_cvg     : 1.04%\nunique_crashes : 0\nunique_hangs   : 12\nlast_path      : 1500213219\nlast_crash     : 0\nlast_hang      : 1500213031\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/cyber_blogger/input -o /dev/shm/work/cyber_blogger/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/cyber_blogger/cyber_blogger.dict -- data/linux/processed-challenges/cyber_blogger/bin/cyber_blogger\n'
+p69
+I2
+tp70
+a(I4200
+S'start_time     : 1500209224\nlast_update    : 1500213371\nfuzzer_pid     : 13639\ncycles_done    : 0\nexecs_done     : 1984798\nexecs_per_sec  : 466.88\npaths_total    : 245\npaths_favored  : 54\npaths_found    : 244\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 145\npending_favs   : 26\npending_total  : 205\nvariable_paths : 0\nbitmap_cvg     : 1.04%\nunique_crashes : 0\nunique_hangs   : 12\nlast_path      : 1500213360\nlast_crash     : 0\nlast_hang      : 1500213031\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/cyber_blogger/input -o /dev/shm/work/cyber_blogger/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/cyber_blogger/cyber_blogger.dict -- data/linux/processed-challenges/cyber_blogger/bin/cyber_blogger\n'
+p71
+I13
+tp72
+a(I4320
+S'start_time     : 1500209224\nlast_update    : 1500213491\nfuzzer_pid     : 13639\ncycles_done    : 0\nexecs_done     : 2029755\nexecs_per_sec  : 352.46\npaths_total    : 258\npaths_favored  : 54\npaths_found    : 257\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 145\npending_favs   : 26\npending_total  : 218\nvariable_paths : 0\nbitmap_cvg     : 1.07%\nunique_crashes : 0\nunique_hangs   : 13\nlast_path      : 1500213468\nlast_crash     : 0\nlast_hang      : 1500213430\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/cyber_blogger/input -o /dev/shm/work/cyber_blogger/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/cyber_blogger/cyber_blogger.dict -- data/linux/processed-challenges/cyber_blogger/bin/cyber_blogger\n'
+p73
+I7
+tp74
+a(I4440
+S'start_time     : 1500209224\nlast_update    : 1500213611\nfuzzer_pid     : 13639\ncycles_done    : 0\nexecs_done     : 2072785\nexecs_per_sec  : 370.10\npaths_total    : 263\npaths_favored  : 54\npaths_found    : 262\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 145\npending_favs   : 26\npending_total  : 223\nvariable_paths : 0\nbitmap_cvg     : 1.07%\nunique_crashes : 0\nunique_hangs   : 13\nlast_path      : 1500213584\nlast_crash     : 0\nlast_hang      : 1500213430\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/cyber_blogger/input -o /dev/shm/work/cyber_blogger/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/cyber_blogger/cyber_blogger.dict -- data/linux/processed-challenges/cyber_blogger/bin/cyber_blogger\n'
+p75
+I3
+tp76
+a(I4560
+S'start_time     : 1500209224\nlast_update    : 1500213732\nfuzzer_pid     : 13639\ncycles_done    : 0\nexecs_done     : 2117531\nexecs_per_sec  : 458.25\npaths_total    : 264\npaths_favored  : 63\npaths_found    : 263\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 151\npending_favs   : 31\npending_total  : 223\nvariable_paths : 0\nbitmap_cvg     : 1.07%\nunique_crashes : 0\nunique_hangs   : 15\nlast_path      : 1500213663\nlast_crash     : 0\nlast_hang      : 1500213638\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/cyber_blogger/input -o /dev/shm/work/cyber_blogger/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/cyber_blogger/cyber_blogger.dict -- data/linux/processed-challenges/cyber_blogger/bin/cyber_blogger\n'
+p77
+I0
+tp78
+a(I4680
+S'start_time     : 1500209224\nlast_update    : 1500213852\nfuzzer_pid     : 13639\ncycles_done    : 0\nexecs_done     : 2159057\nexecs_per_sec  : 226.66\npaths_total    : 264\npaths_favored  : 63\npaths_found    : 263\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 155\npending_favs   : 29\npending_total  : 221\nvariable_paths : 0\nbitmap_cvg     : 1.07%\nunique_crashes : 0\nunique_hangs   : 15\nlast_path      : 1500213663\nlast_crash     : 0\nlast_hang      : 1500213638\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/cyber_blogger/input -o /dev/shm/work/cyber_blogger/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/cyber_blogger/cyber_blogger.dict -- data/linux/processed-challenges/cyber_blogger/bin/cyber_blogger\n'
+p79
+I0
+tp80
+a(I4800
+S'start_time     : 1500209224\nlast_update    : 1500213972\nfuzzer_pid     : 13639\ncycles_done    : 0\nexecs_done     : 2202080\nexecs_per_sec  : 440.87\npaths_total    : 271\npaths_favored  : 63\npaths_found    : 270\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 157\npending_favs   : 28\npending_total  : 227\nvariable_paths : 0\nbitmap_cvg     : 1.07%\nunique_crashes : 0\nunique_hangs   : 15\nlast_path      : 1500213949\nlast_crash     : 0\nlast_hang      : 1500213638\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/cyber_blogger/input -o /dev/shm/work/cyber_blogger/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/cyber_blogger/cyber_blogger.dict -- data/linux/processed-challenges/cyber_blogger/bin/cyber_blogger\n'
+p81
+I8
+tp82
+a(I4920
+S'start_time     : 1500209224\nlast_update    : 1500214092\nfuzzer_pid     : 13639\ncycles_done    : 0\nexecs_done     : 2253484\nexecs_per_sec  : 424.89\npaths_total    : 273\npaths_favored  : 63\npaths_found    : 272\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 157\npending_favs   : 28\npending_total  : 229\nvariable_paths : 0\nbitmap_cvg     : 1.07%\nunique_crashes : 0\nunique_hangs   : 16\nlast_path      : 1500214040\nlast_crash     : 0\nlast_hang      : 1500214051\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/cyber_blogger/input -o /dev/shm/work/cyber_blogger/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/cyber_blogger/cyber_blogger.dict -- data/linux/processed-challenges/cyber_blogger/bin/cyber_blogger\n'
+p83
+I2
+tp84
+a(I5040
+S'start_time     : 1500209224\nlast_update    : 1500214212\nfuzzer_pid     : 13639\ncycles_done    : 0\nexecs_done     : 2305424\nexecs_per_sec  : 434.77\npaths_total    : 275\npaths_favored  : 63\npaths_found    : 274\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 157\npending_favs   : 28\npending_total  : 231\nvariable_paths : 0\nbitmap_cvg     : 1.07%\nunique_crashes : 0\nunique_hangs   : 16\nlast_path      : 1500214206\nlast_crash     : 0\nlast_hang      : 1500214051\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/cyber_blogger/input -o /dev/shm/work/cyber_blogger/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/cyber_blogger/cyber_blogger.dict -- data/linux/processed-challenges/cyber_blogger/bin/cyber_blogger\n'
+p85
+I3
+tp86
+a(I5160
+S'start_time     : 1500209224\nlast_update    : 1500214332\nfuzzer_pid     : 13639\ncycles_done    : 0\nexecs_done     : 2356482\nexecs_per_sec  : 436.43\npaths_total    : 278\npaths_favored  : 68\npaths_found    : 277\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 163\npending_favs   : 32\npending_total  : 233\nvariable_paths : 0\nbitmap_cvg     : 1.07%\nunique_crashes : 0\nunique_hangs   : 16\nlast_path      : 1500214325\nlast_crash     : 0\nlast_hang      : 1500214051\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/cyber_blogger/input -o /dev/shm/work/cyber_blogger/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/cyber_blogger/cyber_blogger.dict -- data/linux/processed-challenges/cyber_blogger/bin/cyber_blogger\n'
+p87
+I1
+tp88
+a(I5280
+S'start_time     : 1500209224\nlast_update    : 1500214453\nfuzzer_pid     : 13639\ncycles_done    : 0\nexecs_done     : 2413315\nexecs_per_sec  : 429.59\npaths_total    : 280\npaths_favored  : 68\npaths_found    : 279\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 171\npending_favs   : 29\npending_total  : 232\nvariable_paths : 0\nbitmap_cvg     : 1.07%\nunique_crashes : 0\nunique_hangs   : 16\nlast_path      : 1500214437\nlast_crash     : 0\nlast_hang      : 1500214051\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/cyber_blogger/input -o /dev/shm/work/cyber_blogger/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/cyber_blogger/cyber_blogger.dict -- data/linux/processed-challenges/cyber_blogger/bin/cyber_blogger\n'
+p89
+I2
+tp90
+a(I5400
+S'start_time     : 1500209224\nlast_update    : 1500214573\nfuzzer_pid     : 13639\ncycles_done    : 0\nexecs_done     : 2466013\nexecs_per_sec  : 454.17\npaths_total    : 281\npaths_favored  : 68\npaths_found    : 280\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 191\npending_favs   : 25\npending_total  : 230\nvariable_paths : 0\nbitmap_cvg     : 1.07%\nunique_crashes : 0\nunique_hangs   : 16\nlast_path      : 1500214558\nlast_crash     : 0\nlast_hang      : 1500214051\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/cyber_blogger/input -o /dev/shm/work/cyber_blogger/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/cyber_blogger/cyber_blogger.dict -- data/linux/processed-challenges/cyber_blogger/bin/cyber_blogger\n'
+p91
+I3
+tp92
+a(I5520
+S'start_time     : 1500209224\nlast_update    : 1500214693\nfuzzer_pid     : 13639\ncycles_done    : 0\nexecs_done     : 2522743\nexecs_per_sec  : 486.96\npaths_total    : 284\npaths_favored  : 68\npaths_found    : 283\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 200\npending_favs   : 24\npending_total  : 232\nvariable_paths : 0\nbitmap_cvg     : 1.07%\nunique_crashes : 0\nunique_hangs   : 16\nlast_path      : 1500214634\nlast_crash     : 0\nlast_hang      : 1500214051\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/cyber_blogger/input -o /dev/shm/work/cyber_blogger/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/cyber_blogger/cyber_blogger.dict -- data/linux/processed-challenges/cyber_blogger/bin/cyber_blogger\n'
+p93
+I2
+tp94
+a(I5640
+S'start_time     : 1500209224\nlast_update    : 1500214813\nfuzzer_pid     : 13639\ncycles_done    : 0\nexecs_done     : 2581857\nexecs_per_sec  : 486.77\npaths_total    : 286\npaths_favored  : 68\npaths_found    : 285\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 200\npending_favs   : 24\npending_total  : 234\nvariable_paths : 0\nbitmap_cvg     : 1.07%\nunique_crashes : 0\nunique_hangs   : 16\nlast_path      : 1500214753\nlast_crash     : 0\nlast_hang      : 1500214051\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/cyber_blogger/input -o /dev/shm/work/cyber_blogger/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/cyber_blogger/cyber_blogger.dict -- data/linux/processed-challenges/cyber_blogger/bin/cyber_blogger\n'
+p95
+I1
+tp96
+a(I5760
+S'start_time     : 1500209224\nlast_update    : 1500214934\nfuzzer_pid     : 13639\ncycles_done    : 0\nexecs_done     : 2641150\nexecs_per_sec  : 486.72\npaths_total    : 287\npaths_favored  : 68\npaths_found    : 286\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 200\npending_favs   : 24\npending_total  : 235\nvariable_paths : 0\nbitmap_cvg     : 1.07%\nunique_crashes : 0\nunique_hangs   : 16\nlast_path      : 1500214875\nlast_crash     : 0\nlast_hang      : 1500214051\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/cyber_blogger/input -o /dev/shm/work/cyber_blogger/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/cyber_blogger/cyber_blogger.dict -- data/linux/processed-challenges/cyber_blogger/bin/cyber_blogger\n'
+p97
+I1
+tp98
+a(I5880
+S'start_time     : 1500209224\nlast_update    : 1500215054\nfuzzer_pid     : 13639\ncycles_done    : 0\nexecs_done     : 2692439\nexecs_per_sec  : 418.18\npaths_total    : 287\npaths_favored  : 68\npaths_found    : 286\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 204\npending_favs   : 22\npending_total  : 233\nvariable_paths : 0\nbitmap_cvg     : 1.07%\nunique_crashes : 0\nunique_hangs   : 16\nlast_path      : 1500214875\nlast_crash     : 0\nlast_hang      : 1500214051\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/cyber_blogger/input -o /dev/shm/work/cyber_blogger/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/cyber_blogger/cyber_blogger.dict -- data/linux/processed-challenges/cyber_blogger/bin/cyber_blogger\n'
+p99
+I0
+tp100
+a(I6000
+S'start_time     : 1500209224\nlast_update    : 1500215174\nfuzzer_pid     : 13639\ncycles_done    : 0\nexecs_done     : 2738740\nexecs_per_sec  : 182.72\npaths_total    : 287\npaths_favored  : 68\npaths_found    : 286\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 214\npending_favs   : 20\npending_total  : 231\nvariable_paths : 0\nbitmap_cvg     : 1.07%\nunique_crashes : 0\nunique_hangs   : 16\nlast_path      : 1500214875\nlast_crash     : 0\nlast_hang      : 1500214051\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/cyber_blogger/input -o /dev/shm/work/cyber_blogger/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/cyber_blogger/cyber_blogger.dict -- data/linux/processed-challenges/cyber_blogger/bin/cyber_blogger\n'
+p101
+I0
+tp102
+a(I6120
+S'start_time     : 1500209224\nlast_update    : 1500215294\nfuzzer_pid     : 13639\ncycles_done    : 0\nexecs_done     : 2760648\nexecs_per_sec  : 186.75\npaths_total    : 287\npaths_favored  : 68\npaths_found    : 286\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 214\npending_favs   : 20\npending_total  : 231\nvariable_paths : 0\nbitmap_cvg     : 1.07%\nunique_crashes : 0\nunique_hangs   : 16\nlast_path      : 1500214875\nlast_crash     : 0\nlast_hang      : 1500214051\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/cyber_blogger/input -o /dev/shm/work/cyber_blogger/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/cyber_blogger/cyber_blogger.dict -- data/linux/processed-challenges/cyber_blogger/bin/cyber_blogger\n'
+p103
+I0
+tp104
+a(I6240
+S'start_time     : 1500209224\nlast_update    : 1500215414\nfuzzer_pid     : 13639\ncycles_done    : 0\nexecs_done     : 2781828\nexecs_per_sec  : 170.36\npaths_total    : 287\npaths_favored  : 68\npaths_found    : 286\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 214\npending_favs   : 20\npending_total  : 231\nvariable_paths : 0\nbitmap_cvg     : 1.07%\nunique_crashes : 0\nunique_hangs   : 16\nlast_path      : 1500214875\nlast_crash     : 0\nlast_hang      : 1500214051\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/cyber_blogger/input -o /dev/shm/work/cyber_blogger/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/cyber_blogger/cyber_blogger.dict -- data/linux/processed-challenges/cyber_blogger/bin/cyber_blogger\n'
+p105
+I2
+tp106
+a(I6360
+S'start_time     : 1500209224\nlast_update    : 1500215534\nfuzzer_pid     : 13639\ncycles_done    : 0\nexecs_done     : 2805362\nexecs_per_sec  : 196.77\npaths_total    : 289\npaths_favored  : 68\npaths_found    : 288\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 214\npending_favs   : 20\npending_total  : 233\nvariable_paths : 0\nbitmap_cvg     : 1.07%\nunique_crashes : 0\nunique_hangs   : 18\nlast_path      : 1500215436\nlast_crash     : 0\nlast_hang      : 1500215472\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/cyber_blogger/input -o /dev/shm/work/cyber_blogger/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/cyber_blogger/cyber_blogger.dict -- data/linux/processed-challenges/cyber_blogger/bin/cyber_blogger\n'
+p107
+I1
+tp108
+a(I6480
+S'start_time     : 1500209224\nlast_update    : 1500215655\nfuzzer_pid     : 13639\ncycles_done    : 0\nexecs_done     : 2829537\nexecs_per_sec  : 198.39\npaths_total    : 290\npaths_favored  : 68\npaths_found    : 289\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 214\npending_favs   : 20\npending_total  : 234\nvariable_paths : 0\nbitmap_cvg     : 1.07%\nunique_crashes : 0\nunique_hangs   : 19\nlast_path      : 1500215561\nlast_crash     : 0\nlast_hang      : 1500215536\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/cyber_blogger/input -o /dev/shm/work/cyber_blogger/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/cyber_blogger/cyber_blogger.dict -- data/linux/processed-challenges/cyber_blogger/bin/cyber_blogger\n'
+p109
+I2
+tp110
+a(I6600
+S'start_time     : 1500209224\nlast_update    : 1500215775\nfuzzer_pid     : 13639\ncycles_done    : 0\nexecs_done     : 2853969\nexecs_per_sec  : 201.11\npaths_total    : 293\npaths_favored  : 68\npaths_found    : 292\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 214\npending_favs   : 20\npending_total  : 237\nvariable_paths : 0\nbitmap_cvg     : 1.10%\nunique_crashes : 0\nunique_hangs   : 20\nlast_path      : 1500215767\nlast_crash     : 0\nlast_hang      : 1500215696\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/cyber_blogger/input -o /dev/shm/work/cyber_blogger/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/cyber_blogger/cyber_blogger.dict -- data/linux/processed-challenges/cyber_blogger/bin/cyber_blogger\n'
+p111
+I1
+tp112
+a(I6720
+S'start_time     : 1500209224\nlast_update    : 1500215895\nfuzzer_pid     : 13639\ncycles_done    : 0\nexecs_done     : 2878749\nexecs_per_sec  : 207.71\npaths_total    : 293\npaths_favored  : 68\npaths_found    : 292\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 214\npending_favs   : 20\npending_total  : 237\nvariable_paths : 0\nbitmap_cvg     : 1.10%\nunique_crashes : 0\nunique_hangs   : 21\nlast_path      : 1500215767\nlast_crash     : 0\nlast_hang      : 1500215871\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/cyber_blogger/input -o /dev/shm/work/cyber_blogger/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/cyber_blogger/cyber_blogger.dict -- data/linux/processed-challenges/cyber_blogger/bin/cyber_blogger\n'
+p113
+I0
+tp114
+a(I6840
+S'start_time     : 1500209224\nlast_update    : 1500216015\nfuzzer_pid     : 13639\ncycles_done    : 0\nexecs_done     : 2903201\nexecs_per_sec  : 206.12\npaths_total    : 293\npaths_favored  : 68\npaths_found    : 292\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 214\npending_favs   : 20\npending_total  : 237\nvariable_paths : 0\nbitmap_cvg     : 1.10%\nunique_crashes : 0\nunique_hangs   : 21\nlast_path      : 1500215767\nlast_crash     : 0\nlast_hang      : 1500215871\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/cyber_blogger/input -o /dev/shm/work/cyber_blogger/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/cyber_blogger/cyber_blogger.dict -- data/linux/processed-challenges/cyber_blogger/bin/cyber_blogger\n'
+p115
+I2
+tp116
+a(I6960
+S'start_time     : 1500209224\nlast_update    : 1500216136\nfuzzer_pid     : 13639\ncycles_done    : 0\nexecs_done     : 2955338\nexecs_per_sec  : 418.32\npaths_total    : 297\npaths_favored  : 65\npaths_found    : 296\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 216\npending_favs   : 22\npending_total  : 240\nvariable_paths : 0\nbitmap_cvg     : 1.10%\nunique_crashes : 0\nunique_hangs   : 21\nlast_path      : 1500216120\nlast_crash     : 0\nlast_hang      : 1500215871\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/cyber_blogger/input -o /dev/shm/work/cyber_blogger/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/cyber_blogger/cyber_blogger.dict -- data/linux/processed-challenges/cyber_blogger/bin/cyber_blogger\n'
+p117
+I3
+tp118
+a(I7080
+S'start_time     : 1500209224\nlast_update    : 1500216256\nfuzzer_pid     : 13639\ncycles_done    : 0\nexecs_done     : 3005150\nexecs_per_sec  : 410.97\npaths_total    : 299\npaths_favored  : 65\npaths_found    : 298\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 216\npending_favs   : 22\npending_total  : 242\nvariable_paths : 0\nbitmap_cvg     : 1.10%\nunique_crashes : 0\nunique_hangs   : 21\nlast_path      : 1500216201\nlast_crash     : 0\nlast_hang      : 1500215871\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/cyber_blogger/input -o /dev/shm/work/cyber_blogger/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/cyber_blogger/cyber_blogger.dict -- data/linux/processed-challenges/cyber_blogger/bin/cyber_blogger\n'
+p119
+I1
+tp120
+a(I7200
+S'start_time     : 1500209224\nlast_update    : 1500216376\nfuzzer_pid     : 13639\ncycles_done    : 0\nexecs_done     : 3055521\nexecs_per_sec  : 431.11\npaths_total    : 299\npaths_favored  : 65\npaths_found    : 298\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 217\npending_favs   : 21\npending_total  : 241\nvariable_paths : 0\nbitmap_cvg     : 1.10%\nunique_crashes : 0\nunique_hangs   : 21\nlast_path      : 1500216201\nlast_crash     : 0\nlast_hang      : 1500215871\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/cyber_blogger/input -o /dev/shm/work/cyber_blogger/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/cyber_blogger/cyber_blogger.dict -- data/linux/processed-challenges/cyber_blogger/bin/cyber_blogger\n'
+p121
+I1
+tp122
+a(I7320
+S'start_time     : 1500209224\nlast_update    : 1500216496\nfuzzer_pid     : 13639\ncycles_done    : 0\nexecs_done     : 3102960\nexecs_per_sec  : 393.76\npaths_total    : 300\npaths_favored  : 65\npaths_found    : 299\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 217\npending_favs   : 21\npending_total  : 242\nvariable_paths : 0\nbitmap_cvg     : 1.10%\nunique_crashes : 0\nunique_hangs   : 23\nlast_path      : 1500216430\nlast_crash     : 0\nlast_hang      : 1500216403\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/cyber_blogger/input -o /dev/shm/work/cyber_blogger/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/cyber_blogger/cyber_blogger.dict -- data/linux/processed-challenges/cyber_blogger/bin/cyber_blogger\n'
+p123
+I2
+tp124
+a(I7440
+S'start_time     : 1500209224\nlast_update    : 1500216616\nfuzzer_pid     : 13639\ncycles_done    : 0\nexecs_done     : 3150103\nexecs_per_sec  : 401.47\npaths_total    : 306\npaths_favored  : 65\npaths_found    : 305\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 217\npending_favs   : 21\npending_total  : 248\nvariable_paths : 0\nbitmap_cvg     : 1.11%\nunique_crashes : 0\nunique_hangs   : 23\nlast_path      : 1500216616\nlast_crash     : 0\nlast_hang      : 1500216403\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/cyber_blogger/input -o /dev/shm/work/cyber_blogger/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/cyber_blogger/cyber_blogger.dict -- data/linux/processed-challenges/cyber_blogger/bin/cyber_blogger\n'
+p125
+I4
+tp126
+a(I7560
+S'start_time     : 1500209224\nlast_update    : 1500216737\nfuzzer_pid     : 13639\ncycles_done    : 0\nexecs_done     : 3207019\nexecs_per_sec  : 274.41\npaths_total    : 307\npaths_favored  : 68\npaths_found    : 306\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 247\npending_favs   : 19\npending_total  : 246\nvariable_paths : 0\nbitmap_cvg     : 1.11%\nunique_crashes : 0\nunique_hangs   : 23\nlast_path      : 1500216735\nlast_crash     : 0\nlast_hang      : 1500216403\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/cyber_blogger/input -o /dev/shm/work/cyber_blogger/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/cyber_blogger/cyber_blogger.dict -- data/linux/processed-challenges/cyber_blogger/bin/cyber_blogger\n'
+p127
+I3
+tp128
+a(I7680
+S'start_time     : 1500209224\nlast_update    : 1500216857\nfuzzer_pid     : 13639\ncycles_done    : 0\nexecs_done     : 3233411\nexecs_per_sec  : 207.72\npaths_total    : 309\npaths_favored  : 68\npaths_found    : 308\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 247\npending_favs   : 19\npending_total  : 248\nvariable_paths : 0\nbitmap_cvg     : 1.17%\nunique_crashes : 0\nunique_hangs   : 23\nlast_path      : 1500216760\nlast_crash     : 0\nlast_hang      : 1500216403\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/cyber_blogger/input -o /dev/shm/work/cyber_blogger/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/cyber_blogger/cyber_blogger.dict -- data/linux/processed-challenges/cyber_blogger/bin/cyber_blogger\n'
+p129
+I0
+tp130
+a(I7800
+S'start_time     : 1500209224\nlast_update    : 1500216977\nfuzzer_pid     : 13639\ncycles_done    : 0\nexecs_done     : 3258787\nexecs_per_sec  : 232.85\npaths_total    : 309\npaths_favored  : 68\npaths_found    : 308\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 247\npending_favs   : 19\npending_total  : 248\nvariable_paths : 0\nbitmap_cvg     : 1.17%\nunique_crashes : 0\nunique_hangs   : 23\nlast_path      : 1500216760\nlast_crash     : 0\nlast_hang      : 1500216403\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/cyber_blogger/input -o /dev/shm/work/cyber_blogger/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/cyber_blogger/cyber_blogger.dict -- data/linux/processed-challenges/cyber_blogger/bin/cyber_blogger\n'
+p131
+I0
+tp132
+a(I7920
+S'start_time     : 1500209224\nlast_update    : 1500217097\nfuzzer_pid     : 13639\ncycles_done    : 0\nexecs_done     : 3294417\nexecs_per_sec  : 331.56\npaths_total    : 309\npaths_favored  : 69\npaths_found    : 308\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 248\npending_favs   : 21\npending_total  : 247\nvariable_paths : 0\nbitmap_cvg     : 1.17%\nunique_crashes : 0\nunique_hangs   : 23\nlast_path      : 1500216760\nlast_crash     : 0\nlast_hang      : 1500216403\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/cyber_blogger/input -o /dev/shm/work/cyber_blogger/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/cyber_blogger/cyber_blogger.dict -- data/linux/processed-challenges/cyber_blogger/bin/cyber_blogger\n'
+p133
+I0
+tp134
+a(I8040
+S'start_time     : 1500209224\nlast_update    : 1500217217\nfuzzer_pid     : 13639\ncycles_done    : 0\nexecs_done     : 3328829\nexecs_per_sec  : 270.64\npaths_total    : 310\npaths_favored  : 69\npaths_found    : 309\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 248\npending_favs   : 21\npending_total  : 248\nvariable_paths : 0\nbitmap_cvg     : 1.17%\nunique_crashes : 0\nunique_hangs   : 25\nlast_path      : 1500217161\nlast_crash     : 0\nlast_hang      : 1500217138\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/cyber_blogger/input -o /dev/shm/work/cyber_blogger/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/cyber_blogger/cyber_blogger.dict -- data/linux/processed-challenges/cyber_blogger/bin/cyber_blogger\n'
+p135
+I1
+tp136
+a(I8160
+S'start_time     : 1500209224\nlast_update    : 1500217338\nfuzzer_pid     : 13639\ncycles_done    : 0\nexecs_done     : 3371656\nexecs_per_sec  : 412.20\npaths_total    : 310\npaths_favored  : 69\npaths_found    : 309\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 250\npending_favs   : 20\npending_total  : 247\nvariable_paths : 0\nbitmap_cvg     : 1.17%\nunique_crashes : 0\nunique_hangs   : 26\nlast_path      : 1500217161\nlast_crash     : 0\nlast_hang      : 1500217235\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/cyber_blogger/input -o /dev/shm/work/cyber_blogger/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/cyber_blogger/cyber_blogger.dict -- data/linux/processed-challenges/cyber_blogger/bin/cyber_blogger\n'
+p137
+I1
+tp138
+a(I8280
+S'start_time     : 1500209224\nlast_update    : 1500217458\nfuzzer_pid     : 13639\ncycles_done    : 0\nexecs_done     : 3410270\nexecs_per_sec  : 318.19\npaths_total    : 312\npaths_favored  : 69\npaths_found    : 311\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 250\npending_favs   : 20\npending_total  : 249\nvariable_paths : 0\nbitmap_cvg     : 1.17%\nunique_crashes : 0\nunique_hangs   : 27\nlast_path      : 1500217422\nlast_crash     : 0\nlast_hang      : 1500217363\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/cyber_blogger/input -o /dev/shm/work/cyber_blogger/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/cyber_blogger/cyber_blogger.dict -- data/linux/processed-challenges/cyber_blogger/bin/cyber_blogger\n'
+p139
+I2
+tp140
+a(I8400
+S'start_time     : 1500209224\nlast_update    : 1500217578\nfuzzer_pid     : 13639\ncycles_done    : 0\nexecs_done     : 3447818\nexecs_per_sec  : 328.90\npaths_total    : 315\npaths_favored  : 69\npaths_found    : 314\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 250\npending_favs   : 20\npending_total  : 252\nvariable_paths : 0\nbitmap_cvg     : 1.17%\nunique_crashes : 0\nunique_hangs   : 27\nlast_path      : 1500217570\nlast_crash     : 0\nlast_hang      : 1500217363\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/cyber_blogger/input -o /dev/shm/work/cyber_blogger/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/cyber_blogger/cyber_blogger.dict -- data/linux/processed-challenges/cyber_blogger/bin/cyber_blogger\n'
+p141
+I3
+tp142
+a(I8520
+S'start_time     : 1500209224\nlast_update    : 1500217698\nfuzzer_pid     : 13639\ncycles_done    : 0\nexecs_done     : 3486230\nexecs_per_sec  : 321.72\npaths_total    : 318\npaths_favored  : 69\npaths_found    : 317\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 250\npending_favs   : 20\npending_total  : 255\nvariable_paths : 0\nbitmap_cvg     : 1.17%\nunique_crashes : 0\nunique_hangs   : 27\nlast_path      : 1500217644\nlast_crash     : 0\nlast_hang      : 1500217363\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/cyber_blogger/input -o /dev/shm/work/cyber_blogger/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/cyber_blogger/cyber_blogger.dict -- data/linux/processed-challenges/cyber_blogger/bin/cyber_blogger\n'
+p143
+I2
+tp144
+a(I8640
+S'start_time     : 1500209224\nlast_update    : 1500217819\nfuzzer_pid     : 13639\ncycles_done    : 0\nexecs_done     : 3515009\nexecs_per_sec  : 243.57\npaths_total    : 318\npaths_favored  : 70\npaths_found    : 317\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 251\npending_favs   : 20\npending_total  : 254\nvariable_paths : 0\nbitmap_cvg     : 1.17%\nunique_crashes : 0\nunique_hangs   : 27\nlast_path      : 1500217644\nlast_crash     : 0\nlast_hang      : 1500217363\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/cyber_blogger/input -o /dev/shm/work/cyber_blogger/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/cyber_blogger/cyber_blogger.dict -- data/linux/processed-challenges/cyber_blogger/bin/cyber_blogger\n'
+p145
+I0
+tp146
+a(I8760
+S'start_time     : 1500209224\nlast_update    : 1500217939\nfuzzer_pid     : 13639\ncycles_done    : 0\nexecs_done     : 3540742\nexecs_per_sec  : 185.14\npaths_total    : 318\npaths_favored  : 70\npaths_found    : 317\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 251\npending_favs   : 20\npending_total  : 254\nvariable_paths : 0\nbitmap_cvg     : 1.17%\nunique_crashes : 0\nunique_hangs   : 27\nlast_path      : 1500217644\nlast_crash     : 0\nlast_hang      : 1500217363\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/cyber_blogger/input -o /dev/shm/work/cyber_blogger/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/cyber_blogger/cyber_blogger.dict -- data/linux/processed-challenges/cyber_blogger/bin/cyber_blogger\n'
+p147
+I0
+tp148
+a(I8880
+S'start_time     : 1500209224\nlast_update    : 1500218059\nfuzzer_pid     : 13639\ncycles_done    : 0\nexecs_done     : 3570667\nexecs_per_sec  : 292.05\npaths_total    : 319\npaths_favored  : 70\npaths_found    : 318\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 255\npending_favs   : 19\npending_total  : 254\nvariable_paths : 0\nbitmap_cvg     : 1.17%\nunique_crashes : 0\nunique_hangs   : 28\nlast_path      : 1500218033\nlast_crash     : 0\nlast_hang      : 1500218013\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/cyber_blogger/input -o /dev/shm/work/cyber_blogger/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/cyber_blogger/cyber_blogger.dict -- data/linux/processed-challenges/cyber_blogger/bin/cyber_blogger\n'
+p149
+I1
+tp150
+a(I9000
+S'start_time     : 1500209224\nlast_update    : 1500218179\nfuzzer_pid     : 13639\ncycles_done    : 0\nexecs_done     : 3609216\nexecs_per_sec  : 196.39\npaths_total    : 319\npaths_favored  : 71\npaths_found    : 318\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 256\npending_favs   : 19\npending_total  : 253\nvariable_paths : 0\nbitmap_cvg     : 1.17%\nunique_crashes : 0\nunique_hangs   : 28\nlast_path      : 1500218033\nlast_crash     : 0\nlast_hang      : 1500218013\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/cyber_blogger/input -o /dev/shm/work/cyber_blogger/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/cyber_blogger/cyber_blogger.dict -- data/linux/processed-challenges/cyber_blogger/bin/cyber_blogger\n'
+p151
+I0
+tp152
+a(I9120
+S'start_time     : 1500209224\nlast_update    : 1500218300\nfuzzer_pid     : 13639\ncycles_done    : 0\nexecs_done     : 3632711\nexecs_per_sec  : 186.50\npaths_total    : 319\npaths_favored  : 71\npaths_found    : 318\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 256\npending_favs   : 19\npending_total  : 253\nvariable_paths : 0\nbitmap_cvg     : 1.17%\nunique_crashes : 0\nunique_hangs   : 28\nlast_path      : 1500218033\nlast_crash     : 0\nlast_hang      : 1500218013\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/cyber_blogger/input -o /dev/shm/work/cyber_blogger/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/cyber_blogger/cyber_blogger.dict -- data/linux/processed-challenges/cyber_blogger/bin/cyber_blogger\n'
+p153
+I0
+tp154
+a(I9240
+S'start_time     : 1500209224\nlast_update    : 1500218420\nfuzzer_pid     : 13639\ncycles_done    : 0\nexecs_done     : 3654849\nexecs_per_sec  : 176.43\npaths_total    : 319\npaths_favored  : 71\npaths_found    : 318\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 256\npending_favs   : 19\npending_total  : 253\nvariable_paths : 0\nbitmap_cvg     : 1.17%\nunique_crashes : 0\nunique_hangs   : 29\nlast_path      : 1500218033\nlast_crash     : 0\nlast_hang      : 1500218401\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/cyber_blogger/input -o /dev/shm/work/cyber_blogger/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/cyber_blogger/cyber_blogger.dict -- data/linux/processed-challenges/cyber_blogger/bin/cyber_blogger\n'
+p155
+I0
+tp156
+a(I9360
+S'start_time     : 1500209224\nlast_update    : 1500218540\nfuzzer_pid     : 13639\ncycles_done    : 0\nexecs_done     : 3677793\nexecs_per_sec  : 196.80\npaths_total    : 319\npaths_favored  : 71\npaths_found    : 318\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 256\npending_favs   : 19\npending_total  : 253\nvariable_paths : 0\nbitmap_cvg     : 1.17%\nunique_crashes : 0\nunique_hangs   : 29\nlast_path      : 1500218033\nlast_crash     : 0\nlast_hang      : 1500218401\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/cyber_blogger/input -o /dev/shm/work/cyber_blogger/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/cyber_blogger/cyber_blogger.dict -- data/linux/processed-challenges/cyber_blogger/bin/cyber_blogger\n'
+p157
+I0
+tp158
+a(I9480
+S'start_time     : 1500209224\nlast_update    : 1500218660\nfuzzer_pid     : 13639\ncycles_done    : 0\nexecs_done     : 3709697\nexecs_per_sec  : 288.67\npaths_total    : 319\npaths_favored  : 71\npaths_found    : 318\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 257\npending_favs   : 18\npending_total  : 252\nvariable_paths : 0\nbitmap_cvg     : 1.17%\nunique_crashes : 0\nunique_hangs   : 29\nlast_path      : 1500218033\nlast_crash     : 0\nlast_hang      : 1500218401\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/cyber_blogger/input -o /dev/shm/work/cyber_blogger/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/cyber_blogger/cyber_blogger.dict -- data/linux/processed-challenges/cyber_blogger/bin/cyber_blogger\n'
+p159
+I0
+tp160
+a(I9600
+S'start_time     : 1500209224\nlast_update    : 1500218780\nfuzzer_pid     : 13639\ncycles_done    : 0\nexecs_done     : 3743618\nexecs_per_sec  : 297.01\npaths_total    : 319\npaths_favored  : 71\npaths_found    : 318\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 264\npending_favs   : 17\npending_total  : 251\nvariable_paths : 0\nbitmap_cvg     : 1.17%\nunique_crashes : 0\nunique_hangs   : 29\nlast_path      : 1500218033\nlast_crash     : 0\nlast_hang      : 1500218401\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/cyber_blogger/input -o /dev/shm/work/cyber_blogger/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/cyber_blogger/cyber_blogger.dict -- data/linux/processed-challenges/cyber_blogger/bin/cyber_blogger\n'
+p161
+I0
+tp162
+a(I9720
+S'start_time     : 1500209224\nlast_update    : 1500218901\nfuzzer_pid     : 13639\ncycles_done    : 0\nexecs_done     : 3782121\nexecs_per_sec  : 339.87\npaths_total    : 322\npaths_favored  : 71\npaths_found    : 321\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 264\npending_favs   : 17\npending_total  : 254\nvariable_paths : 0\nbitmap_cvg     : 1.17%\nunique_crashes : 0\nunique_hangs   : 29\nlast_path      : 1500218894\nlast_crash     : 0\nlast_hang      : 1500218401\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/cyber_blogger/input -o /dev/shm/work/cyber_blogger/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/cyber_blogger/cyber_blogger.dict -- data/linux/processed-challenges/cyber_blogger/bin/cyber_blogger\n'
+p163
+I4
+tp164
+a(I9840
+S'start_time     : 1500209224\nlast_update    : 1500219021\nfuzzer_pid     : 13639\ncycles_done    : 0\nexecs_done     : 3822331\nexecs_per_sec  : 326.14\npaths_total    : 323\npaths_favored  : 71\npaths_found    : 322\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 264\npending_favs   : 17\npending_total  : 255\nvariable_paths : 0\nbitmap_cvg     : 1.17%\nunique_crashes : 0\nunique_hangs   : 29\nlast_path      : 1500218906\nlast_crash     : 0\nlast_hang      : 1500218401\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/cyber_blogger/input -o /dev/shm/work/cyber_blogger/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/cyber_blogger/cyber_blogger.dict -- data/linux/processed-challenges/cyber_blogger/bin/cyber_blogger\n'
+p165
+I0
+tp166
+a(I9960
+S'start_time     : 1500209224\nlast_update    : 1500219141\nfuzzer_pid     : 13639\ncycles_done    : 0\nexecs_done     : 3862105\nexecs_per_sec  : 330.73\npaths_total    : 323\npaths_favored  : 71\npaths_found    : 322\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 264\npending_favs   : 17\npending_total  : 255\nvariable_paths : 0\nbitmap_cvg     : 1.17%\nunique_crashes : 0\nunique_hangs   : 29\nlast_path      : 1500218906\nlast_crash     : 0\nlast_hang      : 1500218401\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/cyber_blogger/input -o /dev/shm/work/cyber_blogger/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/cyber_blogger/cyber_blogger.dict -- data/linux/processed-challenges/cyber_blogger/bin/cyber_blogger\n'
+p167
+I0
+tp168
+a(I10080
+S'start_time     : 1500209224\nlast_update    : 1500219261\nfuzzer_pid     : 13639\ncycles_done    : 0\nexecs_done     : 3902755\nexecs_per_sec  : 336.07\npaths_total    : 323\npaths_favored  : 71\npaths_found    : 322\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 264\npending_favs   : 17\npending_total  : 255\nvariable_paths : 0\nbitmap_cvg     : 1.17%\nunique_crashes : 0\nunique_hangs   : 29\nlast_path      : 1500218906\nlast_crash     : 0\nlast_hang      : 1500218401\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/cyber_blogger/input -o /dev/shm/work/cyber_blogger/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/cyber_blogger/cyber_blogger.dict -- data/linux/processed-challenges/cyber_blogger/bin/cyber_blogger\n'
+p169
+I0
+tp170
+a(I10200
+S'start_time     : 1500209224\nlast_update    : 1500219381\nfuzzer_pid     : 13639\ncycles_done    : 0\nexecs_done     : 3932889\nexecs_per_sec  : 230.68\npaths_total    : 323\npaths_favored  : 71\npaths_found    : 322\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 267\npending_favs   : 16\npending_total  : 254\nvariable_paths : 0\nbitmap_cvg     : 1.17%\nunique_crashes : 0\nunique_hangs   : 29\nlast_path      : 1500218906\nlast_crash     : 0\nlast_hang      : 1500218401\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/cyber_blogger/input -o /dev/shm/work/cyber_blogger/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/cyber_blogger/cyber_blogger.dict -- data/linux/processed-challenges/cyber_blogger/bin/cyber_blogger\n'
+p171
+I0
+tp172
+a(I10320
+S'start_time     : 1500209224\nlast_update    : 1500219502\nfuzzer_pid     : 13639\ncycles_done    : 0\nexecs_done     : 3956171\nexecs_per_sec  : 181.31\npaths_total    : 323\npaths_favored  : 71\npaths_found    : 322\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 267\npending_favs   : 16\npending_total  : 254\nvariable_paths : 0\nbitmap_cvg     : 1.17%\nunique_crashes : 0\nunique_hangs   : 29\nlast_path      : 1500218906\nlast_crash     : 0\nlast_hang      : 1500218401\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/cyber_blogger/input -o /dev/shm/work/cyber_blogger/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/cyber_blogger/cyber_blogger.dict -- data/linux/processed-challenges/cyber_blogger/bin/cyber_blogger\n'
+p173
+I1
+tp174
+a(I10440
+S'start_time     : 1500209224\nlast_update    : 1500219622\nfuzzer_pid     : 13639\ncycles_done    : 0\nexecs_done     : 3981066\nexecs_per_sec  : 222.06\npaths_total    : 326\npaths_favored  : 71\npaths_found    : 325\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 267\npending_favs   : 16\npending_total  : 257\nvariable_paths : 0\nbitmap_cvg     : 1.17%\nunique_crashes : 0\nunique_hangs   : 32\nlast_path      : 1500219584\nlast_crash     : 0\nlast_hang      : 1500219601\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/cyber_blogger/input -o /dev/shm/work/cyber_blogger/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/cyber_blogger/cyber_blogger.dict -- data/linux/processed-challenges/cyber_blogger/bin/cyber_blogger\n'
+p175
+I2
+tp176
+a(I10560
+S'start_time     : 1500209224\nlast_update    : 1500219742\nfuzzer_pid     : 13639\ncycles_done    : 0\nexecs_done     : 4007108\nexecs_per_sec  : 212.27\npaths_total    : 327\npaths_favored  : 71\npaths_found    : 326\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 267\npending_favs   : 16\npending_total  : 258\nvariable_paths : 0\nbitmap_cvg     : 1.17%\nunique_crashes : 0\nunique_hangs   : 32\nlast_path      : 1500219703\nlast_crash     : 0\nlast_hang      : 1500219601\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/cyber_blogger/input -o /dev/shm/work/cyber_blogger/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/cyber_blogger/cyber_blogger.dict -- data/linux/processed-challenges/cyber_blogger/bin/cyber_blogger\n'
+p177
+I1
+tp178
+a(I10680
+S'start_time     : 1500209224\nlast_update    : 1500219862\nfuzzer_pid     : 13639\ncycles_done    : 0\nexecs_done     : 4033224\nexecs_per_sec  : 220.67\npaths_total    : 327\npaths_favored  : 71\npaths_found    : 326\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 267\npending_favs   : 16\npending_total  : 258\nvariable_paths : 0\nbitmap_cvg     : 1.17%\nunique_crashes : 0\nunique_hangs   : 34\nlast_path      : 1500219703\nlast_crash     : 0\nlast_hang      : 1500219844\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/cyber_blogger/input -o /dev/shm/work/cyber_blogger/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/cyber_blogger/cyber_blogger.dict -- data/linux/processed-challenges/cyber_blogger/bin/cyber_blogger\n'
+p179
+I1
+tp180
+a.

@@ -1,0 +1,452 @@
+(lp0
+(I0
+S'start_time     : 1500328515\nlast_update    : 1500328515\nfuzzer_pid     : 28707\ncycles_done    : 0\nexecs_done     : 10\nexecs_per_sec  : 121.95\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 1\npending_total  : 1\nvariable_paths : 0\nbitmap_cvg     : 0.43%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Venture_Calculator/input -o /dev/shm/work/Venture_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Venture_Calculator/Venture_Calculator.dict -- data/linux/processed-challenges/Venture_Calculator/bin/Venture_Calculator\n'
+p1
+I1
+tp2
+a(I120
+S'start_time     : 1500328515\nlast_update    : 1500328636\nfuzzer_pid     : 28707\ncycles_done    : 0\nexecs_done     : 35307\nexecs_per_sec  : 282.27\npaths_total    : 34\npaths_favored  : 1\npaths_found    : 33\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 1\npending_total  : 34\nvariable_paths : 0\nbitmap_cvg     : 1.00%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500328634\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Venture_Calculator/input -o /dev/shm/work/Venture_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Venture_Calculator/Venture_Calculator.dict -- data/linux/processed-challenges/Venture_Calculator/bin/Venture_Calculator\n'
+p3
+I33
+tp4
+a(I240
+S'start_time     : 1500328515\nlast_update    : 1500328756\nfuzzer_pid     : 28707\ncycles_done    : 0\nexecs_done     : 70647\nexecs_per_sec  : 292.32\npaths_total    : 41\npaths_favored  : 1\npaths_found    : 40\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 1\npending_total  : 41\nvariable_paths : 0\nbitmap_cvg     : 1.03%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500328744\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Venture_Calculator/input -o /dev/shm/work/Venture_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Venture_Calculator/Venture_Calculator.dict -- data/linux/processed-challenges/Venture_Calculator/bin/Venture_Calculator\n'
+p5
+I7
+tp6
+a(I360
+S'start_time     : 1500328515\nlast_update    : 1500328876\nfuzzer_pid     : 28707\ncycles_done    : 0\nexecs_done     : 105867\nexecs_per_sec  : 294.05\npaths_total    : 44\npaths_favored  : 1\npaths_found    : 43\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 1\npending_total  : 44\nvariable_paths : 0\nbitmap_cvg     : 1.05%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500328857\nlast_crash     : 0\nlast_hang      : 1500328784\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Venture_Calculator/input -o /dev/shm/work/Venture_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Venture_Calculator/Venture_Calculator.dict -- data/linux/processed-challenges/Venture_Calculator/bin/Venture_Calculator\n'
+p7
+I3
+tp8
+a(I480
+S'start_time     : 1500328515\nlast_update    : 1500328997\nfuzzer_pid     : 28707\ncycles_done    : 0\nexecs_done     : 141472\nexecs_per_sec  : 292.85\npaths_total    : 46\npaths_favored  : 1\npaths_found    : 45\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 1\npending_total  : 46\nvariable_paths : 0\nbitmap_cvg     : 1.05%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500328941\nlast_crash     : 0\nlast_hang      : 1500328784\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Venture_Calculator/input -o /dev/shm/work/Venture_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Venture_Calculator/Venture_Calculator.dict -- data/linux/processed-challenges/Venture_Calculator/bin/Venture_Calculator\n'
+p9
+I2
+tp10
+a(I600
+S'start_time     : 1500328515\nlast_update    : 1500329117\nfuzzer_pid     : 28707\ncycles_done    : 0\nexecs_done     : 175616\nexecs_per_sec  : 264.84\npaths_total    : 85\npaths_favored  : 24\npaths_found    : 84\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 10\npending_favs   : 22\npending_total  : 83\nvariable_paths : 0\nbitmap_cvg     : 1.32%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500329114\nlast_crash     : 0\nlast_hang      : 1500328784\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Venture_Calculator/input -o /dev/shm/work/Venture_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Venture_Calculator/Venture_Calculator.dict -- data/linux/processed-challenges/Venture_Calculator/bin/Venture_Calculator\n'
+p11
+I39
+tp12
+a(I720
+S'start_time     : 1500328515\nlast_update    : 1500329237\nfuzzer_pid     : 28707\ncycles_done    : 0\nexecs_done     : 209267\nexecs_per_sec  : 283.27\npaths_total    : 125\npaths_favored  : 24\npaths_found    : 124\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 10\npending_favs   : 22\npending_total  : 123\nvariable_paths : 0\nbitmap_cvg     : 1.42%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500329229\nlast_crash     : 0\nlast_hang      : 1500328784\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Venture_Calculator/input -o /dev/shm/work/Venture_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Venture_Calculator/Venture_Calculator.dict -- data/linux/processed-challenges/Venture_Calculator/bin/Venture_Calculator\n'
+p13
+I40
+tp14
+a(I840
+S'start_time     : 1500328515\nlast_update    : 1500329357\nfuzzer_pid     : 28707\ncycles_done    : 0\nexecs_done     : 243132\nexecs_per_sec  : 287.27\npaths_total    : 139\npaths_favored  : 24\npaths_found    : 138\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 10\npending_favs   : 22\npending_total  : 137\nvariable_paths : 0\nbitmap_cvg     : 1.45%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500329338\nlast_crash     : 0\nlast_hang      : 1500328784\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Venture_Calculator/input -o /dev/shm/work/Venture_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Venture_Calculator/Venture_Calculator.dict -- data/linux/processed-challenges/Venture_Calculator/bin/Venture_Calculator\n'
+p15
+I14
+tp16
+a(I960
+S'start_time     : 1500328515\nlast_update    : 1500329477\nfuzzer_pid     : 28707\ncycles_done    : 0\nexecs_done     : 277292\nexecs_per_sec  : 271.50\npaths_total    : 151\npaths_favored  : 24\npaths_found    : 150\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 10\npending_favs   : 22\npending_total  : 149\nvariable_paths : 0\nbitmap_cvg     : 1.47%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500329469\nlast_crash     : 0\nlast_hang      : 1500328784\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Venture_Calculator/input -o /dev/shm/work/Venture_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Venture_Calculator/Venture_Calculator.dict -- data/linux/processed-challenges/Venture_Calculator/bin/Venture_Calculator\n'
+p17
+I12
+tp18
+a(I1080
+S'start_time     : 1500328515\nlast_update    : 1500329597\nfuzzer_pid     : 28707\ncycles_done    : 0\nexecs_done     : 310767\nexecs_per_sec  : 287.30\npaths_total    : 155\npaths_favored  : 24\npaths_found    : 154\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 10\npending_favs   : 22\npending_total  : 153\nvariable_paths : 0\nbitmap_cvg     : 1.48%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500329582\nlast_crash     : 0\nlast_hang      : 1500328784\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Venture_Calculator/input -o /dev/shm/work/Venture_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Venture_Calculator/Venture_Calculator.dict -- data/linux/processed-challenges/Venture_Calculator/bin/Venture_Calculator\n'
+p19
+I4
+tp20
+a(I1200
+S'start_time     : 1500328515\nlast_update    : 1500329717\nfuzzer_pid     : 28707\ncycles_done    : 0\nexecs_done     : 344663\nexecs_per_sec  : 276.53\npaths_total    : 159\npaths_favored  : 73\npaths_found    : 158\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 12\npending_favs   : 71\npending_total  : 156\nvariable_paths : 0\nbitmap_cvg     : 1.49%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500329671\nlast_crash     : 0\nlast_hang      : 1500329608\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Venture_Calculator/input -o /dev/shm/work/Venture_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Venture_Calculator/Venture_Calculator.dict -- data/linux/processed-challenges/Venture_Calculator/bin/Venture_Calculator\n'
+p21
+I4
+tp22
+a(I1320
+S'start_time     : 1500328515\nlast_update    : 1500329838\nfuzzer_pid     : 28707\ncycles_done    : 0\nexecs_done     : 378443\nexecs_per_sec  : 287.84\npaths_total    : 164\npaths_favored  : 73\npaths_found    : 163\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 12\npending_favs   : 71\npending_total  : 161\nvariable_paths : 0\nbitmap_cvg     : 1.49%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500329806\nlast_crash     : 0\nlast_hang      : 1500329608\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Venture_Calculator/input -o /dev/shm/work/Venture_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Venture_Calculator/Venture_Calculator.dict -- data/linux/processed-challenges/Venture_Calculator/bin/Venture_Calculator\n'
+p23
+I5
+tp24
+a(I1440
+S'start_time     : 1500328515\nlast_update    : 1500329958\nfuzzer_pid     : 28707\ncycles_done    : 0\nexecs_done     : 412293\nexecs_per_sec  : 281.55\npaths_total    : 166\npaths_favored  : 73\npaths_found    : 165\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 12\npending_favs   : 71\npending_total  : 163\nvariable_paths : 0\nbitmap_cvg     : 1.49%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500329901\nlast_crash     : 0\nlast_hang      : 1500329608\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Venture_Calculator/input -o /dev/shm/work/Venture_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Venture_Calculator/Venture_Calculator.dict -- data/linux/processed-challenges/Venture_Calculator/bin/Venture_Calculator\n'
+p25
+I2
+tp26
+a(I1560
+S'start_time     : 1500328515\nlast_update    : 1500330078\nfuzzer_pid     : 28707\ncycles_done    : 0\nexecs_done     : 445803\nexecs_per_sec  : 279.11\npaths_total    : 168\npaths_favored  : 73\npaths_found    : 167\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 12\npending_favs   : 71\npending_total  : 165\nvariable_paths : 0\nbitmap_cvg     : 1.50%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500330026\nlast_crash     : 0\nlast_hang      : 1500329608\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Venture_Calculator/input -o /dev/shm/work/Venture_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Venture_Calculator/Venture_Calculator.dict -- data/linux/processed-challenges/Venture_Calculator/bin/Venture_Calculator\n'
+p27
+I2
+tp28
+a(I1680
+S'start_time     : 1500328515\nlast_update    : 1500330198\nfuzzer_pid     : 28707\ncycles_done    : 0\nexecs_done     : 479408\nexecs_per_sec  : 282.68\npaths_total    : 173\npaths_favored  : 73\npaths_found    : 172\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 12\npending_favs   : 71\npending_total  : 170\nvariable_paths : 0\nbitmap_cvg     : 1.50%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500330192\nlast_crash     : 0\nlast_hang      : 1500329608\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Venture_Calculator/input -o /dev/shm/work/Venture_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Venture_Calculator/Venture_Calculator.dict -- data/linux/processed-challenges/Venture_Calculator/bin/Venture_Calculator\n'
+p29
+I5
+tp30
+a(I1800
+S'start_time     : 1500328515\nlast_update    : 1500330318\nfuzzer_pid     : 28707\ncycles_done    : 0\nexecs_done     : 513148\nexecs_per_sec  : 279.91\npaths_total    : 175\npaths_favored  : 82\npaths_found    : 174\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 15\npending_favs   : 79\npending_total  : 171\nvariable_paths : 0\nbitmap_cvg     : 1.51%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500330283\nlast_crash     : 0\nlast_hang      : 1500329608\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Venture_Calculator/input -o /dev/shm/work/Venture_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Venture_Calculator/Venture_Calculator.dict -- data/linux/processed-challenges/Venture_Calculator/bin/Venture_Calculator\n'
+p31
+I2
+tp32
+a(I1920
+S'start_time     : 1500328515\nlast_update    : 1500330379\nfuzzer_pid     : 28707\ncycles_done    : 0\nexecs_done     : 530124\nexecs_per_sec  : 284.55\npaths_total    : 177\npaths_favored  : 82\npaths_found    : 176\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 15\npending_favs   : 79\npending_total  : 173\nvariable_paths : 0\nbitmap_cvg     : 1.51%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500330371\nlast_crash     : 0\nlast_hang      : 1500329608\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Venture_Calculator/input -o /dev/shm/work/Venture_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Venture_Calculator/Venture_Calculator.dict -- data/linux/processed-challenges/Venture_Calculator/bin/Venture_Calculator\n'
+p33
+I8
+tp34
+a(I2040
+S'start_time     : 1500328515\nlast_update    : 1500330499\nfuzzer_pid     : 28707\ncycles_done    : 0\nexecs_done     : 563679\nexecs_per_sec  : 281.50\npaths_total    : 187\npaths_favored  : 82\npaths_found    : 186\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 15\npending_favs   : 79\npending_total  : 183\nvariable_paths : 0\nbitmap_cvg     : 1.52%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500330495\nlast_crash     : 0\nlast_hang      : 1500329608\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Venture_Calculator/input -o /dev/shm/work/Venture_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Venture_Calculator/Venture_Calculator.dict -- data/linux/processed-challenges/Venture_Calculator/bin/Venture_Calculator\n'
+p35
+I7
+tp36
+a(I2160
+S'start_time     : 1500328515\nlast_update    : 1500330619\nfuzzer_pid     : 28707\ncycles_done    : 0\nexecs_done     : 597554\nexecs_per_sec  : 277.96\npaths_total    : 191\npaths_favored  : 82\npaths_found    : 190\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 15\npending_favs   : 79\npending_total  : 187\nvariable_paths : 0\nbitmap_cvg     : 1.54%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500330611\nlast_crash     : 0\nlast_hang      : 1500329608\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Venture_Calculator/input -o /dev/shm/work/Venture_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Venture_Calculator/Venture_Calculator.dict -- data/linux/processed-challenges/Venture_Calculator/bin/Venture_Calculator\n'
+p37
+I1
+tp38
+a(I2280
+S'start_time     : 1500328515\nlast_update    : 1500330739\nfuzzer_pid     : 28707\ncycles_done    : 0\nexecs_done     : 631049\nexecs_per_sec  : 283.00\npaths_total    : 192\npaths_favored  : 82\npaths_found    : 191\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 15\npending_favs   : 79\npending_total  : 188\nvariable_paths : 0\nbitmap_cvg     : 1.54%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500330689\nlast_crash     : 0\nlast_hang      : 1500329608\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Venture_Calculator/input -o /dev/shm/work/Venture_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Venture_Calculator/Venture_Calculator.dict -- data/linux/processed-challenges/Venture_Calculator/bin/Venture_Calculator\n'
+p39
+I2
+tp40
+a(I2400
+S'start_time     : 1500328515\nlast_update    : 1500330859\nfuzzer_pid     : 28707\ncycles_done    : 0\nexecs_done     : 664499\nexecs_per_sec  : 279.69\npaths_total    : 193\npaths_favored  : 82\npaths_found    : 192\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 15\npending_favs   : 79\npending_total  : 189\nvariable_paths : 0\nbitmap_cvg     : 1.54%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500330784\nlast_crash     : 0\nlast_hang      : 1500329608\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Venture_Calculator/input -o /dev/shm/work/Venture_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Venture_Calculator/Venture_Calculator.dict -- data/linux/processed-challenges/Venture_Calculator/bin/Venture_Calculator\n'
+p41
+I0
+tp42
+a(I2520
+S'start_time     : 1500328515\nlast_update    : 1500330979\nfuzzer_pid     : 28707\ncycles_done    : 0\nexecs_done     : 698140\nexecs_per_sec  : 283.07\npaths_total    : 193\npaths_favored  : 93\npaths_found    : 192\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 18\npending_favs   : 89\npending_total  : 188\nvariable_paths : 0\nbitmap_cvg     : 1.54%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500330784\nlast_crash     : 0\nlast_hang      : 1500329608\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Venture_Calculator/input -o /dev/shm/work/Venture_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Venture_Calculator/Venture_Calculator.dict -- data/linux/processed-challenges/Venture_Calculator/bin/Venture_Calculator\n'
+p43
+I0
+tp44
+a(I2640
+S'start_time     : 1500328515\nlast_update    : 1500331100\nfuzzer_pid     : 28707\ncycles_done    : 0\nexecs_done     : 731607\nexecs_per_sec  : 286.86\npaths_total    : 196\npaths_favored  : 93\npaths_found    : 195\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 23\npending_favs   : 87\npending_total  : 189\nvariable_paths : 0\nbitmap_cvg     : 1.54%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500331093\nlast_crash     : 0\nlast_hang      : 1500329608\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Venture_Calculator/input -o /dev/shm/work/Venture_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Venture_Calculator/Venture_Calculator.dict -- data/linux/processed-challenges/Venture_Calculator/bin/Venture_Calculator\n'
+p45
+I3
+tp46
+a(I2760
+S'start_time     : 1500328515\nlast_update    : 1500331220\nfuzzer_pid     : 28707\ncycles_done    : 0\nexecs_done     : 765227\nexecs_per_sec  : 285.18\npaths_total    : 197\npaths_favored  : 93\npaths_found    : 196\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 24\npending_favs   : 86\npending_total  : 189\nvariable_paths : 0\nbitmap_cvg     : 1.55%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500331205\nlast_crash     : 0\nlast_hang      : 1500331139\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Venture_Calculator/input -o /dev/shm/work/Venture_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Venture_Calculator/Venture_Calculator.dict -- data/linux/processed-challenges/Venture_Calculator/bin/Venture_Calculator\n'
+p47
+I3
+tp48
+a(I2880
+S'start_time     : 1500328515\nlast_update    : 1500331340\nfuzzer_pid     : 28707\ncycles_done    : 0\nexecs_done     : 798582\nexecs_per_sec  : 275.16\npaths_total    : 199\npaths_favored  : 93\npaths_found    : 198\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 24\npending_favs   : 86\npending_total  : 191\nvariable_paths : 0\nbitmap_cvg     : 1.56%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500331263\nlast_crash     : 0\nlast_hang      : 1500331139\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Venture_Calculator/input -o /dev/shm/work/Venture_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Venture_Calculator/Venture_Calculator.dict -- data/linux/processed-challenges/Venture_Calculator/bin/Venture_Calculator\n'
+p49
+I1
+tp50
+a(I3000
+S'start_time     : 1500328515\nlast_update    : 1500331460\nfuzzer_pid     : 28707\ncycles_done    : 0\nexecs_done     : 830986\nexecs_per_sec  : 260.90\npaths_total    : 206\npaths_favored  : 94\npaths_found    : 205\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 28\npending_favs   : 85\npending_total  : 196\nvariable_paths : 0\nbitmap_cvg     : 1.57%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500331460\nlast_crash     : 0\nlast_hang      : 1500331139\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Venture_Calculator/input -o /dev/shm/work/Venture_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Venture_Calculator/Venture_Calculator.dict -- data/linux/processed-challenges/Venture_Calculator/bin/Venture_Calculator\n'
+p51
+I8
+tp52
+a(I3120
+S'start_time     : 1500328515\nlast_update    : 1500331580\nfuzzer_pid     : 28707\ncycles_done    : 0\nexecs_done     : 863111\nexecs_per_sec  : 267.77\npaths_total    : 209\npaths_favored  : 94\npaths_found    : 208\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 28\npending_favs   : 85\npending_total  : 199\nvariable_paths : 0\nbitmap_cvg     : 1.57%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500331562\nlast_crash     : 0\nlast_hang      : 1500331139\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Venture_Calculator/input -o /dev/shm/work/Venture_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Venture_Calculator/Venture_Calculator.dict -- data/linux/processed-challenges/Venture_Calculator/bin/Venture_Calculator\n'
+p53
+I2
+tp54
+a(I3240
+S'start_time     : 1500328515\nlast_update    : 1500331701\nfuzzer_pid     : 28707\ncycles_done    : 0\nexecs_done     : 896576\nexecs_per_sec  : 270.17\npaths_total    : 212\npaths_favored  : 94\npaths_found    : 211\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 28\npending_favs   : 85\npending_total  : 202\nvariable_paths : 0\nbitmap_cvg     : 1.58%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500331665\nlast_crash     : 0\nlast_hang      : 1500331139\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Venture_Calculator/input -o /dev/shm/work/Venture_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Venture_Calculator/Venture_Calculator.dict -- data/linux/processed-challenges/Venture_Calculator/bin/Venture_Calculator\n'
+p55
+I3
+tp56
+a(I3360
+S'start_time     : 1500328515\nlast_update    : 1500331821\nfuzzer_pid     : 28707\ncycles_done    : 0\nexecs_done     : 930006\nexecs_per_sec  : 271.65\npaths_total    : 215\npaths_favored  : 94\npaths_found    : 214\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 28\npending_favs   : 85\npending_total  : 205\nvariable_paths : 0\nbitmap_cvg     : 1.58%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500331775\nlast_crash     : 0\nlast_hang      : 1500331139\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Venture_Calculator/input -o /dev/shm/work/Venture_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Venture_Calculator/Venture_Calculator.dict -- data/linux/processed-challenges/Venture_Calculator/bin/Venture_Calculator\n'
+p57
+I6
+tp58
+a(I3480
+S'start_time     : 1500328515\nlast_update    : 1500331941\nfuzzer_pid     : 28707\ncycles_done    : 0\nexecs_done     : 962556\nexecs_per_sec  : 266.17\npaths_total    : 220\npaths_favored  : 94\npaths_found    : 219\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 28\npending_favs   : 85\npending_total  : 210\nvariable_paths : 0\nbitmap_cvg     : 1.59%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500331915\nlast_crash     : 0\nlast_hang      : 1500331139\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Venture_Calculator/input -o /dev/shm/work/Venture_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Venture_Calculator/Venture_Calculator.dict -- data/linux/processed-challenges/Venture_Calculator/bin/Venture_Calculator\n'
+p59
+I12
+tp60
+a(I3600
+S'start_time     : 1500328515\nlast_update    : 1500332062\nfuzzer_pid     : 28707\ncycles_done    : 0\nexecs_done     : 995066\nexecs_per_sec  : 278.09\npaths_total    : 231\npaths_favored  : 106\npaths_found    : 230\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 32\npending_favs   : 98\npending_total  : 219\nvariable_paths : 0\nbitmap_cvg     : 1.61%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500331987\nlast_crash     : 0\nlast_hang      : 1500331139\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Venture_Calculator/input -o /dev/shm/work/Venture_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Venture_Calculator/Venture_Calculator.dict -- data/linux/processed-challenges/Venture_Calculator/bin/Venture_Calculator\n'
+p61
+I0
+tp62
+a(I3720
+S'start_time     : 1500328515\nlast_update    : 1500332182\nfuzzer_pid     : 28707\ncycles_done    : 0\nexecs_done     : 1027640\nexecs_per_sec  : 277.02\npaths_total    : 232\npaths_favored  : 105\npaths_found    : 231\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 37\npending_favs   : 95\npending_total  : 217\nvariable_paths : 0\nbitmap_cvg     : 1.61%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500332132\nlast_crash     : 0\nlast_hang      : 1500331139\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Venture_Calculator/input -o /dev/shm/work/Venture_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Venture_Calculator/Venture_Calculator.dict -- data/linux/processed-challenges/Venture_Calculator/bin/Venture_Calculator\n'
+p63
+I11
+tp64
+a(I3840
+S'start_time     : 1500328515\nlast_update    : 1500332302\nfuzzer_pid     : 28707\ncycles_done    : 0\nexecs_done     : 1057760\nexecs_per_sec  : 267.74\npaths_total    : 245\npaths_favored  : 105\npaths_found    : 244\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 38\npending_favs   : 94\npending_total  : 229\nvariable_paths : 0\nbitmap_cvg     : 1.74%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500332301\nlast_crash     : 0\nlast_hang      : 1500331139\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Venture_Calculator/input -o /dev/shm/work/Venture_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Venture_Calculator/Venture_Calculator.dict -- data/linux/processed-challenges/Venture_Calculator/bin/Venture_Calculator\n'
+p65
+I5
+tp66
+a(I3960
+S'start_time     : 1500328515\nlast_update    : 1500332422\nfuzzer_pid     : 28707\ncycles_done    : 0\nexecs_done     : 1088765\nexecs_per_sec  : 256.25\npaths_total    : 252\npaths_favored  : 105\npaths_found    : 251\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 38\npending_favs   : 94\npending_total  : 236\nvariable_paths : 0\nbitmap_cvg     : 1.75%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500332415\nlast_crash     : 0\nlast_hang      : 1500331139\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Venture_Calculator/input -o /dev/shm/work/Venture_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Venture_Calculator/Venture_Calculator.dict -- data/linux/processed-challenges/Venture_Calculator/bin/Venture_Calculator\n'
+p67
+I11
+tp68
+a(I4080
+S'start_time     : 1500328515\nlast_update    : 1500332542\nfuzzer_pid     : 28707\ncycles_done    : 0\nexecs_done     : 1120260\nexecs_per_sec  : 266.14\npaths_total    : 259\npaths_favored  : 105\npaths_found    : 258\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 38\npending_favs   : 94\npending_total  : 243\nvariable_paths : 0\nbitmap_cvg     : 1.76%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500332485\nlast_crash     : 0\nlast_hang      : 1500331139\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Venture_Calculator/input -o /dev/shm/work/Venture_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Venture_Calculator/Venture_Calculator.dict -- data/linux/processed-challenges/Venture_Calculator/bin/Venture_Calculator\n'
+p69
+I4
+tp70
+a(I4200
+S'start_time     : 1500328515\nlast_update    : 1500332662\nfuzzer_pid     : 28707\ncycles_done    : 0\nexecs_done     : 1151280\nexecs_per_sec  : 253.98\npaths_total    : 264\npaths_favored  : 105\npaths_found    : 263\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 38\npending_favs   : 94\npending_total  : 248\nvariable_paths : 0\nbitmap_cvg     : 1.79%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500332640\nlast_crash     : 0\nlast_hang      : 1500331139\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Venture_Calculator/input -o /dev/shm/work/Venture_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Venture_Calculator/Venture_Calculator.dict -- data/linux/processed-challenges/Venture_Calculator/bin/Venture_Calculator\n'
+p71
+I3
+tp72
+a(I4320
+S'start_time     : 1500328515\nlast_update    : 1500332783\nfuzzer_pid     : 28707\ncycles_done    : 0\nexecs_done     : 1182215\nexecs_per_sec  : 258.95\npaths_total    : 266\npaths_favored  : 105\npaths_found    : 265\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 38\npending_favs   : 94\npending_total  : 250\nvariable_paths : 0\nbitmap_cvg     : 1.79%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500332773\nlast_crash     : 0\nlast_hang      : 1500331139\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Venture_Calculator/input -o /dev/shm/work/Venture_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Venture_Calculator/Venture_Calculator.dict -- data/linux/processed-challenges/Venture_Calculator/bin/Venture_Calculator\n'
+p73
+I1
+tp74
+a(I4440
+S'start_time     : 1500328515\nlast_update    : 1500332903\nfuzzer_pid     : 28707\ncycles_done    : 0\nexecs_done     : 1212321\nexecs_per_sec  : 229.94\npaths_total    : 267\npaths_favored  : 116\npaths_found    : 266\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 42\npending_favs   : 106\npending_total  : 250\nvariable_paths : 0\nbitmap_cvg     : 1.79%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500332896\nlast_crash     : 0\nlast_hang      : 1500331139\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Venture_Calculator/input -o /dev/shm/work/Venture_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Venture_Calculator/Venture_Calculator.dict -- data/linux/processed-challenges/Venture_Calculator/bin/Venture_Calculator\n'
+p75
+I1
+tp76
+a(I4560
+S'start_time     : 1500328515\nlast_update    : 1500333023\nfuzzer_pid     : 28707\ncycles_done    : 0\nexecs_done     : 1243865\nexecs_per_sec  : 271.34\npaths_total    : 267\npaths_favored  : 116\npaths_found    : 266\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 48\npending_favs   : 104\npending_total  : 248\nvariable_paths : 0\nbitmap_cvg     : 1.79%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500332896\nlast_crash     : 0\nlast_hang      : 1500331139\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Venture_Calculator/input -o /dev/shm/work/Venture_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Venture_Calculator/Venture_Calculator.dict -- data/linux/processed-challenges/Venture_Calculator/bin/Venture_Calculator\n'
+p77
+I0
+tp78
+a(I4680
+S'start_time     : 1500328515\nlast_update    : 1500333143\nfuzzer_pid     : 28707\ncycles_done    : 0\nexecs_done     : 1274531\nexecs_per_sec  : 264.95\npaths_total    : 267\npaths_favored  : 116\npaths_found    : 266\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 51\npending_favs   : 102\npending_total  : 246\nvariable_paths : 0\nbitmap_cvg     : 1.79%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500332896\nlast_crash     : 0\nlast_hang      : 1500331139\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Venture_Calculator/input -o /dev/shm/work/Venture_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Venture_Calculator/Venture_Calculator.dict -- data/linux/processed-challenges/Venture_Calculator/bin/Venture_Calculator\n'
+p79
+I0
+tp80
+a(I4800
+S'start_time     : 1500328515\nlast_update    : 1500333263\nfuzzer_pid     : 28707\ncycles_done    : 0\nexecs_done     : 1306636\nexecs_per_sec  : 262.18\npaths_total    : 267\npaths_favored  : 116\npaths_found    : 266\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 62\npending_favs   : 99\npending_total  : 243\nvariable_paths : 0\nbitmap_cvg     : 1.79%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500332896\nlast_crash     : 0\nlast_hang      : 1500331139\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Venture_Calculator/input -o /dev/shm/work/Venture_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Venture_Calculator/Venture_Calculator.dict -- data/linux/processed-challenges/Venture_Calculator/bin/Venture_Calculator\n'
+p81
+I0
+tp82
+a(I4920
+S'start_time     : 1500328515\nlast_update    : 1500333384\nfuzzer_pid     : 28707\ncycles_done    : 0\nexecs_done     : 1338392\nexecs_per_sec  : 263.78\npaths_total    : 267\npaths_favored  : 116\npaths_found    : 266\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 64\npending_favs   : 97\npending_total  : 241\nvariable_paths : 0\nbitmap_cvg     : 1.79%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500332896\nlast_crash     : 0\nlast_hang      : 1500331139\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Venture_Calculator/input -o /dev/shm/work/Venture_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Venture_Calculator/Venture_Calculator.dict -- data/linux/processed-challenges/Venture_Calculator/bin/Venture_Calculator\n'
+p83
+I0
+tp84
+a(I5040
+S'start_time     : 1500328515\nlast_update    : 1500333504\nfuzzer_pid     : 28707\ncycles_done    : 0\nexecs_done     : 1370779\nexecs_per_sec  : 261.89\npaths_total    : 268\npaths_favored  : 117\npaths_found    : 267\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 67\npending_favs   : 96\npending_total  : 240\nvariable_paths : 0\nbitmap_cvg     : 1.80%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500333454\nlast_crash     : 0\nlast_hang      : 1500331139\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Venture_Calculator/input -o /dev/shm/work/Venture_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Venture_Calculator/Venture_Calculator.dict -- data/linux/processed-challenges/Venture_Calculator/bin/Venture_Calculator\n'
+p85
+I1
+tp86
+a(I5160
+S'start_time     : 1500328515\nlast_update    : 1500333624\nfuzzer_pid     : 28707\ncycles_done    : 0\nexecs_done     : 1403707\nexecs_per_sec  : 285.93\npaths_total    : 268\npaths_favored  : 117\npaths_found    : 267\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 70\npending_favs   : 94\npending_total  : 238\nvariable_paths : 0\nbitmap_cvg     : 1.80%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500333454\nlast_crash     : 0\nlast_hang      : 1500331139\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Venture_Calculator/input -o /dev/shm/work/Venture_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Venture_Calculator/Venture_Calculator.dict -- data/linux/processed-challenges/Venture_Calculator/bin/Venture_Calculator\n'
+p87
+I1
+tp88
+a(I5280
+S'start_time     : 1500328515\nlast_update    : 1500333744\nfuzzer_pid     : 28707\ncycles_done    : 0\nexecs_done     : 1437518\nexecs_per_sec  : 265.31\npaths_total    : 269\npaths_favored  : 117\npaths_found    : 268\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 76\npending_favs   : 91\npending_total  : 236\nvariable_paths : 0\nbitmap_cvg     : 1.80%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500333671\nlast_crash     : 0\nlast_hang      : 1500331139\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Venture_Calculator/input -o /dev/shm/work/Venture_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Venture_Calculator/Venture_Calculator.dict -- data/linux/processed-challenges/Venture_Calculator/bin/Venture_Calculator\n'
+p89
+I0
+tp90
+a(I5400
+S'start_time     : 1500328515\nlast_update    : 1500333865\nfuzzer_pid     : 28707\ncycles_done    : 0\nexecs_done     : 1469862\nexecs_per_sec  : 262.01\npaths_total    : 269\npaths_favored  : 117\npaths_found    : 268\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 80\npending_favs   : 89\npending_total  : 234\nvariable_paths : 0\nbitmap_cvg     : 1.80%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500333671\nlast_crash     : 0\nlast_hang      : 1500331139\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Venture_Calculator/input -o /dev/shm/work/Venture_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Venture_Calculator/Venture_Calculator.dict -- data/linux/processed-challenges/Venture_Calculator/bin/Venture_Calculator\n'
+p91
+I0
+tp92
+a(I5520
+S'start_time     : 1500328515\nlast_update    : 1500333985\nfuzzer_pid     : 28707\ncycles_done    : 0\nexecs_done     : 1503150\nexecs_per_sec  : 284.21\npaths_total    : 270\npaths_favored  : 117\npaths_found    : 269\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 82\npending_favs   : 88\npending_total  : 234\nvariable_paths : 0\nbitmap_cvg     : 1.80%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500333973\nlast_crash     : 0\nlast_hang      : 1500331139\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Venture_Calculator/input -o /dev/shm/work/Venture_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Venture_Calculator/Venture_Calculator.dict -- data/linux/processed-challenges/Venture_Calculator/bin/Venture_Calculator\n'
+p93
+I1
+tp94
+a(I5640
+S'start_time     : 1500328515\nlast_update    : 1500334105\nfuzzer_pid     : 28707\ncycles_done    : 0\nexecs_done     : 1535738\nexecs_per_sec  : 251.31\npaths_total    : 270\npaths_favored  : 117\npaths_found    : 269\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 86\npending_favs   : 86\npending_total  : 232\nvariable_paths : 0\nbitmap_cvg     : 1.80%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500333973\nlast_crash     : 0\nlast_hang      : 1500331139\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Venture_Calculator/input -o /dev/shm/work/Venture_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Venture_Calculator/Venture_Calculator.dict -- data/linux/processed-challenges/Venture_Calculator/bin/Venture_Calculator\n'
+p95
+I0
+tp96
+a(I5760
+S'start_time     : 1500328515\nlast_update    : 1500334225\nfuzzer_pid     : 28707\ncycles_done    : 0\nexecs_done     : 1566573\nexecs_per_sec  : 263.52\npaths_total    : 270\npaths_favored  : 117\npaths_found    : 269\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 87\npending_favs   : 85\npending_total  : 231\nvariable_paths : 0\nbitmap_cvg     : 1.80%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500333973\nlast_crash     : 0\nlast_hang      : 1500334220\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Venture_Calculator/input -o /dev/shm/work/Venture_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Venture_Calculator/Venture_Calculator.dict -- data/linux/processed-challenges/Venture_Calculator/bin/Venture_Calculator\n'
+p97
+I0
+tp98
+a(I5880
+S'start_time     : 1500328515\nlast_update    : 1500334346\nfuzzer_pid     : 28707\ncycles_done    : 0\nexecs_done     : 1598297\nexecs_per_sec  : 276.65\npaths_total    : 271\npaths_favored  : 117\npaths_found    : 270\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 88\npending_favs   : 84\npending_total  : 231\nvariable_paths : 0\nbitmap_cvg     : 1.80%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500334341\nlast_crash     : 0\nlast_hang      : 1500334220\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Venture_Calculator/input -o /dev/shm/work/Venture_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Venture_Calculator/Venture_Calculator.dict -- data/linux/processed-challenges/Venture_Calculator/bin/Venture_Calculator\n'
+p99
+I2
+tp100
+a(I6000
+S'start_time     : 1500328515\nlast_update    : 1500334466\nfuzzer_pid     : 28707\ncycles_done    : 0\nexecs_done     : 1629954\nexecs_per_sec  : 256.57\npaths_total    : 272\npaths_favored  : 117\npaths_found    : 271\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 89\npending_favs   : 83\npending_total  : 231\nvariable_paths : 0\nbitmap_cvg     : 1.80%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500334362\nlast_crash     : 0\nlast_hang      : 1500334220\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Venture_Calculator/input -o /dev/shm/work/Venture_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Venture_Calculator/Venture_Calculator.dict -- data/linux/processed-challenges/Venture_Calculator/bin/Venture_Calculator\n'
+p101
+I1
+tp102
+a(I6120
+S'start_time     : 1500328515\nlast_update    : 1500334586\nfuzzer_pid     : 28707\ncycles_done    : 0\nexecs_done     : 1662126\nexecs_per_sec  : 269.84\npaths_total    : 274\npaths_favored  : 117\npaths_found    : 273\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 95\npending_favs   : 81\npending_total  : 231\nvariable_paths : 0\nbitmap_cvg     : 1.80%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500334559\nlast_crash     : 0\nlast_hang      : 1500334220\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Venture_Calculator/input -o /dev/shm/work/Venture_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Venture_Calculator/Venture_Calculator.dict -- data/linux/processed-challenges/Venture_Calculator/bin/Venture_Calculator\n'
+p103
+I4
+tp104
+a(I6240
+S'start_time     : 1500328515\nlast_update    : 1500334706\nfuzzer_pid     : 28707\ncycles_done    : 0\nexecs_done     : 1693750\nexecs_per_sec  : 275.21\npaths_total    : 278\npaths_favored  : 117\npaths_found    : 277\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 100\npending_favs   : 80\npending_total  : 234\nvariable_paths : 0\nbitmap_cvg     : 1.81%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500334687\nlast_crash     : 0\nlast_hang      : 1500334220\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Venture_Calculator/input -o /dev/shm/work/Venture_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Venture_Calculator/Venture_Calculator.dict -- data/linux/processed-challenges/Venture_Calculator/bin/Venture_Calculator\n'
+p105
+I4
+tp106
+a(I6360
+S'start_time     : 1500328515\nlast_update    : 1500334826\nfuzzer_pid     : 28707\ncycles_done    : 0\nexecs_done     : 1725864\nexecs_per_sec  : 277.59\npaths_total    : 284\npaths_favored  : 116\npaths_found    : 283\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 103\npending_favs   : 79\npending_total  : 239\nvariable_paths : 0\nbitmap_cvg     : 1.83%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500334800\nlast_crash     : 0\nlast_hang      : 1500334220\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Venture_Calculator/input -o /dev/shm/work/Venture_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Venture_Calculator/Venture_Calculator.dict -- data/linux/processed-challenges/Venture_Calculator/bin/Venture_Calculator\n'
+p107
+I3
+tp108
+a(I6480
+S'start_time     : 1500328515\nlast_update    : 1500334946\nfuzzer_pid     : 28707\ncycles_done    : 0\nexecs_done     : 1758699\nexecs_per_sec  : 276.73\npaths_total    : 285\npaths_favored  : 116\npaths_found    : 284\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 103\npending_favs   : 79\npending_total  : 240\nvariable_paths : 0\nbitmap_cvg     : 1.84%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500334903\nlast_crash     : 0\nlast_hang      : 1500334220\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Venture_Calculator/input -o /dev/shm/work/Venture_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Venture_Calculator/Venture_Calculator.dict -- data/linux/processed-challenges/Venture_Calculator/bin/Venture_Calculator\n'
+p109
+I2
+tp110
+a(I6600
+S'start_time     : 1500328515\nlast_update    : 1500335067\nfuzzer_pid     : 28707\ncycles_done    : 0\nexecs_done     : 1791599\nexecs_per_sec  : 270.00\npaths_total    : 287\npaths_favored  : 116\npaths_found    : 286\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 103\npending_favs   : 79\npending_total  : 242\nvariable_paths : 0\nbitmap_cvg     : 1.84%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500335059\nlast_crash     : 0\nlast_hang      : 1500334220\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Venture_Calculator/input -o /dev/shm/work/Venture_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Venture_Calculator/Venture_Calculator.dict -- data/linux/processed-challenges/Venture_Calculator/bin/Venture_Calculator\n'
+p111
+I1
+tp112
+a(I6720
+S'start_time     : 1500328515\nlast_update    : 1500335187\nfuzzer_pid     : 28707\ncycles_done    : 0\nexecs_done     : 1824279\nexecs_per_sec  : 265.74\npaths_total    : 287\npaths_favored  : 116\npaths_found    : 286\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 103\npending_favs   : 79\npending_total  : 242\nvariable_paths : 0\nbitmap_cvg     : 1.84%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500335059\nlast_crash     : 0\nlast_hang      : 1500334220\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Venture_Calculator/input -o /dev/shm/work/Venture_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Venture_Calculator/Venture_Calculator.dict -- data/linux/processed-challenges/Venture_Calculator/bin/Venture_Calculator\n'
+p113
+I0
+tp114
+a(I6840
+S'start_time     : 1500328515\nlast_update    : 1500335307\nfuzzer_pid     : 28707\ncycles_done    : 0\nexecs_done     : 1856904\nexecs_per_sec  : 265.10\npaths_total    : 288\npaths_favored  : 116\npaths_found    : 287\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 103\npending_favs   : 79\npending_total  : 243\nvariable_paths : 0\nbitmap_cvg     : 1.84%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500335243\nlast_crash     : 0\nlast_hang      : 1500334220\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Venture_Calculator/input -o /dev/shm/work/Venture_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Venture_Calculator/Venture_Calculator.dict -- data/linux/processed-challenges/Venture_Calculator/bin/Venture_Calculator\n'
+p115
+I1
+tp116
+a(I6960
+S'start_time     : 1500328515\nlast_update    : 1500335427\nfuzzer_pid     : 28707\ncycles_done    : 0\nexecs_done     : 1890614\nexecs_per_sec  : 286.36\npaths_total    : 288\npaths_favored  : 118\npaths_found    : 287\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 107\npending_favs   : 80\npending_total  : 241\nvariable_paths : 0\nbitmap_cvg     : 1.84%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500335243\nlast_crash     : 0\nlast_hang      : 1500334220\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Venture_Calculator/input -o /dev/shm/work/Venture_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Venture_Calculator/Venture_Calculator.dict -- data/linux/processed-challenges/Venture_Calculator/bin/Venture_Calculator\n'
+p117
+I0
+tp118
+a(I7080
+S'start_time     : 1500328515\nlast_update    : 1500335547\nfuzzer_pid     : 28707\ncycles_done    : 0\nexecs_done     : 1921981\nexecs_per_sec  : 264.32\npaths_total    : 288\npaths_favored  : 118\npaths_found    : 287\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 113\npending_favs   : 79\npending_total  : 240\nvariable_paths : 0\nbitmap_cvg     : 1.84%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500335243\nlast_crash     : 0\nlast_hang      : 1500334220\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Venture_Calculator/input -o /dev/shm/work/Venture_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Venture_Calculator/Venture_Calculator.dict -- data/linux/processed-challenges/Venture_Calculator/bin/Venture_Calculator\n'
+p119
+I0
+tp120
+a(I7200
+S'start_time     : 1500328515\nlast_update    : 1500335668\nfuzzer_pid     : 28707\ncycles_done    : 0\nexecs_done     : 1953462\nexecs_per_sec  : 224.66\npaths_total    : 288\npaths_favored  : 118\npaths_found    : 287\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 121\npending_favs   : 77\npending_total  : 238\nvariable_paths : 0\nbitmap_cvg     : 1.84%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500335243\nlast_crash     : 0\nlast_hang      : 1500334220\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Venture_Calculator/input -o /dev/shm/work/Venture_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Venture_Calculator/Venture_Calculator.dict -- data/linux/processed-challenges/Venture_Calculator/bin/Venture_Calculator\n'
+p121
+I10
+tp122
+a(I7320
+S'start_time     : 1500328515\nlast_update    : 1500335788\nfuzzer_pid     : 28707\ncycles_done    : 0\nexecs_done     : 1985134\nexecs_per_sec  : 284.96\npaths_total    : 300\npaths_favored  : 126\npaths_found    : 299\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 125\npending_favs   : 86\npending_total  : 249\nvariable_paths : 0\nbitmap_cvg     : 1.96%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500335759\nlast_crash     : 0\nlast_hang      : 1500334220\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Venture_Calculator/input -o /dev/shm/work/Venture_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Venture_Calculator/Venture_Calculator.dict -- data/linux/processed-challenges/Venture_Calculator/bin/Venture_Calculator\n'
+p123
+I2
+tp124
+a(I7440
+S'start_time     : 1500328515\nlast_update    : 1500335908\nfuzzer_pid     : 28707\ncycles_done    : 0\nexecs_done     : 2017878\nexecs_per_sec  : 262.17\npaths_total    : 300\npaths_favored  : 125\npaths_found    : 299\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 128\npending_favs   : 83\npending_total  : 247\nvariable_paths : 0\nbitmap_cvg     : 1.96%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500335759\nlast_crash     : 0\nlast_hang      : 1500334220\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Venture_Calculator/input -o /dev/shm/work/Venture_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Venture_Calculator/Venture_Calculator.dict -- data/linux/processed-challenges/Venture_Calculator/bin/Venture_Calculator\n'
+p125
+I0
+tp126
+a(I7560
+S'start_time     : 1500328515\nlast_update    : 1500336028\nfuzzer_pid     : 28707\ncycles_done    : 0\nexecs_done     : 2047293\nexecs_per_sec  : 223.19\npaths_total    : 301\npaths_favored  : 125\npaths_found    : 300\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 129\npending_favs   : 82\npending_total  : 247\nvariable_paths : 0\nbitmap_cvg     : 1.96%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500335987\nlast_crash     : 0\nlast_hang      : 1500334220\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Venture_Calculator/input -o /dev/shm/work/Venture_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Venture_Calculator/Venture_Calculator.dict -- data/linux/processed-challenges/Venture_Calculator/bin/Venture_Calculator\n'
+p127
+I3
+tp128
+a(I7680
+S'start_time     : 1500328515\nlast_update    : 1500336149\nfuzzer_pid     : 28707\ncycles_done    : 0\nexecs_done     : 2077082\nexecs_per_sec  : 252.33\npaths_total    : 308\npaths_favored  : 125\npaths_found    : 307\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 129\npending_favs   : 82\npending_total  : 254\nvariable_paths : 0\nbitmap_cvg     : 1.96%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500336115\nlast_crash     : 0\nlast_hang      : 1500334220\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Venture_Calculator/input -o /dev/shm/work/Venture_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Venture_Calculator/Venture_Calculator.dict -- data/linux/processed-challenges/Venture_Calculator/bin/Venture_Calculator\n'
+p129
+I7
+tp130
+a(I7800
+S'start_time     : 1500328515\nlast_update    : 1500336269\nfuzzer_pid     : 28707\ncycles_done    : 0\nexecs_done     : 2107612\nexecs_per_sec  : 251.98\npaths_total    : 312\npaths_favored  : 125\npaths_found    : 311\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 129\npending_favs   : 82\npending_total  : 258\nvariable_paths : 0\nbitmap_cvg     : 1.96%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500336255\nlast_crash     : 0\nlast_hang      : 1500334220\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Venture_Calculator/input -o /dev/shm/work/Venture_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Venture_Calculator/Venture_Calculator.dict -- data/linux/processed-challenges/Venture_Calculator/bin/Venture_Calculator\n'
+p131
+I3
+tp132
+a(I7920
+S'start_time     : 1500328515\nlast_update    : 1500336389\nfuzzer_pid     : 28707\ncycles_done    : 0\nexecs_done     : 2138352\nexecs_per_sec  : 251.57\npaths_total    : 313\npaths_favored  : 125\npaths_found    : 312\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 129\npending_favs   : 82\npending_total  : 259\nvariable_paths : 0\nbitmap_cvg     : 1.96%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500336271\nlast_crash     : 0\nlast_hang      : 1500334220\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Venture_Calculator/input -o /dev/shm/work/Venture_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Venture_Calculator/Venture_Calculator.dict -- data/linux/processed-challenges/Venture_Calculator/bin/Venture_Calculator\n'
+p133
+I0
+tp134
+a(I8040
+S'start_time     : 1500328515\nlast_update    : 1500336509\nfuzzer_pid     : 28707\ncycles_done    : 0\nexecs_done     : 2168962\nexecs_per_sec  : 249.98\npaths_total    : 315\npaths_favored  : 125\npaths_found    : 314\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 129\npending_favs   : 82\npending_total  : 261\nvariable_paths : 0\nbitmap_cvg     : 1.97%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500336460\nlast_crash     : 0\nlast_hang      : 1500334220\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Venture_Calculator/input -o /dev/shm/work/Venture_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Venture_Calculator/Venture_Calculator.dict -- data/linux/processed-challenges/Venture_Calculator/bin/Venture_Calculator\n'
+p135
+I4
+tp136
+a(I8160
+S'start_time     : 1500328515\nlast_update    : 1500336629\nfuzzer_pid     : 28707\ncycles_done    : 0\nexecs_done     : 2199157\nexecs_per_sec  : 252.23\npaths_total    : 319\npaths_favored  : 125\npaths_found    : 318\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 129\npending_favs   : 82\npending_total  : 265\nvariable_paths : 0\nbitmap_cvg     : 1.97%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500336625\nlast_crash     : 0\nlast_hang      : 1500334220\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Venture_Calculator/input -o /dev/shm/work/Venture_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Venture_Calculator/Venture_Calculator.dict -- data/linux/processed-challenges/Venture_Calculator/bin/Venture_Calculator\n'
+p137
+I2
+tp138
+a(I8280
+S'start_time     : 1500328515\nlast_update    : 1500336749\nfuzzer_pid     : 28707\ncycles_done    : 0\nexecs_done     : 2230810\nexecs_per_sec  : 273.09\npaths_total    : 319\npaths_favored  : 126\npaths_found    : 318\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 134\npending_favs   : 84\npending_total  : 264\nvariable_paths : 0\nbitmap_cvg     : 1.97%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500336625\nlast_crash     : 0\nlast_hang      : 1500334220\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Venture_Calculator/input -o /dev/shm/work/Venture_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Venture_Calculator/Venture_Calculator.dict -- data/linux/processed-challenges/Venture_Calculator/bin/Venture_Calculator\n'
+p139
+I0
+tp140
+a(I8400
+S'start_time     : 1500328515\nlast_update    : 1500336870\nfuzzer_pid     : 28707\ncycles_done    : 0\nexecs_done     : 2263077\nexecs_per_sec  : 267.86\npaths_total    : 319\npaths_favored  : 126\npaths_found    : 318\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 136\npending_favs   : 82\npending_total  : 262\nvariable_paths : 0\nbitmap_cvg     : 1.97%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500336625\nlast_crash     : 0\nlast_hang      : 1500334220\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Venture_Calculator/input -o /dev/shm/work/Venture_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Venture_Calculator/Venture_Calculator.dict -- data/linux/processed-challenges/Venture_Calculator/bin/Venture_Calculator\n'
+p141
+I0
+tp142
+a(I8520
+S'start_time     : 1500328515\nlast_update    : 1500336990\nfuzzer_pid     : 28707\ncycles_done    : 0\nexecs_done     : 2294246\nexecs_per_sec  : 265.61\npaths_total    : 319\npaths_favored  : 126\npaths_found    : 318\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 137\npending_favs   : 81\npending_total  : 261\nvariable_paths : 0\nbitmap_cvg     : 1.97%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500336625\nlast_crash     : 0\nlast_hang      : 1500334220\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Venture_Calculator/input -o /dev/shm/work/Venture_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Venture_Calculator/Venture_Calculator.dict -- data/linux/processed-challenges/Venture_Calculator/bin/Venture_Calculator\n'
+p143
+I2
+tp144
+a(I8640
+S'start_time     : 1500328515\nlast_update    : 1500337110\nfuzzer_pid     : 28707\ncycles_done    : 0\nexecs_done     : 2324732\nexecs_per_sec  : 255.28\npaths_total    : 323\npaths_favored  : 126\npaths_found    : 322\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 140\npending_favs   : 80\npending_total  : 264\nvariable_paths : 0\nbitmap_cvg     : 1.97%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500337102\nlast_crash     : 0\nlast_hang      : 1500334220\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Venture_Calculator/input -o /dev/shm/work/Venture_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Venture_Calculator/Venture_Calculator.dict -- data/linux/processed-challenges/Venture_Calculator/bin/Venture_Calculator\n'
+p145
+I2
+tp146
+a(I8760
+S'start_time     : 1500328515\nlast_update    : 1500337230\nfuzzer_pid     : 28707\ncycles_done    : 0\nexecs_done     : 2356097\nexecs_per_sec  : 260.38\npaths_total    : 323\npaths_favored  : 126\npaths_found    : 322\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 140\npending_favs   : 80\npending_total  : 264\nvariable_paths : 0\nbitmap_cvg     : 1.97%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500337102\nlast_crash     : 0\nlast_hang      : 1500334220\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Venture_Calculator/input -o /dev/shm/work/Venture_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Venture_Calculator/Venture_Calculator.dict -- data/linux/processed-challenges/Venture_Calculator/bin/Venture_Calculator\n'
+p147
+I0
+tp148
+a(I8880
+S'start_time     : 1500328515\nlast_update    : 1500337350\nfuzzer_pid     : 28707\ncycles_done    : 0\nexecs_done     : 2387753\nexecs_per_sec  : 268.48\npaths_total    : 323\npaths_favored  : 126\npaths_found    : 322\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 142\npending_favs   : 79\npending_total  : 263\nvariable_paths : 0\nbitmap_cvg     : 1.97%\nunique_crashes : 0\nunique_hangs   : 6\nlast_path      : 1500337102\nlast_crash     : 0\nlast_hang      : 1500337261\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Venture_Calculator/input -o /dev/shm/work/Venture_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Venture_Calculator/Venture_Calculator.dict -- data/linux/processed-challenges/Venture_Calculator/bin/Venture_Calculator\n'
+p149
+I0
+tp150
+a(I9000
+S'start_time     : 1500328515\nlast_update    : 1500337470\nfuzzer_pid     : 28707\ncycles_done    : 0\nexecs_done     : 2418182\nexecs_per_sec  : 222.23\npaths_total    : 323\npaths_favored  : 126\npaths_found    : 322\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 146\npending_favs   : 77\npending_total  : 261\nvariable_paths : 0\nbitmap_cvg     : 1.97%\nunique_crashes : 0\nunique_hangs   : 6\nlast_path      : 1500337102\nlast_crash     : 0\nlast_hang      : 1500337261\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Venture_Calculator/input -o /dev/shm/work/Venture_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Venture_Calculator/Venture_Calculator.dict -- data/linux/processed-challenges/Venture_Calculator/bin/Venture_Calculator\n'
+p151
+I2
+tp152
+a(I9120
+S'start_time     : 1500328515\nlast_update    : 1500337591\nfuzzer_pid     : 28707\ncycles_done    : 0\nexecs_done     : 2446594\nexecs_per_sec  : 242.41\npaths_total    : 327\npaths_favored  : 126\npaths_found    : 326\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 146\npending_favs   : 77\npending_total  : 265\nvariable_paths : 0\nbitmap_cvg     : 1.98%\nunique_crashes : 0\nunique_hangs   : 6\nlast_path      : 1500337543\nlast_crash     : 0\nlast_hang      : 1500337261\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Venture_Calculator/input -o /dev/shm/work/Venture_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Venture_Calculator/Venture_Calculator.dict -- data/linux/processed-challenges/Venture_Calculator/bin/Venture_Calculator\n'
+p153
+I5
+tp154
+a(I9240
+S'start_time     : 1500328515\nlast_update    : 1500337711\nfuzzer_pid     : 28707\ncycles_done    : 0\nexecs_done     : 2476440\nexecs_per_sec  : 247.54\npaths_total    : 332\npaths_favored  : 126\npaths_found    : 331\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 146\npending_favs   : 77\npending_total  : 270\nvariable_paths : 0\nbitmap_cvg     : 1.99%\nunique_crashes : 0\nunique_hangs   : 6\nlast_path      : 1500337705\nlast_crash     : 0\nlast_hang      : 1500337261\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Venture_Calculator/input -o /dev/shm/work/Venture_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Venture_Calculator/Venture_Calculator.dict -- data/linux/processed-challenges/Venture_Calculator/bin/Venture_Calculator\n'
+p155
+I4
+tp156
+a(I9360
+S'start_time     : 1500328515\nlast_update    : 1500337831\nfuzzer_pid     : 28707\ncycles_done    : 0\nexecs_done     : 2506238\nexecs_per_sec  : 247.80\npaths_total    : 335\npaths_favored  : 126\npaths_found    : 334\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 146\npending_favs   : 77\npending_total  : 273\nvariable_paths : 0\nbitmap_cvg     : 1.99%\nunique_crashes : 0\nunique_hangs   : 6\nlast_path      : 1500337806\nlast_crash     : 0\nlast_hang      : 1500337261\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Venture_Calculator/input -o /dev/shm/work/Venture_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Venture_Calculator/Venture_Calculator.dict -- data/linux/processed-challenges/Venture_Calculator/bin/Venture_Calculator\n'
+p157
+I3
+tp158
+a(I9480
+S'start_time     : 1500328515\nlast_update    : 1500337951\nfuzzer_pid     : 28707\ncycles_done    : 0\nexecs_done     : 2536092\nexecs_per_sec  : 244.01\npaths_total    : 340\npaths_favored  : 126\npaths_found    : 339\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 146\npending_favs   : 77\npending_total  : 278\nvariable_paths : 0\nbitmap_cvg     : 1.99%\nunique_crashes : 0\nunique_hangs   : 6\nlast_path      : 1500337946\nlast_crash     : 0\nlast_hang      : 1500337261\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Venture_Calculator/input -o /dev/shm/work/Venture_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Venture_Calculator/Venture_Calculator.dict -- data/linux/processed-challenges/Venture_Calculator/bin/Venture_Calculator\n'
+p159
+I5
+tp160
+a(I9600
+S'start_time     : 1500328515\nlast_update    : 1500338072\nfuzzer_pid     : 28707\ncycles_done    : 0\nexecs_done     : 2565456\nexecs_per_sec  : 243.09\npaths_total    : 342\npaths_favored  : 126\npaths_found    : 341\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 146\npending_favs   : 77\npending_total  : 280\nvariable_paths : 0\nbitmap_cvg     : 1.99%\nunique_crashes : 0\nunique_hangs   : 6\nlast_path      : 1500337972\nlast_crash     : 0\nlast_hang      : 1500337261\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Venture_Calculator/input -o /dev/shm/work/Venture_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Venture_Calculator/Venture_Calculator.dict -- data/linux/processed-challenges/Venture_Calculator/bin/Venture_Calculator\n'
+p161
+I1
+tp162
+a(I9720
+S'start_time     : 1500328515\nlast_update    : 1500338192\nfuzzer_pid     : 28707\ncycles_done    : 0\nexecs_done     : 2594523\nexecs_per_sec  : 255.77\npaths_total    : 346\npaths_favored  : 131\npaths_found    : 345\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 150\npending_favs   : 82\npending_total  : 283\nvariable_paths : 0\nbitmap_cvg     : 1.99%\nunique_crashes : 0\nunique_hangs   : 6\nlast_path      : 1500338192\nlast_crash     : 0\nlast_hang      : 1500337261\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Venture_Calculator/input -o /dev/shm/work/Venture_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Venture_Calculator/Venture_Calculator.dict -- data/linux/processed-challenges/Venture_Calculator/bin/Venture_Calculator\n'
+p163
+I3
+tp164
+a(I9840
+S'start_time     : 1500328515\nlast_update    : 1500338312\nfuzzer_pid     : 28707\ncycles_done    : 0\nexecs_done     : 2623859\nexecs_per_sec  : 256.61\npaths_total    : 351\npaths_favored  : 134\npaths_found    : 350\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 160\npending_favs   : 84\npending_total  : 286\nvariable_paths : 0\nbitmap_cvg     : 2.02%\nunique_crashes : 0\nunique_hangs   : 6\nlast_path      : 1500338263\nlast_crash     : 0\nlast_hang      : 1500337261\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Venture_Calculator/input -o /dev/shm/work/Venture_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Venture_Calculator/Venture_Calculator.dict -- data/linux/processed-challenges/Venture_Calculator/bin/Venture_Calculator\n'
+p165
+I5
+tp166
+a(I9960
+S'start_time     : 1500328515\nlast_update    : 1500338432\nfuzzer_pid     : 28707\ncycles_done    : 0\nexecs_done     : 2654324\nexecs_per_sec  : 243.14\npaths_total    : 351\npaths_favored  : 134\npaths_found    : 350\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 162\npending_favs   : 83\npending_total  : 285\nvariable_paths : 0\nbitmap_cvg     : 2.02%\nunique_crashes : 0\nunique_hangs   : 6\nlast_path      : 1500338263\nlast_crash     : 0\nlast_hang      : 1500337261\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Venture_Calculator/input -o /dev/shm/work/Venture_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Venture_Calculator/Venture_Calculator.dict -- data/linux/processed-challenges/Venture_Calculator/bin/Venture_Calculator\n'
+p167
+I2
+tp168
+a(I10080
+S'start_time     : 1500328515\nlast_update    : 1500338552\nfuzzer_pid     : 28707\ncycles_done    : 0\nexecs_done     : 2685159\nexecs_per_sec  : 259.85\npaths_total    : 354\npaths_favored  : 134\npaths_found    : 353\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 162\npending_favs   : 83\npending_total  : 288\nvariable_paths : 0\nbitmap_cvg     : 2.02%\nunique_crashes : 0\nunique_hangs   : 6\nlast_path      : 1500338509\nlast_crash     : 0\nlast_hang      : 1500337261\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Venture_Calculator/input -o /dev/shm/work/Venture_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Venture_Calculator/Venture_Calculator.dict -- data/linux/processed-challenges/Venture_Calculator/bin/Venture_Calculator\n'
+p169
+I1
+tp170
+a(I10200
+S'start_time     : 1500328515\nlast_update    : 1500338673\nfuzzer_pid     : 28707\ncycles_done    : 0\nexecs_done     : 2717039\nexecs_per_sec  : 252.20\npaths_total    : 354\npaths_favored  : 134\npaths_found    : 353\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 163\npending_favs   : 83\npending_total  : 287\nvariable_paths : 0\nbitmap_cvg     : 2.02%\nunique_crashes : 0\nunique_hangs   : 6\nlast_path      : 1500338509\nlast_crash     : 0\nlast_hang      : 1500337261\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Venture_Calculator/input -o /dev/shm/work/Venture_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Venture_Calculator/Venture_Calculator.dict -- data/linux/processed-challenges/Venture_Calculator/bin/Venture_Calculator\n'
+p171
+I0
+tp172
+a(I10320
+S'start_time     : 1500328515\nlast_update    : 1500338793\nfuzzer_pid     : 28707\ncycles_done    : 0\nexecs_done     : 2747786\nexecs_per_sec  : 268.55\npaths_total    : 354\npaths_favored  : 134\npaths_found    : 353\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 167\npending_favs   : 81\npending_total  : 285\nvariable_paths : 0\nbitmap_cvg     : 2.02%\nunique_crashes : 0\nunique_hangs   : 6\nlast_path      : 1500338509\nlast_crash     : 0\nlast_hang      : 1500337261\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Venture_Calculator/input -o /dev/shm/work/Venture_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Venture_Calculator/Venture_Calculator.dict -- data/linux/processed-challenges/Venture_Calculator/bin/Venture_Calculator\n'
+p173
+I0
+tp174
+a(I10440
+S'start_time     : 1500328515\nlast_update    : 1500338913\nfuzzer_pid     : 28707\ncycles_done    : 0\nexecs_done     : 2779378\nexecs_per_sec  : 271.09\npaths_total    : 354\npaths_favored  : 134\npaths_found    : 353\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 168\npending_favs   : 80\npending_total  : 284\nvariable_paths : 0\nbitmap_cvg     : 2.02%\nunique_crashes : 0\nunique_hangs   : 6\nlast_path      : 1500338509\nlast_crash     : 0\nlast_hang      : 1500337261\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Venture_Calculator/input -o /dev/shm/work/Venture_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Venture_Calculator/Venture_Calculator.dict -- data/linux/processed-challenges/Venture_Calculator/bin/Venture_Calculator\n'
+p175
+I0
+tp176
+a(I10560
+S'start_time     : 1500328515\nlast_update    : 1500339033\nfuzzer_pid     : 28707\ncycles_done    : 0\nexecs_done     : 2810773\nexecs_per_sec  : 222.41\npaths_total    : 354\npaths_favored  : 135\npaths_found    : 353\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 174\npending_favs   : 79\npending_total  : 282\nvariable_paths : 0\nbitmap_cvg     : 2.02%\nunique_crashes : 0\nunique_hangs   : 6\nlast_path      : 1500338509\nlast_crash     : 0\nlast_hang      : 1500337261\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Venture_Calculator/input -o /dev/shm/work/Venture_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Venture_Calculator/Venture_Calculator.dict -- data/linux/processed-challenges/Venture_Calculator/bin/Venture_Calculator\n'
+p177
+I0
+tp178
+a(I10680
+S'start_time     : 1500328515\nlast_update    : 1500339153\nfuzzer_pid     : 28707\ncycles_done    : 0\nexecs_done     : 2840576\nexecs_per_sec  : 269.73\npaths_total    : 360\npaths_favored  : 135\npaths_found    : 359\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 174\npending_favs   : 79\npending_total  : 288\nvariable_paths : 0\nbitmap_cvg     : 2.02%\nunique_crashes : 0\nunique_hangs   : 6\nlast_path      : 1500339150\nlast_crash     : 0\nlast_hang      : 1500337261\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Venture_Calculator/input -o /dev/shm/work/Venture_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Venture_Calculator/Venture_Calculator.dict -- data/linux/processed-challenges/Venture_Calculator/bin/Venture_Calculator\n'
+p179
+I8
+tp180
+a.

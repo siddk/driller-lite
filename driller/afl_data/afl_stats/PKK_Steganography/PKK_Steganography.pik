@@ -1,0 +1,452 @@
+(lp0
+(I0
+S'start_time     : 1500187625\nlast_update    : 1500187625\nfuzzer_pid     : 7376\ncycles_done    : 0\nexecs_done     : 10\nexecs_per_sec  : 188.68\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 1\npending_total  : 1\nvariable_paths : 0\nbitmap_cvg     : 0.16%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/PKK_Steganography/input -o /dev/shm/work/PKK_Steganography/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/PKK_Steganography/PKK_Steganography.dict -- data/linux/processed-challenges/PKK_Steganography/bin/PKK_Steganography\n'
+p1
+I3
+tp2
+a(I120
+S'start_time     : 1500187625\nlast_update    : 1500187745\nfuzzer_pid     : 7376\ncycles_done    : 4\nexecs_done     : 90650\nexecs_per_sec  : 759.51\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 2\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.17%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500187626\nlast_crash     : 0\nlast_hang      : 1500187675\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/PKK_Steganography/input -o /dev/shm/work/PKK_Steganography/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/PKK_Steganography/PKK_Steganography.dict -- data/linux/processed-challenges/PKK_Steganography/bin/PKK_Steganography\n'
+p3
+I0
+tp4
+a(I240
+S'start_time     : 1500187625\nlast_update    : 1500187865\nfuzzer_pid     : 7376\ncycles_done    : 11\nexecs_done     : 183490\nexecs_per_sec  : 781.48\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.17%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500187626\nlast_crash     : 0\nlast_hang      : 1500187675\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/PKK_Steganography/input -o /dev/shm/work/PKK_Steganography/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/PKK_Steganography/PKK_Steganography.dict -- data/linux/processed-challenges/PKK_Steganography/bin/PKK_Steganography\n'
+p5
+I0
+tp6
+a(I360
+S'start_time     : 1500187625\nlast_update    : 1500187986\nfuzzer_pid     : 7376\ncycles_done    : 17\nexecs_done     : 278025\nexecs_per_sec  : 788.21\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 1\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.17%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500187626\nlast_crash     : 0\nlast_hang      : 1500187675\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/PKK_Steganography/input -o /dev/shm/work/PKK_Steganography/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/PKK_Steganography/PKK_Steganography.dict -- data/linux/processed-challenges/PKK_Steganography/bin/PKK_Steganography\n'
+p7
+I0
+tp8
+a(I480
+S'start_time     : 1500187625\nlast_update    : 1500188106\nfuzzer_pid     : 7376\ncycles_done    : 23\nexecs_done     : 372275\nexecs_per_sec  : 763.00\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 2\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.17%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500187626\nlast_crash     : 0\nlast_hang      : 1500187675\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/PKK_Steganography/input -o /dev/shm/work/PKK_Steganography/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/PKK_Steganography/PKK_Steganography.dict -- data/linux/processed-challenges/PKK_Steganography/bin/PKK_Steganography\n'
+p9
+I0
+tp10
+a(I600
+S'start_time     : 1500187625\nlast_update    : 1500188226\nfuzzer_pid     : 7376\ncycles_done    : 29\nexecs_done     : 465020\nexecs_per_sec  : 777.75\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 2\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.17%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500187626\nlast_crash     : 0\nlast_hang      : 1500187675\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/PKK_Steganography/input -o /dev/shm/work/PKK_Steganography/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/PKK_Steganography/PKK_Steganography.dict -- data/linux/processed-challenges/PKK_Steganography/bin/PKK_Steganography\n'
+p11
+I0
+tp12
+a(I720
+S'start_time     : 1500187625\nlast_update    : 1500188346\nfuzzer_pid     : 7376\ncycles_done    : 36\nexecs_done     : 558895\nexecs_per_sec  : 796.13\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.17%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500187626\nlast_crash     : 0\nlast_hang      : 1500187675\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/PKK_Steganography/input -o /dev/shm/work/PKK_Steganography/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/PKK_Steganography/PKK_Steganography.dict -- data/linux/processed-challenges/PKK_Steganography/bin/PKK_Steganography\n'
+p13
+I0
+tp14
+a(I840
+S'start_time     : 1500187625\nlast_update    : 1500188467\nfuzzer_pid     : 7376\ncycles_done    : 42\nexecs_done     : 653745\nexecs_per_sec  : 789.75\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 1\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.17%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500187626\nlast_crash     : 0\nlast_hang      : 1500187675\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/PKK_Steganography/input -o /dev/shm/work/PKK_Steganography/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/PKK_Steganography/PKK_Steganography.dict -- data/linux/processed-challenges/PKK_Steganography/bin/PKK_Steganography\n'
+p15
+I0
+tp16
+a(I960
+S'start_time     : 1500187625\nlast_update    : 1500188587\nfuzzer_pid     : 7376\ncycles_done    : 48\nexecs_done     : 748463\nexecs_per_sec  : 809.55\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 2\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.17%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500187626\nlast_crash     : 0\nlast_hang      : 1500187675\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/PKK_Steganography/input -o /dev/shm/work/PKK_Steganography/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/PKK_Steganography/PKK_Steganography.dict -- data/linux/processed-challenges/PKK_Steganography/bin/PKK_Steganography\n'
+p17
+I0
+tp18
+a(I1080
+S'start_time     : 1500187625\nlast_update    : 1500188707\nfuzzer_pid     : 7376\ncycles_done    : 55\nexecs_done     : 843400\nexecs_per_sec  : 784.55\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.17%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500187626\nlast_crash     : 0\nlast_hang      : 1500187675\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/PKK_Steganography/input -o /dev/shm/work/PKK_Steganography/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/PKK_Steganography/PKK_Steganography.dict -- data/linux/processed-challenges/PKK_Steganography/bin/PKK_Steganography\n'
+p19
+I0
+tp20
+a(I1200
+S'start_time     : 1500187625\nlast_update    : 1500188827\nfuzzer_pid     : 7376\ncycles_done    : 61\nexecs_done     : 937320\nexecs_per_sec  : 776.87\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 1\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.17%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500187626\nlast_crash     : 0\nlast_hang      : 1500187675\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/PKK_Steganography/input -o /dev/shm/work/PKK_Steganography/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/PKK_Steganography/PKK_Steganography.dict -- data/linux/processed-challenges/PKK_Steganography/bin/PKK_Steganography\n'
+p21
+I0
+tp22
+a(I1320
+S'start_time     : 1500187625\nlast_update    : 1500188947\nfuzzer_pid     : 7376\ncycles_done    : 67\nexecs_done     : 1031303\nexecs_per_sec  : 830.30\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 2\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.17%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500187626\nlast_crash     : 0\nlast_hang      : 1500187675\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/PKK_Steganography/input -o /dev/shm/work/PKK_Steganography/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/PKK_Steganography/PKK_Steganography.dict -- data/linux/processed-challenges/PKK_Steganography/bin/PKK_Steganography\n'
+p23
+I0
+tp24
+a(I1440
+S'start_time     : 1500187625\nlast_update    : 1500189068\nfuzzer_pid     : 7376\ncycles_done    : 73\nexecs_done     : 1125050\nexecs_per_sec  : 780.78\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 2\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.17%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500187626\nlast_crash     : 0\nlast_hang      : 1500187675\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/PKK_Steganography/input -o /dev/shm/work/PKK_Steganography/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/PKK_Steganography/PKK_Steganography.dict -- data/linux/processed-challenges/PKK_Steganography/bin/PKK_Steganography\n'
+p25
+I0
+tp26
+a(I1560
+S'start_time     : 1500187625\nlast_update    : 1500189188\nfuzzer_pid     : 7376\ncycles_done    : 80\nexecs_done     : 1219999\nexecs_per_sec  : 806.84\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.17%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500187626\nlast_crash     : 0\nlast_hang      : 1500187675\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/PKK_Steganography/input -o /dev/shm/work/PKK_Steganography/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/PKK_Steganography/PKK_Steganography.dict -- data/linux/processed-challenges/PKK_Steganography/bin/PKK_Steganography\n'
+p27
+I0
+tp28
+a(I1680
+S'start_time     : 1500187625\nlast_update    : 1500189308\nfuzzer_pid     : 7376\ncycles_done    : 86\nexecs_done     : 1314600\nexecs_per_sec  : 785.34\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 1\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.17%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500187626\nlast_crash     : 0\nlast_hang      : 1500187675\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/PKK_Steganography/input -o /dev/shm/work/PKK_Steganography/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/PKK_Steganography/PKK_Steganography.dict -- data/linux/processed-challenges/PKK_Steganography/bin/PKK_Steganography\n'
+p29
+I0
+tp30
+a(I1800
+S'start_time     : 1500187625\nlast_update    : 1500189428\nfuzzer_pid     : 7376\ncycles_done    : 93\nexecs_done     : 1412613\nexecs_per_sec  : 862.76\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.17%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500187626\nlast_crash     : 0\nlast_hang      : 1500187675\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/PKK_Steganography/input -o /dev/shm/work/PKK_Steganography/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/PKK_Steganography/PKK_Steganography.dict -- data/linux/processed-challenges/PKK_Steganography/bin/PKK_Steganography\n'
+p31
+I0
+tp32
+a(I1920
+S'start_time     : 1500187625\nlast_update    : 1500189548\nfuzzer_pid     : 7376\ncycles_done    : 99\nexecs_done     : 1509487\nexecs_per_sec  : 808.24\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 1\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.17%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500187626\nlast_crash     : 0\nlast_hang      : 1500187675\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/PKK_Steganography/input -o /dev/shm/work/PKK_Steganography/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/PKK_Steganography/PKK_Steganography.dict -- data/linux/processed-challenges/PKK_Steganography/bin/PKK_Steganography\n'
+p33
+I0
+tp34
+a(I2040
+S'start_time     : 1500187625\nlast_update    : 1500189668\nfuzzer_pid     : 7376\ncycles_done    : 106\nexecs_done     : 1606159\nexecs_per_sec  : 837.48\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.17%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500187626\nlast_crash     : 0\nlast_hang      : 1500187675\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/PKK_Steganography/input -o /dev/shm/work/PKK_Steganography/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/PKK_Steganography/PKK_Steganography.dict -- data/linux/processed-challenges/PKK_Steganography/bin/PKK_Steganography\n'
+p35
+I0
+tp36
+a(I2160
+S'start_time     : 1500187625\nlast_update    : 1500189789\nfuzzer_pid     : 7376\ncycles_done    : 112\nexecs_done     : 1701885\nexecs_per_sec  : 791.04\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 1\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.17%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500187626\nlast_crash     : 0\nlast_hang      : 1500187675\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/PKK_Steganography/input -o /dev/shm/work/PKK_Steganography/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/PKK_Steganography/PKK_Steganography.dict -- data/linux/processed-challenges/PKK_Steganography/bin/PKK_Steganography\n'
+p37
+I0
+tp38
+a(I2280
+S'start_time     : 1500187625\nlast_update    : 1500189909\nfuzzer_pid     : 7376\ncycles_done    : 118\nexecs_done     : 1798063\nexecs_per_sec  : 811.80\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 2\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.17%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500187626\nlast_crash     : 0\nlast_hang      : 1500187675\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/PKK_Steganography/input -o /dev/shm/work/PKK_Steganography/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/PKK_Steganography/PKK_Steganography.dict -- data/linux/processed-challenges/PKK_Steganography/bin/PKK_Steganography\n'
+p39
+I0
+tp40
+a(I2400
+S'start_time     : 1500187625\nlast_update    : 1500190029\nfuzzer_pid     : 7376\ncycles_done    : 125\nexecs_done     : 1892999\nexecs_per_sec  : 808.68\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.17%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500187626\nlast_crash     : 0\nlast_hang      : 1500187675\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/PKK_Steganography/input -o /dev/shm/work/PKK_Steganography/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/PKK_Steganography/PKK_Steganography.dict -- data/linux/processed-challenges/PKK_Steganography/bin/PKK_Steganography\n'
+p41
+I0
+tp42
+a(I2520
+S'start_time     : 1500187625\nlast_update    : 1500190149\nfuzzer_pid     : 7376\ncycles_done    : 131\nexecs_done     : 1988820\nexecs_per_sec  : 769.31\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 1\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.17%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500187626\nlast_crash     : 0\nlast_hang      : 1500187675\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/PKK_Steganography/input -o /dev/shm/work/PKK_Steganography/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/PKK_Steganography/PKK_Steganography.dict -- data/linux/processed-challenges/PKK_Steganography/bin/PKK_Steganography\n'
+p43
+I0
+tp44
+a(I2640
+S'start_time     : 1500187625\nlast_update    : 1500190269\nfuzzer_pid     : 7376\ncycles_done    : 137\nexecs_done     : 2083655\nexecs_per_sec  : 791.98\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 2\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.17%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500187626\nlast_crash     : 0\nlast_hang      : 1500187675\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/PKK_Steganography/input -o /dev/shm/work/PKK_Steganography/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/PKK_Steganography/PKK_Steganography.dict -- data/linux/processed-challenges/PKK_Steganography/bin/PKK_Steganography\n'
+p45
+I0
+tp46
+a(I2760
+S'start_time     : 1500187625\nlast_update    : 1500190390\nfuzzer_pid     : 7376\ncycles_done    : 144\nexecs_done     : 2180155\nexecs_per_sec  : 792.06\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.17%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500187626\nlast_crash     : 0\nlast_hang      : 1500187675\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/PKK_Steganography/input -o /dev/shm/work/PKK_Steganography/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/PKK_Steganography/PKK_Steganography.dict -- data/linux/processed-challenges/PKK_Steganography/bin/PKK_Steganography\n'
+p47
+I0
+tp48
+a(I2880
+S'start_time     : 1500187625\nlast_update    : 1500190510\nfuzzer_pid     : 7376\ncycles_done    : 150\nexecs_done     : 2274915\nexecs_per_sec  : 787.35\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 1\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.17%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500187626\nlast_crash     : 0\nlast_hang      : 1500187675\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/PKK_Steganography/input -o /dev/shm/work/PKK_Steganography/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/PKK_Steganography/PKK_Steganography.dict -- data/linux/processed-challenges/PKK_Steganography/bin/PKK_Steganography\n'
+p49
+I0
+tp50
+a(I3000
+S'start_time     : 1500187625\nlast_update    : 1500190630\nfuzzer_pid     : 7376\ncycles_done    : 156\nexecs_done     : 2369675\nexecs_per_sec  : 794.00\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 2\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.17%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500187626\nlast_crash     : 0\nlast_hang      : 1500187675\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/PKK_Steganography/input -o /dev/shm/work/PKK_Steganography/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/PKK_Steganography/PKK_Steganography.dict -- data/linux/processed-challenges/PKK_Steganography/bin/PKK_Steganography\n'
+p51
+I0
+tp52
+a(I3120
+S'start_time     : 1500187625\nlast_update    : 1500190750\nfuzzer_pid     : 7376\ncycles_done    : 163\nexecs_done     : 2467155\nexecs_per_sec  : 779.84\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 1\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.17%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500187626\nlast_crash     : 0\nlast_hang      : 1500187675\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/PKK_Steganography/input -o /dev/shm/work/PKK_Steganography/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/PKK_Steganography/PKK_Steganography.dict -- data/linux/processed-challenges/PKK_Steganography/bin/PKK_Steganography\n'
+p53
+I0
+tp54
+a(I3240
+S'start_time     : 1500187625\nlast_update    : 1500190870\nfuzzer_pid     : 7376\ncycles_done    : 169\nexecs_done     : 2563975\nexecs_per_sec  : 822.97\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 2\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.17%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500187626\nlast_crash     : 0\nlast_hang      : 1500187675\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/PKK_Steganography/input -o /dev/shm/work/PKK_Steganography/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/PKK_Steganography/PKK_Steganography.dict -- data/linux/processed-challenges/PKK_Steganography/bin/PKK_Steganography\n'
+p55
+I0
+tp56
+a(I3360
+S'start_time     : 1500187625\nlast_update    : 1500190990\nfuzzer_pid     : 7376\ncycles_done    : 176\nexecs_done     : 2660559\nexecs_per_sec  : 808.31\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.17%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500187626\nlast_crash     : 0\nlast_hang      : 1500187675\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/PKK_Steganography/input -o /dev/shm/work/PKK_Steganography/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/PKK_Steganography/PKK_Steganography.dict -- data/linux/processed-challenges/PKK_Steganography/bin/PKK_Steganography\n'
+p57
+I0
+tp58
+a(I3480
+S'start_time     : 1500187625\nlast_update    : 1500191111\nfuzzer_pid     : 7376\ncycles_done    : 182\nexecs_done     : 2755515\nexecs_per_sec  : 795.95\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 1\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.17%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500187626\nlast_crash     : 0\nlast_hang      : 1500187675\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/PKK_Steganography/input -o /dev/shm/work/PKK_Steganography/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/PKK_Steganography/PKK_Steganography.dict -- data/linux/processed-challenges/PKK_Steganography/bin/PKK_Steganography\n'
+p59
+I0
+tp60
+a(I3600
+S'start_time     : 1500187625\nlast_update    : 1500191231\nfuzzer_pid     : 7376\ncycles_done    : 189\nexecs_done     : 2851223\nexecs_per_sec  : 816.94\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.17%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500187626\nlast_crash     : 0\nlast_hang      : 1500187675\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/PKK_Steganography/input -o /dev/shm/work/PKK_Steganography/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/PKK_Steganography/PKK_Steganography.dict -- data/linux/processed-challenges/PKK_Steganography/bin/PKK_Steganography\n'
+p61
+I0
+tp62
+a(I3720
+S'start_time     : 1500187625\nlast_update    : 1500191351\nfuzzer_pid     : 7376\ncycles_done    : 195\nexecs_done     : 2949231\nexecs_per_sec  : 809.25\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 1\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.17%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500187626\nlast_crash     : 0\nlast_hang      : 1500187675\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/PKK_Steganography/input -o /dev/shm/work/PKK_Steganography/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/PKK_Steganography/PKK_Steganography.dict -- data/linux/processed-challenges/PKK_Steganography/bin/PKK_Steganography\n'
+p63
+I0
+tp64
+a(I3840
+S'start_time     : 1500187625\nlast_update    : 1500191471\nfuzzer_pid     : 7376\ncycles_done    : 202\nexecs_done     : 3046690\nexecs_per_sec  : 791.91\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.17%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500187626\nlast_crash     : 0\nlast_hang      : 1500187675\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/PKK_Steganography/input -o /dev/shm/work/PKK_Steganography/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/PKK_Steganography/PKK_Steganography.dict -- data/linux/processed-challenges/PKK_Steganography/bin/PKK_Steganography\n'
+p65
+I0
+tp66
+a(I3960
+S'start_time     : 1500187625\nlast_update    : 1500191591\nfuzzer_pid     : 7376\ncycles_done    : 208\nexecs_done     : 3143719\nexecs_per_sec  : 813.44\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 1\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.17%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500187626\nlast_crash     : 0\nlast_hang      : 1500187675\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/PKK_Steganography/input -o /dev/shm/work/PKK_Steganography/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/PKK_Steganography/PKK_Steganography.dict -- data/linux/processed-challenges/PKK_Steganography/bin/PKK_Steganography\n'
+p67
+I0
+tp68
+a(I4080
+S'start_time     : 1500187625\nlast_update    : 1500191711\nfuzzer_pid     : 7376\ncycles_done    : 215\nexecs_done     : 3242423\nexecs_per_sec  : 821.61\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.17%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500187626\nlast_crash     : 0\nlast_hang      : 1500187675\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/PKK_Steganography/input -o /dev/shm/work/PKK_Steganography/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/PKK_Steganography/PKK_Steganography.dict -- data/linux/processed-challenges/PKK_Steganography/bin/PKK_Steganography\n'
+p69
+I0
+tp70
+a(I4200
+S'start_time     : 1500187625\nlast_update    : 1500191832\nfuzzer_pid     : 7376\ncycles_done    : 221\nexecs_done     : 3339935\nexecs_per_sec  : 805.22\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 1\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.17%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500187626\nlast_crash     : 0\nlast_hang      : 1500187675\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/PKK_Steganography/input -o /dev/shm/work/PKK_Steganography/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/PKK_Steganography/PKK_Steganography.dict -- data/linux/processed-challenges/PKK_Steganography/bin/PKK_Steganography\n'
+p71
+I0
+tp72
+a(I4320
+S'start_time     : 1500187625\nlast_update    : 1500191952\nfuzzer_pid     : 7376\ncycles_done    : 228\nexecs_done     : 3437125\nexecs_per_sec  : 794.80\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.17%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500187626\nlast_crash     : 0\nlast_hang      : 1500187675\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/PKK_Steganography/input -o /dev/shm/work/PKK_Steganography/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/PKK_Steganography/PKK_Steganography.dict -- data/linux/processed-challenges/PKK_Steganography/bin/PKK_Steganography\n'
+p73
+I0
+tp74
+a(I4440
+S'start_time     : 1500187625\nlast_update    : 1500192072\nfuzzer_pid     : 7376\ncycles_done    : 234\nexecs_done     : 3533847\nexecs_per_sec  : 811.33\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 1\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.17%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500187626\nlast_crash     : 0\nlast_hang      : 1500187675\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/PKK_Steganography/input -o /dev/shm/work/PKK_Steganography/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/PKK_Steganography/PKK_Steganography.dict -- data/linux/processed-challenges/PKK_Steganography/bin/PKK_Steganography\n'
+p75
+I0
+tp76
+a(I4560
+S'start_time     : 1500187625\nlast_update    : 1500192192\nfuzzer_pid     : 7376\ncycles_done    : 240\nexecs_done     : 3628820\nexecs_per_sec  : 783.04\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 2\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.17%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500187626\nlast_crash     : 0\nlast_hang      : 1500187675\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/PKK_Steganography/input -o /dev/shm/work/PKK_Steganography/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/PKK_Steganography/PKK_Steganography.dict -- data/linux/processed-challenges/PKK_Steganography/bin/PKK_Steganography\n'
+p77
+I0
+tp78
+a(I4680
+S'start_time     : 1500187625\nlast_update    : 1500192312\nfuzzer_pid     : 7376\ncycles_done    : 247\nexecs_done     : 3722755\nexecs_per_sec  : 779.77\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.17%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500187626\nlast_crash     : 0\nlast_hang      : 1500187675\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/PKK_Steganography/input -o /dev/shm/work/PKK_Steganography/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/PKK_Steganography/PKK_Steganography.dict -- data/linux/processed-challenges/PKK_Steganography/bin/PKK_Steganography\n'
+p79
+I0
+tp80
+a(I4800
+S'start_time     : 1500187625\nlast_update    : 1500192433\nfuzzer_pid     : 7376\ncycles_done    : 253\nexecs_done     : 3816150\nexecs_per_sec  : 782.63\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 1\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.17%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500187626\nlast_crash     : 0\nlast_hang      : 1500187675\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/PKK_Steganography/input -o /dev/shm/work/PKK_Steganography/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/PKK_Steganography/PKK_Steganography.dict -- data/linux/processed-challenges/PKK_Steganography/bin/PKK_Steganography\n'
+p81
+I0
+tp82
+a(I4920
+S'start_time     : 1500187625\nlast_update    : 1500192553\nfuzzer_pid     : 7376\ncycles_done    : 259\nexecs_done     : 3910905\nexecs_per_sec  : 779.13\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 1\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.17%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500187626\nlast_crash     : 0\nlast_hang      : 1500187675\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/PKK_Steganography/input -o /dev/shm/work/PKK_Steganography/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/PKK_Steganography/PKK_Steganography.dict -- data/linux/processed-challenges/PKK_Steganography/bin/PKK_Steganography\n'
+p83
+I0
+tp84
+a(I5040
+S'start_time     : 1500187625\nlast_update    : 1500192673\nfuzzer_pid     : 7376\ncycles_done    : 266\nexecs_done     : 4006435\nexecs_per_sec  : 806.53\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.17%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500187626\nlast_crash     : 0\nlast_hang      : 1500187675\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/PKK_Steganography/input -o /dev/shm/work/PKK_Steganography/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/PKK_Steganography/PKK_Steganography.dict -- data/linux/processed-challenges/PKK_Steganography/bin/PKK_Steganography\n'
+p85
+I0
+tp86
+a(I5160
+S'start_time     : 1500187625\nlast_update    : 1500192793\nfuzzer_pid     : 7376\ncycles_done    : 272\nexecs_done     : 4103895\nexecs_per_sec  : 835.21\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 1\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.17%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500187626\nlast_crash     : 0\nlast_hang      : 1500187675\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/PKK_Steganography/input -o /dev/shm/work/PKK_Steganography/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/PKK_Steganography/PKK_Steganography.dict -- data/linux/processed-challenges/PKK_Steganography/bin/PKK_Steganography\n'
+p87
+I0
+tp88
+a(I5280
+S'start_time     : 1500187625\nlast_update    : 1500192913\nfuzzer_pid     : 7376\ncycles_done    : 279\nexecs_done     : 4201879\nexecs_per_sec  : 807.68\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.17%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500187626\nlast_crash     : 0\nlast_hang      : 1500187675\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/PKK_Steganography/input -o /dev/shm/work/PKK_Steganography/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/PKK_Steganography/PKK_Steganography.dict -- data/linux/processed-challenges/PKK_Steganography/bin/PKK_Steganography\n'
+p89
+I0
+tp90
+a(I5400
+S'start_time     : 1500187625\nlast_update    : 1500193033\nfuzzer_pid     : 7376\ncycles_done    : 285\nexecs_done     : 4300231\nexecs_per_sec  : 873.45\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 1\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.17%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500187626\nlast_crash     : 0\nlast_hang      : 1500187675\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/PKK_Steganography/input -o /dev/shm/work/PKK_Steganography/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/PKK_Steganography/PKK_Steganography.dict -- data/linux/processed-challenges/PKK_Steganography/bin/PKK_Steganography\n'
+p91
+I0
+tp92
+a(I5520
+S'start_time     : 1500187625\nlast_update    : 1500193154\nfuzzer_pid     : 7376\ncycles_done    : 292\nexecs_done     : 4399525\nexecs_per_sec  : 792.43\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.17%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500187626\nlast_crash     : 0\nlast_hang      : 1500187675\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/PKK_Steganography/input -o /dev/shm/work/PKK_Steganography/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/PKK_Steganography/PKK_Steganography.dict -- data/linux/processed-challenges/PKK_Steganography/bin/PKK_Steganography\n'
+p93
+I0
+tp94
+a(I5640
+S'start_time     : 1500187625\nlast_update    : 1500193274\nfuzzer_pid     : 7376\ncycles_done    : 298\nexecs_done     : 4496975\nexecs_per_sec  : 817.92\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 2\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.17%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500187626\nlast_crash     : 0\nlast_hang      : 1500187675\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/PKK_Steganography/input -o /dev/shm/work/PKK_Steganography/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/PKK_Steganography/PKK_Steganography.dict -- data/linux/processed-challenges/PKK_Steganography/bin/PKK_Steganography\n'
+p95
+I0
+tp96
+a(I5760
+S'start_time     : 1500187625\nlast_update    : 1500193394\nfuzzer_pid     : 7376\ncycles_done    : 305\nexecs_done     : 4596111\nexecs_per_sec  : 808.49\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 1\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.17%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500187626\nlast_crash     : 0\nlast_hang      : 1500187675\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/PKK_Steganography/input -o /dev/shm/work/PKK_Steganography/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/PKK_Steganography/PKK_Steganography.dict -- data/linux/processed-challenges/PKK_Steganography/bin/PKK_Steganography\n'
+p97
+I0
+tp98
+a(I5880
+S'start_time     : 1500187625\nlast_update    : 1500193514\nfuzzer_pid     : 7376\ncycles_done    : 311\nexecs_done     : 4695860\nexecs_per_sec  : 873.20\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 2\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.17%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500187626\nlast_crash     : 0\nlast_hang      : 1500187675\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/PKK_Steganography/input -o /dev/shm/work/PKK_Steganography/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/PKK_Steganography/PKK_Steganography.dict -- data/linux/processed-challenges/PKK_Steganography/bin/PKK_Steganography\n'
+p99
+I0
+tp100
+a(I6000
+S'start_time     : 1500187625\nlast_update    : 1500193634\nfuzzer_pid     : 7376\ncycles_done    : 318\nexecs_done     : 4794165\nexecs_per_sec  : 797.13\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 1\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.17%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500187626\nlast_crash     : 0\nlast_hang      : 1500187675\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/PKK_Steganography/input -o /dev/shm/work/PKK_Steganography/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/PKK_Steganography/PKK_Steganography.dict -- data/linux/processed-challenges/PKK_Steganography/bin/PKK_Steganography\n'
+p101
+I0
+tp102
+a(I6120
+S'start_time     : 1500187625\nlast_update    : 1500193754\nfuzzer_pid     : 7376\ncycles_done    : 325\nexecs_done     : 4892903\nexecs_per_sec  : 808.56\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.17%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500187626\nlast_crash     : 0\nlast_hang      : 1500187675\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/PKK_Steganography/input -o /dev/shm/work/PKK_Steganography/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/PKK_Steganography/PKK_Steganography.dict -- data/linux/processed-challenges/PKK_Steganography/bin/PKK_Steganography\n'
+p103
+I0
+tp104
+a(I6240
+S'start_time     : 1500187625\nlast_update    : 1500193875\nfuzzer_pid     : 7376\ncycles_done    : 331\nexecs_done     : 4990991\nexecs_per_sec  : 826.03\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 1\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.17%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500187626\nlast_crash     : 0\nlast_hang      : 1500187675\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/PKK_Steganography/input -o /dev/shm/work/PKK_Steganography/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/PKK_Steganography/PKK_Steganography.dict -- data/linux/processed-challenges/PKK_Steganography/bin/PKK_Steganography\n'
+p105
+I0
+tp106
+a(I6360
+S'start_time     : 1500187625\nlast_update    : 1500193995\nfuzzer_pid     : 7376\ncycles_done    : 338\nexecs_done     : 5089465\nexecs_per_sec  : 793.50\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.17%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500187626\nlast_crash     : 0\nlast_hang      : 1500187675\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/PKK_Steganography/input -o /dev/shm/work/PKK_Steganography/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/PKK_Steganography/PKK_Steganography.dict -- data/linux/processed-challenges/PKK_Steganography/bin/PKK_Steganography\n'
+p107
+I0
+tp108
+a(I6480
+S'start_time     : 1500187625\nlast_update    : 1500194115\nfuzzer_pid     : 7376\ncycles_done    : 344\nexecs_done     : 5187663\nexecs_per_sec  : 841.83\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 2\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.17%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500187626\nlast_crash     : 0\nlast_hang      : 1500187675\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/PKK_Steganography/input -o /dev/shm/work/PKK_Steganography/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/PKK_Steganography/PKK_Steganography.dict -- data/linux/processed-challenges/PKK_Steganography/bin/PKK_Steganography\n'
+p109
+I0
+tp110
+a(I6600
+S'start_time     : 1500187625\nlast_update    : 1500194236\nfuzzer_pid     : 7376\ncycles_done    : 351\nexecs_done     : 5286447\nexecs_per_sec  : 834.20\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 1\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.17%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500187626\nlast_crash     : 0\nlast_hang      : 1500187675\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/PKK_Steganography/input -o /dev/shm/work/PKK_Steganography/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/PKK_Steganography/PKK_Steganography.dict -- data/linux/processed-challenges/PKK_Steganography/bin/PKK_Steganography\n'
+p111
+I0
+tp112
+a(I6720
+S'start_time     : 1500187625\nlast_update    : 1500194356\nfuzzer_pid     : 7376\ncycles_done    : 357\nexecs_done     : 5385591\nexecs_per_sec  : 846.47\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 2\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.17%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500187626\nlast_crash     : 0\nlast_hang      : 1500187675\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/PKK_Steganography/input -o /dev/shm/work/PKK_Steganography/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/PKK_Steganography/PKK_Steganography.dict -- data/linux/processed-challenges/PKK_Steganography/bin/PKK_Steganography\n'
+p113
+I0
+tp114
+a(I6840
+S'start_time     : 1500187625\nlast_update    : 1500194476\nfuzzer_pid     : 7376\ncycles_done    : 364\nexecs_done     : 5485479\nexecs_per_sec  : 808.05\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 1\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.17%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500187626\nlast_crash     : 0\nlast_hang      : 1500187675\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/PKK_Steganography/input -o /dev/shm/work/PKK_Steganography/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/PKK_Steganography/PKK_Steganography.dict -- data/linux/processed-challenges/PKK_Steganography/bin/PKK_Steganography\n'
+p115
+I0
+tp116
+a(I6960
+S'start_time     : 1500187625\nlast_update    : 1500194596\nfuzzer_pid     : 7376\ncycles_done    : 371\nexecs_done     : 5582631\nexecs_per_sec  : 803.51\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.17%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500187626\nlast_crash     : 0\nlast_hang      : 1500187675\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/PKK_Steganography/input -o /dev/shm/work/PKK_Steganography/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/PKK_Steganography/PKK_Steganography.dict -- data/linux/processed-challenges/PKK_Steganography/bin/PKK_Steganography\n'
+p117
+I0
+tp118
+a(I7080
+S'start_time     : 1500187625\nlast_update    : 1500194717\nfuzzer_pid     : 7376\ncycles_done    : 377\nexecs_done     : 5680943\nexecs_per_sec  : 844.53\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 1\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.17%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500187626\nlast_crash     : 0\nlast_hang      : 1500187675\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/PKK_Steganography/input -o /dev/shm/work/PKK_Steganography/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/PKK_Steganography/PKK_Steganography.dict -- data/linux/processed-challenges/PKK_Steganography/bin/PKK_Steganography\n'
+p119
+I0
+tp120
+a(I7200
+S'start_time     : 1500187625\nlast_update    : 1500194837\nfuzzer_pid     : 7376\ncycles_done    : 384\nexecs_done     : 5780543\nexecs_per_sec  : 825.89\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.17%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500187626\nlast_crash     : 0\nlast_hang      : 1500187675\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/PKK_Steganography/input -o /dev/shm/work/PKK_Steganography/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/PKK_Steganography/PKK_Steganography.dict -- data/linux/processed-challenges/PKK_Steganography/bin/PKK_Steganography\n'
+p121
+I0
+tp122
+a(I7320
+S'start_time     : 1500187625\nlast_update    : 1500194957\nfuzzer_pid     : 7376\ncycles_done    : 390\nexecs_done     : 5878959\nexecs_per_sec  : 817.98\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 2\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.17%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500187626\nlast_crash     : 0\nlast_hang      : 1500187675\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/PKK_Steganography/input -o /dev/shm/work/PKK_Steganography/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/PKK_Steganography/PKK_Steganography.dict -- data/linux/processed-challenges/PKK_Steganography/bin/PKK_Steganography\n'
+p123
+I0
+tp124
+a(I7440
+S'start_time     : 1500187625\nlast_update    : 1500195017\nfuzzer_pid     : 7376\ncycles_done    : 394\nexecs_done     : 5928591\nexecs_per_sec  : 809.37\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.17%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500187626\nlast_crash     : 0\nlast_hang      : 1500187675\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/PKK_Steganography/input -o /dev/shm/work/PKK_Steganography/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/PKK_Steganography/PKK_Steganography.dict -- data/linux/processed-challenges/PKK_Steganography/bin/PKK_Steganography\n'
+p125
+I0
+tp126
+a(I7560
+S'start_time     : 1500187625\nlast_update    : 1500195137\nfuzzer_pid     : 7376\ncycles_done    : 400\nexecs_done     : 6025767\nexecs_per_sec  : 802.55\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 1\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.17%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500187626\nlast_crash     : 0\nlast_hang      : 1500187675\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/PKK_Steganography/input -o /dev/shm/work/PKK_Steganography/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/PKK_Steganography/PKK_Steganography.dict -- data/linux/processed-challenges/PKK_Steganography/bin/PKK_Steganography\n'
+p127
+I0
+tp128
+a(I7680
+S'start_time     : 1500187625\nlast_update    : 1500195258\nfuzzer_pid     : 7376\ncycles_done    : 407\nexecs_done     : 6123985\nexecs_per_sec  : 789.39\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.17%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500187626\nlast_crash     : 0\nlast_hang      : 1500187675\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/PKK_Steganography/input -o /dev/shm/work/PKK_Steganography/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/PKK_Steganography/PKK_Steganography.dict -- data/linux/processed-challenges/PKK_Steganography/bin/PKK_Steganography\n'
+p129
+I0
+tp130
+a(I7800
+S'start_time     : 1500187625\nlast_update    : 1500195378\nfuzzer_pid     : 7376\ncycles_done    : 413\nexecs_done     : 6222335\nexecs_per_sec  : 802.89\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 2\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.17%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500187626\nlast_crash     : 0\nlast_hang      : 1500187675\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/PKK_Steganography/input -o /dev/shm/work/PKK_Steganography/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/PKK_Steganography/PKK_Steganography.dict -- data/linux/processed-challenges/PKK_Steganography/bin/PKK_Steganography\n'
+p131
+I0
+tp132
+a(I7920
+S'start_time     : 1500187625\nlast_update    : 1500195498\nfuzzer_pid     : 7376\ncycles_done    : 420\nexecs_done     : 6320671\nexecs_per_sec  : 825.04\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.17%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500187626\nlast_crash     : 0\nlast_hang      : 1500187675\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/PKK_Steganography/input -o /dev/shm/work/PKK_Steganography/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/PKK_Steganography/PKK_Steganography.dict -- data/linux/processed-challenges/PKK_Steganography/bin/PKK_Steganography\n'
+p133
+I0
+tp134
+a(I8040
+S'start_time     : 1500187625\nlast_update    : 1500195618\nfuzzer_pid     : 7376\ncycles_done    : 426\nexecs_done     : 6417860\nexecs_per_sec  : 781.91\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 2\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.17%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500187626\nlast_crash     : 0\nlast_hang      : 1500187675\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/PKK_Steganography/input -o /dev/shm/work/PKK_Steganography/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/PKK_Steganography/PKK_Steganography.dict -- data/linux/processed-challenges/PKK_Steganography/bin/PKK_Steganography\n'
+p135
+I0
+tp136
+a(I8160
+S'start_time     : 1500187625\nlast_update    : 1500195739\nfuzzer_pid     : 7376\ncycles_done    : 433\nexecs_done     : 6515758\nexecs_per_sec  : 850.94\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.17%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500187626\nlast_crash     : 0\nlast_hang      : 1500187675\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/PKK_Steganography/input -o /dev/shm/work/PKK_Steganography/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/PKK_Steganography/PKK_Steganography.dict -- data/linux/processed-challenges/PKK_Steganography/bin/PKK_Steganography\n'
+p137
+I0
+tp138
+a(I8280
+S'start_time     : 1500187625\nlast_update    : 1500195859\nfuzzer_pid     : 7376\ncycles_done    : 439\nexecs_done     : 6613640\nexecs_per_sec  : 796.21\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 2\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.17%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500187626\nlast_crash     : 0\nlast_hang      : 1500195800\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/PKK_Steganography/input -o /dev/shm/work/PKK_Steganography/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/PKK_Steganography/PKK_Steganography.dict -- data/linux/processed-challenges/PKK_Steganography/bin/PKK_Steganography\n'
+p139
+I0
+tp140
+a(I8400
+S'start_time     : 1500187625\nlast_update    : 1500195979\nfuzzer_pid     : 7376\ncycles_done    : 446\nexecs_done     : 6711644\nexecs_per_sec  : 856.13\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 1\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.17%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500187626\nlast_crash     : 0\nlast_hang      : 1500195800\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/PKK_Steganography/input -o /dev/shm/work/PKK_Steganography/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/PKK_Steganography/PKK_Steganography.dict -- data/linux/processed-challenges/PKK_Steganography/bin/PKK_Steganography\n'
+p141
+I0
+tp142
+a(I8520
+S'start_time     : 1500187625\nlast_update    : 1500196099\nfuzzer_pid     : 7376\ncycles_done    : 452\nexecs_done     : 6810271\nexecs_per_sec  : 812.01\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 2\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.17%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500187626\nlast_crash     : 0\nlast_hang      : 1500195800\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/PKK_Steganography/input -o /dev/shm/work/PKK_Steganography/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/PKK_Steganography/PKK_Steganography.dict -- data/linux/processed-challenges/PKK_Steganography/bin/PKK_Steganography\n'
+p143
+I0
+tp144
+a(I8640
+S'start_time     : 1500187625\nlast_update    : 1500196220\nfuzzer_pid     : 7376\ncycles_done    : 459\nexecs_done     : 6909285\nexecs_per_sec  : 794.71\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 1\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.17%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500187626\nlast_crash     : 0\nlast_hang      : 1500195800\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/PKK_Steganography/input -o /dev/shm/work/PKK_Steganography/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/PKK_Steganography/PKK_Steganography.dict -- data/linux/processed-challenges/PKK_Steganography/bin/PKK_Steganography\n'
+p145
+I0
+tp146
+a(I8760
+S'start_time     : 1500187625\nlast_update    : 1500196340\nfuzzer_pid     : 7376\ncycles_done    : 465\nexecs_done     : 7006010\nexecs_per_sec  : 790.53\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 2\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.17%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500187626\nlast_crash     : 0\nlast_hang      : 1500195800\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/PKK_Steganography/input -o /dev/shm/work/PKK_Steganography/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/PKK_Steganography/PKK_Steganography.dict -- data/linux/processed-challenges/PKK_Steganography/bin/PKK_Steganography\n'
+p147
+I0
+tp148
+a(I8880
+S'start_time     : 1500187625\nlast_update    : 1500196460\nfuzzer_pid     : 7376\ncycles_done    : 472\nexecs_done     : 7104177\nexecs_per_sec  : 857.25\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 1\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.17%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500187626\nlast_crash     : 0\nlast_hang      : 1500195800\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/PKK_Steganography/input -o /dev/shm/work/PKK_Steganography/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/PKK_Steganography/PKK_Steganography.dict -- data/linux/processed-challenges/PKK_Steganography/bin/PKK_Steganography\n'
+p149
+I0
+tp150
+a(I9000
+S'start_time     : 1500187625\nlast_update    : 1500196580\nfuzzer_pid     : 7376\ncycles_done    : 479\nexecs_done     : 7202583\nexecs_per_sec  : 816.19\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.17%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500187626\nlast_crash     : 0\nlast_hang      : 1500195800\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/PKK_Steganography/input -o /dev/shm/work/PKK_Steganography/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/PKK_Steganography/PKK_Steganography.dict -- data/linux/processed-challenges/PKK_Steganography/bin/PKK_Steganography\n'
+p151
+I0
+tp152
+a(I9120
+S'start_time     : 1500187625\nlast_update    : 1500196700\nfuzzer_pid     : 7376\ncycles_done    : 485\nexecs_done     : 7302086\nexecs_per_sec  : 870.93\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 2\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.17%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500187626\nlast_crash     : 0\nlast_hang      : 1500195800\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/PKK_Steganography/input -o /dev/shm/work/PKK_Steganography/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/PKK_Steganography/PKK_Steganography.dict -- data/linux/processed-challenges/PKK_Steganography/bin/PKK_Steganography\n'
+p153
+I0
+tp154
+a(I9240
+S'start_time     : 1500187625\nlast_update    : 1500196821\nfuzzer_pid     : 7376\ncycles_done    : 492\nexecs_done     : 7401719\nexecs_per_sec  : 831.96\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 1\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.17%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500187626\nlast_crash     : 0\nlast_hang      : 1500195800\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/PKK_Steganography/input -o /dev/shm/work/PKK_Steganography/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/PKK_Steganography/PKK_Steganography.dict -- data/linux/processed-challenges/PKK_Steganography/bin/PKK_Steganography\n'
+p155
+I0
+tp156
+a(I9360
+S'start_time     : 1500187625\nlast_update    : 1500196941\nfuzzer_pid     : 7376\ncycles_done    : 498\nexecs_done     : 7500979\nexecs_per_sec  : 852.91\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 2\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.17%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500187626\nlast_crash     : 0\nlast_hang      : 1500195800\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/PKK_Steganography/input -o /dev/shm/work/PKK_Steganography/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/PKK_Steganography/PKK_Steganography.dict -- data/linux/processed-challenges/PKK_Steganography/bin/PKK_Steganography\n'
+p157
+I0
+tp158
+a(I9480
+S'start_time     : 1500187625\nlast_update    : 1500197061\nfuzzer_pid     : 7376\ncycles_done    : 505\nexecs_done     : 7600469\nexecs_per_sec  : 857.85\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 1\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.17%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500187626\nlast_crash     : 0\nlast_hang      : 1500195800\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/PKK_Steganography/input -o /dev/shm/work/PKK_Steganography/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/PKK_Steganography/PKK_Steganography.dict -- data/linux/processed-challenges/PKK_Steganography/bin/PKK_Steganography\n'
+p159
+I0
+tp160
+a(I9600
+S'start_time     : 1500187625\nlast_update    : 1500197181\nfuzzer_pid     : 7376\ncycles_done    : 512\nexecs_done     : 7701287\nexecs_per_sec  : 828.29\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 1\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.17%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500187626\nlast_crash     : 0\nlast_hang      : 1500195800\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/PKK_Steganography/input -o /dev/shm/work/PKK_Steganography/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/PKK_Steganography/PKK_Steganography.dict -- data/linux/processed-challenges/PKK_Steganography/bin/PKK_Steganography\n'
+p161
+I0
+tp162
+a(I9720
+S'start_time     : 1500187625\nlast_update    : 1500197301\nfuzzer_pid     : 7376\ncycles_done    : 519\nexecs_done     : 7802023\nexecs_per_sec  : 831.70\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.17%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500187626\nlast_crash     : 0\nlast_hang      : 1500195800\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/PKK_Steganography/input -o /dev/shm/work/PKK_Steganography/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/PKK_Steganography/PKK_Steganography.dict -- data/linux/processed-challenges/PKK_Steganography/bin/PKK_Steganography\n'
+p163
+I0
+tp164
+a(I9840
+S'start_time     : 1500187625\nlast_update    : 1500197421\nfuzzer_pid     : 7376\ncycles_done    : 525\nexecs_done     : 7901525\nexecs_per_sec  : 850.63\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 2\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.17%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500187626\nlast_crash     : 0\nlast_hang      : 1500197349\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/PKK_Steganography/input -o /dev/shm/work/PKK_Steganography/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/PKK_Steganography/PKK_Steganography.dict -- data/linux/processed-challenges/PKK_Steganography/bin/PKK_Steganography\n'
+p165
+I0
+tp166
+a(I9960
+S'start_time     : 1500187625\nlast_update    : 1500197541\nfuzzer_pid     : 7376\ncycles_done    : 532\nexecs_done     : 8000671\nexecs_per_sec  : 807.76\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.17%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500187626\nlast_crash     : 0\nlast_hang      : 1500197349\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/PKK_Steganography/input -o /dev/shm/work/PKK_Steganography/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/PKK_Steganography/PKK_Steganography.dict -- data/linux/processed-challenges/PKK_Steganography/bin/PKK_Steganography\n'
+p167
+I0
+tp168
+a(I10080
+S'start_time     : 1500187625\nlast_update    : 1500197662\nfuzzer_pid     : 7376\ncycles_done    : 538\nexecs_done     : 8097860\nexecs_per_sec  : 750.71\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 2\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.17%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500187626\nlast_crash     : 0\nlast_hang      : 1500197349\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/PKK_Steganography/input -o /dev/shm/work/PKK_Steganography/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/PKK_Steganography/PKK_Steganography.dict -- data/linux/processed-challenges/PKK_Steganography/bin/PKK_Steganography\n'
+p169
+I0
+tp170
+a(I10200
+S'start_time     : 1500187625\nlast_update    : 1500197782\nfuzzer_pid     : 7376\ncycles_done    : 545\nexecs_done     : 8195175\nexecs_per_sec  : 801.40\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.17%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500187626\nlast_crash     : 0\nlast_hang      : 1500197349\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/PKK_Steganography/input -o /dev/shm/work/PKK_Steganography/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/PKK_Steganography/PKK_Steganography.dict -- data/linux/processed-challenges/PKK_Steganography/bin/PKK_Steganography\n'
+p171
+I0
+tp172
+a(I10320
+S'start_time     : 1500187625\nlast_update    : 1500197902\nfuzzer_pid     : 7376\ncycles_done    : 551\nexecs_done     : 8294039\nexecs_per_sec  : 832.68\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 2\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.17%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500187626\nlast_crash     : 0\nlast_hang      : 1500197349\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/PKK_Steganography/input -o /dev/shm/work/PKK_Steganography/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/PKK_Steganography/PKK_Steganography.dict -- data/linux/processed-challenges/PKK_Steganography/bin/PKK_Steganography\n'
+p173
+I0
+tp174
+a(I10440
+S'start_time     : 1500187625\nlast_update    : 1500198022\nfuzzer_pid     : 7376\ncycles_done    : 558\nexecs_done     : 8393767\nexecs_per_sec  : 809.35\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 1\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.17%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500187626\nlast_crash     : 0\nlast_hang      : 1500197349\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/PKK_Steganography/input -o /dev/shm/work/PKK_Steganography/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/PKK_Steganography/PKK_Steganography.dict -- data/linux/processed-challenges/PKK_Steganography/bin/PKK_Steganography\n'
+p175
+I0
+tp176
+a(I10560
+S'start_time     : 1500187625\nlast_update    : 1500198142\nfuzzer_pid     : 7376\ncycles_done    : 565\nexecs_done     : 8494663\nexecs_per_sec  : 850.28\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.17%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500187626\nlast_crash     : 0\nlast_hang      : 1500197349\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/PKK_Steganography/input -o /dev/shm/work/PKK_Steganography/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/PKK_Steganography/PKK_Steganography.dict -- data/linux/processed-challenges/PKK_Steganography/bin/PKK_Steganography\n'
+p177
+I0
+tp178
+a(I10680
+S'start_time     : 1500187625\nlast_update    : 1500198262\nfuzzer_pid     : 7376\ncycles_done    : 571\nexecs_done     : 8595527\nexecs_per_sec  : 826.59\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 2\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.17%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500187626\nlast_crash     : 0\nlast_hang      : 1500197349\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/PKK_Steganography/input -o /dev/shm/work/PKK_Steganography/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/PKK_Steganography/PKK_Steganography.dict -- data/linux/processed-challenges/PKK_Steganography/bin/PKK_Steganography\n'
+p179
+I0
+tp180
+a.

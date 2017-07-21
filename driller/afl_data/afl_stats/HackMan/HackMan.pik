@@ -1,0 +1,452 @@
+(lp0
+(I0
+S'start_time     : 1500079375\nlast_update    : 1500079375\nfuzzer_pid     : 2066\ncycles_done    : 0\nexecs_done     : 10\nexecs_per_sec  : 192.31\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 1\npending_total  : 1\nvariable_paths : 0\nbitmap_cvg     : 0.31%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/HackMan/input -o /dev/shm/work/HackMan/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/HackMan/HackMan.dict -- data/linux/processed-challenges/HackMan/bin/HackMan\n'
+p1
+I29
+tp2
+a(I120
+S'start_time     : 1500079375\nlast_update    : 1500079496\nfuzzer_pid     : 2066\ncycles_done    : 0\nexecs_done     : 100655\nexecs_per_sec  : 840.20\npaths_total    : 42\npaths_favored  : 1\npaths_found    : 41\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 1\npending_total  : 42\nvariable_paths : 0\nbitmap_cvg     : 0.57%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500079494\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/HackMan/input -o /dev/shm/work/HackMan/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/HackMan/HackMan.dict -- data/linux/processed-challenges/HackMan/bin/HackMan\n'
+p3
+I14
+tp4
+a(I240
+S'start_time     : 1500079375\nlast_update    : 1500079616\nfuzzer_pid     : 2066\ncycles_done    : 0\nexecs_done     : 196059\nexecs_per_sec  : 772.52\npaths_total    : 66\npaths_favored  : 19\npaths_found    : 65\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 13\npending_favs   : 17\npending_total  : 64\nvariable_paths : 0\nbitmap_cvg     : 0.60%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500079616\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/HackMan/input -o /dev/shm/work/HackMan/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/HackMan/HackMan.dict -- data/linux/processed-challenges/HackMan/bin/HackMan\n'
+p5
+I23
+tp6
+a(I360
+S'start_time     : 1500079375\nlast_update    : 1500079736\nfuzzer_pid     : 2066\ncycles_done    : 0\nexecs_done     : 288549\nexecs_per_sec  : 783.85\npaths_total    : 78\npaths_favored  : 19\npaths_found    : 77\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 13\npending_favs   : 17\npending_total  : 76\nvariable_paths : 0\nbitmap_cvg     : 0.61%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500079731\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/HackMan/input -o /dev/shm/work/HackMan/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/HackMan/HackMan.dict -- data/linux/processed-challenges/HackMan/bin/HackMan\n'
+p7
+I12
+tp8
+a(I480
+S'start_time     : 1500079375\nlast_update    : 1500079856\nfuzzer_pid     : 2066\ncycles_done    : 0\nexecs_done     : 384271\nexecs_per_sec  : 817.51\npaths_total    : 84\npaths_favored  : 27\npaths_found    : 83\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 28\npending_favs   : 21\npending_total  : 75\nvariable_paths : 0\nbitmap_cvg     : 0.61%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500079850\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/HackMan/input -o /dev/shm/work/HackMan/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/HackMan/HackMan.dict -- data/linux/processed-challenges/HackMan/bin/HackMan\n'
+p9
+I7
+tp10
+a(I600
+S'start_time     : 1500079375\nlast_update    : 1500079976\nfuzzer_pid     : 2066\ncycles_done    : 0\nexecs_done     : 476876\nexecs_per_sec  : 738.59\npaths_total    : 87\npaths_favored  : 29\npaths_found    : 86\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 47\npending_favs   : 15\npending_total  : 69\nvariable_paths : 0\nbitmap_cvg     : 0.62%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500079943\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/HackMan/input -o /dev/shm/work/HackMan/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/HackMan/HackMan.dict -- data/linux/processed-challenges/HackMan/bin/HackMan\n'
+p11
+I2
+tp12
+a(I720
+S'start_time     : 1500079375\nlast_update    : 1500080097\nfuzzer_pid     : 2066\ncycles_done    : 0\nexecs_done     : 562751\nexecs_per_sec  : 754.83\npaths_total    : 94\npaths_favored  : 29\npaths_found    : 93\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 48\npending_favs   : 14\npending_total  : 75\nvariable_paths : 0\nbitmap_cvg     : 0.63%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500080087\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/HackMan/input -o /dev/shm/work/HackMan/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/HackMan/HackMan.dict -- data/linux/processed-challenges/HackMan/bin/HackMan\n'
+p13
+I7
+tp14
+a(I840
+S'start_time     : 1500079375\nlast_update    : 1500080217\nfuzzer_pid     : 2066\ncycles_done    : 0\nexecs_done     : 653076\nexecs_per_sec  : 751.65\npaths_total    : 98\npaths_favored  : 29\npaths_found    : 97\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 48\npending_favs   : 14\npending_total  : 79\nvariable_paths : 0\nbitmap_cvg     : 0.63%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500080176\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/HackMan/input -o /dev/shm/work/HackMan/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/HackMan/HackMan.dict -- data/linux/processed-challenges/HackMan/bin/HackMan\n'
+p15
+I4
+tp16
+a(I960
+S'start_time     : 1500079375\nlast_update    : 1500080337\nfuzzer_pid     : 2066\ncycles_done    : 0\nexecs_done     : 744573\nexecs_per_sec  : 770.41\npaths_total    : 134\npaths_favored  : 32\npaths_found    : 133\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 65\npending_favs   : 17\npending_total  : 113\nvariable_paths : 0\nbitmap_cvg     : 0.70%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500080328\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/HackMan/input -o /dev/shm/work/HackMan/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/HackMan/HackMan.dict -- data/linux/processed-challenges/HackMan/bin/HackMan\n'
+p17
+I36
+tp18
+a(I1080
+S'start_time     : 1500079375\nlast_update    : 1500080457\nfuzzer_pid     : 2066\ncycles_done    : 0\nexecs_done     : 836783\nexecs_per_sec  : 759.03\npaths_total    : 145\npaths_favored  : 32\npaths_found    : 144\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 65\npending_favs   : 17\npending_total  : 124\nvariable_paths : 0\nbitmap_cvg     : 0.71%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500080446\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/HackMan/input -o /dev/shm/work/HackMan/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/HackMan/HackMan.dict -- data/linux/processed-challenges/HackMan/bin/HackMan\n'
+p19
+I13
+tp20
+a(I1200
+S'start_time     : 1500079375\nlast_update    : 1500080578\nfuzzer_pid     : 2066\ncycles_done    : 0\nexecs_done     : 928326\nexecs_per_sec  : 790.79\npaths_total    : 155\npaths_favored  : 60\npaths_found    : 154\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 67\npending_favs   : 44\npending_total  : 132\nvariable_paths : 0\nbitmap_cvg     : 0.72%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500080565\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/HackMan/input -o /dev/shm/work/HackMan/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/HackMan/HackMan.dict -- data/linux/processed-challenges/HackMan/bin/HackMan\n'
+p21
+I8
+tp22
+a(I1320
+S'start_time     : 1500079375\nlast_update    : 1500080698\nfuzzer_pid     : 2066\ncycles_done    : 0\nexecs_done     : 1024360\nexecs_per_sec  : 799.46\npaths_total    : 158\npaths_favored  : 60\npaths_found    : 157\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 67\npending_favs   : 44\npending_total  : 135\nvariable_paths : 0\nbitmap_cvg     : 0.72%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500080688\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/HackMan/input -o /dev/shm/work/HackMan/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/HackMan/HackMan.dict -- data/linux/processed-challenges/HackMan/bin/HackMan\n'
+p23
+I3
+tp24
+a(I1440
+S'start_time     : 1500079375\nlast_update    : 1500080818\nfuzzer_pid     : 2066\ncycles_done    : 0\nexecs_done     : 1118065\nexecs_per_sec  : 774.90\npaths_total    : 165\npaths_favored  : 66\npaths_found    : 164\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 73\npending_favs   : 48\npending_total  : 140\nvariable_paths : 0\nbitmap_cvg     : 0.74%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500080813\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/HackMan/input -o /dev/shm/work/HackMan/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/HackMan/HackMan.dict -- data/linux/processed-challenges/HackMan/bin/HackMan\n'
+p25
+I7
+tp26
+a(I1560
+S'start_time     : 1500079375\nlast_update    : 1500080938\nfuzzer_pid     : 2066\ncycles_done    : 0\nexecs_done     : 1204760\nexecs_per_sec  : 810.27\npaths_total    : 173\npaths_favored  : 73\npaths_found    : 172\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 84\npending_favs   : 50\npending_total  : 143\nvariable_paths : 0\nbitmap_cvg     : 0.75%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500080927\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/HackMan/input -o /dev/shm/work/HackMan/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/HackMan/HackMan.dict -- data/linux/processed-challenges/HackMan/bin/HackMan\n'
+p27
+I9
+tp28
+a(I1680
+S'start_time     : 1500079375\nlast_update    : 1500081058\nfuzzer_pid     : 2066\ncycles_done    : 0\nexecs_done     : 1296919\nexecs_per_sec  : 750.28\npaths_total    : 182\npaths_favored  : 75\npaths_found    : 181\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 101\npending_favs   : 49\npending_total  : 148\nvariable_paths : 0\nbitmap_cvg     : 0.77%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500081047\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/HackMan/input -o /dev/shm/work/HackMan/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/HackMan/HackMan.dict -- data/linux/processed-challenges/HackMan/bin/HackMan\n'
+p29
+I8
+tp30
+a(I1800
+S'start_time     : 1500079375\nlast_update    : 1500081178\nfuzzer_pid     : 2066\ncycles_done    : 0\nexecs_done     : 1388924\nexecs_per_sec  : 762.48\npaths_total    : 183\npaths_favored  : 75\npaths_found    : 182\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 101\npending_favs   : 49\npending_total  : 149\nvariable_paths : 0\nbitmap_cvg     : 0.77%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500081149\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/HackMan/input -o /dev/shm/work/HackMan/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/HackMan/HackMan.dict -- data/linux/processed-challenges/HackMan/bin/HackMan\n'
+p31
+I1
+tp32
+a(I1920
+S'start_time     : 1500079375\nlast_update    : 1500081299\nfuzzer_pid     : 2066\ncycles_done    : 0\nexecs_done     : 1479645\nexecs_per_sec  : 758.94\npaths_total    : 186\npaths_favored  : 82\npaths_found    : 185\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 104\npending_favs   : 54\npending_total  : 150\nvariable_paths : 0\nbitmap_cvg     : 0.78%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500081278\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/HackMan/input -o /dev/shm/work/HackMan/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/HackMan/HackMan.dict -- data/linux/processed-challenges/HackMan/bin/HackMan\n'
+p33
+I4
+tp34
+a(I2040
+S'start_time     : 1500079375\nlast_update    : 1500081419\nfuzzer_pid     : 2066\ncycles_done    : 0\nexecs_done     : 1571362\nexecs_per_sec  : 773.04\npaths_total    : 189\npaths_favored  : 87\npaths_found    : 188\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 109\npending_favs   : 58\npending_total  : 152\nvariable_paths : 0\nbitmap_cvg     : 0.78%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500081318\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/HackMan/input -o /dev/shm/work/HackMan/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/HackMan/HackMan.dict -- data/linux/processed-challenges/HackMan/bin/HackMan\n'
+p35
+I2
+tp36
+a(I2160
+S'start_time     : 1500079375\nlast_update    : 1500081539\nfuzzer_pid     : 2066\ncycles_done    : 0\nexecs_done     : 1661261\nexecs_per_sec  : 770.88\npaths_total    : 196\npaths_favored  : 87\npaths_found    : 195\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 110\npending_favs   : 57\npending_total  : 158\nvariable_paths : 0\nbitmap_cvg     : 0.78%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500081505\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/HackMan/input -o /dev/shm/work/HackMan/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/HackMan/HackMan.dict -- data/linux/processed-challenges/HackMan/bin/HackMan\n'
+p37
+I7
+tp38
+a(I2280
+S'start_time     : 1500079375\nlast_update    : 1500081659\nfuzzer_pid     : 2066\ncycles_done    : 0\nexecs_done     : 1753001\nexecs_per_sec  : 745.49\npaths_total    : 199\npaths_favored  : 89\npaths_found    : 198\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 111\npending_favs   : 59\npending_total  : 160\nvariable_paths : 0\nbitmap_cvg     : 0.78%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500081554\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/HackMan/input -o /dev/shm/work/HackMan/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/HackMan/HackMan.dict -- data/linux/processed-challenges/HackMan/bin/HackMan\n'
+p39
+I3
+tp40
+a(I2400
+S'start_time     : 1500079375\nlast_update    : 1500081779\nfuzzer_pid     : 2066\ncycles_done    : 0\nexecs_done     : 1844886\nexecs_per_sec  : 780.56\npaths_total    : 200\npaths_favored  : 89\npaths_found    : 199\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 115\npending_favs   : 56\npending_total  : 158\nvariable_paths : 0\nbitmap_cvg     : 0.78%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500081762\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/HackMan/input -o /dev/shm/work/HackMan/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/HackMan/HackMan.dict -- data/linux/processed-challenges/HackMan/bin/HackMan\n'
+p41
+I1
+tp42
+a(I2520
+S'start_time     : 1500079375\nlast_update    : 1500081900\nfuzzer_pid     : 2066\ncycles_done    : 0\nexecs_done     : 1933803\nexecs_per_sec  : 717.75\npaths_total    : 201\npaths_favored  : 90\npaths_found    : 200\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 122\npending_favs   : 53\npending_total  : 155\nvariable_paths : 0\nbitmap_cvg     : 0.78%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500081881\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/HackMan/input -o /dev/shm/work/HackMan/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/HackMan/HackMan.dict -- data/linux/processed-challenges/HackMan/bin/HackMan\n'
+p43
+I1
+tp44
+a(I2640
+S'start_time     : 1500079375\nlast_update    : 1500082020\nfuzzer_pid     : 2066\ncycles_done    : 0\nexecs_done     : 2018636\nexecs_per_sec  : 747.32\npaths_total    : 203\npaths_favored  : 92\npaths_found    : 202\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 128\npending_favs   : 51\npending_total  : 152\nvariable_paths : 0\nbitmap_cvg     : 0.79%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500081955\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/HackMan/input -o /dev/shm/work/HackMan/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/HackMan/HackMan.dict -- data/linux/processed-challenges/HackMan/bin/HackMan\n'
+p45
+I2
+tp46
+a(I2760
+S'start_time     : 1500079375\nlast_update    : 1500082140\nfuzzer_pid     : 2066\ncycles_done    : 0\nexecs_done     : 2109329\nexecs_per_sec  : 658.68\npaths_total    : 203\npaths_favored  : 92\npaths_found    : 202\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 136\npending_favs   : 47\npending_total  : 148\nvariable_paths : 0\nbitmap_cvg     : 0.79%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500081955\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/HackMan/input -o /dev/shm/work/HackMan/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/HackMan/HackMan.dict -- data/linux/processed-challenges/HackMan/bin/HackMan\n'
+p47
+I0
+tp48
+a(I2880
+S'start_time     : 1500079375\nlast_update    : 1500082260\nfuzzer_pid     : 2066\ncycles_done    : 0\nexecs_done     : 2196910\nexecs_per_sec  : 694.62\npaths_total    : 203\npaths_favored  : 92\npaths_found    : 202\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 142\npending_favs   : 43\npending_total  : 144\nvariable_paths : 0\nbitmap_cvg     : 0.79%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500081955\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/HackMan/input -o /dev/shm/work/HackMan/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/HackMan/HackMan.dict -- data/linux/processed-challenges/HackMan/bin/HackMan\n'
+p49
+I0
+tp50
+a(I3000
+S'start_time     : 1500079375\nlast_update    : 1500082380\nfuzzer_pid     : 2066\ncycles_done    : 0\nexecs_done     : 2285362\nexecs_per_sec  : 760.86\npaths_total    : 204\npaths_favored  : 92\npaths_found    : 203\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 152\npending_favs   : 39\npending_total  : 141\nvariable_paths : 0\nbitmap_cvg     : 0.79%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500082322\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/HackMan/input -o /dev/shm/work/HackMan/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/HackMan/HackMan.dict -- data/linux/processed-challenges/HackMan/bin/HackMan\n'
+p51
+I1
+tp52
+a(I3120
+S'start_time     : 1500079375\nlast_update    : 1500082500\nfuzzer_pid     : 2066\ncycles_done    : 0\nexecs_done     : 2376543\nexecs_per_sec  : 685.20\npaths_total    : 204\npaths_favored  : 92\npaths_found    : 203\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 160\npending_favs   : 33\npending_total  : 135\nvariable_paths : 0\nbitmap_cvg     : 0.79%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500082322\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/HackMan/input -o /dev/shm/work/HackMan/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/HackMan/HackMan.dict -- data/linux/processed-challenges/HackMan/bin/HackMan\n'
+p53
+I0
+tp54
+a(I3240
+S'start_time     : 1500079375\nlast_update    : 1500082621\nfuzzer_pid     : 2066\ncycles_done    : 0\nexecs_done     : 2461144\nexecs_per_sec  : 736.05\npaths_total    : 213\npaths_favored  : 92\npaths_found    : 212\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 161\npending_favs   : 32\npending_total  : 143\nvariable_paths : 0\nbitmap_cvg     : 0.81%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500082609\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/HackMan/input -o /dev/shm/work/HackMan/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/HackMan/HackMan.dict -- data/linux/processed-challenges/HackMan/bin/HackMan\n'
+p55
+I9
+tp56
+a(I3360
+S'start_time     : 1500079375\nlast_update    : 1500082741\nfuzzer_pid     : 2066\ncycles_done    : 0\nexecs_done     : 2548341\nexecs_per_sec  : 710.89\npaths_total    : 216\npaths_favored  : 93\npaths_found    : 215\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 164\npending_favs   : 33\npending_total  : 143\nvariable_paths : 0\nbitmap_cvg     : 0.81%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500082672\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/HackMan/input -o /dev/shm/work/HackMan/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/HackMan/HackMan.dict -- data/linux/processed-challenges/HackMan/bin/HackMan\n'
+p57
+I3
+tp58
+a(I3480
+S'start_time     : 1500079375\nlast_update    : 1500082861\nfuzzer_pid     : 2066\ncycles_done    : 0\nexecs_done     : 2638613\nexecs_per_sec  : 695.58\npaths_total    : 219\npaths_favored  : 94\npaths_found    : 218\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 166\npending_favs   : 33\npending_total  : 145\nvariable_paths : 0\nbitmap_cvg     : 0.81%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500082777\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/HackMan/input -o /dev/shm/work/HackMan/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/HackMan/HackMan.dict -- data/linux/processed-challenges/HackMan/bin/HackMan\n'
+p59
+I3
+tp60
+a(I3600
+S'start_time     : 1500079375\nlast_update    : 1500082982\nfuzzer_pid     : 2066\ncycles_done    : 0\nexecs_done     : 2726103\nexecs_per_sec  : 738.43\npaths_total    : 221\npaths_favored  : 96\npaths_found    : 220\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 168\npending_favs   : 33\npending_total  : 145\nvariable_paths : 0\nbitmap_cvg     : 0.82%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500082890\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/HackMan/input -o /dev/shm/work/HackMan/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/HackMan/HackMan.dict -- data/linux/processed-challenges/HackMan/bin/HackMan\n'
+p61
+I2
+tp62
+a(I3720
+S'start_time     : 1500079375\nlast_update    : 1500083102\nfuzzer_pid     : 2066\ncycles_done    : 0\nexecs_done     : 2809910\nexecs_per_sec  : 744.14\npaths_total    : 221\npaths_favored  : 96\npaths_found    : 220\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 173\npending_favs   : 29\npending_total  : 141\nvariable_paths : 0\nbitmap_cvg     : 0.82%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500082890\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/HackMan/input -o /dev/shm/work/HackMan/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/HackMan/HackMan.dict -- data/linux/processed-challenges/HackMan/bin/HackMan\n'
+p63
+I0
+tp64
+a(I3840
+S'start_time     : 1500079375\nlast_update    : 1500083222\nfuzzer_pid     : 2066\ncycles_done    : 0\nexecs_done     : 2903234\nexecs_per_sec  : 776.36\npaths_total    : 231\npaths_favored  : 96\npaths_found    : 230\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 174\npending_favs   : 28\npending_total  : 150\nvariable_paths : 0\nbitmap_cvg     : 0.83%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500083206\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/HackMan/input -o /dev/shm/work/HackMan/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/HackMan/HackMan.dict -- data/linux/processed-challenges/HackMan/bin/HackMan\n'
+p65
+I10
+tp66
+a(I3960
+S'start_time     : 1500079375\nlast_update    : 1500083342\nfuzzer_pid     : 2066\ncycles_done    : 0\nexecs_done     : 2997824\nexecs_per_sec  : 790.50\npaths_total    : 231\npaths_favored  : 96\npaths_found    : 230\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 174\npending_favs   : 28\npending_total  : 150\nvariable_paths : 0\nbitmap_cvg     : 0.83%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500083206\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/HackMan/input -o /dev/shm/work/HackMan/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/HackMan/HackMan.dict -- data/linux/processed-challenges/HackMan/bin/HackMan\n'
+p67
+I0
+tp68
+a(I4080
+S'start_time     : 1500079375\nlast_update    : 1500083462\nfuzzer_pid     : 2066\ncycles_done    : 0\nexecs_done     : 3088357\nexecs_per_sec  : 734.44\npaths_total    : 231\npaths_favored  : 102\npaths_found    : 230\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 178\npending_favs   : 31\npending_total  : 146\nvariable_paths : 0\nbitmap_cvg     : 0.83%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500083206\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/HackMan/input -o /dev/shm/work/HackMan/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/HackMan/HackMan.dict -- data/linux/processed-challenges/HackMan/bin/HackMan\n'
+p69
+I0
+tp70
+a(I4200
+S'start_time     : 1500079375\nlast_update    : 1500083582\nfuzzer_pid     : 2066\ncycles_done    : 0\nexecs_done     : 3174775\nexecs_per_sec  : 766.40\npaths_total    : 231\npaths_favored  : 102\npaths_found    : 230\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 182\npending_favs   : 27\npending_total  : 142\nvariable_paths : 0\nbitmap_cvg     : 0.83%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500083206\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/HackMan/input -o /dev/shm/work/HackMan/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/HackMan/HackMan.dict -- data/linux/processed-challenges/HackMan/bin/HackMan\n'
+p71
+I0
+tp72
+a(I4320
+S'start_time     : 1500079375\nlast_update    : 1500083703\nfuzzer_pid     : 2066\ncycles_done    : 0\nexecs_done     : 3263603\nexecs_per_sec  : 755.71\npaths_total    : 231\npaths_favored  : 102\npaths_found    : 230\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 191\npending_favs   : 22\npending_total  : 137\nvariable_paths : 0\nbitmap_cvg     : 0.83%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500083206\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/HackMan/input -o /dev/shm/work/HackMan/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/HackMan/HackMan.dict -- data/linux/processed-challenges/HackMan/bin/HackMan\n'
+p73
+I0
+tp74
+a(I4440
+S'start_time     : 1500079375\nlast_update    : 1500083823\nfuzzer_pid     : 2066\ncycles_done    : 0\nexecs_done     : 3348053\nexecs_per_sec  : 748.96\npaths_total    : 231\npaths_favored  : 102\npaths_found    : 230\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 199\npending_favs   : 19\npending_total  : 134\nvariable_paths : 0\nbitmap_cvg     : 0.83%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500083206\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/HackMan/input -o /dev/shm/work/HackMan/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/HackMan/HackMan.dict -- data/linux/processed-challenges/HackMan/bin/HackMan\n'
+p75
+I0
+tp76
+a(I4560
+S'start_time     : 1500079375\nlast_update    : 1500083943\nfuzzer_pid     : 2066\ncycles_done    : 0\nexecs_done     : 3428866\nexecs_per_sec  : 501.07\npaths_total    : 231\npaths_favored  : 102\npaths_found    : 230\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 206\npending_favs   : 15\npending_total  : 130\nvariable_paths : 0\nbitmap_cvg     : 0.83%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500083206\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/HackMan/input -o /dev/shm/work/HackMan/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/HackMan/HackMan.dict -- data/linux/processed-challenges/HackMan/bin/HackMan\n'
+p77
+I0
+tp78
+a(I4680
+S'start_time     : 1500079375\nlast_update    : 1500084063\nfuzzer_pid     : 2066\ncycles_done    : 0\nexecs_done     : 3499719\nexecs_per_sec  : 669.24\npaths_total    : 236\npaths_favored  : 102\npaths_found    : 235\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 208\npending_favs   : 14\npending_total  : 134\nvariable_paths : 0\nbitmap_cvg     : 0.83%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500084053\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/HackMan/input -o /dev/shm/work/HackMan/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/HackMan/HackMan.dict -- data/linux/processed-challenges/HackMan/bin/HackMan\n'
+p79
+I5
+tp80
+a(I4800
+S'start_time     : 1500079375\nlast_update    : 1500084183\nfuzzer_pid     : 2066\ncycles_done    : 0\nexecs_done     : 3580830\nexecs_per_sec  : 671.20\npaths_total    : 239\npaths_favored  : 102\npaths_found    : 238\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 208\npending_favs   : 14\npending_total  : 137\nvariable_paths : 0\nbitmap_cvg     : 0.83%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500084103\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/HackMan/input -o /dev/shm/work/HackMan/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/HackMan/HackMan.dict -- data/linux/processed-challenges/HackMan/bin/HackMan\n'
+p81
+I3
+tp82
+a(I4920
+S'start_time     : 1500079375\nlast_update    : 1500084303\nfuzzer_pid     : 2066\ncycles_done    : 0\nexecs_done     : 3659146\nexecs_per_sec  : 693.24\npaths_total    : 240\npaths_favored  : 102\npaths_found    : 239\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 215\npending_favs   : 13\npending_total  : 135\nvariable_paths : 0\nbitmap_cvg     : 0.83%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500084229\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/HackMan/input -o /dev/shm/work/HackMan/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/HackMan/HackMan.dict -- data/linux/processed-challenges/HackMan/bin/HackMan\n'
+p83
+I1
+tp84
+a(I5040
+S'start_time     : 1500079375\nlast_update    : 1500084424\nfuzzer_pid     : 2066\ncycles_done    : 0\nexecs_done     : 3745704\nexecs_per_sec  : 667.68\npaths_total    : 240\npaths_favored  : 102\npaths_found    : 239\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 220\npending_favs   : 10\npending_total  : 132\nvariable_paths : 0\nbitmap_cvg     : 0.83%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500084229\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/HackMan/input -o /dev/shm/work/HackMan/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/HackMan/HackMan.dict -- data/linux/processed-challenges/HackMan/bin/HackMan\n'
+p85
+I0
+tp86
+a(I5160
+S'start_time     : 1500079375\nlast_update    : 1500084544\nfuzzer_pid     : 2066\ncycles_done    : 0\nexecs_done     : 3836132\nexecs_per_sec  : 719.34\npaths_total    : 240\npaths_favored  : 102\npaths_found    : 239\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 224\npending_favs   : 6\npending_total  : 128\nvariable_paths : 0\nbitmap_cvg     : 0.83%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500084229\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/HackMan/input -o /dev/shm/work/HackMan/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/HackMan/HackMan.dict -- data/linux/processed-challenges/HackMan/bin/HackMan\n'
+p87
+I0
+tp88
+a(I5280
+S'start_time     : 1500079375\nlast_update    : 1500084664\nfuzzer_pid     : 2066\ncycles_done    : 0\nexecs_done     : 3925705\nexecs_per_sec  : 759.05\npaths_total    : 241\npaths_favored  : 102\npaths_found    : 240\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 227\npending_favs   : 3\npending_total  : 126\nvariable_paths : 0\nbitmap_cvg     : 0.83%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500084557\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/HackMan/input -o /dev/shm/work/HackMan/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/HackMan/HackMan.dict -- data/linux/processed-challenges/HackMan/bin/HackMan\n'
+p89
+I1
+tp90
+a(I5400
+S'start_time     : 1500079375\nlast_update    : 1500084784\nfuzzer_pid     : 2066\ncycles_done    : 0\nexecs_done     : 3996989\nexecs_per_sec  : 611.13\npaths_total    : 243\npaths_favored  : 102\npaths_found    : 242\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 238\npending_favs   : 1\npending_total  : 126\nvariable_paths : 0\nbitmap_cvg     : 0.83%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500084771\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/HackMan/input -o /dev/shm/work/HackMan/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/HackMan/HackMan.dict -- data/linux/processed-challenges/HackMan/bin/HackMan\n'
+p91
+I2
+tp92
+a(I5520
+S'start_time     : 1500079375\nlast_update    : 1500084904\nfuzzer_pid     : 2066\ncycles_done    : 0\nexecs_done     : 4070065\nexecs_per_sec  : 612.23\npaths_total    : 245\npaths_favored  : 102\npaths_found    : 244\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 238\npending_favs   : 1\npending_total  : 128\nvariable_paths : 0\nbitmap_cvg     : 0.83%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500084890\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/HackMan/input -o /dev/shm/work/HackMan/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/HackMan/HackMan.dict -- data/linux/processed-challenges/HackMan/bin/HackMan\n'
+p93
+I2
+tp94
+a(I5640
+S'start_time     : 1500079375\nlast_update    : 1500085025\nfuzzer_pid     : 2066\ncycles_done    : 0\nexecs_done     : 4126289\nexecs_per_sec  : 391.22\npaths_total    : 246\npaths_favored  : 99\npaths_found    : 245\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 241\npending_favs   : 2\npending_total  : 128\nvariable_paths : 0\nbitmap_cvg     : 0.83%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500084916\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/HackMan/input -o /dev/shm/work/HackMan/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/HackMan/HackMan.dict -- data/linux/processed-challenges/HackMan/bin/HackMan\n'
+p95
+I1
+tp96
+a(I5760
+S'start_time     : 1500079375\nlast_update    : 1500085145\nfuzzer_pid     : 2066\ncycles_done    : 1\nexecs_done     : 4193055\nexecs_per_sec  : 719.36\npaths_total    : 249\npaths_favored  : 99\npaths_found    : 248\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 108\npending_favs   : 1\npending_total  : 130\nvariable_paths : 0\nbitmap_cvg     : 0.83%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500085140\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/HackMan/input -o /dev/shm/work/HackMan/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/HackMan/HackMan.dict -- data/linux/processed-challenges/HackMan/bin/HackMan\n'
+p97
+I4
+tp98
+a(I5880
+S'start_time     : 1500079375\nlast_update    : 1500085265\nfuzzer_pid     : 2066\ncycles_done    : 1\nexecs_done     : 4283339\nexecs_per_sec  : 748.23\npaths_total    : 253\npaths_favored  : 99\npaths_found    : 252\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 108\npending_favs   : 1\npending_total  : 134\nvariable_paths : 0\nbitmap_cvg     : 0.83%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500085176\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/HackMan/input -o /dev/shm/work/HackMan/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/HackMan/HackMan.dict -- data/linux/processed-challenges/HackMan/bin/HackMan\n'
+p99
+I3
+tp100
+a(I6000
+S'start_time     : 1500079375\nlast_update    : 1500085385\nfuzzer_pid     : 2066\ncycles_done    : 1\nexecs_done     : 4374378\nexecs_per_sec  : 788.78\npaths_total    : 253\npaths_favored  : 99\npaths_found    : 252\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 115\npending_favs   : 0\npending_total  : 132\nvariable_paths : 0\nbitmap_cvg     : 0.83%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500085176\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/HackMan/input -o /dev/shm/work/HackMan/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/HackMan/HackMan.dict -- data/linux/processed-challenges/HackMan/bin/HackMan\n'
+p101
+I0
+tp102
+a(I6120
+S'start_time     : 1500079375\nlast_update    : 1500085506\nfuzzer_pid     : 2066\ncycles_done    : 1\nexecs_done     : 4467279\nexecs_per_sec  : 762.62\npaths_total    : 253\npaths_favored  : 99\npaths_found    : 252\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 129\npending_favs   : 0\npending_total  : 132\nvariable_paths : 0\nbitmap_cvg     : 0.83%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500085176\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/HackMan/input -o /dev/shm/work/HackMan/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/HackMan/HackMan.dict -- data/linux/processed-challenges/HackMan/bin/HackMan\n'
+p103
+I0
+tp104
+a(I6240
+S'start_time     : 1500079375\nlast_update    : 1500085626\nfuzzer_pid     : 2066\ncycles_done    : 1\nexecs_done     : 4520268\nexecs_per_sec  : 420.03\npaths_total    : 253\npaths_favored  : 99\npaths_found    : 252\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 131\npending_favs   : 0\npending_total  : 131\nvariable_paths : 0\nbitmap_cvg     : 0.83%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500085176\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/HackMan/input -o /dev/shm/work/HackMan/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/HackMan/HackMan.dict -- data/linux/processed-challenges/HackMan/bin/HackMan\n'
+p105
+I0
+tp106
+a(I6360
+S'start_time     : 1500079375\nlast_update    : 1500085746\nfuzzer_pid     : 2066\ncycles_done    : 1\nexecs_done     : 4606982\nexecs_per_sec  : 752.51\npaths_total    : 253\npaths_favored  : 99\npaths_found    : 252\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 142\npending_favs   : 0\npending_total  : 130\nvariable_paths : 0\nbitmap_cvg     : 0.83%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500085176\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/HackMan/input -o /dev/shm/work/HackMan/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/HackMan/HackMan.dict -- data/linux/processed-challenges/HackMan/bin/HackMan\n'
+p107
+I0
+tp108
+a(I6480
+S'start_time     : 1500079375\nlast_update    : 1500085866\nfuzzer_pid     : 2066\ncycles_done    : 1\nexecs_done     : 4673195\nexecs_per_sec  : 553.42\npaths_total    : 254\npaths_favored  : 99\npaths_found    : 253\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 147\npending_favs   : 0\npending_total  : 131\nvariable_paths : 0\nbitmap_cvg     : 0.83%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500085857\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/HackMan/input -o /dev/shm/work/HackMan/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/HackMan/HackMan.dict -- data/linux/processed-challenges/HackMan/bin/HackMan\n'
+p109
+I1
+tp110
+a(I6600
+S'start_time     : 1500079375\nlast_update    : 1500085987\nfuzzer_pid     : 2066\ncycles_done    : 1\nexecs_done     : 4760699\nexecs_per_sec  : 788.23\npaths_total    : 254\npaths_favored  : 99\npaths_found    : 253\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 159\npending_favs   : 0\npending_total  : 129\nvariable_paths : 0\nbitmap_cvg     : 0.83%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500085857\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/HackMan/input -o /dev/shm/work/HackMan/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/HackMan/HackMan.dict -- data/linux/processed-challenges/HackMan/bin/HackMan\n'
+p111
+I0
+tp112
+a(I6720
+S'start_time     : 1500079375\nlast_update    : 1500086107\nfuzzer_pid     : 2066\ncycles_done    : 1\nexecs_done     : 4853454\nexecs_per_sec  : 791.55\npaths_total    : 254\npaths_favored  : 99\npaths_found    : 253\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 174\npending_favs   : 0\npending_total  : 129\nvariable_paths : 0\nbitmap_cvg     : 0.83%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500085857\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/HackMan/input -o /dev/shm/work/HackMan/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/HackMan/HackMan.dict -- data/linux/processed-challenges/HackMan/bin/HackMan\n'
+p113
+I0
+tp114
+a(I6840
+S'start_time     : 1500079375\nlast_update    : 1500086227\nfuzzer_pid     : 2066\ncycles_done    : 1\nexecs_done     : 4948149\nexecs_per_sec  : 769.71\npaths_total    : 254\npaths_favored  : 99\npaths_found    : 253\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 183\npending_favs   : 0\npending_total  : 129\nvariable_paths : 0\nbitmap_cvg     : 0.83%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500085857\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/HackMan/input -o /dev/shm/work/HackMan/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/HackMan/HackMan.dict -- data/linux/processed-challenges/HackMan/bin/HackMan\n'
+p115
+I0
+tp116
+a(I6960
+S'start_time     : 1500079375\nlast_update    : 1500086347\nfuzzer_pid     : 2066\ncycles_done    : 1\nexecs_done     : 5037942\nexecs_per_sec  : 750.06\npaths_total    : 255\npaths_favored  : 99\npaths_found    : 254\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 198\npending_favs   : 0\npending_total  : 129\nvariable_paths : 0\nbitmap_cvg     : 0.83%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500086318\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/HackMan/input -o /dev/shm/work/HackMan/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/HackMan/HackMan.dict -- data/linux/processed-challenges/HackMan/bin/HackMan\n'
+p117
+I1
+tp118
+a(I7080
+S'start_time     : 1500079375\nlast_update    : 1500086407\nfuzzer_pid     : 2066\ncycles_done    : 1\nexecs_done     : 5084224\nexecs_per_sec  : 717.95\npaths_total    : 256\npaths_favored  : 99\npaths_found    : 255\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 209\npending_favs   : 0\npending_total  : 130\nvariable_paths : 0\nbitmap_cvg     : 0.83%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500086403\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/HackMan/input -o /dev/shm/work/HackMan/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/HackMan/HackMan.dict -- data/linux/processed-challenges/HackMan/bin/HackMan\n'
+p119
+I1
+tp120
+a(I7200
+S'start_time     : 1500079375\nlast_update    : 1500086527\nfuzzer_pid     : 2066\ncycles_done    : 1\nexecs_done     : 5175168\nexecs_per_sec  : 798.06\npaths_total    : 256\npaths_favored  : 99\npaths_found    : 255\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 221\npending_favs   : 0\npending_total  : 129\nvariable_paths : 0\nbitmap_cvg     : 0.83%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500086403\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/HackMan/input -o /dev/shm/work/HackMan/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/HackMan/HackMan.dict -- data/linux/processed-challenges/HackMan/bin/HackMan\n'
+p121
+I0
+tp122
+a(I7320
+S'start_time     : 1500079375\nlast_update    : 1500086647\nfuzzer_pid     : 2066\ncycles_done    : 1\nexecs_done     : 5259322\nexecs_per_sec  : 479.77\npaths_total    : 256\npaths_favored  : 99\npaths_found    : 255\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 232\npending_favs   : 0\npending_total  : 129\nvariable_paths : 0\nbitmap_cvg     : 0.83%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500086403\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/HackMan/input -o /dev/shm/work/HackMan/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/HackMan/HackMan.dict -- data/linux/processed-challenges/HackMan/bin/HackMan\n'
+p123
+I0
+tp124
+a(I7440
+S'start_time     : 1500079375\nlast_update    : 1500086768\nfuzzer_pid     : 2066\ncycles_done    : 1\nexecs_done     : 5325846\nexecs_per_sec  : 628.90\npaths_total    : 257\npaths_favored  : 99\npaths_found    : 256\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 233\npending_favs   : 0\npending_total  : 129\nvariable_paths : 0\nbitmap_cvg     : 0.83%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500086733\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/HackMan/input -o /dev/shm/work/HackMan/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/HackMan/HackMan.dict -- data/linux/processed-challenges/HackMan/bin/HackMan\n'
+p125
+I1
+tp126
+a(I7560
+S'start_time     : 1500079375\nlast_update    : 1500086888\nfuzzer_pid     : 2066\ncycles_done    : 1\nexecs_done     : 5378230\nexecs_per_sec  : 532.58\npaths_total    : 260\npaths_favored  : 99\npaths_found    : 259\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 235\npending_favs   : 0\npending_total  : 131\nvariable_paths : 0\nbitmap_cvg     : 0.83%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500086865\nlast_crash     : 0\nlast_hang      : 1500086877\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/HackMan/input -o /dev/shm/work/HackMan/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/HackMan/HackMan.dict -- data/linux/processed-challenges/HackMan/bin/HackMan\n'
+p127
+I5
+tp128
+a(I7680
+S'start_time     : 1500079375\nlast_update    : 1500087008\nfuzzer_pid     : 2066\ncycles_done    : 1\nexecs_done     : 5443200\nexecs_per_sec  : 534.54\npaths_total    : 262\npaths_favored  : 99\npaths_found    : 261\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 235\npending_favs   : 0\npending_total  : 133\nvariable_paths : 0\nbitmap_cvg     : 0.83%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500086914\nlast_crash     : 0\nlast_hang      : 1500086877\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/HackMan/input -o /dev/shm/work/HackMan/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/HackMan/HackMan.dict -- data/linux/processed-challenges/HackMan/bin/HackMan\n'
+p129
+I1
+tp130
+a(I7800
+S'start_time     : 1500079375\nlast_update    : 1500087128\nfuzzer_pid     : 2066\ncycles_done    : 1\nexecs_done     : 5512738\nexecs_per_sec  : 575.12\npaths_total    : 263\npaths_favored  : 99\npaths_found    : 262\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 245\npending_favs   : 0\npending_total  : 133\nvariable_paths : 0\nbitmap_cvg     : 0.83%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500087050\nlast_crash     : 0\nlast_hang      : 1500086877\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/HackMan/input -o /dev/shm/work/HackMan/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/HackMan/HackMan.dict -- data/linux/processed-challenges/HackMan/bin/HackMan\n'
+p131
+I0
+tp132
+a(I7920
+S'start_time     : 1500079375\nlast_update    : 1500087248\nfuzzer_pid     : 2066\ncycles_done    : 1\nexecs_done     : 5548009\nexecs_per_sec  : 201.32\npaths_total    : 263\npaths_favored  : 99\npaths_found    : 262\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 258\npending_favs   : 0\npending_total  : 132\nvariable_paths : 0\nbitmap_cvg     : 0.83%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500087050\nlast_crash     : 0\nlast_hang      : 1500086877\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/HackMan/input -o /dev/shm/work/HackMan/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/HackMan/HackMan.dict -- data/linux/processed-challenges/HackMan/bin/HackMan\n'
+p133
+I0
+tp134
+a(I8040
+S'start_time     : 1500079375\nlast_update    : 1500087368\nfuzzer_pid     : 2066\ncycles_done    : 1\nexecs_done     : 5572178\nexecs_per_sec  : 197.07\npaths_total    : 263\npaths_favored  : 99\npaths_found    : 262\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 258\npending_favs   : 0\npending_total  : 132\nvariable_paths : 0\nbitmap_cvg     : 0.83%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500087050\nlast_crash     : 0\nlast_hang      : 1500086877\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/HackMan/input -o /dev/shm/work/HackMan/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/HackMan/HackMan.dict -- data/linux/processed-challenges/HackMan/bin/HackMan\n'
+p135
+I0
+tp136
+a(I8160
+S'start_time     : 1500079375\nlast_update    : 1500087489\nfuzzer_pid     : 2066\ncycles_done    : 1\nexecs_done     : 5596721\nexecs_per_sec  : 195.63\npaths_total    : 263\npaths_favored  : 99\npaths_found    : 262\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 258\npending_favs   : 0\npending_total  : 132\nvariable_paths : 0\nbitmap_cvg     : 0.83%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500087050\nlast_crash     : 0\nlast_hang      : 1500086877\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/HackMan/input -o /dev/shm/work/HackMan/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/HackMan/HackMan.dict -- data/linux/processed-challenges/HackMan/bin/HackMan\n'
+p137
+I0
+tp138
+a(I8280
+S'start_time     : 1500079375\nlast_update    : 1500087609\nfuzzer_pid     : 2066\ncycles_done    : 1\nexecs_done     : 5621741\nexecs_per_sec  : 289.86\npaths_total    : 263\npaths_favored  : 99\npaths_found    : 262\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 258\npending_favs   : 0\npending_total  : 132\nvariable_paths : 0\nbitmap_cvg     : 0.83%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500087050\nlast_crash     : 0\nlast_hang      : 1500086877\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/HackMan/input -o /dev/shm/work/HackMan/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/HackMan/HackMan.dict -- data/linux/processed-challenges/HackMan/bin/HackMan\n'
+p139
+I0
+tp140
+a(I8400
+S'start_time     : 1500079375\nlast_update    : 1500087729\nfuzzer_pid     : 2066\ncycles_done    : 1\nexecs_done     : 5648127\nexecs_per_sec  : 187.00\npaths_total    : 263\npaths_favored  : 99\npaths_found    : 262\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 260\npending_favs   : 0\npending_total  : 131\nvariable_paths : 0\nbitmap_cvg     : 0.83%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500087050\nlast_crash     : 0\nlast_hang      : 1500087630\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/HackMan/input -o /dev/shm/work/HackMan/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/HackMan/HackMan.dict -- data/linux/processed-challenges/HackMan/bin/HackMan\n'
+p141
+I0
+tp142
+a(I8520
+S'start_time     : 1500079375\nlast_update    : 1500087849\nfuzzer_pid     : 2066\ncycles_done    : 1\nexecs_done     : 5670363\nexecs_per_sec  : 184.24\npaths_total    : 263\npaths_favored  : 99\npaths_found    : 262\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 260\npending_favs   : 0\npending_total  : 131\nvariable_paths : 0\nbitmap_cvg     : 0.83%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500087050\nlast_crash     : 0\nlast_hang      : 1500087833\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/HackMan/input -o /dev/shm/work/HackMan/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/HackMan/HackMan.dict -- data/linux/processed-challenges/HackMan/bin/HackMan\n'
+p143
+I0
+tp144
+a(I8640
+S'start_time     : 1500079375\nlast_update    : 1500087969\nfuzzer_pid     : 2066\ncycles_done    : 1\nexecs_done     : 5692344\nexecs_per_sec  : 186.21\npaths_total    : 263\npaths_favored  : 99\npaths_found    : 262\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 260\npending_favs   : 0\npending_total  : 131\nvariable_paths : 0\nbitmap_cvg     : 0.83%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500087050\nlast_crash     : 0\nlast_hang      : 1500087833\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/HackMan/input -o /dev/shm/work/HackMan/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/HackMan/HackMan.dict -- data/linux/processed-challenges/HackMan/bin/HackMan\n'
+p145
+I0
+tp146
+a(I8760
+S'start_time     : 1500079375\nlast_update    : 1500088090\nfuzzer_pid     : 2066\ncycles_done    : 1\nexecs_done     : 5714686\nexecs_per_sec  : 184.55\npaths_total    : 263\npaths_favored  : 99\npaths_found    : 262\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 260\npending_favs   : 0\npending_total  : 131\nvariable_paths : 0\nbitmap_cvg     : 0.83%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500087050\nlast_crash     : 0\nlast_hang      : 1500087833\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/HackMan/input -o /dev/shm/work/HackMan/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/HackMan/HackMan.dict -- data/linux/processed-challenges/HackMan/bin/HackMan\n'
+p147
+I0
+tp148
+a(I8880
+S'start_time     : 1500079375\nlast_update    : 1500088210\nfuzzer_pid     : 2066\ncycles_done    : 1\nexecs_done     : 5737160\nexecs_per_sec  : 183.38\npaths_total    : 263\npaths_favored  : 99\npaths_found    : 262\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 260\npending_favs   : 0\npending_total  : 131\nvariable_paths : 0\nbitmap_cvg     : 0.83%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500087050\nlast_crash     : 0\nlast_hang      : 1500087833\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/HackMan/input -o /dev/shm/work/HackMan/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/HackMan/HackMan.dict -- data/linux/processed-challenges/HackMan/bin/HackMan\n'
+p149
+I0
+tp150
+a(I9000
+S'start_time     : 1500079375\nlast_update    : 1500088330\nfuzzer_pid     : 2066\ncycles_done    : 1\nexecs_done     : 5760087\nexecs_per_sec  : 249.82\npaths_total    : 263\npaths_favored  : 99\npaths_found    : 262\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 260\npending_favs   : 0\npending_total  : 131\nvariable_paths : 0\nbitmap_cvg     : 0.83%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500087050\nlast_crash     : 0\nlast_hang      : 1500087833\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/HackMan/input -o /dev/shm/work/HackMan/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/HackMan/HackMan.dict -- data/linux/processed-challenges/HackMan/bin/HackMan\n'
+p151
+I2
+tp152
+a(I9120
+S'start_time     : 1500079375\nlast_update    : 1500088450\nfuzzer_pid     : 2066\ncycles_done    : 1\nexecs_done     : 5790274\nexecs_per_sec  : 250.55\npaths_total    : 266\npaths_favored  : 99\npaths_found    : 265\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 260\npending_favs   : 0\npending_total  : 134\nvariable_paths : 0\nbitmap_cvg     : 0.83%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500088447\nlast_crash     : 0\nlast_hang      : 1500088441\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/HackMan/input -o /dev/shm/work/HackMan/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/HackMan/HackMan.dict -- data/linux/processed-challenges/HackMan/bin/HackMan\n'
+p153
+I2
+tp154
+a(I9240
+S'start_time     : 1500079375\nlast_update    : 1500088570\nfuzzer_pid     : 2066\ncycles_done    : 1\nexecs_done     : 5820229\nexecs_per_sec  : 252.73\npaths_total    : 267\npaths_favored  : 99\npaths_found    : 266\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 260\npending_favs   : 0\npending_total  : 135\nvariable_paths : 0\nbitmap_cvg     : 0.83%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500088507\nlast_crash     : 0\nlast_hang      : 1500088441\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/HackMan/input -o /dev/shm/work/HackMan/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/HackMan/HackMan.dict -- data/linux/processed-challenges/HackMan/bin/HackMan\n'
+p155
+I0
+tp156
+a(I9360
+S'start_time     : 1500079375\nlast_update    : 1500088690\nfuzzer_pid     : 2066\ncycles_done    : 1\nexecs_done     : 5850299\nexecs_per_sec  : 244.11\npaths_total    : 267\npaths_favored  : 99\npaths_found    : 266\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 260\npending_favs   : 0\npending_total  : 135\nvariable_paths : 0\nbitmap_cvg     : 0.83%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500088507\nlast_crash     : 0\nlast_hang      : 1500088441\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/HackMan/input -o /dev/shm/work/HackMan/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/HackMan/HackMan.dict -- data/linux/processed-challenges/HackMan/bin/HackMan\n'
+p157
+I0
+tp158
+a(I9480
+S'start_time     : 1500079375\nlast_update    : 1500088811\nfuzzer_pid     : 2066\ncycles_done    : 1\nexecs_done     : 5879876\nexecs_per_sec  : 218.83\npaths_total    : 267\npaths_favored  : 99\npaths_found    : 266\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 261\npending_favs   : 0\npending_total  : 134\nvariable_paths : 0\nbitmap_cvg     : 0.83%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500088507\nlast_crash     : 0\nlast_hang      : 1500088441\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/HackMan/input -o /dev/shm/work/HackMan/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/HackMan/HackMan.dict -- data/linux/processed-challenges/HackMan/bin/HackMan\n'
+p159
+I0
+tp160
+a(I9600
+S'start_time     : 1500079375\nlast_update    : 1500088931\nfuzzer_pid     : 2066\ncycles_done    : 1\nexecs_done     : 5906271\nexecs_per_sec  : 224.36\npaths_total    : 267\npaths_favored  : 99\npaths_found    : 266\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 261\npending_favs   : 0\npending_total  : 134\nvariable_paths : 0\nbitmap_cvg     : 0.83%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500088507\nlast_crash     : 0\nlast_hang      : 1500088441\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/HackMan/input -o /dev/shm/work/HackMan/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/HackMan/HackMan.dict -- data/linux/processed-challenges/HackMan/bin/HackMan\n'
+p161
+I0
+tp162
+a(I9720
+S'start_time     : 1500079375\nlast_update    : 1500089051\nfuzzer_pid     : 2066\ncycles_done    : 1\nexecs_done     : 5933275\nexecs_per_sec  : 228.71\npaths_total    : 267\npaths_favored  : 99\npaths_found    : 266\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 261\npending_favs   : 0\npending_total  : 134\nvariable_paths : 0\nbitmap_cvg     : 0.83%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500088507\nlast_crash     : 0\nlast_hang      : 1500088441\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/HackMan/input -o /dev/shm/work/HackMan/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/HackMan/HackMan.dict -- data/linux/processed-challenges/HackMan/bin/HackMan\n'
+p163
+I0
+tp164
+a(I9840
+S'start_time     : 1500079375\nlast_update    : 1500089172\nfuzzer_pid     : 2066\ncycles_done    : 1\nexecs_done     : 5961084\nexecs_per_sec  : 312.50\npaths_total    : 267\npaths_favored  : 99\npaths_found    : 266\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 261\npending_favs   : 0\npending_total  : 134\nvariable_paths : 0\nbitmap_cvg     : 0.83%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500088507\nlast_crash     : 0\nlast_hang      : 1500088441\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/HackMan/input -o /dev/shm/work/HackMan/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/HackMan/HackMan.dict -- data/linux/processed-challenges/HackMan/bin/HackMan\n'
+p165
+I0
+tp166
+a(I9960
+S'start_time     : 1500079375\nlast_update    : 1500089292\nfuzzer_pid     : 2066\ncycles_done    : 1\nexecs_done     : 5990657\nexecs_per_sec  : 221.82\npaths_total    : 267\npaths_favored  : 99\npaths_found    : 266\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 262\npending_favs   : 0\npending_total  : 133\nvariable_paths : 0\nbitmap_cvg     : 0.83%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500088507\nlast_crash     : 0\nlast_hang      : 1500088441\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/HackMan/input -o /dev/shm/work/HackMan/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/HackMan/HackMan.dict -- data/linux/processed-challenges/HackMan/bin/HackMan\n'
+p167
+I0
+tp168
+a(I10080
+S'start_time     : 1500079375\nlast_update    : 1500089412\nfuzzer_pid     : 2066\ncycles_done    : 1\nexecs_done     : 6016826\nexecs_per_sec  : 219.83\npaths_total    : 267\npaths_favored  : 99\npaths_found    : 266\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 262\npending_favs   : 0\npending_total  : 133\nvariable_paths : 0\nbitmap_cvg     : 0.83%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500088507\nlast_crash     : 0\nlast_hang      : 1500088441\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/HackMan/input -o /dev/shm/work/HackMan/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/HackMan/HackMan.dict -- data/linux/processed-challenges/HackMan/bin/HackMan\n'
+p169
+I0
+tp170
+a(I10200
+S'start_time     : 1500079375\nlast_update    : 1500089532\nfuzzer_pid     : 2066\ncycles_done    : 1\nexecs_done     : 6042958\nexecs_per_sec  : 213.74\npaths_total    : 267\npaths_favored  : 99\npaths_found    : 266\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 262\npending_favs   : 0\npending_total  : 133\nvariable_paths : 0\nbitmap_cvg     : 0.83%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500088507\nlast_crash     : 0\nlast_hang      : 1500088441\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/HackMan/input -o /dev/shm/work/HackMan/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/HackMan/HackMan.dict -- data/linux/processed-challenges/HackMan/bin/HackMan\n'
+p171
+I1
+tp172
+a(I10320
+S'start_time     : 1500079375\nlast_update    : 1500089652\nfuzzer_pid     : 2066\ncycles_done    : 1\nexecs_done     : 6077012\nexecs_per_sec  : 303.73\npaths_total    : 268\npaths_favored  : 99\npaths_found    : 267\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 262\npending_favs   : 0\npending_total  : 134\nvariable_paths : 0\nbitmap_cvg     : 0.83%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500089571\nlast_crash     : 0\nlast_hang      : 1500088441\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/HackMan/input -o /dev/shm/work/HackMan/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/HackMan/HackMan.dict -- data/linux/processed-challenges/HackMan/bin/HackMan\n'
+p173
+I0
+tp174
+a(I10440
+S'start_time     : 1500079375\nlast_update    : 1500089773\nfuzzer_pid     : 2066\ncycles_done    : 1\nexecs_done     : 6111175\nexecs_per_sec  : 98.34\npaths_total    : 268\npaths_favored  : 99\npaths_found    : 267\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 266\npending_favs   : 0\npending_total  : 133\nvariable_paths : 0\nbitmap_cvg     : 0.83%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500089571\nlast_crash     : 0\nlast_hang      : 1500088441\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/HackMan/input -o /dev/shm/work/HackMan/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/HackMan/HackMan.dict -- data/linux/processed-challenges/HackMan/bin/HackMan\n'
+p175
+I0
+tp176
+a(I10560
+S'start_time     : 1500079375\nlast_update    : 1500089893\nfuzzer_pid     : 2066\ncycles_done    : 1\nexecs_done     : 6122276\nexecs_per_sec  : 93.21\npaths_total    : 268\npaths_favored  : 99\npaths_found    : 267\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 266\npending_favs   : 0\npending_total  : 133\nvariable_paths : 0\nbitmap_cvg     : 0.83%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500089571\nlast_crash     : 0\nlast_hang      : 1500089776\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/HackMan/input -o /dev/shm/work/HackMan/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/HackMan/HackMan.dict -- data/linux/processed-challenges/HackMan/bin/HackMan\n'
+p177
+I0
+tp178
+a(I10680
+S'start_time     : 1500079375\nlast_update    : 1500090013\nfuzzer_pid     : 2066\ncycles_done    : 1\nexecs_done     : 6133492\nexecs_per_sec  : 91.97\npaths_total    : 268\npaths_favored  : 99\npaths_found    : 267\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 266\npending_favs   : 0\npending_total  : 133\nvariable_paths : 0\nbitmap_cvg     : 0.83%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500089571\nlast_crash     : 0\nlast_hang      : 1500089776\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/HackMan/input -o /dev/shm/work/HackMan/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/HackMan/HackMan.dict -- data/linux/processed-challenges/HackMan/bin/HackMan\n'
+p179
+I0
+tp180
+a.

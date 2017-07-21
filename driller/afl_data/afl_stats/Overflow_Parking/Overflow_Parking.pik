@@ -1,0 +1,452 @@
+(lp0
+(I0
+S'start_time     : 1500046976\nlast_update    : 1500046977\nfuzzer_pid     : 24411\ncycles_done    : 0\nexecs_done     : 10\nexecs_per_sec  : 196.08\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 1\npending_total  : 1\nvariable_paths : 0\nbitmap_cvg     : 0.27%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Overflow_Parking/input -o /dev/shm/work/Overflow_Parking/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Overflow_Parking/Overflow_Parking.dict -- data/linux/processed-challenges/Overflow_Parking/bin/Overflow_Parking\n'
+p1
+I4
+tp2
+a(I120
+S'start_time     : 1500046976\nlast_update    : 1500047097\nfuzzer_pid     : 24411\ncycles_done    : 0\nexecs_done     : 100771\nexecs_per_sec  : 842.85\npaths_total    : 9\npaths_favored  : 1\npaths_found    : 8\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 1\npending_total  : 9\nvariable_paths : 0\nbitmap_cvg     : 0.45%\nunique_crashes : 2\nunique_hangs   : 3\nlast_path      : 1500047091\nlast_crash     : 1500047086\nlast_hang      : 1500047061\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Overflow_Parking/input -o /dev/shm/work/Overflow_Parking/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Overflow_Parking/Overflow_Parking.dict -- data/linux/processed-challenges/Overflow_Parking/bin/Overflow_Parking\n'
+p3
+I5
+tp4
+a(I240
+S'start_time     : 1500046976\nlast_update    : 1500047217\nfuzzer_pid     : 24411\ncycles_done    : 0\nexecs_done     : 169103\nexecs_per_sec  : 108.72\npaths_total    : 11\npaths_favored  : 10\npaths_found    : 10\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 2\npending_favs   : 9\npending_total  : 9\nvariable_paths : 0\nbitmap_cvg     : 0.45%\nunique_crashes : 2\nunique_hangs   : 5\nlast_path      : 1500047176\nlast_crash     : 1500047086\nlast_hang      : 1500047192\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Overflow_Parking/input -o /dev/shm/work/Overflow_Parking/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Overflow_Parking/Overflow_Parking.dict -- data/linux/processed-challenges/Overflow_Parking/bin/Overflow_Parking\n'
+p5
+I2
+tp6
+a(I360
+S'start_time     : 1500046976\nlast_update    : 1500047337\nfuzzer_pid     : 24411\ncycles_done    : 0\nexecs_done     : 196342\nexecs_per_sec  : 220.58\npaths_total    : 13\npaths_favored  : 12\npaths_found    : 12\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 4\npending_favs   : 9\npending_total  : 9\nvariable_paths : 0\nbitmap_cvg     : 0.48%\nunique_crashes : 2\nunique_hangs   : 6\nlast_path      : 1500047269\nlast_crash     : 1500047086\nlast_hang      : 1500047283\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Overflow_Parking/input -o /dev/shm/work/Overflow_Parking/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Overflow_Parking/Overflow_Parking.dict -- data/linux/processed-challenges/Overflow_Parking/bin/Overflow_Parking\n'
+p7
+I2
+tp8
+a(I480
+S'start_time     : 1500046976\nlast_update    : 1500047458\nfuzzer_pid     : 24411\ncycles_done    : 0\nexecs_done     : 223328\nexecs_per_sec  : 162.69\npaths_total    : 13\npaths_favored  : 12\npaths_found    : 12\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 7\npending_favs   : 6\npending_total  : 6\nvariable_paths : 0\nbitmap_cvg     : 0.48%\nunique_crashes : 2\nunique_hangs   : 6\nlast_path      : 1500047269\nlast_crash     : 1500047086\nlast_hang      : 1500047283\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Overflow_Parking/input -o /dev/shm/work/Overflow_Parking/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Overflow_Parking/Overflow_Parking.dict -- data/linux/processed-challenges/Overflow_Parking/bin/Overflow_Parking\n'
+p9
+I0
+tp10
+a(I600
+S'start_time     : 1500046976\nlast_update    : 1500047578\nfuzzer_pid     : 24411\ncycles_done    : 0\nexecs_done     : 247311\nexecs_per_sec  : 53.24\npaths_total    : 20\npaths_favored  : 15\npaths_found    : 19\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 9\npending_favs   : 9\npending_total  : 11\nvariable_paths : 0\nbitmap_cvg     : 0.51%\nunique_crashes : 2\nunique_hangs   : 10\nlast_path      : 1500047526\nlast_crash     : 1500047086\nlast_hang      : 1500047537\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Overflow_Parking/input -o /dev/shm/work/Overflow_Parking/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Overflow_Parking/Overflow_Parking.dict -- data/linux/processed-challenges/Overflow_Parking/bin/Overflow_Parking\n'
+p11
+I7
+tp12
+a(I720
+S'start_time     : 1500046976\nlast_update    : 1500047698\nfuzzer_pid     : 24411\ncycles_done    : 0\nexecs_done     : 275397\nexecs_per_sec  : 211.32\npaths_total    : 21\npaths_favored  : 15\npaths_found    : 20\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 10\npending_favs   : 8\npending_total  : 11\nvariable_paths : 0\nbitmap_cvg     : 0.51%\nunique_crashes : 2\nunique_hangs   : 11\nlast_path      : 1500047643\nlast_crash     : 1500047086\nlast_hang      : 1500047580\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Overflow_Parking/input -o /dev/shm/work/Overflow_Parking/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Overflow_Parking/Overflow_Parking.dict -- data/linux/processed-challenges/Overflow_Parking/bin/Overflow_Parking\n'
+p13
+I1
+tp14
+a(I840
+S'start_time     : 1500046976\nlast_update    : 1500047818\nfuzzer_pid     : 24411\ncycles_done    : 0\nexecs_done     : 302209\nexecs_per_sec  : 133.55\npaths_total    : 21\npaths_favored  : 15\npaths_found    : 20\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 15\npending_favs   : 6\npending_total  : 8\nvariable_paths : 0\nbitmap_cvg     : 0.51%\nunique_crashes : 3\nunique_hangs   : 12\nlast_path      : 1500047643\nlast_crash     : 1500047722\nlast_hang      : 1500047766\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Overflow_Parking/input -o /dev/shm/work/Overflow_Parking/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Overflow_Parking/Overflow_Parking.dict -- data/linux/processed-challenges/Overflow_Parking/bin/Overflow_Parking\n'
+p15
+I0
+tp16
+a(I960
+S'start_time     : 1500046976\nlast_update    : 1500047938\nfuzzer_pid     : 24411\ncycles_done    : 0\nexecs_done     : 317329\nexecs_per_sec  : 130.10\npaths_total    : 25\npaths_favored  : 15\npaths_found    : 24\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 15\npending_favs   : 6\npending_total  : 12\nvariable_paths : 0\nbitmap_cvg     : 0.51%\nunique_crashes : 4\nunique_hangs   : 13\nlast_path      : 1500047902\nlast_crash     : 1500047842\nlast_hang      : 1500047893\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Overflow_Parking/input -o /dev/shm/work/Overflow_Parking/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Overflow_Parking/Overflow_Parking.dict -- data/linux/processed-challenges/Overflow_Parking/bin/Overflow_Parking\n'
+p17
+I4
+tp18
+a(I1080
+S'start_time     : 1500046976\nlast_update    : 1500048059\nfuzzer_pid     : 24411\ncycles_done    : 0\nexecs_done     : 333171\nexecs_per_sec  : 147.13\npaths_total    : 25\npaths_favored  : 15\npaths_found    : 24\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 15\npending_favs   : 6\npending_total  : 12\nvariable_paths : 0\nbitmap_cvg     : 0.51%\nunique_crashes : 4\nunique_hangs   : 13\nlast_path      : 1500047902\nlast_crash     : 1500047842\nlast_hang      : 1500047893\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Overflow_Parking/input -o /dev/shm/work/Overflow_Parking/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Overflow_Parking/Overflow_Parking.dict -- data/linux/processed-challenges/Overflow_Parking/bin/Overflow_Parking\n'
+p19
+I0
+tp20
+a(I1200
+S'start_time     : 1500046976\nlast_update    : 1500048179\nfuzzer_pid     : 24411\ncycles_done    : 0\nexecs_done     : 358140\nexecs_per_sec  : 236.14\npaths_total    : 31\npaths_favored  : 18\npaths_found    : 30\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 16\npending_favs   : 8\npending_total  : 17\nvariable_paths : 0\nbitmap_cvg     : 0.65%\nunique_crashes : 4\nunique_hangs   : 14\nlast_path      : 1500048163\nlast_crash     : 1500047842\nlast_hang      : 1500048107\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Overflow_Parking/input -o /dev/shm/work/Overflow_Parking/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Overflow_Parking/Overflow_Parking.dict -- data/linux/processed-challenges/Overflow_Parking/bin/Overflow_Parking\n'
+p21
+I6
+tp22
+a(I1320
+S'start_time     : 1500046976\nlast_update    : 1500048299\nfuzzer_pid     : 24411\ncycles_done    : 0\nexecs_done     : 385482\nexecs_per_sec  : 226.68\npaths_total    : 32\npaths_favored  : 18\npaths_found    : 31\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 16\npending_favs   : 8\npending_total  : 18\nvariable_paths : 0\nbitmap_cvg     : 0.65%\nunique_crashes : 4\nunique_hangs   : 14\nlast_path      : 1500048197\nlast_crash     : 1500047842\nlast_hang      : 1500048107\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Overflow_Parking/input -o /dev/shm/work/Overflow_Parking/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Overflow_Parking/Overflow_Parking.dict -- data/linux/processed-challenges/Overflow_Parking/bin/Overflow_Parking\n'
+p23
+I1
+tp24
+a(I1440
+S'start_time     : 1500046976\nlast_update    : 1500048419\nfuzzer_pid     : 24411\ncycles_done    : 0\nexecs_done     : 413180\nexecs_per_sec  : 218.75\npaths_total    : 33\npaths_favored  : 18\npaths_found    : 32\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 16\npending_favs   : 8\npending_total  : 19\nvariable_paths : 0\nbitmap_cvg     : 0.66%\nunique_crashes : 5\nunique_hangs   : 14\nlast_path      : 1500048333\nlast_crash     : 1500048324\nlast_hang      : 1500048107\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Overflow_Parking/input -o /dev/shm/work/Overflow_Parking/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Overflow_Parking/Overflow_Parking.dict -- data/linux/processed-challenges/Overflow_Parking/bin/Overflow_Parking\n'
+p25
+I1
+tp26
+a(I1560
+S'start_time     : 1500046976\nlast_update    : 1500048540\nfuzzer_pid     : 24411\ncycles_done    : 0\nexecs_done     : 441363\nexecs_per_sec  : 241.66\npaths_total    : 34\npaths_favored  : 18\npaths_found    : 33\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 16\npending_favs   : 8\npending_total  : 20\nvariable_paths : 0\nbitmap_cvg     : 0.66%\nunique_crashes : 5\nunique_hangs   : 16\nlast_path      : 1500048444\nlast_crash     : 1500048324\nlast_hang      : 1500048511\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Overflow_Parking/input -o /dev/shm/work/Overflow_Parking/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Overflow_Parking/Overflow_Parking.dict -- data/linux/processed-challenges/Overflow_Parking/bin/Overflow_Parking\n'
+p27
+I1
+tp28
+a(I1680
+S'start_time     : 1500046976\nlast_update    : 1500048660\nfuzzer_pid     : 24411\ncycles_done    : 0\nexecs_done     : 469578\nexecs_per_sec  : 261.15\npaths_total    : 35\npaths_favored  : 18\npaths_found    : 34\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 16\npending_favs   : 8\npending_total  : 21\nvariable_paths : 0\nbitmap_cvg     : 0.66%\nunique_crashes : 5\nunique_hangs   : 18\nlast_path      : 1500048596\nlast_crash     : 1500048324\nlast_hang      : 1500048591\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Overflow_Parking/input -o /dev/shm/work/Overflow_Parking/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Overflow_Parking/Overflow_Parking.dict -- data/linux/processed-challenges/Overflow_Parking/bin/Overflow_Parking\n'
+p29
+I1
+tp30
+a(I1800
+S'start_time     : 1500046976\nlast_update    : 1500048780\nfuzzer_pid     : 24411\ncycles_done    : 0\nexecs_done     : 497252\nexecs_per_sec  : 233.28\npaths_total    : 35\npaths_favored  : 18\npaths_found    : 34\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 16\npending_favs   : 8\npending_total  : 21\nvariable_paths : 0\nbitmap_cvg     : 0.66%\nunique_crashes : 5\nunique_hangs   : 18\nlast_path      : 1500048596\nlast_crash     : 1500048324\nlast_hang      : 1500048591\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Overflow_Parking/input -o /dev/shm/work/Overflow_Parking/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Overflow_Parking/Overflow_Parking.dict -- data/linux/processed-challenges/Overflow_Parking/bin/Overflow_Parking\n'
+p31
+I0
+tp32
+a(I1920
+S'start_time     : 1500046976\nlast_update    : 1500048900\nfuzzer_pid     : 24411\ncycles_done    : 0\nexecs_done     : 522006\nexecs_per_sec  : 63.46\npaths_total    : 37\npaths_favored  : 25\npaths_found    : 36\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 18\npending_favs   : 14\npending_total  : 21\nvariable_paths : 0\nbitmap_cvg     : 0.67%\nunique_crashes : 5\nunique_hangs   : 18\nlast_path      : 1500048815\nlast_crash     : 1500048324\nlast_hang      : 1500048591\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Overflow_Parking/input -o /dev/shm/work/Overflow_Parking/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Overflow_Parking/Overflow_Parking.dict -- data/linux/processed-challenges/Overflow_Parking/bin/Overflow_Parking\n'
+p33
+I2
+tp34
+a(I2040
+S'start_time     : 1500046976\nlast_update    : 1500049020\nfuzzer_pid     : 24411\ncycles_done    : 0\nexecs_done     : 537405\nexecs_per_sec  : 152.15\npaths_total    : 37\npaths_favored  : 25\npaths_found    : 36\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 20\npending_favs   : 13\npending_total  : 20\nvariable_paths : 0\nbitmap_cvg     : 0.67%\nunique_crashes : 6\nunique_hangs   : 18\nlast_path      : 1500048815\nlast_crash     : 1500048940\nlast_hang      : 1500048591\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Overflow_Parking/input -o /dev/shm/work/Overflow_Parking/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Overflow_Parking/Overflow_Parking.dict -- data/linux/processed-challenges/Overflow_Parking/bin/Overflow_Parking\n'
+p35
+I0
+tp36
+a(I2160
+S'start_time     : 1500046976\nlast_update    : 1500049141\nfuzzer_pid     : 24411\ncycles_done    : 0\nexecs_done     : 556670\nexecs_per_sec  : 154.32\npaths_total    : 39\npaths_favored  : 25\npaths_found    : 38\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 20\npending_favs   : 13\npending_total  : 22\nvariable_paths : 0\nbitmap_cvg     : 0.67%\nunique_crashes : 6\nunique_hangs   : 19\nlast_path      : 1500049127\nlast_crash     : 1500048940\nlast_hang      : 1500049047\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Overflow_Parking/input -o /dev/shm/work/Overflow_Parking/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Overflow_Parking/Overflow_Parking.dict -- data/linux/processed-challenges/Overflow_Parking/bin/Overflow_Parking\n'
+p37
+I2
+tp38
+a(I2280
+S'start_time     : 1500046976\nlast_update    : 1500049261\nfuzzer_pid     : 24411\ncycles_done    : 0\nexecs_done     : 575739\nexecs_per_sec  : 162.32\npaths_total    : 40\npaths_favored  : 25\npaths_found    : 39\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 20\npending_favs   : 13\npending_total  : 23\nvariable_paths : 0\nbitmap_cvg     : 0.67%\nunique_crashes : 6\nunique_hangs   : 19\nlast_path      : 1500049147\nlast_crash     : 1500048940\nlast_hang      : 1500049047\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Overflow_Parking/input -o /dev/shm/work/Overflow_Parking/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Overflow_Parking/Overflow_Parking.dict -- data/linux/processed-challenges/Overflow_Parking/bin/Overflow_Parking\n'
+p39
+I1
+tp40
+a(I2400
+S'start_time     : 1500046976\nlast_update    : 1500049381\nfuzzer_pid     : 24411\ncycles_done    : 0\nexecs_done     : 594963\nexecs_per_sec  : 167.87\npaths_total    : 40\npaths_favored  : 25\npaths_found    : 39\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 20\npending_favs   : 13\npending_total  : 23\nvariable_paths : 0\nbitmap_cvg     : 0.67%\nunique_crashes : 6\nunique_hangs   : 20\nlast_path      : 1500049147\nlast_crash     : 1500048940\nlast_hang      : 1500049270\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Overflow_Parking/input -o /dev/shm/work/Overflow_Parking/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Overflow_Parking/Overflow_Parking.dict -- data/linux/processed-challenges/Overflow_Parking/bin/Overflow_Parking\n'
+p41
+I0
+tp42
+a(I2520
+S'start_time     : 1500046976\nlast_update    : 1500049501\nfuzzer_pid     : 24411\ncycles_done    : 0\nexecs_done     : 614301\nexecs_per_sec  : 157.90\npaths_total    : 40\npaths_favored  : 25\npaths_found    : 39\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 20\npending_favs   : 13\npending_total  : 23\nvariable_paths : 0\nbitmap_cvg     : 0.67%\nunique_crashes : 6\nunique_hangs   : 20\nlast_path      : 1500049147\nlast_crash     : 1500048940\nlast_hang      : 1500049270\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Overflow_Parking/input -o /dev/shm/work/Overflow_Parking/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Overflow_Parking/Overflow_Parking.dict -- data/linux/processed-challenges/Overflow_Parking/bin/Overflow_Parking\n'
+p43
+I0
+tp44
+a(I2640
+S'start_time     : 1500046976\nlast_update    : 1500049622\nfuzzer_pid     : 24411\ncycles_done    : 0\nexecs_done     : 633625\nexecs_per_sec  : 166.74\npaths_total    : 41\npaths_favored  : 25\npaths_found    : 40\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 20\npending_favs   : 13\npending_total  : 24\nvariable_paths : 0\nbitmap_cvg     : 0.68%\nunique_crashes : 6\nunique_hangs   : 20\nlast_path      : 1500049506\nlast_crash     : 1500048940\nlast_hang      : 1500049270\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Overflow_Parking/input -o /dev/shm/work/Overflow_Parking/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Overflow_Parking/Overflow_Parking.dict -- data/linux/processed-challenges/Overflow_Parking/bin/Overflow_Parking\n'
+p45
+I1
+tp46
+a(I2760
+S'start_time     : 1500046976\nlast_update    : 1500049742\nfuzzer_pid     : 24411\ncycles_done    : 0\nexecs_done     : 653215\nexecs_per_sec  : 170.99\npaths_total    : 41\npaths_favored  : 25\npaths_found    : 40\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 20\npending_favs   : 13\npending_total  : 24\nvariable_paths : 0\nbitmap_cvg     : 0.68%\nunique_crashes : 6\nunique_hangs   : 20\nlast_path      : 1500049506\nlast_crash     : 1500048940\nlast_hang      : 1500049270\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Overflow_Parking/input -o /dev/shm/work/Overflow_Parking/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Overflow_Parking/Overflow_Parking.dict -- data/linux/processed-challenges/Overflow_Parking/bin/Overflow_Parking\n'
+p47
+I1
+tp48
+a(I2880
+S'start_time     : 1500046976\nlast_update    : 1500049862\nfuzzer_pid     : 24411\ncycles_done    : 0\nexecs_done     : 674780\nexecs_per_sec  : 159.36\npaths_total    : 42\npaths_favored  : 24\npaths_found    : 41\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 21\npending_favs   : 12\npending_total  : 24\nvariable_paths : 0\nbitmap_cvg     : 0.68%\nunique_crashes : 6\nunique_hangs   : 21\nlast_path      : 1500049744\nlast_crash     : 1500048940\nlast_hang      : 1500049777\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Overflow_Parking/input -o /dev/shm/work/Overflow_Parking/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Overflow_Parking/Overflow_Parking.dict -- data/linux/processed-challenges/Overflow_Parking/bin/Overflow_Parking\n'
+p49
+I0
+tp50
+a(I3000
+S'start_time     : 1500046976\nlast_update    : 1500049982\nfuzzer_pid     : 24411\ncycles_done    : 0\nexecs_done     : 697332\nexecs_per_sec  : 65.93\npaths_total    : 42\npaths_favored  : 25\npaths_found    : 41\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 25\npending_favs   : 11\npending_total  : 22\nvariable_paths : 0\nbitmap_cvg     : 0.68%\nunique_crashes : 8\nunique_hangs   : 21\nlast_path      : 1500049744\nlast_crash     : 1500049950\nlast_hang      : 1500049777\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Overflow_Parking/input -o /dev/shm/work/Overflow_Parking/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Overflow_Parking/Overflow_Parking.dict -- data/linux/processed-challenges/Overflow_Parking/bin/Overflow_Parking\n'
+p51
+I0
+tp52
+a(I3120
+S'start_time     : 1500046976\nlast_update    : 1500050102\nfuzzer_pid     : 24411\ncycles_done    : 0\nexecs_done     : 727741\nexecs_per_sec  : 234.07\npaths_total    : 42\npaths_favored  : 25\npaths_found    : 41\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 27\npending_favs   : 10\npending_total  : 21\nvariable_paths : 0\nbitmap_cvg     : 0.68%\nunique_crashes : 8\nunique_hangs   : 23\nlast_path      : 1500049744\nlast_crash     : 1500049950\nlast_hang      : 1500050067\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Overflow_Parking/input -o /dev/shm/work/Overflow_Parking/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Overflow_Parking/Overflow_Parking.dict -- data/linux/processed-challenges/Overflow_Parking/bin/Overflow_Parking\n'
+p53
+I0
+tp54
+a(I3240
+S'start_time     : 1500046976\nlast_update    : 1500050223\nfuzzer_pid     : 24411\ncycles_done    : 0\nexecs_done     : 757519\nexecs_per_sec  : 186.28\npaths_total    : 46\npaths_favored  : 25\npaths_found    : 45\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 29\npending_favs   : 9\npending_total  : 24\nvariable_paths : 0\nbitmap_cvg     : 0.69%\nunique_crashes : 8\nunique_hangs   : 24\nlast_path      : 1500050214\nlast_crash     : 1500049950\nlast_hang      : 1500050214\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Overflow_Parking/input -o /dev/shm/work/Overflow_Parking/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Overflow_Parking/Overflow_Parking.dict -- data/linux/processed-challenges/Overflow_Parking/bin/Overflow_Parking\n'
+p55
+I4
+tp56
+a(I3360
+S'start_time     : 1500046976\nlast_update    : 1500050343\nfuzzer_pid     : 24411\ncycles_done    : 0\nexecs_done     : 782147\nexecs_per_sec  : 198.86\npaths_total    : 49\npaths_favored  : 25\npaths_found    : 48\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 29\npending_favs   : 9\npending_total  : 27\nvariable_paths : 0\nbitmap_cvg     : 0.69%\nunique_crashes : 8\nunique_hangs   : 25\nlast_path      : 1500050291\nlast_crash     : 1500049950\nlast_hang      : 1500050239\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Overflow_Parking/input -o /dev/shm/work/Overflow_Parking/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Overflow_Parking/Overflow_Parking.dict -- data/linux/processed-challenges/Overflow_Parking/bin/Overflow_Parking\n'
+p57
+I3
+tp58
+a(I3480
+S'start_time     : 1500046976\nlast_update    : 1500050463\nfuzzer_pid     : 24411\ncycles_done    : 0\nexecs_done     : 806519\nexecs_per_sec  : 212.83\npaths_total    : 49\npaths_favored  : 25\npaths_found    : 48\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 29\npending_favs   : 9\npending_total  : 27\nvariable_paths : 0\nbitmap_cvg     : 0.69%\nunique_crashes : 8\nunique_hangs   : 25\nlast_path      : 1500050291\nlast_crash     : 1500049950\nlast_hang      : 1500050239\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Overflow_Parking/input -o /dev/shm/work/Overflow_Parking/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Overflow_Parking/Overflow_Parking.dict -- data/linux/processed-challenges/Overflow_Parking/bin/Overflow_Parking\n'
+p59
+I0
+tp60
+a(I3600
+S'start_time     : 1500046976\nlast_update    : 1500050583\nfuzzer_pid     : 24411\ncycles_done    : 0\nexecs_done     : 831115\nexecs_per_sec  : 215.40\npaths_total    : 49\npaths_favored  : 25\npaths_found    : 48\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 29\npending_favs   : 9\npending_total  : 27\nvariable_paths : 0\nbitmap_cvg     : 0.69%\nunique_crashes : 8\nunique_hangs   : 25\nlast_path      : 1500050291\nlast_crash     : 1500049950\nlast_hang      : 1500050239\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Overflow_Parking/input -o /dev/shm/work/Overflow_Parking/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Overflow_Parking/Overflow_Parking.dict -- data/linux/processed-challenges/Overflow_Parking/bin/Overflow_Parking\n'
+p61
+I0
+tp62
+a(I3720
+S'start_time     : 1500046976\nlast_update    : 1500050704\nfuzzer_pid     : 24411\ncycles_done    : 0\nexecs_done     : 855700\nexecs_per_sec  : 197.64\npaths_total    : 49\npaths_favored  : 25\npaths_found    : 48\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 29\npending_favs   : 9\npending_total  : 27\nvariable_paths : 0\nbitmap_cvg     : 0.69%\nunique_crashes : 9\nunique_hangs   : 26\nlast_path      : 1500050291\nlast_crash     : 1500050676\nlast_hang      : 1500050585\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Overflow_Parking/input -o /dev/shm/work/Overflow_Parking/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Overflow_Parking/Overflow_Parking.dict -- data/linux/processed-challenges/Overflow_Parking/bin/Overflow_Parking\n'
+p63
+I0
+tp64
+a(I3840
+S'start_time     : 1500046976\nlast_update    : 1500050824\nfuzzer_pid     : 24411\ncycles_done    : 0\nexecs_done     : 883481\nexecs_per_sec  : 183.07\npaths_total    : 52\npaths_favored  : 29\npaths_found    : 51\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 30\npending_favs   : 12\npending_total  : 29\nvariable_paths : 0\nbitmap_cvg     : 0.75%\nunique_crashes : 9\nunique_hangs   : 26\nlast_path      : 1500050811\nlast_crash     : 1500050676\nlast_hang      : 1500050585\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Overflow_Parking/input -o /dev/shm/work/Overflow_Parking/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Overflow_Parking/Overflow_Parking.dict -- data/linux/processed-challenges/Overflow_Parking/bin/Overflow_Parking\n'
+p65
+I3
+tp66
+a(I3960
+S'start_time     : 1500046976\nlast_update    : 1500050944\nfuzzer_pid     : 24411\ncycles_done    : 0\nexecs_done     : 912005\nexecs_per_sec  : 212.00\npaths_total    : 53\npaths_favored  : 31\npaths_found    : 52\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 35\npending_favs   : 13\npending_total  : 29\nvariable_paths : 0\nbitmap_cvg     : 0.76%\nunique_crashes : 10\nunique_hangs   : 26\nlast_path      : 1500050892\nlast_crash     : 1500050833\nlast_hang      : 1500050585\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Overflow_Parking/input -o /dev/shm/work/Overflow_Parking/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Overflow_Parking/Overflow_Parking.dict -- data/linux/processed-challenges/Overflow_Parking/bin/Overflow_Parking\n'
+p67
+I1
+tp68
+a(I4080
+S'start_time     : 1500046976\nlast_update    : 1500051064\nfuzzer_pid     : 24411\ncycles_done    : 0\nexecs_done     : 938473\nexecs_per_sec  : 206.93\npaths_total    : 54\npaths_favored  : 32\npaths_found    : 53\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 36\npending_favs   : 13\npending_total  : 29\nvariable_paths : 0\nbitmap_cvg     : 0.76%\nunique_crashes : 12\nunique_hangs   : 28\nlast_path      : 1500051022\nlast_crash     : 1500051062\nlast_hang      : 1500051007\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Overflow_Parking/input -o /dev/shm/work/Overflow_Parking/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Overflow_Parking/Overflow_Parking.dict -- data/linux/processed-challenges/Overflow_Parking/bin/Overflow_Parking\n'
+p69
+I1
+tp70
+a(I4200
+S'start_time     : 1500046976\nlast_update    : 1500051184\nfuzzer_pid     : 24411\ncycles_done    : 0\nexecs_done     : 964322\nexecs_per_sec  : 160.09\npaths_total    : 55\npaths_favored  : 32\npaths_found    : 54\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 37\npending_favs   : 12\npending_total  : 29\nvariable_paths : 0\nbitmap_cvg     : 0.76%\nunique_crashes : 13\nunique_hangs   : 30\nlast_path      : 1500051159\nlast_crash     : 1500051152\nlast_hang      : 1500051178\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Overflow_Parking/input -o /dev/shm/work/Overflow_Parking/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Overflow_Parking/Overflow_Parking.dict -- data/linux/processed-challenges/Overflow_Parking/bin/Overflow_Parking\n'
+p71
+I1
+tp72
+a(I4320
+S'start_time     : 1500046976\nlast_update    : 1500051304\nfuzzer_pid     : 24411\ncycles_done    : 0\nexecs_done     : 984700\nexecs_per_sec  : 174.54\npaths_total    : 57\npaths_favored  : 32\npaths_found    : 56\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 37\npending_favs   : 12\npending_total  : 31\nvariable_paths : 0\nbitmap_cvg     : 0.76%\nunique_crashes : 13\nunique_hangs   : 31\nlast_path      : 1500051274\nlast_crash     : 1500051152\nlast_hang      : 1500051210\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Overflow_Parking/input -o /dev/shm/work/Overflow_Parking/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Overflow_Parking/Overflow_Parking.dict -- data/linux/processed-challenges/Overflow_Parking/bin/Overflow_Parking\n'
+p73
+I2
+tp74
+a(I4440
+S'start_time     : 1500046976\nlast_update    : 1500051425\nfuzzer_pid     : 24411\ncycles_done    : 0\nexecs_done     : 1005198\nexecs_per_sec  : 177.90\npaths_total    : 59\npaths_favored  : 32\npaths_found    : 58\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 37\npending_favs   : 12\npending_total  : 33\nvariable_paths : 0\nbitmap_cvg     : 0.76%\nunique_crashes : 13\nunique_hangs   : 31\nlast_path      : 1500051379\nlast_crash     : 1500051152\nlast_hang      : 1500051210\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Overflow_Parking/input -o /dev/shm/work/Overflow_Parking/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Overflow_Parking/Overflow_Parking.dict -- data/linux/processed-challenges/Overflow_Parking/bin/Overflow_Parking\n'
+p75
+I2
+tp76
+a(I4560
+S'start_time     : 1500046976\nlast_update    : 1500051545\nfuzzer_pid     : 24411\ncycles_done    : 0\nexecs_done     : 1025934\nexecs_per_sec  : 180.35\npaths_total    : 59\npaths_favored  : 32\npaths_found    : 58\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 37\npending_favs   : 12\npending_total  : 33\nvariable_paths : 0\nbitmap_cvg     : 0.76%\nunique_crashes : 13\nunique_hangs   : 32\nlast_path      : 1500051379\nlast_crash     : 1500051152\nlast_hang      : 1500051437\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Overflow_Parking/input -o /dev/shm/work/Overflow_Parking/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Overflow_Parking/Overflow_Parking.dict -- data/linux/processed-challenges/Overflow_Parking/bin/Overflow_Parking\n'
+p77
+I0
+tp78
+a(I4680
+S'start_time     : 1500046976\nlast_update    : 1500051665\nfuzzer_pid     : 24411\ncycles_done    : 0\nexecs_done     : 1046415\nexecs_per_sec  : 172.23\npaths_total    : 59\npaths_favored  : 32\npaths_found    : 58\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 37\npending_favs   : 12\npending_total  : 33\nvariable_paths : 0\nbitmap_cvg     : 0.76%\nunique_crashes : 13\nunique_hangs   : 32\nlast_path      : 1500051379\nlast_crash     : 1500051152\nlast_hang      : 1500051437\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Overflow_Parking/input -o /dev/shm/work/Overflow_Parking/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Overflow_Parking/Overflow_Parking.dict -- data/linux/processed-challenges/Overflow_Parking/bin/Overflow_Parking\n'
+p79
+I0
+tp80
+a(I4800
+S'start_time     : 1500046976\nlast_update    : 1500051785\nfuzzer_pid     : 24411\ncycles_done    : 0\nexecs_done     : 1067103\nexecs_per_sec  : 169.57\npaths_total    : 59\npaths_favored  : 32\npaths_found    : 58\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 37\npending_favs   : 12\npending_total  : 33\nvariable_paths : 0\nbitmap_cvg     : 0.76%\nunique_crashes : 13\nunique_hangs   : 32\nlast_path      : 1500051379\nlast_crash     : 1500051152\nlast_hang      : 1500051437\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Overflow_Parking/input -o /dev/shm/work/Overflow_Parking/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Overflow_Parking/Overflow_Parking.dict -- data/linux/processed-challenges/Overflow_Parking/bin/Overflow_Parking\n'
+p81
+I1
+tp82
+a(I4920
+S'start_time     : 1500046976\nlast_update    : 1500051906\nfuzzer_pid     : 24411\ncycles_done    : 0\nexecs_done     : 1089492\nexecs_per_sec  : 57.09\npaths_total    : 60\npaths_favored  : 34\npaths_found    : 59\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 40\npending_favs   : 14\npending_total  : 33\nvariable_paths : 0\nbitmap_cvg     : 0.77%\nunique_crashes : 13\nunique_hangs   : 32\nlast_path      : 1500051787\nlast_crash     : 1500051152\nlast_hang      : 1500051437\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Overflow_Parking/input -o /dev/shm/work/Overflow_Parking/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Overflow_Parking/Overflow_Parking.dict -- data/linux/processed-challenges/Overflow_Parking/bin/Overflow_Parking\n'
+p83
+I0
+tp84
+a(I5040
+S'start_time     : 1500046976\nlast_update    : 1500052026\nfuzzer_pid     : 24411\ncycles_done    : 0\nexecs_done     : 1109731\nexecs_per_sec  : 173.54\npaths_total    : 61\npaths_favored  : 34\npaths_found    : 60\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 40\npending_favs   : 14\npending_total  : 34\nvariable_paths : 0\nbitmap_cvg     : 0.77%\nunique_crashes : 13\nunique_hangs   : 34\nlast_path      : 1500051929\nlast_crash     : 1500051152\nlast_hang      : 1500051926\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Overflow_Parking/input -o /dev/shm/work/Overflow_Parking/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Overflow_Parking/Overflow_Parking.dict -- data/linux/processed-challenges/Overflow_Parking/bin/Overflow_Parking\n'
+p85
+I1
+tp86
+a(I5160
+S'start_time     : 1500046976\nlast_update    : 1500052146\nfuzzer_pid     : 24411\ncycles_done    : 0\nexecs_done     : 1131878\nexecs_per_sec  : 179.96\npaths_total    : 61\npaths_favored  : 35\npaths_found    : 60\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 41\npending_favs   : 14\npending_total  : 33\nvariable_paths : 0\nbitmap_cvg     : 0.77%\nunique_crashes : 13\nunique_hangs   : 34\nlast_path      : 1500051929\nlast_crash     : 1500051152\nlast_hang      : 1500051926\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Overflow_Parking/input -o /dev/shm/work/Overflow_Parking/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Overflow_Parking/Overflow_Parking.dict -- data/linux/processed-challenges/Overflow_Parking/bin/Overflow_Parking\n'
+p87
+I0
+tp88
+a(I5280
+S'start_time     : 1500046976\nlast_update    : 1500052266\nfuzzer_pid     : 24411\ncycles_done    : 0\nexecs_done     : 1156944\nexecs_per_sec  : 216.86\npaths_total    : 64\npaths_favored  : 35\npaths_found    : 63\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 42\npending_favs   : 13\npending_total  : 35\nvariable_paths : 0\nbitmap_cvg     : 0.77%\nunique_crashes : 14\nunique_hangs   : 35\nlast_path      : 1500052264\nlast_crash     : 1500052199\nlast_hang      : 1500052223\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Overflow_Parking/input -o /dev/shm/work/Overflow_Parking/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Overflow_Parking/Overflow_Parking.dict -- data/linux/processed-challenges/Overflow_Parking/bin/Overflow_Parking\n'
+p89
+I3
+tp90
+a(I5400
+S'start_time     : 1500046976\nlast_update    : 1500052387\nfuzzer_pid     : 24411\ncycles_done    : 0\nexecs_done     : 1181321\nexecs_per_sec  : 193.36\npaths_total    : 64\npaths_favored  : 35\npaths_found    : 63\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 42\npending_favs   : 13\npending_total  : 35\nvariable_paths : 0\nbitmap_cvg     : 0.77%\nunique_crashes : 14\nunique_hangs   : 35\nlast_path      : 1500052264\nlast_crash     : 1500052199\nlast_hang      : 1500052223\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Overflow_Parking/input -o /dev/shm/work/Overflow_Parking/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Overflow_Parking/Overflow_Parking.dict -- data/linux/processed-challenges/Overflow_Parking/bin/Overflow_Parking\n'
+p91
+I0
+tp92
+a(I5520
+S'start_time     : 1500046976\nlast_update    : 1500052507\nfuzzer_pid     : 24411\ncycles_done    : 0\nexecs_done     : 1206136\nexecs_per_sec  : 212.51\npaths_total    : 64\npaths_favored  : 35\npaths_found    : 63\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 42\npending_favs   : 13\npending_total  : 35\nvariable_paths : 0\nbitmap_cvg     : 0.77%\nunique_crashes : 15\nunique_hangs   : 35\nlast_path      : 1500052264\nlast_crash     : 1500052473\nlast_hang      : 1500052223\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Overflow_Parking/input -o /dev/shm/work/Overflow_Parking/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Overflow_Parking/Overflow_Parking.dict -- data/linux/processed-challenges/Overflow_Parking/bin/Overflow_Parking\n'
+p93
+I0
+tp94
+a(I5640
+S'start_time     : 1500046976\nlast_update    : 1500052627\nfuzzer_pid     : 24411\ncycles_done    : 0\nexecs_done     : 1234016\nexecs_per_sec  : 120.07\npaths_total    : 64\npaths_favored  : 35\npaths_found    : 63\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 43\npending_favs   : 12\npending_total  : 34\nvariable_paths : 0\nbitmap_cvg     : 0.77%\nunique_crashes : 15\nunique_hangs   : 35\nlast_path      : 1500052264\nlast_crash     : 1500052473\nlast_hang      : 1500052223\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Overflow_Parking/input -o /dev/shm/work/Overflow_Parking/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Overflow_Parking/Overflow_Parking.dict -- data/linux/processed-challenges/Overflow_Parking/bin/Overflow_Parking\n'
+p95
+I0
+tp96
+a(I5760
+S'start_time     : 1500046976\nlast_update    : 1500052687\nfuzzer_pid     : 24411\ncycles_done    : 0\nexecs_done     : 1244884\nexecs_per_sec  : 218.68\npaths_total    : 64\npaths_favored  : 35\npaths_found    : 63\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 43\npending_favs   : 12\npending_total  : 34\nvariable_paths : 0\nbitmap_cvg     : 0.77%\nunique_crashes : 15\nunique_hangs   : 35\nlast_path      : 1500052264\nlast_crash     : 1500052473\nlast_hang      : 1500052223\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Overflow_Parking/input -o /dev/shm/work/Overflow_Parking/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Overflow_Parking/Overflow_Parking.dict -- data/linux/processed-challenges/Overflow_Parking/bin/Overflow_Parking\n'
+p97
+I0
+tp98
+a(I5880
+S'start_time     : 1500046976\nlast_update    : 1500052808\nfuzzer_pid     : 24411\ncycles_done    : 0\nexecs_done     : 1260273\nexecs_per_sec  : 134.51\npaths_total    : 64\npaths_favored  : 35\npaths_found    : 63\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 45\npending_favs   : 11\npending_total  : 33\nvariable_paths : 0\nbitmap_cvg     : 0.77%\nunique_crashes : 16\nunique_hangs   : 35\nlast_path      : 1500052264\nlast_crash     : 1500052775\nlast_hang      : 1500052223\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Overflow_Parking/input -o /dev/shm/work/Overflow_Parking/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Overflow_Parking/Overflow_Parking.dict -- data/linux/processed-challenges/Overflow_Parking/bin/Overflow_Parking\n'
+p99
+I1
+tp100
+a(I6000
+S'start_time     : 1500046976\nlast_update    : 1500052928\nfuzzer_pid     : 24411\ncycles_done    : 0\nexecs_done     : 1285831\nexecs_per_sec  : 206.73\npaths_total    : 65\npaths_favored  : 35\npaths_found    : 64\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 47\npending_favs   : 10\npending_total  : 33\nvariable_paths : 0\nbitmap_cvg     : 0.77%\nunique_crashes : 16\nunique_hangs   : 36\nlast_path      : 1500052842\nlast_crash     : 1500052775\nlast_hang      : 1500052926\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Overflow_Parking/input -o /dev/shm/work/Overflow_Parking/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Overflow_Parking/Overflow_Parking.dict -- data/linux/processed-challenges/Overflow_Parking/bin/Overflow_Parking\n'
+p101
+I0
+tp102
+a(I6120
+S'start_time     : 1500046976\nlast_update    : 1500053048\nfuzzer_pid     : 24411\ncycles_done    : 0\nexecs_done     : 1313889\nexecs_per_sec  : 213.75\npaths_total    : 66\npaths_favored  : 35\npaths_found    : 65\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 50\npending_favs   : 11\npending_total  : 33\nvariable_paths : 0\nbitmap_cvg     : 0.77%\nunique_crashes : 16\nunique_hangs   : 37\nlast_path      : 1500053039\nlast_crash     : 1500052775\nlast_hang      : 1500052950\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Overflow_Parking/input -o /dev/shm/work/Overflow_Parking/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Overflow_Parking/Overflow_Parking.dict -- data/linux/processed-challenges/Overflow_Parking/bin/Overflow_Parking\n'
+p103
+I2
+tp104
+a(I6240
+S'start_time     : 1500046976\nlast_update    : 1500053168\nfuzzer_pid     : 24411\ncycles_done    : 0\nexecs_done     : 1339007\nexecs_per_sec  : 212.23\npaths_total    : 67\npaths_favored  : 35\npaths_found    : 66\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 50\npending_favs   : 11\npending_total  : 34\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 16\nunique_hangs   : 37\nlast_path      : 1500053073\nlast_crash     : 1500052775\nlast_hang      : 1500052950\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Overflow_Parking/input -o /dev/shm/work/Overflow_Parking/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Overflow_Parking/Overflow_Parking.dict -- data/linux/processed-challenges/Overflow_Parking/bin/Overflow_Parking\n'
+p105
+I0
+tp106
+a(I6360
+S'start_time     : 1500046976\nlast_update    : 1500053288\nfuzzer_pid     : 24411\ncycles_done    : 0\nexecs_done     : 1364159\nexecs_per_sec  : 221.88\npaths_total    : 67\npaths_favored  : 35\npaths_found    : 66\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 50\npending_favs   : 11\npending_total  : 34\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 16\nunique_hangs   : 37\nlast_path      : 1500053073\nlast_crash     : 1500052775\nlast_hang      : 1500052950\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Overflow_Parking/input -o /dev/shm/work/Overflow_Parking/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Overflow_Parking/Overflow_Parking.dict -- data/linux/processed-challenges/Overflow_Parking/bin/Overflow_Parking\n'
+p107
+I1
+tp108
+a(I6480
+S'start_time     : 1500046976\nlast_update    : 1500053409\nfuzzer_pid     : 24411\ncycles_done    : 0\nexecs_done     : 1392585\nexecs_per_sec  : 221.36\npaths_total    : 69\npaths_favored  : 35\npaths_found    : 68\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 51\npending_favs   : 11\npending_total  : 35\nvariable_paths : 0\nbitmap_cvg     : 0.81%\nunique_crashes : 16\nunique_hangs   : 37\nlast_path      : 1500053358\nlast_crash     : 1500052775\nlast_hang      : 1500052950\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Overflow_Parking/input -o /dev/shm/work/Overflow_Parking/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Overflow_Parking/Overflow_Parking.dict -- data/linux/processed-challenges/Overflow_Parking/bin/Overflow_Parking\n'
+p109
+I1
+tp110
+a(I6600
+S'start_time     : 1500046976\nlast_update    : 1500053529\nfuzzer_pid     : 24411\ncycles_done    : 0\nexecs_done     : 1418029\nexecs_per_sec  : 214.36\npaths_total    : 69\npaths_favored  : 35\npaths_found    : 68\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 51\npending_favs   : 11\npending_total  : 35\nvariable_paths : 0\nbitmap_cvg     : 0.81%\nunique_crashes : 16\nunique_hangs   : 38\nlast_path      : 1500053358\nlast_crash     : 1500052775\nlast_hang      : 1500053501\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Overflow_Parking/input -o /dev/shm/work/Overflow_Parking/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Overflow_Parking/Overflow_Parking.dict -- data/linux/processed-challenges/Overflow_Parking/bin/Overflow_Parking\n'
+p111
+I1
+tp112
+a(I6720
+S'start_time     : 1500046976\nlast_update    : 1500053649\nfuzzer_pid     : 24411\ncycles_done    : 0\nexecs_done     : 1443187\nexecs_per_sec  : 216.38\npaths_total    : 70\npaths_favored  : 35\npaths_found    : 69\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 51\npending_favs   : 11\npending_total  : 36\nvariable_paths : 0\nbitmap_cvg     : 0.82%\nunique_crashes : 16\nunique_hangs   : 38\nlast_path      : 1500053564\nlast_crash     : 1500052775\nlast_hang      : 1500053501\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Overflow_Parking/input -o /dev/shm/work/Overflow_Parking/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Overflow_Parking/Overflow_Parking.dict -- data/linux/processed-challenges/Overflow_Parking/bin/Overflow_Parking\n'
+p113
+I0
+tp114
+a(I6840
+S'start_time     : 1500046976\nlast_update    : 1500053769\nfuzzer_pid     : 24411\ncycles_done    : 0\nexecs_done     : 1468199\nexecs_per_sec  : 205.81\npaths_total    : 70\npaths_favored  : 35\npaths_found    : 69\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 51\npending_favs   : 11\npending_total  : 36\nvariable_paths : 0\nbitmap_cvg     : 0.82%\nunique_crashes : 16\nunique_hangs   : 38\nlast_path      : 1500053564\nlast_crash     : 1500052775\nlast_hang      : 1500053501\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Overflow_Parking/input -o /dev/shm/work/Overflow_Parking/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Overflow_Parking/Overflow_Parking.dict -- data/linux/processed-challenges/Overflow_Parking/bin/Overflow_Parking\n'
+p115
+I0
+tp116
+a(I6960
+S'start_time     : 1500046976\nlast_update    : 1500053890\nfuzzer_pid     : 24411\ncycles_done    : 0\nexecs_done     : 1496417\nexecs_per_sec  : 571.79\npaths_total    : 70\npaths_favored  : 37\npaths_found    : 69\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 52\npending_favs   : 12\npending_total  : 35\nvariable_paths : 0\nbitmap_cvg     : 0.82%\nunique_crashes : 16\nunique_hangs   : 38\nlast_path      : 1500053564\nlast_crash     : 1500052775\nlast_hang      : 1500053501\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Overflow_Parking/input -o /dev/shm/work/Overflow_Parking/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Overflow_Parking/Overflow_Parking.dict -- data/linux/processed-challenges/Overflow_Parking/bin/Overflow_Parking\n'
+p117
+I0
+tp118
+a(I7080
+S'start_time     : 1500046976\nlast_update    : 1500054010\nfuzzer_pid     : 24411\ncycles_done    : 0\nexecs_done     : 1522494\nexecs_per_sec  : 196.92\npaths_total    : 70\npaths_favored  : 37\npaths_found    : 69\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 54\npending_favs   : 11\npending_total  : 34\nvariable_paths : 0\nbitmap_cvg     : 0.82%\nunique_crashes : 17\nunique_hangs   : 39\nlast_path      : 1500053564\nlast_crash     : 1500054001\nlast_hang      : 1500053923\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Overflow_Parking/input -o /dev/shm/work/Overflow_Parking/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Overflow_Parking/Overflow_Parking.dict -- data/linux/processed-challenges/Overflow_Parking/bin/Overflow_Parking\n'
+p119
+I0
+tp120
+a(I7200
+S'start_time     : 1500046976\nlast_update    : 1500054130\nfuzzer_pid     : 24411\ncycles_done    : 0\nexecs_done     : 1546421\nexecs_per_sec  : 61.63\npaths_total    : 71\npaths_favored  : 37\npaths_found    : 70\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 56\npending_favs   : 10\npending_total  : 34\nvariable_paths : 0\nbitmap_cvg     : 0.82%\nunique_crashes : 18\nunique_hangs   : 39\nlast_path      : 1500054088\nlast_crash     : 1500054089\nlast_hang      : 1500053923\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Overflow_Parking/input -o /dev/shm/work/Overflow_Parking/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Overflow_Parking/Overflow_Parking.dict -- data/linux/processed-challenges/Overflow_Parking/bin/Overflow_Parking\n'
+p121
+I1
+tp122
+a(I7320
+S'start_time     : 1500046976\nlast_update    : 1500054250\nfuzzer_pid     : 24411\ncycles_done    : 0\nexecs_done     : 1569479\nexecs_per_sec  : 64.88\npaths_total    : 71\npaths_favored  : 37\npaths_found    : 70\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 58\npending_favs   : 9\npending_total  : 33\nvariable_paths : 0\nbitmap_cvg     : 0.82%\nunique_crashes : 19\nunique_hangs   : 39\nlast_path      : 1500054088\nlast_crash     : 1500054248\nlast_hang      : 1500053923\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Overflow_Parking/input -o /dev/shm/work/Overflow_Parking/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Overflow_Parking/Overflow_Parking.dict -- data/linux/processed-challenges/Overflow_Parking/bin/Overflow_Parking\n'
+p123
+I0
+tp124
+a(I7440
+S'start_time     : 1500046976\nlast_update    : 1500054370\nfuzzer_pid     : 24411\ncycles_done    : 0\nexecs_done     : 1590979\nexecs_per_sec  : 62.35\npaths_total    : 71\npaths_favored  : 37\npaths_found    : 70\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 59\npending_favs   : 8\npending_total  : 32\nvariable_paths : 0\nbitmap_cvg     : 0.82%\nunique_crashes : 19\nunique_hangs   : 40\nlast_path      : 1500054088\nlast_crash     : 1500054248\nlast_hang      : 1500054277\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Overflow_Parking/input -o /dev/shm/work/Overflow_Parking/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Overflow_Parking/Overflow_Parking.dict -- data/linux/processed-challenges/Overflow_Parking/bin/Overflow_Parking\n'
+p125
+I1
+tp126
+a(I7560
+S'start_time     : 1500046976\nlast_update    : 1500054490\nfuzzer_pid     : 24411\ncycles_done    : 0\nexecs_done     : 1608373\nexecs_per_sec  : 147.96\npaths_total    : 72\npaths_favored  : 37\npaths_found    : 71\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 59\npending_favs   : 8\npending_total  : 33\nvariable_paths : 0\nbitmap_cvg     : 0.82%\nunique_crashes : 19\nunique_hangs   : 40\nlast_path      : 1500054423\nlast_crash     : 1500054248\nlast_hang      : 1500054277\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Overflow_Parking/input -o /dev/shm/work/Overflow_Parking/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Overflow_Parking/Overflow_Parking.dict -- data/linux/processed-challenges/Overflow_Parking/bin/Overflow_Parking\n'
+p127
+I0
+tp128
+a(I7680
+S'start_time     : 1500046976\nlast_update    : 1500054611\nfuzzer_pid     : 24411\ncycles_done    : 0\nexecs_done     : 1629296\nexecs_per_sec  : 156.89\npaths_total    : 72\npaths_favored  : 37\npaths_found    : 71\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 60\npending_favs   : 8\npending_total  : 32\nvariable_paths : 0\nbitmap_cvg     : 0.82%\nunique_crashes : 20\nunique_hangs   : 40\nlast_path      : 1500054423\nlast_crash     : 1500054607\nlast_hang      : 1500054277\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Overflow_Parking/input -o /dev/shm/work/Overflow_Parking/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Overflow_Parking/Overflow_Parking.dict -- data/linux/processed-challenges/Overflow_Parking/bin/Overflow_Parking\n'
+p129
+I0
+tp130
+a(I7800
+S'start_time     : 1500046976\nlast_update    : 1500054731\nfuzzer_pid     : 24411\ncycles_done    : 0\nexecs_done     : 1642633\nexecs_per_sec  : 72.22\npaths_total    : 72\npaths_favored  : 37\npaths_found    : 71\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 64\npending_favs   : 7\npending_total  : 31\nvariable_paths : 0\nbitmap_cvg     : 0.82%\nunique_crashes : 20\nunique_hangs   : 40\nlast_path      : 1500054423\nlast_crash     : 1500054607\nlast_hang      : 1500054277\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Overflow_Parking/input -o /dev/shm/work/Overflow_Parking/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Overflow_Parking/Overflow_Parking.dict -- data/linux/processed-challenges/Overflow_Parking/bin/Overflow_Parking\n'
+p131
+I0
+tp132
+a(I7920
+S'start_time     : 1500046976\nlast_update    : 1500054851\nfuzzer_pid     : 24411\ncycles_done    : 0\nexecs_done     : 1656735\nexecs_per_sec  : 156.01\npaths_total    : 72\npaths_favored  : 37\npaths_found    : 71\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 64\npending_favs   : 7\npending_total  : 31\nvariable_paths : 0\nbitmap_cvg     : 0.82%\nunique_crashes : 20\nunique_hangs   : 40\nlast_path      : 1500054423\nlast_crash     : 1500054607\nlast_hang      : 1500054277\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Overflow_Parking/input -o /dev/shm/work/Overflow_Parking/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Overflow_Parking/Overflow_Parking.dict -- data/linux/processed-challenges/Overflow_Parking/bin/Overflow_Parking\n'
+p133
+I9
+tp134
+a(I8040
+S'start_time     : 1500046976\nlast_update    : 1500054971\nfuzzer_pid     : 24411\ncycles_done    : 0\nexecs_done     : 1684314\nexecs_per_sec  : 145.85\npaths_total    : 81\npaths_favored  : 37\npaths_found    : 80\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 66\npending_favs   : 6\npending_total  : 39\nvariable_paths : 0\nbitmap_cvg     : 0.87%\nunique_crashes : 21\nunique_hangs   : 41\nlast_path      : 1500054896\nlast_crash     : 1500054909\nlast_hang      : 1500054911\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Overflow_Parking/input -o /dev/shm/work/Overflow_Parking/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Overflow_Parking/Overflow_Parking.dict -- data/linux/processed-challenges/Overflow_Parking/bin/Overflow_Parking\n'
+p135
+I0
+tp136
+a(I8160
+S'start_time     : 1500046976\nlast_update    : 1500055092\nfuzzer_pid     : 24411\ncycles_done    : 0\nexecs_done     : 1707793\nexecs_per_sec  : 1065.00\npaths_total    : 81\npaths_favored  : 42\npaths_found    : 80\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 67\npending_favs   : 12\npending_total  : 38\nvariable_paths : 0\nbitmap_cvg     : 0.87%\nunique_crashes : 21\nunique_hangs   : 41\nlast_path      : 1500054896\nlast_crash     : 1500054909\nlast_hang      : 1500054911\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Overflow_Parking/input -o /dev/shm/work/Overflow_Parking/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Overflow_Parking/Overflow_Parking.dict -- data/linux/processed-challenges/Overflow_Parking/bin/Overflow_Parking\n'
+p137
+I0
+tp138
+a(I8280
+S'start_time     : 1500046976\nlast_update    : 1500055212\nfuzzer_pid     : 24411\ncycles_done    : 0\nexecs_done     : 1729207\nexecs_per_sec  : 157.41\npaths_total    : 81\npaths_favored  : 42\npaths_found    : 80\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 67\npending_favs   : 12\npending_total  : 38\nvariable_paths : 0\nbitmap_cvg     : 0.87%\nunique_crashes : 22\nunique_hangs   : 41\nlast_path      : 1500054896\nlast_crash     : 1500055129\nlast_hang      : 1500054911\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Overflow_Parking/input -o /dev/shm/work/Overflow_Parking/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Overflow_Parking/Overflow_Parking.dict -- data/linux/processed-challenges/Overflow_Parking/bin/Overflow_Parking\n'
+p139
+I2
+tp140
+a(I8400
+S'start_time     : 1500046976\nlast_update    : 1500055332\nfuzzer_pid     : 24411\ncycles_done    : 0\nexecs_done     : 1756143\nexecs_per_sec  : 143.83\npaths_total    : 84\npaths_favored  : 42\npaths_found    : 83\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 69\npending_favs   : 11\npending_total  : 40\nvariable_paths : 0\nbitmap_cvg     : 0.88%\nunique_crashes : 23\nunique_hangs   : 41\nlast_path      : 1500055270\nlast_crash     : 1500055266\nlast_hang      : 1500054911\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Overflow_Parking/input -o /dev/shm/work/Overflow_Parking/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Overflow_Parking/Overflow_Parking.dict -- data/linux/processed-challenges/Overflow_Parking/bin/Overflow_Parking\n'
+p141
+I2
+tp142
+a(I8520
+S'start_time     : 1500046976\nlast_update    : 1500055452\nfuzzer_pid     : 24411\ncycles_done    : 0\nexecs_done     : 1775044\nexecs_per_sec  : 156.96\npaths_total    : 86\npaths_favored  : 42\npaths_found    : 85\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 69\npending_favs   : 11\npending_total  : 42\nvariable_paths : 0\nbitmap_cvg     : 0.88%\nunique_crashes : 23\nunique_hangs   : 42\nlast_path      : 1500055393\nlast_crash     : 1500055266\nlast_hang      : 1500055448\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Overflow_Parking/input -o /dev/shm/work/Overflow_Parking/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Overflow_Parking/Overflow_Parking.dict -- data/linux/processed-challenges/Overflow_Parking/bin/Overflow_Parking\n'
+p143
+I1
+tp144
+a(I8640
+S'start_time     : 1500046976\nlast_update    : 1500055573\nfuzzer_pid     : 24411\ncycles_done    : 0\nexecs_done     : 1793456\nexecs_per_sec  : 153.52\npaths_total    : 87\npaths_favored  : 42\npaths_found    : 86\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 69\npending_favs   : 11\npending_total  : 43\nvariable_paths : 0\nbitmap_cvg     : 0.88%\nunique_crashes : 23\nunique_hangs   : 42\nlast_path      : 1500055554\nlast_crash     : 1500055266\nlast_hang      : 1500055448\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Overflow_Parking/input -o /dev/shm/work/Overflow_Parking/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Overflow_Parking/Overflow_Parking.dict -- data/linux/processed-challenges/Overflow_Parking/bin/Overflow_Parking\n'
+p145
+I1
+tp146
+a(I8760
+S'start_time     : 1500046976\nlast_update    : 1500055693\nfuzzer_pid     : 24411\ncycles_done    : 0\nexecs_done     : 1812002\nexecs_per_sec  : 149.49\npaths_total    : 87\npaths_favored  : 42\npaths_found    : 86\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 69\npending_favs   : 11\npending_total  : 43\nvariable_paths : 0\nbitmap_cvg     : 0.88%\nunique_crashes : 23\nunique_hangs   : 43\nlast_path      : 1500055554\nlast_crash     : 1500055266\nlast_hang      : 1500055669\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Overflow_Parking/input -o /dev/shm/work/Overflow_Parking/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Overflow_Parking/Overflow_Parking.dict -- data/linux/processed-challenges/Overflow_Parking/bin/Overflow_Parking\n'
+p147
+I0
+tp148
+a(I8880
+S'start_time     : 1500046976\nlast_update    : 1500055813\nfuzzer_pid     : 24411\ncycles_done    : 0\nexecs_done     : 1830365\nexecs_per_sec  : 159.40\npaths_total    : 87\npaths_favored  : 42\npaths_found    : 86\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 69\npending_favs   : 11\npending_total  : 43\nvariable_paths : 0\nbitmap_cvg     : 0.88%\nunique_crashes : 23\nunique_hangs   : 43\nlast_path      : 1500055554\nlast_crash     : 1500055266\nlast_hang      : 1500055669\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Overflow_Parking/input -o /dev/shm/work/Overflow_Parking/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Overflow_Parking/Overflow_Parking.dict -- data/linux/processed-challenges/Overflow_Parking/bin/Overflow_Parking\n'
+p149
+I0
+tp150
+a(I9000
+S'start_time     : 1500046976\nlast_update    : 1500055933\nfuzzer_pid     : 24411\ncycles_done    : 0\nexecs_done     : 1848803\nexecs_per_sec  : 160.37\npaths_total    : 87\npaths_favored  : 42\npaths_found    : 86\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 69\npending_favs   : 11\npending_total  : 43\nvariable_paths : 0\nbitmap_cvg     : 0.88%\nunique_crashes : 23\nunique_hangs   : 44\nlast_path      : 1500055554\nlast_crash     : 1500055266\nlast_hang      : 1500055862\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Overflow_Parking/input -o /dev/shm/work/Overflow_Parking/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Overflow_Parking/Overflow_Parking.dict -- data/linux/processed-challenges/Overflow_Parking/bin/Overflow_Parking\n'
+p151
+I0
+tp152
+a(I9120
+S'start_time     : 1500046976\nlast_update    : 1500056054\nfuzzer_pid     : 24411\ncycles_done    : 0\nexecs_done     : 1875988\nexecs_per_sec  : 813.98\npaths_total    : 87\npaths_favored  : 43\npaths_found    : 86\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 72\npending_favs   : 11\npending_total  : 42\nvariable_paths : 0\nbitmap_cvg     : 0.88%\nunique_crashes : 23\nunique_hangs   : 44\nlast_path      : 1500055554\nlast_crash     : 1500055266\nlast_hang      : 1500055862\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Overflow_Parking/input -o /dev/shm/work/Overflow_Parking/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Overflow_Parking/Overflow_Parking.dict -- data/linux/processed-challenges/Overflow_Parking/bin/Overflow_Parking\n'
+p153
+I0
+tp154
+a(I9240
+S'start_time     : 1500046976\nlast_update    : 1500056174\nfuzzer_pid     : 24411\ncycles_done    : 0\nexecs_done     : 1895675\nexecs_per_sec  : 74.86\npaths_total    : 88\npaths_favored  : 43\npaths_found    : 87\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 74\npending_favs   : 10\npending_total  : 42\nvariable_paths : 0\nbitmap_cvg     : 0.88%\nunique_crashes : 23\nunique_hangs   : 44\nlast_path      : 1500056170\nlast_crash     : 1500055266\nlast_hang      : 1500055862\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Overflow_Parking/input -o /dev/shm/work/Overflow_Parking/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Overflow_Parking/Overflow_Parking.dict -- data/linux/processed-challenges/Overflow_Parking/bin/Overflow_Parking\n'
+p155
+I1
+tp156
+a(I9360
+S'start_time     : 1500046976\nlast_update    : 1500056294\nfuzzer_pid     : 24411\ncycles_done    : 0\nexecs_done     : 1920497\nexecs_per_sec  : 141.29\npaths_total    : 88\npaths_favored  : 43\npaths_found    : 87\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 74\npending_favs   : 10\npending_total  : 42\nvariable_paths : 0\nbitmap_cvg     : 0.88%\nunique_crashes : 23\nunique_hangs   : 44\nlast_path      : 1500056170\nlast_crash     : 1500055266\nlast_hang      : 1500055862\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Overflow_Parking/input -o /dev/shm/work/Overflow_Parking/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Overflow_Parking/Overflow_Parking.dict -- data/linux/processed-challenges/Overflow_Parking/bin/Overflow_Parking\n'
+p157
+I0
+tp158
+a(I9480
+S'start_time     : 1500046976\nlast_update    : 1500056414\nfuzzer_pid     : 24411\ncycles_done    : 0\nexecs_done     : 1947098\nexecs_per_sec  : 155.92\npaths_total    : 88\npaths_favored  : 44\npaths_found    : 87\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 75\npending_favs   : 10\npending_total  : 41\nvariable_paths : 0\nbitmap_cvg     : 0.88%\nunique_crashes : 24\nunique_hangs   : 45\nlast_path      : 1500056170\nlast_crash     : 1500056384\nlast_hang      : 1500056313\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Overflow_Parking/input -o /dev/shm/work/Overflow_Parking/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Overflow_Parking/Overflow_Parking.dict -- data/linux/processed-challenges/Overflow_Parking/bin/Overflow_Parking\n'
+p159
+I2
+tp160
+a(I9600
+S'start_time     : 1500046976\nlast_update    : 1500056534\nfuzzer_pid     : 24411\ncycles_done    : 0\nexecs_done     : 1973925\nexecs_per_sec  : 143.78\npaths_total    : 91\npaths_favored  : 44\npaths_found    : 90\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 78\npending_favs   : 9\npending_total  : 43\nvariable_paths : 0\nbitmap_cvg     : 0.89%\nunique_crashes : 24\nunique_hangs   : 46\nlast_path      : 1500056505\nlast_crash     : 1500056384\nlast_hang      : 1500056495\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Overflow_Parking/input -o /dev/shm/work/Overflow_Parking/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Overflow_Parking/Overflow_Parking.dict -- data/linux/processed-challenges/Overflow_Parking/bin/Overflow_Parking\n'
+p161
+I2
+tp162
+a(I9720
+S'start_time     : 1500046976\nlast_update    : 1500056655\nfuzzer_pid     : 24411\ncycles_done    : 0\nexecs_done     : 1992093\nexecs_per_sec  : 159.21\npaths_total    : 93\npaths_favored  : 44\npaths_found    : 92\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 78\npending_favs   : 9\npending_total  : 45\nvariable_paths : 0\nbitmap_cvg     : 0.89%\nunique_crashes : 24\nunique_hangs   : 47\nlast_path      : 1500056610\nlast_crash     : 1500056384\nlast_hang      : 1500056562\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Overflow_Parking/input -o /dev/shm/work/Overflow_Parking/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Overflow_Parking/Overflow_Parking.dict -- data/linux/processed-challenges/Overflow_Parking/bin/Overflow_Parking\n'
+p163
+I1
+tp164
+a(I9840
+S'start_time     : 1500046976\nlast_update    : 1500056775\nfuzzer_pid     : 24411\ncycles_done    : 0\nexecs_done     : 2010141\nexecs_per_sec  : 152.58\npaths_total    : 93\npaths_favored  : 44\npaths_found    : 92\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 78\npending_favs   : 9\npending_total  : 45\nvariable_paths : 0\nbitmap_cvg     : 0.89%\nunique_crashes : 24\nunique_hangs   : 47\nlast_path      : 1500056610\nlast_crash     : 1500056384\nlast_hang      : 1500056562\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Overflow_Parking/input -o /dev/shm/work/Overflow_Parking/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Overflow_Parking/Overflow_Parking.dict -- data/linux/processed-challenges/Overflow_Parking/bin/Overflow_Parking\n'
+p165
+I0
+tp166
+a(I9960
+S'start_time     : 1500046976\nlast_update    : 1500056895\nfuzzer_pid     : 24411\ncycles_done    : 0\nexecs_done     : 2028330\nexecs_per_sec  : 147.80\npaths_total    : 93\npaths_favored  : 44\npaths_found    : 92\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 78\npending_favs   : 9\npending_total  : 45\nvariable_paths : 0\nbitmap_cvg     : 0.89%\nunique_crashes : 24\nunique_hangs   : 47\nlast_path      : 1500056610\nlast_crash     : 1500056384\nlast_hang      : 1500056562\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Overflow_Parking/input -o /dev/shm/work/Overflow_Parking/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Overflow_Parking/Overflow_Parking.dict -- data/linux/processed-challenges/Overflow_Parking/bin/Overflow_Parking\n'
+p167
+I0
+tp168
+a(I10080
+S'start_time     : 1500046976\nlast_update    : 1500057015\nfuzzer_pid     : 24411\ncycles_done    : 0\nexecs_done     : 2046546\nexecs_per_sec  : 155.30\npaths_total    : 93\npaths_favored  : 44\npaths_found    : 92\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 78\npending_favs   : 9\npending_total  : 45\nvariable_paths : 0\nbitmap_cvg     : 0.89%\nunique_crashes : 24\nunique_hangs   : 47\nlast_path      : 1500056610\nlast_crash     : 1500056384\nlast_hang      : 1500056562\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Overflow_Parking/input -o /dev/shm/work/Overflow_Parking/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Overflow_Parking/Overflow_Parking.dict -- data/linux/processed-challenges/Overflow_Parking/bin/Overflow_Parking\n'
+p169
+I0
+tp170
+a(I10200
+S'start_time     : 1500046976\nlast_update    : 1500057135\nfuzzer_pid     : 24411\ncycles_done    : 0\nexecs_done     : 2064769\nexecs_per_sec  : 145.32\npaths_total    : 93\npaths_favored  : 44\npaths_found    : 92\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 78\npending_favs   : 9\npending_total  : 45\nvariable_paths : 0\nbitmap_cvg     : 0.89%\nunique_crashes : 24\nunique_hangs   : 47\nlast_path      : 1500056610\nlast_crash     : 1500056384\nlast_hang      : 1500056562\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Overflow_Parking/input -o /dev/shm/work/Overflow_Parking/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Overflow_Parking/Overflow_Parking.dict -- data/linux/processed-challenges/Overflow_Parking/bin/Overflow_Parking\n'
+p171
+I0
+tp172
+a(I10320
+S'start_time     : 1500046976\nlast_update    : 1500057256\nfuzzer_pid     : 24411\ncycles_done    : 0\nexecs_done     : 2082900\nexecs_per_sec  : 162.05\npaths_total    : 93\npaths_favored  : 44\npaths_found    : 92\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 78\npending_favs   : 9\npending_total  : 45\nvariable_paths : 0\nbitmap_cvg     : 0.89%\nunique_crashes : 24\nunique_hangs   : 47\nlast_path      : 1500056610\nlast_crash     : 1500056384\nlast_hang      : 1500056562\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Overflow_Parking/input -o /dev/shm/work/Overflow_Parking/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Overflow_Parking/Overflow_Parking.dict -- data/linux/processed-challenges/Overflow_Parking/bin/Overflow_Parking\n'
+p173
+I0
+tp174
+a(I10440
+S'start_time     : 1500046976\nlast_update    : 1500057376\nfuzzer_pid     : 24411\ncycles_done    : 0\nexecs_done     : 2109811\nexecs_per_sec  : 143.44\npaths_total    : 93\npaths_favored  : 46\npaths_found    : 92\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 79\npending_favs   : 10\npending_total  : 44\nvariable_paths : 0\nbitmap_cvg     : 0.89%\nunique_crashes : 24\nunique_hangs   : 47\nlast_path      : 1500056610\nlast_crash     : 1500056384\nlast_hang      : 1500056562\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Overflow_Parking/input -o /dev/shm/work/Overflow_Parking/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Overflow_Parking/Overflow_Parking.dict -- data/linux/processed-challenges/Overflow_Parking/bin/Overflow_Parking\n'
+p175
+I0
+tp176
+a(I10560
+S'start_time     : 1500046976\nlast_update    : 1500057496\nfuzzer_pid     : 24411\ncycles_done    : 0\nexecs_done     : 2136316\nexecs_per_sec  : 148.31\npaths_total    : 93\npaths_favored  : 46\npaths_found    : 92\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 81\npending_favs   : 9\npending_total  : 43\nvariable_paths : 0\nbitmap_cvg     : 0.89%\nunique_crashes : 24\nunique_hangs   : 48\nlast_path      : 1500056610\nlast_crash     : 1500056384\nlast_hang      : 1500057417\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Overflow_Parking/input -o /dev/shm/work/Overflow_Parking/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Overflow_Parking/Overflow_Parking.dict -- data/linux/processed-challenges/Overflow_Parking/bin/Overflow_Parking\n'
+p177
+I0
+tp178
+a(I10680
+S'start_time     : 1500046976\nlast_update    : 1500057616\nfuzzer_pid     : 24411\ncycles_done    : 0\nexecs_done     : 2163255\nexecs_per_sec  : 155.67\npaths_total    : 95\npaths_favored  : 46\npaths_found    : 94\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 82\npending_favs   : 8\npending_total  : 44\nvariable_paths : 0\nbitmap_cvg     : 0.89%\nunique_crashes : 24\nunique_hangs   : 48\nlast_path      : 1500057594\nlast_crash     : 1500056384\nlast_hang      : 1500057417\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Overflow_Parking/input -o /dev/shm/work/Overflow_Parking/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Overflow_Parking/Overflow_Parking.dict -- data/linux/processed-challenges/Overflow_Parking/bin/Overflow_Parking\n'
+p179
+I3
+tp180
+a.

@@ -1,0 +1,452 @@
+(lp0
+(I0
+S'start_time     : 1500274158\nlast_update    : 1500274158\nfuzzer_pid     : 6141\ncycles_done    : 0\nexecs_done     : 10\nexecs_per_sec  : 181.82\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 1\npending_total  : 1\nvariable_paths : 0\nbitmap_cvg     : 0.05%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/matrices_for_sale/input -o /dev/shm/work/matrices_for_sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/matrices_for_sale/matrices_for_sale.dict -- data/linux/processed-challenges/matrices_for_sale/bin/matrices_for_sale\n'
+p1
+I15
+tp2
+a(I120
+S'start_time     : 1500274158\nlast_update    : 1500274278\nfuzzer_pid     : 6141\ncycles_done    : 0\nexecs_done     : 128861\nexecs_per_sec  : 1049.40\npaths_total    : 28\npaths_favored  : 1\npaths_found    : 27\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 1\npending_total  : 28\nvariable_paths : 0\nbitmap_cvg     : 0.30%\nunique_crashes : 6\nunique_hangs   : 6\nlast_path      : 1500274275\nlast_crash     : 1500274237\nlast_hang      : 1500274256\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/matrices_for_sale/input -o /dev/shm/work/matrices_for_sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/matrices_for_sale/matrices_for_sale.dict -- data/linux/processed-challenges/matrices_for_sale/bin/matrices_for_sale\n'
+p3
+I13
+tp4
+a(I240
+S'start_time     : 1500274158\nlast_update    : 1500274398\nfuzzer_pid     : 6141\ncycles_done    : 0\nexecs_done     : 245703\nexecs_per_sec  : 955.12\npaths_total    : 33\npaths_favored  : 10\npaths_found    : 32\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 8\npending_favs   : 10\npending_total  : 32\nvariable_paths : 0\nbitmap_cvg     : 0.31%\nunique_crashes : 9\nunique_hangs   : 15\nlast_path      : 1500274358\nlast_crash     : 1500274340\nlast_hang      : 1500274397\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/matrices_for_sale/input -o /dev/shm/work/matrices_for_sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/matrices_for_sale/matrices_for_sale.dict -- data/linux/processed-challenges/matrices_for_sale/bin/matrices_for_sale\n'
+p5
+I5
+tp6
+a(I360
+S'start_time     : 1500274158\nlast_update    : 1500274519\nfuzzer_pid     : 6141\ncycles_done    : 0\nexecs_done     : 359669\nexecs_per_sec  : 943.82\npaths_total    : 38\npaths_favored  : 11\npaths_found    : 37\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 14\npending_favs   : 10\npending_total  : 35\nvariable_paths : 0\nbitmap_cvg     : 0.31%\nunique_crashes : 14\nunique_hangs   : 15\nlast_path      : 1500274480\nlast_crash     : 1500274464\nlast_hang      : 1500274397\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/matrices_for_sale/input -o /dev/shm/work/matrices_for_sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/matrices_for_sale/matrices_for_sale.dict -- data/linux/processed-challenges/matrices_for_sale/bin/matrices_for_sale\n'
+p7
+I5
+tp8
+a(I480
+S'start_time     : 1500274158\nlast_update    : 1500274639\nfuzzer_pid     : 6141\ncycles_done    : 0\nexecs_done     : 436110\nexecs_per_sec  : 328.14\npaths_total    : 44\npaths_favored  : 11\npaths_found    : 43\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 18\npending_favs   : 9\npending_total  : 40\nvariable_paths : 0\nbitmap_cvg     : 0.31%\nunique_crashes : 15\nunique_hangs   : 15\nlast_path      : 1500274618\nlast_crash     : 1500274636\nlast_hang      : 1500274397\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/matrices_for_sale/input -o /dev/shm/work/matrices_for_sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/matrices_for_sale/matrices_for_sale.dict -- data/linux/processed-challenges/matrices_for_sale/bin/matrices_for_sale\n'
+p9
+I6
+tp10
+a(I600
+S'start_time     : 1500274158\nlast_update    : 1500274759\nfuzzer_pid     : 6141\ncycles_done    : 0\nexecs_done     : 473818\nexecs_per_sec  : 326.00\npaths_total    : 45\npaths_favored  : 11\npaths_found    : 44\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 18\npending_favs   : 9\npending_total  : 41\nvariable_paths : 0\nbitmap_cvg     : 0.31%\nunique_crashes : 15\nunique_hangs   : 15\nlast_path      : 1500274752\nlast_crash     : 1500274636\nlast_hang      : 1500274397\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/matrices_for_sale/input -o /dev/shm/work/matrices_for_sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/matrices_for_sale/matrices_for_sale.dict -- data/linux/processed-challenges/matrices_for_sale/bin/matrices_for_sale\n'
+p11
+I1
+tp12
+a(I720
+S'start_time     : 1500274158\nlast_update    : 1500274879\nfuzzer_pid     : 6141\ncycles_done    : 0\nexecs_done     : 511646\nexecs_per_sec  : 329.26\npaths_total    : 46\npaths_favored  : 11\npaths_found    : 45\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 18\npending_favs   : 9\npending_total  : 42\nvariable_paths : 0\nbitmap_cvg     : 0.31%\nunique_crashes : 15\nunique_hangs   : 15\nlast_path      : 1500274867\nlast_crash     : 1500274636\nlast_hang      : 1500274397\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/matrices_for_sale/input -o /dev/shm/work/matrices_for_sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/matrices_for_sale/matrices_for_sale.dict -- data/linux/processed-challenges/matrices_for_sale/bin/matrices_for_sale\n'
+p13
+I1
+tp14
+a(I840
+S'start_time     : 1500274158\nlast_update    : 1500275000\nfuzzer_pid     : 6141\ncycles_done    : 0\nexecs_done     : 568806\nexecs_per_sec  : 854.83\npaths_total    : 46\npaths_favored  : 13\npaths_found    : 45\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 28\npending_favs   : 8\npending_total  : 39\nvariable_paths : 0\nbitmap_cvg     : 0.31%\nunique_crashes : 16\nunique_hangs   : 15\nlast_path      : 1500274867\nlast_crash     : 1500274902\nlast_hang      : 1500274397\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/matrices_for_sale/input -o /dev/shm/work/matrices_for_sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/matrices_for_sale/matrices_for_sale.dict -- data/linux/processed-challenges/matrices_for_sale/bin/matrices_for_sale\n'
+p15
+I0
+tp16
+a(I960
+S'start_time     : 1500274158\nlast_update    : 1500275120\nfuzzer_pid     : 6141\ncycles_done    : 0\nexecs_done     : 597255\nexecs_per_sec  : 95.69\npaths_total    : 46\npaths_favored  : 14\npaths_found    : 45\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 32\npending_favs   : 7\npending_total  : 37\nvariable_paths : 0\nbitmap_cvg     : 0.31%\nunique_crashes : 17\nunique_hangs   : 15\nlast_path      : 1500274867\nlast_crash     : 1500275055\nlast_hang      : 1500274397\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/matrices_for_sale/input -o /dev/shm/work/matrices_for_sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/matrices_for_sale/matrices_for_sale.dict -- data/linux/processed-challenges/matrices_for_sale/bin/matrices_for_sale\n'
+p17
+I0
+tp18
+a(I1080
+S'start_time     : 1500274158\nlast_update    : 1500275240\nfuzzer_pid     : 6141\ncycles_done    : 0\nexecs_done     : 635103\nexecs_per_sec  : 269.63\npaths_total    : 47\npaths_favored  : 14\npaths_found    : 46\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 39\npending_favs   : 5\npending_total  : 36\nvariable_paths : 0\nbitmap_cvg     : 0.32%\nunique_crashes : 17\nunique_hangs   : 16\nlast_path      : 1500275199\nlast_crash     : 1500275055\nlast_hang      : 1500275121\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/matrices_for_sale/input -o /dev/shm/work/matrices_for_sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/matrices_for_sale/matrices_for_sale.dict -- data/linux/processed-challenges/matrices_for_sale/bin/matrices_for_sale\n'
+p19
+I1
+tp20
+a(I1200
+S'start_time     : 1500274158\nlast_update    : 1500275360\nfuzzer_pid     : 6141\ncycles_done    : 0\nexecs_done     : 676056\nexecs_per_sec  : 262.31\npaths_total    : 48\npaths_favored  : 16\npaths_found    : 47\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 42\npending_favs   : 4\npending_total  : 34\nvariable_paths : 0\nbitmap_cvg     : 0.32%\nunique_crashes : 17\nunique_hangs   : 16\nlast_path      : 1500275281\nlast_crash     : 1500275055\nlast_hang      : 1500275121\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/matrices_for_sale/input -o /dev/shm/work/matrices_for_sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/matrices_for_sale/matrices_for_sale.dict -- data/linux/processed-challenges/matrices_for_sale/bin/matrices_for_sale\n'
+p21
+I1
+tp22
+a(I1320
+S'start_time     : 1500274158\nlast_update    : 1500275480\nfuzzer_pid     : 6141\ncycles_done    : 0\nexecs_done     : 702728\nexecs_per_sec  : 200.00\npaths_total    : 51\npaths_favored  : 16\npaths_found    : 50\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 45\npending_favs   : 3\npending_total  : 36\nvariable_paths : 0\nbitmap_cvg     : 0.32%\nunique_crashes : 17\nunique_hangs   : 17\nlast_path      : 1500275464\nlast_crash     : 1500275055\nlast_hang      : 1500275418\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/matrices_for_sale/input -o /dev/shm/work/matrices_for_sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/matrices_for_sale/matrices_for_sale.dict -- data/linux/processed-challenges/matrices_for_sale/bin/matrices_for_sale\n'
+p23
+I3
+tp24
+a(I1440
+S'start_time     : 1500274158\nlast_update    : 1500275600\nfuzzer_pid     : 6141\ncycles_done    : 0\nexecs_done     : 731518\nexecs_per_sec  : 208.32\npaths_total    : 53\npaths_favored  : 16\npaths_found    : 52\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 46\npending_favs   : 3\npending_total  : 37\nvariable_paths : 0\nbitmap_cvg     : 0.32%\nunique_crashes : 17\nunique_hangs   : 17\nlast_path      : 1500275593\nlast_crash     : 1500275055\nlast_hang      : 1500275418\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/matrices_for_sale/input -o /dev/shm/work/matrices_for_sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/matrices_for_sale/matrices_for_sale.dict -- data/linux/processed-challenges/matrices_for_sale/bin/matrices_for_sale\n'
+p25
+I2
+tp26
+a(I1560
+S'start_time     : 1500274158\nlast_update    : 1500275721\nfuzzer_pid     : 6141\ncycles_done    : 0\nexecs_done     : 755990\nexecs_per_sec  : 202.56\npaths_total    : 53\npaths_favored  : 16\npaths_found    : 52\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 46\npending_favs   : 3\npending_total  : 37\nvariable_paths : 0\nbitmap_cvg     : 0.32%\nunique_crashes : 17\nunique_hangs   : 17\nlast_path      : 1500275593\nlast_crash     : 1500275055\nlast_hang      : 1500275418\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/matrices_for_sale/input -o /dev/shm/work/matrices_for_sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/matrices_for_sale/matrices_for_sale.dict -- data/linux/processed-challenges/matrices_for_sale/bin/matrices_for_sale\n'
+p27
+I0
+tp28
+a(I1680
+S'start_time     : 1500274158\nlast_update    : 1500275841\nfuzzer_pid     : 6141\ncycles_done    : 0\nexecs_done     : 780497\nexecs_per_sec  : 193.90\npaths_total    : 53\npaths_favored  : 16\npaths_found    : 52\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 46\npending_favs   : 3\npending_total  : 37\nvariable_paths : 0\nbitmap_cvg     : 0.32%\nunique_crashes : 17\nunique_hangs   : 17\nlast_path      : 1500275593\nlast_crash     : 1500275055\nlast_hang      : 1500275418\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/matrices_for_sale/input -o /dev/shm/work/matrices_for_sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/matrices_for_sale/matrices_for_sale.dict -- data/linux/processed-challenges/matrices_for_sale/bin/matrices_for_sale\n'
+p29
+I0
+tp30
+a(I1800
+S'start_time     : 1500274158\nlast_update    : 1500275961\nfuzzer_pid     : 6141\ncycles_done    : 0\nexecs_done     : 805434\nexecs_per_sec  : 214.20\npaths_total    : 53\npaths_favored  : 16\npaths_found    : 52\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 46\npending_favs   : 3\npending_total  : 37\nvariable_paths : 0\nbitmap_cvg     : 0.32%\nunique_crashes : 17\nunique_hangs   : 17\nlast_path      : 1500275593\nlast_crash     : 1500275055\nlast_hang      : 1500275418\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/matrices_for_sale/input -o /dev/shm/work/matrices_for_sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/matrices_for_sale/matrices_for_sale.dict -- data/linux/processed-challenges/matrices_for_sale/bin/matrices_for_sale\n'
+p31
+I0
+tp32
+a(I1920
+S'start_time     : 1500274158\nlast_update    : 1500276081\nfuzzer_pid     : 6141\ncycles_done    : 0\nexecs_done     : 830546\nexecs_per_sec  : 220.75\npaths_total    : 53\npaths_favored  : 16\npaths_found    : 52\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 46\npending_favs   : 3\npending_total  : 37\nvariable_paths : 0\nbitmap_cvg     : 0.32%\nunique_crashes : 17\nunique_hangs   : 17\nlast_path      : 1500275593\nlast_crash     : 1500275055\nlast_hang      : 1500275418\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/matrices_for_sale/input -o /dev/shm/work/matrices_for_sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/matrices_for_sale/matrices_for_sale.dict -- data/linux/processed-challenges/matrices_for_sale/bin/matrices_for_sale\n'
+p33
+I0
+tp34
+a(I2040
+S'start_time     : 1500274158\nlast_update    : 1500276202\nfuzzer_pid     : 6141\ncycles_done    : 0\nexecs_done     : 844531\nexecs_per_sec  : 77.42\npaths_total    : 53\npaths_favored  : 16\npaths_found    : 52\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 47\npending_favs   : 2\npending_total  : 36\nvariable_paths : 0\nbitmap_cvg     : 0.32%\nunique_crashes : 17\nunique_hangs   : 17\nlast_path      : 1500275593\nlast_crash     : 1500275055\nlast_hang      : 1500275418\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/matrices_for_sale/input -o /dev/shm/work/matrices_for_sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/matrices_for_sale/matrices_for_sale.dict -- data/linux/processed-challenges/matrices_for_sale/bin/matrices_for_sale\n'
+p35
+I0
+tp36
+a(I2160
+S'start_time     : 1500274158\nlast_update    : 1500276322\nfuzzer_pid     : 6141\ncycles_done    : 0\nexecs_done     : 860315\nexecs_per_sec  : 159.93\npaths_total    : 54\npaths_favored  : 16\npaths_found    : 53\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 50\npending_favs   : 1\npending_total  : 36\nvariable_paths : 0\nbitmap_cvg     : 0.32%\nunique_crashes : 17\nunique_hangs   : 17\nlast_path      : 1500276290\nlast_crash     : 1500275055\nlast_hang      : 1500275418\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/matrices_for_sale/input -o /dev/shm/work/matrices_for_sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/matrices_for_sale/matrices_for_sale.dict -- data/linux/processed-challenges/matrices_for_sale/bin/matrices_for_sale\n'
+p37
+I1
+tp38
+a(I2280
+S'start_time     : 1500274158\nlast_update    : 1500276442\nfuzzer_pid     : 6141\ncycles_done    : 0\nexecs_done     : 878640\nexecs_per_sec  : 144.74\npaths_total    : 54\npaths_favored  : 16\npaths_found    : 53\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 50\npending_favs   : 1\npending_total  : 36\nvariable_paths : 0\nbitmap_cvg     : 0.32%\nunique_crashes : 17\nunique_hangs   : 17\nlast_path      : 1500276290\nlast_crash     : 1500275055\nlast_hang      : 1500275418\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/matrices_for_sale/input -o /dev/shm/work/matrices_for_sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/matrices_for_sale/matrices_for_sale.dict -- data/linux/processed-challenges/matrices_for_sale/bin/matrices_for_sale\n'
+p39
+I0
+tp40
+a(I2400
+S'start_time     : 1500274158\nlast_update    : 1500276562\nfuzzer_pid     : 6141\ncycles_done    : 1\nexecs_done     : 955646\nexecs_per_sec  : 915.74\npaths_total    : 54\npaths_favored  : 16\npaths_found    : 53\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 20\npending_favs   : 0\npending_total  : 33\nvariable_paths : 0\nbitmap_cvg     : 0.32%\nunique_crashes : 17\nunique_hangs   : 17\nlast_path      : 1500276290\nlast_crash     : 1500275055\nlast_hang      : 1500275418\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/matrices_for_sale/input -o /dev/shm/work/matrices_for_sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/matrices_for_sale/matrices_for_sale.dict -- data/linux/processed-challenges/matrices_for_sale/bin/matrices_for_sale\n'
+p41
+I0
+tp42
+a(I2520
+S'start_time     : 1500274158\nlast_update    : 1500276683\nfuzzer_pid     : 6141\ncycles_done    : 1\nexecs_done     : 1001739\nexecs_per_sec  : 226.09\npaths_total    : 54\npaths_favored  : 16\npaths_found    : 53\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 27\npending_favs   : 0\npending_total  : 32\nvariable_paths : 0\nbitmap_cvg     : 0.32%\nunique_crashes : 17\nunique_hangs   : 17\nlast_path      : 1500276290\nlast_crash     : 1500275055\nlast_hang      : 1500275418\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/matrices_for_sale/input -o /dev/shm/work/matrices_for_sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/matrices_for_sale/matrices_for_sale.dict -- data/linux/processed-challenges/matrices_for_sale/bin/matrices_for_sale\n'
+p43
+I0
+tp44
+a(I2640
+S'start_time     : 1500274158\nlast_update    : 1500276803\nfuzzer_pid     : 6141\ncycles_done    : 1\nexecs_done     : 1044125\nexecs_per_sec  : 104.39\npaths_total    : 54\npaths_favored  : 16\npaths_found    : 53\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 38\npending_favs   : 0\npending_total  : 31\nvariable_paths : 0\nbitmap_cvg     : 0.32%\nunique_crashes : 17\nunique_hangs   : 17\nlast_path      : 1500276290\nlast_crash     : 1500275055\nlast_hang      : 1500275418\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/matrices_for_sale/input -o /dev/shm/work/matrices_for_sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/matrices_for_sale/matrices_for_sale.dict -- data/linux/processed-challenges/matrices_for_sale/bin/matrices_for_sale\n'
+p45
+I0
+tp46
+a(I2760
+S'start_time     : 1500274158\nlast_update    : 1500276923\nfuzzer_pid     : 6141\ncycles_done    : 1\nexecs_done     : 1068609\nexecs_per_sec  : 307.62\npaths_total    : 54\npaths_favored  : 16\npaths_found    : 53\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 39\npending_favs   : 0\npending_total  : 30\nvariable_paths : 0\nbitmap_cvg     : 0.32%\nunique_crashes : 17\nunique_hangs   : 18\nlast_path      : 1500276290\nlast_crash     : 1500275055\nlast_hang      : 1500276869\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/matrices_for_sale/input -o /dev/shm/work/matrices_for_sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/matrices_for_sale/matrices_for_sale.dict -- data/linux/processed-challenges/matrices_for_sale/bin/matrices_for_sale\n'
+p47
+I0
+tp48
+a(I2880
+S'start_time     : 1500274158\nlast_update    : 1500277043\nfuzzer_pid     : 6141\ncycles_done    : 1\nexecs_done     : 1103235\nexecs_per_sec  : 275.64\npaths_total    : 55\npaths_favored  : 16\npaths_found    : 54\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 41\npending_favs   : 0\npending_total  : 31\nvariable_paths : 0\nbitmap_cvg     : 0.32%\nunique_crashes : 17\nunique_hangs   : 18\nlast_path      : 1500277008\nlast_crash     : 1500275055\nlast_hang      : 1500276869\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/matrices_for_sale/input -o /dev/shm/work/matrices_for_sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/matrices_for_sale/matrices_for_sale.dict -- data/linux/processed-challenges/matrices_for_sale/bin/matrices_for_sale\n'
+p49
+I1
+tp50
+a(I3000
+S'start_time     : 1500274158\nlast_update    : 1500277163\nfuzzer_pid     : 6141\ncycles_done    : 1\nexecs_done     : 1135313\nexecs_per_sec  : 230.82\npaths_total    : 55\npaths_favored  : 16\npaths_found    : 54\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 46\npending_favs   : 0\npending_total  : 31\nvariable_paths : 0\nbitmap_cvg     : 0.32%\nunique_crashes : 17\nunique_hangs   : 18\nlast_path      : 1500277008\nlast_crash     : 1500275055\nlast_hang      : 1500276869\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/matrices_for_sale/input -o /dev/shm/work/matrices_for_sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/matrices_for_sale/matrices_for_sale.dict -- data/linux/processed-challenges/matrices_for_sale/bin/matrices_for_sale\n'
+p51
+I0
+tp52
+a(I3120
+S'start_time     : 1500274158\nlast_update    : 1500277283\nfuzzer_pid     : 6141\ncycles_done    : 1\nexecs_done     : 1157808\nexecs_per_sec  : 176.10\npaths_total    : 55\npaths_favored  : 16\npaths_found    : 54\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 50\npending_favs   : 0\npending_total  : 31\nvariable_paths : 0\nbitmap_cvg     : 0.32%\nunique_crashes : 17\nunique_hangs   : 18\nlast_path      : 1500277008\nlast_crash     : 1500275055\nlast_hang      : 1500276869\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/matrices_for_sale/input -o /dev/shm/work/matrices_for_sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/matrices_for_sale/matrices_for_sale.dict -- data/linux/processed-challenges/matrices_for_sale/bin/matrices_for_sale\n'
+p53
+I0
+tp54
+a(I3240
+S'start_time     : 1500274158\nlast_update    : 1500277404\nfuzzer_pid     : 6141\ncycles_done    : 1\nexecs_done     : 1198035\nexecs_per_sec  : 243.04\npaths_total    : 58\npaths_favored  : 16\npaths_found    : 57\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 54\npending_favs   : 0\npending_total  : 34\nvariable_paths : 0\nbitmap_cvg     : 0.32%\nunique_crashes : 17\nunique_hangs   : 18\nlast_path      : 1500277322\nlast_crash     : 1500275055\nlast_hang      : 1500276869\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/matrices_for_sale/input -o /dev/shm/work/matrices_for_sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/matrices_for_sale/matrices_for_sale.dict -- data/linux/processed-challenges/matrices_for_sale/bin/matrices_for_sale\n'
+p55
+I3
+tp56
+a(I3360
+S'start_time     : 1500274158\nlast_update    : 1500277524\nfuzzer_pid     : 6141\ncycles_done    : 1\nexecs_done     : 1227934\nexecs_per_sec  : 258.39\npaths_total    : 58\npaths_favored  : 16\npaths_found    : 57\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 54\npending_favs   : 0\npending_total  : 34\nvariable_paths : 0\nbitmap_cvg     : 0.32%\nunique_crashes : 17\nunique_hangs   : 18\nlast_path      : 1500277322\nlast_crash     : 1500275055\nlast_hang      : 1500276869\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/matrices_for_sale/input -o /dev/shm/work/matrices_for_sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/matrices_for_sale/matrices_for_sale.dict -- data/linux/processed-challenges/matrices_for_sale/bin/matrices_for_sale\n'
+p57
+I1
+tp58
+a(I3480
+S'start_time     : 1500274158\nlast_update    : 1500277644\nfuzzer_pid     : 6141\ncycles_done    : 1\nexecs_done     : 1257444\nexecs_per_sec  : 248.13\npaths_total    : 59\npaths_favored  : 16\npaths_found    : 58\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 54\npending_favs   : 0\npending_total  : 35\nvariable_paths : 0\nbitmap_cvg     : 0.32%\nunique_crashes : 17\nunique_hangs   : 18\nlast_path      : 1500277528\nlast_crash     : 1500275055\nlast_hang      : 1500276869\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/matrices_for_sale/input -o /dev/shm/work/matrices_for_sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/matrices_for_sale/matrices_for_sale.dict -- data/linux/processed-challenges/matrices_for_sale/bin/matrices_for_sale\n'
+p59
+I0
+tp60
+a(I3600
+S'start_time     : 1500274158\nlast_update    : 1500277764\nfuzzer_pid     : 6141\ncycles_done    : 1\nexecs_done     : 1287325\nexecs_per_sec  : 239.39\npaths_total    : 59\npaths_favored  : 16\npaths_found    : 58\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 54\npending_favs   : 0\npending_total  : 35\nvariable_paths : 0\nbitmap_cvg     : 0.32%\nunique_crashes : 17\nunique_hangs   : 18\nlast_path      : 1500277528\nlast_crash     : 1500275055\nlast_hang      : 1500276869\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/matrices_for_sale/input -o /dev/shm/work/matrices_for_sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/matrices_for_sale/matrices_for_sale.dict -- data/linux/processed-challenges/matrices_for_sale/bin/matrices_for_sale\n'
+p61
+I0
+tp62
+a(I3720
+S'start_time     : 1500274158\nlast_update    : 1500277885\nfuzzer_pid     : 6141\ncycles_done    : 1\nexecs_done     : 1331045\nexecs_per_sec  : 212.60\npaths_total    : 60\npaths_favored  : 16\npaths_found    : 59\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 57\npending_favs   : 1\npending_total  : 35\nvariable_paths : 0\nbitmap_cvg     : 0.32%\nunique_crashes : 17\nunique_hangs   : 18\nlast_path      : 1500277875\nlast_crash     : 1500275055\nlast_hang      : 1500276869\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/matrices_for_sale/input -o /dev/shm/work/matrices_for_sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/matrices_for_sale/matrices_for_sale.dict -- data/linux/processed-challenges/matrices_for_sale/bin/matrices_for_sale\n'
+p63
+I1
+tp64
+a(I3840
+S'start_time     : 1500274158\nlast_update    : 1500278005\nfuzzer_pid     : 6141\ncycles_done    : 1\nexecs_done     : 1358591\nexecs_per_sec  : 234.59\npaths_total    : 61\npaths_favored  : 16\npaths_found    : 60\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 57\npending_favs   : 1\npending_total  : 36\nvariable_paths : 0\nbitmap_cvg     : 0.32%\nunique_crashes : 17\nunique_hangs   : 18\nlast_path      : 1500277912\nlast_crash     : 1500275055\nlast_hang      : 1500276869\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/matrices_for_sale/input -o /dev/shm/work/matrices_for_sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/matrices_for_sale/matrices_for_sale.dict -- data/linux/processed-challenges/matrices_for_sale/bin/matrices_for_sale\n'
+p65
+I1
+tp66
+a(I3960
+S'start_time     : 1500274158\nlast_update    : 1500278125\nfuzzer_pid     : 6141\ncycles_done    : 1\nexecs_done     : 1386283\nexecs_per_sec  : 236.06\npaths_total    : 61\npaths_favored  : 16\npaths_found    : 60\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 57\npending_favs   : 1\npending_total  : 36\nvariable_paths : 0\nbitmap_cvg     : 0.32%\nunique_crashes : 17\nunique_hangs   : 18\nlast_path      : 1500277912\nlast_crash     : 1500275055\nlast_hang      : 1500276869\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/matrices_for_sale/input -o /dev/shm/work/matrices_for_sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/matrices_for_sale/matrices_for_sale.dict -- data/linux/processed-challenges/matrices_for_sale/bin/matrices_for_sale\n'
+p67
+I0
+tp68
+a(I4080
+S'start_time     : 1500274158\nlast_update    : 1500278245\nfuzzer_pid     : 6141\ncycles_done    : 1\nexecs_done     : 1413949\nexecs_per_sec  : 233.95\npaths_total    : 62\npaths_favored  : 16\npaths_found    : 61\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 57\npending_favs   : 1\npending_total  : 37\nvariable_paths : 0\nbitmap_cvg     : 0.32%\nunique_crashes : 17\nunique_hangs   : 18\nlast_path      : 1500278154\nlast_crash     : 1500275055\nlast_hang      : 1500276869\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/matrices_for_sale/input -o /dev/shm/work/matrices_for_sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/matrices_for_sale/matrices_for_sale.dict -- data/linux/processed-challenges/matrices_for_sale/bin/matrices_for_sale\n'
+p69
+I1
+tp70
+a(I4200
+S'start_time     : 1500274158\nlast_update    : 1500278365\nfuzzer_pid     : 6141\ncycles_done    : 1\nexecs_done     : 1441521\nexecs_per_sec  : 231.22\npaths_total    : 62\npaths_favored  : 16\npaths_found    : 61\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 57\npending_favs   : 1\npending_total  : 37\nvariable_paths : 0\nbitmap_cvg     : 0.32%\nunique_crashes : 17\nunique_hangs   : 18\nlast_path      : 1500278154\nlast_crash     : 1500275055\nlast_hang      : 1500276869\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/matrices_for_sale/input -o /dev/shm/work/matrices_for_sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/matrices_for_sale/matrices_for_sale.dict -- data/linux/processed-challenges/matrices_for_sale/bin/matrices_for_sale\n'
+p71
+I0
+tp72
+a(I4320
+S'start_time     : 1500274158\nlast_update    : 1500278486\nfuzzer_pid     : 6141\ncycles_done    : 1\nexecs_done     : 1469805\nexecs_per_sec  : 250.94\npaths_total    : 64\npaths_favored  : 16\npaths_found    : 63\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 57\npending_favs   : 1\npending_total  : 39\nvariable_paths : 0\nbitmap_cvg     : 0.32%\nunique_crashes : 17\nunique_hangs   : 18\nlast_path      : 1500278465\nlast_crash     : 1500275055\nlast_hang      : 1500276869\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/matrices_for_sale/input -o /dev/shm/work/matrices_for_sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/matrices_for_sale/matrices_for_sale.dict -- data/linux/processed-challenges/matrices_for_sale/bin/matrices_for_sale\n'
+p73
+I2
+tp74
+a(I4440
+S'start_time     : 1500274158\nlast_update    : 1500278606\nfuzzer_pid     : 6141\ncycles_done    : 1\nexecs_done     : 1495172\nexecs_per_sec  : 242.01\npaths_total    : 64\npaths_favored  : 16\npaths_found    : 63\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 61\npending_favs   : 0\npending_total  : 38\nvariable_paths : 0\nbitmap_cvg     : 0.32%\nunique_crashes : 17\nunique_hangs   : 18\nlast_path      : 1500278465\nlast_crash     : 1500275055\nlast_hang      : 1500276869\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/matrices_for_sale/input -o /dev/shm/work/matrices_for_sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/matrices_for_sale/matrices_for_sale.dict -- data/linux/processed-challenges/matrices_for_sale/bin/matrices_for_sale\n'
+p75
+I0
+tp76
+a(I4560
+S'start_time     : 1500274158\nlast_update    : 1500278726\nfuzzer_pid     : 6141\ncycles_done    : 1\nexecs_done     : 1521906\nexecs_per_sec  : 188.05\npaths_total    : 64\npaths_favored  : 16\npaths_found    : 63\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 61\npending_favs   : 0\npending_total  : 38\nvariable_paths : 0\nbitmap_cvg     : 0.32%\nunique_crashes : 17\nunique_hangs   : 18\nlast_path      : 1500278465\nlast_crash     : 1500275055\nlast_hang      : 1500276869\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/matrices_for_sale/input -o /dev/shm/work/matrices_for_sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/matrices_for_sale/matrices_for_sale.dict -- data/linux/processed-challenges/matrices_for_sale/bin/matrices_for_sale\n'
+p77
+I0
+tp78
+a(I4680
+S'start_time     : 1500274158\nlast_update    : 1500278846\nfuzzer_pid     : 6141\ncycles_done    : 2\nexecs_done     : 1562464\nexecs_per_sec  : 953.85\npaths_total    : 64\npaths_favored  : 16\npaths_found    : 63\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 12\npending_favs   : 0\npending_total  : 36\nvariable_paths : 0\nbitmap_cvg     : 0.32%\nunique_crashes : 17\nunique_hangs   : 18\nlast_path      : 1500278465\nlast_crash     : 1500275055\nlast_hang      : 1500276869\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/matrices_for_sale/input -o /dev/shm/work/matrices_for_sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/matrices_for_sale/matrices_for_sale.dict -- data/linux/processed-challenges/matrices_for_sale/bin/matrices_for_sale\n'
+p79
+I0
+tp80
+a(I4800
+S'start_time     : 1500274158\nlast_update    : 1500278966\nfuzzer_pid     : 6141\ncycles_done    : 2\nexecs_done     : 1596767\nexecs_per_sec  : 76.99\npaths_total    : 64\npaths_favored  : 16\npaths_found    : 63\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 16\npending_favs   : 0\npending_total  : 35\nvariable_paths : 0\nbitmap_cvg     : 0.32%\nunique_crashes : 17\nunique_hangs   : 18\nlast_path      : 1500278465\nlast_crash     : 1500275055\nlast_hang      : 1500276869\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/matrices_for_sale/input -o /dev/shm/work/matrices_for_sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/matrices_for_sale/matrices_for_sale.dict -- data/linux/processed-challenges/matrices_for_sale/bin/matrices_for_sale\n'
+p81
+I0
+tp82
+a(I4920
+S'start_time     : 1500274158\nlast_update    : 1500279087\nfuzzer_pid     : 6141\ncycles_done    : 2\nexecs_done     : 1657040\nexecs_per_sec  : 1013.30\npaths_total    : 64\npaths_favored  : 16\npaths_found    : 63\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 24\npending_favs   : 0\npending_total  : 32\nvariable_paths : 0\nbitmap_cvg     : 0.32%\nunique_crashes : 17\nunique_hangs   : 18\nlast_path      : 1500278465\nlast_crash     : 1500275055\nlast_hang      : 1500276869\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/matrices_for_sale/input -o /dev/shm/work/matrices_for_sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/matrices_for_sale/matrices_for_sale.dict -- data/linux/processed-challenges/matrices_for_sale/bin/matrices_for_sale\n'
+p83
+I0
+tp84
+a(I5040
+S'start_time     : 1500274158\nlast_update    : 1500279207\nfuzzer_pid     : 6141\ncycles_done    : 2\nexecs_done     : 1707917\nexecs_per_sec  : 367.97\npaths_total    : 64\npaths_favored  : 16\npaths_found    : 63\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 40\npending_favs   : 0\npending_total  : 32\nvariable_paths : 0\nbitmap_cvg     : 0.32%\nunique_crashes : 17\nunique_hangs   : 18\nlast_path      : 1500278465\nlast_crash     : 1500275055\nlast_hang      : 1500276869\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/matrices_for_sale/input -o /dev/shm/work/matrices_for_sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/matrices_for_sale/matrices_for_sale.dict -- data/linux/processed-challenges/matrices_for_sale/bin/matrices_for_sale\n'
+p85
+I0
+tp86
+a(I5160
+S'start_time     : 1500274158\nlast_update    : 1500279327\nfuzzer_pid     : 6141\ncycles_done    : 2\nexecs_done     : 1742522\nexecs_per_sec  : 218.68\npaths_total    : 64\npaths_favored  : 16\npaths_found    : 63\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 50\npending_favs   : 0\npending_total  : 32\nvariable_paths : 0\nbitmap_cvg     : 0.32%\nunique_crashes : 17\nunique_hangs   : 18\nlast_path      : 1500278465\nlast_crash     : 1500275055\nlast_hang      : 1500276869\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/matrices_for_sale/input -o /dev/shm/work/matrices_for_sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/matrices_for_sale/matrices_for_sale.dict -- data/linux/processed-challenges/matrices_for_sale/bin/matrices_for_sale\n'
+p87
+I0
+tp88
+a(I5280
+S'start_time     : 1500274158\nlast_update    : 1500279447\nfuzzer_pid     : 6141\ncycles_done    : 2\nexecs_done     : 1777198\nexecs_per_sec  : 233.02\npaths_total    : 64\npaths_favored  : 16\npaths_found    : 63\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 52\npending_favs   : 0\npending_total  : 32\nvariable_paths : 0\nbitmap_cvg     : 0.32%\nunique_crashes : 17\nunique_hangs   : 18\nlast_path      : 1500278465\nlast_crash     : 1500275055\nlast_hang      : 1500276869\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/matrices_for_sale/input -o /dev/shm/work/matrices_for_sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/matrices_for_sale/matrices_for_sale.dict -- data/linux/processed-challenges/matrices_for_sale/bin/matrices_for_sale\n'
+p89
+I0
+tp90
+a(I5400
+S'start_time     : 1500274158\nlast_update    : 1500279567\nfuzzer_pid     : 6141\ncycles_done    : 2\nexecs_done     : 1800629\nexecs_per_sec  : 199.00\npaths_total    : 64\npaths_favored  : 16\npaths_found    : 63\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 53\npending_favs   : 0\npending_total  : 31\nvariable_paths : 0\nbitmap_cvg     : 0.32%\nunique_crashes : 17\nunique_hangs   : 18\nlast_path      : 1500278465\nlast_crash     : 1500275055\nlast_hang      : 1500276869\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/matrices_for_sale/input -o /dev/shm/work/matrices_for_sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/matrices_for_sale/matrices_for_sale.dict -- data/linux/processed-challenges/matrices_for_sale/bin/matrices_for_sale\n'
+p91
+I0
+tp92
+a(I5520
+S'start_time     : 1500274158\nlast_update    : 1500279688\nfuzzer_pid     : 6141\ncycles_done    : 3\nexecs_done     : 1834913\nexecs_per_sec  : 691.98\npaths_total    : 64\npaths_favored  : 16\npaths_found    : 63\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 1\npending_favs   : 0\npending_total  : 30\nvariable_paths : 0\nbitmap_cvg     : 0.32%\nunique_crashes : 17\nunique_hangs   : 18\nlast_path      : 1500278465\nlast_crash     : 1500275055\nlast_hang      : 1500276869\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/matrices_for_sale/input -o /dev/shm/work/matrices_for_sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/matrices_for_sale/matrices_for_sale.dict -- data/linux/processed-challenges/matrices_for_sale/bin/matrices_for_sale\n'
+p93
+I0
+tp94
+a(I5640
+S'start_time     : 1500274158\nlast_update    : 1500279808\nfuzzer_pid     : 6141\ncycles_done    : 3\nexecs_done     : 1865480\nexecs_per_sec  : 120.40\npaths_total    : 64\npaths_favored  : 16\npaths_found    : 63\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 1\npending_favs   : 0\npending_total  : 30\nvariable_paths : 0\nbitmap_cvg     : 0.32%\nunique_crashes : 17\nunique_hangs   : 18\nlast_path      : 1500278465\nlast_crash     : 1500275055\nlast_hang      : 1500276869\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/matrices_for_sale/input -o /dev/shm/work/matrices_for_sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/matrices_for_sale/matrices_for_sale.dict -- data/linux/processed-challenges/matrices_for_sale/bin/matrices_for_sale\n'
+p95
+I0
+tp96
+a(I5760
+S'start_time     : 1500274158\nlast_update    : 1500279928\nfuzzer_pid     : 6141\ncycles_done    : 3\nexecs_done     : 1911202\nexecs_per_sec  : 416.94\npaths_total    : 64\npaths_favored  : 16\npaths_found    : 63\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 9\npending_favs   : 0\npending_total  : 28\nvariable_paths : 0\nbitmap_cvg     : 0.32%\nunique_crashes : 17\nunique_hangs   : 18\nlast_path      : 1500278465\nlast_crash     : 1500275055\nlast_hang      : 1500276869\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/matrices_for_sale/input -o /dev/shm/work/matrices_for_sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/matrices_for_sale/matrices_for_sale.dict -- data/linux/processed-challenges/matrices_for_sale/bin/matrices_for_sale\n'
+p97
+I0
+tp98
+a(I5880
+S'start_time     : 1500274158\nlast_update    : 1500280048\nfuzzer_pid     : 6141\ncycles_done    : 3\nexecs_done     : 1962880\nexecs_per_sec  : 164.77\npaths_total    : 64\npaths_favored  : 16\npaths_found    : 63\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 11\npending_favs   : 0\npending_total  : 27\nvariable_paths : 0\nbitmap_cvg     : 0.32%\nunique_crashes : 17\nunique_hangs   : 18\nlast_path      : 1500278465\nlast_crash     : 1500275055\nlast_hang      : 1500276869\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/matrices_for_sale/input -o /dev/shm/work/matrices_for_sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/matrices_for_sale/matrices_for_sale.dict -- data/linux/processed-challenges/matrices_for_sale/bin/matrices_for_sale\n'
+p99
+I0
+tp100
+a(I6000
+S'start_time     : 1500274158\nlast_update    : 1500280168\nfuzzer_pid     : 6141\ncycles_done    : 3\nexecs_done     : 2003827\nexecs_per_sec  : 507.54\npaths_total    : 64\npaths_favored  : 16\npaths_found    : 63\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 14\npending_favs   : 0\npending_total  : 26\nvariable_paths : 0\nbitmap_cvg     : 0.32%\nunique_crashes : 17\nunique_hangs   : 18\nlast_path      : 1500278465\nlast_crash     : 1500275055\nlast_hang      : 1500276869\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/matrices_for_sale/input -o /dev/shm/work/matrices_for_sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/matrices_for_sale/matrices_for_sale.dict -- data/linux/processed-challenges/matrices_for_sale/bin/matrices_for_sale\n'
+p101
+I0
+tp102
+a(I6120
+S'start_time     : 1500274158\nlast_update    : 1500280289\nfuzzer_pid     : 6141\ncycles_done    : 3\nexecs_done     : 2067697\nexecs_per_sec  : 428.07\npaths_total    : 64\npaths_favored  : 16\npaths_found    : 63\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 20\npending_favs   : 0\npending_total  : 26\nvariable_paths : 0\nbitmap_cvg     : 0.32%\nunique_crashes : 17\nunique_hangs   : 18\nlast_path      : 1500278465\nlast_crash     : 1500275055\nlast_hang      : 1500276869\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/matrices_for_sale/input -o /dev/shm/work/matrices_for_sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/matrices_for_sale/matrices_for_sale.dict -- data/linux/processed-challenges/matrices_for_sale/bin/matrices_for_sale\n'
+p103
+I0
+tp104
+a(I6240
+S'start_time     : 1500274158\nlast_update    : 1500280409\nfuzzer_pid     : 6141\ncycles_done    : 3\nexecs_done     : 2117381\nexecs_per_sec  : 371.02\npaths_total    : 64\npaths_favored  : 16\npaths_found    : 63\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 24\npending_favs   : 0\npending_total  : 26\nvariable_paths : 0\nbitmap_cvg     : 0.32%\nunique_crashes : 17\nunique_hangs   : 18\nlast_path      : 1500278465\nlast_crash     : 1500275055\nlast_hang      : 1500276869\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/matrices_for_sale/input -o /dev/shm/work/matrices_for_sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/matrices_for_sale/matrices_for_sale.dict -- data/linux/processed-challenges/matrices_for_sale/bin/matrices_for_sale\n'
+p105
+I0
+tp106
+a(I6360
+S'start_time     : 1500274158\nlast_update    : 1500280529\nfuzzer_pid     : 6141\ncycles_done    : 3\nexecs_done     : 2171911\nexecs_per_sec  : 614.87\npaths_total    : 64\npaths_favored  : 16\npaths_found    : 63\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 30\npending_favs   : 0\npending_total  : 25\nvariable_paths : 0\nbitmap_cvg     : 0.32%\nunique_crashes : 17\nunique_hangs   : 18\nlast_path      : 1500278465\nlast_crash     : 1500275055\nlast_hang      : 1500276869\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/matrices_for_sale/input -o /dev/shm/work/matrices_for_sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/matrices_for_sale/matrices_for_sale.dict -- data/linux/processed-challenges/matrices_for_sale/bin/matrices_for_sale\n'
+p107
+I0
+tp108
+a(I6480
+S'start_time     : 1500274158\nlast_update    : 1500280649\nfuzzer_pid     : 6141\ncycles_done    : 3\nexecs_done     : 2220380\nexecs_per_sec  : 567.51\npaths_total    : 64\npaths_favored  : 16\npaths_found    : 63\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 35\npending_favs   : 0\npending_total  : 25\nvariable_paths : 0\nbitmap_cvg     : 0.32%\nunique_crashes : 17\nunique_hangs   : 18\nlast_path      : 1500278465\nlast_crash     : 1500275055\nlast_hang      : 1500276869\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/matrices_for_sale/input -o /dev/shm/work/matrices_for_sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/matrices_for_sale/matrices_for_sale.dict -- data/linux/processed-challenges/matrices_for_sale/bin/matrices_for_sale\n'
+p109
+I0
+tp110
+a(I6600
+S'start_time     : 1500274158\nlast_update    : 1500280770\nfuzzer_pid     : 6141\ncycles_done    : 3\nexecs_done     : 2275373\nexecs_per_sec  : 292.26\npaths_total    : 64\npaths_favored  : 16\npaths_found    : 63\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 39\npending_favs   : 0\npending_total  : 24\nvariable_paths : 0\nbitmap_cvg     : 0.32%\nunique_crashes : 17\nunique_hangs   : 18\nlast_path      : 1500278465\nlast_crash     : 1500275055\nlast_hang      : 1500276869\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/matrices_for_sale/input -o /dev/shm/work/matrices_for_sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/matrices_for_sale/matrices_for_sale.dict -- data/linux/processed-challenges/matrices_for_sale/bin/matrices_for_sale\n'
+p111
+I0
+tp112
+a(I6720
+S'start_time     : 1500274158\nlast_update    : 1500280890\nfuzzer_pid     : 6141\ncycles_done    : 3\nexecs_done     : 2324693\nexecs_per_sec  : 379.36\npaths_total    : 64\npaths_favored  : 16\npaths_found    : 63\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 41\npending_favs   : 0\npending_total  : 24\nvariable_paths : 0\nbitmap_cvg     : 0.32%\nunique_crashes : 17\nunique_hangs   : 18\nlast_path      : 1500278465\nlast_crash     : 1500275055\nlast_hang      : 1500276869\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/matrices_for_sale/input -o /dev/shm/work/matrices_for_sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/matrices_for_sale/matrices_for_sale.dict -- data/linux/processed-challenges/matrices_for_sale/bin/matrices_for_sale\n'
+p113
+I0
+tp114
+a(I6840
+S'start_time     : 1500274158\nlast_update    : 1500281010\nfuzzer_pid     : 6141\ncycles_done    : 3\nexecs_done     : 2372132\nexecs_per_sec  : 292.43\npaths_total    : 64\npaths_favored  : 16\npaths_found    : 63\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 46\npending_favs   : 0\npending_total  : 24\nvariable_paths : 0\nbitmap_cvg     : 0.32%\nunique_crashes : 17\nunique_hangs   : 18\nlast_path      : 1500278465\nlast_crash     : 1500275055\nlast_hang      : 1500276869\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/matrices_for_sale/input -o /dev/shm/work/matrices_for_sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/matrices_for_sale/matrices_for_sale.dict -- data/linux/processed-challenges/matrices_for_sale/bin/matrices_for_sale\n'
+p115
+I0
+tp116
+a(I6960
+S'start_time     : 1500274158\nlast_update    : 1500281130\nfuzzer_pid     : 6141\ncycles_done    : 3\nexecs_done     : 2410218\nexecs_per_sec  : 692.18\npaths_total    : 64\npaths_favored  : 16\npaths_found    : 63\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 46\npending_favs   : 0\npending_total  : 24\nvariable_paths : 0\nbitmap_cvg     : 0.32%\nunique_crashes : 17\nunique_hangs   : 18\nlast_path      : 1500278465\nlast_crash     : 1500275055\nlast_hang      : 1500276869\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/matrices_for_sale/input -o /dev/shm/work/matrices_for_sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/matrices_for_sale/matrices_for_sale.dict -- data/linux/processed-challenges/matrices_for_sale/bin/matrices_for_sale\n'
+p117
+I0
+tp118
+a(I7080
+S'start_time     : 1500274158\nlast_update    : 1500281250\nfuzzer_pid     : 6141\ncycles_done    : 3\nexecs_done     : 2441876\nexecs_per_sec  : 203.83\npaths_total    : 64\npaths_favored  : 16\npaths_found    : 63\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 50\npending_favs   : 0\npending_total  : 24\nvariable_paths : 0\nbitmap_cvg     : 0.32%\nunique_crashes : 17\nunique_hangs   : 18\nlast_path      : 1500278465\nlast_crash     : 1500275055\nlast_hang      : 1500276869\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/matrices_for_sale/input -o /dev/shm/work/matrices_for_sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/matrices_for_sale/matrices_for_sale.dict -- data/linux/processed-challenges/matrices_for_sale/bin/matrices_for_sale\n'
+p119
+I0
+tp120
+a(I7200
+S'start_time     : 1500274158\nlast_update    : 1500281371\nfuzzer_pid     : 6141\ncycles_done    : 3\nexecs_done     : 2492283\nexecs_per_sec  : 327.45\npaths_total    : 64\npaths_favored  : 16\npaths_found    : 63\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 56\npending_favs   : 0\npending_total  : 24\nvariable_paths : 0\nbitmap_cvg     : 0.32%\nunique_crashes : 17\nunique_hangs   : 18\nlast_path      : 1500278465\nlast_crash     : 1500275055\nlast_hang      : 1500276869\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/matrices_for_sale/input -o /dev/shm/work/matrices_for_sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/matrices_for_sale/matrices_for_sale.dict -- data/linux/processed-challenges/matrices_for_sale/bin/matrices_for_sale\n'
+p121
+I0
+tp122
+a(I7320
+S'start_time     : 1500274158\nlast_update    : 1500281491\nfuzzer_pid     : 6141\ncycles_done    : 3\nexecs_done     : 2539335\nexecs_per_sec  : 619.83\npaths_total    : 64\npaths_favored  : 16\npaths_found    : 63\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 56\npending_favs   : 0\npending_total  : 24\nvariable_paths : 0\nbitmap_cvg     : 0.32%\nunique_crashes : 17\nunique_hangs   : 18\nlast_path      : 1500278465\nlast_crash     : 1500275055\nlast_hang      : 1500276869\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/matrices_for_sale/input -o /dev/shm/work/matrices_for_sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/matrices_for_sale/matrices_for_sale.dict -- data/linux/processed-challenges/matrices_for_sale/bin/matrices_for_sale\n'
+p123
+I0
+tp124
+a(I7440
+S'start_time     : 1500274158\nlast_update    : 1500281611\nfuzzer_pid     : 6141\ncycles_done    : 3\nexecs_done     : 2586747\nexecs_per_sec  : 650.17\npaths_total    : 64\npaths_favored  : 16\npaths_found    : 63\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 57\npending_favs   : 0\npending_total  : 23\nvariable_paths : 0\nbitmap_cvg     : 0.32%\nunique_crashes : 17\nunique_hangs   : 18\nlast_path      : 1500278465\nlast_crash     : 1500275055\nlast_hang      : 1500276869\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/matrices_for_sale/input -o /dev/shm/work/matrices_for_sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/matrices_for_sale/matrices_for_sale.dict -- data/linux/processed-challenges/matrices_for_sale/bin/matrices_for_sale\n'
+p125
+I0
+tp126
+a(I7560
+S'start_time     : 1500274158\nlast_update    : 1500281731\nfuzzer_pid     : 6141\ncycles_done    : 3\nexecs_done     : 2639380\nexecs_per_sec  : 553.35\npaths_total    : 64\npaths_favored  : 16\npaths_found    : 63\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 61\npending_favs   : 0\npending_total  : 23\nvariable_paths : 0\nbitmap_cvg     : 0.32%\nunique_crashes : 17\nunique_hangs   : 18\nlast_path      : 1500278465\nlast_crash     : 1500275055\nlast_hang      : 1500276869\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/matrices_for_sale/input -o /dev/shm/work/matrices_for_sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/matrices_for_sale/matrices_for_sale.dict -- data/linux/processed-challenges/matrices_for_sale/bin/matrices_for_sale\n'
+p127
+I0
+tp128
+a(I7680
+S'start_time     : 1500274158\nlast_update    : 1500281851\nfuzzer_pid     : 6141\ncycles_done    : 4\nexecs_done     : 2687699\nexecs_per_sec  : 117.11\npaths_total    : 64\npaths_favored  : 16\npaths_found    : 63\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 12\npending_favs   : 0\npending_total  : 22\nvariable_paths : 0\nbitmap_cvg     : 0.32%\nunique_crashes : 17\nunique_hangs   : 18\nlast_path      : 1500278465\nlast_crash     : 1500275055\nlast_hang      : 1500276869\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/matrices_for_sale/input -o /dev/shm/work/matrices_for_sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/matrices_for_sale/matrices_for_sale.dict -- data/linux/processed-challenges/matrices_for_sale/bin/matrices_for_sale\n'
+p129
+I0
+tp130
+a(I7800
+S'start_time     : 1500274158\nlast_update    : 1500281971\nfuzzer_pid     : 6141\ncycles_done    : 4\nexecs_done     : 2711013\nexecs_per_sec  : 143.30\npaths_total    : 64\npaths_favored  : 16\npaths_found    : 63\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 12\npending_favs   : 0\npending_total  : 22\nvariable_paths : 0\nbitmap_cvg     : 0.32%\nunique_crashes : 17\nunique_hangs   : 18\nlast_path      : 1500278465\nlast_crash     : 1500275055\nlast_hang      : 1500276869\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/matrices_for_sale/input -o /dev/shm/work/matrices_for_sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/matrices_for_sale/matrices_for_sale.dict -- data/linux/processed-challenges/matrices_for_sale/bin/matrices_for_sale\n'
+p131
+I0
+tp132
+a(I7920
+S'start_time     : 1500274158\nlast_update    : 1500282092\nfuzzer_pid     : 6141\ncycles_done    : 4\nexecs_done     : 2784088\nexecs_per_sec  : 520.49\npaths_total    : 64\npaths_favored  : 16\npaths_found    : 63\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 20\npending_favs   : 0\npending_total  : 22\nvariable_paths : 0\nbitmap_cvg     : 0.32%\nunique_crashes : 17\nunique_hangs   : 18\nlast_path      : 1500278465\nlast_crash     : 1500275055\nlast_hang      : 1500276869\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/matrices_for_sale/input -o /dev/shm/work/matrices_for_sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/matrices_for_sale/matrices_for_sale.dict -- data/linux/processed-challenges/matrices_for_sale/bin/matrices_for_sale\n'
+p133
+I0
+tp134
+a(I8040
+S'start_time     : 1500274158\nlast_update    : 1500282212\nfuzzer_pid     : 6141\ncycles_done    : 4\nexecs_done     : 2816140\nexecs_per_sec  : 167.16\npaths_total    : 64\npaths_favored  : 16\npaths_found    : 63\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 23\npending_favs   : 0\npending_total  : 22\nvariable_paths : 0\nbitmap_cvg     : 0.32%\nunique_crashes : 17\nunique_hangs   : 18\nlast_path      : 1500278465\nlast_crash     : 1500275055\nlast_hang      : 1500276869\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/matrices_for_sale/input -o /dev/shm/work/matrices_for_sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/matrices_for_sale/matrices_for_sale.dict -- data/linux/processed-challenges/matrices_for_sale/bin/matrices_for_sale\n'
+p135
+I0
+tp136
+a(I8160
+S'start_time     : 1500274158\nlast_update    : 1500282332\nfuzzer_pid     : 6141\ncycles_done    : 4\nexecs_done     : 2867660\nexecs_per_sec  : 568.15\npaths_total    : 64\npaths_favored  : 16\npaths_found    : 63\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 28\npending_favs   : 0\npending_total  : 21\nvariable_paths : 0\nbitmap_cvg     : 0.32%\nunique_crashes : 17\nunique_hangs   : 18\nlast_path      : 1500278465\nlast_crash     : 1500275055\nlast_hang      : 1500276869\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/matrices_for_sale/input -o /dev/shm/work/matrices_for_sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/matrices_for_sale/matrices_for_sale.dict -- data/linux/processed-challenges/matrices_for_sale/bin/matrices_for_sale\n'
+p137
+I0
+tp138
+a(I8280
+S'start_time     : 1500274158\nlast_update    : 1500282452\nfuzzer_pid     : 6141\ncycles_done    : 4\nexecs_done     : 2917419\nexecs_per_sec  : 251.80\npaths_total    : 64\npaths_favored  : 16\npaths_found    : 63\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 32\npending_favs   : 0\npending_total  : 21\nvariable_paths : 0\nbitmap_cvg     : 0.32%\nunique_crashes : 17\nunique_hangs   : 18\nlast_path      : 1500278465\nlast_crash     : 1500275055\nlast_hang      : 1500276869\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/matrices_for_sale/input -o /dev/shm/work/matrices_for_sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/matrices_for_sale/matrices_for_sale.dict -- data/linux/processed-challenges/matrices_for_sale/bin/matrices_for_sale\n'
+p139
+I0
+tp140
+a(I8400
+S'start_time     : 1500274158\nlast_update    : 1500282512\nfuzzer_pid     : 6141\ncycles_done    : 4\nexecs_done     : 2939980\nexecs_per_sec  : 161.43\npaths_total    : 64\npaths_favored  : 16\npaths_found    : 63\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 34\npending_favs   : 0\npending_total  : 21\nvariable_paths : 0\nbitmap_cvg     : 0.32%\nunique_crashes : 17\nunique_hangs   : 18\nlast_path      : 1500278465\nlast_crash     : 1500275055\nlast_hang      : 1500276869\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/matrices_for_sale/input -o /dev/shm/work/matrices_for_sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/matrices_for_sale/matrices_for_sale.dict -- data/linux/processed-challenges/matrices_for_sale/bin/matrices_for_sale\n'
+p141
+I0
+tp142
+a(I8520
+S'start_time     : 1500274158\nlast_update    : 1500282633\nfuzzer_pid     : 6141\ncycles_done    : 4\nexecs_done     : 2993625\nexecs_per_sec  : 441.49\npaths_total    : 64\npaths_favored  : 16\npaths_found    : 63\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 39\npending_favs   : 0\npending_total  : 20\nvariable_paths : 0\nbitmap_cvg     : 0.32%\nunique_crashes : 17\nunique_hangs   : 18\nlast_path      : 1500278465\nlast_crash     : 1500275055\nlast_hang      : 1500276869\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/matrices_for_sale/input -o /dev/shm/work/matrices_for_sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/matrices_for_sale/matrices_for_sale.dict -- data/linux/processed-challenges/matrices_for_sale/bin/matrices_for_sale\n'
+p143
+I0
+tp144
+a(I8640
+S'start_time     : 1500274158\nlast_update    : 1500282753\nfuzzer_pid     : 6141\ncycles_done    : 4\nexecs_done     : 3048665\nexecs_per_sec  : 476.67\npaths_total    : 64\npaths_favored  : 16\npaths_found    : 63\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 41\npending_favs   : 0\npending_total  : 20\nvariable_paths : 0\nbitmap_cvg     : 0.32%\nunique_crashes : 17\nunique_hangs   : 18\nlast_path      : 1500278465\nlast_crash     : 1500275055\nlast_hang      : 1500276869\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/matrices_for_sale/input -o /dev/shm/work/matrices_for_sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/matrices_for_sale/matrices_for_sale.dict -- data/linux/processed-challenges/matrices_for_sale/bin/matrices_for_sale\n'
+p145
+I0
+tp146
+a(I8760
+S'start_time     : 1500274158\nlast_update    : 1500282873\nfuzzer_pid     : 6141\ncycles_done    : 4\nexecs_done     : 3096584\nexecs_per_sec  : 76.82\npaths_total    : 64\npaths_favored  : 16\npaths_found    : 63\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 44\npending_favs   : 0\npending_total  : 20\nvariable_paths : 0\nbitmap_cvg     : 0.32%\nunique_crashes : 17\nunique_hangs   : 18\nlast_path      : 1500278465\nlast_crash     : 1500275055\nlast_hang      : 1500276869\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/matrices_for_sale/input -o /dev/shm/work/matrices_for_sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/matrices_for_sale/matrices_for_sale.dict -- data/linux/processed-challenges/matrices_for_sale/bin/matrices_for_sale\n'
+p147
+I0
+tp148
+a(I8880
+S'start_time     : 1500274158\nlast_update    : 1500282993\nfuzzer_pid     : 6141\ncycles_done    : 4\nexecs_done     : 3123163\nexecs_per_sec  : 429.89\npaths_total    : 64\npaths_favored  : 16\npaths_found    : 63\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 46\npending_favs   : 0\npending_total  : 19\nvariable_paths : 0\nbitmap_cvg     : 0.32%\nunique_crashes : 17\nunique_hangs   : 18\nlast_path      : 1500278465\nlast_crash     : 1500275055\nlast_hang      : 1500276869\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/matrices_for_sale/input -o /dev/shm/work/matrices_for_sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/matrices_for_sale/matrices_for_sale.dict -- data/linux/processed-challenges/matrices_for_sale/bin/matrices_for_sale\n'
+p149
+I0
+tp150
+a(I9000
+S'start_time     : 1500274158\nlast_update    : 1500283113\nfuzzer_pid     : 6141\ncycles_done    : 4\nexecs_done     : 3176866\nexecs_per_sec  : 429.38\npaths_total    : 64\npaths_favored  : 16\npaths_found    : 63\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 48\npending_favs   : 0\npending_total  : 19\nvariable_paths : 0\nbitmap_cvg     : 0.32%\nunique_crashes : 17\nunique_hangs   : 18\nlast_path      : 1500278465\nlast_crash     : 1500275055\nlast_hang      : 1500276869\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/matrices_for_sale/input -o /dev/shm/work/matrices_for_sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/matrices_for_sale/matrices_for_sale.dict -- data/linux/processed-challenges/matrices_for_sale/bin/matrices_for_sale\n'
+p151
+I0
+tp152
+a(I9120
+S'start_time     : 1500274158\nlast_update    : 1500283233\nfuzzer_pid     : 6141\ncycles_done    : 4\nexecs_done     : 3224189\nexecs_per_sec  : 269.80\npaths_total    : 64\npaths_favored  : 16\npaths_found    : 63\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 50\npending_favs   : 0\npending_total  : 18\nvariable_paths : 0\nbitmap_cvg     : 0.32%\nunique_crashes : 17\nunique_hangs   : 18\nlast_path      : 1500278465\nlast_crash     : 1500275055\nlast_hang      : 1500276869\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/matrices_for_sale/input -o /dev/shm/work/matrices_for_sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/matrices_for_sale/matrices_for_sale.dict -- data/linux/processed-challenges/matrices_for_sale/bin/matrices_for_sale\n'
+p153
+I0
+tp154
+a(I9240
+S'start_time     : 1500274158\nlast_update    : 1500283354\nfuzzer_pid     : 6141\ncycles_done    : 4\nexecs_done     : 3254531\nexecs_per_sec  : 65.11\npaths_total    : 64\npaths_favored  : 16\npaths_found    : 63\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 51\npending_favs   : 0\npending_total  : 18\nvariable_paths : 0\nbitmap_cvg     : 0.32%\nunique_crashes : 17\nunique_hangs   : 18\nlast_path      : 1500278465\nlast_crash     : 1500275055\nlast_hang      : 1500276869\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/matrices_for_sale/input -o /dev/shm/work/matrices_for_sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/matrices_for_sale/matrices_for_sale.dict -- data/linux/processed-challenges/matrices_for_sale/bin/matrices_for_sale\n'
+p155
+I0
+tp156
+a(I9360
+S'start_time     : 1500274158\nlast_update    : 1500283474\nfuzzer_pid     : 6141\ncycles_done    : 4\nexecs_done     : 3264630\nexecs_per_sec  : 183.87\npaths_total    : 64\npaths_favored  : 16\npaths_found    : 63\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 51\npending_favs   : 0\npending_total  : 18\nvariable_paths : 0\nbitmap_cvg     : 0.32%\nunique_crashes : 17\nunique_hangs   : 18\nlast_path      : 1500278465\nlast_crash     : 1500275055\nlast_hang      : 1500276869\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/matrices_for_sale/input -o /dev/shm/work/matrices_for_sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/matrices_for_sale/matrices_for_sale.dict -- data/linux/processed-challenges/matrices_for_sale/bin/matrices_for_sale\n'
+p157
+I0
+tp158
+a(I9480
+S'start_time     : 1500274158\nlast_update    : 1500283594\nfuzzer_pid     : 6141\ncycles_done    : 4\nexecs_done     : 3314563\nexecs_per_sec  : 516.73\npaths_total    : 64\npaths_favored  : 16\npaths_found    : 63\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 52\npending_favs   : 0\npending_total  : 17\nvariable_paths : 0\nbitmap_cvg     : 0.32%\nunique_crashes : 17\nunique_hangs   : 18\nlast_path      : 1500278465\nlast_crash     : 1500275055\nlast_hang      : 1500276869\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/matrices_for_sale/input -o /dev/shm/work/matrices_for_sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/matrices_for_sale/matrices_for_sale.dict -- data/linux/processed-challenges/matrices_for_sale/bin/matrices_for_sale\n'
+p159
+I0
+tp160
+a(I9600
+S'start_time     : 1500274158\nlast_update    : 1500283714\nfuzzer_pid     : 6141\ncycles_done    : 4\nexecs_done     : 3364515\nexecs_per_sec  : 259.92\npaths_total    : 64\npaths_favored  : 16\npaths_found    : 63\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 53\npending_favs   : 0\npending_total  : 17\nvariable_paths : 0\nbitmap_cvg     : 0.32%\nunique_crashes : 17\nunique_hangs   : 18\nlast_path      : 1500278465\nlast_crash     : 1500275055\nlast_hang      : 1500276869\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/matrices_for_sale/input -o /dev/shm/work/matrices_for_sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/matrices_for_sale/matrices_for_sale.dict -- data/linux/processed-challenges/matrices_for_sale/bin/matrices_for_sale\n'
+p161
+I0
+tp162
+a(I9720
+S'start_time     : 1500274158\nlast_update    : 1500283834\nfuzzer_pid     : 6141\ncycles_done    : 4\nexecs_done     : 3427733\nexecs_per_sec  : 406.80\npaths_total    : 64\npaths_favored  : 16\npaths_found    : 63\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 55\npending_favs   : 0\npending_total  : 17\nvariable_paths : 0\nbitmap_cvg     : 0.32%\nunique_crashes : 17\nunique_hangs   : 18\nlast_path      : 1500278465\nlast_crash     : 1500275055\nlast_hang      : 1500276869\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/matrices_for_sale/input -o /dev/shm/work/matrices_for_sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/matrices_for_sale/matrices_for_sale.dict -- data/linux/processed-challenges/matrices_for_sale/bin/matrices_for_sale\n'
+p163
+I0
+tp164
+a(I9840
+S'start_time     : 1500274158\nlast_update    : 1500283955\nfuzzer_pid     : 6141\ncycles_done    : 4\nexecs_done     : 3488481\nexecs_per_sec  : 433.14\npaths_total    : 64\npaths_favored  : 16\npaths_found    : 63\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 57\npending_favs   : 0\npending_total  : 16\nvariable_paths : 0\nbitmap_cvg     : 0.32%\nunique_crashes : 17\nunique_hangs   : 18\nlast_path      : 1500278465\nlast_crash     : 1500275055\nlast_hang      : 1500276869\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/matrices_for_sale/input -o /dev/shm/work/matrices_for_sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/matrices_for_sale/matrices_for_sale.dict -- data/linux/processed-challenges/matrices_for_sale/bin/matrices_for_sale\n'
+p165
+I0
+tp166
+a(I9960
+S'start_time     : 1500274158\nlast_update    : 1500284075\nfuzzer_pid     : 6141\ncycles_done    : 4\nexecs_done     : 3560961\nexecs_per_sec  : 475.87\npaths_total    : 64\npaths_favored  : 16\npaths_found    : 63\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 60\npending_favs   : 0\npending_total  : 16\nvariable_paths : 0\nbitmap_cvg     : 0.32%\nunique_crashes : 17\nunique_hangs   : 18\nlast_path      : 1500278465\nlast_crash     : 1500275055\nlast_hang      : 1500276869\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/matrices_for_sale/input -o /dev/shm/work/matrices_for_sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/matrices_for_sale/matrices_for_sale.dict -- data/linux/processed-challenges/matrices_for_sale/bin/matrices_for_sale\n'
+p167
+I0
+tp168
+a(I10080
+S'start_time     : 1500274158\nlast_update    : 1500284195\nfuzzer_pid     : 6141\ncycles_done    : 4\nexecs_done     : 3630945\nexecs_per_sec  : 766.62\npaths_total    : 64\npaths_favored  : 16\npaths_found    : 63\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 60\npending_favs   : 0\npending_total  : 16\nvariable_paths : 0\nbitmap_cvg     : 0.32%\nunique_crashes : 17\nunique_hangs   : 18\nlast_path      : 1500278465\nlast_crash     : 1500275055\nlast_hang      : 1500276869\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/matrices_for_sale/input -o /dev/shm/work/matrices_for_sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/matrices_for_sale/matrices_for_sale.dict -- data/linux/processed-challenges/matrices_for_sale/bin/matrices_for_sale\n'
+p169
+I0
+tp170
+a(I10200
+S'start_time     : 1500274158\nlast_update    : 1500284315\nfuzzer_pid     : 6141\ncycles_done    : 4\nexecs_done     : 3701982\nexecs_per_sec  : 474.39\npaths_total    : 65\npaths_favored  : 16\npaths_found    : 64\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 62\npending_favs   : 0\npending_total  : 16\nvariable_paths : 0\nbitmap_cvg     : 0.32%\nunique_crashes : 17\nunique_hangs   : 18\nlast_path      : 1500284287\nlast_crash     : 1500275055\nlast_hang      : 1500276869\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/matrices_for_sale/input -o /dev/shm/work/matrices_for_sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/matrices_for_sale/matrices_for_sale.dict -- data/linux/processed-challenges/matrices_for_sale/bin/matrices_for_sale\n'
+p171
+I4
+tp172
+a(I10320
+S'start_time     : 1500274158\nlast_update    : 1500284435\nfuzzer_pid     : 6141\ncycles_done    : 4\nexecs_done     : 3758820\nexecs_per_sec  : 499.25\npaths_total    : 69\npaths_favored  : 16\npaths_found    : 68\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 62\npending_favs   : 0\npending_total  : 20\nvariable_paths : 0\nbitmap_cvg     : 0.32%\nunique_crashes : 17\nunique_hangs   : 18\nlast_path      : 1500284386\nlast_crash     : 1500275055\nlast_hang      : 1500276869\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/matrices_for_sale/input -o /dev/shm/work/matrices_for_sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/matrices_for_sale/matrices_for_sale.dict -- data/linux/processed-challenges/matrices_for_sale/bin/matrices_for_sale\n'
+p173
+I1
+tp174
+a(I10440
+S'start_time     : 1500274158\nlast_update    : 1500284556\nfuzzer_pid     : 6141\ncycles_done    : 4\nexecs_done     : 3792485\nexecs_per_sec  : 267.30\npaths_total    : 69\npaths_favored  : 16\npaths_found    : 68\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 62\npending_favs   : 0\npending_total  : 20\nvariable_paths : 0\nbitmap_cvg     : 0.32%\nunique_crashes : 17\nunique_hangs   : 18\nlast_path      : 1500284386\nlast_crash     : 1500275055\nlast_hang      : 1500276869\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/matrices_for_sale/input -o /dev/shm/work/matrices_for_sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/matrices_for_sale/matrices_for_sale.dict -- data/linux/processed-challenges/matrices_for_sale/bin/matrices_for_sale\n'
+p175
+I0
+tp176
+a(I10560
+S'start_time     : 1500274158\nlast_update    : 1500284676\nfuzzer_pid     : 6141\ncycles_done    : 4\nexecs_done     : 3835327\nexecs_per_sec  : 461.68\npaths_total    : 69\npaths_favored  : 16\npaths_found    : 68\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 62\npending_favs   : 0\npending_total  : 20\nvariable_paths : 0\nbitmap_cvg     : 0.32%\nunique_crashes : 17\nunique_hangs   : 18\nlast_path      : 1500284386\nlast_crash     : 1500275055\nlast_hang      : 1500276869\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/matrices_for_sale/input -o /dev/shm/work/matrices_for_sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/matrices_for_sale/matrices_for_sale.dict -- data/linux/processed-challenges/matrices_for_sale/bin/matrices_for_sale\n'
+p177
+I0
+tp178
+a(I10680
+S'start_time     : 1500274158\nlast_update    : 1500284796\nfuzzer_pid     : 6141\ncycles_done    : 4\nexecs_done     : 3864911\nexecs_per_sec  : 71.01\npaths_total    : 69\npaths_favored  : 16\npaths_found    : 68\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 66\npending_favs   : 0\npending_total  : 19\nvariable_paths : 0\nbitmap_cvg     : 0.32%\nunique_crashes : 17\nunique_hangs   : 18\nlast_path      : 1500284386\nlast_crash     : 1500275055\nlast_hang      : 1500276869\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/matrices_for_sale/input -o /dev/shm/work/matrices_for_sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/matrices_for_sale/matrices_for_sale.dict -- data/linux/processed-challenges/matrices_for_sale/bin/matrices_for_sale\n'
+p179
+I0
+tp180
+a.

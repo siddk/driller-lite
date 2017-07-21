@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/libcgc.h
+
+../processed-challenges/SOLFEDGE/lib/libc.h
+libcgc.h
+-
+
+/vagrant/driller/data/linux/processed-challenges/SOLFEDGE/lib/libc.c
+libc.h
+/vagrant/driller/data/linux/processed-challenges/SOLFEDGE/lib/libc.h
+
+/vagrant/driller/data/linux/processed-challenges/SOLFEDGE/lib/libc.h
+libcgc.h
+-
+
+/vagrant/driller/data/linux/processed-challenges/SOLFEDGE/src/operation.c
+libcgc.h
+-
+libc.h
+/vagrant/driller/data/linux/processed-challenges/SOLFEDGE/src/libc.h
+operation.h
+/vagrant/driller/data/linux/processed-challenges/SOLFEDGE/src/operation.h
+
+/vagrant/driller/data/linux/processed-challenges/SOLFEDGE/src/operation.h
+
+/vagrant/driller/data/linux/processed-challenges/SOLFEDGE/src/service.c
+libcgc.h
+-
+libc.h
+/vagrant/driller/data/linux/processed-challenges/SOLFEDGE/src/libc.h
+operation.h
+/vagrant/driller/data/linux/processed-challenges/SOLFEDGE/src/operation.h
+service.h
+/vagrant/driller/data/linux/processed-challenges/SOLFEDGE/src/service.h
+
+/vagrant/driller/data/linux/processed-challenges/SOLFEDGE/src/service.h
+

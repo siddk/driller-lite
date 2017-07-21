@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/libcgc.h
+
+../processed-challenges/HighFrequencyTradingAlgo/lib/libc.h
+
+/vagrant/driller/data/linux/processed-challenges/HighFrequencyTradingAlgo/lib/lib.c
+libcgc.h
+-
+libc.h
+/vagrant/driller/data/linux/processed-challenges/HighFrequencyTradingAlgo/lib/libc.h
+
+/vagrant/driller/data/linux/processed-challenges/HighFrequencyTradingAlgo/lib/libc.h
+
+/vagrant/driller/data/linux/processed-challenges/HighFrequencyTradingAlgo/src/service.c
+libcgc.h
+-
+libc.h
+/vagrant/driller/data/linux/processed-challenges/HighFrequencyTradingAlgo/src/libc.h
+service.h
+/vagrant/driller/data/linux/processed-challenges/HighFrequencyTradingAlgo/src/service.h
+
+/vagrant/driller/data/linux/processed-challenges/HighFrequencyTradingAlgo/src/service.h
+

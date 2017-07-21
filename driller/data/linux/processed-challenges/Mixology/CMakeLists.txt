@@ -1,0 +1,7 @@
+set( POLLS_TESTING_SEED "1561654603" )
+set( POLLS_RELEASE_SEED "-335562927" )
+add_compile_options( -Wno-overlength-strings -Wno-packed -Wno-trigraphs -g )
+set( SERVICE_ID "00007" )
+set( AUTHOR_ID "NRFIN" )
+set( POLLS_RELEASE_COUNT "1000" )
+buildCB()

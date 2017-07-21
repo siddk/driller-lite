@@ -1,0 +1,452 @@
+(lp0
+(I0
+S'start_time     : 1500057796\nlast_update    : 1500057796\nfuzzer_pid     : 25516\ncycles_done    : 0\nexecs_done     : 10\nexecs_per_sec  : 153.85\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 1\npending_total  : 1\nvariable_paths : 0\nbitmap_cvg     : 0.07%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Pac_for_Edges/input -o /dev/shm/work/Pac_for_Edges/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Pac_for_Edges/Pac_for_Edges.dict -- data/linux/processed-challenges/Pac_for_Edges/bin/Pac_for_Edges\n'
+p1
+I14
+tp2
+a(I120
+S'start_time     : 1500057796\nlast_update    : 1500057916\nfuzzer_pid     : 25516\ncycles_done    : 0\nexecs_done     : 94818\nexecs_per_sec  : 784.34\npaths_total    : 21\npaths_favored  : 1\npaths_found    : 20\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 1\npending_total  : 21\nvariable_paths : 0\nbitmap_cvg     : 0.46%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500057894\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Pac_for_Edges/input -o /dev/shm/work/Pac_for_Edges/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Pac_for_Edges/Pac_for_Edges.dict -- data/linux/processed-challenges/Pac_for_Edges/bin/Pac_for_Edges\n'
+p3
+I8
+tp4
+a(I240
+S'start_time     : 1500057796\nlast_update    : 1500058036\nfuzzer_pid     : 25516\ncycles_done    : 0\nexecs_done     : 180215\nexecs_per_sec  : 552.26\npaths_total    : 27\npaths_favored  : 7\npaths_found    : 26\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 8\npending_favs   : 5\npending_total  : 24\nvariable_paths : 0\nbitmap_cvg     : 0.57%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500058031\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Pac_for_Edges/input -o /dev/shm/work/Pac_for_Edges/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Pac_for_Edges/Pac_for_Edges.dict -- data/linux/processed-challenges/Pac_for_Edges/bin/Pac_for_Edges\n'
+p5
+I5
+tp6
+a(I360
+S'start_time     : 1500057796\nlast_update    : 1500058156\nfuzzer_pid     : 25516\ncycles_done    : 0\nexecs_done     : 242411\nexecs_per_sec  : 544.84\npaths_total    : 36\npaths_favored  : 8\npaths_found    : 35\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 15\npending_favs   : 5\npending_total  : 32\nvariable_paths : 0\nbitmap_cvg     : 0.59%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500058113\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Pac_for_Edges/input -o /dev/shm/work/Pac_for_Edges/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Pac_for_Edges/Pac_for_Edges.dict -- data/linux/processed-challenges/Pac_for_Edges/bin/Pac_for_Edges\n'
+p7
+I9
+tp8
+a(I480
+S'start_time     : 1500057796\nlast_update    : 1500058276\nfuzzer_pid     : 25516\ncycles_done    : 0\nexecs_done     : 305088\nexecs_per_sec  : 500.08\npaths_total    : 39\npaths_favored  : 8\npaths_found    : 38\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 15\npending_favs   : 5\npending_total  : 35\nvariable_paths : 0\nbitmap_cvg     : 0.60%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500058274\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Pac_for_Edges/input -o /dev/shm/work/Pac_for_Edges/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Pac_for_Edges/Pac_for_Edges.dict -- data/linux/processed-challenges/Pac_for_Edges/bin/Pac_for_Edges\n'
+p9
+I3
+tp10
+a(I600
+S'start_time     : 1500057796\nlast_update    : 1500058397\nfuzzer_pid     : 25516\ncycles_done    : 0\nexecs_done     : 358132\nexecs_per_sec  : 185.50\npaths_total    : 44\npaths_favored  : 16\npaths_found    : 43\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 19\npending_favs   : 12\npending_total  : 39\nvariable_paths : 0\nbitmap_cvg     : 0.60%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500058383\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Pac_for_Edges/input -o /dev/shm/work/Pac_for_Edges/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Pac_for_Edges/Pac_for_Edges.dict -- data/linux/processed-challenges/Pac_for_Edges/bin/Pac_for_Edges\n'
+p11
+I5
+tp12
+a(I720
+S'start_time     : 1500057796\nlast_update    : 1500058517\nfuzzer_pid     : 25516\ncycles_done    : 0\nexecs_done     : 392069\nexecs_per_sec  : 307.47\npaths_total    : 72\npaths_favored  : 16\npaths_found    : 71\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 19\npending_favs   : 12\npending_total  : 67\nvariable_paths : 0\nbitmap_cvg     : 0.64%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500058506\nlast_crash     : 0\nlast_hang      : 1500058466\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Pac_for_Edges/input -o /dev/shm/work/Pac_for_Edges/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Pac_for_Edges/Pac_for_Edges.dict -- data/linux/processed-challenges/Pac_for_Edges/bin/Pac_for_Edges\n'
+p13
+I28
+tp14
+a(I840
+S'start_time     : 1500057796\nlast_update    : 1500058637\nfuzzer_pid     : 25516\ncycles_done    : 0\nexecs_done     : 428869\nexecs_per_sec  : 304.83\npaths_total    : 74\npaths_favored  : 16\npaths_found    : 73\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 19\npending_favs   : 12\npending_total  : 69\nvariable_paths : 0\nbitmap_cvg     : 0.65%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500058592\nlast_crash     : 0\nlast_hang      : 1500058466\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Pac_for_Edges/input -o /dev/shm/work/Pac_for_Edges/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Pac_for_Edges/Pac_for_Edges.dict -- data/linux/processed-challenges/Pac_for_Edges/bin/Pac_for_Edges\n'
+p15
+I2
+tp16
+a(I960
+S'start_time     : 1500057796\nlast_update    : 1500058757\nfuzzer_pid     : 25516\ncycles_done    : 0\nexecs_done     : 465501\nexecs_per_sec  : 303.11\npaths_total    : 76\npaths_favored  : 16\npaths_found    : 75\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 19\npending_favs   : 12\npending_total  : 71\nvariable_paths : 0\nbitmap_cvg     : 0.65%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500058721\nlast_crash     : 0\nlast_hang      : 1500058466\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Pac_for_Edges/input -o /dev/shm/work/Pac_for_Edges/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Pac_for_Edges/Pac_for_Edges.dict -- data/linux/processed-challenges/Pac_for_Edges/bin/Pac_for_Edges\n'
+p17
+I2
+tp18
+a(I1080
+S'start_time     : 1500057796\nlast_update    : 1500058877\nfuzzer_pid     : 25516\ncycles_done    : 0\nexecs_done     : 513881\nexecs_per_sec  : 519.48\npaths_total    : 95\npaths_favored  : 25\npaths_found    : 94\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 23\npending_favs   : 21\npending_total  : 89\nvariable_paths : 0\nbitmap_cvg     : 0.73%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500058875\nlast_crash     : 0\nlast_hang      : 1500058466\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Pac_for_Edges/input -o /dev/shm/work/Pac_for_Edges/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Pac_for_Edges/Pac_for_Edges.dict -- data/linux/processed-challenges/Pac_for_Edges/bin/Pac_for_Edges\n'
+p19
+I19
+tp20
+a(I1200
+S'start_time     : 1500057796\nlast_update    : 1500058998\nfuzzer_pid     : 25516\ncycles_done    : 0\nexecs_done     : 575271\nexecs_per_sec  : 504.18\npaths_total    : 108\npaths_favored  : 25\npaths_found    : 107\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 23\npending_favs   : 21\npending_total  : 102\nvariable_paths : 0\nbitmap_cvg     : 0.73%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500058977\nlast_crash     : 0\nlast_hang      : 1500058466\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Pac_for_Edges/input -o /dev/shm/work/Pac_for_Edges/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Pac_for_Edges/Pac_for_Edges.dict -- data/linux/processed-challenges/Pac_for_Edges/bin/Pac_for_Edges\n'
+p21
+I13
+tp22
+a(I1320
+S'start_time     : 1500057796\nlast_update    : 1500059118\nfuzzer_pid     : 25516\ncycles_done    : 0\nexecs_done     : 637591\nexecs_per_sec  : 525.16\npaths_total    : 109\npaths_favored  : 25\npaths_found    : 108\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 23\npending_favs   : 21\npending_total  : 103\nvariable_paths : 0\nbitmap_cvg     : 0.73%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500059067\nlast_crash     : 0\nlast_hang      : 1500058466\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Pac_for_Edges/input -o /dev/shm/work/Pac_for_Edges/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Pac_for_Edges/Pac_for_Edges.dict -- data/linux/processed-challenges/Pac_for_Edges/bin/Pac_for_Edges\n'
+p23
+I2
+tp24
+a(I1440
+S'start_time     : 1500057796\nlast_update    : 1500059238\nfuzzer_pid     : 25516\ncycles_done    : 0\nexecs_done     : 685943\nexecs_per_sec  : 437.13\npaths_total    : 112\npaths_favored  : 43\npaths_found    : 111\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 32\npending_favs   : 37\npending_total  : 103\nvariable_paths : 0\nbitmap_cvg     : 0.74%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500059193\nlast_crash     : 0\nlast_hang      : 1500058466\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Pac_for_Edges/input -o /dev/shm/work/Pac_for_Edges/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Pac_for_Edges/Pac_for_Edges.dict -- data/linux/processed-challenges/Pac_for_Edges/bin/Pac_for_Edges\n'
+p25
+I2
+tp26
+a(I1560
+S'start_time     : 1500057796\nlast_update    : 1500059358\nfuzzer_pid     : 25516\ncycles_done    : 0\nexecs_done     : 740411\nexecs_per_sec  : 458.70\npaths_total    : 117\npaths_favored  : 43\npaths_found    : 116\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 34\npending_favs   : 35\npending_total  : 106\nvariable_paths : 0\nbitmap_cvg     : 0.74%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500059342\nlast_crash     : 0\nlast_hang      : 1500058466\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Pac_for_Edges/input -o /dev/shm/work/Pac_for_Edges/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Pac_for_Edges/Pac_for_Edges.dict -- data/linux/processed-challenges/Pac_for_Edges/bin/Pac_for_Edges\n'
+p27
+I5
+tp28
+a(I1680
+S'start_time     : 1500057796\nlast_update    : 1500059478\nfuzzer_pid     : 25516\ncycles_done    : 0\nexecs_done     : 796933\nexecs_per_sec  : 471.07\npaths_total    : 119\npaths_favored  : 43\npaths_found    : 118\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 34\npending_favs   : 35\npending_total  : 108\nvariable_paths : 0\nbitmap_cvg     : 0.74%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500059411\nlast_crash     : 0\nlast_hang      : 1500058466\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Pac_for_Edges/input -o /dev/shm/work/Pac_for_Edges/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Pac_for_Edges/Pac_for_Edges.dict -- data/linux/processed-challenges/Pac_for_Edges/bin/Pac_for_Edges\n'
+p29
+I2
+tp30
+a(I1800
+S'start_time     : 1500057796\nlast_update    : 1500059599\nfuzzer_pid     : 25516\ncycles_done    : 0\nexecs_done     : 853750\nexecs_per_sec  : 478.69\npaths_total    : 119\npaths_favored  : 43\npaths_found    : 118\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 34\npending_favs   : 35\npending_total  : 108\nvariable_paths : 0\nbitmap_cvg     : 0.74%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500059411\nlast_crash     : 0\nlast_hang      : 1500058466\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Pac_for_Edges/input -o /dev/shm/work/Pac_for_Edges/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Pac_for_Edges/Pac_for_Edges.dict -- data/linux/processed-challenges/Pac_for_Edges/bin/Pac_for_Edges\n'
+p31
+I0
+tp32
+a(I1920
+S'start_time     : 1500057796\nlast_update    : 1500059719\nfuzzer_pid     : 25516\ncycles_done    : 0\nexecs_done     : 897893\nexecs_per_sec  : 184.37\npaths_total    : 120\npaths_favored  : 42\npaths_found    : 119\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 42\npending_favs   : 31\npending_total  : 104\nvariable_paths : 0\nbitmap_cvg     : 0.75%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500059707\nlast_crash     : 0\nlast_hang      : 1500058466\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Pac_for_Edges/input -o /dev/shm/work/Pac_for_Edges/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Pac_for_Edges/Pac_for_Edges.dict -- data/linux/processed-challenges/Pac_for_Edges/bin/Pac_for_Edges\n'
+p33
+I1
+tp34
+a(I2040
+S'start_time     : 1500057796\nlast_update    : 1500059839\nfuzzer_pid     : 25516\ncycles_done    : 0\nexecs_done     : 931671\nexecs_per_sec  : 340.73\npaths_total    : 124\npaths_favored  : 41\npaths_found    : 123\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 57\npending_favs   : 30\npending_total  : 106\nvariable_paths : 0\nbitmap_cvg     : 0.75%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500059824\nlast_crash     : 0\nlast_hang      : 1500058466\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Pac_for_Edges/input -o /dev/shm/work/Pac_for_Edges/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Pac_for_Edges/Pac_for_Edges.dict -- data/linux/processed-challenges/Pac_for_Edges/bin/Pac_for_Edges\n'
+p35
+I4
+tp36
+a(I2160
+S'start_time     : 1500057796\nlast_update    : 1500059960\nfuzzer_pid     : 25516\ncycles_done    : 0\nexecs_done     : 972635\nexecs_per_sec  : 335.61\npaths_total    : 129\npaths_favored  : 41\npaths_found    : 128\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 57\npending_favs   : 30\npending_total  : 111\nvariable_paths : 0\nbitmap_cvg     : 0.75%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500059910\nlast_crash     : 0\nlast_hang      : 1500058466\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Pac_for_Edges/input -o /dev/shm/work/Pac_for_Edges/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Pac_for_Edges/Pac_for_Edges.dict -- data/linux/processed-challenges/Pac_for_Edges/bin/Pac_for_Edges\n'
+p37
+I5
+tp38
+a(I2280
+S'start_time     : 1500057796\nlast_update    : 1500060080\nfuzzer_pid     : 25516\ncycles_done    : 0\nexecs_done     : 1011387\nexecs_per_sec  : 308.44\npaths_total    : 130\npaths_favored  : 41\npaths_found    : 129\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 57\npending_favs   : 30\npending_total  : 112\nvariable_paths : 0\nbitmap_cvg     : 0.75%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500060043\nlast_crash     : 0\nlast_hang      : 1500058466\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Pac_for_Edges/input -o /dev/shm/work/Pac_for_Edges/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Pac_for_Edges/Pac_for_Edges.dict -- data/linux/processed-challenges/Pac_for_Edges/bin/Pac_for_Edges\n'
+p39
+I1
+tp40
+a(I2400
+S'start_time     : 1500057796\nlast_update    : 1500060200\nfuzzer_pid     : 25516\ncycles_done    : 0\nexecs_done     : 1049505\nexecs_per_sec  : 312.98\npaths_total    : 130\npaths_favored  : 41\npaths_found    : 129\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 57\npending_favs   : 30\npending_total  : 112\nvariable_paths : 0\nbitmap_cvg     : 0.75%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500060043\nlast_crash     : 0\nlast_hang      : 1500058466\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Pac_for_Edges/input -o /dev/shm/work/Pac_for_Edges/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Pac_for_Edges/Pac_for_Edges.dict -- data/linux/processed-challenges/Pac_for_Edges/bin/Pac_for_Edges\n'
+p41
+I0
+tp42
+a(I2520
+S'start_time     : 1500057796\nlast_update    : 1500060320\nfuzzer_pid     : 25516\ncycles_done    : 0\nexecs_done     : 1087185\nexecs_per_sec  : 216.39\npaths_total    : 131\npaths_favored  : 43\npaths_found    : 130\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 58\npending_favs   : 32\npending_total  : 112\nvariable_paths : 0\nbitmap_cvg     : 0.75%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500060232\nlast_crash     : 0\nlast_hang      : 1500058466\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Pac_for_Edges/input -o /dev/shm/work/Pac_for_Edges/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Pac_for_Edges/Pac_for_Edges.dict -- data/linux/processed-challenges/Pac_for_Edges/bin/Pac_for_Edges\n'
+p43
+I1
+tp44
+a(I2640
+S'start_time     : 1500057796\nlast_update    : 1500060441\nfuzzer_pid     : 25516\ncycles_done    : 0\nexecs_done     : 1114285\nexecs_per_sec  : 126.39\npaths_total    : 131\npaths_favored  : 43\npaths_found    : 130\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 75\npending_favs   : 30\npending_total  : 110\nvariable_paths : 0\nbitmap_cvg     : 0.75%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500060232\nlast_crash     : 0\nlast_hang      : 1500058466\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Pac_for_Edges/input -o /dev/shm/work/Pac_for_Edges/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Pac_for_Edges/Pac_for_Edges.dict -- data/linux/processed-challenges/Pac_for_Edges/bin/Pac_for_Edges\n'
+p45
+I0
+tp46
+a(I2760
+S'start_time     : 1500057796\nlast_update    : 1500060561\nfuzzer_pid     : 25516\ncycles_done    : 0\nexecs_done     : 1131723\nexecs_per_sec  : 208.08\npaths_total    : 133\npaths_favored  : 43\npaths_found    : 132\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 75\npending_favs   : 30\npending_total  : 112\nvariable_paths : 0\nbitmap_cvg     : 0.75%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500060557\nlast_crash     : 0\nlast_hang      : 1500058466\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Pac_for_Edges/input -o /dev/shm/work/Pac_for_Edges/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Pac_for_Edges/Pac_for_Edges.dict -- data/linux/processed-challenges/Pac_for_Edges/bin/Pac_for_Edges\n'
+p47
+I2
+tp48
+a(I2880
+S'start_time     : 1500057796\nlast_update    : 1500060681\nfuzzer_pid     : 25516\ncycles_done    : 0\nexecs_done     : 1156891\nexecs_per_sec  : 215.91\npaths_total    : 135\npaths_favored  : 43\npaths_found    : 134\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 75\npending_favs   : 30\npending_total  : 114\nvariable_paths : 0\nbitmap_cvg     : 0.76%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500060646\nlast_crash     : 0\nlast_hang      : 1500060593\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Pac_for_Edges/input -o /dev/shm/work/Pac_for_Edges/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Pac_for_Edges/Pac_for_Edges.dict -- data/linux/processed-challenges/Pac_for_Edges/bin/Pac_for_Edges\n'
+p49
+I2
+tp50
+a(I3000
+S'start_time     : 1500057796\nlast_update    : 1500060801\nfuzzer_pid     : 25516\ncycles_done    : 0\nexecs_done     : 1182765\nexecs_per_sec  : 217.48\npaths_total    : 136\npaths_favored  : 43\npaths_found    : 135\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 75\npending_favs   : 30\npending_total  : 115\nvariable_paths : 0\nbitmap_cvg     : 0.76%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500060695\nlast_crash     : 0\nlast_hang      : 1500060593\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Pac_for_Edges/input -o /dev/shm/work/Pac_for_Edges/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Pac_for_Edges/Pac_for_Edges.dict -- data/linux/processed-challenges/Pac_for_Edges/bin/Pac_for_Edges\n'
+p51
+I1
+tp52
+a(I3120
+S'start_time     : 1500057796\nlast_update    : 1500060921\nfuzzer_pid     : 25516\ncycles_done    : 0\nexecs_done     : 1208501\nexecs_per_sec  : 212.30\npaths_total    : 136\npaths_favored  : 43\npaths_found    : 135\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 75\npending_favs   : 30\npending_total  : 115\nvariable_paths : 0\nbitmap_cvg     : 0.76%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500060695\nlast_crash     : 0\nlast_hang      : 1500060593\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Pac_for_Edges/input -o /dev/shm/work/Pac_for_Edges/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Pac_for_Edges/Pac_for_Edges.dict -- data/linux/processed-challenges/Pac_for_Edges/bin/Pac_for_Edges\n'
+p53
+I0
+tp54
+a(I3240
+S'start_time     : 1500057796\nlast_update    : 1500061042\nfuzzer_pid     : 25516\ncycles_done    : 0\nexecs_done     : 1234321\nexecs_per_sec  : 220.25\npaths_total    : 136\npaths_favored  : 43\npaths_found    : 135\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 75\npending_favs   : 30\npending_total  : 115\nvariable_paths : 0\nbitmap_cvg     : 0.76%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500060695\nlast_crash     : 0\nlast_hang      : 1500060593\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Pac_for_Edges/input -o /dev/shm/work/Pac_for_Edges/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Pac_for_Edges/Pac_for_Edges.dict -- data/linux/processed-challenges/Pac_for_Edges/bin/Pac_for_Edges\n'
+p55
+I0
+tp56
+a(I3360
+S'start_time     : 1500057796\nlast_update    : 1500061162\nfuzzer_pid     : 25516\ncycles_done    : 0\nexecs_done     : 1280442\nexecs_per_sec  : 509.43\npaths_total    : 145\npaths_favored  : 42\npaths_found    : 144\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 76\npending_favs   : 31\npending_total  : 123\nvariable_paths : 0\nbitmap_cvg     : 0.77%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500061146\nlast_crash     : 0\nlast_hang      : 1500060593\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Pac_for_Edges/input -o /dev/shm/work/Pac_for_Edges/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Pac_for_Edges/Pac_for_Edges.dict -- data/linux/processed-challenges/Pac_for_Edges/bin/Pac_for_Edges\n'
+p57
+I9
+tp58
+a(I3480
+S'start_time     : 1500057796\nlast_update    : 1500061282\nfuzzer_pid     : 25516\ncycles_done    : 0\nexecs_done     : 1342182\nexecs_per_sec  : 501.97\npaths_total    : 151\npaths_favored  : 42\npaths_found    : 150\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 76\npending_favs   : 31\npending_total  : 129\nvariable_paths : 0\nbitmap_cvg     : 0.77%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500061253\nlast_crash     : 0\nlast_hang      : 1500060593\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Pac_for_Edges/input -o /dev/shm/work/Pac_for_Edges/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Pac_for_Edges/Pac_for_Edges.dict -- data/linux/processed-challenges/Pac_for_Edges/bin/Pac_for_Edges\n'
+p59
+I6
+tp60
+a(I3600
+S'start_time     : 1500057796\nlast_update    : 1500061402\nfuzzer_pid     : 25516\ncycles_done    : 0\nexecs_done     : 1403802\nexecs_per_sec  : 528.90\npaths_total    : 155\npaths_favored  : 42\npaths_found    : 154\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 76\npending_favs   : 31\npending_total  : 133\nvariable_paths : 0\nbitmap_cvg     : 0.77%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500061384\nlast_crash     : 0\nlast_hang      : 1500060593\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Pac_for_Edges/input -o /dev/shm/work/Pac_for_Edges/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Pac_for_Edges/Pac_for_Edges.dict -- data/linux/processed-challenges/Pac_for_Edges/bin/Pac_for_Edges\n'
+p61
+I4
+tp62
+a(I3720
+S'start_time     : 1500057796\nlast_update    : 1500061523\nfuzzer_pid     : 25516\ncycles_done    : 0\nexecs_done     : 1461739\nexecs_per_sec  : 510.71\npaths_total    : 160\npaths_favored  : 44\npaths_found    : 159\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 79\npending_favs   : 32\npending_total  : 135\nvariable_paths : 0\nbitmap_cvg     : 0.78%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500061496\nlast_crash     : 0\nlast_hang      : 1500060593\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Pac_for_Edges/input -o /dev/shm/work/Pac_for_Edges/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Pac_for_Edges/Pac_for_Edges.dict -- data/linux/processed-challenges/Pac_for_Edges/bin/Pac_for_Edges\n'
+p63
+I5
+tp64
+a(I3840
+S'start_time     : 1500057796\nlast_update    : 1500061643\nfuzzer_pid     : 25516\ncycles_done    : 0\nexecs_done     : 1517314\nexecs_per_sec  : 457.86\npaths_total    : 171\npaths_favored  : 46\npaths_found    : 170\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 80\npending_favs   : 33\npending_total  : 145\nvariable_paths : 0\nbitmap_cvg     : 0.78%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500061641\nlast_crash     : 0\nlast_hang      : 1500060593\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Pac_for_Edges/input -o /dev/shm/work/Pac_for_Edges/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Pac_for_Edges/Pac_for_Edges.dict -- data/linux/processed-challenges/Pac_for_Edges/bin/Pac_for_Edges\n'
+p65
+I11
+tp66
+a(I3960
+S'start_time     : 1500057796\nlast_update    : 1500061763\nfuzzer_pid     : 25516\ncycles_done    : 0\nexecs_done     : 1573562\nexecs_per_sec  : 446.99\npaths_total    : 175\npaths_favored  : 46\npaths_found    : 174\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 80\npending_favs   : 33\npending_total  : 149\nvariable_paths : 0\nbitmap_cvg     : 0.78%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500061735\nlast_crash     : 0\nlast_hang      : 1500060593\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Pac_for_Edges/input -o /dev/shm/work/Pac_for_Edges/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Pac_for_Edges/Pac_for_Edges.dict -- data/linux/processed-challenges/Pac_for_Edges/bin/Pac_for_Edges\n'
+p67
+I4
+tp68
+a(I4080
+S'start_time     : 1500057796\nlast_update    : 1500061883\nfuzzer_pid     : 25516\ncycles_done    : 0\nexecs_done     : 1629140\nexecs_per_sec  : 443.90\npaths_total    : 176\npaths_favored  : 46\npaths_found    : 175\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 80\npending_favs   : 33\npending_total  : 150\nvariable_paths : 0\nbitmap_cvg     : 0.78%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500061838\nlast_crash     : 0\nlast_hang      : 1500060593\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Pac_for_Edges/input -o /dev/shm/work/Pac_for_Edges/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Pac_for_Edges/Pac_for_Edges.dict -- data/linux/processed-challenges/Pac_for_Edges/bin/Pac_for_Edges\n'
+p69
+I1
+tp70
+a(I4200
+S'start_time     : 1500057796\nlast_update    : 1500062004\nfuzzer_pid     : 25516\ncycles_done    : 0\nexecs_done     : 1678978\nexecs_per_sec  : 349.49\npaths_total    : 176\npaths_favored  : 49\npaths_found    : 175\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 91\npending_favs   : 33\npending_total  : 146\nvariable_paths : 0\nbitmap_cvg     : 0.78%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500061838\nlast_crash     : 0\nlast_hang      : 1500060593\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Pac_for_Edges/input -o /dev/shm/work/Pac_for_Edges/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Pac_for_Edges/Pac_for_Edges.dict -- data/linux/processed-challenges/Pac_for_Edges/bin/Pac_for_Edges\n'
+p71
+I0
+tp72
+a(I4320
+S'start_time     : 1500057796\nlast_update    : 1500062124\nfuzzer_pid     : 25516\ncycles_done    : 0\nexecs_done     : 1721580\nexecs_per_sec  : 427.42\npaths_total    : 180\npaths_favored  : 50\npaths_found    : 179\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 99\npending_favs   : 31\npending_total  : 147\nvariable_paths : 0\nbitmap_cvg     : 0.78%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500062118\nlast_crash     : 0\nlast_hang      : 1500060593\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Pac_for_Edges/input -o /dev/shm/work/Pac_for_Edges/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Pac_for_Edges/Pac_for_Edges.dict -- data/linux/processed-challenges/Pac_for_Edges/bin/Pac_for_Edges\n'
+p73
+I4
+tp74
+a(I4440
+S'start_time     : 1500057796\nlast_update    : 1500062244\nfuzzer_pid     : 25516\ncycles_done    : 0\nexecs_done     : 1766093\nexecs_per_sec  : 312.04\npaths_total    : 181\npaths_favored  : 49\npaths_found    : 180\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 110\npending_favs   : 27\npending_total  : 145\nvariable_paths : 0\nbitmap_cvg     : 0.78%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500062136\nlast_crash     : 0\nlast_hang      : 1500060593\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Pac_for_Edges/input -o /dev/shm/work/Pac_for_Edges/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Pac_for_Edges/Pac_for_Edges.dict -- data/linux/processed-challenges/Pac_for_Edges/bin/Pac_for_Edges\n'
+p75
+I1
+tp76
+a(I4560
+S'start_time     : 1500057796\nlast_update    : 1500062364\nfuzzer_pid     : 25516\ncycles_done    : 0\nexecs_done     : 1812212\nexecs_per_sec  : 469.02\npaths_total    : 183\npaths_favored  : 49\npaths_found    : 182\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 112\npending_favs   : 25\npending_total  : 145\nvariable_paths : 0\nbitmap_cvg     : 0.78%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500062354\nlast_crash     : 0\nlast_hang      : 1500060593\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Pac_for_Edges/input -o /dev/shm/work/Pac_for_Edges/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Pac_for_Edges/Pac_for_Edges.dict -- data/linux/processed-challenges/Pac_for_Edges/bin/Pac_for_Edges\n'
+p77
+I2
+tp78
+a(I4680
+S'start_time     : 1500057796\nlast_update    : 1500062484\nfuzzer_pid     : 25516\ncycles_done    : 0\nexecs_done     : 1856960\nexecs_per_sec  : 335.30\npaths_total    : 183\npaths_favored  : 50\npaths_found    : 182\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 113\npending_favs   : 24\npending_total  : 144\nvariable_paths : 0\nbitmap_cvg     : 0.78%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500062354\nlast_crash     : 0\nlast_hang      : 1500060593\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Pac_for_Edges/input -o /dev/shm/work/Pac_for_Edges/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Pac_for_Edges/Pac_for_Edges.dict -- data/linux/processed-challenges/Pac_for_Edges/bin/Pac_for_Edges\n'
+p79
+I0
+tp80
+a(I4800
+S'start_time     : 1500057796\nlast_update    : 1500062604\nfuzzer_pid     : 25516\ncycles_done    : 0\nexecs_done     : 1894414\nexecs_per_sec  : 207.40\npaths_total    : 183\npaths_favored  : 50\npaths_found    : 182\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 119\npending_favs   : 21\npending_total  : 141\nvariable_paths : 0\nbitmap_cvg     : 0.78%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500062354\nlast_crash     : 0\nlast_hang      : 1500060593\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Pac_for_Edges/input -o /dev/shm/work/Pac_for_Edges/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Pac_for_Edges/Pac_for_Edges.dict -- data/linux/processed-challenges/Pac_for_Edges/bin/Pac_for_Edges\n'
+p81
+I0
+tp82
+a(I4920
+S'start_time     : 1500057796\nlast_update    : 1500062725\nfuzzer_pid     : 25516\ncycles_done    : 0\nexecs_done     : 1924169\nexecs_per_sec  : 339.47\npaths_total    : 183\npaths_favored  : 50\npaths_found    : 182\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 120\npending_favs   : 20\npending_total  : 140\nvariable_paths : 0\nbitmap_cvg     : 0.78%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500062354\nlast_crash     : 0\nlast_hang      : 1500060593\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Pac_for_Edges/input -o /dev/shm/work/Pac_for_Edges/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Pac_for_Edges/Pac_for_Edges.dict -- data/linux/processed-challenges/Pac_for_Edges/bin/Pac_for_Edges\n'
+p83
+I0
+tp84
+a(I5040
+S'start_time     : 1500057796\nlast_update    : 1500062845\nfuzzer_pid     : 25516\ncycles_done    : 0\nexecs_done     : 1945524\nexecs_per_sec  : 141.73\npaths_total    : 183\npaths_favored  : 50\npaths_found    : 182\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 128\npending_favs   : 19\npending_total  : 139\nvariable_paths : 0\nbitmap_cvg     : 0.78%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500062354\nlast_crash     : 0\nlast_hang      : 1500060593\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Pac_for_Edges/input -o /dev/shm/work/Pac_for_Edges/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Pac_for_Edges/Pac_for_Edges.dict -- data/linux/processed-challenges/Pac_for_Edges/bin/Pac_for_Edges\n'
+p85
+I0
+tp86
+a(I5160
+S'start_time     : 1500057796\nlast_update    : 1500062965\nfuzzer_pid     : 25516\ncycles_done    : 0\nexecs_done     : 1965530\nexecs_per_sec  : 197.75\npaths_total    : 187\npaths_favored  : 50\npaths_found    : 186\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 128\npending_favs   : 19\npending_total  : 143\nvariable_paths : 0\nbitmap_cvg     : 0.78%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500062956\nlast_crash     : 0\nlast_hang      : 1500060593\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Pac_for_Edges/input -o /dev/shm/work/Pac_for_Edges/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Pac_for_Edges/Pac_for_Edges.dict -- data/linux/processed-challenges/Pac_for_Edges/bin/Pac_for_Edges\n'
+p87
+I4
+tp88
+a(I5280
+S'start_time     : 1500057796\nlast_update    : 1500063025\nfuzzer_pid     : 25516\ncycles_done    : 0\nexecs_done     : 1977545\nexecs_per_sec  : 196.14\npaths_total    : 187\npaths_favored  : 50\npaths_found    : 186\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 128\npending_favs   : 19\npending_total  : 143\nvariable_paths : 0\nbitmap_cvg     : 0.78%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500062956\nlast_crash     : 0\nlast_hang      : 1500060593\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Pac_for_Edges/input -o /dev/shm/work/Pac_for_Edges/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Pac_for_Edges/Pac_for_Edges.dict -- data/linux/processed-challenges/Pac_for_Edges/bin/Pac_for_Edges\n'
+p89
+I0
+tp90
+a(I5400
+S'start_time     : 1500057796\nlast_update    : 1500063145\nfuzzer_pid     : 25516\ncycles_done    : 0\nexecs_done     : 2001233\nexecs_per_sec  : 199.52\npaths_total    : 187\npaths_favored  : 50\npaths_found    : 186\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 128\npending_favs   : 19\npending_total  : 143\nvariable_paths : 0\nbitmap_cvg     : 0.78%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500062956\nlast_crash     : 0\nlast_hang      : 1500063116\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Pac_for_Edges/input -o /dev/shm/work/Pac_for_Edges/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Pac_for_Edges/Pac_for_Edges.dict -- data/linux/processed-challenges/Pac_for_Edges/bin/Pac_for_Edges\n'
+p91
+I0
+tp92
+a(I5520
+S'start_time     : 1500057796\nlast_update    : 1500063266\nfuzzer_pid     : 25516\ncycles_done    : 0\nexecs_done     : 2024108\nexecs_per_sec  : 195.00\npaths_total    : 187\npaths_favored  : 50\npaths_found    : 186\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 128\npending_favs   : 19\npending_total  : 143\nvariable_paths : 0\nbitmap_cvg     : 0.78%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500062956\nlast_crash     : 0\nlast_hang      : 1500063116\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Pac_for_Edges/input -o /dev/shm/work/Pac_for_Edges/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Pac_for_Edges/Pac_for_Edges.dict -- data/linux/processed-challenges/Pac_for_Edges/bin/Pac_for_Edges\n'
+p93
+I0
+tp94
+a(I5640
+S'start_time     : 1500057796\nlast_update    : 1500063386\nfuzzer_pid     : 25516\ncycles_done    : 0\nexecs_done     : 2047715\nexecs_per_sec  : 188.82\npaths_total    : 187\npaths_favored  : 50\npaths_found    : 186\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 128\npending_favs   : 19\npending_total  : 143\nvariable_paths : 0\nbitmap_cvg     : 0.78%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500062956\nlast_crash     : 0\nlast_hang      : 1500063116\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Pac_for_Edges/input -o /dev/shm/work/Pac_for_Edges/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Pac_for_Edges/Pac_for_Edges.dict -- data/linux/processed-challenges/Pac_for_Edges/bin/Pac_for_Edges\n'
+p95
+I0
+tp96
+a(I5760
+S'start_time     : 1500057796\nlast_update    : 1500063506\nfuzzer_pid     : 25516\ncycles_done    : 0\nexecs_done     : 2071007\nexecs_per_sec  : 198.07\npaths_total    : 187\npaths_favored  : 50\npaths_found    : 186\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 128\npending_favs   : 19\npending_total  : 143\nvariable_paths : 0\nbitmap_cvg     : 0.78%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500062956\nlast_crash     : 0\nlast_hang      : 1500063116\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Pac_for_Edges/input -o /dev/shm/work/Pac_for_Edges/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Pac_for_Edges/Pac_for_Edges.dict -- data/linux/processed-challenges/Pac_for_Edges/bin/Pac_for_Edges\n'
+p97
+I0
+tp98
+a(I5880
+S'start_time     : 1500057796\nlast_update    : 1500063626\nfuzzer_pid     : 25516\ncycles_done    : 0\nexecs_done     : 2100422\nexecs_per_sec  : 330.20\npaths_total    : 188\npaths_favored  : 49\npaths_found    : 187\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 130\npending_favs   : 18\npending_total  : 143\nvariable_paths : 0\nbitmap_cvg     : 0.78%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500063617\nlast_crash     : 0\nlast_hang      : 1500063116\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Pac_for_Edges/input -o /dev/shm/work/Pac_for_Edges/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Pac_for_Edges/Pac_for_Edges.dict -- data/linux/processed-challenges/Pac_for_Edges/bin/Pac_for_Edges\n'
+p99
+I1
+tp100
+a(I6000
+S'start_time     : 1500057796\nlast_update    : 1500063746\nfuzzer_pid     : 25516\ncycles_done    : 0\nexecs_done     : 2155749\nexecs_per_sec  : 508.30\npaths_total    : 191\npaths_favored  : 49\npaths_found    : 190\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 137\npending_favs   : 16\npending_total  : 144\nvariable_paths : 0\nbitmap_cvg     : 0.79%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500063727\nlast_crash     : 0\nlast_hang      : 1500063116\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Pac_for_Edges/input -o /dev/shm/work/Pac_for_Edges/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Pac_for_Edges/Pac_for_Edges.dict -- data/linux/processed-challenges/Pac_for_Edges/bin/Pac_for_Edges\n'
+p101
+I4
+tp102
+a(I6120
+S'start_time     : 1500057796\nlast_update    : 1500063867\nfuzzer_pid     : 25516\ncycles_done    : 0\nexecs_done     : 2218909\nexecs_per_sec  : 530.08\npaths_total    : 194\npaths_favored  : 49\npaths_found    : 193\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 137\npending_favs   : 16\npending_total  : 147\nvariable_paths : 0\nbitmap_cvg     : 0.79%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500063843\nlast_crash     : 0\nlast_hang      : 1500063116\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Pac_for_Edges/input -o /dev/shm/work/Pac_for_Edges/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Pac_for_Edges/Pac_for_Edges.dict -- data/linux/processed-challenges/Pac_for_Edges/bin/Pac_for_Edges\n'
+p103
+I2
+tp104
+a(I6240
+S'start_time     : 1500057796\nlast_update    : 1500063987\nfuzzer_pid     : 25516\ncycles_done    : 0\nexecs_done     : 2280265\nexecs_per_sec  : 500.87\npaths_total    : 195\npaths_favored  : 49\npaths_found    : 194\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 137\npending_favs   : 16\npending_total  : 148\nvariable_paths : 0\nbitmap_cvg     : 0.79%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500063963\nlast_crash     : 0\nlast_hang      : 1500063116\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Pac_for_Edges/input -o /dev/shm/work/Pac_for_Edges/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Pac_for_Edges/Pac_for_Edges.dict -- data/linux/processed-challenges/Pac_for_Edges/bin/Pac_for_Edges\n'
+p105
+I4
+tp106
+a(I6360
+S'start_time     : 1500057796\nlast_update    : 1500064107\nfuzzer_pid     : 25516\ncycles_done    : 0\nexecs_done     : 2323451\nexecs_per_sec  : 375.51\npaths_total    : 202\npaths_favored  : 52\npaths_found    : 201\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 139\npending_favs   : 18\npending_total  : 154\nvariable_paths : 0\nbitmap_cvg     : 0.79%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500064107\nlast_crash     : 0\nlast_hang      : 1500063116\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Pac_for_Edges/input -o /dev/shm/work/Pac_for_Edges/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Pac_for_Edges/Pac_for_Edges.dict -- data/linux/processed-challenges/Pac_for_Edges/bin/Pac_for_Edges\n'
+p107
+I6
+tp108
+a(I6480
+S'start_time     : 1500057796\nlast_update    : 1500064227\nfuzzer_pid     : 25516\ncycles_done    : 0\nexecs_done     : 2368670\nexecs_per_sec  : 374.06\npaths_total    : 204\npaths_favored  : 52\npaths_found    : 203\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 139\npending_favs   : 18\npending_total  : 156\nvariable_paths : 0\nbitmap_cvg     : 0.79%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500064146\nlast_crash     : 0\nlast_hang      : 1500063116\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Pac_for_Edges/input -o /dev/shm/work/Pac_for_Edges/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Pac_for_Edges/Pac_for_Edges.dict -- data/linux/processed-challenges/Pac_for_Edges/bin/Pac_for_Edges\n'
+p109
+I0
+tp110
+a(I6600
+S'start_time     : 1500057796\nlast_update    : 1500064347\nfuzzer_pid     : 25516\ncycles_done    : 0\nexecs_done     : 2414261\nexecs_per_sec  : 385.74\npaths_total    : 204\npaths_favored  : 52\npaths_found    : 203\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 139\npending_favs   : 18\npending_total  : 156\nvariable_paths : 0\nbitmap_cvg     : 0.79%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500064146\nlast_crash     : 0\nlast_hang      : 1500063116\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Pac_for_Edges/input -o /dev/shm/work/Pac_for_Edges/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Pac_for_Edges/Pac_for_Edges.dict -- data/linux/processed-challenges/Pac_for_Edges/bin/Pac_for_Edges\n'
+p111
+I0
+tp112
+a(I6720
+S'start_time     : 1500057796\nlast_update    : 1500064468\nfuzzer_pid     : 25516\ncycles_done    : 0\nexecs_done     : 2459673\nexecs_per_sec  : 455.92\npaths_total    : 205\npaths_favored  : 54\npaths_found    : 204\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 147\npending_favs   : 19\npending_total  : 156\nvariable_paths : 0\nbitmap_cvg     : 0.79%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500064424\nlast_crash     : 0\nlast_hang      : 1500063116\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Pac_for_Edges/input -o /dev/shm/work/Pac_for_Edges/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Pac_for_Edges/Pac_for_Edges.dict -- data/linux/processed-challenges/Pac_for_Edges/bin/Pac_for_Edges\n'
+p113
+I1
+tp114
+a(I6840
+S'start_time     : 1500057796\nlast_update    : 1500064588\nfuzzer_pid     : 25516\ncycles_done    : 0\nexecs_done     : 2498068\nexecs_per_sec  : 251.63\npaths_total    : 206\npaths_favored  : 54\npaths_found    : 205\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 155\npending_favs   : 17\npending_total  : 155\nvariable_paths : 0\nbitmap_cvg     : 0.79%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500064588\nlast_crash     : 0\nlast_hang      : 1500063116\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Pac_for_Edges/input -o /dev/shm/work/Pac_for_Edges/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Pac_for_Edges/Pac_for_Edges.dict -- data/linux/processed-challenges/Pac_for_Edges/bin/Pac_for_Edges\n'
+p115
+I3
+tp116
+a(I6960
+S'start_time     : 1500057796\nlast_update    : 1500064708\nfuzzer_pid     : 25516\ncycles_done    : 0\nexecs_done     : 2536820\nexecs_per_sec  : 320.02\npaths_total    : 209\npaths_favored  : 54\npaths_found    : 208\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 155\npending_favs   : 17\npending_total  : 158\nvariable_paths : 0\nbitmap_cvg     : 0.79%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500064652\nlast_crash     : 0\nlast_hang      : 1500063116\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Pac_for_Edges/input -o /dev/shm/work/Pac_for_Edges/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Pac_for_Edges/Pac_for_Edges.dict -- data/linux/processed-challenges/Pac_for_Edges/bin/Pac_for_Edges\n'
+p117
+I1
+tp118
+a(I7080
+S'start_time     : 1500057796\nlast_update    : 1500064828\nfuzzer_pid     : 25516\ncycles_done    : 0\nexecs_done     : 2575028\nexecs_per_sec  : 306.82\npaths_total    : 209\npaths_favored  : 54\npaths_found    : 208\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 155\npending_favs   : 17\npending_total  : 158\nvariable_paths : 0\nbitmap_cvg     : 0.79%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500064652\nlast_crash     : 0\nlast_hang      : 1500063116\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Pac_for_Edges/input -o /dev/shm/work/Pac_for_Edges/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Pac_for_Edges/Pac_for_Edges.dict -- data/linux/processed-challenges/Pac_for_Edges/bin/Pac_for_Edges\n'
+p119
+I0
+tp120
+a(I7200
+S'start_time     : 1500057796\nlast_update    : 1500064948\nfuzzer_pid     : 25516\ncycles_done    : 0\nexecs_done     : 2613680\nexecs_per_sec  : 318.87\npaths_total    : 209\npaths_favored  : 54\npaths_found    : 208\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 155\npending_favs   : 17\npending_total  : 158\nvariable_paths : 0\nbitmap_cvg     : 0.79%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500064652\nlast_crash     : 0\nlast_hang      : 1500063116\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Pac_for_Edges/input -o /dev/shm/work/Pac_for_Edges/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Pac_for_Edges/Pac_for_Edges.dict -- data/linux/processed-challenges/Pac_for_Edges/bin/Pac_for_Edges\n'
+p121
+I0
+tp122
+a(I7320
+S'start_time     : 1500057796\nlast_update    : 1500065069\nfuzzer_pid     : 25516\ncycles_done    : 0\nexecs_done     : 2652380\nexecs_per_sec  : 324.90\npaths_total    : 209\npaths_favored  : 54\npaths_found    : 208\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 155\npending_favs   : 17\npending_total  : 158\nvariable_paths : 0\nbitmap_cvg     : 0.79%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500064652\nlast_crash     : 0\nlast_hang      : 1500063116\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Pac_for_Edges/input -o /dev/shm/work/Pac_for_Edges/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Pac_for_Edges/Pac_for_Edges.dict -- data/linux/processed-challenges/Pac_for_Edges/bin/Pac_for_Edges\n'
+p123
+I1
+tp124
+a(I7440
+S'start_time     : 1500057796\nlast_update    : 1500065189\nfuzzer_pid     : 25516\ncycles_done    : 0\nexecs_done     : 2689854\nexecs_per_sec  : 280.47\npaths_total    : 210\npaths_favored  : 55\npaths_found    : 209\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 157\npending_favs   : 16\npending_total  : 157\nvariable_paths : 0\nbitmap_cvg     : 0.79%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500065079\nlast_crash     : 0\nlast_hang      : 1500063116\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Pac_for_Edges/input -o /dev/shm/work/Pac_for_Edges/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Pac_for_Edges/Pac_for_Edges.dict -- data/linux/processed-challenges/Pac_for_Edges/bin/Pac_for_Edges\n'
+p125
+I0
+tp126
+a(I7560
+S'start_time     : 1500057796\nlast_update    : 1500065309\nfuzzer_pid     : 25516\ncycles_done    : 0\nexecs_done     : 2731064\nexecs_per_sec  : 429.50\npaths_total    : 210\npaths_favored  : 55\npaths_found    : 209\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 160\npending_favs   : 14\npending_total  : 155\nvariable_paths : 0\nbitmap_cvg     : 0.79%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500065079\nlast_crash     : 0\nlast_hang      : 1500065271\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Pac_for_Edges/input -o /dev/shm/work/Pac_for_Edges/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Pac_for_Edges/Pac_for_Edges.dict -- data/linux/processed-challenges/Pac_for_Edges/bin/Pac_for_Edges\n'
+p127
+I0
+tp128
+a(I7680
+S'start_time     : 1500057796\nlast_update    : 1500065429\nfuzzer_pid     : 25516\ncycles_done    : 0\nexecs_done     : 2770478\nexecs_per_sec  : 404.02\npaths_total    : 210\npaths_favored  : 55\npaths_found    : 209\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 163\npending_favs   : 12\npending_total  : 153\nvariable_paths : 0\nbitmap_cvg     : 0.79%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500065079\nlast_crash     : 0\nlast_hang      : 1500065271\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Pac_for_Edges/input -o /dev/shm/work/Pac_for_Edges/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Pac_for_Edges/Pac_for_Edges.dict -- data/linux/processed-challenges/Pac_for_Edges/bin/Pac_for_Edges\n'
+p129
+I1
+tp130
+a(I7800
+S'start_time     : 1500057796\nlast_update    : 1500065550\nfuzzer_pid     : 25516\ncycles_done    : 0\nexecs_done     : 2816226\nexecs_per_sec  : 318.17\npaths_total    : 212\npaths_favored  : 55\npaths_found    : 211\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 176\npending_favs   : 9\npending_total  : 152\nvariable_paths : 0\nbitmap_cvg     : 0.79%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500065540\nlast_crash     : 0\nlast_hang      : 1500065271\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Pac_for_Edges/input -o /dev/shm/work/Pac_for_Edges/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Pac_for_Edges/Pac_for_Edges.dict -- data/linux/processed-challenges/Pac_for_Edges/bin/Pac_for_Edges\n'
+p131
+I1
+tp132
+a(I7920
+S'start_time     : 1500057796\nlast_update    : 1500065670\nfuzzer_pid     : 25516\ncycles_done    : 0\nexecs_done     : 2854753\nexecs_per_sec  : 371.60\npaths_total    : 213\npaths_favored  : 56\npaths_found    : 212\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 181\npending_favs   : 9\npending_total  : 152\nvariable_paths : 0\nbitmap_cvg     : 0.79%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500065645\nlast_crash     : 0\nlast_hang      : 1500065271\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Pac_for_Edges/input -o /dev/shm/work/Pac_for_Edges/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Pac_for_Edges/Pac_for_Edges.dict -- data/linux/processed-challenges/Pac_for_Edges/bin/Pac_for_Edges\n'
+p133
+I1
+tp134
+a(I8040
+S'start_time     : 1500057796\nlast_update    : 1500065790\nfuzzer_pid     : 25516\ncycles_done    : 0\nexecs_done     : 2880216\nexecs_per_sec  : 165.44\npaths_total    : 214\npaths_favored  : 56\npaths_found    : 213\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 184\npending_favs   : 8\npending_total  : 152\nvariable_paths : 0\nbitmap_cvg     : 0.79%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500065741\nlast_crash     : 0\nlast_hang      : 1500065271\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Pac_for_Edges/input -o /dev/shm/work/Pac_for_Edges/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Pac_for_Edges/Pac_for_Edges.dict -- data/linux/processed-challenges/Pac_for_Edges/bin/Pac_for_Edges\n'
+p135
+I1
+tp136
+a(I8160
+S'start_time     : 1500057796\nlast_update    : 1500065910\nfuzzer_pid     : 25516\ncycles_done    : 0\nexecs_done     : 2918495\nexecs_per_sec  : 474.48\npaths_total    : 216\npaths_favored  : 56\npaths_found    : 215\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 188\npending_favs   : 7\npending_total  : 153\nvariable_paths : 0\nbitmap_cvg     : 0.79%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500065890\nlast_crash     : 0\nlast_hang      : 1500065271\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Pac_for_Edges/input -o /dev/shm/work/Pac_for_Edges/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Pac_for_Edges/Pac_for_Edges.dict -- data/linux/processed-challenges/Pac_for_Edges/bin/Pac_for_Edges\n'
+p137
+I2
+tp138
+a(I8280
+S'start_time     : 1500057796\nlast_update    : 1500066030\nfuzzer_pid     : 25516\ncycles_done    : 0\nexecs_done     : 2967135\nexecs_per_sec  : 425.47\npaths_total    : 216\npaths_favored  : 57\npaths_found    : 215\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 192\npending_favs   : 6\npending_total  : 151\nvariable_paths : 0\nbitmap_cvg     : 0.79%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500065890\nlast_crash     : 0\nlast_hang      : 1500065271\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Pac_for_Edges/input -o /dev/shm/work/Pac_for_Edges/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Pac_for_Edges/Pac_for_Edges.dict -- data/linux/processed-challenges/Pac_for_Edges/bin/Pac_for_Edges\n'
+p139
+I0
+tp140
+a(I8400
+S'start_time     : 1500057796\nlast_update    : 1500066150\nfuzzer_pid     : 25516\ncycles_done    : 0\nexecs_done     : 3007894\nexecs_per_sec  : 282.60\npaths_total    : 216\npaths_favored  : 57\npaths_found    : 215\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 201\npending_favs   : 4\npending_total  : 149\nvariable_paths : 0\nbitmap_cvg     : 0.79%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500065890\nlast_crash     : 0\nlast_hang      : 1500065271\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Pac_for_Edges/input -o /dev/shm/work/Pac_for_Edges/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Pac_for_Edges/Pac_for_Edges.dict -- data/linux/processed-challenges/Pac_for_Edges/bin/Pac_for_Edges\n'
+p141
+I1
+tp142
+a(I8520
+S'start_time     : 1500057796\nlast_update    : 1500066271\nfuzzer_pid     : 25516\ncycles_done    : 0\nexecs_done     : 3045917\nexecs_per_sec  : 335.78\npaths_total    : 217\npaths_favored  : 58\npaths_found    : 216\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 208\npending_favs   : 4\npending_total  : 149\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500066159\nlast_crash     : 0\nlast_hang      : 1500065271\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Pac_for_Edges/input -o /dev/shm/work/Pac_for_Edges/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Pac_for_Edges/Pac_for_Edges.dict -- data/linux/processed-challenges/Pac_for_Edges/bin/Pac_for_Edges\n'
+p143
+I1
+tp144
+a(I8640
+S'start_time     : 1500057796\nlast_update    : 1500066391\nfuzzer_pid     : 25516\ncycles_done    : 0\nexecs_done     : 3086011\nexecs_per_sec  : 295.62\npaths_total    : 218\npaths_favored  : 59\npaths_found    : 217\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 214\npending_favs   : 3\npending_total  : 148\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500066297\nlast_crash     : 0\nlast_hang      : 1500065271\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Pac_for_Edges/input -o /dev/shm/work/Pac_for_Edges/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Pac_for_Edges/Pac_for_Edges.dict -- data/linux/processed-challenges/Pac_for_Edges/bin/Pac_for_Edges\n'
+p145
+I2
+tp146
+a(I8760
+S'start_time     : 1500057796\nlast_update    : 1500066511\nfuzzer_pid     : 25516\ncycles_done    : 0\nexecs_done     : 3129822\nexecs_per_sec  : 282.45\npaths_total    : 220\npaths_favored  : 61\npaths_found    : 219\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 216\npending_favs   : 4\npending_total  : 149\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500066408\nlast_crash     : 0\nlast_hang      : 1500065271\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Pac_for_Edges/input -o /dev/shm/work/Pac_for_Edges/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Pac_for_Edges/Pac_for_Edges.dict -- data/linux/processed-challenges/Pac_for_Edges/bin/Pac_for_Edges\n'
+p147
+I0
+tp148
+a(I8880
+S'start_time     : 1500057796\nlast_update    : 1500066631\nfuzzer_pid     : 25516\ncycles_done    : 0\nexecs_done     : 3164809\nexecs_per_sec  : 297.97\npaths_total    : 220\npaths_favored  : 61\npaths_found    : 219\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 217\npending_favs   : 3\npending_total  : 148\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500066408\nlast_crash     : 0\nlast_hang      : 1500066578\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Pac_for_Edges/input -o /dev/shm/work/Pac_for_Edges/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Pac_for_Edges/Pac_for_Edges.dict -- data/linux/processed-challenges/Pac_for_Edges/bin/Pac_for_Edges\n'
+p149
+I0
+tp150
+a(I9000
+S'start_time     : 1500057796\nlast_update    : 1500066751\nfuzzer_pid     : 25516\ncycles_done    : 0\nexecs_done     : 3199777\nexecs_per_sec  : 325.04\npaths_total    : 223\npaths_favored  : 61\npaths_found    : 222\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 218\npending_favs   : 2\npending_total  : 150\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500066738\nlast_crash     : 0\nlast_hang      : 1500066578\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Pac_for_Edges/input -o /dev/shm/work/Pac_for_Edges/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Pac_for_Edges/Pac_for_Edges.dict -- data/linux/processed-challenges/Pac_for_Edges/bin/Pac_for_Edges\n'
+p151
+I3
+tp152
+a(I9120
+S'start_time     : 1500057796\nlast_update    : 1500066872\nfuzzer_pid     : 25516\ncycles_done    : 0\nexecs_done     : 3238471\nexecs_per_sec  : 323.09\npaths_total    : 223\npaths_favored  : 61\npaths_found    : 222\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 218\npending_favs   : 2\npending_total  : 150\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500066738\nlast_crash     : 0\nlast_hang      : 1500066578\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Pac_for_Edges/input -o /dev/shm/work/Pac_for_Edges/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Pac_for_Edges/Pac_for_Edges.dict -- data/linux/processed-challenges/Pac_for_Edges/bin/Pac_for_Edges\n'
+p153
+I0
+tp154
+a(I9240
+S'start_time     : 1500057796\nlast_update    : 1500066992\nfuzzer_pid     : 25516\ncycles_done    : 0\nexecs_done     : 3275670\nexecs_per_sec  : 278.60\npaths_total    : 223\npaths_favored  : 61\npaths_found    : 222\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 219\npending_favs   : 1\npending_total  : 149\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500066738\nlast_crash     : 0\nlast_hang      : 1500066578\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Pac_for_Edges/input -o /dev/shm/work/Pac_for_Edges/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Pac_for_Edges/Pac_for_Edges.dict -- data/linux/processed-challenges/Pac_for_Edges/bin/Pac_for_Edges\n'
+p155
+I0
+tp156
+a(I9360
+S'start_time     : 1500057796\nlast_update    : 1500067112\nfuzzer_pid     : 25516\ncycles_done    : 1\nexecs_done     : 3325561\nexecs_per_sec  : 412.44\npaths_total    : 223\npaths_favored  : 61\npaths_found    : 222\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 10\npending_favs   : 0\npending_total  : 146\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500066738\nlast_crash     : 0\nlast_hang      : 1500066578\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Pac_for_Edges/input -o /dev/shm/work/Pac_for_Edges/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Pac_for_Edges/Pac_for_Edges.dict -- data/linux/processed-challenges/Pac_for_Edges/bin/Pac_for_Edges\n'
+p157
+I0
+tp158
+a(I9480
+S'start_time     : 1500057796\nlast_update    : 1500067232\nfuzzer_pid     : 25516\ncycles_done    : 1\nexecs_done     : 3367153\nexecs_per_sec  : 206.60\npaths_total    : 223\npaths_favored  : 61\npaths_found    : 222\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 21\npending_favs   : 0\npending_total  : 143\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500066738\nlast_crash     : 0\nlast_hang      : 1500066578\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Pac_for_Edges/input -o /dev/shm/work/Pac_for_Edges/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Pac_for_Edges/Pac_for_Edges.dict -- data/linux/processed-challenges/Pac_for_Edges/bin/Pac_for_Edges\n'
+p159
+I1
+tp160
+a(I9600
+S'start_time     : 1500057796\nlast_update    : 1500067352\nfuzzer_pid     : 25516\ncycles_done    : 1\nexecs_done     : 3393945\nexecs_per_sec  : 296.61\npaths_total    : 226\npaths_favored  : 61\npaths_found    : 225\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 22\npending_favs   : 0\npending_total  : 145\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 6\nlast_path      : 1500067338\nlast_crash     : 0\nlast_hang      : 1500067273\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Pac_for_Edges/input -o /dev/shm/work/Pac_for_Edges/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Pac_for_Edges/Pac_for_Edges.dict -- data/linux/processed-challenges/Pac_for_Edges/bin/Pac_for_Edges\n'
+p161
+I2
+tp162
+a(I9720
+S'start_time     : 1500057796\nlast_update    : 1500067473\nfuzzer_pid     : 25516\ncycles_done    : 1\nexecs_done     : 3439101\nexecs_per_sec  : 508.74\npaths_total    : 226\npaths_favored  : 61\npaths_found    : 225\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 36\npending_favs   : 0\npending_total  : 142\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 6\nlast_path      : 1500067338\nlast_crash     : 0\nlast_hang      : 1500067273\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Pac_for_Edges/input -o /dev/shm/work/Pac_for_Edges/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Pac_for_Edges/Pac_for_Edges.dict -- data/linux/processed-challenges/Pac_for_Edges/bin/Pac_for_Edges\n'
+p163
+I0
+tp164
+a(I9840
+S'start_time     : 1500057796\nlast_update    : 1500067593\nfuzzer_pid     : 25516\ncycles_done    : 1\nexecs_done     : 3470191\nexecs_per_sec  : 142.29\npaths_total    : 226\npaths_favored  : 61\npaths_found    : 225\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 46\npending_favs   : 0\npending_total  : 141\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 6\nlast_path      : 1500067338\nlast_crash     : 0\nlast_hang      : 1500067273\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Pac_for_Edges/input -o /dev/shm/work/Pac_for_Edges/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Pac_for_Edges/Pac_for_Edges.dict -- data/linux/processed-challenges/Pac_for_Edges/bin/Pac_for_Edges\n'
+p165
+I0
+tp166
+a(I9960
+S'start_time     : 1500057796\nlast_update    : 1500067713\nfuzzer_pid     : 25516\ncycles_done    : 1\nexecs_done     : 3492887\nexecs_per_sec  : 147.90\npaths_total    : 226\npaths_favored  : 61\npaths_found    : 225\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 55\npending_favs   : 0\npending_total  : 140\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 7\nlast_path      : 1500067338\nlast_crash     : 0\nlast_hang      : 1500067660\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Pac_for_Edges/input -o /dev/shm/work/Pac_for_Edges/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Pac_for_Edges/Pac_for_Edges.dict -- data/linux/processed-challenges/Pac_for_Edges/bin/Pac_for_Edges\n'
+p167
+I1
+tp168
+a(I10080
+S'start_time     : 1500057796\nlast_update    : 1500067833\nfuzzer_pid     : 25516\ncycles_done    : 1\nexecs_done     : 3524392\nexecs_per_sec  : 224.34\npaths_total    : 228\npaths_favored  : 62\npaths_found    : 227\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 226\npending_favs   : 1\npending_total  : 140\nvariable_paths : 0\nbitmap_cvg     : 0.81%\nunique_crashes : 0\nunique_hangs   : 8\nlast_path      : 1500067809\nlast_crash     : 0\nlast_hang      : 1500067741\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Pac_for_Edges/input -o /dev/shm/work/Pac_for_Edges/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Pac_for_Edges/Pac_for_Edges.dict -- data/linux/processed-challenges/Pac_for_Edges/bin/Pac_for_Edges\n'
+p169
+I9
+tp170
+a(I10200
+S'start_time     : 1500057796\nlast_update    : 1500067953\nfuzzer_pid     : 25516\ncycles_done    : 1\nexecs_done     : 3553112\nexecs_per_sec  : 252.19\npaths_total    : 238\npaths_favored  : 62\npaths_found    : 237\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 226\npending_favs   : 1\npending_total  : 150\nvariable_paths : 0\nbitmap_cvg     : 0.82%\nunique_crashes : 0\nunique_hangs   : 10\nlast_path      : 1500067930\nlast_crash     : 0\nlast_hang      : 1500067950\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Pac_for_Edges/input -o /dev/shm/work/Pac_for_Edges/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Pac_for_Edges/Pac_for_Edges.dict -- data/linux/processed-challenges/Pac_for_Edges/bin/Pac_for_Edges\n'
+p171
+I2
+tp172
+a(I10320
+S'start_time     : 1500057796\nlast_update    : 1500068074\nfuzzer_pid     : 25516\ncycles_done    : 1\nexecs_done     : 3583487\nexecs_per_sec  : 255.30\npaths_total    : 238\npaths_favored  : 62\npaths_found    : 237\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 226\npending_favs   : 1\npending_total  : 150\nvariable_paths : 0\nbitmap_cvg     : 0.82%\nunique_crashes : 0\nunique_hangs   : 10\nlast_path      : 1500067930\nlast_crash     : 0\nlast_hang      : 1500067950\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Pac_for_Edges/input -o /dev/shm/work/Pac_for_Edges/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Pac_for_Edges/Pac_for_Edges.dict -- data/linux/processed-challenges/Pac_for_Edges/bin/Pac_for_Edges\n'
+p173
+I0
+tp174
+a(I10440
+S'start_time     : 1500057796\nlast_update    : 1500068194\nfuzzer_pid     : 25516\ncycles_done    : 1\nexecs_done     : 3613957\nexecs_per_sec  : 258.44\npaths_total    : 239\npaths_favored  : 62\npaths_found    : 238\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 226\npending_favs   : 1\npending_total  : 151\nvariable_paths : 0\nbitmap_cvg     : 0.82%\nunique_crashes : 0\nunique_hangs   : 10\nlast_path      : 1500068192\nlast_crash     : 0\nlast_hang      : 1500067950\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Pac_for_Edges/input -o /dev/shm/work/Pac_for_Edges/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Pac_for_Edges/Pac_for_Edges.dict -- data/linux/processed-challenges/Pac_for_Edges/bin/Pac_for_Edges\n'
+p175
+I1
+tp176
+a(I10560
+S'start_time     : 1500057796\nlast_update    : 1500068314\nfuzzer_pid     : 25516\ncycles_done    : 1\nexecs_done     : 3644212\nexecs_per_sec  : 261.43\npaths_total    : 239\npaths_favored  : 62\npaths_found    : 238\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 226\npending_favs   : 1\npending_total  : 151\nvariable_paths : 0\nbitmap_cvg     : 0.82%\nunique_crashes : 0\nunique_hangs   : 11\nlast_path      : 1500068192\nlast_crash     : 0\nlast_hang      : 1500068215\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Pac_for_Edges/input -o /dev/shm/work/Pac_for_Edges/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Pac_for_Edges/Pac_for_Edges.dict -- data/linux/processed-challenges/Pac_for_Edges/bin/Pac_for_Edges\n'
+p177
+I1
+tp178
+a(I10680
+S'start_time     : 1500057796\nlast_update    : 1500068434\nfuzzer_pid     : 25516\ncycles_done    : 1\nexecs_done     : 3675282\nexecs_per_sec  : 258.42\npaths_total    : 240\npaths_favored  : 62\npaths_found    : 239\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 226\npending_favs   : 1\npending_total  : 152\nvariable_paths : 0\nbitmap_cvg     : 0.82%\nunique_crashes : 0\nunique_hangs   : 12\nlast_path      : 1500068324\nlast_crash     : 0\nlast_hang      : 1500068340\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Pac_for_Edges/input -o /dev/shm/work/Pac_for_Edges/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Pac_for_Edges/Pac_for_Edges.dict -- data/linux/processed-challenges/Pac_for_Edges/bin/Pac_for_Edges\n'
+p179
+I1
+tp180
+a.

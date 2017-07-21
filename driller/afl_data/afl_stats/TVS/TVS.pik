@@ -1,0 +1,452 @@
+(lp0
+(I0
+S'start_time     : 1500263591\nlast_update    : 1500263591\nfuzzer_pid     : 11001\ncycles_done    : 0\nexecs_done     : 10\nexecs_per_sec  : 208.33\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 1\npending_total  : 1\nvariable_paths : 0\nbitmap_cvg     : 0.12%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/TVS/input -o /dev/shm/work/TVS/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/TVS/TVS.dict -- data/linux/processed-challenges/TVS/bin/TVS\n'
+p1
+I9
+tp2
+a(I120
+S'start_time     : 1500263591\nlast_update    : 1500263711\nfuzzer_pid     : 11001\ncycles_done    : 0\nexecs_done     : 116644\nexecs_per_sec  : 973.17\npaths_total    : 22\npaths_favored  : 1\npaths_found    : 21\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 1\npending_total  : 22\nvariable_paths : 0\nbitmap_cvg     : 0.24%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500263709\nlast_crash     : 0\nlast_hang      : 1500263641\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/TVS/input -o /dev/shm/work/TVS/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/TVS/TVS.dict -- data/linux/processed-challenges/TVS/bin/TVS\n'
+p3
+I14
+tp4
+a(I240
+S'start_time     : 1500263591\nlast_update    : 1500263831\nfuzzer_pid     : 11001\ncycles_done    : 0\nexecs_done     : 231883\nexecs_per_sec  : 933.17\npaths_total    : 35\npaths_favored  : 12\npaths_found    : 34\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 9\npending_favs   : 10\npending_total  : 32\nvariable_paths : 0\nbitmap_cvg     : 0.29%\nunique_crashes : 0\nunique_hangs   : 8\nlast_path      : 1500263831\nlast_crash     : 0\nlast_hang      : 1500263814\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/TVS/input -o /dev/shm/work/TVS/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/TVS/TVS.dict -- data/linux/processed-challenges/TVS/bin/TVS\n'
+p5
+I13
+tp6
+a(I360
+S'start_time     : 1500263591\nlast_update    : 1500263951\nfuzzer_pid     : 11001\ncycles_done    : 0\nexecs_done     : 344239\nexecs_per_sec  : 940.21\npaths_total    : 41\npaths_favored  : 16\npaths_found    : 40\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 15\npending_favs   : 13\npending_total  : 36\nvariable_paths : 0\nbitmap_cvg     : 0.31%\nunique_crashes : 0\nunique_hangs   : 10\nlast_path      : 1500263949\nlast_crash     : 0\nlast_hang      : 1500263844\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/TVS/input -o /dev/shm/work/TVS/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/TVS/TVS.dict -- data/linux/processed-challenges/TVS/bin/TVS\n'
+p7
+I5
+tp8
+a(I480
+S'start_time     : 1500263591\nlast_update    : 1500264071\nfuzzer_pid     : 11001\ncycles_done    : 0\nexecs_done     : 433029\nexecs_per_sec  : 804.95\npaths_total    : 49\npaths_favored  : 19\npaths_found    : 48\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 33\npending_favs   : 9\npending_total  : 37\nvariable_paths : 0\nbitmap_cvg     : 0.38%\nunique_crashes : 0\nunique_hangs   : 13\nlast_path      : 1500264071\nlast_crash     : 0\nlast_hang      : 1500263997\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/TVS/input -o /dev/shm/work/TVS/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/TVS/TVS.dict -- data/linux/processed-challenges/TVS/bin/TVS\n'
+p9
+I8
+tp10
+a(I600
+S'start_time     : 1500263591\nlast_update    : 1500264192\nfuzzer_pid     : 11001\ncycles_done    : 0\nexecs_done     : 522895\nexecs_per_sec  : 769.20\npaths_total    : 58\npaths_favored  : 20\npaths_found    : 57\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 34\npending_favs   : 10\npending_total  : 45\nvariable_paths : 0\nbitmap_cvg     : 0.44%\nunique_crashes : 0\nunique_hangs   : 18\nlast_path      : 1500264187\nlast_crash     : 0\nlast_hang      : 1500264190\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/TVS/input -o /dev/shm/work/TVS/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/TVS/TVS.dict -- data/linux/processed-challenges/TVS/bin/TVS\n'
+p11
+I9
+tp12
+a(I720
+S'start_time     : 1500263591\nlast_update    : 1500264312\nfuzzer_pid     : 11001\ncycles_done    : 0\nexecs_done     : 610913\nexecs_per_sec  : 557.47\npaths_total    : 67\npaths_favored  : 29\npaths_found    : 66\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 43\npending_favs   : 18\npending_total  : 50\nvariable_paths : 0\nbitmap_cvg     : 0.48%\nunique_crashes : 1\nunique_hangs   : 21\nlast_path      : 1500264311\nlast_crash     : 1500264311\nlast_hang      : 1500264311\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/TVS/input -o /dev/shm/work/TVS/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/TVS/TVS.dict -- data/linux/processed-challenges/TVS/bin/TVS\n'
+p13
+I11
+tp14
+a(I840
+S'start_time     : 1500263591\nlast_update    : 1500264432\nfuzzer_pid     : 11001\ncycles_done    : 0\nexecs_done     : 686390\nexecs_per_sec  : 646.34\npaths_total    : 77\npaths_favored  : 29\npaths_found    : 76\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 43\npending_favs   : 18\npending_total  : 60\nvariable_paths : 0\nbitmap_cvg     : 0.53%\nunique_crashes : 1\nunique_hangs   : 25\nlast_path      : 1500264431\nlast_crash     : 1500264311\nlast_hang      : 1500264414\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/TVS/input -o /dev/shm/work/TVS/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/TVS/TVS.dict -- data/linux/processed-challenges/TVS/bin/TVS\n'
+p15
+I8
+tp16
+a(I960
+S'start_time     : 1500263591\nlast_update    : 1500264552\nfuzzer_pid     : 11001\ncycles_done    : 0\nexecs_done     : 755086\nexecs_per_sec  : 787.52\npaths_total    : 79\npaths_favored  : 33\npaths_found    : 78\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 49\npending_favs   : 21\npending_total  : 59\nvariable_paths : 0\nbitmap_cvg     : 0.53%\nunique_crashes : 1\nunique_hangs   : 27\nlast_path      : 1500264519\nlast_crash     : 1500264311\nlast_hang      : 1500264524\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/TVS/input -o /dev/shm/work/TVS/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/TVS/TVS.dict -- data/linux/processed-challenges/TVS/bin/TVS\n'
+p17
+I2
+tp18
+a(I1080
+S'start_time     : 1500263591\nlast_update    : 1500264673\nfuzzer_pid     : 11001\ncycles_done    : 0\nexecs_done     : 832993\nexecs_per_sec  : 742.85\npaths_total    : 88\npaths_favored  : 34\npaths_found    : 87\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 52\npending_favs   : 20\npending_total  : 66\nvariable_paths : 0\nbitmap_cvg     : 0.55%\nunique_crashes : 1\nunique_hangs   : 28\nlast_path      : 1500264658\nlast_crash     : 1500264311\nlast_hang      : 1500264592\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/TVS/input -o /dev/shm/work/TVS/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/TVS/TVS.dict -- data/linux/processed-challenges/TVS/bin/TVS\n'
+p19
+I9
+tp20
+a(I1200
+S'start_time     : 1500263591\nlast_update    : 1500264793\nfuzzer_pid     : 11001\ncycles_done    : 0\nexecs_done     : 916080\nexecs_per_sec  : 218.93\npaths_total    : 91\npaths_favored  : 39\npaths_found    : 90\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 53\npending_favs   : 24\npending_total  : 68\nvariable_paths : 0\nbitmap_cvg     : 0.55%\nunique_crashes : 1\nunique_hangs   : 31\nlast_path      : 1500264741\nlast_crash     : 1500264311\nlast_hang      : 1500264780\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/TVS/input -o /dev/shm/work/TVS/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/TVS/TVS.dict -- data/linux/processed-challenges/TVS/bin/TVS\n'
+p21
+I3
+tp22
+a(I1320
+S'start_time     : 1500263591\nlast_update    : 1500264913\nfuzzer_pid     : 11001\ncycles_done    : 0\nexecs_done     : 988114\nexecs_per_sec  : 634.09\npaths_total    : 94\npaths_favored  : 39\npaths_found    : 93\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 56\npending_favs   : 23\npending_total  : 70\nvariable_paths : 0\nbitmap_cvg     : 0.55%\nunique_crashes : 1\nunique_hangs   : 34\nlast_path      : 1500264877\nlast_crash     : 1500264311\nlast_hang      : 1500264871\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/TVS/input -o /dev/shm/work/TVS/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/TVS/TVS.dict -- data/linux/processed-challenges/TVS/bin/TVS\n'
+p23
+I3
+tp24
+a(I1440
+S'start_time     : 1500263591\nlast_update    : 1500265034\nfuzzer_pid     : 11001\ncycles_done    : 0\nexecs_done     : 1067752\nexecs_per_sec  : 731.20\npaths_total    : 99\npaths_favored  : 41\npaths_found    : 98\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 57\npending_favs   : 24\npending_total  : 74\nvariable_paths : 0\nbitmap_cvg     : 0.56%\nunique_crashes : 1\nunique_hangs   : 36\nlast_path      : 1500265024\nlast_crash     : 1500264311\nlast_hang      : 1500264956\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/TVS/input -o /dev/shm/work/TVS/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/TVS/TVS.dict -- data/linux/processed-challenges/TVS/bin/TVS\n'
+p25
+I6
+tp26
+a(I1560
+S'start_time     : 1500263591\nlast_update    : 1500265154\nfuzzer_pid     : 11001\ncycles_done    : 0\nexecs_done     : 1150381\nexecs_per_sec  : 801.70\npaths_total    : 101\npaths_favored  : 43\npaths_found    : 100\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 62\npending_favs   : 24\npending_total  : 73\nvariable_paths : 0\nbitmap_cvg     : 0.56%\nunique_crashes : 1\nunique_hangs   : 38\nlast_path      : 1500265138\nlast_crash     : 1500264311\nlast_hang      : 1500265059\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/TVS/input -o /dev/shm/work/TVS/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/TVS/TVS.dict -- data/linux/processed-challenges/TVS/bin/TVS\n'
+p27
+I1
+tp28
+a(I1680
+S'start_time     : 1500263591\nlast_update    : 1500265274\nfuzzer_pid     : 11001\ncycles_done    : 0\nexecs_done     : 1235726\nexecs_per_sec  : 887.75\npaths_total    : 105\npaths_favored  : 44\npaths_found    : 104\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 69\npending_favs   : 22\npending_total  : 73\nvariable_paths : 0\nbitmap_cvg     : 0.56%\nunique_crashes : 2\nunique_hangs   : 39\nlast_path      : 1500265265\nlast_crash     : 1500265264\nlast_hang      : 1500265240\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/TVS/input -o /dev/shm/work/TVS/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/TVS/TVS.dict -- data/linux/processed-challenges/TVS/bin/TVS\n'
+p29
+I4
+tp30
+a(I1800
+S'start_time     : 1500263591\nlast_update    : 1500265394\nfuzzer_pid     : 11001\ncycles_done    : 0\nexecs_done     : 1310066\nexecs_per_sec  : 764.61\npaths_total    : 110\npaths_favored  : 48\npaths_found    : 109\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 75\npending_favs   : 24\npending_total  : 74\nvariable_paths : 0\nbitmap_cvg     : 0.62%\nunique_crashes : 7\nunique_hangs   : 43\nlast_path      : 1500265297\nlast_crash     : 1500265344\nlast_hang      : 1500265337\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/TVS/input -o /dev/shm/work/TVS/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/TVS/TVS.dict -- data/linux/processed-challenges/TVS/bin/TVS\n'
+p31
+I5
+tp32
+a(I1920
+S'start_time     : 1500263591\nlast_update    : 1500265515\nfuzzer_pid     : 11001\ncycles_done    : 0\nexecs_done     : 1354535\nexecs_per_sec  : 630.61\npaths_total    : 110\npaths_favored  : 48\npaths_found    : 109\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 81\npending_favs   : 20\npending_total  : 70\nvariable_paths : 0\nbitmap_cvg     : 0.62%\nunique_crashes : 7\nunique_hangs   : 44\nlast_path      : 1500265297\nlast_crash     : 1500265344\nlast_hang      : 1500265416\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/TVS/input -o /dev/shm/work/TVS/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/TVS/TVS.dict -- data/linux/processed-challenges/TVS/bin/TVS\n'
+p33
+I0
+tp34
+a(I2040
+S'start_time     : 1500263591\nlast_update    : 1500265635\nfuzzer_pid     : 11001\ncycles_done    : 0\nexecs_done     : 1420842\nexecs_per_sec  : 475.97\npaths_total    : 113\npaths_favored  : 49\npaths_found    : 112\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 85\npending_favs   : 19\npending_total  : 71\nvariable_paths : 0\nbitmap_cvg     : 0.63%\nunique_crashes : 9\nunique_hangs   : 44\nlast_path      : 1500265630\nlast_crash     : 1500265611\nlast_hang      : 1500265416\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/TVS/input -o /dev/shm/work/TVS/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/TVS/TVS.dict -- data/linux/processed-challenges/TVS/bin/TVS\n'
+p35
+I3
+tp36
+a(I2160
+S'start_time     : 1500263591\nlast_update    : 1500265755\nfuzzer_pid     : 11001\ncycles_done    : 0\nexecs_done     : 1501277\nexecs_per_sec  : 681.39\npaths_total    : 118\npaths_favored  : 49\npaths_found    : 117\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 85\npending_favs   : 19\npending_total  : 76\nvariable_paths : 0\nbitmap_cvg     : 0.63%\nunique_crashes : 10\nunique_hangs   : 45\nlast_path      : 1500265739\nlast_crash     : 1500265693\nlast_hang      : 1500265669\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/TVS/input -o /dev/shm/work/TVS/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/TVS/TVS.dict -- data/linux/processed-challenges/TVS/bin/TVS\n'
+p37
+I5
+tp38
+a(I2280
+S'start_time     : 1500263591\nlast_update    : 1500265875\nfuzzer_pid     : 11001\ncycles_done    : 0\nexecs_done     : 1578583\nexecs_per_sec  : 696.85\npaths_total    : 120\npaths_favored  : 52\npaths_found    : 119\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 88\npending_favs   : 21\npending_total  : 77\nvariable_paths : 0\nbitmap_cvg     : 0.63%\nunique_crashes : 10\nunique_hangs   : 45\nlast_path      : 1500265845\nlast_crash     : 1500265693\nlast_hang      : 1500265669\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/TVS/input -o /dev/shm/work/TVS/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/TVS/TVS.dict -- data/linux/processed-challenges/TVS/bin/TVS\n'
+p39
+I2
+tp40
+a(I2400
+S'start_time     : 1500263591\nlast_update    : 1500265996\nfuzzer_pid     : 11001\ncycles_done    : 0\nexecs_done     : 1656266\nexecs_per_sec  : 334.84\npaths_total    : 123\npaths_favored  : 53\npaths_found    : 122\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 97\npending_favs   : 19\npending_total  : 77\nvariable_paths : 0\nbitmap_cvg     : 0.64%\nunique_crashes : 10\nunique_hangs   : 47\nlast_path      : 1500265986\nlast_crash     : 1500265693\nlast_hang      : 1500265982\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/TVS/input -o /dev/shm/work/TVS/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/TVS/TVS.dict -- data/linux/processed-challenges/TVS/bin/TVS\n'
+p41
+I3
+tp42
+a(I2520
+S'start_time     : 1500263591\nlast_update    : 1500266116\nfuzzer_pid     : 11001\ncycles_done    : 0\nexecs_done     : 1735821\nexecs_per_sec  : 678.74\npaths_total    : 127\npaths_favored  : 53\npaths_found    : 126\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 97\npending_favs   : 19\npending_total  : 81\nvariable_paths : 0\nbitmap_cvg     : 0.64%\nunique_crashes : 10\nunique_hangs   : 50\nlast_path      : 1500266045\nlast_crash     : 1500265693\nlast_hang      : 1500266052\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/TVS/input -o /dev/shm/work/TVS/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/TVS/TVS.dict -- data/linux/processed-challenges/TVS/bin/TVS\n'
+p43
+I4
+tp44
+a(I2640
+S'start_time     : 1500263591\nlast_update    : 1500266236\nfuzzer_pid     : 11001\ncycles_done    : 0\nexecs_done     : 1818290\nexecs_per_sec  : 674.73\npaths_total    : 128\npaths_favored  : 53\npaths_found    : 127\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 97\npending_favs   : 19\npending_total  : 82\nvariable_paths : 0\nbitmap_cvg     : 0.64%\nunique_crashes : 10\nunique_hangs   : 50\nlast_path      : 1500266132\nlast_crash     : 1500265693\nlast_hang      : 1500266052\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/TVS/input -o /dev/shm/work/TVS/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/TVS/TVS.dict -- data/linux/processed-challenges/TVS/bin/TVS\n'
+p45
+I1
+tp46
+a(I2760
+S'start_time     : 1500263591\nlast_update    : 1500266356\nfuzzer_pid     : 11001\ncycles_done    : 0\nexecs_done     : 1887542\nexecs_per_sec  : 804.71\npaths_total    : 129\npaths_favored  : 56\npaths_found    : 128\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 102\npending_favs   : 19\npending_total  : 78\nvariable_paths : 0\nbitmap_cvg     : 0.65%\nunique_crashes : 10\nunique_hangs   : 51\nlast_path      : 1500266273\nlast_crash     : 1500265693\nlast_hang      : 1500266282\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/TVS/input -o /dev/shm/work/TVS/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/TVS/TVS.dict -- data/linux/processed-challenges/TVS/bin/TVS\n'
+p47
+I1
+tp48
+a(I2880
+S'start_time     : 1500263591\nlast_update    : 1500266476\nfuzzer_pid     : 11001\ncycles_done    : 0\nexecs_done     : 1971557\nexecs_per_sec  : 665.77\npaths_total    : 133\npaths_favored  : 58\npaths_found    : 132\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 107\npending_favs   : 17\npending_total  : 78\nvariable_paths : 0\nbitmap_cvg     : 0.67%\nunique_crashes : 10\nunique_hangs   : 53\nlast_path      : 1500266462\nlast_crash     : 1500265693\nlast_hang      : 1500266441\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/TVS/input -o /dev/shm/work/TVS/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/TVS/TVS.dict -- data/linux/processed-challenges/TVS/bin/TVS\n'
+p49
+I4
+tp50
+a(I3000
+S'start_time     : 1500263591\nlast_update    : 1500266596\nfuzzer_pid     : 11001\ncycles_done    : 0\nexecs_done     : 2038163\nexecs_per_sec  : 621.48\npaths_total    : 133\npaths_favored  : 59\npaths_found    : 132\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 112\npending_favs   : 14\npending_total  : 74\nvariable_paths : 0\nbitmap_cvg     : 0.67%\nunique_crashes : 11\nunique_hangs   : 56\nlast_path      : 1500266462\nlast_crash     : 1500266481\nlast_hang      : 1500266549\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/TVS/input -o /dev/shm/work/TVS/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/TVS/TVS.dict -- data/linux/processed-challenges/TVS/bin/TVS\n'
+p51
+I0
+tp52
+a(I3120
+S'start_time     : 1500263591\nlast_update    : 1500266717\nfuzzer_pid     : 11001\ncycles_done    : 0\nexecs_done     : 2114209\nexecs_per_sec  : 677.97\npaths_total    : 136\npaths_favored  : 59\npaths_found    : 135\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 119\npending_favs   : 13\npending_total  : 76\nvariable_paths : 0\nbitmap_cvg     : 0.67%\nunique_crashes : 16\nunique_hangs   : 57\nlast_path      : 1500266682\nlast_crash     : 1500266620\nlast_hang      : 1500266614\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/TVS/input -o /dev/shm/work/TVS/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/TVS/TVS.dict -- data/linux/processed-challenges/TVS/bin/TVS\n'
+p53
+I3
+tp54
+a(I3240
+S'start_time     : 1500263591\nlast_update    : 1500266837\nfuzzer_pid     : 11001\ncycles_done    : 0\nexecs_done     : 2187350\nexecs_per_sec  : 642.58\npaths_total    : 137\npaths_favored  : 58\npaths_found    : 136\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 121\npending_favs   : 12\npending_total  : 75\nvariable_paths : 0\nbitmap_cvg     : 0.68%\nunique_crashes : 18\nunique_hangs   : 58\nlast_path      : 1500266796\nlast_crash     : 1500266799\nlast_hang      : 1500266760\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/TVS/input -o /dev/shm/work/TVS/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/TVS/TVS.dict -- data/linux/processed-challenges/TVS/bin/TVS\n'
+p55
+I1
+tp56
+a(I3360
+S'start_time     : 1500263591\nlast_update    : 1500266957\nfuzzer_pid     : 11001\ncycles_done    : 0\nexecs_done     : 2256182\nexecs_per_sec  : 628.09\npaths_total    : 139\npaths_favored  : 58\npaths_found    : 138\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 125\npending_favs   : 11\npending_total  : 74\nvariable_paths : 0\nbitmap_cvg     : 0.68%\nunique_crashes : 18\nunique_hangs   : 60\nlast_path      : 1500266898\nlast_crash     : 1500266799\nlast_hang      : 1500266916\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/TVS/input -o /dev/shm/work/TVS/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/TVS/TVS.dict -- data/linux/processed-challenges/TVS/bin/TVS\n'
+p57
+I3
+tp58
+a(I3480
+S'start_time     : 1500263591\nlast_update    : 1500267077\nfuzzer_pid     : 11001\ncycles_done    : 0\nexecs_done     : 2326402\nexecs_per_sec  : 728.04\npaths_total    : 143\npaths_favored  : 59\npaths_found    : 142\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 130\npending_favs   : 9\npending_total  : 74\nvariable_paths : 0\nbitmap_cvg     : 0.69%\nunique_crashes : 18\nunique_hangs   : 65\nlast_path      : 1500267071\nlast_crash     : 1500266799\nlast_hang      : 1500267075\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/TVS/input -o /dev/shm/work/TVS/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/TVS/TVS.dict -- data/linux/processed-challenges/TVS/bin/TVS\n'
+p59
+I3
+tp60
+a(I3600
+S'start_time     : 1500263591\nlast_update    : 1500267198\nfuzzer_pid     : 11001\ncycles_done    : 0\nexecs_done     : 2411516\nexecs_per_sec  : 613.52\npaths_total    : 146\npaths_favored  : 59\npaths_found    : 145\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 135\npending_favs   : 9\npending_total  : 74\nvariable_paths : 0\nbitmap_cvg     : 0.69%\nunique_crashes : 18\nunique_hangs   : 67\nlast_path      : 1500267168\nlast_crash     : 1500266799\nlast_hang      : 1500267198\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/TVS/input -o /dev/shm/work/TVS/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/TVS/TVS.dict -- data/linux/processed-challenges/TVS/bin/TVS\n'
+p61
+I3
+tp62
+a(I3720
+S'start_time     : 1500263591\nlast_update    : 1500267318\nfuzzer_pid     : 11001\ncycles_done    : 0\nexecs_done     : 2487302\nexecs_per_sec  : 629.46\npaths_total    : 148\npaths_favored  : 60\npaths_found    : 147\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 136\npending_favs   : 9\npending_total  : 75\nvariable_paths : 0\nbitmap_cvg     : 0.69%\nunique_crashes : 20\nunique_hangs   : 69\nlast_path      : 1500267251\nlast_crash     : 1500267223\nlast_hang      : 1500267297\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/TVS/input -o /dev/shm/work/TVS/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/TVS/TVS.dict -- data/linux/processed-challenges/TVS/bin/TVS\n'
+p63
+I2
+tp64
+a(I3840
+S'start_time     : 1500263591\nlast_update    : 1500267438\nfuzzer_pid     : 11001\ncycles_done    : 0\nexecs_done     : 2559553\nexecs_per_sec  : 46.33\npaths_total    : 151\npaths_favored  : 61\npaths_found    : 150\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 139\npending_favs   : 8\npending_total  : 76\nvariable_paths : 0\nbitmap_cvg     : 0.69%\nunique_crashes : 21\nunique_hangs   : 69\nlast_path      : 1500267372\nlast_crash     : 1500267330\nlast_hang      : 1500267297\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/TVS/input -o /dev/shm/work/TVS/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/TVS/TVS.dict -- data/linux/processed-challenges/TVS/bin/TVS\n'
+p65
+I3
+tp66
+a(I3960
+S'start_time     : 1500263591\nlast_update    : 1500267558\nfuzzer_pid     : 11001\ncycles_done    : 0\nexecs_done     : 2627578\nexecs_per_sec  : 486.84\npaths_total    : 156\npaths_favored  : 62\npaths_found    : 155\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 142\npending_favs   : 9\npending_total  : 78\nvariable_paths : 0\nbitmap_cvg     : 0.70%\nunique_crashes : 22\nunique_hangs   : 72\nlast_path      : 1500267539\nlast_crash     : 1500267475\nlast_hang      : 1500267528\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/TVS/input -o /dev/shm/work/TVS/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/TVS/TVS.dict -- data/linux/processed-challenges/TVS/bin/TVS\n'
+p67
+I5
+tp68
+a(I4080
+S'start_time     : 1500263591\nlast_update    : 1500267679\nfuzzer_pid     : 11001\ncycles_done    : 0\nexecs_done     : 2704022\nexecs_per_sec  : 588.13\npaths_total    : 159\npaths_favored  : 63\npaths_found    : 158\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 147\npending_favs   : 7\npending_total  : 78\nvariable_paths : 0\nbitmap_cvg     : 0.71%\nunique_crashes : 22\nunique_hangs   : 73\nlast_path      : 1500267629\nlast_crash     : 1500267475\nlast_hang      : 1500267619\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/TVS/input -o /dev/shm/work/TVS/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/TVS/TVS.dict -- data/linux/processed-challenges/TVS/bin/TVS\n'
+p69
+I3
+tp70
+a(I4200
+S'start_time     : 1500263591\nlast_update    : 1500267799\nfuzzer_pid     : 11001\ncycles_done    : 0\nexecs_done     : 2787556\nexecs_per_sec  : 772.70\npaths_total    : 163\npaths_favored  : 63\npaths_found    : 162\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 151\npending_favs   : 9\npending_total  : 81\nvariable_paths : 0\nbitmap_cvg     : 0.72%\nunique_crashes : 22\nunique_hangs   : 74\nlast_path      : 1500267738\nlast_crash     : 1500267475\nlast_hang      : 1500267758\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/TVS/input -o /dev/shm/work/TVS/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/TVS/TVS.dict -- data/linux/processed-challenges/TVS/bin/TVS\n'
+p71
+I4
+tp72
+a(I4320
+S'start_time     : 1500263591\nlast_update    : 1500267919\nfuzzer_pid     : 11001\ncycles_done    : 0\nexecs_done     : 2882526\nexecs_per_sec  : 812.74\npaths_total    : 164\npaths_favored  : 63\npaths_found    : 163\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 151\npending_favs   : 9\npending_total  : 82\nvariable_paths : 0\nbitmap_cvg     : 0.72%\nunique_crashes : 22\nunique_hangs   : 74\nlast_path      : 1500267858\nlast_crash     : 1500267475\nlast_hang      : 1500267758\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/TVS/input -o /dev/shm/work/TVS/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/TVS/TVS.dict -- data/linux/processed-challenges/TVS/bin/TVS\n'
+p73
+I1
+tp74
+a(I4440
+S'start_time     : 1500263591\nlast_update    : 1500268039\nfuzzer_pid     : 11001\ncycles_done    : 0\nexecs_done     : 2972832\nexecs_per_sec  : 798.91\npaths_total    : 168\npaths_favored  : 64\npaths_found    : 167\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 152\npending_favs   : 12\npending_total  : 85\nvariable_paths : 0\nbitmap_cvg     : 0.73%\nunique_crashes : 22\nunique_hangs   : 75\nlast_path      : 1500268029\nlast_crash     : 1500267475\nlast_hang      : 1500267983\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/TVS/input -o /dev/shm/work/TVS/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/TVS/TVS.dict -- data/linux/processed-challenges/TVS/bin/TVS\n'
+p75
+I4
+tp76
+a(I4560
+S'start_time     : 1500263591\nlast_update    : 1500268159\nfuzzer_pid     : 11001\ncycles_done    : 0\nexecs_done     : 3063122\nexecs_per_sec  : 84.91\npaths_total    : 171\npaths_favored  : 67\npaths_found    : 170\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 153\npending_favs   : 14\npending_total  : 87\nvariable_paths : 0\nbitmap_cvg     : 0.73%\nunique_crashes : 23\nunique_hangs   : 75\nlast_path      : 1500268156\nlast_crash     : 1500268156\nlast_hang      : 1500267983\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/TVS/input -o /dev/shm/work/TVS/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/TVS/TVS.dict -- data/linux/processed-challenges/TVS/bin/TVS\n'
+p77
+I3
+tp78
+a(I4680
+S'start_time     : 1500263591\nlast_update    : 1500268279\nfuzzer_pid     : 11001\ncycles_done    : 0\nexecs_done     : 3139361\nexecs_per_sec  : 641.03\npaths_total    : 173\npaths_favored  : 67\npaths_found    : 172\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 153\npending_favs   : 14\npending_total  : 89\nvariable_paths : 0\nbitmap_cvg     : 0.73%\nunique_crashes : 23\nunique_hangs   : 76\nlast_path      : 1500268187\nlast_crash     : 1500268156\nlast_hang      : 1500268172\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/TVS/input -o /dev/shm/work/TVS/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/TVS/TVS.dict -- data/linux/processed-challenges/TVS/bin/TVS\n'
+p79
+I2
+tp80
+a(I4800
+S'start_time     : 1500263591\nlast_update    : 1500268400\nfuzzer_pid     : 11001\ncycles_done    : 0\nexecs_done     : 3206517\nexecs_per_sec  : 950.00\npaths_total    : 175\npaths_favored  : 69\npaths_found    : 174\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 156\npending_favs   : 13\npending_total  : 88\nvariable_paths : 0\nbitmap_cvg     : 0.73%\nunique_crashes : 24\nunique_hangs   : 78\nlast_path      : 1500268384\nlast_crash     : 1500268294\nlast_hang      : 1500268381\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/TVS/input -o /dev/shm/work/TVS/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/TVS/TVS.dict -- data/linux/processed-challenges/TVS/bin/TVS\n'
+p81
+I2
+tp82
+a(I4920
+S'start_time     : 1500263591\nlast_update    : 1500268520\nfuzzer_pid     : 11001\ncycles_done    : 0\nexecs_done     : 3280910\nexecs_per_sec  : 871.67\npaths_total    : 176\npaths_favored  : 69\npaths_found    : 175\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 157\npending_favs   : 13\npending_total  : 88\nvariable_paths : 0\nbitmap_cvg     : 0.73%\nunique_crashes : 26\nunique_hangs   : 79\nlast_path      : 1500268414\nlast_crash     : 1500268443\nlast_hang      : 1500268487\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/TVS/input -o /dev/shm/work/TVS/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/TVS/TVS.dict -- data/linux/processed-challenges/TVS/bin/TVS\n'
+p83
+I1
+tp84
+a(I5040
+S'start_time     : 1500263591\nlast_update    : 1500268640\nfuzzer_pid     : 11001\ncycles_done    : 0\nexecs_done     : 3353685\nexecs_per_sec  : 633.59\npaths_total    : 178\npaths_favored  : 69\npaths_found    : 177\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 158\npending_favs   : 12\npending_total  : 89\nvariable_paths : 0\nbitmap_cvg     : 0.73%\nunique_crashes : 27\nunique_hangs   : 79\nlast_path      : 1500268638\nlast_crash     : 1500268532\nlast_hang      : 1500268487\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/TVS/input -o /dev/shm/work/TVS/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/TVS/TVS.dict -- data/linux/processed-challenges/TVS/bin/TVS\n'
+p85
+I2
+tp86
+a(I5160
+S'start_time     : 1500263591\nlast_update    : 1500268760\nfuzzer_pid     : 11001\ncycles_done    : 0\nexecs_done     : 3421003\nexecs_per_sec  : 677.04\npaths_total    : 178\npaths_favored  : 69\npaths_found    : 177\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 161\npending_favs   : 11\npending_total  : 88\nvariable_paths : 0\nbitmap_cvg     : 0.73%\nunique_crashes : 28\nunique_hangs   : 80\nlast_path      : 1500268638\nlast_crash     : 1500268709\nlast_hang      : 1500268750\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/TVS/input -o /dev/shm/work/TVS/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/TVS/TVS.dict -- data/linux/processed-challenges/TVS/bin/TVS\n'
+p87
+I0
+tp88
+a(I5280
+S'start_time     : 1500263591\nlast_update    : 1500268881\nfuzzer_pid     : 11001\ncycles_done    : 0\nexecs_done     : 3500294\nexecs_per_sec  : 712.28\npaths_total    : 181\npaths_favored  : 69\npaths_found    : 180\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 162\npending_favs   : 10\npending_total  : 90\nvariable_paths : 0\nbitmap_cvg     : 0.73%\nunique_crashes : 30\nunique_hangs   : 84\nlast_path      : 1500268820\nlast_crash     : 1500268857\nlast_hang      : 1500268856\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/TVS/input -o /dev/shm/work/TVS/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/TVS/TVS.dict -- data/linux/processed-challenges/TVS/bin/TVS\n'
+p89
+I3
+tp90
+a(I5400
+S'start_time     : 1500263591\nlast_update    : 1500268941\nfuzzer_pid     : 11001\ncycles_done    : 0\nexecs_done     : 3543181\nexecs_per_sec  : 736.24\npaths_total    : 182\npaths_favored  : 69\npaths_found    : 181\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 162\npending_favs   : 10\npending_total  : 91\nvariable_paths : 0\nbitmap_cvg     : 0.73%\nunique_crashes : 30\nunique_hangs   : 84\nlast_path      : 1500268924\nlast_crash     : 1500268857\nlast_hang      : 1500268856\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/TVS/input -o /dev/shm/work/TVS/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/TVS/TVS.dict -- data/linux/processed-challenges/TVS/bin/TVS\n'
+p91
+I2
+tp92
+a(I5520
+S'start_time     : 1500263591\nlast_update    : 1500269061\nfuzzer_pid     : 11001\ncycles_done    : 0\nexecs_done     : 3618284\nexecs_per_sec  : 729.84\npaths_total    : 183\npaths_favored  : 69\npaths_found    : 182\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 164\npending_favs   : 8\npending_total  : 90\nvariable_paths : 0\nbitmap_cvg     : 0.73%\nunique_crashes : 30\nunique_hangs   : 85\nlast_path      : 1500268988\nlast_crash     : 1500268857\nlast_hang      : 1500268974\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/TVS/input -o /dev/shm/work/TVS/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/TVS/TVS.dict -- data/linux/processed-challenges/TVS/bin/TVS\n'
+p93
+I2
+tp94
+a(I5640
+S'start_time     : 1500263591\nlast_update    : 1500269181\nfuzzer_pid     : 11001\ncycles_done    : 0\nexecs_done     : 3694933\nexecs_per_sec  : 717.96\npaths_total    : 187\npaths_favored  : 71\npaths_found    : 186\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 167\npending_favs   : 8\npending_total  : 92\nvariable_paths : 0\nbitmap_cvg     : 0.74%\nunique_crashes : 34\nunique_hangs   : 85\nlast_path      : 1500269178\nlast_crash     : 1500269159\nlast_hang      : 1500268974\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/TVS/input -o /dev/shm/work/TVS/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/TVS/TVS.dict -- data/linux/processed-challenges/TVS/bin/TVS\n'
+p95
+I4
+tp96
+a(I5760
+S'start_time     : 1500263591\nlast_update    : 1500269302\nfuzzer_pid     : 11001\ncycles_done    : 0\nexecs_done     : 3784091\nexecs_per_sec  : 805.88\npaths_total    : 190\npaths_favored  : 71\npaths_found    : 189\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 167\npending_favs   : 8\npending_total  : 95\nvariable_paths : 0\nbitmap_cvg     : 0.74%\nunique_crashes : 34\nunique_hangs   : 86\nlast_path      : 1500269252\nlast_crash     : 1500269159\nlast_hang      : 1500269192\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/TVS/input -o /dev/shm/work/TVS/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/TVS/TVS.dict -- data/linux/processed-challenges/TVS/bin/TVS\n'
+p97
+I1
+tp98
+a(I5880
+S'start_time     : 1500263591\nlast_update    : 1500269422\nfuzzer_pid     : 11001\ncycles_done    : 0\nexecs_done     : 3866147\nexecs_per_sec  : 712.25\npaths_total    : 191\npaths_favored  : 72\npaths_found    : 190\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 168\npending_favs   : 8\npending_total  : 95\nvariable_paths : 0\nbitmap_cvg     : 0.74%\nunique_crashes : 34\nunique_hangs   : 86\nlast_path      : 1500269418\nlast_crash     : 1500269159\nlast_hang      : 1500269192\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/TVS/input -o /dev/shm/work/TVS/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/TVS/TVS.dict -- data/linux/processed-challenges/TVS/bin/TVS\n'
+p99
+I2
+tp100
+a(I6000
+S'start_time     : 1500263591\nlast_update    : 1500269542\nfuzzer_pid     : 11001\ncycles_done    : 0\nexecs_done     : 3950433\nexecs_per_sec  : 655.08\npaths_total    : 193\npaths_favored  : 72\npaths_found    : 192\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 168\npending_favs   : 8\npending_total  : 97\nvariable_paths : 0\nbitmap_cvg     : 0.75%\nunique_crashes : 34\nunique_hangs   : 88\nlast_path      : 1500269500\nlast_crash     : 1500269159\nlast_hang      : 1500269493\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/TVS/input -o /dev/shm/work/TVS/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/TVS/TVS.dict -- data/linux/processed-challenges/TVS/bin/TVS\n'
+p101
+I1
+tp102
+a(I6120
+S'start_time     : 1500263591\nlast_update    : 1500269662\nfuzzer_pid     : 11001\ncycles_done    : 0\nexecs_done     : 4029819\nexecs_per_sec  : 870.76\npaths_total    : 193\npaths_favored  : 72\npaths_found    : 192\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 169\npending_favs   : 10\npending_total  : 96\nvariable_paths : 0\nbitmap_cvg     : 0.75%\nunique_crashes : 34\nunique_hangs   : 88\nlast_path      : 1500269500\nlast_crash     : 1500269159\nlast_hang      : 1500269493\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/TVS/input -o /dev/shm/work/TVS/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/TVS/TVS.dict -- data/linux/processed-challenges/TVS/bin/TVS\n'
+p103
+I1
+tp104
+a(I6240
+S'start_time     : 1500263591\nlast_update    : 1500269782\nfuzzer_pid     : 11001\ncycles_done    : 0\nexecs_done     : 4103693\nexecs_per_sec  : 758.59\npaths_total    : 195\npaths_favored  : 73\npaths_found    : 194\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 174\npending_favs   : 9\npending_total  : 96\nvariable_paths : 0\nbitmap_cvg     : 0.76%\nunique_crashes : 34\nunique_hangs   : 90\nlast_path      : 1500269758\nlast_crash     : 1500269159\nlast_hang      : 1500269758\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/TVS/input -o /dev/shm/work/TVS/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/TVS/TVS.dict -- data/linux/processed-challenges/TVS/bin/TVS\n'
+p105
+I2
+tp106
+a(I6360
+S'start_time     : 1500263591\nlast_update    : 1500269903\nfuzzer_pid     : 11001\ncycles_done    : 0\nexecs_done     : 4180029\nexecs_per_sec  : 163.46\npaths_total    : 196\npaths_favored  : 73\npaths_found    : 195\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 184\npending_favs   : 9\npending_total  : 95\nvariable_paths : 0\nbitmap_cvg     : 0.76%\nunique_crashes : 36\nunique_hangs   : 92\nlast_path      : 1500269836\nlast_crash     : 1500269843\nlast_hang      : 1500269890\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/TVS/input -o /dev/shm/work/TVS/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/TVS/TVS.dict -- data/linux/processed-challenges/TVS/bin/TVS\n'
+p107
+I0
+tp108
+a(I6480
+S'start_time     : 1500263591\nlast_update    : 1500270023\nfuzzer_pid     : 11001\ncycles_done    : 0\nexecs_done     : 4244571\nexecs_per_sec  : 690.28\npaths_total    : 198\npaths_favored  : 73\npaths_found    : 197\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 190\npending_favs   : 7\npending_total  : 95\nvariable_paths : 0\nbitmap_cvg     : 0.76%\nunique_crashes : 40\nunique_hangs   : 92\nlast_path      : 1500269967\nlast_crash     : 1500270015\nlast_hang      : 1500269890\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/TVS/input -o /dev/shm/work/TVS/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/TVS/TVS.dict -- data/linux/processed-challenges/TVS/bin/TVS\n'
+p109
+I3
+tp110
+a(I6600
+S'start_time     : 1500263591\nlast_update    : 1500270143\nfuzzer_pid     : 11001\ncycles_done    : 0\nexecs_done     : 4315270\nexecs_per_sec  : 277.82\npaths_total    : 199\npaths_favored  : 75\npaths_found    : 198\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 193\npending_favs   : 6\npending_total  : 94\nvariable_paths : 0\nbitmap_cvg     : 0.76%\nunique_crashes : 41\nunique_hangs   : 94\nlast_path      : 1500270066\nlast_crash     : 1500270121\nlast_hang      : 1500270142\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/TVS/input -o /dev/shm/work/TVS/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/TVS/TVS.dict -- data/linux/processed-challenges/TVS/bin/TVS\n'
+p111
+I1
+tp112
+a(I6720
+S'start_time     : 1500263591\nlast_update    : 1500270263\nfuzzer_pid     : 11001\ncycles_done    : 0\nexecs_done     : 4399191\nexecs_per_sec  : 730.66\npaths_total    : 200\npaths_favored  : 75\npaths_found    : 199\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 195\npending_favs   : 4\npending_total  : 93\nvariable_paths : 0\nbitmap_cvg     : 0.76%\nunique_crashes : 44\nunique_hangs   : 95\nlast_path      : 1500270157\nlast_crash     : 1500270255\nlast_hang      : 1500270192\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/TVS/input -o /dev/shm/work/TVS/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/TVS/TVS.dict -- data/linux/processed-challenges/TVS/bin/TVS\n'
+p113
+I3
+tp114
+a(I6840
+S'start_time     : 1500263591\nlast_update    : 1500270383\nfuzzer_pid     : 11001\ncycles_done    : 0\nexecs_done     : 4484845\nexecs_per_sec  : 783.32\npaths_total    : 203\npaths_favored  : 75\npaths_found    : 202\npaths_imported : 0\nmax_depth      : 12\ncur_path       : 195\npending_favs   : 4\npending_total  : 96\nvariable_paths : 0\nbitmap_cvg     : 0.76%\nunique_crashes : 46\nunique_hangs   : 96\nlast_path      : 1500270319\nlast_crash     : 1500270303\nlast_hang      : 1500270305\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/TVS/input -o /dev/shm/work/TVS/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/TVS/TVS.dict -- data/linux/processed-challenges/TVS/bin/TVS\n'
+p115
+I0
+tp116
+a(I6960
+S'start_time     : 1500263591\nlast_update    : 1500270503\nfuzzer_pid     : 11001\ncycles_done    : 0\nexecs_done     : 4574929\nexecs_per_sec  : 723.82\npaths_total    : 204\npaths_favored  : 75\npaths_found    : 203\npaths_imported : 0\nmax_depth      : 12\ncur_path       : 196\npending_favs   : 3\npending_total  : 96\nvariable_paths : 0\nbitmap_cvg     : 0.76%\nunique_crashes : 49\nunique_hangs   : 96\nlast_path      : 1500270499\nlast_crash     : 1500270473\nlast_hang      : 1500270305\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/TVS/input -o /dev/shm/work/TVS/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/TVS/TVS.dict -- data/linux/processed-challenges/TVS/bin/TVS\n'
+p117
+I2
+tp118
+a(I7080
+S'start_time     : 1500263591\nlast_update    : 1500270624\nfuzzer_pid     : 11001\ncycles_done    : 0\nexecs_done     : 4668215\nexecs_per_sec  : 884.63\npaths_total    : 207\npaths_favored  : 75\npaths_found    : 206\npaths_imported : 0\nmax_depth      : 12\ncur_path       : 197\npending_favs   : 2\npending_total  : 98\nvariable_paths : 0\nbitmap_cvg     : 0.76%\nunique_crashes : 50\nunique_hangs   : 97\nlast_path      : 1500270600\nlast_crash     : 1500270576\nlast_hang      : 1500270543\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/TVS/input -o /dev/shm/work/TVS/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/TVS/TVS.dict -- data/linux/processed-challenges/TVS/bin/TVS\n'
+p119
+I3
+tp120
+a(I7200
+S'start_time     : 1500263591\nlast_update    : 1500270744\nfuzzer_pid     : 11001\ncycles_done    : 0\nexecs_done     : 4771840\nexecs_per_sec  : 850.69\npaths_total    : 208\npaths_favored  : 75\npaths_found    : 207\npaths_imported : 0\nmax_depth      : 12\ncur_path       : 197\npending_favs   : 2\npending_total  : 99\nvariable_paths : 0\nbitmap_cvg     : 0.76%\nunique_crashes : 50\nunique_hangs   : 98\nlast_path      : 1500270631\nlast_crash     : 1500270576\nlast_hang      : 1500270654\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/TVS/input -o /dev/shm/work/TVS/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/TVS/TVS.dict -- data/linux/processed-challenges/TVS/bin/TVS\n'
+p121
+I0
+tp122
+a(I7320
+S'start_time     : 1500263591\nlast_update    : 1500270864\nfuzzer_pid     : 11001\ncycles_done    : 0\nexecs_done     : 4862249\nexecs_per_sec  : 658.51\npaths_total    : 208\npaths_favored  : 76\npaths_found    : 207\npaths_imported : 0\nmax_depth      : 12\ncur_path       : 205\npending_favs   : 3\npending_total  : 97\nvariable_paths : 0\nbitmap_cvg     : 0.76%\nunique_crashes : 52\nunique_hangs   : 99\nlast_path      : 1500270631\nlast_crash     : 1500270836\nlast_hang      : 1500270838\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/TVS/input -o /dev/shm/work/TVS/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/TVS/TVS.dict -- data/linux/processed-challenges/TVS/bin/TVS\n'
+p123
+I1
+tp124
+a(I7440
+S'start_time     : 1500263591\nlast_update    : 1500270985\nfuzzer_pid     : 11001\ncycles_done    : 0\nexecs_done     : 4954187\nexecs_per_sec  : 806.15\npaths_total    : 212\npaths_favored  : 76\npaths_found    : 211\npaths_imported : 0\nmax_depth      : 13\ncur_path       : 207\npending_favs   : 2\npending_total  : 100\nvariable_paths : 0\nbitmap_cvg     : 0.76%\nunique_crashes : 56\nunique_hangs   : 100\nlast_path      : 1500270975\nlast_crash     : 1500270906\nlast_hang      : 1500270937\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/TVS/input -o /dev/shm/work/TVS/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/TVS/TVS.dict -- data/linux/processed-challenges/TVS/bin/TVS\n'
+p125
+I4
+tp126
+a(I7560
+S'start_time     : 1500263591\nlast_update    : 1500271105\nfuzzer_pid     : 11001\ncycles_done    : 0\nexecs_done     : 5050609\nexecs_per_sec  : 832.52\npaths_total    : 213\npaths_favored  : 76\npaths_found    : 212\npaths_imported : 0\nmax_depth      : 13\ncur_path       : 207\npending_favs   : 2\npending_total  : 101\nvariable_paths : 0\nbitmap_cvg     : 0.77%\nunique_crashes : 57\nunique_hangs   : 100\nlast_path      : 1500271026\nlast_crash     : 1500271027\nlast_hang      : 1500270937\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/TVS/input -o /dev/shm/work/TVS/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/TVS/TVS.dict -- data/linux/processed-challenges/TVS/bin/TVS\n'
+p127
+I3
+tp128
+a(I7680
+S'start_time     : 1500263591\nlast_update    : 1500271225\nfuzzer_pid     : 11001\ncycles_done    : 0\nexecs_done     : 5149744\nexecs_per_sec  : 846.44\npaths_total    : 219\npaths_favored  : 75\npaths_found    : 218\npaths_imported : 0\nmax_depth      : 14\ncur_path       : 209\npending_favs   : 3\npending_total  : 106\nvariable_paths : 0\nbitmap_cvg     : 0.77%\nunique_crashes : 58\nunique_hangs   : 102\nlast_path      : 1500271205\nlast_crash     : 1500271175\nlast_hang      : 1500271181\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/TVS/input -o /dev/shm/work/TVS/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/TVS/TVS.dict -- data/linux/processed-challenges/TVS/bin/TVS\n'
+p129
+I4
+tp130
+a(I7800
+S'start_time     : 1500263591\nlast_update    : 1500271345\nfuzzer_pid     : 11001\ncycles_done    : 0\nexecs_done     : 5250756\nexecs_per_sec  : 742.38\npaths_total    : 225\npaths_favored  : 75\npaths_found    : 224\npaths_imported : 0\nmax_depth      : 14\ncur_path       : 212\npending_favs   : 4\npending_total  : 111\nvariable_paths : 0\nbitmap_cvg     : 0.79%\nunique_crashes : 59\nunique_hangs   : 103\nlast_path      : 1500271338\nlast_crash     : 1500271249\nlast_hang      : 1500271338\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/TVS/input -o /dev/shm/work/TVS/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/TVS/TVS.dict -- data/linux/processed-challenges/TVS/bin/TVS\n'
+p131
+I9
+tp132
+a(I7920
+S'start_time     : 1500263591\nlast_update    : 1500271466\nfuzzer_pid     : 11001\ncycles_done    : 0\nexecs_done     : 5339520\nexecs_per_sec  : 730.57\npaths_total    : 233\npaths_favored  : 75\npaths_found    : 232\npaths_imported : 0\nmax_depth      : 14\ncur_path       : 212\npending_favs   : 4\npending_total  : 119\nvariable_paths : 0\nbitmap_cvg     : 0.81%\nunique_crashes : 60\nunique_hangs   : 104\nlast_path      : 1500271460\nlast_crash     : 1500271396\nlast_hang      : 1500271403\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/TVS/input -o /dev/shm/work/TVS/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/TVS/TVS.dict -- data/linux/processed-challenges/TVS/bin/TVS\n'
+p133
+I5
+tp134
+a(I8040
+S'start_time     : 1500263591\nlast_update    : 1500271586\nfuzzer_pid     : 11001\ncycles_done    : 0\nexecs_done     : 5430799\nexecs_per_sec  : 828.23\npaths_total    : 236\npaths_favored  : 80\npaths_found    : 235\npaths_imported : 0\nmax_depth      : 15\ncur_path       : 219\npending_favs   : 11\npending_total  : 121\nvariable_paths : 0\nbitmap_cvg     : 0.82%\nunique_crashes : 63\nunique_hangs   : 105\nlast_path      : 1500271545\nlast_crash     : 1500271574\nlast_hang      : 1500271485\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/TVS/input -o /dev/shm/work/TVS/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/TVS/TVS.dict -- data/linux/processed-challenges/TVS/bin/TVS\n'
+p135
+I5
+tp136
+a(I8160
+S'start_time     : 1500263591\nlast_update    : 1500271706\nfuzzer_pid     : 11001\ncycles_done    : 0\nexecs_done     : 5521588\nexecs_per_sec  : 821.32\npaths_total    : 239\npaths_favored  : 80\npaths_found    : 238\npaths_imported : 0\nmax_depth      : 15\ncur_path       : 220\npending_favs   : 12\npending_total  : 123\nvariable_paths : 0\nbitmap_cvg     : 0.83%\nunique_crashes : 65\nunique_hangs   : 105\nlast_path      : 1500271637\nlast_crash     : 1500271627\nlast_hang      : 1500271485\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/TVS/input -o /dev/shm/work/TVS/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/TVS/TVS.dict -- data/linux/processed-challenges/TVS/bin/TVS\n'
+p137
+I1
+tp138
+a(I8280
+S'start_time     : 1500263591\nlast_update    : 1500271826\nfuzzer_pid     : 11001\ncycles_done    : 0\nexecs_done     : 5616804\nexecs_per_sec  : 751.66\npaths_total    : 240\npaths_favored  : 79\npaths_found    : 239\npaths_imported : 0\nmax_depth      : 15\ncur_path       : 223\npending_favs   : 11\npending_total  : 122\nvariable_paths : 0\nbitmap_cvg     : 0.83%\nunique_crashes : 65\nunique_hangs   : 106\nlast_path      : 1500271747\nlast_crash     : 1500271627\nlast_hang      : 1500271796\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/TVS/input -o /dev/shm/work/TVS/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/TVS/TVS.dict -- data/linux/processed-challenges/TVS/bin/TVS\n'
+p139
+I2
+tp140
+a(I8400
+S'start_time     : 1500263591\nlast_update    : 1500271946\nfuzzer_pid     : 11001\ncycles_done    : 0\nexecs_done     : 5708519\nexecs_per_sec  : 798.68\npaths_total    : 243\npaths_favored  : 79\npaths_found    : 242\npaths_imported : 0\nmax_depth      : 15\ncur_path       : 223\npending_favs   : 11\npending_total  : 125\nvariable_paths : 0\nbitmap_cvg     : 0.83%\nunique_crashes : 67\nunique_hangs   : 106\nlast_path      : 1500271912\nlast_crash     : 1500271880\nlast_hang      : 1500271796\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/TVS/input -o /dev/shm/work/TVS/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/TVS/TVS.dict -- data/linux/processed-challenges/TVS/bin/TVS\n'
+p141
+I2
+tp142
+a(I8520
+S'start_time     : 1500263591\nlast_update    : 1500272066\nfuzzer_pid     : 11001\ncycles_done    : 0\nexecs_done     : 5801596\nexecs_per_sec  : 787.38\npaths_total    : 247\npaths_favored  : 82\npaths_found    : 246\npaths_imported : 0\nmax_depth      : 15\ncur_path       : 227\npending_favs   : 13\npending_total  : 128\nvariable_paths : 0\nbitmap_cvg     : 0.84%\nunique_crashes : 72\nunique_hangs   : 108\nlast_path      : 1500272037\nlast_crash     : 1500272051\nlast_hang      : 1500272060\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/TVS/input -o /dev/shm/work/TVS/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/TVS/TVS.dict -- data/linux/processed-challenges/TVS/bin/TVS\n'
+p143
+I3
+tp144
+a(I8640
+S'start_time     : 1500263591\nlast_update    : 1500272187\nfuzzer_pid     : 11001\ncycles_done    : 0\nexecs_done     : 5898419\nexecs_per_sec  : 835.94\npaths_total    : 248\npaths_favored  : 85\npaths_found    : 247\npaths_imported : 0\nmax_depth      : 15\ncur_path       : 229\npending_favs   : 15\npending_total  : 128\nvariable_paths : 0\nbitmap_cvg     : 0.85%\nunique_crashes : 73\nunique_hangs   : 109\nlast_path      : 1500272179\nlast_crash     : 1500272083\nlast_hang      : 1500272136\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/TVS/input -o /dev/shm/work/TVS/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/TVS/TVS.dict -- data/linux/processed-challenges/TVS/bin/TVS\n'
+p145
+I1
+tp146
+a(I8760
+S'start_time     : 1500263591\nlast_update    : 1500272307\nfuzzer_pid     : 11001\ncycles_done    : 0\nexecs_done     : 5996201\nexecs_per_sec  : 833.24\npaths_total    : 250\npaths_favored  : 86\npaths_found    : 249\npaths_imported : 0\nmax_depth      : 15\ncur_path       : 231\npending_favs   : 15\npending_total  : 129\nvariable_paths : 0\nbitmap_cvg     : 0.86%\nunique_crashes : 75\nunique_hangs   : 109\nlast_path      : 1500272247\nlast_crash     : 1500272304\nlast_hang      : 1500272136\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/TVS/input -o /dev/shm/work/TVS/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/TVS/TVS.dict -- data/linux/processed-challenges/TVS/bin/TVS\n'
+p147
+I2
+tp148
+a(I8880
+S'start_time     : 1500263591\nlast_update    : 1500272427\nfuzzer_pid     : 11001\ncycles_done    : 0\nexecs_done     : 6087204\nexecs_per_sec  : 676.92\npaths_total    : 250\npaths_favored  : 87\npaths_found    : 249\npaths_imported : 0\nmax_depth      : 15\ncur_path       : 234\npending_favs   : 15\npending_total  : 127\nvariable_paths : 0\nbitmap_cvg     : 0.86%\nunique_crashes : 75\nunique_hangs   : 110\nlast_path      : 1500272247\nlast_crash     : 1500272304\nlast_hang      : 1500272321\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/TVS/input -o /dev/shm/work/TVS/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/TVS/TVS.dict -- data/linux/processed-challenges/TVS/bin/TVS\n'
+p149
+I0
+tp150
+a(I9000
+S'start_time     : 1500263591\nlast_update    : 1500272547\nfuzzer_pid     : 11001\ncycles_done    : 0\nexecs_done     : 6182531\nexecs_per_sec  : 850.47\npaths_total    : 252\npaths_favored  : 87\npaths_found    : 251\npaths_imported : 0\nmax_depth      : 16\ncur_path       : 235\npending_favs   : 14\npending_total  : 128\nvariable_paths : 0\nbitmap_cvg     : 0.86%\nunique_crashes : 75\nunique_hangs   : 111\nlast_path      : 1500272515\nlast_crash     : 1500272304\nlast_hang      : 1500272488\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/TVS/input -o /dev/shm/work/TVS/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/TVS/TVS.dict -- data/linux/processed-challenges/TVS/bin/TVS\n'
+p151
+I2
+tp152
+a(I9120
+S'start_time     : 1500263591\nlast_update    : 1500272668\nfuzzer_pid     : 11001\ncycles_done    : 0\nexecs_done     : 6278709\nexecs_per_sec  : 789.60\npaths_total    : 253\npaths_favored  : 85\npaths_found    : 252\npaths_imported : 0\nmax_depth      : 16\ncur_path       : 237\npending_favs   : 15\npending_total  : 128\nvariable_paths : 0\nbitmap_cvg     : 0.87%\nunique_crashes : 77\nunique_hangs   : 111\nlast_path      : 1500272661\nlast_crash     : 1500272648\nlast_hang      : 1500272488\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/TVS/input -o /dev/shm/work/TVS/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/TVS/TVS.dict -- data/linux/processed-challenges/TVS/bin/TVS\n'
+p153
+I1
+tp154
+a(I9240
+S'start_time     : 1500263591\nlast_update    : 1500272788\nfuzzer_pid     : 11001\ncycles_done    : 0\nexecs_done     : 6372364\nexecs_per_sec  : 642.54\npaths_total    : 256\npaths_favored  : 87\npaths_found    : 255\npaths_imported : 0\nmax_depth      : 16\ncur_path       : 238\npending_favs   : 16\npending_total  : 130\nvariable_paths : 0\nbitmap_cvg     : 0.87%\nunique_crashes : 79\nunique_hangs   : 111\nlast_path      : 1500272763\nlast_crash     : 1500272762\nlast_hang      : 1500272488\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/TVS/input -o /dev/shm/work/TVS/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/TVS/TVS.dict -- data/linux/processed-challenges/TVS/bin/TVS\n'
+p155
+I7
+tp156
+a(I9360
+S'start_time     : 1500263591\nlast_update    : 1500272908\nfuzzer_pid     : 11001\ncycles_done    : 0\nexecs_done     : 6468627\nexecs_per_sec  : 817.98\npaths_total    : 260\npaths_favored  : 89\npaths_found    : 259\npaths_imported : 0\nmax_depth      : 16\ncur_path       : 239\npending_favs   : 18\npending_total  : 133\nvariable_paths : 0\nbitmap_cvg     : 0.88%\nunique_crashes : 83\nunique_hangs   : 112\nlast_path      : 1500272836\nlast_crash     : 1500272822\nlast_hang      : 1500272842\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/TVS/input -o /dev/shm/work/TVS/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/TVS/TVS.dict -- data/linux/processed-challenges/TVS/bin/TVS\n'
+p157
+I0
+tp158
+a(I9480
+S'start_time     : 1500263591\nlast_update    : 1500273028\nfuzzer_pid     : 11001\ncycles_done    : 0\nexecs_done     : 6561461\nexecs_per_sec  : 827.31\npaths_total    : 260\npaths_favored  : 89\npaths_found    : 259\npaths_imported : 0\nmax_depth      : 16\ncur_path       : 240\npending_favs   : 17\npending_total  : 132\nvariable_paths : 0\nbitmap_cvg     : 0.88%\nunique_crashes : 83\nunique_hangs   : 112\nlast_path      : 1500272836\nlast_crash     : 1500272822\nlast_hang      : 1500272842\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/TVS/input -o /dev/shm/work/TVS/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/TVS/TVS.dict -- data/linux/processed-challenges/TVS/bin/TVS\n'
+p159
+I1
+tp160
+a(I9600
+S'start_time     : 1500263591\nlast_update    : 1500273148\nfuzzer_pid     : 11001\ncycles_done    : 0\nexecs_done     : 6657517\nexecs_per_sec  : 842.46\npaths_total    : 263\npaths_favored  : 88\npaths_found    : 262\npaths_imported : 0\nmax_depth      : 16\ncur_path       : 241\npending_favs   : 16\npending_total  : 134\nvariable_paths : 0\nbitmap_cvg     : 0.88%\nunique_crashes : 83\nunique_hangs   : 112\nlast_path      : 1500273146\nlast_crash     : 1500272822\nlast_hang      : 1500272842\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/TVS/input -o /dev/shm/work/TVS/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/TVS/TVS.dict -- data/linux/processed-challenges/TVS/bin/TVS\n'
+p161
+I2
+tp162
+a(I9720
+S'start_time     : 1500263591\nlast_update    : 1500273269\nfuzzer_pid     : 11001\ncycles_done    : 0\nexecs_done     : 6760552\nexecs_per_sec  : 869.75\npaths_total    : 263\npaths_favored  : 88\npaths_found    : 262\npaths_imported : 0\nmax_depth      : 16\ncur_path       : 241\npending_favs   : 16\npending_total  : 134\nvariable_paths : 0\nbitmap_cvg     : 0.88%\nunique_crashes : 84\nunique_hangs   : 115\nlast_path      : 1500273146\nlast_crash     : 1500273250\nlast_hang      : 1500273209\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/TVS/input -o /dev/shm/work/TVS/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/TVS/TVS.dict -- data/linux/processed-challenges/TVS/bin/TVS\n'
+p163
+I0
+tp164
+a(I9840
+S'start_time     : 1500263591\nlast_update    : 1500273389\nfuzzer_pid     : 11001\ncycles_done    : 0\nexecs_done     : 6845684\nexecs_per_sec  : 703.32\npaths_total    : 265\npaths_favored  : 89\npaths_found    : 264\npaths_imported : 0\nmax_depth      : 16\ncur_path       : 242\npending_favs   : 17\npending_total  : 135\nvariable_paths : 0\nbitmap_cvg     : 0.89%\nunique_crashes : 86\nunique_hangs   : 115\nlast_path      : 1500273349\nlast_crash     : 1500273370\nlast_hang      : 1500273209\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/TVS/input -o /dev/shm/work/TVS/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/TVS/TVS.dict -- data/linux/processed-challenges/TVS/bin/TVS\n'
+p165
+I3
+tp166
+a(I9960
+S'start_time     : 1500263591\nlast_update    : 1500273509\nfuzzer_pid     : 11001\ncycles_done    : 0\nexecs_done     : 6931468\nexecs_per_sec  : 794.78\npaths_total    : 266\npaths_favored  : 89\npaths_found    : 265\npaths_imported : 0\nmax_depth      : 16\ncur_path       : 243\npending_favs   : 18\npending_total  : 135\nvariable_paths : 0\nbitmap_cvg     : 0.89%\nunique_crashes : 89\nunique_hangs   : 115\nlast_path      : 1500273441\nlast_crash     : 1500273430\nlast_hang      : 1500273209\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/TVS/input -o /dev/shm/work/TVS/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/TVS/TVS.dict -- data/linux/processed-challenges/TVS/bin/TVS\n'
+p167
+I0
+tp168
+a(I10080
+S'start_time     : 1500263591\nlast_update    : 1500273629\nfuzzer_pid     : 11001\ncycles_done    : 0\nexecs_done     : 7025241\nexecs_per_sec  : 761.46\npaths_total    : 266\npaths_favored  : 90\npaths_found    : 265\npaths_imported : 0\nmax_depth      : 16\ncur_path       : 246\npending_favs   : 17\npending_total  : 133\nvariable_paths : 0\nbitmap_cvg     : 0.89%\nunique_crashes : 89\nunique_hangs   : 115\nlast_path      : 1500273441\nlast_crash     : 1500273430\nlast_hang      : 1500273209\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/TVS/input -o /dev/shm/work/TVS/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/TVS/TVS.dict -- data/linux/processed-challenges/TVS/bin/TVS\n'
+p169
+I0
+tp170
+a(I10200
+S'start_time     : 1500263591\nlast_update    : 1500273749\nfuzzer_pid     : 11001\ncycles_done    : 0\nexecs_done     : 7122880\nexecs_per_sec  : 821.97\npaths_total    : 267\npaths_favored  : 90\npaths_found    : 266\npaths_imported : 0\nmax_depth      : 16\ncur_path       : 247\npending_favs   : 16\npending_total  : 133\nvariable_paths : 0\nbitmap_cvg     : 0.90%\nunique_crashes : 90\nunique_hangs   : 116\nlast_path      : 1500273719\nlast_crash     : 1500273645\nlast_hang      : 1500273691\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/TVS/input -o /dev/shm/work/TVS/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/TVS/TVS.dict -- data/linux/processed-challenges/TVS/bin/TVS\n'
+p171
+I2
+tp172
+a(I10320
+S'start_time     : 1500263591\nlast_update    : 1500273870\nfuzzer_pid     : 11001\ncycles_done    : 0\nexecs_done     : 7219526\nexecs_per_sec  : 844.06\npaths_total    : 268\npaths_favored  : 90\npaths_found    : 267\npaths_imported : 0\nmax_depth      : 16\ncur_path       : 249\npending_favs   : 16\npending_total  : 132\nvariable_paths : 0\nbitmap_cvg     : 0.90%\nunique_crashes : 90\nunique_hangs   : 116\nlast_path      : 1500273783\nlast_crash     : 1500273645\nlast_hang      : 1500273691\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/TVS/input -o /dev/shm/work/TVS/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/TVS/TVS.dict -- data/linux/processed-challenges/TVS/bin/TVS\n'
+p173
+I1
+tp174
+a(I10440
+S'start_time     : 1500263591\nlast_update    : 1500273990\nfuzzer_pid     : 11001\ncycles_done    : 0\nexecs_done     : 7319891\nexecs_per_sec  : 803.42\npaths_total    : 269\npaths_favored  : 91\npaths_found    : 268\npaths_imported : 0\nmax_depth      : 16\ncur_path       : 250\npending_favs   : 16\npending_total  : 132\nvariable_paths : 0\nbitmap_cvg     : 0.90%\nunique_crashes : 91\nunique_hangs   : 117\nlast_path      : 1500273875\nlast_crash     : 1500273903\nlast_hang      : 1500273876\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/TVS/input -o /dev/shm/work/TVS/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/TVS/TVS.dict -- data/linux/processed-challenges/TVS/bin/TVS\n'
+p175
+I1
+tp176
+a(I10560
+S'start_time     : 1500263591\nlast_update    : 1500274110\nfuzzer_pid     : 11001\ncycles_done    : 0\nexecs_done     : 7420996\nexecs_per_sec  : 728.56\npaths_total    : 271\npaths_favored  : 91\npaths_found    : 270\npaths_imported : 0\nmax_depth      : 17\ncur_path       : 251\npending_favs   : 15\npending_total  : 133\nvariable_paths : 0\nbitmap_cvg     : 0.91%\nunique_crashes : 91\nunique_hangs   : 117\nlast_path      : 1500274105\nlast_crash     : 1500273903\nlast_hang      : 1500273876\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/TVS/input -o /dev/shm/work/TVS/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/TVS/TVS.dict -- data/linux/processed-challenges/TVS/bin/TVS\n'
+p177
+I1
+tp178
+a(I10680
+S'start_time     : 1500263591\nlast_update    : 1500274230\nfuzzer_pid     : 11001\ncycles_done    : 0\nexecs_done     : 7502707\nexecs_per_sec  : 676.34\npaths_total    : 272\npaths_favored  : 92\npaths_found    : 271\npaths_imported : 0\nmax_depth      : 17\ncur_path       : 253\npending_favs   : 15\npending_total  : 133\nvariable_paths : 0\nbitmap_cvg     : 0.91%\nunique_crashes : 92\nunique_hangs   : 117\nlast_path      : 1500274169\nlast_crash     : 1500274133\nlast_hang      : 1500273876\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/TVS/input -o /dev/shm/work/TVS/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/TVS/TVS.dict -- data/linux/processed-challenges/TVS/bin/TVS\n'
+p179
+I2
+tp180
+a.

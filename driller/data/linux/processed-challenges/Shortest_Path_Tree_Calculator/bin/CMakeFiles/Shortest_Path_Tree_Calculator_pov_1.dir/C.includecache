@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/libcgc.h
+
+/vagrant/driller/data/linux/processed-challenges/Shortest_Path_Tree_Calculator/pov_1/pov.c
+libcgc.h
+-
+

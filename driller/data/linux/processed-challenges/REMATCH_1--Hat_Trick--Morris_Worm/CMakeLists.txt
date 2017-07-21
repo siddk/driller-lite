@@ -1,0 +1,5 @@
+set( SERVICE_ID "00093" )
+set( AUTHOR_ID "CROMU" )
+add_compile_options( -O0 -g -Wno-overlength-strings -Wno-packed )
+set( VULN_COUNT "3" )
+buildCB()

@@ -1,0 +1,452 @@
+(lp0
+(I0
+S'start_time     : 1500155123\nlast_update    : 1500155123\nfuzzer_pid     : 20478\ncycles_done    : 0\nexecs_done     : 10\nexecs_per_sec  : 169.49\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 1\npending_total  : 1\nvariable_paths : 0\nbitmap_cvg     : 0.09%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/INSULATR/input -o /dev/shm/work/INSULATR/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/INSULATR/INSULATR.dict -- data/linux/processed-challenges/INSULATR/bin/INSULATR\n'
+p1
+I19
+tp2
+a(I120
+S'start_time     : 1500155123\nlast_update    : 1500155244\nfuzzer_pid     : 20478\ncycles_done    : 0\nexecs_done     : 114305\nexecs_per_sec  : 953.47\npaths_total    : 29\npaths_favored  : 1\npaths_found    : 28\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 1\npending_total  : 29\nvariable_paths : 0\nbitmap_cvg     : 0.23%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500155217\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/INSULATR/input -o /dev/shm/work/INSULATR/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/INSULATR/INSULATR.dict -- data/linux/processed-challenges/INSULATR/bin/INSULATR\n'
+p3
+I10
+tp4
+a(I240
+S'start_time     : 1500155123\nlast_update    : 1500155364\nfuzzer_pid     : 20478\ncycles_done    : 0\nexecs_done     : 227718\nexecs_per_sec  : 911.83\npaths_total    : 36\npaths_favored  : 12\npaths_found    : 35\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 14\npending_favs   : 6\npending_total  : 29\nvariable_paths : 0\nbitmap_cvg     : 0.25%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500155344\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/INSULATR/input -o /dev/shm/work/INSULATR/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/INSULATR/INSULATR.dict -- data/linux/processed-challenges/INSULATR/bin/INSULATR\n'
+p5
+I7
+tp6
+a(I360
+S'start_time     : 1500155123\nlast_update    : 1500155484\nfuzzer_pid     : 20478\ncycles_done    : 0\nexecs_done     : 333595\nexecs_per_sec  : 864.07\npaths_total    : 40\npaths_favored  : 15\npaths_found    : 39\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 24\npending_favs   : 8\npending_total  : 30\nvariable_paths : 0\nbitmap_cvg     : 0.25%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500155431\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/INSULATR/input -o /dev/shm/work/INSULATR/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/INSULATR/INSULATR.dict -- data/linux/processed-challenges/INSULATR/bin/INSULATR\n'
+p7
+I6
+tp8
+a(I480
+S'start_time     : 1500155123\nlast_update    : 1500155604\nfuzzer_pid     : 20478\ncycles_done    : 0\nexecs_done     : 435613\nexecs_per_sec  : 856.81\npaths_total    : 51\npaths_favored  : 15\npaths_found    : 50\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 31\npending_favs   : 7\npending_total  : 40\nvariable_paths : 0\nbitmap_cvg     : 0.27%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500155590\nlast_crash     : 0\nlast_hang      : 1500155521\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/INSULATR/input -o /dev/shm/work/INSULATR/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/INSULATR/INSULATR.dict -- data/linux/processed-challenges/INSULATR/bin/INSULATR\n'
+p9
+I9
+tp10
+a(I600
+S'start_time     : 1500155123\nlast_update    : 1500155725\nfuzzer_pid     : 20478\ncycles_done    : 0\nexecs_done     : 538341\nexecs_per_sec  : 828.84\npaths_total    : 53\npaths_favored  : 19\npaths_found    : 52\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 36\npending_favs   : 9\npending_total  : 40\nvariable_paths : 0\nbitmap_cvg     : 0.27%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500155719\nlast_crash     : 0\nlast_hang      : 1500155521\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/INSULATR/input -o /dev/shm/work/INSULATR/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/INSULATR/INSULATR.dict -- data/linux/processed-challenges/INSULATR/bin/INSULATR\n'
+p11
+I2
+tp12
+a(I720
+S'start_time     : 1500155123\nlast_update    : 1500155845\nfuzzer_pid     : 20478\ncycles_done    : 0\nexecs_done     : 638981\nexecs_per_sec  : 832.54\npaths_total    : 56\npaths_favored  : 20\npaths_found    : 55\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 44\npending_favs   : 5\npending_total  : 38\nvariable_paths : 0\nbitmap_cvg     : 0.27%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500155814\nlast_crash     : 0\nlast_hang      : 1500155521\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/INSULATR/input -o /dev/shm/work/INSULATR/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/INSULATR/INSULATR.dict -- data/linux/processed-challenges/INSULATR/bin/INSULATR\n'
+p13
+I3
+tp14
+a(I840
+S'start_time     : 1500155123\nlast_update    : 1500155965\nfuzzer_pid     : 20478\ncycles_done    : 0\nexecs_done     : 738988\nexecs_per_sec  : 786.31\npaths_total    : 58\npaths_favored  : 21\npaths_found    : 57\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 56\npending_favs   : 2\npending_total  : 35\nvariable_paths : 0\nbitmap_cvg     : 0.27%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500155948\nlast_crash     : 0\nlast_hang      : 1500155521\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/INSULATR/input -o /dev/shm/work/INSULATR/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/INSULATR/INSULATR.dict -- data/linux/processed-challenges/INSULATR/bin/INSULATR\n'
+p15
+I2
+tp16
+a(I960
+S'start_time     : 1500155123\nlast_update    : 1500156085\nfuzzer_pid     : 20478\ncycles_done    : 1\nexecs_done     : 842568\nexecs_per_sec  : 820.92\npaths_total    : 59\npaths_favored  : 21\npaths_found    : 58\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 27\npending_favs   : 0\npending_total  : 29\nvariable_paths : 0\nbitmap_cvg     : 0.27%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500156057\nlast_crash     : 0\nlast_hang      : 1500156004\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/INSULATR/input -o /dev/shm/work/INSULATR/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/INSULATR/INSULATR.dict -- data/linux/processed-challenges/INSULATR/bin/INSULATR\n'
+p17
+I1
+tp18
+a(I1080
+S'start_time     : 1500155123\nlast_update    : 1500156206\nfuzzer_pid     : 20478\ncycles_done    : 1\nexecs_done     : 944802\nexecs_per_sec  : 858.76\npaths_total    : 62\npaths_favored  : 20\npaths_found    : 61\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 61\npending_favs   : 1\npending_total  : 28\nvariable_paths : 0\nbitmap_cvg     : 0.28%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500156175\nlast_crash     : 0\nlast_hang      : 1500156004\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/INSULATR/input -o /dev/shm/work/INSULATR/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/INSULATR/INSULATR.dict -- data/linux/processed-challenges/INSULATR/bin/INSULATR\n'
+p19
+I4
+tp20
+a(I1200
+S'start_time     : 1500155123\nlast_update    : 1500156326\nfuzzer_pid     : 20478\ncycles_done    : 2\nexecs_done     : 1048783\nexecs_per_sec  : 775.56\npaths_total    : 63\npaths_favored  : 21\npaths_found    : 62\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 23\npending_favs   : 0\npending_total  : 26\nvariable_paths : 0\nbitmap_cvg     : 0.28%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500156210\nlast_crash     : 0\nlast_hang      : 1500156004\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/INSULATR/input -o /dev/shm/work/INSULATR/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/INSULATR/INSULATR.dict -- data/linux/processed-challenges/INSULATR/bin/INSULATR\n'
+p21
+I0
+tp22
+a(I1320
+S'start_time     : 1500155123\nlast_update    : 1500156446\nfuzzer_pid     : 20478\ncycles_done    : 2\nexecs_done     : 1149501\nexecs_per_sec  : 794.90\npaths_total    : 63\npaths_favored  : 21\npaths_found    : 62\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 50\npending_favs   : 0\npending_total  : 24\nvariable_paths : 0\nbitmap_cvg     : 0.28%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500156210\nlast_crash     : 0\nlast_hang      : 1500156004\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/INSULATR/input -o /dev/shm/work/INSULATR/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/INSULATR/INSULATR.dict -- data/linux/processed-challenges/INSULATR/bin/INSULATR\n'
+p23
+I0
+tp24
+a(I1440
+S'start_time     : 1500155123\nlast_update    : 1500156566\nfuzzer_pid     : 20478\ncycles_done    : 3\nexecs_done     : 1250200\nexecs_per_sec  : 865.23\npaths_total    : 65\npaths_favored  : 21\npaths_found    : 64\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 4\npending_favs   : 0\npending_total  : 24\nvariable_paths : 0\nbitmap_cvg     : 0.28%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500156555\nlast_crash     : 0\nlast_hang      : 1500156004\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/INSULATR/input -o /dev/shm/work/INSULATR/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/INSULATR/INSULATR.dict -- data/linux/processed-challenges/INSULATR/bin/INSULATR\n'
+p25
+I2
+tp26
+a(I1560
+S'start_time     : 1500155123\nlast_update    : 1500156687\nfuzzer_pid     : 20478\ncycles_done    : 3\nexecs_done     : 1352652\nexecs_per_sec  : 807.85\npaths_total    : 67\npaths_favored  : 21\npaths_found    : 66\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 20\npending_favs   : 0\npending_total  : 24\nvariable_paths : 0\nbitmap_cvg     : 0.28%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500156608\nlast_crash     : 0\nlast_hang      : 1500156004\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/INSULATR/input -o /dev/shm/work/INSULATR/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/INSULATR/INSULATR.dict -- data/linux/processed-challenges/INSULATR/bin/INSULATR\n'
+p27
+I2
+tp28
+a(I1680
+S'start_time     : 1500155123\nlast_update    : 1500156807\nfuzzer_pid     : 20478\ncycles_done    : 3\nexecs_done     : 1456010\nexecs_per_sec  : 864.10\npaths_total    : 67\npaths_favored  : 21\npaths_found    : 66\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 38\npending_favs   : 0\npending_total  : 23\nvariable_paths : 0\nbitmap_cvg     : 0.28%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500156608\nlast_crash     : 0\nlast_hang      : 1500156004\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/INSULATR/input -o /dev/shm/work/INSULATR/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/INSULATR/INSULATR.dict -- data/linux/processed-challenges/INSULATR/bin/INSULATR\n'
+p29
+I0
+tp30
+a(I1800
+S'start_time     : 1500155123\nlast_update    : 1500156927\nfuzzer_pid     : 20478\ncycles_done    : 3\nexecs_done     : 1559358\nexecs_per_sec  : 830.08\npaths_total    : 67\npaths_favored  : 21\npaths_found    : 66\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 45\npending_favs   : 0\npending_total  : 22\nvariable_paths : 0\nbitmap_cvg     : 0.28%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500156608\nlast_crash     : 0\nlast_hang      : 1500156004\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/INSULATR/input -o /dev/shm/work/INSULATR/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/INSULATR/INSULATR.dict -- data/linux/processed-challenges/INSULATR/bin/INSULATR\n'
+p31
+I0
+tp32
+a(I1920
+S'start_time     : 1500155123\nlast_update    : 1500157047\nfuzzer_pid     : 20478\ncycles_done    : 3\nexecs_done     : 1661726\nexecs_per_sec  : 821.32\npaths_total    : 67\npaths_favored  : 21\npaths_found    : 66\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 52\npending_favs   : 0\npending_total  : 22\nvariable_paths : 0\nbitmap_cvg     : 0.28%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500156608\nlast_crash     : 0\nlast_hang      : 1500156004\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/INSULATR/input -o /dev/shm/work/INSULATR/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/INSULATR/INSULATR.dict -- data/linux/processed-challenges/INSULATR/bin/INSULATR\n'
+p33
+I0
+tp34
+a(I2040
+S'start_time     : 1500155123\nlast_update    : 1500157168\nfuzzer_pid     : 20478\ncycles_done    : 3\nexecs_done     : 1761884\nexecs_per_sec  : 861.12\npaths_total    : 67\npaths_favored  : 21\npaths_found    : 66\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 59\npending_favs   : 0\npending_total  : 20\nvariable_paths : 0\nbitmap_cvg     : 0.28%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500156608\nlast_crash     : 0\nlast_hang      : 1500156004\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/INSULATR/input -o /dev/shm/work/INSULATR/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/INSULATR/INSULATR.dict -- data/linux/processed-challenges/INSULATR/bin/INSULATR\n'
+p35
+I0
+tp36
+a(I2160
+S'start_time     : 1500155123\nlast_update    : 1500157288\nfuzzer_pid     : 20478\ncycles_done    : 3\nexecs_done     : 1863323\nexecs_per_sec  : 869.01\npaths_total    : 67\npaths_favored  : 21\npaths_found    : 66\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 61\npending_favs   : 0\npending_total  : 19\nvariable_paths : 0\nbitmap_cvg     : 0.28%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500156608\nlast_crash     : 0\nlast_hang      : 1500156004\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/INSULATR/input -o /dev/shm/work/INSULATR/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/INSULATR/INSULATR.dict -- data/linux/processed-challenges/INSULATR/bin/INSULATR\n'
+p37
+I0
+tp38
+a(I2280
+S'start_time     : 1500155123\nlast_update    : 1500157408\nfuzzer_pid     : 20478\ncycles_done    : 3\nexecs_done     : 1959226\nexecs_per_sec  : 762.85\npaths_total    : 68\npaths_favored  : 21\npaths_found    : 67\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 66\npending_favs   : 0\npending_total  : 19\nvariable_paths : 0\nbitmap_cvg     : 0.28%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500157305\nlast_crash     : 0\nlast_hang      : 1500156004\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/INSULATR/input -o /dev/shm/work/INSULATR/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/INSULATR/INSULATR.dict -- data/linux/processed-challenges/INSULATR/bin/INSULATR\n'
+p39
+I1
+tp40
+a(I2400
+S'start_time     : 1500155123\nlast_update    : 1500157528\nfuzzer_pid     : 20478\ncycles_done    : 4\nexecs_done     : 2054119\nexecs_per_sec  : 885.63\npaths_total    : 68\npaths_favored  : 21\npaths_found    : 67\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 2\npending_favs   : 0\npending_total  : 18\nvariable_paths : 0\nbitmap_cvg     : 0.28%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500157305\nlast_crash     : 0\nlast_hang      : 1500156004\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/INSULATR/input -o /dev/shm/work/INSULATR/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/INSULATR/INSULATR.dict -- data/linux/processed-challenges/INSULATR/bin/INSULATR\n'
+p41
+I0
+tp42
+a(I2520
+S'start_time     : 1500155123\nlast_update    : 1500157648\nfuzzer_pid     : 20478\ncycles_done    : 4\nexecs_done     : 2160912\nexecs_per_sec  : 875.23\npaths_total    : 68\npaths_favored  : 21\npaths_found    : 67\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 22\npending_favs   : 0\npending_total  : 17\nvariable_paths : 0\nbitmap_cvg     : 0.28%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500157305\nlast_crash     : 0\nlast_hang      : 1500156004\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/INSULATR/input -o /dev/shm/work/INSULATR/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/INSULATR/INSULATR.dict -- data/linux/processed-challenges/INSULATR/bin/INSULATR\n'
+p43
+I0
+tp44
+a(I2640
+S'start_time     : 1500155123\nlast_update    : 1500157768\nfuzzer_pid     : 20478\ncycles_done    : 4\nexecs_done     : 2263995\nexecs_per_sec  : 864.15\npaths_total    : 69\npaths_favored  : 21\npaths_found    : 68\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 39\npending_favs   : 0\npending_total  : 18\nvariable_paths : 0\nbitmap_cvg     : 0.28%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500157744\nlast_crash     : 0\nlast_hang      : 1500156004\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/INSULATR/input -o /dev/shm/work/INSULATR/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/INSULATR/INSULATR.dict -- data/linux/processed-challenges/INSULATR/bin/INSULATR\n'
+p45
+I2
+tp46
+a(I2760
+S'start_time     : 1500155123\nlast_update    : 1500157889\nfuzzer_pid     : 20478\ncycles_done    : 4\nexecs_done     : 2366856\nexecs_per_sec  : 856.17\npaths_total    : 70\npaths_favored  : 21\npaths_found    : 69\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 48\npending_favs   : 0\npending_total  : 19\nvariable_paths : 0\nbitmap_cvg     : 0.28%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500157772\nlast_crash     : 0\nlast_hang      : 1500156004\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/INSULATR/input -o /dev/shm/work/INSULATR/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/INSULATR/INSULATR.dict -- data/linux/processed-challenges/INSULATR/bin/INSULATR\n'
+p47
+I0
+tp48
+a(I2880
+S'start_time     : 1500155123\nlast_update    : 1500158009\nfuzzer_pid     : 20478\ncycles_done    : 4\nexecs_done     : 2470605\nexecs_per_sec  : 850.70\npaths_total    : 70\npaths_favored  : 21\npaths_found    : 69\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 62\npending_favs   : 0\npending_total  : 19\nvariable_paths : 0\nbitmap_cvg     : 0.28%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500157772\nlast_crash     : 0\nlast_hang      : 1500156004\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/INSULATR/input -o /dev/shm/work/INSULATR/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/INSULATR/INSULATR.dict -- data/linux/processed-challenges/INSULATR/bin/INSULATR\n'
+p49
+I0
+tp50
+a(I3000
+S'start_time     : 1500155123\nlast_update    : 1500158129\nfuzzer_pid     : 20478\ncycles_done    : 5\nexecs_done     : 2574580\nexecs_per_sec  : 875.31\npaths_total    : 70\npaths_favored  : 21\npaths_found    : 69\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 20\npending_favs   : 0\npending_total  : 18\nvariable_paths : 0\nbitmap_cvg     : 0.28%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500157772\nlast_crash     : 0\nlast_hang      : 1500156004\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/INSULATR/input -o /dev/shm/work/INSULATR/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/INSULATR/INSULATR.dict -- data/linux/processed-challenges/INSULATR/bin/INSULATR\n'
+p51
+I0
+tp52
+a(I3120
+S'start_time     : 1500155123\nlast_update    : 1500158249\nfuzzer_pid     : 20478\ncycles_done    : 5\nexecs_done     : 2679135\nexecs_per_sec  : 851.12\npaths_total    : 70\npaths_favored  : 21\npaths_found    : 69\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 39\npending_favs   : 0\npending_total  : 18\nvariable_paths : 0\nbitmap_cvg     : 0.28%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500157772\nlast_crash     : 0\nlast_hang      : 1500156004\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/INSULATR/input -o /dev/shm/work/INSULATR/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/INSULATR/INSULATR.dict -- data/linux/processed-challenges/INSULATR/bin/INSULATR\n'
+p53
+I0
+tp54
+a(I3240
+S'start_time     : 1500155123\nlast_update    : 1500158369\nfuzzer_pid     : 20478\ncycles_done    : 5\nexecs_done     : 2782856\nexecs_per_sec  : 889.65\npaths_total    : 70\npaths_favored  : 21\npaths_found    : 69\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 48\npending_favs   : 0\npending_total  : 18\nvariable_paths : 0\nbitmap_cvg     : 0.28%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500157772\nlast_crash     : 0\nlast_hang      : 1500156004\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/INSULATR/input -o /dev/shm/work/INSULATR/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/INSULATR/INSULATR.dict -- data/linux/processed-challenges/INSULATR/bin/INSULATR\n'
+p55
+I0
+tp56
+a(I3360
+S'start_time     : 1500155123\nlast_update    : 1500158490\nfuzzer_pid     : 20478\ncycles_done    : 5\nexecs_done     : 2886012\nexecs_per_sec  : 903.11\npaths_total    : 70\npaths_favored  : 21\npaths_found    : 69\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 61\npending_favs   : 0\npending_total  : 17\nvariable_paths : 0\nbitmap_cvg     : 0.28%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500157772\nlast_crash     : 0\nlast_hang      : 1500156004\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/INSULATR/input -o /dev/shm/work/INSULATR/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/INSULATR/INSULATR.dict -- data/linux/processed-challenges/INSULATR/bin/INSULATR\n'
+p57
+I0
+tp58
+a(I3480
+S'start_time     : 1500155123\nlast_update    : 1500158610\nfuzzer_pid     : 20478\ncycles_done    : 6\nexecs_done     : 2987284\nexecs_per_sec  : 861.70\npaths_total    : 70\npaths_favored  : 21\npaths_found    : 69\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 5\npending_favs   : 0\npending_total  : 17\nvariable_paths : 0\nbitmap_cvg     : 0.28%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500157772\nlast_crash     : 0\nlast_hang      : 1500156004\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/INSULATR/input -o /dev/shm/work/INSULATR/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/INSULATR/INSULATR.dict -- data/linux/processed-challenges/INSULATR/bin/INSULATR\n'
+p59
+I0
+tp60
+a(I3600
+S'start_time     : 1500155123\nlast_update    : 1500158730\nfuzzer_pid     : 20478\ncycles_done    : 6\nexecs_done     : 3090397\nexecs_per_sec  : 854.46\npaths_total    : 70\npaths_favored  : 21\npaths_found    : 69\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 29\npending_favs   : 0\npending_total  : 16\nvariable_paths : 0\nbitmap_cvg     : 0.28%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500157772\nlast_crash     : 0\nlast_hang      : 1500156004\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/INSULATR/input -o /dev/shm/work/INSULATR/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/INSULATR/INSULATR.dict -- data/linux/processed-challenges/INSULATR/bin/INSULATR\n'
+p61
+I0
+tp62
+a(I3720
+S'start_time     : 1500155123\nlast_update    : 1500158850\nfuzzer_pid     : 20478\ncycles_done    : 6\nexecs_done     : 3193697\nexecs_per_sec  : 898.22\npaths_total    : 70\npaths_favored  : 21\npaths_found    : 69\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 43\npending_favs   : 0\npending_total  : 16\nvariable_paths : 0\nbitmap_cvg     : 0.28%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500157772\nlast_crash     : 0\nlast_hang      : 1500156004\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/INSULATR/input -o /dev/shm/work/INSULATR/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/INSULATR/INSULATR.dict -- data/linux/processed-challenges/INSULATR/bin/INSULATR\n'
+p63
+I0
+tp64
+a(I3840
+S'start_time     : 1500155123\nlast_update    : 1500158970\nfuzzer_pid     : 20478\ncycles_done    : 6\nexecs_done     : 3297340\nexecs_per_sec  : 860.24\npaths_total    : 70\npaths_favored  : 21\npaths_found    : 69\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 52\npending_favs   : 0\npending_total  : 16\nvariable_paths : 0\nbitmap_cvg     : 0.28%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500157772\nlast_crash     : 0\nlast_hang      : 1500156004\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/INSULATR/input -o /dev/shm/work/INSULATR/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/INSULATR/INSULATR.dict -- data/linux/processed-challenges/INSULATR/bin/INSULATR\n'
+p65
+I0
+tp66
+a(I3960
+S'start_time     : 1500155123\nlast_update    : 1500159090\nfuzzer_pid     : 20478\ncycles_done    : 6\nexecs_done     : 3399633\nexecs_per_sec  : 848.28\npaths_total    : 70\npaths_favored  : 21\npaths_found    : 69\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 62\npending_favs   : 0\npending_total  : 16\nvariable_paths : 0\nbitmap_cvg     : 0.28%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500157772\nlast_crash     : 0\nlast_hang      : 1500156004\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/INSULATR/input -o /dev/shm/work/INSULATR/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/INSULATR/INSULATR.dict -- data/linux/processed-challenges/INSULATR/bin/INSULATR\n'
+p67
+I0
+tp68
+a(I4080
+S'start_time     : 1500155123\nlast_update    : 1500159211\nfuzzer_pid     : 20478\ncycles_done    : 7\nexecs_done     : 3506579\nexecs_per_sec  : 898.49\npaths_total    : 70\npaths_favored  : 21\npaths_found    : 69\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 16\npending_favs   : 0\npending_total  : 16\nvariable_paths : 0\nbitmap_cvg     : 0.28%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500157772\nlast_crash     : 0\nlast_hang      : 1500156004\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/INSULATR/input -o /dev/shm/work/INSULATR/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/INSULATR/INSULATR.dict -- data/linux/processed-challenges/INSULATR/bin/INSULATR\n'
+p69
+I0
+tp70
+a(I4200
+S'start_time     : 1500155123\nlast_update    : 1500159331\nfuzzer_pid     : 20478\ncycles_done    : 7\nexecs_done     : 3613079\nexecs_per_sec  : 897.13\npaths_total    : 70\npaths_favored  : 21\npaths_found    : 69\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 37\npending_favs   : 0\npending_total  : 15\nvariable_paths : 0\nbitmap_cvg     : 0.28%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500157772\nlast_crash     : 0\nlast_hang      : 1500156004\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/INSULATR/input -o /dev/shm/work/INSULATR/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/INSULATR/INSULATR.dict -- data/linux/processed-challenges/INSULATR/bin/INSULATR\n'
+p71
+I0
+tp72
+a(I4320
+S'start_time     : 1500155123\nlast_update    : 1500159451\nfuzzer_pid     : 20478\ncycles_done    : 7\nexecs_done     : 3718768\nexecs_per_sec  : 940.15\npaths_total    : 70\npaths_favored  : 21\npaths_found    : 69\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 46\npending_favs   : 0\npending_total  : 15\nvariable_paths : 0\nbitmap_cvg     : 0.28%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500157772\nlast_crash     : 0\nlast_hang      : 1500156004\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/INSULATR/input -o /dev/shm/work/INSULATR/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/INSULATR/INSULATR.dict -- data/linux/processed-challenges/INSULATR/bin/INSULATR\n'
+p73
+I0
+tp74
+a(I4440
+S'start_time     : 1500155123\nlast_update    : 1500159572\nfuzzer_pid     : 20478\ncycles_done    : 7\nexecs_done     : 3821409\nexecs_per_sec  : 859.54\npaths_total    : 70\npaths_favored  : 21\npaths_found    : 69\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 57\npending_favs   : 0\npending_total  : 15\nvariable_paths : 0\nbitmap_cvg     : 0.28%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500157772\nlast_crash     : 0\nlast_hang      : 1500156004\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/INSULATR/input -o /dev/shm/work/INSULATR/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/INSULATR/INSULATR.dict -- data/linux/processed-challenges/INSULATR/bin/INSULATR\n'
+p75
+I0
+tp76
+a(I4560
+S'start_time     : 1500155123\nlast_update    : 1500159692\nfuzzer_pid     : 20478\ncycles_done    : 7\nexecs_done     : 3916356\nexecs_per_sec  : 614.31\npaths_total    : 70\npaths_favored  : 21\npaths_found    : 69\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 68\npending_favs   : 0\npending_total  : 15\nvariable_paths : 0\nbitmap_cvg     : 0.28%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500157772\nlast_crash     : 0\nlast_hang      : 1500156004\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/INSULATR/input -o /dev/shm/work/INSULATR/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/INSULATR/INSULATR.dict -- data/linux/processed-challenges/INSULATR/bin/INSULATR\n'
+p77
+I0
+tp78
+a(I4680
+S'start_time     : 1500155123\nlast_update    : 1500159812\nfuzzer_pid     : 20478\ncycles_done    : 7\nexecs_done     : 3990342\nexecs_per_sec  : 604.03\npaths_total    : 70\npaths_favored  : 21\npaths_found    : 69\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 68\npending_favs   : 0\npending_total  : 15\nvariable_paths : 0\nbitmap_cvg     : 0.28%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500157772\nlast_crash     : 0\nlast_hang      : 1500156004\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/INSULATR/input -o /dev/shm/work/INSULATR/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/INSULATR/INSULATR.dict -- data/linux/processed-challenges/INSULATR/bin/INSULATR\n'
+p79
+I0
+tp80
+a(I4800
+S'start_time     : 1500155123\nlast_update    : 1500159932\nfuzzer_pid     : 20478\ncycles_done    : 7\nexecs_done     : 4069974\nexecs_per_sec  : 721.22\npaths_total    : 70\npaths_favored  : 21\npaths_found    : 69\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 68\npending_favs   : 0\npending_total  : 15\nvariable_paths : 0\nbitmap_cvg     : 0.28%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500157772\nlast_crash     : 0\nlast_hang      : 1500156004\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/INSULATR/input -o /dev/shm/work/INSULATR/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/INSULATR/INSULATR.dict -- data/linux/processed-challenges/INSULATR/bin/INSULATR\n'
+p81
+I0
+tp82
+a(I4920
+S'start_time     : 1500155123\nlast_update    : 1500160052\nfuzzer_pid     : 20478\ncycles_done    : 8\nexecs_done     : 4173030\nexecs_per_sec  : 889.34\npaths_total    : 70\npaths_favored  : 21\npaths_found    : 69\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 1\npending_favs   : 0\npending_total  : 14\nvariable_paths : 0\nbitmap_cvg     : 0.28%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500157772\nlast_crash     : 0\nlast_hang      : 1500156004\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/INSULATR/input -o /dev/shm/work/INSULATR/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/INSULATR/INSULATR.dict -- data/linux/processed-challenges/INSULATR/bin/INSULATR\n'
+p83
+I0
+tp84
+a(I5040
+S'start_time     : 1500155123\nlast_update    : 1500160173\nfuzzer_pid     : 20478\ncycles_done    : 8\nexecs_done     : 4276695\nexecs_per_sec  : 859.06\npaths_total    : 70\npaths_favored  : 21\npaths_found    : 69\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 24\npending_favs   : 0\npending_total  : 14\nvariable_paths : 0\nbitmap_cvg     : 0.28%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500157772\nlast_crash     : 0\nlast_hang      : 1500156004\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/INSULATR/input -o /dev/shm/work/INSULATR/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/INSULATR/INSULATR.dict -- data/linux/processed-challenges/INSULATR/bin/INSULATR\n'
+p85
+I0
+tp86
+a(I5160
+S'start_time     : 1500155123\nlast_update    : 1500160293\nfuzzer_pid     : 20478\ncycles_done    : 8\nexecs_done     : 4378464\nexecs_per_sec  : 827.54\npaths_total    : 70\npaths_favored  : 21\npaths_found    : 69\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 40\npending_favs   : 0\npending_total  : 14\nvariable_paths : 0\nbitmap_cvg     : 0.28%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500157772\nlast_crash     : 0\nlast_hang      : 1500156004\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/INSULATR/input -o /dev/shm/work/INSULATR/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/INSULATR/INSULATR.dict -- data/linux/processed-challenges/INSULATR/bin/INSULATR\n'
+p87
+I0
+tp88
+a(I5280
+S'start_time     : 1500155123\nlast_update    : 1500160413\nfuzzer_pid     : 20478\ncycles_done    : 8\nexecs_done     : 4478186\nexecs_per_sec  : 872.09\npaths_total    : 70\npaths_favored  : 21\npaths_found    : 69\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 46\npending_favs   : 0\npending_total  : 13\nvariable_paths : 0\nbitmap_cvg     : 0.28%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500157772\nlast_crash     : 0\nlast_hang      : 1500156004\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/INSULATR/input -o /dev/shm/work/INSULATR/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/INSULATR/INSULATR.dict -- data/linux/processed-challenges/INSULATR/bin/INSULATR\n'
+p89
+I0
+tp90
+a(I5400
+S'start_time     : 1500155123\nlast_update    : 1500160533\nfuzzer_pid     : 20478\ncycles_done    : 8\nexecs_done     : 4578732\nexecs_per_sec  : 876.94\npaths_total    : 70\npaths_favored  : 21\npaths_found    : 69\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 52\npending_favs   : 0\npending_total  : 12\nvariable_paths : 0\nbitmap_cvg     : 0.28%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500157772\nlast_crash     : 0\nlast_hang      : 1500156004\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/INSULATR/input -o /dev/shm/work/INSULATR/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/INSULATR/INSULATR.dict -- data/linux/processed-challenges/INSULATR/bin/INSULATR\n'
+p91
+I0
+tp92
+a(I5520
+S'start_time     : 1500155123\nlast_update    : 1500160653\nfuzzer_pid     : 20478\ncycles_done    : 8\nexecs_done     : 4679722\nexecs_per_sec  : 855.94\npaths_total    : 70\npaths_favored  : 21\npaths_found    : 69\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 62\npending_favs   : 0\npending_total  : 12\nvariable_paths : 0\nbitmap_cvg     : 0.28%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500157772\nlast_crash     : 0\nlast_hang      : 1500156004\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/INSULATR/input -o /dev/shm/work/INSULATR/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/INSULATR/INSULATR.dict -- data/linux/processed-challenges/INSULATR/bin/INSULATR\n'
+p93
+I0
+tp94
+a(I5640
+S'start_time     : 1500155123\nlast_update    : 1500160774\nfuzzer_pid     : 20478\ncycles_done    : 9\nexecs_done     : 4782425\nexecs_per_sec  : 876.87\npaths_total    : 70\npaths_favored  : 21\npaths_found    : 69\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 22\npending_favs   : 0\npending_total  : 12\nvariable_paths : 0\nbitmap_cvg     : 0.28%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500157772\nlast_crash     : 0\nlast_hang      : 1500156004\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/INSULATR/input -o /dev/shm/work/INSULATR/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/INSULATR/INSULATR.dict -- data/linux/processed-challenges/INSULATR/bin/INSULATR\n'
+p95
+I0
+tp96
+a(I5760
+S'start_time     : 1500155123\nlast_update    : 1500160894\nfuzzer_pid     : 20478\ncycles_done    : 9\nexecs_done     : 4883370\nexecs_per_sec  : 826.37\npaths_total    : 70\npaths_favored  : 21\npaths_found    : 69\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 38\npending_favs   : 0\npending_total  : 11\nvariable_paths : 0\nbitmap_cvg     : 0.28%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500157772\nlast_crash     : 0\nlast_hang      : 1500156004\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/INSULATR/input -o /dev/shm/work/INSULATR/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/INSULATR/INSULATR.dict -- data/linux/processed-challenges/INSULATR/bin/INSULATR\n'
+p97
+I0
+tp98
+a(I5880
+S'start_time     : 1500155123\nlast_update    : 1500161014\nfuzzer_pid     : 20478\ncycles_done    : 9\nexecs_done     : 4983874\nexecs_per_sec  : 816.92\npaths_total    : 70\npaths_favored  : 21\npaths_found    : 69\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 46\npending_favs   : 0\npending_total  : 11\nvariable_paths : 0\nbitmap_cvg     : 0.28%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500157772\nlast_crash     : 0\nlast_hang      : 1500156004\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/INSULATR/input -o /dev/shm/work/INSULATR/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/INSULATR/INSULATR.dict -- data/linux/processed-challenges/INSULATR/bin/INSULATR\n'
+p99
+I0
+tp100
+a(I6000
+S'start_time     : 1500155123\nlast_update    : 1500161134\nfuzzer_pid     : 20478\ncycles_done    : 9\nexecs_done     : 5084370\nexecs_per_sec  : 787.32\npaths_total    : 70\npaths_favored  : 21\npaths_found    : 69\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 52\npending_favs   : 0\npending_total  : 10\nvariable_paths : 0\nbitmap_cvg     : 0.28%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500157772\nlast_crash     : 0\nlast_hang      : 1500156004\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/INSULATR/input -o /dev/shm/work/INSULATR/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/INSULATR/INSULATR.dict -- data/linux/processed-challenges/INSULATR/bin/INSULATR\n'
+p101
+I0
+tp102
+a(I6120
+S'start_time     : 1500155123\nlast_update    : 1500161254\nfuzzer_pid     : 20478\ncycles_done    : 9\nexecs_done     : 5185381\nexecs_per_sec  : 861.45\npaths_total    : 70\npaths_favored  : 21\npaths_found    : 69\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 61\npending_favs   : 0\npending_total  : 8\nvariable_paths : 0\nbitmap_cvg     : 0.28%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500157772\nlast_crash     : 0\nlast_hang      : 1500156004\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/INSULATR/input -o /dev/shm/work/INSULATR/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/INSULATR/INSULATR.dict -- data/linux/processed-challenges/INSULATR/bin/INSULATR\n'
+p103
+I0
+tp104
+a(I6240
+S'start_time     : 1500155123\nlast_update    : 1500161374\nfuzzer_pid     : 20478\ncycles_done    : 10\nexecs_done     : 5287367\nexecs_per_sec  : 875.07\npaths_total    : 70\npaths_favored  : 21\npaths_found    : 69\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 6\npending_favs   : 0\npending_total  : 8\nvariable_paths : 0\nbitmap_cvg     : 0.28%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500157772\nlast_crash     : 0\nlast_hang      : 1500156004\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/INSULATR/input -o /dev/shm/work/INSULATR/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/INSULATR/INSULATR.dict -- data/linux/processed-challenges/INSULATR/bin/INSULATR\n'
+p105
+I0
+tp106
+a(I6360
+S'start_time     : 1500155123\nlast_update    : 1500161495\nfuzzer_pid     : 20478\ncycles_done    : 10\nexecs_done     : 5387447\nexecs_per_sec  : 843.91\npaths_total    : 70\npaths_favored  : 21\npaths_found    : 69\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 32\npending_favs   : 0\npending_total  : 8\nvariable_paths : 0\nbitmap_cvg     : 0.28%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500157772\nlast_crash     : 0\nlast_hang      : 1500156004\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/INSULATR/input -o /dev/shm/work/INSULATR/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/INSULATR/INSULATR.dict -- data/linux/processed-challenges/INSULATR/bin/INSULATR\n'
+p107
+I0
+tp108
+a(I6480
+S'start_time     : 1500155123\nlast_update    : 1500161615\nfuzzer_pid     : 20478\ncycles_done    : 10\nexecs_done     : 5488005\nexecs_per_sec  : 853.19\npaths_total    : 70\npaths_favored  : 21\npaths_found    : 69\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 43\npending_favs   : 0\npending_total  : 7\nvariable_paths : 0\nbitmap_cvg     : 0.28%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500157772\nlast_crash     : 0\nlast_hang      : 1500156004\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/INSULATR/input -o /dev/shm/work/INSULATR/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/INSULATR/INSULATR.dict -- data/linux/processed-challenges/INSULATR/bin/INSULATR\n'
+p109
+I0
+tp110
+a(I6600
+S'start_time     : 1500155123\nlast_update    : 1500161735\nfuzzer_pid     : 20478\ncycles_done    : 10\nexecs_done     : 5588055\nexecs_per_sec  : 821.05\npaths_total    : 70\npaths_favored  : 21\npaths_found    : 69\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 48\npending_favs   : 0\npending_total  : 7\nvariable_paths : 0\nbitmap_cvg     : 0.28%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500157772\nlast_crash     : 0\nlast_hang      : 1500156004\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/INSULATR/input -o /dev/shm/work/INSULATR/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/INSULATR/INSULATR.dict -- data/linux/processed-challenges/INSULATR/bin/INSULATR\n'
+p111
+I0
+tp112
+a(I6720
+S'start_time     : 1500155123\nlast_update    : 1500161855\nfuzzer_pid     : 20478\ncycles_done    : 10\nexecs_done     : 5687143\nexecs_per_sec  : 842.17\npaths_total    : 70\npaths_favored  : 21\npaths_found    : 69\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 61\npending_favs   : 0\npending_total  : 7\nvariable_paths : 0\nbitmap_cvg     : 0.28%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500157772\nlast_crash     : 0\nlast_hang      : 1500156004\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/INSULATR/input -o /dev/shm/work/INSULATR/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/INSULATR/INSULATR.dict -- data/linux/processed-challenges/INSULATR/bin/INSULATR\n'
+p113
+I0
+tp114
+a(I6840
+S'start_time     : 1500155123\nlast_update    : 1500161975\nfuzzer_pid     : 20478\ncycles_done    : 11\nexecs_done     : 5788325\nexecs_per_sec  : 815.63\npaths_total    : 70\npaths_favored  : 21\npaths_found    : 69\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 5\npending_favs   : 0\npending_total  : 7\nvariable_paths : 0\nbitmap_cvg     : 0.28%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500157772\nlast_crash     : 0\nlast_hang      : 1500156004\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/INSULATR/input -o /dev/shm/work/INSULATR/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/INSULATR/INSULATR.dict -- data/linux/processed-challenges/INSULATR/bin/INSULATR\n'
+p115
+I0
+tp116
+a(I6960
+S'start_time     : 1500155123\nlast_update    : 1500162095\nfuzzer_pid     : 20478\ncycles_done    : 11\nexecs_done     : 5889851\nexecs_per_sec  : 823.54\npaths_total    : 70\npaths_favored  : 21\npaths_found    : 69\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 32\npending_favs   : 0\npending_total  : 6\nvariable_paths : 0\nbitmap_cvg     : 0.28%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500157772\nlast_crash     : 0\nlast_hang      : 1500156004\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/INSULATR/input -o /dev/shm/work/INSULATR/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/INSULATR/INSULATR.dict -- data/linux/processed-challenges/INSULATR/bin/INSULATR\n'
+p117
+I0
+tp118
+a(I7080
+S'start_time     : 1500155123\nlast_update    : 1500162215\nfuzzer_pid     : 20478\ncycles_done    : 11\nexecs_done     : 5989461\nexecs_per_sec  : 842.24\npaths_total    : 70\npaths_favored  : 21\npaths_found    : 69\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 43\npending_favs   : 0\npending_total  : 5\nvariable_paths : 0\nbitmap_cvg     : 0.28%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500157772\nlast_crash     : 0\nlast_hang      : 1500156004\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/INSULATR/input -o /dev/shm/work/INSULATR/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/INSULATR/INSULATR.dict -- data/linux/processed-challenges/INSULATR/bin/INSULATR\n'
+p119
+I0
+tp120
+a(I7200
+S'start_time     : 1500155123\nlast_update    : 1500162336\nfuzzer_pid     : 20478\ncycles_done    : 11\nexecs_done     : 6091429\nexecs_per_sec  : 850.63\npaths_total    : 70\npaths_favored  : 21\npaths_found    : 69\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 48\npending_favs   : 0\npending_total  : 5\nvariable_paths : 0\nbitmap_cvg     : 0.28%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500157772\nlast_crash     : 0\nlast_hang      : 1500156004\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/INSULATR/input -o /dev/shm/work/INSULATR/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/INSULATR/INSULATR.dict -- data/linux/processed-challenges/INSULATR/bin/INSULATR\n'
+p121
+I0
+tp122
+a(I7320
+S'start_time     : 1500155123\nlast_update    : 1500162456\nfuzzer_pid     : 20478\ncycles_done    : 11\nexecs_done     : 6192138\nexecs_per_sec  : 587.43\npaths_total    : 70\npaths_favored  : 21\npaths_found    : 69\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 65\npending_favs   : 0\npending_total  : 5\nvariable_paths : 0\nbitmap_cvg     : 0.28%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500157772\nlast_crash     : 0\nlast_hang      : 1500156004\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/INSULATR/input -o /dev/shm/work/INSULATR/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/INSULATR/INSULATR.dict -- data/linux/processed-challenges/INSULATR/bin/INSULATR\n'
+p123
+I0
+tp124
+a(I7440
+S'start_time     : 1500155123\nlast_update    : 1500162576\nfuzzer_pid     : 20478\ncycles_done    : 12\nexecs_done     : 6293367\nexecs_per_sec  : 902.49\npaths_total    : 70\npaths_favored  : 21\npaths_found    : 69\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 6\npending_favs   : 0\npending_total  : 4\nvariable_paths : 0\nbitmap_cvg     : 0.28%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500157772\nlast_crash     : 0\nlast_hang      : 1500156004\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/INSULATR/input -o /dev/shm/work/INSULATR/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/INSULATR/INSULATR.dict -- data/linux/processed-challenges/INSULATR/bin/INSULATR\n'
+p125
+I0
+tp126
+a(I7560
+S'start_time     : 1500155123\nlast_update    : 1500162696\nfuzzer_pid     : 20478\ncycles_done    : 12\nexecs_done     : 6395945\nexecs_per_sec  : 845.64\npaths_total    : 70\npaths_favored  : 21\npaths_found    : 69\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 32\npending_favs   : 0\npending_total  : 4\nvariable_paths : 0\nbitmap_cvg     : 0.28%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500157772\nlast_crash     : 0\nlast_hang      : 1500156004\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/INSULATR/input -o /dev/shm/work/INSULATR/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/INSULATR/INSULATR.dict -- data/linux/processed-challenges/INSULATR/bin/INSULATR\n'
+p127
+I0
+tp128
+a(I7680
+S'start_time     : 1500155123\nlast_update    : 1500162816\nfuzzer_pid     : 20478\ncycles_done    : 12\nexecs_done     : 6498475\nexecs_per_sec  : 865.43\npaths_total    : 70\npaths_favored  : 21\npaths_found    : 69\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 43\npending_favs   : 0\npending_total  : 4\nvariable_paths : 0\nbitmap_cvg     : 0.28%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500157772\nlast_crash     : 0\nlast_hang      : 1500156004\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/INSULATR/input -o /dev/shm/work/INSULATR/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/INSULATR/INSULATR.dict -- data/linux/processed-challenges/INSULATR/bin/INSULATR\n'
+p129
+I0
+tp130
+a(I7800
+S'start_time     : 1500155123\nlast_update    : 1500162877\nfuzzer_pid     : 20478\ncycles_done    : 12\nexecs_done     : 6550137\nexecs_per_sec  : 842.33\npaths_total    : 70\npaths_favored  : 21\npaths_found    : 69\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 46\npending_favs   : 0\npending_total  : 4\nvariable_paths : 0\nbitmap_cvg     : 0.28%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500157772\nlast_crash     : 0\nlast_hang      : 1500156004\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/INSULATR/input -o /dev/shm/work/INSULATR/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/INSULATR/INSULATR.dict -- data/linux/processed-challenges/INSULATR/bin/INSULATR\n'
+p131
+I0
+tp132
+a(I7920
+S'start_time     : 1500155123\nlast_update    : 1500162997\nfuzzer_pid     : 20478\ncycles_done    : 12\nexecs_done     : 6656883\nexecs_per_sec  : 889.02\npaths_total    : 70\npaths_favored  : 21\npaths_found    : 69\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 62\npending_favs   : 0\npending_total  : 4\nvariable_paths : 0\nbitmap_cvg     : 0.28%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500157772\nlast_crash     : 0\nlast_hang      : 1500156004\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/INSULATR/input -o /dev/shm/work/INSULATR/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/INSULATR/INSULATR.dict -- data/linux/processed-challenges/INSULATR/bin/INSULATR\n'
+p133
+I0
+tp134
+a(I8040
+S'start_time     : 1500155123\nlast_update    : 1500163117\nfuzzer_pid     : 20478\ncycles_done    : 12\nexecs_done     : 6762547\nexecs_per_sec  : 910.15\npaths_total    : 70\npaths_favored  : 21\npaths_found    : 69\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 67\npending_favs   : 0\npending_total  : 4\nvariable_paths : 0\nbitmap_cvg     : 0.28%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500157772\nlast_crash     : 0\nlast_hang      : 1500156004\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/INSULATR/input -o /dev/shm/work/INSULATR/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/INSULATR/INSULATR.dict -- data/linux/processed-challenges/INSULATR/bin/INSULATR\n'
+p135
+I0
+tp136
+a(I8160
+S'start_time     : 1500155123\nlast_update    : 1500163237\nfuzzer_pid     : 20478\ncycles_done    : 13\nexecs_done     : 6871879\nexecs_per_sec  : 903.91\npaths_total    : 70\npaths_favored  : 21\npaths_found    : 69\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 1\npending_favs   : 0\npending_total  : 3\nvariable_paths : 0\nbitmap_cvg     : 0.28%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500157772\nlast_crash     : 0\nlast_hang      : 1500156004\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/INSULATR/input -o /dev/shm/work/INSULATR/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/INSULATR/INSULATR.dict -- data/linux/processed-challenges/INSULATR/bin/INSULATR\n'
+p137
+I0
+tp138
+a(I8280
+S'start_time     : 1500155123\nlast_update    : 1500163357\nfuzzer_pid     : 20478\ncycles_done    : 13\nexecs_done     : 6975579\nexecs_per_sec  : 848.15\npaths_total    : 70\npaths_favored  : 21\npaths_found    : 69\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 20\npending_favs   : 0\npending_total  : 2\nvariable_paths : 0\nbitmap_cvg     : 0.28%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500157772\nlast_crash     : 0\nlast_hang      : 1500156004\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/INSULATR/input -o /dev/shm/work/INSULATR/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/INSULATR/INSULATR.dict -- data/linux/processed-challenges/INSULATR/bin/INSULATR\n'
+p139
+I0
+tp140
+a(I8400
+S'start_time     : 1500155123\nlast_update    : 1500163478\nfuzzer_pid     : 20478\ncycles_done    : 13\nexecs_done     : 7076651\nexecs_per_sec  : 762.89\npaths_total    : 70\npaths_favored  : 21\npaths_found    : 69\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 39\npending_favs   : 0\npending_total  : 2\nvariable_paths : 0\nbitmap_cvg     : 0.28%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500157772\nlast_crash     : 0\nlast_hang      : 1500156004\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/INSULATR/input -o /dev/shm/work/INSULATR/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/INSULATR/INSULATR.dict -- data/linux/processed-challenges/INSULATR/bin/INSULATR\n'
+p141
+I0
+tp142
+a(I8520
+S'start_time     : 1500155123\nlast_update    : 1500163598\nfuzzer_pid     : 20478\ncycles_done    : 13\nexecs_done     : 7177771\nexecs_per_sec  : 834.62\npaths_total    : 70\npaths_favored  : 21\npaths_found    : 69\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 48\npending_favs   : 0\npending_total  : 2\nvariable_paths : 0\nbitmap_cvg     : 0.28%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500157772\nlast_crash     : 0\nlast_hang      : 1500156004\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/INSULATR/input -o /dev/shm/work/INSULATR/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/INSULATR/INSULATR.dict -- data/linux/processed-challenges/INSULATR/bin/INSULATR\n'
+p143
+I0
+tp144
+a(I8640
+S'start_time     : 1500155123\nlast_update    : 1500163718\nfuzzer_pid     : 20478\ncycles_done    : 13\nexecs_done     : 7278829\nexecs_per_sec  : 852.00\npaths_total    : 70\npaths_favored  : 21\npaths_found    : 69\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 61\npending_favs   : 0\npending_total  : 2\nvariable_paths : 0\nbitmap_cvg     : 0.28%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500157772\nlast_crash     : 0\nlast_hang      : 1500156004\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/INSULATR/input -o /dev/shm/work/INSULATR/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/INSULATR/INSULATR.dict -- data/linux/processed-challenges/INSULATR/bin/INSULATR\n'
+p145
+I0
+tp146
+a(I8760
+S'start_time     : 1500155123\nlast_update    : 1500163838\nfuzzer_pid     : 20478\ncycles_done    : 14\nexecs_done     : 7379841\nexecs_per_sec  : 859.56\npaths_total    : 70\npaths_favored  : 21\npaths_found    : 69\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 6\npending_favs   : 0\npending_total  : 2\nvariable_paths : 0\nbitmap_cvg     : 0.28%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500157772\nlast_crash     : 0\nlast_hang      : 1500156004\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/INSULATR/input -o /dev/shm/work/INSULATR/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/INSULATR/INSULATR.dict -- data/linux/processed-challenges/INSULATR/bin/INSULATR\n'
+p147
+I0
+tp148
+a(I8880
+S'start_time     : 1500155123\nlast_update    : 1500163958\nfuzzer_pid     : 20478\ncycles_done    : 14\nexecs_done     : 7482251\nexecs_per_sec  : 816.14\npaths_total    : 70\npaths_favored  : 21\npaths_found    : 69\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 31\npending_favs   : 0\npending_total  : 2\nvariable_paths : 0\nbitmap_cvg     : 0.28%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500157772\nlast_crash     : 0\nlast_hang      : 1500156004\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/INSULATR/input -o /dev/shm/work/INSULATR/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/INSULATR/INSULATR.dict -- data/linux/processed-challenges/INSULATR/bin/INSULATR\n'
+p149
+I0
+tp150
+a(I9000
+S'start_time     : 1500155123\nlast_update    : 1500164079\nfuzzer_pid     : 20478\ncycles_done    : 14\nexecs_done     : 7584351\nexecs_per_sec  : 856.33\npaths_total    : 70\npaths_favored  : 21\npaths_found    : 69\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 43\npending_favs   : 0\npending_total  : 2\nvariable_paths : 0\nbitmap_cvg     : 0.28%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500157772\nlast_crash     : 0\nlast_hang      : 1500156004\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/INSULATR/input -o /dev/shm/work/INSULATR/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/INSULATR/INSULATR.dict -- data/linux/processed-challenges/INSULATR/bin/INSULATR\n'
+p151
+I0
+tp152
+a(I9120
+S'start_time     : 1500155123\nlast_update    : 1500164199\nfuzzer_pid     : 20478\ncycles_done    : 14\nexecs_done     : 7686847\nexecs_per_sec  : 835.00\npaths_total    : 70\npaths_favored  : 21\npaths_found    : 69\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 48\npending_favs   : 0\npending_total  : 2\nvariable_paths : 0\nbitmap_cvg     : 0.28%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500157772\nlast_crash     : 0\nlast_hang      : 1500156004\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/INSULATR/input -o /dev/shm/work/INSULATR/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/INSULATR/INSULATR.dict -- data/linux/processed-challenges/INSULATR/bin/INSULATR\n'
+p153
+I0
+tp154
+a(I9240
+S'start_time     : 1500155123\nlast_update    : 1500164319\nfuzzer_pid     : 20478\ncycles_done    : 14\nexecs_done     : 7786971\nexecs_per_sec  : 804.46\npaths_total    : 70\npaths_favored  : 21\npaths_found    : 69\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 62\npending_favs   : 0\npending_total  : 2\nvariable_paths : 0\nbitmap_cvg     : 0.28%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500157772\nlast_crash     : 0\nlast_hang      : 1500156004\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/INSULATR/input -o /dev/shm/work/INSULATR/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/INSULATR/INSULATR.dict -- data/linux/processed-challenges/INSULATR/bin/INSULATR\n'
+p155
+I0
+tp156
+a(I9360
+S'start_time     : 1500155123\nlast_update    : 1500164439\nfuzzer_pid     : 20478\ncycles_done    : 15\nexecs_done     : 7889580\nexecs_per_sec  : 844.56\npaths_total    : 70\npaths_favored  : 21\npaths_found    : 69\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 10\npending_favs   : 0\npending_total  : 2\nvariable_paths : 0\nbitmap_cvg     : 0.28%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500157772\nlast_crash     : 0\nlast_hang      : 1500156004\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/INSULATR/input -o /dev/shm/work/INSULATR/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/INSULATR/INSULATR.dict -- data/linux/processed-challenges/INSULATR/bin/INSULATR\n'
+p157
+I0
+tp158
+a(I9480
+S'start_time     : 1500155123\nlast_update    : 1500164560\nfuzzer_pid     : 20478\ncycles_done    : 15\nexecs_done     : 7991534\nexecs_per_sec  : 853.37\npaths_total    : 70\npaths_favored  : 21\npaths_found    : 69\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 36\npending_favs   : 0\npending_total  : 2\nvariable_paths : 0\nbitmap_cvg     : 0.28%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500157772\nlast_crash     : 0\nlast_hang      : 1500156004\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/INSULATR/input -o /dev/shm/work/INSULATR/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/INSULATR/INSULATR.dict -- data/linux/processed-challenges/INSULATR/bin/INSULATR\n'
+p159
+I0
+tp160
+a(I9600
+S'start_time     : 1500155123\nlast_update    : 1500164680\nfuzzer_pid     : 20478\ncycles_done    : 15\nexecs_done     : 8092952\nexecs_per_sec  : 830.81\npaths_total    : 70\npaths_favored  : 21\npaths_found    : 69\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 45\npending_favs   : 0\npending_total  : 2\nvariable_paths : 0\nbitmap_cvg     : 0.28%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500157772\nlast_crash     : 0\nlast_hang      : 1500156004\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/INSULATR/input -o /dev/shm/work/INSULATR/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/INSULATR/INSULATR.dict -- data/linux/processed-challenges/INSULATR/bin/INSULATR\n'
+p161
+I0
+tp162
+a(I9720
+S'start_time     : 1500155123\nlast_update    : 1500164800\nfuzzer_pid     : 20478\ncycles_done    : 15\nexecs_done     : 8194464\nexecs_per_sec  : 832.25\npaths_total    : 70\npaths_favored  : 21\npaths_found    : 69\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 57\npending_favs   : 0\npending_total  : 2\nvariable_paths : 0\nbitmap_cvg     : 0.28%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500157772\nlast_crash     : 0\nlast_hang      : 1500156004\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/INSULATR/input -o /dev/shm/work/INSULATR/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/INSULATR/INSULATR.dict -- data/linux/processed-challenges/INSULATR/bin/INSULATR\n'
+p163
+I0
+tp164
+a(I9840
+S'start_time     : 1500155123\nlast_update    : 1500164920\nfuzzer_pid     : 20478\ncycles_done    : 15\nexecs_done     : 8294578\nexecs_per_sec  : 824.60\npaths_total    : 70\npaths_favored  : 21\npaths_found    : 69\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 62\npending_favs   : 0\npending_total  : 2\nvariable_paths : 0\nbitmap_cvg     : 0.28%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500157772\nlast_crash     : 0\nlast_hang      : 1500156004\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/INSULATR/input -o /dev/shm/work/INSULATR/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/INSULATR/INSULATR.dict -- data/linux/processed-challenges/INSULATR/bin/INSULATR\n'
+p165
+I0
+tp166
+a(I9960
+S'start_time     : 1500155123\nlast_update    : 1500165040\nfuzzer_pid     : 20478\ncycles_done    : 16\nexecs_done     : 8400505\nexecs_per_sec  : 898.04\npaths_total    : 70\npaths_favored  : 21\npaths_found    : 69\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 19\npending_favs   : 0\npending_total  : 2\nvariable_paths : 0\nbitmap_cvg     : 0.28%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500157772\nlast_crash     : 0\nlast_hang      : 1500156004\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/INSULATR/input -o /dev/shm/work/INSULATR/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/INSULATR/INSULATR.dict -- data/linux/processed-challenges/INSULATR/bin/INSULATR\n'
+p167
+I0
+tp168
+a(I10080
+S'start_time     : 1500155123\nlast_update    : 1500165161\nfuzzer_pid     : 20478\ncycles_done    : 16\nexecs_done     : 8500731\nexecs_per_sec  : 865.52\npaths_total    : 70\npaths_favored  : 21\npaths_found    : 69\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 37\npending_favs   : 0\npending_total  : 2\nvariable_paths : 0\nbitmap_cvg     : 0.28%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500157772\nlast_crash     : 0\nlast_hang      : 1500156004\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/INSULATR/input -o /dev/shm/work/INSULATR/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/INSULATR/INSULATR.dict -- data/linux/processed-challenges/INSULATR/bin/INSULATR\n'
+p169
+I0
+tp170
+a(I10200
+S'start_time     : 1500155123\nlast_update    : 1500165281\nfuzzer_pid     : 20478\ncycles_done    : 16\nexecs_done     : 8599726\nexecs_per_sec  : 800.63\npaths_total    : 70\npaths_favored  : 21\npaths_found    : 69\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 45\npending_favs   : 0\npending_total  : 2\nvariable_paths : 0\nbitmap_cvg     : 0.28%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500157772\nlast_crash     : 0\nlast_hang      : 1500156004\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/INSULATR/input -o /dev/shm/work/INSULATR/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/INSULATR/INSULATR.dict -- data/linux/processed-challenges/INSULATR/bin/INSULATR\n'
+p171
+I0
+tp172
+a(I10320
+S'start_time     : 1500155123\nlast_update    : 1500165401\nfuzzer_pid     : 20478\ncycles_done    : 16\nexecs_done     : 8701081\nexecs_per_sec  : 791.92\npaths_total    : 70\npaths_favored  : 21\npaths_found    : 69\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 54\npending_favs   : 0\npending_total  : 2\nvariable_paths : 0\nbitmap_cvg     : 0.28%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500157772\nlast_crash     : 0\nlast_hang      : 1500156004\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/INSULATR/input -o /dev/shm/work/INSULATR/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/INSULATR/INSULATR.dict -- data/linux/processed-challenges/INSULATR/bin/INSULATR\n'
+p173
+I0
+tp174
+a(I10440
+S'start_time     : 1500155123\nlast_update    : 1500165521\nfuzzer_pid     : 20478\ncycles_done    : 17\nexecs_done     : 8804099\nexecs_per_sec  : 895.45\npaths_total    : 70\npaths_favored  : 21\npaths_found    : 69\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 2\npending_favs   : 0\npending_total  : 2\nvariable_paths : 0\nbitmap_cvg     : 0.28%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500157772\nlast_crash     : 0\nlast_hang      : 1500156004\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/INSULATR/input -o /dev/shm/work/INSULATR/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/INSULATR/INSULATR.dict -- data/linux/processed-challenges/INSULATR/bin/INSULATR\n'
+p175
+I0
+tp176
+a(I10560
+S'start_time     : 1500155123\nlast_update    : 1500165641\nfuzzer_pid     : 20478\ncycles_done    : 17\nexecs_done     : 8907555\nexecs_per_sec  : 840.67\npaths_total    : 70\npaths_favored  : 21\npaths_found    : 69\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 24\npending_favs   : 0\npending_total  : 2\nvariable_paths : 0\nbitmap_cvg     : 0.28%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500157772\nlast_crash     : 0\nlast_hang      : 1500156004\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/INSULATR/input -o /dev/shm/work/INSULATR/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/INSULATR/INSULATR.dict -- data/linux/processed-challenges/INSULATR/bin/INSULATR\n'
+p177
+I0
+tp178
+a(I10680
+S'start_time     : 1500155123\nlast_update    : 1500165762\nfuzzer_pid     : 20478\ncycles_done    : 17\nexecs_done     : 9008219\nexecs_per_sec  : 817.36\npaths_total    : 70\npaths_favored  : 21\npaths_found    : 69\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 39\npending_favs   : 0\npending_total  : 2\nvariable_paths : 0\nbitmap_cvg     : 0.28%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500157772\nlast_crash     : 0\nlast_hang      : 1500156004\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/INSULATR/input -o /dev/shm/work/INSULATR/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/INSULATR/INSULATR.dict -- data/linux/processed-challenges/INSULATR/bin/INSULATR\n'
+p179
+I0
+tp180
+a.

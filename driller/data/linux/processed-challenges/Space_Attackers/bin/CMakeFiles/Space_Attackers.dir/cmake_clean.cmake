@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/Space_Attackers.dir/lib/calloc.c.o"
+  "CMakeFiles/Space_Attackers.dir/lib/ctype.c.o"
+  "CMakeFiles/Space_Attackers.dir/lib/exit.c.o"
+  "CMakeFiles/Space_Attackers.dir/lib/fflush.c.o"
+  "CMakeFiles/Space_Attackers.dir/lib/fread.c.o"
+  "CMakeFiles/Space_Attackers.dir/lib/free.c.o"
+  "CMakeFiles/Space_Attackers.dir/lib/fwrite.c.o"
+  "CMakeFiles/Space_Attackers.dir/lib/malloc.c.o"
+  "CMakeFiles/Space_Attackers.dir/lib/malloc_common.c.o"
+  "CMakeFiles/Space_Attackers.dir/lib/memchr.c.o"
+  "CMakeFiles/Space_Attackers.dir/lib/memcmp.c.o"
+  "CMakeFiles/Space_Attackers.dir/lib/memcpy.c.o"
+  "CMakeFiles/Space_Attackers.dir/lib/memmove.c.o"
+  "CMakeFiles/Space_Attackers.dir/lib/memset.c.o"
+  "CMakeFiles/Space_Attackers.dir/lib/printf.c.o"
+  "CMakeFiles/Space_Attackers.dir/lib/realloc.c.o"
+  "CMakeFiles/Space_Attackers.dir/lib/stdio.c.o"
+  "CMakeFiles/Space_Attackers.dir/lib/strcasecmp.c.o"
+  "CMakeFiles/Space_Attackers.dir/lib/strcasestr.c.o"
+  "CMakeFiles/Space_Attackers.dir/lib/strchr.c.o"
+  "CMakeFiles/Space_Attackers.dir/lib/strcmp.c.o"
+  "CMakeFiles/Space_Attackers.dir/lib/strcpy.c.o"
+  "CMakeFiles/Space_Attackers.dir/lib/strdup.c.o"
+  "CMakeFiles/Space_Attackers.dir/lib/strlen.c.o"
+  "CMakeFiles/Space_Attackers.dir/lib/strncasecmp.c.o"
+  "CMakeFiles/Space_Attackers.dir/lib/strncpy.c.o"
+  "CMakeFiles/Space_Attackers.dir/lib/strndup.c.o"
+  "CMakeFiles/Space_Attackers.dir/lib/strsep.c.o"
+  "CMakeFiles/Space_Attackers.dir/lib/strstr.c.o"
+  "CMakeFiles/Space_Attackers.dir/lib/strtol.c.o"
+  "CMakeFiles/Space_Attackers.dir/lib/strtoul.c.o"
+  "CMakeFiles/Space_Attackers.dir/src/service.c.o"
+  "Space_Attackers.pdb"
+  "Space_Attackers"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang C)
+  include(CMakeFiles/Space_Attackers.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

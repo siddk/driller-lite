@@ -1,0 +1,452 @@
+(lp0
+(I0
+S'start_time     : 1500252522\nlast_update    : 1500252523\nfuzzer_pid     : 21523\ncycles_done    : 0\nexecs_done     : 10\nexecs_per_sec  : 185.19\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 1\npending_total  : 1\nvariable_paths : 0\nbitmap_cvg     : 0.16%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Material_Temperature_Simulation/input -o /dev/shm/work/Material_Temperature_Simulation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Material_Temperature_Simulation/Material_Temperature_Simulation.dict -- data/linux/processed-challenges/Material_Temperature_Simulation/bin/Material_Temperature_Simulation\n'
+p1
+I51
+tp2
+a(I120
+S'start_time     : 1500252522\nlast_update    : 1500252643\nfuzzer_pid     : 21523\ncycles_done    : 0\nexecs_done     : 123898\nexecs_per_sec  : 1063.83\npaths_total    : 99\npaths_favored  : 1\npaths_found    : 98\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 1\npending_total  : 99\nvariable_paths : 0\nbitmap_cvg     : 0.72%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500252638\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Material_Temperature_Simulation/input -o /dev/shm/work/Material_Temperature_Simulation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Material_Temperature_Simulation/Material_Temperature_Simulation.dict -- data/linux/processed-challenges/Material_Temperature_Simulation/bin/Material_Temperature_Simulation\n'
+p3
+I49
+tp4
+a(I240
+S'start_time     : 1500252522\nlast_update    : 1500252763\nfuzzer_pid     : 21523\ncycles_done    : 0\nexecs_done     : 248178\nexecs_per_sec  : 1081.06\npaths_total    : 131\npaths_favored  : 43\npaths_found    : 130\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 18\npending_favs   : 41\npending_total  : 128\nvariable_paths : 0\nbitmap_cvg     : 0.78%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500252754\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Material_Temperature_Simulation/input -o /dev/shm/work/Material_Temperature_Simulation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Material_Temperature_Simulation/Material_Temperature_Simulation.dict -- data/linux/processed-challenges/Material_Temperature_Simulation/bin/Material_Temperature_Simulation\n'
+p5
+I31
+tp6
+a(I360
+S'start_time     : 1500252522\nlast_update    : 1500252883\nfuzzer_pid     : 21523\ncycles_done    : 0\nexecs_done     : 370005\nexecs_per_sec  : 875.46\npaths_total    : 148\npaths_favored  : 56\npaths_found    : 147\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 29\npending_favs   : 52\npending_total  : 143\nvariable_paths : 0\nbitmap_cvg     : 0.79%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500252870\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Material_Temperature_Simulation/input -o /dev/shm/work/Material_Temperature_Simulation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Material_Temperature_Simulation/Material_Temperature_Simulation.dict -- data/linux/processed-challenges/Material_Temperature_Simulation/bin/Material_Temperature_Simulation\n'
+p7
+I17
+tp8
+a(I480
+S'start_time     : 1500252522\nlast_update    : 1500253004\nfuzzer_pid     : 21523\ncycles_done    : 0\nexecs_done     : 479819\nexecs_per_sec  : 922.31\npaths_total    : 161\npaths_favored  : 56\npaths_found    : 160\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 29\npending_favs   : 52\npending_total  : 156\nvariable_paths : 0\nbitmap_cvg     : 0.82%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500252999\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Material_Temperature_Simulation/input -o /dev/shm/work/Material_Temperature_Simulation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Material_Temperature_Simulation/Material_Temperature_Simulation.dict -- data/linux/processed-challenges/Material_Temperature_Simulation/bin/Material_Temperature_Simulation\n'
+p9
+I14
+tp10
+a(I600
+S'start_time     : 1500252522\nlast_update    : 1500253124\nfuzzer_pid     : 21523\ncycles_done    : 0\nexecs_done     : 594177\nexecs_per_sec  : 1045.22\npaths_total    : 176\npaths_favored  : 63\npaths_found    : 175\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 46\npending_favs   : 56\npending_total  : 166\nvariable_paths : 0\nbitmap_cvg     : 0.83%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500253120\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Material_Temperature_Simulation/input -o /dev/shm/work/Material_Temperature_Simulation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Material_Temperature_Simulation/Material_Temperature_Simulation.dict -- data/linux/processed-challenges/Material_Temperature_Simulation/bin/Material_Temperature_Simulation\n'
+p11
+I14
+tp12
+a(I720
+S'start_time     : 1500252522\nlast_update    : 1500253244\nfuzzer_pid     : 21523\ncycles_done    : 0\nexecs_done     : 713216\nexecs_per_sec  : 984.76\npaths_total    : 220\npaths_favored  : 65\npaths_found    : 219\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 56\npending_favs   : 55\npending_total  : 207\nvariable_paths : 0\nbitmap_cvg     : 0.89%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500253241\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Material_Temperature_Simulation/input -o /dev/shm/work/Material_Temperature_Simulation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Material_Temperature_Simulation/Material_Temperature_Simulation.dict -- data/linux/processed-challenges/Material_Temperature_Simulation/bin/Material_Temperature_Simulation\n'
+p13
+I44
+tp14
+a(I840
+S'start_time     : 1500252522\nlast_update    : 1500253364\nfuzzer_pid     : 21523\ncycles_done    : 0\nexecs_done     : 831367\nexecs_per_sec  : 971.46\npaths_total    : 242\npaths_favored  : 82\npaths_found    : 241\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 87\npending_favs   : 68\npending_total  : 222\nvariable_paths : 0\nbitmap_cvg     : 0.91%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500253363\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Material_Temperature_Simulation/input -o /dev/shm/work/Material_Temperature_Simulation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Material_Temperature_Simulation/Material_Temperature_Simulation.dict -- data/linux/processed-challenges/Material_Temperature_Simulation/bin/Material_Temperature_Simulation\n'
+p15
+I26
+tp16
+a(I960
+S'start_time     : 1500252522\nlast_update    : 1500253485\nfuzzer_pid     : 21523\ncycles_done    : 0\nexecs_done     : 948427\nexecs_per_sec  : 979.89\npaths_total    : 263\npaths_favored  : 82\npaths_found    : 262\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 87\npending_favs   : 68\npending_total  : 243\nvariable_paths : 0\nbitmap_cvg     : 0.94%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500253468\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Material_Temperature_Simulation/input -o /dev/shm/work/Material_Temperature_Simulation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Material_Temperature_Simulation/Material_Temperature_Simulation.dict -- data/linux/processed-challenges/Material_Temperature_Simulation/bin/Material_Temperature_Simulation\n'
+p17
+I17
+tp18
+a(I1080
+S'start_time     : 1500252522\nlast_update    : 1500253605\nfuzzer_pid     : 21523\ncycles_done    : 0\nexecs_done     : 1038219\nexecs_per_sec  : 760.67\npaths_total    : 288\npaths_favored  : 101\npaths_found    : 287\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 90\npending_favs   : 86\npending_total  : 266\nvariable_paths : 0\nbitmap_cvg     : 0.96%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500253590\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Material_Temperature_Simulation/input -o /dev/shm/work/Material_Temperature_Simulation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Material_Temperature_Simulation/Material_Temperature_Simulation.dict -- data/linux/processed-challenges/Material_Temperature_Simulation/bin/Material_Temperature_Simulation\n'
+p19
+I25
+tp20
+a(I1200
+S'start_time     : 1500252522\nlast_update    : 1500253725\nfuzzer_pid     : 21523\ncycles_done    : 0\nexecs_done     : 1133032\nexecs_per_sec  : 939.63\npaths_total    : 300\npaths_favored  : 113\npaths_found    : 299\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 91\npending_favs   : 99\npending_total  : 277\nvariable_paths : 0\nbitmap_cvg     : 0.98%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500253721\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Material_Temperature_Simulation/input -o /dev/shm/work/Material_Temperature_Simulation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Material_Temperature_Simulation/Material_Temperature_Simulation.dict -- data/linux/processed-challenges/Material_Temperature_Simulation/bin/Material_Temperature_Simulation\n'
+p21
+I12
+tp22
+a(I1320
+S'start_time     : 1500252522\nlast_update    : 1500253845\nfuzzer_pid     : 21523\ncycles_done    : 0\nexecs_done     : 1244035\nexecs_per_sec  : 908.39\npaths_total    : 317\npaths_favored  : 113\npaths_found    : 316\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 101\npending_favs   : 93\npending_total  : 288\nvariable_paths : 0\nbitmap_cvg     : 1.00%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500253842\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Material_Temperature_Simulation/input -o /dev/shm/work/Material_Temperature_Simulation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Material_Temperature_Simulation/Material_Temperature_Simulation.dict -- data/linux/processed-challenges/Material_Temperature_Simulation/bin/Material_Temperature_Simulation\n'
+p23
+I20
+tp24
+a(I1440
+S'start_time     : 1500252522\nlast_update    : 1500253966\nfuzzer_pid     : 21523\ncycles_done    : 0\nexecs_done     : 1352102\nexecs_per_sec  : 874.58\npaths_total    : 329\npaths_favored  : 113\npaths_found    : 328\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 101\npending_favs   : 93\npending_total  : 300\nvariable_paths : 0\nbitmap_cvg     : 1.02%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500253963\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Material_Temperature_Simulation/input -o /dev/shm/work/Material_Temperature_Simulation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Material_Temperature_Simulation/Material_Temperature_Simulation.dict -- data/linux/processed-challenges/Material_Temperature_Simulation/bin/Material_Temperature_Simulation\n'
+p25
+I9
+tp26
+a(I1560
+S'start_time     : 1500252522\nlast_update    : 1500254086\nfuzzer_pid     : 21523\ncycles_done    : 0\nexecs_done     : 1471152\nexecs_per_sec  : 975.20\npaths_total    : 331\npaths_favored  : 125\npaths_found    : 330\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 117\npending_favs   : 95\npending_total  : 292\nvariable_paths : 0\nbitmap_cvg     : 1.03%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500254050\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Material_Temperature_Simulation/input -o /dev/shm/work/Material_Temperature_Simulation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Material_Temperature_Simulation/Material_Temperature_Simulation.dict -- data/linux/processed-challenges/Material_Temperature_Simulation/bin/Material_Temperature_Simulation\n'
+p27
+I2
+tp28
+a(I1680
+S'start_time     : 1500252522\nlast_update    : 1500254206\nfuzzer_pid     : 21523\ncycles_done    : 0\nexecs_done     : 1585122\nexecs_per_sec  : 852.76\npaths_total    : 335\npaths_favored  : 129\npaths_found    : 334\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 147\npending_favs   : 91\npending_total  : 288\nvariable_paths : 0\nbitmap_cvg     : 1.03%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500254190\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Material_Temperature_Simulation/input -o /dev/shm/work/Material_Temperature_Simulation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Material_Temperature_Simulation/Material_Temperature_Simulation.dict -- data/linux/processed-challenges/Material_Temperature_Simulation/bin/Material_Temperature_Simulation\n'
+p29
+I4
+tp30
+a(I1800
+S'start_time     : 1500252522\nlast_update    : 1500254326\nfuzzer_pid     : 21523\ncycles_done    : 0\nexecs_done     : 1685076\nexecs_per_sec  : 751.51\npaths_total    : 336\npaths_favored  : 129\npaths_found    : 335\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 151\npending_favs   : 89\npending_total  : 287\nvariable_paths : 0\nbitmap_cvg     : 1.03%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500254295\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Material_Temperature_Simulation/input -o /dev/shm/work/Material_Temperature_Simulation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Material_Temperature_Simulation/Material_Temperature_Simulation.dict -- data/linux/processed-challenges/Material_Temperature_Simulation/bin/Material_Temperature_Simulation\n'
+p31
+I1
+tp32
+a(I1920
+S'start_time     : 1500252522\nlast_update    : 1500254446\nfuzzer_pid     : 21523\ncycles_done    : 0\nexecs_done     : 1786765\nexecs_per_sec  : 897.79\npaths_total    : 337\npaths_favored  : 130\npaths_found    : 336\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 178\npending_favs   : 87\npending_total  : 284\nvariable_paths : 0\nbitmap_cvg     : 1.04%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500254339\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Material_Temperature_Simulation/input -o /dev/shm/work/Material_Temperature_Simulation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Material_Temperature_Simulation/Material_Temperature_Simulation.dict -- data/linux/processed-challenges/Material_Temperature_Simulation/bin/Material_Temperature_Simulation\n'
+p33
+I1
+tp34
+a(I2040
+S'start_time     : 1500252522\nlast_update    : 1500254566\nfuzzer_pid     : 21523\ncycles_done    : 0\nexecs_done     : 1886671\nexecs_per_sec  : 843.29\npaths_total    : 340\npaths_favored  : 133\npaths_found    : 339\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 204\npending_favs   : 85\npending_total  : 282\nvariable_paths : 0\nbitmap_cvg     : 1.04%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500254543\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Material_Temperature_Simulation/input -o /dev/shm/work/Material_Temperature_Simulation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Material_Temperature_Simulation/Material_Temperature_Simulation.dict -- data/linux/processed-challenges/Material_Temperature_Simulation/bin/Material_Temperature_Simulation\n'
+p35
+I3
+tp36
+a(I2160
+S'start_time     : 1500252522\nlast_update    : 1500254686\nfuzzer_pid     : 21523\ncycles_done    : 0\nexecs_done     : 1986693\nexecs_per_sec  : 734.56\npaths_total    : 340\npaths_favored  : 133\npaths_found    : 339\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 215\npending_favs   : 80\npending_total  : 277\nvariable_paths : 0\nbitmap_cvg     : 1.04%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500254543\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Material_Temperature_Simulation/input -o /dev/shm/work/Material_Temperature_Simulation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Material_Temperature_Simulation/Material_Temperature_Simulation.dict -- data/linux/processed-challenges/Material_Temperature_Simulation/bin/Material_Temperature_Simulation\n'
+p37
+I0
+tp38
+a(I2280
+S'start_time     : 1500252522\nlast_update    : 1500254807\nfuzzer_pid     : 21523\ncycles_done    : 0\nexecs_done     : 2063579\nexecs_per_sec  : 722.43\npaths_total    : 358\npaths_favored  : 133\npaths_found    : 357\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 219\npending_favs   : 79\npending_total  : 294\nvariable_paths : 0\nbitmap_cvg     : 1.08%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500254803\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Material_Temperature_Simulation/input -o /dev/shm/work/Material_Temperature_Simulation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Material_Temperature_Simulation/Material_Temperature_Simulation.dict -- data/linux/processed-challenges/Material_Temperature_Simulation/bin/Material_Temperature_Simulation\n'
+p39
+I19
+tp40
+a(I2400
+S'start_time     : 1500252522\nlast_update    : 1500254927\nfuzzer_pid     : 21523\ncycles_done    : 0\nexecs_done     : 2151335\nexecs_per_sec  : 746.68\npaths_total    : 364\npaths_favored  : 133\npaths_found    : 363\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 219\npending_favs   : 79\npending_total  : 300\nvariable_paths : 0\nbitmap_cvg     : 1.09%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500254925\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Material_Temperature_Simulation/input -o /dev/shm/work/Material_Temperature_Simulation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Material_Temperature_Simulation/Material_Temperature_Simulation.dict -- data/linux/processed-challenges/Material_Temperature_Simulation/bin/Material_Temperature_Simulation\n'
+p41
+I5
+tp42
+a(I2520
+S'start_time     : 1500252522\nlast_update    : 1500255047\nfuzzer_pid     : 21523\ncycles_done    : 0\nexecs_done     : 2248225\nexecs_per_sec  : 985.09\npaths_total    : 365\npaths_favored  : 140\npaths_found    : 364\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 225\npending_favs   : 86\npending_total  : 296\nvariable_paths : 0\nbitmap_cvg     : 1.09%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500255027\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Material_Temperature_Simulation/input -o /dev/shm/work/Material_Temperature_Simulation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Material_Temperature_Simulation/Material_Temperature_Simulation.dict -- data/linux/processed-challenges/Material_Temperature_Simulation/bin/Material_Temperature_Simulation\n'
+p43
+I1
+tp44
+a(I2640
+S'start_time     : 1500252522\nlast_update    : 1500255167\nfuzzer_pid     : 21523\ncycles_done    : 0\nexecs_done     : 2346872\nexecs_per_sec  : 783.49\npaths_total    : 368\npaths_favored  : 140\npaths_found    : 367\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 234\npending_favs   : 80\npending_total  : 292\nvariable_paths : 0\nbitmap_cvg     : 1.09%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500255054\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Material_Temperature_Simulation/input -o /dev/shm/work/Material_Temperature_Simulation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Material_Temperature_Simulation/Material_Temperature_Simulation.dict -- data/linux/processed-challenges/Material_Temperature_Simulation/bin/Material_Temperature_Simulation\n'
+p45
+I3
+tp46
+a(I2760
+S'start_time     : 1500252522\nlast_update    : 1500255288\nfuzzer_pid     : 21523\ncycles_done    : 0\nexecs_done     : 2437085\nexecs_per_sec  : 910.91\npaths_total    : 369\npaths_favored  : 140\npaths_found    : 368\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 244\npending_favs   : 75\npending_total  : 288\nvariable_paths : 0\nbitmap_cvg     : 1.09%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500255174\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Material_Temperature_Simulation/input -o /dev/shm/work/Material_Temperature_Simulation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Material_Temperature_Simulation/Material_Temperature_Simulation.dict -- data/linux/processed-challenges/Material_Temperature_Simulation/bin/Material_Temperature_Simulation\n'
+p47
+I1
+tp48
+a(I2880
+S'start_time     : 1500252522\nlast_update    : 1500255408\nfuzzer_pid     : 21523\ncycles_done    : 0\nexecs_done     : 2546345\nexecs_per_sec  : 860.40\npaths_total    : 370\npaths_favored  : 140\npaths_found    : 369\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 259\npending_favs   : 67\npending_total  : 280\nvariable_paths : 0\nbitmap_cvg     : 1.09%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500255360\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Material_Temperature_Simulation/input -o /dev/shm/work/Material_Temperature_Simulation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Material_Temperature_Simulation/Material_Temperature_Simulation.dict -- data/linux/processed-challenges/Material_Temperature_Simulation/bin/Material_Temperature_Simulation\n'
+p49
+I1
+tp50
+a(I3000
+S'start_time     : 1500252522\nlast_update    : 1500255528\nfuzzer_pid     : 21523\ncycles_done    : 0\nexecs_done     : 2636829\nexecs_per_sec  : 583.33\npaths_total    : 373\npaths_favored  : 142\npaths_found    : 372\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 264\npending_favs   : 67\npending_total  : 280\nvariable_paths : 0\nbitmap_cvg     : 1.09%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500255430\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Material_Temperature_Simulation/input -o /dev/shm/work/Material_Temperature_Simulation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Material_Temperature_Simulation/Material_Temperature_Simulation.dict -- data/linux/processed-challenges/Material_Temperature_Simulation/bin/Material_Temperature_Simulation\n'
+p51
+I3
+tp52
+a(I3120
+S'start_time     : 1500252522\nlast_update    : 1500255648\nfuzzer_pid     : 21523\ncycles_done    : 0\nexecs_done     : 2713553\nexecs_per_sec  : 665.46\npaths_total    : 373\npaths_favored  : 142\npaths_found    : 372\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 268\npending_favs   : 64\npending_total  : 277\nvariable_paths : 0\nbitmap_cvg     : 1.09%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500255430\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Material_Temperature_Simulation/input -o /dev/shm/work/Material_Temperature_Simulation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Material_Temperature_Simulation/Material_Temperature_Simulation.dict -- data/linux/processed-challenges/Material_Temperature_Simulation/bin/Material_Temperature_Simulation\n'
+p53
+I0
+tp54
+a(I3240
+S'start_time     : 1500252522\nlast_update    : 1500255768\nfuzzer_pid     : 21523\ncycles_done    : 0\nexecs_done     : 2791841\nexecs_per_sec  : 704.69\npaths_total    : 373\npaths_favored  : 142\npaths_found    : 372\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 278\npending_favs   : 62\npending_total  : 275\nvariable_paths : 0\nbitmap_cvg     : 1.09%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500255430\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Material_Temperature_Simulation/input -o /dev/shm/work/Material_Temperature_Simulation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Material_Temperature_Simulation/Material_Temperature_Simulation.dict -- data/linux/processed-challenges/Material_Temperature_Simulation/bin/Material_Temperature_Simulation\n'
+p55
+I0
+tp56
+a(I3360
+S'start_time     : 1500252522\nlast_update    : 1500255888\nfuzzer_pid     : 21523\ncycles_done    : 0\nexecs_done     : 2857527\nexecs_per_sec  : 543.08\npaths_total    : 373\npaths_favored  : 142\npaths_found    : 372\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 282\npending_favs   : 60\npending_total  : 273\nvariable_paths : 0\nbitmap_cvg     : 1.09%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500255430\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Material_Temperature_Simulation/input -o /dev/shm/work/Material_Temperature_Simulation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Material_Temperature_Simulation/Material_Temperature_Simulation.dict -- data/linux/processed-challenges/Material_Temperature_Simulation/bin/Material_Temperature_Simulation\n'
+p57
+I0
+tp58
+a(I3480
+S'start_time     : 1500252522\nlast_update    : 1500256009\nfuzzer_pid     : 21523\ncycles_done    : 0\nexecs_done     : 2932023\nexecs_per_sec  : 600.41\npaths_total    : 373\npaths_favored  : 142\npaths_found    : 372\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 290\npending_favs   : 57\npending_total  : 270\nvariable_paths : 0\nbitmap_cvg     : 1.09%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500255430\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Material_Temperature_Simulation/input -o /dev/shm/work/Material_Temperature_Simulation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Material_Temperature_Simulation/Material_Temperature_Simulation.dict -- data/linux/processed-challenges/Material_Temperature_Simulation/bin/Material_Temperature_Simulation\n'
+p59
+I0
+tp60
+a(I3600
+S'start_time     : 1500252522\nlast_update    : 1500256129\nfuzzer_pid     : 21523\ncycles_done    : 0\nexecs_done     : 3010542\nexecs_per_sec  : 765.20\npaths_total    : 373\npaths_favored  : 142\npaths_found    : 372\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 292\npending_favs   : 55\npending_total  : 268\nvariable_paths : 0\nbitmap_cvg     : 1.09%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500255430\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Material_Temperature_Simulation/input -o /dev/shm/work/Material_Temperature_Simulation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Material_Temperature_Simulation/Material_Temperature_Simulation.dict -- data/linux/processed-challenges/Material_Temperature_Simulation/bin/Material_Temperature_Simulation\n'
+p61
+I0
+tp62
+a(I3720
+S'start_time     : 1500252522\nlast_update    : 1500256249\nfuzzer_pid     : 21523\ncycles_done    : 0\nexecs_done     : 3078735\nexecs_per_sec  : 491.05\npaths_total    : 373\npaths_favored  : 142\npaths_found    : 372\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 298\npending_favs   : 53\npending_total  : 266\nvariable_paths : 0\nbitmap_cvg     : 1.09%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500255430\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Material_Temperature_Simulation/input -o /dev/shm/work/Material_Temperature_Simulation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Material_Temperature_Simulation/Material_Temperature_Simulation.dict -- data/linux/processed-challenges/Material_Temperature_Simulation/bin/Material_Temperature_Simulation\n'
+p63
+I0
+tp64
+a(I3840
+S'start_time     : 1500252522\nlast_update    : 1500256369\nfuzzer_pid     : 21523\ncycles_done    : 0\nexecs_done     : 3169205\nexecs_per_sec  : 716.81\npaths_total    : 375\npaths_favored  : 144\npaths_found    : 374\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 306\npending_favs   : 50\npending_total  : 263\nvariable_paths : 0\nbitmap_cvg     : 1.10%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500256333\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Material_Temperature_Simulation/input -o /dev/shm/work/Material_Temperature_Simulation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Material_Temperature_Simulation/Material_Temperature_Simulation.dict -- data/linux/processed-challenges/Material_Temperature_Simulation/bin/Material_Temperature_Simulation\n'
+p65
+I2
+tp66
+a(I3960
+S'start_time     : 1500252522\nlast_update    : 1500256490\nfuzzer_pid     : 21523\ncycles_done    : 0\nexecs_done     : 3262434\nexecs_per_sec  : 725.89\npaths_total    : 375\npaths_favored  : 144\npaths_found    : 374\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 313\npending_favs   : 46\npending_total  : 259\nvariable_paths : 0\nbitmap_cvg     : 1.10%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500256333\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Material_Temperature_Simulation/input -o /dev/shm/work/Material_Temperature_Simulation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Material_Temperature_Simulation/Material_Temperature_Simulation.dict -- data/linux/processed-challenges/Material_Temperature_Simulation/bin/Material_Temperature_Simulation\n'
+p67
+I0
+tp68
+a(I4080
+S'start_time     : 1500252522\nlast_update    : 1500256610\nfuzzer_pid     : 21523\ncycles_done    : 0\nexecs_done     : 3344142\nexecs_per_sec  : 827.49\npaths_total    : 376\npaths_favored  : 144\npaths_found    : 375\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 323\npending_favs   : 42\npending_total  : 256\nvariable_paths : 0\nbitmap_cvg     : 1.10%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500256583\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Material_Temperature_Simulation/input -o /dev/shm/work/Material_Temperature_Simulation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Material_Temperature_Simulation/Material_Temperature_Simulation.dict -- data/linux/processed-challenges/Material_Temperature_Simulation/bin/Material_Temperature_Simulation\n'
+p69
+I1
+tp70
+a(I4200
+S'start_time     : 1500252522\nlast_update    : 1500256730\nfuzzer_pid     : 21523\ncycles_done    : 0\nexecs_done     : 3438110\nexecs_per_sec  : 638.06\npaths_total    : 376\npaths_favored  : 144\npaths_found    : 375\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 327\npending_favs   : 38\npending_total  : 252\nvariable_paths : 0\nbitmap_cvg     : 1.10%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500256583\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Material_Temperature_Simulation/input -o /dev/shm/work/Material_Temperature_Simulation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Material_Temperature_Simulation/Material_Temperature_Simulation.dict -- data/linux/processed-challenges/Material_Temperature_Simulation/bin/Material_Temperature_Simulation\n'
+p71
+I0
+tp72
+a(I4320
+S'start_time     : 1500252522\nlast_update    : 1500256851\nfuzzer_pid     : 21523\ncycles_done    : 0\nexecs_done     : 3546292\nexecs_per_sec  : 880.09\npaths_total    : 376\npaths_favored  : 144\npaths_found    : 375\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 333\npending_favs   : 32\npending_total  : 246\nvariable_paths : 0\nbitmap_cvg     : 1.10%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500256583\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Material_Temperature_Simulation/input -o /dev/shm/work/Material_Temperature_Simulation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Material_Temperature_Simulation/Material_Temperature_Simulation.dict -- data/linux/processed-challenges/Material_Temperature_Simulation/bin/Material_Temperature_Simulation\n'
+p73
+I0
+tp74
+a(I4440
+S'start_time     : 1500252522\nlast_update    : 1500256971\nfuzzer_pid     : 21523\ncycles_done    : 0\nexecs_done     : 3642622\nexecs_per_sec  : 769.86\npaths_total    : 376\npaths_favored  : 144\npaths_found    : 375\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 336\npending_favs   : 29\npending_total  : 243\nvariable_paths : 0\nbitmap_cvg     : 1.10%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500256583\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Material_Temperature_Simulation/input -o /dev/shm/work/Material_Temperature_Simulation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Material_Temperature_Simulation/Material_Temperature_Simulation.dict -- data/linux/processed-challenges/Material_Temperature_Simulation/bin/Material_Temperature_Simulation\n'
+p75
+I0
+tp76
+a(I4560
+S'start_time     : 1500252522\nlast_update    : 1500257091\nfuzzer_pid     : 21523\ncycles_done    : 0\nexecs_done     : 3731878\nexecs_per_sec  : 516.22\npaths_total    : 376\npaths_favored  : 144\npaths_found    : 375\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 341\npending_favs   : 26\npending_total  : 240\nvariable_paths : 0\nbitmap_cvg     : 1.10%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500256583\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Material_Temperature_Simulation/input -o /dev/shm/work/Material_Temperature_Simulation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Material_Temperature_Simulation/Material_Temperature_Simulation.dict -- data/linux/processed-challenges/Material_Temperature_Simulation/bin/Material_Temperature_Simulation\n'
+p77
+I0
+tp78
+a(I4680
+S'start_time     : 1500252522\nlast_update    : 1500257211\nfuzzer_pid     : 21523\ncycles_done    : 0\nexecs_done     : 3801360\nexecs_per_sec  : 561.70\npaths_total    : 376\npaths_favored  : 144\npaths_found    : 375\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 344\npending_favs   : 24\npending_total  : 238\nvariable_paths : 0\nbitmap_cvg     : 1.10%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500256583\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Material_Temperature_Simulation/input -o /dev/shm/work/Material_Temperature_Simulation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Material_Temperature_Simulation/Material_Temperature_Simulation.dict -- data/linux/processed-challenges/Material_Temperature_Simulation/bin/Material_Temperature_Simulation\n'
+p79
+I0
+tp80
+a(I4800
+S'start_time     : 1500252522\nlast_update    : 1500257331\nfuzzer_pid     : 21523\ncycles_done    : 0\nexecs_done     : 3872059\nexecs_per_sec  : 625.52\npaths_total    : 377\npaths_favored  : 144\npaths_found    : 376\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 348\npending_favs   : 22\npending_total  : 237\nvariable_paths : 0\nbitmap_cvg     : 1.10%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500257314\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Material_Temperature_Simulation/input -o /dev/shm/work/Material_Temperature_Simulation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Material_Temperature_Simulation/Material_Temperature_Simulation.dict -- data/linux/processed-challenges/Material_Temperature_Simulation/bin/Material_Temperature_Simulation\n'
+p81
+I1
+tp82
+a(I4920
+S'start_time     : 1500252522\nlast_update    : 1500257452\nfuzzer_pid     : 21523\ncycles_done    : 0\nexecs_done     : 3954668\nexecs_per_sec  : 795.91\npaths_total    : 379\npaths_favored  : 143\npaths_found    : 378\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 349\npending_favs   : 21\npending_total  : 238\nvariable_paths : 0\nbitmap_cvg     : 1.10%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500257439\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Material_Temperature_Simulation/input -o /dev/shm/work/Material_Temperature_Simulation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Material_Temperature_Simulation/Material_Temperature_Simulation.dict -- data/linux/processed-challenges/Material_Temperature_Simulation/bin/Material_Temperature_Simulation\n'
+p83
+I2
+tp84
+a(I5040
+S'start_time     : 1500252522\nlast_update    : 1500257572\nfuzzer_pid     : 21523\ncycles_done    : 0\nexecs_done     : 4031174\nexecs_per_sec  : 485.83\npaths_total    : 379\npaths_favored  : 143\npaths_found    : 378\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 352\npending_favs   : 19\npending_total  : 236\nvariable_paths : 0\nbitmap_cvg     : 1.10%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500257439\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Material_Temperature_Simulation/input -o /dev/shm/work/Material_Temperature_Simulation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Material_Temperature_Simulation/Material_Temperature_Simulation.dict -- data/linux/processed-challenges/Material_Temperature_Simulation/bin/Material_Temperature_Simulation\n'
+p85
+I0
+tp86
+a(I5160
+S'start_time     : 1500252522\nlast_update    : 1500257692\nfuzzer_pid     : 21523\ncycles_done    : 0\nexecs_done     : 4097524\nexecs_per_sec  : 499.86\npaths_total    : 380\npaths_favored  : 143\npaths_found    : 379\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 353\npending_favs   : 18\npending_total  : 236\nvariable_paths : 0\nbitmap_cvg     : 1.10%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500257614\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Material_Temperature_Simulation/input -o /dev/shm/work/Material_Temperature_Simulation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Material_Temperature_Simulation/Material_Temperature_Simulation.dict -- data/linux/processed-challenges/Material_Temperature_Simulation/bin/Material_Temperature_Simulation\n'
+p87
+I1
+tp88
+a(I5280
+S'start_time     : 1500252522\nlast_update    : 1500257812\nfuzzer_pid     : 21523\ncycles_done    : 0\nexecs_done     : 4168678\nexecs_per_sec  : 509.98\npaths_total    : 382\npaths_favored  : 144\npaths_found    : 381\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 356\npending_favs   : 17\npending_total  : 236\nvariable_paths : 0\nbitmap_cvg     : 1.10%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500257768\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Material_Temperature_Simulation/input -o /dev/shm/work/Material_Temperature_Simulation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Material_Temperature_Simulation/Material_Temperature_Simulation.dict -- data/linux/processed-challenges/Material_Temperature_Simulation/bin/Material_Temperature_Simulation\n'
+p89
+I2
+tp90
+a(I5400
+S'start_time     : 1500252522\nlast_update    : 1500257872\nfuzzer_pid     : 21523\ncycles_done    : 0\nexecs_done     : 4203493\nexecs_per_sec  : 709.87\npaths_total    : 383\npaths_favored  : 144\npaths_found    : 382\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 356\npending_favs   : 17\npending_total  : 237\nvariable_paths : 0\nbitmap_cvg     : 1.10%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500257852\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Material_Temperature_Simulation/input -o /dev/shm/work/Material_Temperature_Simulation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Material_Temperature_Simulation/Material_Temperature_Simulation.dict -- data/linux/processed-challenges/Material_Temperature_Simulation/bin/Material_Temperature_Simulation\n'
+p91
+I1
+tp92
+a(I5520
+S'start_time     : 1500252522\nlast_update    : 1500257993\nfuzzer_pid     : 21523\ncycles_done    : 0\nexecs_done     : 4282068\nexecs_per_sec  : 708.62\npaths_total    : 383\npaths_favored  : 144\npaths_found    : 382\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 359\npending_favs   : 14\npending_total  : 234\nvariable_paths : 0\nbitmap_cvg     : 1.10%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500257852\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Material_Temperature_Simulation/input -o /dev/shm/work/Material_Temperature_Simulation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Material_Temperature_Simulation/Material_Temperature_Simulation.dict -- data/linux/processed-challenges/Material_Temperature_Simulation/bin/Material_Temperature_Simulation\n'
+p93
+I0
+tp94
+a(I5640
+S'start_time     : 1500252522\nlast_update    : 1500258113\nfuzzer_pid     : 21523\ncycles_done    : 0\nexecs_done     : 4352656\nexecs_per_sec  : 473.68\npaths_total    : 383\npaths_favored  : 144\npaths_found    : 382\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 363\npending_favs   : 13\npending_total  : 233\nvariable_paths : 0\nbitmap_cvg     : 1.10%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500257852\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Material_Temperature_Simulation/input -o /dev/shm/work/Material_Temperature_Simulation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Material_Temperature_Simulation/Material_Temperature_Simulation.dict -- data/linux/processed-challenges/Material_Temperature_Simulation/bin/Material_Temperature_Simulation\n'
+p95
+I0
+tp96
+a(I5760
+S'start_time     : 1500252522\nlast_update    : 1500258233\nfuzzer_pid     : 21523\ncycles_done    : 0\nexecs_done     : 4448062\nexecs_per_sec  : 828.65\npaths_total    : 384\npaths_favored  : 144\npaths_found    : 383\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 370\npending_favs   : 9\npending_total  : 230\nvariable_paths : 0\nbitmap_cvg     : 1.10%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500258173\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Material_Temperature_Simulation/input -o /dev/shm/work/Material_Temperature_Simulation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Material_Temperature_Simulation/Material_Temperature_Simulation.dict -- data/linux/processed-challenges/Material_Temperature_Simulation/bin/Material_Temperature_Simulation\n'
+p97
+I1
+tp98
+a(I5880
+S'start_time     : 1500252522\nlast_update    : 1500258353\nfuzzer_pid     : 21523\ncycles_done    : 0\nexecs_done     : 4546168\nexecs_per_sec  : 814.93\npaths_total    : 384\npaths_favored  : 144\npaths_found    : 383\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 374\npending_favs   : 5\npending_total  : 226\nvariable_paths : 0\nbitmap_cvg     : 1.10%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500258173\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Material_Temperature_Simulation/input -o /dev/shm/work/Material_Temperature_Simulation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Material_Temperature_Simulation/Material_Temperature_Simulation.dict -- data/linux/processed-challenges/Material_Temperature_Simulation/bin/Material_Temperature_Simulation\n'
+p99
+I0
+tp100
+a(I6000
+S'start_time     : 1500252522\nlast_update    : 1500258473\nfuzzer_pid     : 21523\ncycles_done    : 0\nexecs_done     : 4627696\nexecs_per_sec  : 550.06\npaths_total    : 384\npaths_favored  : 144\npaths_found    : 383\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 380\npending_favs   : 3\npending_total  : 224\nvariable_paths : 0\nbitmap_cvg     : 1.10%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500258173\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Material_Temperature_Simulation/input -o /dev/shm/work/Material_Temperature_Simulation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Material_Temperature_Simulation/Material_Temperature_Simulation.dict -- data/linux/processed-challenges/Material_Temperature_Simulation/bin/Material_Temperature_Simulation\n'
+p101
+I0
+tp102
+a(I6120
+S'start_time     : 1500252522\nlast_update    : 1500258593\nfuzzer_pid     : 21523\ncycles_done    : 1\nexecs_done     : 4715835\nexecs_per_sec  : 876.26\npaths_total    : 384\npaths_favored  : 144\npaths_found    : 383\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 130\npending_favs   : 0\npending_total  : 218\nvariable_paths : 0\nbitmap_cvg     : 1.10%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500258173\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Material_Temperature_Simulation/input -o /dev/shm/work/Material_Temperature_Simulation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Material_Temperature_Simulation/Material_Temperature_Simulation.dict -- data/linux/processed-challenges/Material_Temperature_Simulation/bin/Material_Temperature_Simulation\n'
+p103
+I0
+tp104
+a(I6240
+S'start_time     : 1500252522\nlast_update    : 1500258714\nfuzzer_pid     : 21523\ncycles_done    : 1\nexecs_done     : 4820061\nexecs_per_sec  : 782.06\npaths_total    : 384\npaths_favored  : 144\npaths_found    : 383\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 154\npending_favs   : 0\npending_total  : 214\nvariable_paths : 0\nbitmap_cvg     : 1.10%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500258173\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Material_Temperature_Simulation/input -o /dev/shm/work/Material_Temperature_Simulation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Material_Temperature_Simulation/Material_Temperature_Simulation.dict -- data/linux/processed-challenges/Material_Temperature_Simulation/bin/Material_Temperature_Simulation\n'
+p105
+I0
+tp106
+a(I6360
+S'start_time     : 1500252522\nlast_update    : 1500258834\nfuzzer_pid     : 21523\ncycles_done    : 1\nexecs_done     : 4893620\nexecs_per_sec  : 505.04\npaths_total    : 384\npaths_favored  : 144\npaths_found    : 383\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 165\npending_favs   : 0\npending_total  : 212\nvariable_paths : 0\nbitmap_cvg     : 1.10%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500258173\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Material_Temperature_Simulation/input -o /dev/shm/work/Material_Temperature_Simulation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Material_Temperature_Simulation/Material_Temperature_Simulation.dict -- data/linux/processed-challenges/Material_Temperature_Simulation/bin/Material_Temperature_Simulation\n'
+p107
+I3
+tp108
+a(I6480
+S'start_time     : 1500252522\nlast_update    : 1500258954\nfuzzer_pid     : 21523\ncycles_done    : 1\nexecs_done     : 4968902\nexecs_per_sec  : 659.23\npaths_total    : 387\npaths_favored  : 144\npaths_found    : 386\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 170\npending_favs   : 0\npending_total  : 214\nvariable_paths : 0\nbitmap_cvg     : 1.10%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500258878\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Material_Temperature_Simulation/input -o /dev/shm/work/Material_Temperature_Simulation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Material_Temperature_Simulation/Material_Temperature_Simulation.dict -- data/linux/processed-challenges/Material_Temperature_Simulation/bin/Material_Temperature_Simulation\n'
+p109
+I0
+tp110
+a(I6600
+S'start_time     : 1500252522\nlast_update    : 1500259074\nfuzzer_pid     : 21523\ncycles_done    : 1\nexecs_done     : 5033762\nexecs_per_sec  : 664.83\npaths_total    : 389\npaths_favored  : 144\npaths_found    : 388\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 173\npending_favs   : 0\npending_total  : 215\nvariable_paths : 0\nbitmap_cvg     : 1.10%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500259073\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Material_Temperature_Simulation/input -o /dev/shm/work/Material_Temperature_Simulation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Material_Temperature_Simulation/Material_Temperature_Simulation.dict -- data/linux/processed-challenges/Material_Temperature_Simulation/bin/Material_Temperature_Simulation\n'
+p111
+I3
+tp112
+a(I6720
+S'start_time     : 1500252522\nlast_update    : 1500259194\nfuzzer_pid     : 21523\ncycles_done    : 1\nexecs_done     : 5112478\nexecs_per_sec  : 396.58\npaths_total    : 390\npaths_favored  : 144\npaths_found    : 389\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 196\npending_favs   : 0\npending_total  : 213\nvariable_paths : 0\nbitmap_cvg     : 1.10%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500259090\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Material_Temperature_Simulation/input -o /dev/shm/work/Material_Temperature_Simulation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Material_Temperature_Simulation/Material_Temperature_Simulation.dict -- data/linux/processed-challenges/Material_Temperature_Simulation/bin/Material_Temperature_Simulation\n'
+p113
+I0
+tp114
+a(I6840
+S'start_time     : 1500252522\nlast_update    : 1500259315\nfuzzer_pid     : 21523\ncycles_done    : 1\nexecs_done     : 5182842\nexecs_per_sec  : 659.36\npaths_total    : 390\npaths_favored  : 144\npaths_found    : 389\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 213\npending_favs   : 0\npending_total  : 211\nvariable_paths : 0\nbitmap_cvg     : 1.10%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500259090\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Material_Temperature_Simulation/input -o /dev/shm/work/Material_Temperature_Simulation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Material_Temperature_Simulation/Material_Temperature_Simulation.dict -- data/linux/processed-challenges/Material_Temperature_Simulation/bin/Material_Temperature_Simulation\n'
+p115
+I0
+tp116
+a(I6960
+S'start_time     : 1500252522\nlast_update    : 1500259435\nfuzzer_pid     : 21523\ncycles_done    : 1\nexecs_done     : 5267354\nexecs_per_sec  : 532.79\npaths_total    : 390\npaths_favored  : 144\npaths_found    : 389\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 221\npending_favs   : 0\npending_total  : 209\nvariable_paths : 0\nbitmap_cvg     : 1.10%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500259090\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Material_Temperature_Simulation/input -o /dev/shm/work/Material_Temperature_Simulation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Material_Temperature_Simulation/Material_Temperature_Simulation.dict -- data/linux/processed-challenges/Material_Temperature_Simulation/bin/Material_Temperature_Simulation\n'
+p117
+I0
+tp118
+a(I7080
+S'start_time     : 1500252522\nlast_update    : 1500259555\nfuzzer_pid     : 21523\ncycles_done    : 1\nexecs_done     : 5325618\nexecs_per_sec  : 680.19\npaths_total    : 392\npaths_favored  : 144\npaths_found    : 391\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 221\npending_favs   : 0\npending_total  : 211\nvariable_paths : 0\nbitmap_cvg     : 1.10%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500259542\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Material_Temperature_Simulation/input -o /dev/shm/work/Material_Temperature_Simulation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Material_Temperature_Simulation/Material_Temperature_Simulation.dict -- data/linux/processed-challenges/Material_Temperature_Simulation/bin/Material_Temperature_Simulation\n'
+p119
+I2
+tp120
+a(I7200
+S'start_time     : 1500252522\nlast_update    : 1500259676\nfuzzer_pid     : 21523\ncycles_done    : 1\nexecs_done     : 5434505\nexecs_per_sec  : 921.53\npaths_total    : 393\npaths_favored  : 144\npaths_found    : 392\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 247\npending_favs   : 0\npending_total  : 210\nvariable_paths : 0\nbitmap_cvg     : 1.10%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500259639\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Material_Temperature_Simulation/input -o /dev/shm/work/Material_Temperature_Simulation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Material_Temperature_Simulation/Material_Temperature_Simulation.dict -- data/linux/processed-challenges/Material_Temperature_Simulation/bin/Material_Temperature_Simulation\n'
+p121
+I1
+tp122
+a(I7320
+S'start_time     : 1500252522\nlast_update    : 1500259796\nfuzzer_pid     : 21523\ncycles_done    : 1\nexecs_done     : 5513074\nexecs_per_sec  : 823.13\npaths_total    : 393\npaths_favored  : 144\npaths_found    : 392\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 260\npending_favs   : 0\npending_total  : 209\nvariable_paths : 0\nbitmap_cvg     : 1.10%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500259639\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Material_Temperature_Simulation/input -o /dev/shm/work/Material_Temperature_Simulation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Material_Temperature_Simulation/Material_Temperature_Simulation.dict -- data/linux/processed-challenges/Material_Temperature_Simulation/bin/Material_Temperature_Simulation\n'
+p123
+I0
+tp124
+a(I7440
+S'start_time     : 1500252522\nlast_update    : 1500259916\nfuzzer_pid     : 21523\ncycles_done    : 1\nexecs_done     : 5589908\nexecs_per_sec  : 457.91\npaths_total    : 393\npaths_favored  : 144\npaths_found    : 392\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 276\npending_favs   : 0\npending_total  : 208\nvariable_paths : 0\nbitmap_cvg     : 1.10%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500259639\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Material_Temperature_Simulation/input -o /dev/shm/work/Material_Temperature_Simulation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Material_Temperature_Simulation/Material_Temperature_Simulation.dict -- data/linux/processed-challenges/Material_Temperature_Simulation/bin/Material_Temperature_Simulation\n'
+p125
+I0
+tp126
+a(I7560
+S'start_time     : 1500252522\nlast_update    : 1500260036\nfuzzer_pid     : 21523\ncycles_done    : 1\nexecs_done     : 5677191\nexecs_per_sec  : 719.41\npaths_total    : 393\npaths_favored  : 144\npaths_found    : 392\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 298\npending_favs   : 0\npending_total  : 206\nvariable_paths : 0\nbitmap_cvg     : 1.10%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500259639\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Material_Temperature_Simulation/input -o /dev/shm/work/Material_Temperature_Simulation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Material_Temperature_Simulation/Material_Temperature_Simulation.dict -- data/linux/processed-challenges/Material_Temperature_Simulation/bin/Material_Temperature_Simulation\n'
+p127
+I0
+tp128
+a(I7680
+S'start_time     : 1500252522\nlast_update    : 1500260156\nfuzzer_pid     : 21523\ncycles_done    : 1\nexecs_done     : 5770615\nexecs_per_sec  : 696.54\npaths_total    : 393\npaths_favored  : 144\npaths_found    : 392\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 308\npending_favs   : 0\npending_total  : 204\nvariable_paths : 0\nbitmap_cvg     : 1.10%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500259639\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Material_Temperature_Simulation/input -o /dev/shm/work/Material_Temperature_Simulation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Material_Temperature_Simulation/Material_Temperature_Simulation.dict -- data/linux/processed-challenges/Material_Temperature_Simulation/bin/Material_Temperature_Simulation\n'
+p129
+I0
+tp130
+a(I7800
+S'start_time     : 1500252522\nlast_update    : 1500260277\nfuzzer_pid     : 21523\ncycles_done    : 1\nexecs_done     : 5869722\nexecs_per_sec  : 842.04\npaths_total    : 393\npaths_favored  : 144\npaths_found    : 392\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 327\npending_favs   : 0\npending_total  : 202\nvariable_paths : 0\nbitmap_cvg     : 1.10%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500259639\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Material_Temperature_Simulation/input -o /dev/shm/work/Material_Temperature_Simulation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Material_Temperature_Simulation/Material_Temperature_Simulation.dict -- data/linux/processed-challenges/Material_Temperature_Simulation/bin/Material_Temperature_Simulation\n'
+p131
+I0
+tp132
+a(I7920
+S'start_time     : 1500252522\nlast_update    : 1500260397\nfuzzer_pid     : 21523\ncycles_done    : 1\nexecs_done     : 5979799\nexecs_per_sec  : 784.69\npaths_total    : 393\npaths_favored  : 144\npaths_found    : 392\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 341\npending_favs   : 0\npending_total  : 202\nvariable_paths : 0\nbitmap_cvg     : 1.10%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500259639\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Material_Temperature_Simulation/input -o /dev/shm/work/Material_Temperature_Simulation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Material_Temperature_Simulation/Material_Temperature_Simulation.dict -- data/linux/processed-challenges/Material_Temperature_Simulation/bin/Material_Temperature_Simulation\n'
+p133
+I0
+tp134
+a(I8040
+S'start_time     : 1500252522\nlast_update    : 1500260517\nfuzzer_pid     : 21523\ncycles_done    : 1\nexecs_done     : 6073084\nexecs_per_sec  : 694.94\npaths_total    : 394\npaths_favored  : 144\npaths_found    : 393\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 352\npending_favs   : 0\npending_total  : 203\nvariable_paths : 0\nbitmap_cvg     : 1.10%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500260489\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Material_Temperature_Simulation/input -o /dev/shm/work/Material_Temperature_Simulation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Material_Temperature_Simulation/Material_Temperature_Simulation.dict -- data/linux/processed-challenges/Material_Temperature_Simulation/bin/Material_Temperature_Simulation\n'
+p135
+I1
+tp136
+a(I8160
+S'start_time     : 1500252522\nlast_update    : 1500260637\nfuzzer_pid     : 21523\ncycles_done    : 1\nexecs_done     : 6165025\nexecs_per_sec  : 857.32\npaths_total    : 394\npaths_favored  : 144\npaths_found    : 393\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 364\npending_favs   : 0\npending_total  : 203\nvariable_paths : 0\nbitmap_cvg     : 1.10%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500260489\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Material_Temperature_Simulation/input -o /dev/shm/work/Material_Temperature_Simulation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Material_Temperature_Simulation/Material_Temperature_Simulation.dict -- data/linux/processed-challenges/Material_Temperature_Simulation/bin/Material_Temperature_Simulation\n'
+p137
+I0
+tp138
+a(I8280
+S'start_time     : 1500252522\nlast_update    : 1500260757\nfuzzer_pid     : 21523\ncycles_done    : 1\nexecs_done     : 6264740\nexecs_per_sec  : 610.33\npaths_total    : 394\npaths_favored  : 144\npaths_found    : 393\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 375\npending_favs   : 0\npending_total  : 203\nvariable_paths : 0\nbitmap_cvg     : 1.10%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500260489\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Material_Temperature_Simulation/input -o /dev/shm/work/Material_Temperature_Simulation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Material_Temperature_Simulation/Material_Temperature_Simulation.dict -- data/linux/processed-challenges/Material_Temperature_Simulation/bin/Material_Temperature_Simulation\n'
+p139
+I1
+tp140
+a(I8400
+S'start_time     : 1500252522\nlast_update    : 1500260877\nfuzzer_pid     : 21523\ncycles_done    : 1\nexecs_done     : 6357998\nexecs_per_sec  : 746.71\npaths_total    : 395\npaths_favored  : 144\npaths_found    : 394\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 377\npending_favs   : 0\npending_total  : 203\nvariable_paths : 0\nbitmap_cvg     : 1.10%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500260761\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Material_Temperature_Simulation/input -o /dev/shm/work/Material_Temperature_Simulation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Material_Temperature_Simulation/Material_Temperature_Simulation.dict -- data/linux/processed-challenges/Material_Temperature_Simulation/bin/Material_Temperature_Simulation\n'
+p141
+I2
+tp142
+a(I8520
+S'start_time     : 1500252522\nlast_update    : 1500260997\nfuzzer_pid     : 21523\ncycles_done    : 1\nexecs_done     : 6421798\nexecs_per_sec  : 428.32\npaths_total    : 397\npaths_favored  : 144\npaths_found    : 396\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 378\npending_favs   : 0\npending_total  : 204\nvariable_paths : 0\nbitmap_cvg     : 1.10%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500260911\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Material_Temperature_Simulation/input -o /dev/shm/work/Material_Temperature_Simulation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Material_Temperature_Simulation/Material_Temperature_Simulation.dict -- data/linux/processed-challenges/Material_Temperature_Simulation/bin/Material_Temperature_Simulation\n'
+p143
+I2
+tp144
+a(I8640
+S'start_time     : 1500252522\nlast_update    : 1500261117\nfuzzer_pid     : 21523\ncycles_done    : 1\nexecs_done     : 6498635\nexecs_per_sec  : 696.26\npaths_total    : 399\npaths_favored  : 144\npaths_found    : 398\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 382\npending_favs   : 0\npending_total  : 205\nvariable_paths : 0\nbitmap_cvg     : 1.10%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500261029\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Material_Temperature_Simulation/input -o /dev/shm/work/Material_Temperature_Simulation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Material_Temperature_Simulation/Material_Temperature_Simulation.dict -- data/linux/processed-challenges/Material_Temperature_Simulation/bin/Material_Temperature_Simulation\n'
+p145
+I0
+tp146
+a(I8760
+S'start_time     : 1500252522\nlast_update    : 1500261238\nfuzzer_pid     : 21523\ncycles_done    : 1\nexecs_done     : 6567525\nexecs_per_sec  : 116.18\npaths_total    : 399\npaths_favored  : 144\npaths_found    : 398\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 386\npending_favs   : 0\npending_total  : 204\nvariable_paths : 0\nbitmap_cvg     : 1.10%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500261029\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Material_Temperature_Simulation/input -o /dev/shm/work/Material_Temperature_Simulation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Material_Temperature_Simulation/Material_Temperature_Simulation.dict -- data/linux/processed-challenges/Material_Temperature_Simulation/bin/Material_Temperature_Simulation\n'
+p147
+I0
+tp148
+a(I8880
+S'start_time     : 1500252522\nlast_update    : 1500261358\nfuzzer_pid     : 21523\ncycles_done    : 1\nexecs_done     : 6581041\nexecs_per_sec  : 111.26\npaths_total    : 399\npaths_favored  : 144\npaths_found    : 398\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 386\npending_favs   : 0\npending_total  : 204\nvariable_paths : 0\nbitmap_cvg     : 1.10%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500261029\nlast_crash     : 0\nlast_hang      : 1500261290\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Material_Temperature_Simulation/input -o /dev/shm/work/Material_Temperature_Simulation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Material_Temperature_Simulation/Material_Temperature_Simulation.dict -- data/linux/processed-challenges/Material_Temperature_Simulation/bin/Material_Temperature_Simulation\n'
+p149
+I0
+tp150
+a(I9000
+S'start_time     : 1500252522\nlast_update    : 1500261478\nfuzzer_pid     : 21523\ncycles_done    : 1\nexecs_done     : 6594551\nexecs_per_sec  : 112.66\npaths_total    : 399\npaths_favored  : 144\npaths_found    : 398\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 386\npending_favs   : 0\npending_total  : 204\nvariable_paths : 0\nbitmap_cvg     : 1.10%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500261029\nlast_crash     : 0\nlast_hang      : 1500261290\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Material_Temperature_Simulation/input -o /dev/shm/work/Material_Temperature_Simulation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Material_Temperature_Simulation/Material_Temperature_Simulation.dict -- data/linux/processed-challenges/Material_Temperature_Simulation/bin/Material_Temperature_Simulation\n'
+p151
+I0
+tp152
+a(I9120
+S'start_time     : 1500252522\nlast_update    : 1500261598\nfuzzer_pid     : 21523\ncycles_done    : 1\nexecs_done     : 6608071\nexecs_per_sec  : 111.50\npaths_total    : 399\npaths_favored  : 144\npaths_found    : 398\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 386\npending_favs   : 0\npending_total  : 204\nvariable_paths : 0\nbitmap_cvg     : 1.10%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500261029\nlast_crash     : 0\nlast_hang      : 1500261290\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Material_Temperature_Simulation/input -o /dev/shm/work/Material_Temperature_Simulation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Material_Temperature_Simulation/Material_Temperature_Simulation.dict -- data/linux/processed-challenges/Material_Temperature_Simulation/bin/Material_Temperature_Simulation\n'
+p153
+I0
+tp154
+a(I9240
+S'start_time     : 1500252522\nlast_update    : 1500261718\nfuzzer_pid     : 21523\ncycles_done    : 1\nexecs_done     : 6621881\nexecs_per_sec  : 119.90\npaths_total    : 399\npaths_favored  : 144\npaths_found    : 398\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 386\npending_favs   : 0\npending_total  : 204\nvariable_paths : 0\nbitmap_cvg     : 1.10%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500261029\nlast_crash     : 0\nlast_hang      : 1500261290\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Material_Temperature_Simulation/input -o /dev/shm/work/Material_Temperature_Simulation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Material_Temperature_Simulation/Material_Temperature_Simulation.dict -- data/linux/processed-challenges/Material_Temperature_Simulation/bin/Material_Temperature_Simulation\n'
+p155
+I0
+tp156
+a(I9360
+S'start_time     : 1500252522\nlast_update    : 1500261839\nfuzzer_pid     : 21523\ncycles_done    : 1\nexecs_done     : 6637759\nexecs_per_sec  : 117.22\npaths_total    : 399\npaths_favored  : 144\npaths_found    : 398\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 386\npending_favs   : 0\npending_total  : 204\nvariable_paths : 0\nbitmap_cvg     : 1.10%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500261029\nlast_crash     : 0\nlast_hang      : 1500261290\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Material_Temperature_Simulation/input -o /dev/shm/work/Material_Temperature_Simulation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Material_Temperature_Simulation/Material_Temperature_Simulation.dict -- data/linux/processed-challenges/Material_Temperature_Simulation/bin/Material_Temperature_Simulation\n'
+p157
+I0
+tp158
+a(I9480
+S'start_time     : 1500252522\nlast_update    : 1500261959\nfuzzer_pid     : 21523\ncycles_done    : 1\nexecs_done     : 6652005\nexecs_per_sec  : 116.40\npaths_total    : 399\npaths_favored  : 144\npaths_found    : 398\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 386\npending_favs   : 0\npending_total  : 204\nvariable_paths : 0\nbitmap_cvg     : 1.10%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500261029\nlast_crash     : 0\nlast_hang      : 1500261290\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Material_Temperature_Simulation/input -o /dev/shm/work/Material_Temperature_Simulation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Material_Temperature_Simulation/Material_Temperature_Simulation.dict -- data/linux/processed-challenges/Material_Temperature_Simulation/bin/Material_Temperature_Simulation\n'
+p159
+I0
+tp160
+a(I9600
+S'start_time     : 1500252522\nlast_update    : 1500262079\nfuzzer_pid     : 21523\ncycles_done    : 1\nexecs_done     : 6665550\nexecs_per_sec  : 109.30\npaths_total    : 399\npaths_favored  : 144\npaths_found    : 398\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 386\npending_favs   : 0\npending_total  : 204\nvariable_paths : 0\nbitmap_cvg     : 1.10%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500261029\nlast_crash     : 0\nlast_hang      : 1500261290\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Material_Temperature_Simulation/input -o /dev/shm/work/Material_Temperature_Simulation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Material_Temperature_Simulation/Material_Temperature_Simulation.dict -- data/linux/processed-challenges/Material_Temperature_Simulation/bin/Material_Temperature_Simulation\n'
+p161
+I0
+tp162
+a(I9720
+S'start_time     : 1500252522\nlast_update    : 1500262200\nfuzzer_pid     : 21523\ncycles_done    : 1\nexecs_done     : 6679256\nexecs_per_sec  : 112.73\npaths_total    : 399\npaths_favored  : 144\npaths_found    : 398\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 386\npending_favs   : 0\npending_total  : 204\nvariable_paths : 0\nbitmap_cvg     : 1.10%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500261029\nlast_crash     : 0\nlast_hang      : 1500262149\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Material_Temperature_Simulation/input -o /dev/shm/work/Material_Temperature_Simulation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Material_Temperature_Simulation/Material_Temperature_Simulation.dict -- data/linux/processed-challenges/Material_Temperature_Simulation/bin/Material_Temperature_Simulation\n'
+p163
+I0
+tp164
+a(I9840
+S'start_time     : 1500252522\nlast_update    : 1500262320\nfuzzer_pid     : 21523\ncycles_done    : 1\nexecs_done     : 6692514\nexecs_per_sec  : 109.54\npaths_total    : 399\npaths_favored  : 144\npaths_found    : 398\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 386\npending_favs   : 0\npending_total  : 204\nvariable_paths : 0\nbitmap_cvg     : 1.10%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500261029\nlast_crash     : 0\nlast_hang      : 1500262149\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Material_Temperature_Simulation/input -o /dev/shm/work/Material_Temperature_Simulation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Material_Temperature_Simulation/Material_Temperature_Simulation.dict -- data/linux/processed-challenges/Material_Temperature_Simulation/bin/Material_Temperature_Simulation\n'
+p165
+I0
+tp166
+a(I9960
+S'start_time     : 1500252522\nlast_update    : 1500262440\nfuzzer_pid     : 21523\ncycles_done    : 1\nexecs_done     : 6711015\nexecs_per_sec  : 87.20\npaths_total    : 400\npaths_favored  : 144\npaths_found    : 399\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 399\npending_favs   : 0\npending_total  : 204\nvariable_paths : 0\nbitmap_cvg     : 1.10%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500262393\nlast_crash     : 0\nlast_hang      : 1500262432\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Material_Temperature_Simulation/input -o /dev/shm/work/Material_Temperature_Simulation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Material_Temperature_Simulation/Material_Temperature_Simulation.dict -- data/linux/processed-challenges/Material_Temperature_Simulation/bin/Material_Temperature_Simulation\n'
+p167
+I1
+tp168
+a(I10080
+S'start_time     : 1500252522\nlast_update    : 1500262560\nfuzzer_pid     : 21523\ncycles_done    : 1\nexecs_done     : 6720064\nexecs_per_sec  : 74.29\npaths_total    : 400\npaths_favored  : 144\npaths_found    : 399\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 399\npending_favs   : 0\npending_total  : 204\nvariable_paths : 0\nbitmap_cvg     : 1.10%\nunique_crashes : 0\nunique_hangs   : 9\nlast_path      : 1500262393\nlast_crash     : 0\nlast_hang      : 1500262541\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Material_Temperature_Simulation/input -o /dev/shm/work/Material_Temperature_Simulation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Material_Temperature_Simulation/Material_Temperature_Simulation.dict -- data/linux/processed-challenges/Material_Temperature_Simulation/bin/Material_Temperature_Simulation\n'
+p169
+I0
+tp170
+a(I10200
+S'start_time     : 1500252522\nlast_update    : 1500262680\nfuzzer_pid     : 21523\ncycles_done    : 1\nexecs_done     : 6729275\nexecs_per_sec  : 75.66\npaths_total    : 400\npaths_favored  : 144\npaths_found    : 399\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 399\npending_favs   : 0\npending_total  : 204\nvariable_paths : 0\nbitmap_cvg     : 1.10%\nunique_crashes : 0\nunique_hangs   : 9\nlast_path      : 1500262393\nlast_crash     : 0\nlast_hang      : 1500262541\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Material_Temperature_Simulation/input -o /dev/shm/work/Material_Temperature_Simulation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Material_Temperature_Simulation/Material_Temperature_Simulation.dict -- data/linux/processed-challenges/Material_Temperature_Simulation/bin/Material_Temperature_Simulation\n'
+p171
+I0
+tp172
+a(I10320
+S'start_time     : 1500252522\nlast_update    : 1500262800\nfuzzer_pid     : 21523\ncycles_done    : 1\nexecs_done     : 6738407\nexecs_per_sec  : 76.20\npaths_total    : 400\npaths_favored  : 144\npaths_found    : 399\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 399\npending_favs   : 0\npending_total  : 204\nvariable_paths : 0\nbitmap_cvg     : 1.10%\nunique_crashes : 0\nunique_hangs   : 10\nlast_path      : 1500262393\nlast_crash     : 0\nlast_hang      : 1500262780\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Material_Temperature_Simulation/input -o /dev/shm/work/Material_Temperature_Simulation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Material_Temperature_Simulation/Material_Temperature_Simulation.dict -- data/linux/processed-challenges/Material_Temperature_Simulation/bin/Material_Temperature_Simulation\n'
+p173
+I0
+tp174
+a(I10440
+S'start_time     : 1500252522\nlast_update    : 1500262921\nfuzzer_pid     : 21523\ncycles_done    : 1\nexecs_done     : 6747502\nexecs_per_sec  : 75.05\npaths_total    : 400\npaths_favored  : 144\npaths_found    : 399\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 399\npending_favs   : 0\npending_total  : 204\nvariable_paths : 0\nbitmap_cvg     : 1.10%\nunique_crashes : 0\nunique_hangs   : 12\nlast_path      : 1500262393\nlast_crash     : 0\nlast_hang      : 1500262915\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Material_Temperature_Simulation/input -o /dev/shm/work/Material_Temperature_Simulation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Material_Temperature_Simulation/Material_Temperature_Simulation.dict -- data/linux/processed-challenges/Material_Temperature_Simulation/bin/Material_Temperature_Simulation\n'
+p175
+I0
+tp176
+a(I10560
+S'start_time     : 1500252522\nlast_update    : 1500263041\nfuzzer_pid     : 21523\ncycles_done    : 1\nexecs_done     : 6756670\nexecs_per_sec  : 75.92\npaths_total    : 400\npaths_favored  : 144\npaths_found    : 399\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 399\npending_favs   : 0\npending_total  : 204\nvariable_paths : 0\nbitmap_cvg     : 1.10%\nunique_crashes : 0\nunique_hangs   : 12\nlast_path      : 1500262393\nlast_crash     : 0\nlast_hang      : 1500262915\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Material_Temperature_Simulation/input -o /dev/shm/work/Material_Temperature_Simulation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Material_Temperature_Simulation/Material_Temperature_Simulation.dict -- data/linux/processed-challenges/Material_Temperature_Simulation/bin/Material_Temperature_Simulation\n'
+p177
+I0
+tp178
+a(I10680
+S'start_time     : 1500252522\nlast_update    : 1500263161\nfuzzer_pid     : 21523\ncycles_done    : 1\nexecs_done     : 6765779\nexecs_per_sec  : 78.03\npaths_total    : 400\npaths_favored  : 144\npaths_found    : 399\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 399\npending_favs   : 0\npending_total  : 204\nvariable_paths : 0\nbitmap_cvg     : 1.10%\nunique_crashes : 0\nunique_hangs   : 13\nlast_path      : 1500262393\nlast_crash     : 0\nlast_hang      : 1500263130\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Material_Temperature_Simulation/input -o /dev/shm/work/Material_Temperature_Simulation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Material_Temperature_Simulation/Material_Temperature_Simulation.dict -- data/linux/processed-challenges/Material_Temperature_Simulation/bin/Material_Temperature_Simulation\n'
+p179
+I0
+tp180
+a.

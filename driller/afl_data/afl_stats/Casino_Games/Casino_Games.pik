@@ -1,0 +1,452 @@
+(lp0
+(I0
+S'start_time     : 1499982014\nlast_update    : 1499982014\nfuzzer_pid     : 26371\ncycles_done    : 0\nexecs_done     : 10\nexecs_per_sec  : 185.19\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 1\npending_total  : 1\nvariable_paths : 0\nbitmap_cvg     : 0.18%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Casino_Games/input -o /dev/shm/work/Casino_Games/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Casino_Games/Casino_Games.dict -- data/linux/processed-challenges/Casino_Games/bin/Casino_Games\n'
+p1
+I18
+tp2
+a(I120
+S'start_time     : 1499982014\nlast_update    : 1499982134\nfuzzer_pid     : 26371\ncycles_done    : 0\nexecs_done     : 148835\nexecs_per_sec  : 1256.21\npaths_total    : 27\npaths_favored  : 4\npaths_found    : 26\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 5\npending_favs   : 2\npending_total  : 24\nvariable_paths : 0\nbitmap_cvg     : 0.22%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499982092\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Casino_Games/input -o /dev/shm/work/Casino_Games/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Casino_Games/Casino_Games.dict -- data/linux/processed-challenges/Casino_Games/bin/Casino_Games\n'
+p3
+I9
+tp4
+a(I240
+S'start_time     : 1499982014\nlast_update    : 1499982254\nfuzzer_pid     : 26371\ncycles_done    : 0\nexecs_done     : 277944\nexecs_per_sec  : 970.58\npaths_total    : 56\npaths_favored  : 4\npaths_found    : 55\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 21\npending_favs   : 2\npending_total  : 52\nvariable_paths : 0\nbitmap_cvg     : 0.79%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499982254\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Casino_Games/input -o /dev/shm/work/Casino_Games/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Casino_Games/Casino_Games.dict -- data/linux/processed-challenges/Casino_Games/bin/Casino_Games\n'
+p5
+I33
+tp6
+a(I360
+S'start_time     : 1499982014\nlast_update    : 1499982374\nfuzzer_pid     : 26371\ncycles_done    : 0\nexecs_done     : 403316\nexecs_per_sec  : 1016.22\npaths_total    : 84\npaths_favored  : 4\npaths_found    : 83\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 21\npending_favs   : 2\npending_total  : 80\nvariable_paths : 0\nbitmap_cvg     : 0.98%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499982374\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Casino_Games/input -o /dev/shm/work/Casino_Games/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Casino_Games/Casino_Games.dict -- data/linux/processed-challenges/Casino_Games/bin/Casino_Games\n'
+p7
+I26
+tp8
+a(I480
+S'start_time     : 1499982014\nlast_update    : 1499982494\nfuzzer_pid     : 26371\ncycles_done    : 0\nexecs_done     : 518437\nexecs_per_sec  : 1027.44\npaths_total    : 94\npaths_favored  : 29\npaths_found    : 93\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 24\npending_favs   : 29\npending_total  : 89\nvariable_paths : 0\nbitmap_cvg     : 1.01%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499982480\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Casino_Games/input -o /dev/shm/work/Casino_Games/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Casino_Games/Casino_Games.dict -- data/linux/processed-challenges/Casino_Games/bin/Casino_Games\n'
+p9
+I8
+tp10
+a(I600
+S'start_time     : 1499982014\nlast_update    : 1499982615\nfuzzer_pid     : 26371\ncycles_done    : 0\nexecs_done     : 642877\nexecs_per_sec  : 1024.07\npaths_total    : 102\npaths_favored  : 29\npaths_found    : 101\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 24\npending_favs   : 29\npending_total  : 97\nvariable_paths : 0\nbitmap_cvg     : 1.17%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499982602\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Casino_Games/input -o /dev/shm/work/Casino_Games/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Casino_Games/Casino_Games.dict -- data/linux/processed-challenges/Casino_Games/bin/Casino_Games\n'
+p11
+I8
+tp12
+a(I720
+S'start_time     : 1499982014\nlast_update    : 1499982735\nfuzzer_pid     : 26371\ncycles_done    : 0\nexecs_done     : 767346\nexecs_per_sec  : 1077.15\npaths_total    : 110\npaths_favored  : 35\npaths_found    : 109\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 33\npending_favs   : 34\npending_total  : 104\nvariable_paths : 0\nbitmap_cvg     : 1.26%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499982718\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Casino_Games/input -o /dev/shm/work/Casino_Games/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Casino_Games/Casino_Games.dict -- data/linux/processed-challenges/Casino_Games/bin/Casino_Games\n'
+p13
+I12
+tp14
+a(I840
+S'start_time     : 1499982014\nlast_update    : 1499982855\nfuzzer_pid     : 26371\ncycles_done    : 0\nexecs_done     : 897158\nexecs_per_sec  : 1133.84\npaths_total    : 123\npaths_favored  : 45\npaths_found    : 122\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 34\npending_favs   : 44\npending_total  : 116\nvariable_paths : 0\nbitmap_cvg     : 1.31%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499982846\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Casino_Games/input -o /dev/shm/work/Casino_Games/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Casino_Games/Casino_Games.dict -- data/linux/processed-challenges/Casino_Games/bin/Casino_Games\n'
+p15
+I9
+tp16
+a(I960
+S'start_time     : 1499982014\nlast_update    : 1499982975\nfuzzer_pid     : 26371\ncycles_done    : 0\nexecs_done     : 1024120\nexecs_per_sec  : 1062.72\npaths_total    : 129\npaths_favored  : 45\npaths_found    : 128\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 34\npending_favs   : 44\npending_total  : 122\nvariable_paths : 0\nbitmap_cvg     : 1.34%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499982960\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Casino_Games/input -o /dev/shm/work/Casino_Games/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Casino_Games/Casino_Games.dict -- data/linux/processed-challenges/Casino_Games/bin/Casino_Games\n'
+p17
+I6
+tp18
+a(I1080
+S'start_time     : 1499982014\nlast_update    : 1499983096\nfuzzer_pid     : 26371\ncycles_done    : 0\nexecs_done     : 1128169\nexecs_per_sec  : 700.36\npaths_total    : 141\npaths_favored  : 48\npaths_found    : 140\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 42\npending_favs   : 46\npending_total  : 133\nvariable_paths : 0\nbitmap_cvg     : 1.36%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499983051\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Casino_Games/input -o /dev/shm/work/Casino_Games/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Casino_Games/Casino_Games.dict -- data/linux/processed-challenges/Casino_Games/bin/Casino_Games\n'
+p19
+I13
+tp20
+a(I1200
+S'start_time     : 1499982014\nlast_update    : 1499983216\nfuzzer_pid     : 26371\ncycles_done    : 0\nexecs_done     : 1223694\nexecs_per_sec  : 864.80\npaths_total    : 171\npaths_favored  : 48\npaths_found    : 170\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 42\npending_favs   : 46\npending_total  : 163\nvariable_paths : 0\nbitmap_cvg     : 1.45%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499983213\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Casino_Games/input -o /dev/shm/work/Casino_Games/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Casino_Games/Casino_Games.dict -- data/linux/processed-challenges/Casino_Games/bin/Casino_Games\n'
+p21
+I31
+tp22
+a(I1320
+S'start_time     : 1499982014\nlast_update    : 1499983336\nfuzzer_pid     : 26371\ncycles_done    : 0\nexecs_done     : 1329013\nexecs_per_sec  : 797.19\npaths_total    : 188\npaths_favored  : 71\npaths_found    : 187\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 43\npending_favs   : 69\npending_total  : 179\nvariable_paths : 0\nbitmap_cvg     : 1.48%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499983333\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Casino_Games/input -o /dev/shm/work/Casino_Games/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Casino_Games/Casino_Games.dict -- data/linux/processed-challenges/Casino_Games/bin/Casino_Games\n'
+p23
+I15
+tp24
+a(I1440
+S'start_time     : 1499982014\nlast_update    : 1499983456\nfuzzer_pid     : 26371\ncycles_done    : 0\nexecs_done     : 1413623\nexecs_per_sec  : 867.42\npaths_total    : 192\npaths_favored  : 71\npaths_found    : 191\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 43\npending_favs   : 69\npending_total  : 183\nvariable_paths : 0\nbitmap_cvg     : 1.48%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499983451\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Casino_Games/input -o /dev/shm/work/Casino_Games/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Casino_Games/Casino_Games.dict -- data/linux/processed-challenges/Casino_Games/bin/Casino_Games\n'
+p25
+I5
+tp26
+a(I1560
+S'start_time     : 1499982014\nlast_update    : 1499983577\nfuzzer_pid     : 26371\ncycles_done    : 0\nexecs_done     : 1519102\nexecs_per_sec  : 875.89\npaths_total    : 205\npaths_favored  : 71\npaths_found    : 204\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 43\npending_favs   : 69\npending_total  : 196\nvariable_paths : 0\nbitmap_cvg     : 1.48%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499983568\nlast_crash     : 0\nlast_hang      : 1499983499\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Casino_Games/input -o /dev/shm/work/Casino_Games/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Casino_Games/Casino_Games.dict -- data/linux/processed-challenges/Casino_Games/bin/Casino_Games\n'
+p27
+I12
+tp28
+a(I1680
+S'start_time     : 1499982014\nlast_update    : 1499983697\nfuzzer_pid     : 26371\ncycles_done    : 0\nexecs_done     : 1605690\nexecs_per_sec  : 622.81\npaths_total    : 212\npaths_favored  : 76\npaths_found    : 211\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 59\npending_favs   : 74\npending_total  : 202\nvariable_paths : 0\nbitmap_cvg     : 1.51%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499983693\nlast_crash     : 0\nlast_hang      : 1499983499\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Casino_Games/input -o /dev/shm/work/Casino_Games/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Casino_Games/Casino_Games.dict -- data/linux/processed-challenges/Casino_Games/bin/Casino_Games\n'
+p29
+I7
+tp30
+a(I1800
+S'start_time     : 1499982014\nlast_update    : 1499983817\nfuzzer_pid     : 26371\ncycles_done    : 0\nexecs_done     : 1684342\nexecs_per_sec  : 766.51\npaths_total    : 240\npaths_favored  : 76\npaths_found    : 239\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 59\npending_favs   : 74\npending_total  : 230\nvariable_paths : 0\nbitmap_cvg     : 1.54%\nunique_crashes : 0\nunique_hangs   : 8\nlast_path      : 1499983809\nlast_crash     : 0\nlast_hang      : 1499983807\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Casino_Games/input -o /dev/shm/work/Casino_Games/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Casino_Games/Casino_Games.dict -- data/linux/processed-challenges/Casino_Games/bin/Casino_Games\n'
+p31
+I28
+tp32
+a(I1920
+S'start_time     : 1499982014\nlast_update    : 1499983938\nfuzzer_pid     : 26371\ncycles_done    : 0\nexecs_done     : 1776377\nexecs_per_sec  : 776.52\npaths_total    : 259\npaths_favored  : 76\npaths_found    : 258\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 59\npending_favs   : 74\npending_total  : 249\nvariable_paths : 0\nbitmap_cvg     : 1.57%\nunique_crashes : 0\nunique_hangs   : 11\nlast_path      : 1499983926\nlast_crash     : 0\nlast_hang      : 1499983914\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Casino_Games/input -o /dev/shm/work/Casino_Games/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Casino_Games/Casino_Games.dict -- data/linux/processed-challenges/Casino_Games/bin/Casino_Games\n'
+p33
+I19
+tp34
+a(I2040
+S'start_time     : 1499982014\nlast_update    : 1499984058\nfuzzer_pid     : 26371\ncycles_done    : 0\nexecs_done     : 1867418\nexecs_per_sec  : 658.00\npaths_total    : 262\npaths_favored  : 95\npaths_found    : 261\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 61\npending_favs   : 92\npending_total  : 251\nvariable_paths : 0\nbitmap_cvg     : 1.57%\nunique_crashes : 0\nunique_hangs   : 12\nlast_path      : 1499983970\nlast_crash     : 0\nlast_hang      : 1499984047\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Casino_Games/input -o /dev/shm/work/Casino_Games/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Casino_Games/Casino_Games.dict -- data/linux/processed-challenges/Casino_Games/bin/Casino_Games\n'
+p35
+I3
+tp36
+a(I2160
+S'start_time     : 1499982014\nlast_update    : 1499984178\nfuzzer_pid     : 26371\ncycles_done    : 0\nexecs_done     : 1953356\nexecs_per_sec  : 661.98\npaths_total    : 262\npaths_favored  : 95\npaths_found    : 261\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 63\npending_favs   : 91\npending_total  : 250\nvariable_paths : 0\nbitmap_cvg     : 1.57%\nunique_crashes : 0\nunique_hangs   : 14\nlast_path      : 1499983970\nlast_crash     : 0\nlast_hang      : 1499984080\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Casino_Games/input -o /dev/shm/work/Casino_Games/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Casino_Games/Casino_Games.dict -- data/linux/processed-challenges/Casino_Games/bin/Casino_Games\n'
+p37
+I0
+tp38
+a(I2280
+S'start_time     : 1499982014\nlast_update    : 1499984298\nfuzzer_pid     : 26371\ncycles_done    : 0\nexecs_done     : 2022823\nexecs_per_sec  : 552.45\npaths_total    : 263\npaths_favored  : 95\npaths_found    : 262\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 69\npending_favs   : 90\npending_total  : 250\nvariable_paths : 0\nbitmap_cvg     : 1.58%\nunique_crashes : 0\nunique_hangs   : 14\nlast_path      : 1499984218\nlast_crash     : 0\nlast_hang      : 1499984080\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Casino_Games/input -o /dev/shm/work/Casino_Games/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Casino_Games/Casino_Games.dict -- data/linux/processed-challenges/Casino_Games/bin/Casino_Games\n'
+p39
+I1
+tp40
+a(I2400
+S'start_time     : 1499982014\nlast_update    : 1499984418\nfuzzer_pid     : 26371\ncycles_done    : 0\nexecs_done     : 2095135\nexecs_per_sec  : 745.97\npaths_total    : 268\npaths_favored  : 95\npaths_found    : 267\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 69\npending_favs   : 90\npending_total  : 255\nvariable_paths : 0\nbitmap_cvg     : 1.58%\nunique_crashes : 0\nunique_hangs   : 14\nlast_path      : 1499984413\nlast_crash     : 0\nlast_hang      : 1499984080\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Casino_Games/input -o /dev/shm/work/Casino_Games/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Casino_Games/Casino_Games.dict -- data/linux/processed-challenges/Casino_Games/bin/Casino_Games\n'
+p41
+I6
+tp42
+a(I2520
+S'start_time     : 1499982014\nlast_update    : 1499984538\nfuzzer_pid     : 26371\ncycles_done    : 0\nexecs_done     : 2183321\nexecs_per_sec  : 713.25\npaths_total    : 275\npaths_favored  : 95\npaths_found    : 274\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 69\npending_favs   : 90\npending_total  : 262\nvariable_paths : 0\nbitmap_cvg     : 1.59%\nunique_crashes : 0\nunique_hangs   : 16\nlast_path      : 1499984494\nlast_crash     : 0\nlast_hang      : 1499984514\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Casino_Games/input -o /dev/shm/work/Casino_Games/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Casino_Games/Casino_Games.dict -- data/linux/processed-challenges/Casino_Games/bin/Casino_Games\n'
+p43
+I8
+tp44
+a(I2640
+S'start_time     : 1499982014\nlast_update    : 1499984659\nfuzzer_pid     : 26371\ncycles_done    : 0\nexecs_done     : 2280010\nexecs_per_sec  : 829.57\npaths_total    : 280\npaths_favored  : 95\npaths_found    : 279\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 71\npending_favs   : 91\npending_total  : 266\nvariable_paths : 0\nbitmap_cvg     : 1.60%\nunique_crashes : 0\nunique_hangs   : 16\nlast_path      : 1499984585\nlast_crash     : 0\nlast_hang      : 1499984514\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Casino_Games/input -o /dev/shm/work/Casino_Games/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Casino_Games/Casino_Games.dict -- data/linux/processed-challenges/Casino_Games/bin/Casino_Games\n'
+p45
+I3
+tp46
+a(I2760
+S'start_time     : 1499982014\nlast_update    : 1499984779\nfuzzer_pid     : 26371\ncycles_done    : 0\nexecs_done     : 2388422\nexecs_per_sec  : 632.46\npaths_total    : 283\npaths_favored  : 95\npaths_found    : 282\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 82\npending_favs   : 90\npending_total  : 267\nvariable_paths : 0\nbitmap_cvg     : 1.60%\nunique_crashes : 0\nunique_hangs   : 16\nlast_path      : 1499984769\nlast_crash     : 0\nlast_hang      : 1499984514\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Casino_Games/input -o /dev/shm/work/Casino_Games/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Casino_Games/Casino_Games.dict -- data/linux/processed-challenges/Casino_Games/bin/Casino_Games\n'
+p47
+I5
+tp48
+a(I2880
+S'start_time     : 1499982014\nlast_update    : 1499984899\nfuzzer_pid     : 26371\ncycles_done    : 0\nexecs_done     : 2472775\nexecs_per_sec  : 744.06\npaths_total    : 289\npaths_favored  : 100\npaths_found    : 288\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 91\npending_favs   : 94\npending_total  : 272\nvariable_paths : 0\nbitmap_cvg     : 1.62%\nunique_crashes : 0\nunique_hangs   : 16\nlast_path      : 1499984825\nlast_crash     : 0\nlast_hang      : 1499984514\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Casino_Games/input -o /dev/shm/work/Casino_Games/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Casino_Games/Casino_Games.dict -- data/linux/processed-challenges/Casino_Games/bin/Casino_Games\n'
+p49
+I4
+tp50
+a(I3000
+S'start_time     : 1499982014\nlast_update    : 1499985020\nfuzzer_pid     : 26371\ncycles_done    : 0\nexecs_done     : 2555974\nexecs_per_sec  : 693.05\npaths_total    : 293\npaths_favored  : 98\npaths_found    : 292\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 92\npending_favs   : 92\npending_total  : 275\nvariable_paths : 0\nbitmap_cvg     : 1.63%\nunique_crashes : 0\nunique_hangs   : 16\nlast_path      : 1499984951\nlast_crash     : 0\nlast_hang      : 1499984514\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Casino_Games/input -o /dev/shm/work/Casino_Games/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Casino_Games/Casino_Games.dict -- data/linux/processed-challenges/Casino_Games/bin/Casino_Games\n'
+p51
+I4
+tp52
+a(I3120
+S'start_time     : 1499982014\nlast_update    : 1499985140\nfuzzer_pid     : 26371\ncycles_done    : 0\nexecs_done     : 2646603\nexecs_per_sec  : 681.90\npaths_total    : 295\npaths_favored  : 98\npaths_found    : 294\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 94\npending_favs   : 91\npending_total  : 276\nvariable_paths : 0\nbitmap_cvg     : 1.63%\nunique_crashes : 0\nunique_hangs   : 16\nlast_path      : 1499985112\nlast_crash     : 0\nlast_hang      : 1499984514\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Casino_Games/input -o /dev/shm/work/Casino_Games/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Casino_Games/Casino_Games.dict -- data/linux/processed-challenges/Casino_Games/bin/Casino_Games\n'
+p53
+I2
+tp54
+a(I3240
+S'start_time     : 1499982014\nlast_update    : 1499985260\nfuzzer_pid     : 26371\ncycles_done    : 0\nexecs_done     : 2739370\nexecs_per_sec  : 609.11\npaths_total    : 312\npaths_favored  : 99\npaths_found    : 311\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 99\npending_favs   : 91\npending_total  : 292\nvariable_paths : 0\nbitmap_cvg     : 1.64%\nunique_crashes : 0\nunique_hangs   : 16\nlast_path      : 1499985257\nlast_crash     : 0\nlast_hang      : 1499984514\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Casino_Games/input -o /dev/shm/work/Casino_Games/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Casino_Games/Casino_Games.dict -- data/linux/processed-challenges/Casino_Games/bin/Casino_Games\n'
+p55
+I17
+tp56
+a(I3360
+S'start_time     : 1499982014\nlast_update    : 1499985380\nfuzzer_pid     : 26371\ncycles_done    : 0\nexecs_done     : 2815503\nexecs_per_sec  : 606.08\npaths_total    : 324\npaths_favored  : 100\npaths_found    : 323\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 101\npending_favs   : 92\npending_total  : 303\nvariable_paths : 0\nbitmap_cvg     : 1.66%\nunique_crashes : 0\nunique_hangs   : 16\nlast_path      : 1499985364\nlast_crash     : 0\nlast_hang      : 1499984514\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Casino_Games/input -o /dev/shm/work/Casino_Games/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Casino_Games/Casino_Games.dict -- data/linux/processed-challenges/Casino_Games/bin/Casino_Games\n'
+p57
+I12
+tp58
+a(I3480
+S'start_time     : 1499982014\nlast_update    : 1499985500\nfuzzer_pid     : 26371\ncycles_done    : 0\nexecs_done     : 2896695\nexecs_per_sec  : 790.73\npaths_total    : 336\npaths_favored  : 100\npaths_found    : 335\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 101\npending_favs   : 92\npending_total  : 315\nvariable_paths : 0\nbitmap_cvg     : 1.67%\nunique_crashes : 0\nunique_hangs   : 16\nlast_path      : 1499985490\nlast_crash     : 0\nlast_hang      : 1499984514\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Casino_Games/input -o /dev/shm/work/Casino_Games/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Casino_Games/Casino_Games.dict -- data/linux/processed-challenges/Casino_Games/bin/Casino_Games\n'
+p59
+I13
+tp60
+a(I3600
+S'start_time     : 1499982014\nlast_update    : 1499985621\nfuzzer_pid     : 26371\ncycles_done    : 0\nexecs_done     : 2991650\nexecs_per_sec  : 778.60\npaths_total    : 341\npaths_favored  : 100\npaths_found    : 340\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 101\npending_favs   : 92\npending_total  : 320\nvariable_paths : 0\nbitmap_cvg     : 1.67%\nunique_crashes : 0\nunique_hangs   : 16\nlast_path      : 1499985604\nlast_crash     : 0\nlast_hang      : 1499984514\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Casino_Games/input -o /dev/shm/work/Casino_Games/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Casino_Games/Casino_Games.dict -- data/linux/processed-challenges/Casino_Games/bin/Casino_Games\n'
+p61
+I4
+tp62
+a(I3720
+S'start_time     : 1499982014\nlast_update    : 1499985741\nfuzzer_pid     : 26371\ncycles_done    : 0\nexecs_done     : 3078579\nexecs_per_sec  : 801.97\npaths_total    : 343\npaths_favored  : 110\npaths_found    : 342\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 102\npending_favs   : 102\npending_total  : 321\nvariable_paths : 0\nbitmap_cvg     : 1.68%\nunique_crashes : 0\nunique_hangs   : 16\nlast_path      : 1499985699\nlast_crash     : 0\nlast_hang      : 1499984514\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Casino_Games/input -o /dev/shm/work/Casino_Games/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Casino_Games/Casino_Games.dict -- data/linux/processed-challenges/Casino_Games/bin/Casino_Games\n'
+p63
+I2
+tp64
+a(I3840
+S'start_time     : 1499982014\nlast_update    : 1499985861\nfuzzer_pid     : 26371\ncycles_done    : 0\nexecs_done     : 3166626\nexecs_per_sec  : 812.22\npaths_total    : 347\npaths_favored  : 112\npaths_found    : 346\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 103\npending_favs   : 103\npending_total  : 324\nvariable_paths : 0\nbitmap_cvg     : 1.69%\nunique_crashes : 0\nunique_hangs   : 16\nlast_path      : 1499985812\nlast_crash     : 0\nlast_hang      : 1499984514\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Casino_Games/input -o /dev/shm/work/Casino_Games/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Casino_Games/Casino_Games.dict -- data/linux/processed-challenges/Casino_Games/bin/Casino_Games\n'
+p65
+I4
+tp66
+a(I3960
+S'start_time     : 1499982014\nlast_update    : 1499985981\nfuzzer_pid     : 26371\ncycles_done    : 0\nexecs_done     : 3262164\nexecs_per_sec  : 936.85\npaths_total    : 347\npaths_favored  : 115\npaths_found    : 346\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 105\npending_favs   : 106\npending_total  : 323\nvariable_paths : 0\nbitmap_cvg     : 1.69%\nunique_crashes : 0\nunique_hangs   : 16\nlast_path      : 1499985812\nlast_crash     : 0\nlast_hang      : 1499984514\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Casino_Games/input -o /dev/shm/work/Casino_Games/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Casino_Games/Casino_Games.dict -- data/linux/processed-challenges/Casino_Games/bin/Casino_Games\n'
+p67
+I0
+tp68
+a(I4080
+S'start_time     : 1499982014\nlast_update    : 1499986102\nfuzzer_pid     : 26371\ncycles_done    : 0\nexecs_done     : 3374750\nexecs_per_sec  : 998.99\npaths_total    : 347\npaths_favored  : 115\npaths_found    : 346\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 106\npending_favs   : 105\npending_total  : 322\nvariable_paths : 0\nbitmap_cvg     : 1.69%\nunique_crashes : 0\nunique_hangs   : 16\nlast_path      : 1499985812\nlast_crash     : 0\nlast_hang      : 1499984514\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Casino_Games/input -o /dev/shm/work/Casino_Games/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Casino_Games/Casino_Games.dict -- data/linux/processed-challenges/Casino_Games/bin/Casino_Games\n'
+p69
+I0
+tp70
+a(I4200
+S'start_time     : 1499982014\nlast_update    : 1499986222\nfuzzer_pid     : 26371\ncycles_done    : 0\nexecs_done     : 3450205\nexecs_per_sec  : 586.60\npaths_total    : 348\npaths_favored  : 115\npaths_found    : 347\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 110\npending_favs   : 104\npending_total  : 322\nvariable_paths : 0\nbitmap_cvg     : 1.69%\nunique_crashes : 0\nunique_hangs   : 16\nlast_path      : 1499986176\nlast_crash     : 0\nlast_hang      : 1499984514\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Casino_Games/input -o /dev/shm/work/Casino_Games/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Casino_Games/Casino_Games.dict -- data/linux/processed-challenges/Casino_Games/bin/Casino_Games\n'
+p71
+I1
+tp72
+a(I4320
+S'start_time     : 1499982014\nlast_update    : 1499986342\nfuzzer_pid     : 26371\ncycles_done    : 0\nexecs_done     : 3545212\nexecs_per_sec  : 771.50\npaths_total    : 351\npaths_favored  : 116\npaths_found    : 350\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 113\npending_favs   : 104\npending_total  : 324\nvariable_paths : 0\nbitmap_cvg     : 1.69%\nunique_crashes : 0\nunique_hangs   : 16\nlast_path      : 1499986258\nlast_crash     : 0\nlast_hang      : 1499984514\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Casino_Games/input -o /dev/shm/work/Casino_Games/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Casino_Games/Casino_Games.dict -- data/linux/processed-challenges/Casino_Games/bin/Casino_Games\n'
+p73
+I3
+tp74
+a(I4440
+S'start_time     : 1499982014\nlast_update    : 1499986462\nfuzzer_pid     : 26371\ncycles_done    : 0\nexecs_done     : 3633109\nexecs_per_sec  : 363.59\npaths_total    : 353\npaths_favored  : 116\npaths_found    : 352\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 115\npending_favs   : 103\npending_total  : 325\nvariable_paths : 0\nbitmap_cvg     : 1.69%\nunique_crashes : 0\nunique_hangs   : 16\nlast_path      : 1499986460\nlast_crash     : 0\nlast_hang      : 1499984514\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Casino_Games/input -o /dev/shm/work/Casino_Games/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Casino_Games/Casino_Games.dict -- data/linux/processed-challenges/Casino_Games/bin/Casino_Games\n'
+p75
+I2
+tp76
+a(I4560
+S'start_time     : 1499982014\nlast_update    : 1499986582\nfuzzer_pid     : 26371\ncycles_done    : 0\nexecs_done     : 3672002\nexecs_per_sec  : 257.33\npaths_total    : 359\npaths_favored  : 116\npaths_found    : 358\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 115\npending_favs   : 103\npending_total  : 331\nvariable_paths : 0\nbitmap_cvg     : 1.70%\nunique_crashes : 0\nunique_hangs   : 16\nlast_path      : 1499986535\nlast_crash     : 0\nlast_hang      : 1499984514\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Casino_Games/input -o /dev/shm/work/Casino_Games/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Casino_Games/Casino_Games.dict -- data/linux/processed-challenges/Casino_Games/bin/Casino_Games\n'
+p77
+I6
+tp78
+a(I4680
+S'start_time     : 1499982014\nlast_update    : 1499986703\nfuzzer_pid     : 26371\ncycles_done    : 0\nexecs_done     : 3712042\nexecs_per_sec  : 467.85\npaths_total    : 364\npaths_favored  : 116\npaths_found    : 363\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 115\npending_favs   : 103\npending_total  : 336\nvariable_paths : 0\nbitmap_cvg     : 1.70%\nunique_crashes : 0\nunique_hangs   : 16\nlast_path      : 1499986702\nlast_crash     : 0\nlast_hang      : 1499984514\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Casino_Games/input -o /dev/shm/work/Casino_Games/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Casino_Games/Casino_Games.dict -- data/linux/processed-challenges/Casino_Games/bin/Casino_Games\n'
+p79
+I5
+tp80
+a(I4800
+S'start_time     : 1499982014\nlast_update    : 1499986823\nfuzzer_pid     : 26371\ncycles_done    : 0\nexecs_done     : 3767460\nexecs_per_sec  : 461.03\npaths_total    : 369\npaths_favored  : 116\npaths_found    : 368\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 115\npending_favs   : 103\npending_total  : 341\nvariable_paths : 0\nbitmap_cvg     : 1.71%\nunique_crashes : 0\nunique_hangs   : 16\nlast_path      : 1499986804\nlast_crash     : 0\nlast_hang      : 1499984514\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Casino_Games/input -o /dev/shm/work/Casino_Games/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Casino_Games/Casino_Games.dict -- data/linux/processed-challenges/Casino_Games/bin/Casino_Games\n'
+p81
+I5
+tp82
+a(I4920
+S'start_time     : 1499982014\nlast_update    : 1499986943\nfuzzer_pid     : 26371\ncycles_done    : 0\nexecs_done     : 3824592\nexecs_per_sec  : 683.58\npaths_total    : 372\npaths_favored  : 116\npaths_found    : 371\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 123\npending_favs   : 103\npending_total  : 343\nvariable_paths : 0\nbitmap_cvg     : 1.71%\nunique_crashes : 0\nunique_hangs   : 16\nlast_path      : 1499986887\nlast_crash     : 0\nlast_hang      : 1499984514\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Casino_Games/input -o /dev/shm/work/Casino_Games/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Casino_Games/Casino_Games.dict -- data/linux/processed-challenges/Casino_Games/bin/Casino_Games\n'
+p83
+I3
+tp84
+a(I5040
+S'start_time     : 1499982014\nlast_update    : 1499987063\nfuzzer_pid     : 26371\ncycles_done    : 0\nexecs_done     : 3921391\nexecs_per_sec  : 734.58\npaths_total    : 372\npaths_favored  : 116\npaths_found    : 371\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 131\npending_favs   : 102\npending_total  : 342\nvariable_paths : 0\nbitmap_cvg     : 1.71%\nunique_crashes : 0\nunique_hangs   : 16\nlast_path      : 1499986887\nlast_crash     : 0\nlast_hang      : 1499984514\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Casino_Games/input -o /dev/shm/work/Casino_Games/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Casino_Games/Casino_Games.dict -- data/linux/processed-challenges/Casino_Games/bin/Casino_Games\n'
+p85
+I0
+tp86
+a(I5160
+S'start_time     : 1499982014\nlast_update    : 1499987183\nfuzzer_pid     : 26371\ncycles_done    : 0\nexecs_done     : 4015280\nexecs_per_sec  : 647.03\npaths_total    : 373\npaths_favored  : 116\npaths_found    : 372\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 133\npending_favs   : 101\npending_total  : 342\nvariable_paths : 0\nbitmap_cvg     : 1.71%\nunique_crashes : 0\nunique_hangs   : 16\nlast_path      : 1499987147\nlast_crash     : 0\nlast_hang      : 1499984514\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Casino_Games/input -o /dev/shm/work/Casino_Games/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Casino_Games/Casino_Games.dict -- data/linux/processed-challenges/Casino_Games/bin/Casino_Games\n'
+p87
+I1
+tp88
+a(I5280
+S'start_time     : 1499982014\nlast_update    : 1499987303\nfuzzer_pid     : 26371\ncycles_done    : 0\nexecs_done     : 4100195\nexecs_per_sec  : 655.65\npaths_total    : 373\npaths_favored  : 116\npaths_found    : 372\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 134\npending_favs   : 100\npending_total  : 341\nvariable_paths : 0\nbitmap_cvg     : 1.71%\nunique_crashes : 0\nunique_hangs   : 16\nlast_path      : 1499987147\nlast_crash     : 0\nlast_hang      : 1499984514\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Casino_Games/input -o /dev/shm/work/Casino_Games/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Casino_Games/Casino_Games.dict -- data/linux/processed-challenges/Casino_Games/bin/Casino_Games\n'
+p89
+I0
+tp90
+a(I5400
+S'start_time     : 1499982014\nlast_update    : 1499987424\nfuzzer_pid     : 26371\ncycles_done    : 0\nexecs_done     : 4185754\nexecs_per_sec  : 689.32\npaths_total    : 373\npaths_favored  : 116\npaths_found    : 372\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 135\npending_favs   : 99\npending_total  : 340\nvariable_paths : 0\nbitmap_cvg     : 1.71%\nunique_crashes : 0\nunique_hangs   : 16\nlast_path      : 1499987147\nlast_crash     : 0\nlast_hang      : 1499984514\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Casino_Games/input -o /dev/shm/work/Casino_Games/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Casino_Games/Casino_Games.dict -- data/linux/processed-challenges/Casino_Games/bin/Casino_Games\n'
+p91
+I0
+tp92
+a(I5520
+S'start_time     : 1499982014\nlast_update    : 1499987484\nfuzzer_pid     : 26371\ncycles_done    : 0\nexecs_done     : 4229210\nexecs_per_sec  : 773.59\npaths_total    : 373\npaths_favored  : 116\npaths_found    : 372\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 135\npending_favs   : 99\npending_total  : 340\nvariable_paths : 0\nbitmap_cvg     : 1.71%\nunique_crashes : 0\nunique_hangs   : 16\nlast_path      : 1499987147\nlast_crash     : 0\nlast_hang      : 1499984514\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Casino_Games/input -o /dev/shm/work/Casino_Games/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Casino_Games/Casino_Games.dict -- data/linux/processed-challenges/Casino_Games/bin/Casino_Games\n'
+p93
+I0
+tp94
+a(I5640
+S'start_time     : 1499982014\nlast_update    : 1499987604\nfuzzer_pid     : 26371\ncycles_done    : 0\nexecs_done     : 4314868\nexecs_per_sec  : 749.36\npaths_total    : 373\npaths_favored  : 116\npaths_found    : 372\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 136\npending_favs   : 98\npending_total  : 339\nvariable_paths : 0\nbitmap_cvg     : 1.71%\nunique_crashes : 0\nunique_hangs   : 17\nlast_path      : 1499987147\nlast_crash     : 0\nlast_hang      : 1499987525\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Casino_Games/input -o /dev/shm/work/Casino_Games/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Casino_Games/Casino_Games.dict -- data/linux/processed-challenges/Casino_Games/bin/Casino_Games\n'
+p95
+I0
+tp96
+a(I5760
+S'start_time     : 1499982014\nlast_update    : 1499987724\nfuzzer_pid     : 26371\ncycles_done    : 0\nexecs_done     : 4399341\nexecs_per_sec  : 748.38\npaths_total    : 373\npaths_favored  : 116\npaths_found    : 372\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 138\npending_favs   : 97\npending_total  : 338\nvariable_paths : 0\nbitmap_cvg     : 1.71%\nunique_crashes : 0\nunique_hangs   : 17\nlast_path      : 1499987147\nlast_crash     : 0\nlast_hang      : 1499987525\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Casino_Games/input -o /dev/shm/work/Casino_Games/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Casino_Games/Casino_Games.dict -- data/linux/processed-challenges/Casino_Games/bin/Casino_Games\n'
+p97
+I0
+tp98
+a(I5880
+S'start_time     : 1499982014\nlast_update    : 1499987845\nfuzzer_pid     : 26371\ncycles_done    : 0\nexecs_done     : 4484472\nexecs_per_sec  : 749.22\npaths_total    : 373\npaths_favored  : 116\npaths_found    : 372\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 139\npending_favs   : 96\npending_total  : 337\nvariable_paths : 0\nbitmap_cvg     : 1.71%\nunique_crashes : 0\nunique_hangs   : 17\nlast_path      : 1499987147\nlast_crash     : 0\nlast_hang      : 1499987525\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Casino_Games/input -o /dev/shm/work/Casino_Games/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Casino_Games/Casino_Games.dict -- data/linux/processed-challenges/Casino_Games/bin/Casino_Games\n'
+p99
+I0
+tp100
+a(I6000
+S'start_time     : 1499982014\nlast_update    : 1499987965\nfuzzer_pid     : 26371\ncycles_done    : 0\nexecs_done     : 4569963\nexecs_per_sec  : 732.59\npaths_total    : 373\npaths_favored  : 116\npaths_found    : 372\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 140\npending_favs   : 95\npending_total  : 336\nvariable_paths : 0\nbitmap_cvg     : 1.71%\nunique_crashes : 0\nunique_hangs   : 17\nlast_path      : 1499987147\nlast_crash     : 0\nlast_hang      : 1499987525\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Casino_Games/input -o /dev/shm/work/Casino_Games/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Casino_Games/Casino_Games.dict -- data/linux/processed-challenges/Casino_Games/bin/Casino_Games\n'
+p101
+I1
+tp102
+a(I6120
+S'start_time     : 1499982014\nlast_update    : 1499988085\nfuzzer_pid     : 26371\ncycles_done    : 0\nexecs_done     : 4654960\nexecs_per_sec  : 711.32\npaths_total    : 374\npaths_favored  : 116\npaths_found    : 373\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 143\npending_favs   : 94\npending_total  : 336\nvariable_paths : 0\nbitmap_cvg     : 1.71%\nunique_crashes : 0\nunique_hangs   : 17\nlast_path      : 1499988022\nlast_crash     : 0\nlast_hang      : 1499987525\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Casino_Games/input -o /dev/shm/work/Casino_Games/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Casino_Games/Casino_Games.dict -- data/linux/processed-challenges/Casino_Games/bin/Casino_Games\n'
+p103
+I1
+tp104
+a(I6240
+S'start_time     : 1499982014\nlast_update    : 1499988205\nfuzzer_pid     : 26371\ncycles_done    : 0\nexecs_done     : 4745225\nexecs_per_sec  : 679.41\npaths_total    : 375\npaths_favored  : 117\npaths_found    : 374\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 146\npending_favs   : 94\npending_total  : 336\nvariable_paths : 0\nbitmap_cvg     : 1.71%\nunique_crashes : 0\nunique_hangs   : 17\nlast_path      : 1499988137\nlast_crash     : 0\nlast_hang      : 1499987525\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Casino_Games/input -o /dev/shm/work/Casino_Games/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Casino_Games/Casino_Games.dict -- data/linux/processed-challenges/Casino_Games/bin/Casino_Games\n'
+p105
+I0
+tp106
+a(I6360
+S'start_time     : 1499982014\nlast_update    : 1499988325\nfuzzer_pid     : 26371\ncycles_done    : 0\nexecs_done     : 4830657\nexecs_per_sec  : 674.93\npaths_total    : 375\npaths_favored  : 117\npaths_found    : 374\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 148\npending_favs   : 93\npending_total  : 335\nvariable_paths : 0\nbitmap_cvg     : 1.71%\nunique_crashes : 0\nunique_hangs   : 17\nlast_path      : 1499988137\nlast_crash     : 0\nlast_hang      : 1499987525\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Casino_Games/input -o /dev/shm/work/Casino_Games/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Casino_Games/Casino_Games.dict -- data/linux/processed-challenges/Casino_Games/bin/Casino_Games\n'
+p107
+I0
+tp108
+a(I6480
+S'start_time     : 1499982014\nlast_update    : 1499988446\nfuzzer_pid     : 26371\ncycles_done    : 0\nexecs_done     : 4916149\nexecs_per_sec  : 664.52\npaths_total    : 375\npaths_favored  : 117\npaths_found    : 374\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 149\npending_favs   : 92\npending_total  : 334\nvariable_paths : 0\nbitmap_cvg     : 1.71%\nunique_crashes : 0\nunique_hangs   : 17\nlast_path      : 1499988137\nlast_crash     : 0\nlast_hang      : 1499987525\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Casino_Games/input -o /dev/shm/work/Casino_Games/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Casino_Games/Casino_Games.dict -- data/linux/processed-challenges/Casino_Games/bin/Casino_Games\n'
+p109
+I0
+tp110
+a(I6600
+S'start_time     : 1499982014\nlast_update    : 1499988566\nfuzzer_pid     : 26371\ncycles_done    : 0\nexecs_done     : 5000959\nexecs_per_sec  : 672.89\npaths_total    : 375\npaths_favored  : 117\npaths_found    : 374\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 150\npending_favs   : 91\npending_total  : 333\nvariable_paths : 0\nbitmap_cvg     : 1.71%\nunique_crashes : 0\nunique_hangs   : 17\nlast_path      : 1499988137\nlast_crash     : 0\nlast_hang      : 1499987525\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Casino_Games/input -o /dev/shm/work/Casino_Games/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Casino_Games/Casino_Games.dict -- data/linux/processed-challenges/Casino_Games/bin/Casino_Games\n'
+p111
+I0
+tp112
+a(I6720
+S'start_time     : 1499982014\nlast_update    : 1499988686\nfuzzer_pid     : 26371\ncycles_done    : 0\nexecs_done     : 5084935\nexecs_per_sec  : 629.65\npaths_total    : 375\npaths_favored  : 117\npaths_found    : 374\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 151\npending_favs   : 90\npending_total  : 332\nvariable_paths : 0\nbitmap_cvg     : 1.71%\nunique_crashes : 0\nunique_hangs   : 17\nlast_path      : 1499988137\nlast_crash     : 0\nlast_hang      : 1499987525\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Casino_Games/input -o /dev/shm/work/Casino_Games/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Casino_Games/Casino_Games.dict -- data/linux/processed-challenges/Casino_Games/bin/Casino_Games\n'
+p113
+I0
+tp114
+a(I6840
+S'start_time     : 1499982014\nlast_update    : 1499988807\nfuzzer_pid     : 26371\ncycles_done    : 0\nexecs_done     : 5172032\nexecs_per_sec  : 662.13\npaths_total    : 375\npaths_favored  : 117\npaths_found    : 374\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 152\npending_favs   : 89\npending_total  : 331\nvariable_paths : 0\nbitmap_cvg     : 1.71%\nunique_crashes : 0\nunique_hangs   : 17\nlast_path      : 1499988137\nlast_crash     : 0\nlast_hang      : 1499987525\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Casino_Games/input -o /dev/shm/work/Casino_Games/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Casino_Games/Casino_Games.dict -- data/linux/processed-challenges/Casino_Games/bin/Casino_Games\n'
+p115
+I0
+tp116
+a(I6960
+S'start_time     : 1499982014\nlast_update    : 1499988927\nfuzzer_pid     : 26371\ncycles_done    : 0\nexecs_done     : 5250649\nexecs_per_sec  : 566.18\npaths_total    : 375\npaths_favored  : 117\npaths_found    : 374\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 154\npending_favs   : 88\npending_total  : 330\nvariable_paths : 0\nbitmap_cvg     : 1.71%\nunique_crashes : 0\nunique_hangs   : 17\nlast_path      : 1499988137\nlast_crash     : 0\nlast_hang      : 1499987525\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Casino_Games/input -o /dev/shm/work/Casino_Games/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Casino_Games/Casino_Games.dict -- data/linux/processed-challenges/Casino_Games/bin/Casino_Games\n'
+p117
+I0
+tp118
+a(I7080
+S'start_time     : 1499982014\nlast_update    : 1499989047\nfuzzer_pid     : 26371\ncycles_done    : 0\nexecs_done     : 5311363\nexecs_per_sec  : 588.29\npaths_total    : 375\npaths_favored  : 117\npaths_found    : 374\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 154\npending_favs   : 88\npending_total  : 330\nvariable_paths : 0\nbitmap_cvg     : 1.71%\nunique_crashes : 0\nunique_hangs   : 17\nlast_path      : 1499988137\nlast_crash     : 0\nlast_hang      : 1499987525\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Casino_Games/input -o /dev/shm/work/Casino_Games/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Casino_Games/Casino_Games.dict -- data/linux/processed-challenges/Casino_Games/bin/Casino_Games\n'
+p119
+I2
+tp120
+a(I7200
+S'start_time     : 1499982014\nlast_update    : 1499989167\nfuzzer_pid     : 26371\ncycles_done    : 0\nexecs_done     : 5391925\nexecs_per_sec  : 750.97\npaths_total    : 378\npaths_favored  : 117\npaths_found    : 377\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 157\npending_favs   : 87\npending_total  : 332\nvariable_paths : 0\nbitmap_cvg     : 1.71%\nunique_crashes : 0\nunique_hangs   : 17\nlast_path      : 1499989138\nlast_crash     : 0\nlast_hang      : 1499987525\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Casino_Games/input -o /dev/shm/work/Casino_Games/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Casino_Games/Casino_Games.dict -- data/linux/processed-challenges/Casino_Games/bin/Casino_Games\n'
+p121
+I3
+tp122
+a(I7320
+S'start_time     : 1499982014\nlast_update    : 1499989288\nfuzzer_pid     : 26371\ncycles_done    : 0\nexecs_done     : 5484473\nexecs_per_sec  : 737.74\npaths_total    : 382\npaths_favored  : 118\npaths_found    : 381\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 158\npending_favs   : 88\npending_total  : 335\nvariable_paths : 0\nbitmap_cvg     : 1.72%\nunique_crashes : 0\nunique_hangs   : 17\nlast_path      : 1499989257\nlast_crash     : 0\nlast_hang      : 1499987525\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Casino_Games/input -o /dev/shm/work/Casino_Games/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Casino_Games/Casino_Games.dict -- data/linux/processed-challenges/Casino_Games/bin/Casino_Games\n'
+p123
+I3
+tp124
+a(I7440
+S'start_time     : 1499982014\nlast_update    : 1499989408\nfuzzer_pid     : 26371\ncycles_done    : 0\nexecs_done     : 5572727\nexecs_per_sec  : 649.88\npaths_total    : 384\npaths_favored  : 119\npaths_found    : 383\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 161\npending_favs   : 89\npending_total  : 336\nvariable_paths : 0\nbitmap_cvg     : 1.72%\nunique_crashes : 0\nunique_hangs   : 17\nlast_path      : 1499989389\nlast_crash     : 0\nlast_hang      : 1499987525\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Casino_Games/input -o /dev/shm/work/Casino_Games/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Casino_Games/Casino_Games.dict -- data/linux/processed-challenges/Casino_Games/bin/Casino_Games\n'
+p125
+I1
+tp126
+a(I7560
+S'start_time     : 1499982014\nlast_update    : 1499989528\nfuzzer_pid     : 26371\ncycles_done    : 0\nexecs_done     : 5662357\nexecs_per_sec  : 735.84\npaths_total    : 387\npaths_favored  : 120\npaths_found    : 386\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 167\npending_favs   : 89\npending_total  : 338\nvariable_paths : 0\nbitmap_cvg     : 1.72%\nunique_crashes : 0\nunique_hangs   : 17\nlast_path      : 1499989509\nlast_crash     : 0\nlast_hang      : 1499987525\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Casino_Games/input -o /dev/shm/work/Casino_Games/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Casino_Games/Casino_Games.dict -- data/linux/processed-challenges/Casino_Games/bin/Casino_Games\n'
+p127
+I3
+tp128
+a(I7680
+S'start_time     : 1499982014\nlast_update    : 1499989648\nfuzzer_pid     : 26371\ncycles_done    : 0\nexecs_done     : 5748846\nexecs_per_sec  : 597.19\npaths_total    : 388\npaths_favored  : 119\npaths_found    : 387\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 169\npending_favs   : 88\npending_total  : 338\nvariable_paths : 0\nbitmap_cvg     : 1.72%\nunique_crashes : 0\nunique_hangs   : 17\nlast_path      : 1499989622\nlast_crash     : 0\nlast_hang      : 1499987525\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Casino_Games/input -o /dev/shm/work/Casino_Games/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Casino_Games/Casino_Games.dict -- data/linux/processed-challenges/Casino_Games/bin/Casino_Games\n'
+p129
+I1
+tp130
+a(I7800
+S'start_time     : 1499982014\nlast_update    : 1499989769\nfuzzer_pid     : 26371\ncycles_done    : 0\nexecs_done     : 5822740\nexecs_per_sec  : 770.14\npaths_total    : 388\npaths_favored  : 119\npaths_found    : 387\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 173\npending_favs   : 87\npending_total  : 337\nvariable_paths : 0\nbitmap_cvg     : 1.72%\nunique_crashes : 0\nunique_hangs   : 17\nlast_path      : 1499989622\nlast_crash     : 0\nlast_hang      : 1499987525\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Casino_Games/input -o /dev/shm/work/Casino_Games/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Casino_Games/Casino_Games.dict -- data/linux/processed-challenges/Casino_Games/bin/Casino_Games\n'
+p131
+I0
+tp132
+a(I7920
+S'start_time     : 1499982014\nlast_update    : 1499989889\nfuzzer_pid     : 26371\ncycles_done    : 0\nexecs_done     : 5921542\nexecs_per_sec  : 718.68\npaths_total    : 388\npaths_favored  : 119\npaths_found    : 387\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 175\npending_favs   : 86\npending_total  : 336\nvariable_paths : 0\nbitmap_cvg     : 1.72%\nunique_crashes : 0\nunique_hangs   : 17\nlast_path      : 1499989622\nlast_crash     : 0\nlast_hang      : 1499987525\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Casino_Games/input -o /dev/shm/work/Casino_Games/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Casino_Games/Casino_Games.dict -- data/linux/processed-challenges/Casino_Games/bin/Casino_Games\n'
+p133
+I0
+tp134
+a(I8040
+S'start_time     : 1499982014\nlast_update    : 1499990009\nfuzzer_pid     : 26371\ncycles_done    : 0\nexecs_done     : 6004965\nexecs_per_sec  : 557.79\npaths_total    : 388\npaths_favored  : 119\npaths_found    : 387\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 177\npending_favs   : 85\npending_total  : 335\nvariable_paths : 0\nbitmap_cvg     : 1.72%\nunique_crashes : 0\nunique_hangs   : 17\nlast_path      : 1499989622\nlast_crash     : 0\nlast_hang      : 1499987525\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Casino_Games/input -o /dev/shm/work/Casino_Games/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Casino_Games/Casino_Games.dict -- data/linux/processed-challenges/Casino_Games/bin/Casino_Games\n'
+p135
+I0
+tp136
+a(I8160
+S'start_time     : 1499982014\nlast_update    : 1499990129\nfuzzer_pid     : 26371\ncycles_done    : 0\nexecs_done     : 6083629\nexecs_per_sec  : 784.68\npaths_total    : 389\npaths_favored  : 119\npaths_found    : 388\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 177\npending_favs   : 85\npending_total  : 336\nvariable_paths : 0\nbitmap_cvg     : 1.72%\nunique_crashes : 0\nunique_hangs   : 17\nlast_path      : 1499990102\nlast_crash     : 0\nlast_hang      : 1499987525\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Casino_Games/input -o /dev/shm/work/Casino_Games/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Casino_Games/Casino_Games.dict -- data/linux/processed-challenges/Casino_Games/bin/Casino_Games\n'
+p137
+I1
+tp138
+a(I8280
+S'start_time     : 1499982014\nlast_update    : 1499990250\nfuzzer_pid     : 26371\ncycles_done    : 0\nexecs_done     : 6175094\nexecs_per_sec  : 692.39\npaths_total    : 390\npaths_favored  : 120\npaths_found    : 389\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 182\npending_favs   : 84\npending_total  : 335\nvariable_paths : 0\nbitmap_cvg     : 1.72%\nunique_crashes : 0\nunique_hangs   : 17\nlast_path      : 1499990226\nlast_crash     : 0\nlast_hang      : 1499987525\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Casino_Games/input -o /dev/shm/work/Casino_Games/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Casino_Games/Casino_Games.dict -- data/linux/processed-challenges/Casino_Games/bin/Casino_Games\n'
+p139
+I1
+tp140
+a(I8400
+S'start_time     : 1499982014\nlast_update    : 1499990370\nfuzzer_pid     : 26371\ncycles_done    : 0\nexecs_done     : 6259856\nexecs_per_sec  : 858.75\npaths_total    : 390\npaths_favored  : 120\npaths_found    : 389\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 182\npending_favs   : 84\npending_total  : 335\nvariable_paths : 0\nbitmap_cvg     : 1.72%\nunique_crashes : 0\nunique_hangs   : 17\nlast_path      : 1499990226\nlast_crash     : 0\nlast_hang      : 1499987525\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Casino_Games/input -o /dev/shm/work/Casino_Games/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Casino_Games/Casino_Games.dict -- data/linux/processed-challenges/Casino_Games/bin/Casino_Games\n'
+p141
+I0
+tp142
+a(I8520
+S'start_time     : 1499982014\nlast_update    : 1499990490\nfuzzer_pid     : 26371\ncycles_done    : 0\nexecs_done     : 6341640\nexecs_per_sec  : 793.13\npaths_total    : 390\npaths_favored  : 120\npaths_found    : 389\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 184\npending_favs   : 83\npending_total  : 334\nvariable_paths : 0\nbitmap_cvg     : 1.72%\nunique_crashes : 0\nunique_hangs   : 17\nlast_path      : 1499990226\nlast_crash     : 0\nlast_hang      : 1499987525\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Casino_Games/input -o /dev/shm/work/Casino_Games/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Casino_Games/Casino_Games.dict -- data/linux/processed-challenges/Casino_Games/bin/Casino_Games\n'
+p143
+I1
+tp144
+a(I8640
+S'start_time     : 1499982014\nlast_update    : 1499990610\nfuzzer_pid     : 26371\ncycles_done    : 0\nexecs_done     : 6425175\nexecs_per_sec  : 664.91\npaths_total    : 391\npaths_favored  : 120\npaths_found    : 390\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 188\npending_favs   : 82\npending_total  : 334\nvariable_paths : 0\nbitmap_cvg     : 1.73%\nunique_crashes : 0\nunique_hangs   : 17\nlast_path      : 1499990520\nlast_crash     : 0\nlast_hang      : 1499987525\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Casino_Games/input -o /dev/shm/work/Casino_Games/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Casino_Games/Casino_Games.dict -- data/linux/processed-challenges/Casino_Games/bin/Casino_Games\n'
+p145
+I0
+tp146
+a(I8760
+S'start_time     : 1499982014\nlast_update    : 1499990730\nfuzzer_pid     : 26371\ncycles_done    : 0\nexecs_done     : 6509845\nexecs_per_sec  : 643.93\npaths_total    : 391\npaths_favored  : 121\npaths_found    : 390\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 196\npending_favs   : 82\npending_total  : 333\nvariable_paths : 0\nbitmap_cvg     : 1.73%\nunique_crashes : 0\nunique_hangs   : 17\nlast_path      : 1499990520\nlast_crash     : 0\nlast_hang      : 1499987525\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Casino_Games/input -o /dev/shm/work/Casino_Games/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Casino_Games/Casino_Games.dict -- data/linux/processed-challenges/Casino_Games/bin/Casino_Games\n'
+p147
+I0
+tp148
+a(I8880
+S'start_time     : 1499982014\nlast_update    : 1499990850\nfuzzer_pid     : 26371\ncycles_done    : 0\nexecs_done     : 6585763\nexecs_per_sec  : 595.77\npaths_total    : 391\npaths_favored  : 121\npaths_found    : 390\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 201\npending_favs   : 81\npending_total  : 332\nvariable_paths : 0\nbitmap_cvg     : 1.73%\nunique_crashes : 0\nunique_hangs   : 17\nlast_path      : 1499990520\nlast_crash     : 0\nlast_hang      : 1499987525\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Casino_Games/input -o /dev/shm/work/Casino_Games/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Casino_Games/Casino_Games.dict -- data/linux/processed-challenges/Casino_Games/bin/Casino_Games\n'
+p149
+I0
+tp150
+a(I9000
+S'start_time     : 1499982014\nlast_update    : 1499990971\nfuzzer_pid     : 26371\ncycles_done    : 0\nexecs_done     : 6670587\nexecs_per_sec  : 841.23\npaths_total    : 391\npaths_favored  : 121\npaths_found    : 390\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 202\npending_favs   : 80\npending_total  : 331\nvariable_paths : 0\nbitmap_cvg     : 1.73%\nunique_crashes : 0\nunique_hangs   : 17\nlast_path      : 1499990520\nlast_crash     : 0\nlast_hang      : 1499987525\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Casino_Games/input -o /dev/shm/work/Casino_Games/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Casino_Games/Casino_Games.dict -- data/linux/processed-challenges/Casino_Games/bin/Casino_Games\n'
+p151
+I0
+tp152
+a(I9120
+S'start_time     : 1499982014\nlast_update    : 1499991091\nfuzzer_pid     : 26371\ncycles_done    : 0\nexecs_done     : 6756853\nexecs_per_sec  : 750.54\npaths_total    : 391\npaths_favored  : 121\npaths_found    : 390\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 205\npending_favs   : 79\npending_total  : 330\nvariable_paths : 0\nbitmap_cvg     : 1.73%\nunique_crashes : 0\nunique_hangs   : 17\nlast_path      : 1499990520\nlast_crash     : 0\nlast_hang      : 1499987525\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Casino_Games/input -o /dev/shm/work/Casino_Games/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Casino_Games/Casino_Games.dict -- data/linux/processed-challenges/Casino_Games/bin/Casino_Games\n'
+p153
+I1
+tp154
+a(I9240
+S'start_time     : 1499982014\nlast_update    : 1499991211\nfuzzer_pid     : 26371\ncycles_done    : 0\nexecs_done     : 6830254\nexecs_per_sec  : 538.66\npaths_total    : 395\npaths_favored  : 121\npaths_found    : 394\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 208\npending_favs   : 78\npending_total  : 333\nvariable_paths : 0\nbitmap_cvg     : 1.73%\nunique_crashes : 0\nunique_hangs   : 17\nlast_path      : 1499991187\nlast_crash     : 0\nlast_hang      : 1499987525\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Casino_Games/input -o /dev/shm/work/Casino_Games/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Casino_Games/Casino_Games.dict -- data/linux/processed-challenges/Casino_Games/bin/Casino_Games\n'
+p155
+I6
+tp156
+a(I9360
+S'start_time     : 1499982014\nlast_update    : 1499991331\nfuzzer_pid     : 26371\ncycles_done    : 0\nexecs_done     : 6901304\nexecs_per_sec  : 759.34\npaths_total    : 401\npaths_favored  : 121\npaths_found    : 400\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 208\npending_favs   : 78\npending_total  : 339\nvariable_paths : 0\nbitmap_cvg     : 1.74%\nunique_crashes : 0\nunique_hangs   : 17\nlast_path      : 1499991328\nlast_crash     : 0\nlast_hang      : 1499987525\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Casino_Games/input -o /dev/shm/work/Casino_Games/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Casino_Games/Casino_Games.dict -- data/linux/processed-challenges/Casino_Games/bin/Casino_Games\n'
+p157
+I4
+tp158
+a(I9480
+S'start_time     : 1499982014\nlast_update    : 1499991451\nfuzzer_pid     : 26371\ncycles_done    : 0\nexecs_done     : 6989737\nexecs_per_sec  : 748.78\npaths_total    : 403\npaths_favored  : 121\npaths_found    : 402\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 208\npending_favs   : 78\npending_total  : 341\nvariable_paths : 0\nbitmap_cvg     : 1.74%\nunique_crashes : 0\nunique_hangs   : 18\nlast_path      : 1499991398\nlast_crash     : 0\nlast_hang      : 1499991450\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Casino_Games/input -o /dev/shm/work/Casino_Games/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Casino_Games/Casino_Games.dict -- data/linux/processed-challenges/Casino_Games/bin/Casino_Games\n'
+p159
+I2
+tp160
+a(I9600
+S'start_time     : 1499982014\nlast_update    : 1499991572\nfuzzer_pid     : 26371\ncycles_done    : 0\nexecs_done     : 7062515\nexecs_per_sec  : 577.72\npaths_total    : 404\npaths_favored  : 122\npaths_found    : 403\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 219\npending_favs   : 81\npending_total  : 341\nvariable_paths : 0\nbitmap_cvg     : 1.74%\nunique_crashes : 0\nunique_hangs   : 18\nlast_path      : 1499991473\nlast_crash     : 0\nlast_hang      : 1499991450\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Casino_Games/input -o /dev/shm/work/Casino_Games/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Casino_Games/Casino_Games.dict -- data/linux/processed-challenges/Casino_Games/bin/Casino_Games\n'
+p161
+I2
+tp162
+a(I9720
+S'start_time     : 1499982014\nlast_update    : 1499991692\nfuzzer_pid     : 26371\ncycles_done    : 0\nexecs_done     : 7155876\nexecs_per_sec  : 818.51\npaths_total    : 408\npaths_favored  : 122\npaths_found    : 407\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 219\npending_favs   : 81\npending_total  : 345\nvariable_paths : 0\nbitmap_cvg     : 1.74%\nunique_crashes : 0\nunique_hangs   : 21\nlast_path      : 1499991633\nlast_crash     : 0\nlast_hang      : 1499991649\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Casino_Games/input -o /dev/shm/work/Casino_Games/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Casino_Games/Casino_Games.dict -- data/linux/processed-challenges/Casino_Games/bin/Casino_Games\n'
+p163
+I3
+tp164
+a(I9840
+S'start_time     : 1499982014\nlast_update    : 1499991812\nfuzzer_pid     : 26371\ncycles_done    : 0\nexecs_done     : 7248002\nexecs_per_sec  : 513.20\npaths_total    : 411\npaths_favored  : 125\npaths_found    : 410\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 220\npending_favs   : 84\npending_total  : 347\nvariable_paths : 0\nbitmap_cvg     : 1.74%\nunique_crashes : 0\nunique_hangs   : 21\nlast_path      : 1499991793\nlast_crash     : 0\nlast_hang      : 1499991649\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Casino_Games/input -o /dev/shm/work/Casino_Games/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Casino_Games/Casino_Games.dict -- data/linux/processed-challenges/Casino_Games/bin/Casino_Games\n'
+p165
+I2
+tp166
+a(I9960
+S'start_time     : 1499982014\nlast_update    : 1499991932\nfuzzer_pid     : 26371\ncycles_done    : 0\nexecs_done     : 7308009\nexecs_per_sec  : 479.88\npaths_total    : 411\npaths_favored  : 125\npaths_found    : 410\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 220\npending_favs   : 84\npending_total  : 347\nvariable_paths : 0\nbitmap_cvg     : 1.74%\nunique_crashes : 0\nunique_hangs   : 21\nlast_path      : 1499991793\nlast_crash     : 0\nlast_hang      : 1499991649\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Casino_Games/input -o /dev/shm/work/Casino_Games/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Casino_Games/Casino_Games.dict -- data/linux/processed-challenges/Casino_Games/bin/Casino_Games\n'
+p167
+I2
+tp168
+a(I10080
+S'start_time     : 1499982014\nlast_update    : 1499992052\nfuzzer_pid     : 26371\ncycles_done    : 0\nexecs_done     : 7373169\nexecs_per_sec  : 508.68\npaths_total    : 413\npaths_favored  : 126\npaths_found    : 412\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 226\npending_favs   : 85\npending_total  : 348\nvariable_paths : 0\nbitmap_cvg     : 1.75%\nunique_crashes : 0\nunique_hangs   : 21\nlast_path      : 1499991986\nlast_crash     : 0\nlast_hang      : 1499991649\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Casino_Games/input -o /dev/shm/work/Casino_Games/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Casino_Games/Casino_Games.dict -- data/linux/processed-challenges/Casino_Games/bin/Casino_Games\n'
+p169
+I0
+tp170
+a(I10200
+S'start_time     : 1499982014\nlast_update    : 1499992173\nfuzzer_pid     : 26371\ncycles_done    : 0\nexecs_done     : 7434943\nexecs_per_sec  : 441.51\npaths_total    : 413\npaths_favored  : 127\npaths_found    : 412\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 228\npending_favs   : 85\npending_total  : 347\nvariable_paths : 0\nbitmap_cvg     : 1.75%\nunique_crashes : 0\nunique_hangs   : 21\nlast_path      : 1499991986\nlast_crash     : 0\nlast_hang      : 1499991649\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Casino_Games/input -o /dev/shm/work/Casino_Games/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Casino_Games/Casino_Games.dict -- data/linux/processed-challenges/Casino_Games/bin/Casino_Games\n'
+p171
+I0
+tp172
+a(I10320
+S'start_time     : 1499982014\nlast_update    : 1499992293\nfuzzer_pid     : 26371\ncycles_done    : 0\nexecs_done     : 7487795\nexecs_per_sec  : 445.27\npaths_total    : 413\npaths_favored  : 127\npaths_found    : 412\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 228\npending_favs   : 85\npending_total  : 347\nvariable_paths : 0\nbitmap_cvg     : 1.75%\nunique_crashes : 0\nunique_hangs   : 21\nlast_path      : 1499991986\nlast_crash     : 0\nlast_hang      : 1499991649\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Casino_Games/input -o /dev/shm/work/Casino_Games/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Casino_Games/Casino_Games.dict -- data/linux/processed-challenges/Casino_Games/bin/Casino_Games\n'
+p173
+I0
+tp174
+a(I10440
+S'start_time     : 1499982014\nlast_update    : 1499992413\nfuzzer_pid     : 26371\ncycles_done    : 0\nexecs_done     : 7555472\nexecs_per_sec  : 534.35\npaths_total    : 413\npaths_favored  : 127\npaths_found    : 412\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 229\npending_favs   : 84\npending_total  : 346\nvariable_paths : 0\nbitmap_cvg     : 1.75%\nunique_crashes : 0\nunique_hangs   : 21\nlast_path      : 1499991986\nlast_crash     : 0\nlast_hang      : 1499991649\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Casino_Games/input -o /dev/shm/work/Casino_Games/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Casino_Games/Casino_Games.dict -- data/linux/processed-challenges/Casino_Games/bin/Casino_Games\n'
+p175
+I0
+tp176
+a(I10560
+S'start_time     : 1499982014\nlast_update    : 1499992533\nfuzzer_pid     : 26371\ncycles_done    : 0\nexecs_done     : 7621382\nexecs_per_sec  : 466.43\npaths_total    : 415\npaths_favored  : 127\npaths_found    : 414\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 233\npending_favs   : 83\npending_total  : 347\nvariable_paths : 0\nbitmap_cvg     : 1.75%\nunique_crashes : 0\nunique_hangs   : 21\nlast_path      : 1499992513\nlast_crash     : 0\nlast_hang      : 1499991649\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Casino_Games/input -o /dev/shm/work/Casino_Games/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Casino_Games/Casino_Games.dict -- data/linux/processed-challenges/Casino_Games/bin/Casino_Games\n'
+p177
+I3
+tp178
+a(I10680
+S'start_time     : 1499982014\nlast_update    : 1499992654\nfuzzer_pid     : 26371\ncycles_done    : 0\nexecs_done     : 7680526\nexecs_per_sec  : 465.41\npaths_total    : 417\npaths_favored  : 127\npaths_found    : 416\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 235\npending_favs   : 83\npending_total  : 348\nvariable_paths : 0\nbitmap_cvg     : 1.75%\nunique_crashes : 0\nunique_hangs   : 21\nlast_path      : 1499992595\nlast_crash     : 0\nlast_hang      : 1499991649\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Casino_Games/input -o /dev/shm/work/Casino_Games/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Casino_Games/Casino_Games.dict -- data/linux/processed-challenges/Casino_Games/bin/Casino_Games\n'
+p179
+I1
+tp180
+a.

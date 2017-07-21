@@ -1,0 +1,452 @@
+(lp0
+(I0
+S'start_time     : 1500014754\nlast_update    : 1500014754\nfuzzer_pid     : 17585\ncycles_done    : 0\nexecs_done     : 10\nexecs_per_sec  : 175.44\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 1\npending_total  : 1\nvariable_paths : 0\nbitmap_cvg     : 0.10%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SOLFEDGE/input -o /dev/shm/work/SOLFEDGE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SOLFEDGE/SOLFEDGE.dict -- data/linux/processed-challenges/SOLFEDGE/bin/SOLFEDGE\n'
+p1
+I3
+tp2
+a(I120
+S'start_time     : 1500014754\nlast_update    : 1500014875\nfuzzer_pid     : 17585\ncycles_done    : 5\nexecs_done     : 98258\nexecs_per_sec  : 847.47\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 1\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.11%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500014755\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SOLFEDGE/input -o /dev/shm/work/SOLFEDGE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SOLFEDGE/SOLFEDGE.dict -- data/linux/processed-challenges/SOLFEDGE/bin/SOLFEDGE\n'
+p3
+I0
+tp4
+a(I240
+S'start_time     : 1500014754\nlast_update    : 1500014995\nfuzzer_pid     : 17585\ncycles_done    : 12\nexecs_done     : 196946\nexecs_per_sec  : 808.18\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.11%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500014755\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SOLFEDGE/input -o /dev/shm/work/SOLFEDGE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SOLFEDGE/SOLFEDGE.dict -- data/linux/processed-challenges/SOLFEDGE/bin/SOLFEDGE\n'
+p5
+I0
+tp6
+a(I360
+S'start_time     : 1500014754\nlast_update    : 1500015115\nfuzzer_pid     : 17585\ncycles_done    : 18\nexecs_done     : 295594\nexecs_per_sec  : 821.78\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 1\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.11%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500014755\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SOLFEDGE/input -o /dev/shm/work/SOLFEDGE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SOLFEDGE/SOLFEDGE.dict -- data/linux/processed-challenges/SOLFEDGE/bin/SOLFEDGE\n'
+p7
+I0
+tp8
+a(I480
+S'start_time     : 1500014754\nlast_update    : 1500015235\nfuzzer_pid     : 17585\ncycles_done    : 25\nexecs_done     : 395658\nexecs_per_sec  : 821.42\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.11%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500014755\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SOLFEDGE/input -o /dev/shm/work/SOLFEDGE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SOLFEDGE/SOLFEDGE.dict -- data/linux/processed-challenges/SOLFEDGE/bin/SOLFEDGE\n'
+p9
+I0
+tp10
+a(I600
+S'start_time     : 1500014754\nlast_update    : 1500015355\nfuzzer_pid     : 17585\ncycles_done    : 31\nexecs_done     : 495242\nexecs_per_sec  : 838.92\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 2\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.11%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500014755\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SOLFEDGE/input -o /dev/shm/work/SOLFEDGE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SOLFEDGE/SOLFEDGE.dict -- data/linux/processed-challenges/SOLFEDGE/bin/SOLFEDGE\n'
+p11
+I0
+tp12
+a(I720
+S'start_time     : 1500014754\nlast_update    : 1500015476\nfuzzer_pid     : 17585\ncycles_done    : 38\nexecs_done     : 594319\nexecs_per_sec  : 792.71\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 1\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.11%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500014755\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SOLFEDGE/input -o /dev/shm/work/SOLFEDGE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SOLFEDGE/SOLFEDGE.dict -- data/linux/processed-challenges/SOLFEDGE/bin/SOLFEDGE\n'
+p13
+I0
+tp14
+a(I840
+S'start_time     : 1500014754\nlast_update    : 1500015596\nfuzzer_pid     : 17585\ncycles_done    : 45\nexecs_done     : 692314\nexecs_per_sec  : 826.48\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.11%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500014755\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SOLFEDGE/input -o /dev/shm/work/SOLFEDGE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SOLFEDGE/SOLFEDGE.dict -- data/linux/processed-challenges/SOLFEDGE/bin/SOLFEDGE\n'
+p15
+I0
+tp16
+a(I960
+S'start_time     : 1500014754\nlast_update    : 1500015716\nfuzzer_pid     : 17585\ncycles_done    : 51\nexecs_done     : 790082\nexecs_per_sec  : 821.34\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 1\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.11%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500014755\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SOLFEDGE/input -o /dev/shm/work/SOLFEDGE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SOLFEDGE/SOLFEDGE.dict -- data/linux/processed-challenges/SOLFEDGE/bin/SOLFEDGE\n'
+p17
+I0
+tp18
+a(I1080
+S'start_time     : 1500014754\nlast_update    : 1500015836\nfuzzer_pid     : 17585\ncycles_done    : 58\nexecs_done     : 888224\nexecs_per_sec  : 798.32\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.11%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500014755\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SOLFEDGE/input -o /dev/shm/work/SOLFEDGE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SOLFEDGE/SOLFEDGE.dict -- data/linux/processed-challenges/SOLFEDGE/bin/SOLFEDGE\n'
+p19
+I0
+tp20
+a(I1200
+S'start_time     : 1500014754\nlast_update    : 1500015956\nfuzzer_pid     : 17585\ncycles_done    : 64\nexecs_done     : 986850\nexecs_per_sec  : 819.22\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 2\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.11%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500014755\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SOLFEDGE/input -o /dev/shm/work/SOLFEDGE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SOLFEDGE/SOLFEDGE.dict -- data/linux/processed-challenges/SOLFEDGE/bin/SOLFEDGE\n'
+p21
+I0
+tp22
+a(I1320
+S'start_time     : 1500014754\nlast_update    : 1500016076\nfuzzer_pid     : 17585\ncycles_done    : 71\nexecs_done     : 1085178\nexecs_per_sec  : 817.27\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.11%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500014755\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SOLFEDGE/input -o /dev/shm/work/SOLFEDGE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SOLFEDGE/SOLFEDGE.dict -- data/linux/processed-challenges/SOLFEDGE/bin/SOLFEDGE\n'
+p23
+I0
+tp24
+a(I1440
+S'start_time     : 1500014754\nlast_update    : 1500016196\nfuzzer_pid     : 17585\ncycles_done    : 77\nexecs_done     : 1183786\nexecs_per_sec  : 816.16\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 2\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.11%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500014755\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SOLFEDGE/input -o /dev/shm/work/SOLFEDGE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SOLFEDGE/SOLFEDGE.dict -- data/linux/processed-challenges/SOLFEDGE/bin/SOLFEDGE\n'
+p25
+I0
+tp26
+a(I1560
+S'start_time     : 1500014754\nlast_update    : 1500016317\nfuzzer_pid     : 17585\ncycles_done    : 84\nexecs_done     : 1281642\nexecs_per_sec  : 846.19\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 1\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.11%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500014755\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SOLFEDGE/input -o /dev/shm/work/SOLFEDGE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SOLFEDGE/SOLFEDGE.dict -- data/linux/processed-challenges/SOLFEDGE/bin/SOLFEDGE\n'
+p27
+I0
+tp28
+a(I1680
+S'start_time     : 1500014754\nlast_update    : 1500016437\nfuzzer_pid     : 17585\ncycles_done    : 91\nexecs_done     : 1381674\nexecs_per_sec  : 820.30\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.11%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500014755\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SOLFEDGE/input -o /dev/shm/work/SOLFEDGE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SOLFEDGE/SOLFEDGE.dict -- data/linux/processed-challenges/SOLFEDGE/bin/SOLFEDGE\n'
+p29
+I0
+tp30
+a(I1800
+S'start_time     : 1500014754\nlast_update    : 1500016557\nfuzzer_pid     : 17585\ncycles_done    : 97\nexecs_done     : 1481474\nexecs_per_sec  : 861.66\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 2\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.11%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500014755\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SOLFEDGE/input -o /dev/shm/work/SOLFEDGE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SOLFEDGE/SOLFEDGE.dict -- data/linux/processed-challenges/SOLFEDGE/bin/SOLFEDGE\n'
+p31
+I0
+tp32
+a(I1920
+S'start_time     : 1500014754\nlast_update    : 1500016677\nfuzzer_pid     : 17585\ncycles_done    : 104\nexecs_done     : 1581370\nexecs_per_sec  : 804.74\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 1\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.11%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500014755\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SOLFEDGE/input -o /dev/shm/work/SOLFEDGE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SOLFEDGE/SOLFEDGE.dict -- data/linux/processed-challenges/SOLFEDGE/bin/SOLFEDGE\n'
+p33
+I0
+tp34
+a(I2040
+S'start_time     : 1500014754\nlast_update    : 1500016798\nfuzzer_pid     : 17585\ncycles_done    : 111\nexecs_done     : 1682170\nexecs_per_sec  : 844.13\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.11%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500014755\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SOLFEDGE/input -o /dev/shm/work/SOLFEDGE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SOLFEDGE/SOLFEDGE.dict -- data/linux/processed-challenges/SOLFEDGE/bin/SOLFEDGE\n'
+p35
+I0
+tp36
+a(I2160
+S'start_time     : 1500014754\nlast_update    : 1500016918\nfuzzer_pid     : 17585\ncycles_done    : 117\nexecs_done     : 1781882\nexecs_per_sec  : 822.49\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 2\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.11%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500014755\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SOLFEDGE/input -o /dev/shm/work/SOLFEDGE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SOLFEDGE/SOLFEDGE.dict -- data/linux/processed-challenges/SOLFEDGE/bin/SOLFEDGE\n'
+p37
+I0
+tp38
+a(I2280
+S'start_time     : 1500014754\nlast_update    : 1500017038\nfuzzer_pid     : 17585\ncycles_done    : 124\nexecs_done     : 1881066\nexecs_per_sec  : 820.05\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 1\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.11%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500014755\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SOLFEDGE/input -o /dev/shm/work/SOLFEDGE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SOLFEDGE/SOLFEDGE.dict -- data/linux/processed-challenges/SOLFEDGE/bin/SOLFEDGE\n'
+p39
+I0
+tp40
+a(I2400
+S'start_time     : 1500014754\nlast_update    : 1500017158\nfuzzer_pid     : 17585\ncycles_done    : 131\nexecs_done     : 1980890\nexecs_per_sec  : 837.51\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.11%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500014755\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SOLFEDGE/input -o /dev/shm/work/SOLFEDGE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SOLFEDGE/SOLFEDGE.dict -- data/linux/processed-challenges/SOLFEDGE/bin/SOLFEDGE\n'
+p41
+I0
+tp42
+a(I2520
+S'start_time     : 1500014754\nlast_update    : 1500017278\nfuzzer_pid     : 17585\ncycles_done    : 137\nexecs_done     : 2081831\nexecs_per_sec  : 871.95\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 2\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.11%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500014755\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SOLFEDGE/input -o /dev/shm/work/SOLFEDGE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SOLFEDGE/SOLFEDGE.dict -- data/linux/processed-challenges/SOLFEDGE/bin/SOLFEDGE\n'
+p43
+I0
+tp44
+a(I2640
+S'start_time     : 1500014754\nlast_update    : 1500017398\nfuzzer_pid     : 17585\ncycles_done    : 144\nexecs_done     : 2182970\nexecs_per_sec  : 825.44\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 1\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.11%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500014755\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SOLFEDGE/input -o /dev/shm/work/SOLFEDGE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SOLFEDGE/SOLFEDGE.dict -- data/linux/processed-challenges/SOLFEDGE/bin/SOLFEDGE\n'
+p45
+I0
+tp46
+a(I2760
+S'start_time     : 1500014754\nlast_update    : 1500017519\nfuzzer_pid     : 17585\ncycles_done    : 151\nexecs_done     : 2283514\nexecs_per_sec  : 821.20\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.11%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500014755\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SOLFEDGE/input -o /dev/shm/work/SOLFEDGE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SOLFEDGE/SOLFEDGE.dict -- data/linux/processed-challenges/SOLFEDGE/bin/SOLFEDGE\n'
+p47
+I0
+tp48
+a(I2880
+S'start_time     : 1500014754\nlast_update    : 1500017639\nfuzzer_pid     : 17585\ncycles_done    : 157\nexecs_done     : 2383962\nexecs_per_sec  : 827.35\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 2\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.11%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500014755\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SOLFEDGE/input -o /dev/shm/work/SOLFEDGE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SOLFEDGE/SOLFEDGE.dict -- data/linux/processed-challenges/SOLFEDGE/bin/SOLFEDGE\n'
+p49
+I0
+tp50
+a(I3000
+S'start_time     : 1500014754\nlast_update    : 1500017759\nfuzzer_pid     : 17585\ncycles_done    : 164\nexecs_done     : 2484602\nexecs_per_sec  : 860.39\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 1\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.11%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500014755\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SOLFEDGE/input -o /dev/shm/work/SOLFEDGE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SOLFEDGE/SOLFEDGE.dict -- data/linux/processed-challenges/SOLFEDGE/bin/SOLFEDGE\n'
+p51
+I0
+tp52
+a(I3120
+S'start_time     : 1500014754\nlast_update    : 1500017879\nfuzzer_pid     : 17585\ncycles_done    : 171\nexecs_done     : 2587256\nexecs_per_sec  : 862.13\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 1\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.11%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500014755\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SOLFEDGE/input -o /dev/shm/work/SOLFEDGE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SOLFEDGE/SOLFEDGE.dict -- data/linux/processed-challenges/SOLFEDGE/bin/SOLFEDGE\n'
+p53
+I0
+tp54
+a(I3240
+S'start_time     : 1500014754\nlast_update    : 1500017999\nfuzzer_pid     : 17585\ncycles_done    : 178\nexecs_done     : 2687732\nexecs_per_sec  : 864.95\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.11%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500014755\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SOLFEDGE/input -o /dev/shm/work/SOLFEDGE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SOLFEDGE/SOLFEDGE.dict -- data/linux/processed-challenges/SOLFEDGE/bin/SOLFEDGE\n'
+p55
+I0
+tp56
+a(I3360
+S'start_time     : 1500014754\nlast_update    : 1500018120\nfuzzer_pid     : 17585\ncycles_done    : 184\nexecs_done     : 2788994\nexecs_per_sec  : 832.64\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 2\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.11%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500014755\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SOLFEDGE/input -o /dev/shm/work/SOLFEDGE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SOLFEDGE/SOLFEDGE.dict -- data/linux/processed-challenges/SOLFEDGE/bin/SOLFEDGE\n'
+p57
+I0
+tp58
+a(I3480
+S'start_time     : 1500014754\nlast_update    : 1500018240\nfuzzer_pid     : 17585\ncycles_done    : 191\nexecs_done     : 2888194\nexecs_per_sec  : 836.54\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 1\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.11%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500014755\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SOLFEDGE/input -o /dev/shm/work/SOLFEDGE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SOLFEDGE/SOLFEDGE.dict -- data/linux/processed-challenges/SOLFEDGE/bin/SOLFEDGE\n'
+p59
+I0
+tp60
+a(I3600
+S'start_time     : 1500014754\nlast_update    : 1500018360\nfuzzer_pid     : 17585\ncycles_done    : 198\nexecs_done     : 2987762\nexecs_per_sec  : 847.26\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.11%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500014755\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SOLFEDGE/input -o /dev/shm/work/SOLFEDGE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SOLFEDGE/SOLFEDGE.dict -- data/linux/processed-challenges/SOLFEDGE/bin/SOLFEDGE\n'
+p61
+I0
+tp62
+a(I3720
+S'start_time     : 1500014754\nlast_update    : 1500018480\nfuzzer_pid     : 17585\ncycles_done    : 204\nexecs_done     : 3090078\nexecs_per_sec  : 872.21\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 2\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.11%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500014755\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SOLFEDGE/input -o /dev/shm/work/SOLFEDGE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SOLFEDGE/SOLFEDGE.dict -- data/linux/processed-challenges/SOLFEDGE/bin/SOLFEDGE\n'
+p63
+I0
+tp64
+a(I3840
+S'start_time     : 1500014754\nlast_update    : 1500018600\nfuzzer_pid     : 17585\ncycles_done    : 211\nexecs_done     : 3191402\nexecs_per_sec  : 823.89\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 2\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.11%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500014755\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SOLFEDGE/input -o /dev/shm/work/SOLFEDGE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SOLFEDGE/SOLFEDGE.dict -- data/linux/processed-challenges/SOLFEDGE/bin/SOLFEDGE\n'
+p65
+I0
+tp66
+a(I3960
+S'start_time     : 1500014754\nlast_update    : 1500018720\nfuzzer_pid     : 17585\ncycles_done    : 218\nexecs_done     : 3293514\nexecs_per_sec  : 839.67\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 1\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.11%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500014755\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SOLFEDGE/input -o /dev/shm/work/SOLFEDGE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SOLFEDGE/SOLFEDGE.dict -- data/linux/processed-challenges/SOLFEDGE/bin/SOLFEDGE\n'
+p67
+I0
+tp68
+a(I4080
+S'start_time     : 1500014754\nlast_update    : 1500018841\nfuzzer_pid     : 17585\ncycles_done    : 225\nexecs_done     : 3394410\nexecs_per_sec  : 829.33\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.11%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500014755\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SOLFEDGE/input -o /dev/shm/work/SOLFEDGE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SOLFEDGE/SOLFEDGE.dict -- data/linux/processed-challenges/SOLFEDGE/bin/SOLFEDGE\n'
+p69
+I0
+tp70
+a(I4200
+S'start_time     : 1500014754\nlast_update    : 1500018961\nfuzzer_pid     : 17585\ncycles_done    : 231\nexecs_done     : 3494364\nexecs_per_sec  : 847.77\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 2\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.11%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500014755\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SOLFEDGE/input -o /dev/shm/work/SOLFEDGE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SOLFEDGE/SOLFEDGE.dict -- data/linux/processed-challenges/SOLFEDGE/bin/SOLFEDGE\n'
+p71
+I0
+tp72
+a(I4320
+S'start_time     : 1500014754\nlast_update    : 1500019081\nfuzzer_pid     : 17585\ncycles_done    : 238\nexecs_done     : 3593306\nexecs_per_sec  : 835.04\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 1\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.11%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500014755\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SOLFEDGE/input -o /dev/shm/work/SOLFEDGE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SOLFEDGE/SOLFEDGE.dict -- data/linux/processed-challenges/SOLFEDGE/bin/SOLFEDGE\n'
+p73
+I0
+tp74
+a(I4440
+S'start_time     : 1500014754\nlast_update    : 1500019201\nfuzzer_pid     : 17585\ncycles_done    : 245\nexecs_done     : 3694714\nexecs_per_sec  : 824.26\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.11%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500014755\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SOLFEDGE/input -o /dev/shm/work/SOLFEDGE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SOLFEDGE/SOLFEDGE.dict -- data/linux/processed-challenges/SOLFEDGE/bin/SOLFEDGE\n'
+p75
+I0
+tp76
+a(I4560
+S'start_time     : 1500014754\nlast_update    : 1500019322\nfuzzer_pid     : 17585\ncycles_done    : 251\nexecs_done     : 3793130\nexecs_per_sec  : 822.49\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 2\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.11%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500014755\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SOLFEDGE/input -o /dev/shm/work/SOLFEDGE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SOLFEDGE/SOLFEDGE.dict -- data/linux/processed-challenges/SOLFEDGE/bin/SOLFEDGE\n'
+p77
+I0
+tp78
+a(I4680
+S'start_time     : 1500014754\nlast_update    : 1500019442\nfuzzer_pid     : 17585\ncycles_done    : 258\nexecs_done     : 3893386\nexecs_per_sec  : 828.14\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 1\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.11%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500014755\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SOLFEDGE/input -o /dev/shm/work/SOLFEDGE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SOLFEDGE/SOLFEDGE.dict -- data/linux/processed-challenges/SOLFEDGE/bin/SOLFEDGE\n'
+p79
+I0
+tp80
+a(I4800
+S'start_time     : 1500014754\nlast_update    : 1500019562\nfuzzer_pid     : 17585\ncycles_done    : 265\nexecs_done     : 3995027\nexecs_per_sec  : 860.60\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.11%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500014755\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SOLFEDGE/input -o /dev/shm/work/SOLFEDGE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SOLFEDGE/SOLFEDGE.dict -- data/linux/processed-challenges/SOLFEDGE/bin/SOLFEDGE\n'
+p81
+I0
+tp82
+a(I4920
+S'start_time     : 1500014754\nlast_update    : 1500019682\nfuzzer_pid     : 17585\ncycles_done    : 272\nexecs_done     : 4097953\nexecs_per_sec  : 857.32\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.11%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500014755\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SOLFEDGE/input -o /dev/shm/work/SOLFEDGE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SOLFEDGE/SOLFEDGE.dict -- data/linux/processed-challenges/SOLFEDGE/bin/SOLFEDGE\n'
+p83
+I0
+tp84
+a(I5040
+S'start_time     : 1500014754\nlast_update    : 1500019803\nfuzzer_pid     : 17585\ncycles_done    : 278\nexecs_done     : 4200178\nexecs_per_sec  : 847.80\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 2\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.11%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500014755\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SOLFEDGE/input -o /dev/shm/work/SOLFEDGE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SOLFEDGE/SOLFEDGE.dict -- data/linux/processed-challenges/SOLFEDGE/bin/SOLFEDGE\n'
+p85
+I0
+tp86
+a(I5160
+S'start_time     : 1500014754\nlast_update    : 1500019923\nfuzzer_pid     : 17585\ncycles_done    : 285\nexecs_done     : 4301546\nexecs_per_sec  : 811.19\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 2\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.11%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500014755\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SOLFEDGE/input -o /dev/shm/work/SOLFEDGE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SOLFEDGE/SOLFEDGE.dict -- data/linux/processed-challenges/SOLFEDGE/bin/SOLFEDGE\n'
+p87
+I0
+tp88
+a(I5280
+S'start_time     : 1500014754\nlast_update    : 1500020043\nfuzzer_pid     : 17585\ncycles_done    : 292\nexecs_done     : 4402586\nexecs_per_sec  : 834.60\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 1\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.11%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500014755\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SOLFEDGE/input -o /dev/shm/work/SOLFEDGE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SOLFEDGE/SOLFEDGE.dict -- data/linux/processed-challenges/SOLFEDGE/bin/SOLFEDGE\n'
+p89
+I0
+tp90
+a(I5400
+S'start_time     : 1500014754\nlast_update    : 1500020163\nfuzzer_pid     : 17585\ncycles_done    : 299\nexecs_done     : 4504618\nexecs_per_sec  : 833.12\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.11%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500014755\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SOLFEDGE/input -o /dev/shm/work/SOLFEDGE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SOLFEDGE/SOLFEDGE.dict -- data/linux/processed-challenges/SOLFEDGE/bin/SOLFEDGE\n'
+p91
+I0
+tp92
+a(I5520
+S'start_time     : 1500014754\nlast_update    : 1500020284\nfuzzer_pid     : 17585\ncycles_done    : 306\nexecs_done     : 4606032\nexecs_per_sec  : 859.60\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.11%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500014755\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SOLFEDGE/input -o /dev/shm/work/SOLFEDGE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SOLFEDGE/SOLFEDGE.dict -- data/linux/processed-challenges/SOLFEDGE/bin/SOLFEDGE\n'
+p93
+I0
+tp94
+a(I5640
+S'start_time     : 1500014754\nlast_update    : 1500020404\nfuzzer_pid     : 17585\ncycles_done    : 312\nexecs_done     : 4708259\nexecs_per_sec  : 849.68\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 2\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.11%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500014755\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SOLFEDGE/input -o /dev/shm/work/SOLFEDGE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SOLFEDGE/SOLFEDGE.dict -- data/linux/processed-challenges/SOLFEDGE/bin/SOLFEDGE\n'
+p95
+I0
+tp96
+a(I5760
+S'start_time     : 1500014754\nlast_update    : 1500020524\nfuzzer_pid     : 17585\ncycles_done    : 319\nexecs_done     : 4810482\nexecs_per_sec  : 828.71\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 1\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.11%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500014755\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SOLFEDGE/input -o /dev/shm/work/SOLFEDGE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SOLFEDGE/SOLFEDGE.dict -- data/linux/processed-challenges/SOLFEDGE/bin/SOLFEDGE\n'
+p97
+I0
+tp98
+a(I5880
+S'start_time     : 1500014754\nlast_update    : 1500020644\nfuzzer_pid     : 17585\ncycles_done    : 326\nexecs_done     : 4913429\nexecs_per_sec  : 859.98\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 1\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.11%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500014755\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SOLFEDGE/input -o /dev/shm/work/SOLFEDGE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SOLFEDGE/SOLFEDGE.dict -- data/linux/processed-challenges/SOLFEDGE/bin/SOLFEDGE\n'
+p99
+I0
+tp100
+a(I6000
+S'start_time     : 1500014754\nlast_update    : 1500020764\nfuzzer_pid     : 17585\ncycles_done    : 333\nexecs_done     : 5016865\nexecs_per_sec  : 858.70\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 1\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.11%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500014755\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SOLFEDGE/input -o /dev/shm/work/SOLFEDGE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SOLFEDGE/SOLFEDGE.dict -- data/linux/processed-challenges/SOLFEDGE/bin/SOLFEDGE\n'
+p101
+I0
+tp102
+a(I6120
+S'start_time     : 1500014754\nlast_update    : 1500020885\nfuzzer_pid     : 17585\ncycles_done    : 340\nexecs_done     : 5120163\nexecs_per_sec  : 851.77\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.11%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500014755\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SOLFEDGE/input -o /dev/shm/work/SOLFEDGE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SOLFEDGE/SOLFEDGE.dict -- data/linux/processed-challenges/SOLFEDGE/bin/SOLFEDGE\n'
+p103
+I0
+tp104
+a(I6240
+S'start_time     : 1500014754\nlast_update    : 1500021005\nfuzzer_pid     : 17585\ncycles_done    : 347\nexecs_done     : 5224196\nexecs_per_sec  : 893.04\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.11%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500014755\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SOLFEDGE/input -o /dev/shm/work/SOLFEDGE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SOLFEDGE/SOLFEDGE.dict -- data/linux/processed-challenges/SOLFEDGE/bin/SOLFEDGE\n'
+p105
+I0
+tp106
+a(I6360
+S'start_time     : 1500014754\nlast_update    : 1500021125\nfuzzer_pid     : 17585\ncycles_done    : 353\nexecs_done     : 5325482\nexecs_per_sec  : 844.42\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 2\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.11%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500014755\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SOLFEDGE/input -o /dev/shm/work/SOLFEDGE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SOLFEDGE/SOLFEDGE.dict -- data/linux/processed-challenges/SOLFEDGE/bin/SOLFEDGE\n'
+p107
+I0
+tp108
+a(I6480
+S'start_time     : 1500014754\nlast_update    : 1500021245\nfuzzer_pid     : 17585\ncycles_done    : 360\nexecs_done     : 5429092\nexecs_per_sec  : 852.97\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 2\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.11%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500014755\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SOLFEDGE/input -o /dev/shm/work/SOLFEDGE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SOLFEDGE/SOLFEDGE.dict -- data/linux/processed-challenges/SOLFEDGE/bin/SOLFEDGE\n'
+p109
+I0
+tp110
+a(I6600
+S'start_time     : 1500014754\nlast_update    : 1500021366\nfuzzer_pid     : 17585\ncycles_done    : 367\nexecs_done     : 5531695\nexecs_per_sec  : 865.55\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 2\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.11%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500014755\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SOLFEDGE/input -o /dev/shm/work/SOLFEDGE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SOLFEDGE/SOLFEDGE.dict -- data/linux/processed-challenges/SOLFEDGE/bin/SOLFEDGE\n'
+p111
+I0
+tp112
+a(I6720
+S'start_time     : 1500014754\nlast_update    : 1500021486\nfuzzer_pid     : 17585\ncycles_done    : 374\nexecs_done     : 5633482\nexecs_per_sec  : 845.23\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 1\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.11%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500014755\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SOLFEDGE/input -o /dev/shm/work/SOLFEDGE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SOLFEDGE/SOLFEDGE.dict -- data/linux/processed-challenges/SOLFEDGE/bin/SOLFEDGE\n'
+p113
+I0
+tp114
+a(I6840
+S'start_time     : 1500014754\nlast_update    : 1500021606\nfuzzer_pid     : 17585\ncycles_done    : 381\nexecs_done     : 5734194\nexecs_per_sec  : 871.56\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.11%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500014755\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SOLFEDGE/input -o /dev/shm/work/SOLFEDGE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SOLFEDGE/SOLFEDGE.dict -- data/linux/processed-challenges/SOLFEDGE/bin/SOLFEDGE\n'
+p115
+I0
+tp116
+a(I6960
+S'start_time     : 1500014754\nlast_update    : 1500021726\nfuzzer_pid     : 17585\ncycles_done    : 387\nexecs_done     : 5835274\nexecs_per_sec  : 830.23\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 2\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.11%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500014755\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SOLFEDGE/input -o /dev/shm/work/SOLFEDGE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SOLFEDGE/SOLFEDGE.dict -- data/linux/processed-challenges/SOLFEDGE/bin/SOLFEDGE\n'
+p117
+I0
+tp118
+a(I7080
+S'start_time     : 1500014754\nlast_update    : 1500021846\nfuzzer_pid     : 17585\ncycles_done    : 394\nexecs_done     : 5938769\nexecs_per_sec  : 881.48\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 2\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.11%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500014755\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SOLFEDGE/input -o /dev/shm/work/SOLFEDGE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SOLFEDGE/SOLFEDGE.dict -- data/linux/processed-challenges/SOLFEDGE/bin/SOLFEDGE\n'
+p119
+I0
+tp120
+a(I7200
+S'start_time     : 1500014754\nlast_update    : 1500021967\nfuzzer_pid     : 17585\ncycles_done    : 401\nexecs_done     : 6043130\nexecs_per_sec  : 834.87\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 2\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.11%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500014755\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SOLFEDGE/input -o /dev/shm/work/SOLFEDGE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SOLFEDGE/SOLFEDGE.dict -- data/linux/processed-challenges/SOLFEDGE/bin/SOLFEDGE\n'
+p121
+I0
+tp122
+a(I7320
+S'start_time     : 1500014754\nlast_update    : 1500022087\nfuzzer_pid     : 17585\ncycles_done    : 408\nexecs_done     : 6145466\nexecs_per_sec  : 831.29\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 1\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.11%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500014755\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SOLFEDGE/input -o /dev/shm/work/SOLFEDGE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SOLFEDGE/SOLFEDGE.dict -- data/linux/processed-challenges/SOLFEDGE/bin/SOLFEDGE\n'
+p123
+I0
+tp124
+a(I7440
+S'start_time     : 1500014754\nlast_update    : 1500022207\nfuzzer_pid     : 17585\ncycles_done    : 415\nexecs_done     : 6250180\nexecs_per_sec  : 860.16\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 1\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.11%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500014755\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SOLFEDGE/input -o /dev/shm/work/SOLFEDGE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SOLFEDGE/SOLFEDGE.dict -- data/linux/processed-challenges/SOLFEDGE/bin/SOLFEDGE\n'
+p125
+I0
+tp126
+a(I7560
+S'start_time     : 1500014754\nlast_update    : 1500022327\nfuzzer_pid     : 17585\ncycles_done    : 422\nexecs_done     : 6352069\nexecs_per_sec  : 860.86\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 1\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.11%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500014755\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SOLFEDGE/input -o /dev/shm/work/SOLFEDGE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SOLFEDGE/SOLFEDGE.dict -- data/linux/processed-challenges/SOLFEDGE/bin/SOLFEDGE\n'
+p127
+I0
+tp128
+a(I7680
+S'start_time     : 1500014754\nlast_update    : 1500022447\nfuzzer_pid     : 17585\ncycles_done    : 429\nexecs_done     : 6454858\nexecs_per_sec  : 829.29\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.11%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500014755\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SOLFEDGE/input -o /dev/shm/work/SOLFEDGE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SOLFEDGE/SOLFEDGE.dict -- data/linux/processed-challenges/SOLFEDGE/bin/SOLFEDGE\n'
+p129
+I0
+tp130
+a(I7800
+S'start_time     : 1500014754\nlast_update    : 1500022567\nfuzzer_pid     : 17585\ncycles_done    : 435\nexecs_done     : 6555370\nexecs_per_sec  : 847.58\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 2\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.11%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500014755\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SOLFEDGE/input -o /dev/shm/work/SOLFEDGE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SOLFEDGE/SOLFEDGE.dict -- data/linux/processed-challenges/SOLFEDGE/bin/SOLFEDGE\n'
+p131
+I0
+tp132
+a(I7920
+S'start_time     : 1500014754\nlast_update    : 1500022688\nfuzzer_pid     : 17585\ncycles_done    : 442\nexecs_done     : 6657458\nexecs_per_sec  : 848.03\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 2\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.11%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500014755\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SOLFEDGE/input -o /dev/shm/work/SOLFEDGE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SOLFEDGE/SOLFEDGE.dict -- data/linux/processed-challenges/SOLFEDGE/bin/SOLFEDGE\n'
+p133
+I0
+tp134
+a(I8040
+S'start_time     : 1500014754\nlast_update    : 1500022808\nfuzzer_pid     : 17585\ncycles_done    : 449\nexecs_done     : 6760964\nexecs_per_sec  : 878.56\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 2\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.11%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500014755\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SOLFEDGE/input -o /dev/shm/work/SOLFEDGE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SOLFEDGE/SOLFEDGE.dict -- data/linux/processed-challenges/SOLFEDGE/bin/SOLFEDGE\n'
+p135
+I0
+tp136
+a(I8160
+S'start_time     : 1500014754\nlast_update    : 1500022928\nfuzzer_pid     : 17585\ncycles_done    : 456\nexecs_done     : 6865435\nexecs_per_sec  : 883.58\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 1\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.11%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500014755\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SOLFEDGE/input -o /dev/shm/work/SOLFEDGE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SOLFEDGE/SOLFEDGE.dict -- data/linux/processed-challenges/SOLFEDGE/bin/SOLFEDGE\n'
+p137
+I0
+tp138
+a(I8280
+S'start_time     : 1500014754\nlast_update    : 1500023048\nfuzzer_pid     : 17585\ncycles_done    : 463\nexecs_done     : 6972090\nexecs_per_sec  : 911.70\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 2\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.11%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500014755\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SOLFEDGE/input -o /dev/shm/work/SOLFEDGE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SOLFEDGE/SOLFEDGE.dict -- data/linux/processed-challenges/SOLFEDGE/bin/SOLFEDGE\n'
+p139
+I0
+tp140
+a(I8400
+S'start_time     : 1500014754\nlast_update    : 1500023168\nfuzzer_pid     : 17585\ncycles_done    : 470\nexecs_done     : 7077522\nexecs_per_sec  : 915.60\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 2\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.11%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500014755\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SOLFEDGE/input -o /dev/shm/work/SOLFEDGE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SOLFEDGE/SOLFEDGE.dict -- data/linux/processed-challenges/SOLFEDGE/bin/SOLFEDGE\n'
+p141
+I0
+tp142
+a(I8520
+S'start_time     : 1500014754\nlast_update    : 1500023228\nfuzzer_pid     : 17585\ncycles_done    : 474\nexecs_done     : 7130811\nexecs_per_sec  : 864.99\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 1\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.11%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500014755\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SOLFEDGE/input -o /dev/shm/work/SOLFEDGE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SOLFEDGE/SOLFEDGE.dict -- data/linux/processed-challenges/SOLFEDGE/bin/SOLFEDGE\n'
+p143
+I0
+tp144
+a(I8640
+S'start_time     : 1500014754\nlast_update    : 1500023349\nfuzzer_pid     : 17585\ncycles_done    : 481\nexecs_done     : 7239347\nexecs_per_sec  : 895.82\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 1\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.11%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500014755\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SOLFEDGE/input -o /dev/shm/work/SOLFEDGE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SOLFEDGE/SOLFEDGE.dict -- data/linux/processed-challenges/SOLFEDGE/bin/SOLFEDGE\n'
+p145
+I0
+tp146
+a(I8760
+S'start_time     : 1500014754\nlast_update    : 1500023469\nfuzzer_pid     : 17585\ncycles_done    : 488\nexecs_done     : 7344898\nexecs_per_sec  : 893.51\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 1\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.11%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500014755\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SOLFEDGE/input -o /dev/shm/work/SOLFEDGE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SOLFEDGE/SOLFEDGE.dict -- data/linux/processed-challenges/SOLFEDGE/bin/SOLFEDGE\n'
+p147
+I0
+tp148
+a(I8880
+S'start_time     : 1500014754\nlast_update    : 1500023589\nfuzzer_pid     : 17585\ncycles_done    : 495\nexecs_done     : 7451049\nexecs_per_sec  : 885.45\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 2\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.11%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500014755\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SOLFEDGE/input -o /dev/shm/work/SOLFEDGE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SOLFEDGE/SOLFEDGE.dict -- data/linux/processed-challenges/SOLFEDGE/bin/SOLFEDGE\n'
+p149
+I0
+tp150
+a(I9000
+S'start_time     : 1500014754\nlast_update    : 1500023709\nfuzzer_pid     : 17585\ncycles_done    : 502\nexecs_done     : 7556578\nexecs_per_sec  : 828.89\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 2\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.11%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500014755\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SOLFEDGE/input -o /dev/shm/work/SOLFEDGE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SOLFEDGE/SOLFEDGE.dict -- data/linux/processed-challenges/SOLFEDGE/bin/SOLFEDGE\n'
+p151
+I0
+tp152
+a(I9120
+S'start_time     : 1500014754\nlast_update    : 1500023829\nfuzzer_pid     : 17585\ncycles_done    : 509\nexecs_done     : 7662180\nexecs_per_sec  : 904.48\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 2\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.11%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500014755\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SOLFEDGE/input -o /dev/shm/work/SOLFEDGE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SOLFEDGE/SOLFEDGE.dict -- data/linux/processed-challenges/SOLFEDGE/bin/SOLFEDGE\n'
+p153
+I0
+tp154
+a(I9240
+S'start_time     : 1500014754\nlast_update    : 1500023949\nfuzzer_pid     : 17585\ncycles_done    : 516\nexecs_done     : 7767990\nexecs_per_sec  : 902.82\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 2\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.11%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500014755\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SOLFEDGE/input -o /dev/shm/work/SOLFEDGE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SOLFEDGE/SOLFEDGE.dict -- data/linux/processed-challenges/SOLFEDGE/bin/SOLFEDGE\n'
+p155
+I0
+tp156
+a(I9360
+S'start_time     : 1500014754\nlast_update    : 1500024070\nfuzzer_pid     : 17585\ncycles_done    : 523\nexecs_done     : 7872647\nexecs_per_sec  : 855.49\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 2\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.11%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500014755\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SOLFEDGE/input -o /dev/shm/work/SOLFEDGE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SOLFEDGE/SOLFEDGE.dict -- data/linux/processed-challenges/SOLFEDGE/bin/SOLFEDGE\n'
+p157
+I0
+tp158
+a(I9480
+S'start_time     : 1500014754\nlast_update    : 1500024190\nfuzzer_pid     : 17585\ncycles_done    : 530\nexecs_done     : 7979126\nexecs_per_sec  : 873.66\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 2\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.11%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500014755\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SOLFEDGE/input -o /dev/shm/work/SOLFEDGE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SOLFEDGE/SOLFEDGE.dict -- data/linux/processed-challenges/SOLFEDGE/bin/SOLFEDGE\n'
+p159
+I0
+tp160
+a(I9600
+S'start_time     : 1500014754\nlast_update    : 1500024310\nfuzzer_pid     : 17585\ncycles_done    : 537\nexecs_done     : 8083871\nexecs_per_sec  : 881.97\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 2\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.11%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500014755\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SOLFEDGE/input -o /dev/shm/work/SOLFEDGE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SOLFEDGE/SOLFEDGE.dict -- data/linux/processed-challenges/SOLFEDGE/bin/SOLFEDGE\n'
+p161
+I0
+tp162
+a(I9720
+S'start_time     : 1500014754\nlast_update    : 1500024431\nfuzzer_pid     : 17585\ncycles_done    : 545\nexecs_done     : 8190811\nexecs_per_sec  : 893.03\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.11%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500014755\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SOLFEDGE/input -o /dev/shm/work/SOLFEDGE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SOLFEDGE/SOLFEDGE.dict -- data/linux/processed-challenges/SOLFEDGE/bin/SOLFEDGE\n'
+p163
+I0
+tp164
+a(I9840
+S'start_time     : 1500014754\nlast_update    : 1500024551\nfuzzer_pid     : 17585\ncycles_done    : 552\nexecs_done     : 8296117\nexecs_per_sec  : 867.54\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.11%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500014755\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SOLFEDGE/input -o /dev/shm/work/SOLFEDGE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SOLFEDGE/SOLFEDGE.dict -- data/linux/processed-challenges/SOLFEDGE/bin/SOLFEDGE\n'
+p165
+I0
+tp166
+a(I9960
+S'start_time     : 1500014754\nlast_update    : 1500024671\nfuzzer_pid     : 17585\ncycles_done    : 559\nexecs_done     : 8402936\nexecs_per_sec  : 884.39\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.11%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500014755\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SOLFEDGE/input -o /dev/shm/work/SOLFEDGE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SOLFEDGE/SOLFEDGE.dict -- data/linux/processed-challenges/SOLFEDGE/bin/SOLFEDGE\n'
+p167
+I0
+tp168
+a(I10080
+S'start_time     : 1500014754\nlast_update    : 1500024791\nfuzzer_pid     : 17585\ncycles_done    : 566\nexecs_done     : 8508208\nexecs_per_sec  : 886.03\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.11%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500014755\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SOLFEDGE/input -o /dev/shm/work/SOLFEDGE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SOLFEDGE/SOLFEDGE.dict -- data/linux/processed-challenges/SOLFEDGE/bin/SOLFEDGE\n'
+p169
+I0
+tp170
+a(I10200
+S'start_time     : 1500014754\nlast_update    : 1500024912\nfuzzer_pid     : 17585\ncycles_done    : 573\nexecs_done     : 8614109\nexecs_per_sec  : 859.21\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.11%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500014755\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SOLFEDGE/input -o /dev/shm/work/SOLFEDGE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SOLFEDGE/SOLFEDGE.dict -- data/linux/processed-challenges/SOLFEDGE/bin/SOLFEDGE\n'
+p171
+I0
+tp172
+a(I10320
+S'start_time     : 1500014754\nlast_update    : 1500025032\nfuzzer_pid     : 17585\ncycles_done    : 580\nexecs_done     : 8719122\nexecs_per_sec  : 839.45\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.11%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500014755\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SOLFEDGE/input -o /dev/shm/work/SOLFEDGE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SOLFEDGE/SOLFEDGE.dict -- data/linux/processed-challenges/SOLFEDGE/bin/SOLFEDGE\n'
+p173
+I0
+tp174
+a(I10440
+S'start_time     : 1500014754\nlast_update    : 1500025152\nfuzzer_pid     : 17585\ncycles_done    : 587\nexecs_done     : 8824313\nexecs_per_sec  : 854.69\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.11%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500014755\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SOLFEDGE/input -o /dev/shm/work/SOLFEDGE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SOLFEDGE/SOLFEDGE.dict -- data/linux/processed-challenges/SOLFEDGE/bin/SOLFEDGE\n'
+p175
+I0
+tp176
+a(I10560
+S'start_time     : 1500014754\nlast_update    : 1500025272\nfuzzer_pid     : 17585\ncycles_done    : 594\nexecs_done     : 8929432\nexecs_per_sec  : 873.93\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.11%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500014755\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SOLFEDGE/input -o /dev/shm/work/SOLFEDGE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SOLFEDGE/SOLFEDGE.dict -- data/linux/processed-challenges/SOLFEDGE/bin/SOLFEDGE\n'
+p177
+I0
+tp178
+a(I10680
+S'start_time     : 1500014754\nlast_update    : 1500025393\nfuzzer_pid     : 17585\ncycles_done    : 601\nexecs_done     : 9035066\nexecs_per_sec  : 848.32\npaths_total    : 3\npaths_favored  : 2\npaths_found    : 2\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.11%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500014755\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SOLFEDGE/input -o /dev/shm/work/SOLFEDGE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SOLFEDGE/SOLFEDGE.dict -- data/linux/processed-challenges/SOLFEDGE/bin/SOLFEDGE\n'
+p179
+I0
+tp180
+a.

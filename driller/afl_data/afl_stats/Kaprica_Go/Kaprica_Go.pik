@@ -1,0 +1,452 @@
+(lp0
+(I0
+S'start_time     : 1500165944\nlast_update    : 1500165944\nfuzzer_pid     : 6492\ncycles_done    : 0\nexecs_done     : 10\nexecs_per_sec  : 200.00\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 1\npending_total  : 1\nvariable_paths : 0\nbitmap_cvg     : 0.14%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Kaprica_Go/input -o /dev/shm/work/Kaprica_Go/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Kaprica_Go/Kaprica_Go.dict -- data/linux/processed-challenges/Kaprica_Go/bin/Kaprica_Go\n'
+p1
+I30
+tp2
+a(I120
+S'start_time     : 1500165944\nlast_update    : 1500166064\nfuzzer_pid     : 6492\ncycles_done    : 0\nexecs_done     : 127303\nexecs_per_sec  : 1049.54\npaths_total    : 49\npaths_favored  : 1\npaths_found    : 48\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 1\npending_total  : 49\nvariable_paths : 0\nbitmap_cvg     : 0.71%\nunique_crashes : 0\nunique_hangs   : 15\nlast_path      : 1500166063\nlast_crash     : 0\nlast_hang      : 1500166055\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Kaprica_Go/input -o /dev/shm/work/Kaprica_Go/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Kaprica_Go/Kaprica_Go.dict -- data/linux/processed-challenges/Kaprica_Go/bin/Kaprica_Go\n'
+p3
+I20
+tp4
+a(I240
+S'start_time     : 1500165944\nlast_update    : 1500166184\nfuzzer_pid     : 6492\ncycles_done    : 0\nexecs_done     : 219552\nexecs_per_sec  : 694.05\npaths_total    : 58\npaths_favored  : 20\npaths_found    : 57\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 4\npending_favs   : 19\npending_total  : 55\nvariable_paths : 0\nbitmap_cvg     : 0.73%\nunique_crashes : 0\nunique_hangs   : 19\nlast_path      : 1500166181\nlast_crash     : 0\nlast_hang      : 1500166148\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Kaprica_Go/input -o /dev/shm/work/Kaprica_Go/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Kaprica_Go/Kaprica_Go.dict -- data/linux/processed-challenges/Kaprica_Go/bin/Kaprica_Go\n'
+p5
+I11
+tp6
+a(I360
+S'start_time     : 1500165944\nlast_update    : 1500166304\nfuzzer_pid     : 6492\ncycles_done    : 0\nexecs_done     : 303540\nexecs_per_sec  : 715.69\npaths_total    : 67\npaths_favored  : 20\npaths_found    : 66\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 4\npending_favs   : 19\npending_total  : 64\nvariable_paths : 0\nbitmap_cvg     : 0.73%\nunique_crashes : 0\nunique_hangs   : 24\nlast_path      : 1500166297\nlast_crash     : 0\nlast_hang      : 1500166269\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Kaprica_Go/input -o /dev/shm/work/Kaprica_Go/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Kaprica_Go/Kaprica_Go.dict -- data/linux/processed-challenges/Kaprica_Go/bin/Kaprica_Go\n'
+p7
+I6
+tp8
+a(I480
+S'start_time     : 1500165944\nlast_update    : 1500166425\nfuzzer_pid     : 6492\ncycles_done    : 0\nexecs_done     : 369755\nexecs_per_sec  : 431.66\npaths_total    : 69\npaths_favored  : 27\npaths_found    : 68\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 25\npending_favs   : 22\npending_total  : 62\nvariable_paths : 0\nbitmap_cvg     : 0.73%\nunique_crashes : 0\nunique_hangs   : 34\nlast_path      : 1500166423\nlast_crash     : 0\nlast_hang      : 1500166422\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Kaprica_Go/input -o /dev/shm/work/Kaprica_Go/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Kaprica_Go/Kaprica_Go.dict -- data/linux/processed-challenges/Kaprica_Go/bin/Kaprica_Go\n'
+p9
+I4
+tp10
+a(I600
+S'start_time     : 1500165944\nlast_update    : 1500166545\nfuzzer_pid     : 6492\ncycles_done    : 0\nexecs_done     : 433517\nexecs_per_sec  : 529.68\npaths_total    : 76\npaths_favored  : 27\npaths_found    : 75\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 25\npending_favs   : 22\npending_total  : 69\nvariable_paths : 0\nbitmap_cvg     : 0.74%\nunique_crashes : 0\nunique_hangs   : 43\nlast_path      : 1500166518\nlast_crash     : 0\nlast_hang      : 1500166535\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Kaprica_Go/input -o /dev/shm/work/Kaprica_Go/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Kaprica_Go/Kaprica_Go.dict -- data/linux/processed-challenges/Kaprica_Go/bin/Kaprica_Go\n'
+p11
+I5
+tp12
+a(I720
+S'start_time     : 1500165944\nlast_update    : 1500166665\nfuzzer_pid     : 6492\ncycles_done    : 0\nexecs_done     : 498357\nexecs_per_sec  : 523.75\npaths_total    : 82\npaths_favored  : 27\npaths_found    : 81\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 25\npending_favs   : 22\npending_total  : 75\nvariable_paths : 0\nbitmap_cvg     : 0.74%\nunique_crashes : 0\nunique_hangs   : 46\nlast_path      : 1500166622\nlast_crash     : 0\nlast_hang      : 1500166568\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Kaprica_Go/input -o /dev/shm/work/Kaprica_Go/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Kaprica_Go/Kaprica_Go.dict -- data/linux/processed-challenges/Kaprica_Go/bin/Kaprica_Go\n'
+p13
+I6
+tp14
+a(I840
+S'start_time     : 1500165944\nlast_update    : 1500166785\nfuzzer_pid     : 6492\ncycles_done    : 0\nexecs_done     : 559070\nexecs_per_sec  : 540.90\npaths_total    : 85\npaths_favored  : 34\npaths_found    : 84\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 33\npending_favs   : 27\npending_total  : 76\nvariable_paths : 0\nbitmap_cvg     : 0.75%\nunique_crashes : 0\nunique_hangs   : 47\nlast_path      : 1500166782\nlast_crash     : 0\nlast_hang      : 1500166781\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Kaprica_Go/input -o /dev/shm/work/Kaprica_Go/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Kaprica_Go/Kaprica_Go.dict -- data/linux/processed-challenges/Kaprica_Go/bin/Kaprica_Go\n'
+p15
+I3
+tp16
+a(I960
+S'start_time     : 1500165944\nlast_update    : 1500166905\nfuzzer_pid     : 6492\ncycles_done    : 0\nexecs_done     : 594676\nexecs_per_sec  : 198.54\npaths_total    : 85\npaths_favored  : 34\npaths_found    : 84\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 37\npending_favs   : 25\npending_total  : 74\nvariable_paths : 0\nbitmap_cvg     : 0.75%\nunique_crashes : 0\nunique_hangs   : 47\nlast_path      : 1500166782\nlast_crash     : 0\nlast_hang      : 1500166781\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Kaprica_Go/input -o /dev/shm/work/Kaprica_Go/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Kaprica_Go/Kaprica_Go.dict -- data/linux/processed-challenges/Kaprica_Go/bin/Kaprica_Go\n'
+p17
+I0
+tp18
+a(I1080
+S'start_time     : 1500165944\nlast_update    : 1500167026\nfuzzer_pid     : 6492\ncycles_done    : 0\nexecs_done     : 636533\nexecs_per_sec  : 390.10\npaths_total    : 87\npaths_favored  : 34\npaths_found    : 86\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 44\npending_favs   : 22\npending_total  : 73\nvariable_paths : 0\nbitmap_cvg     : 0.75%\nunique_crashes : 0\nunique_hangs   : 53\nlast_path      : 1500167023\nlast_crash     : 0\nlast_hang      : 1500166948\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Kaprica_Go/input -o /dev/shm/work/Kaprica_Go/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Kaprica_Go/Kaprica_Go.dict -- data/linux/processed-challenges/Kaprica_Go/bin/Kaprica_Go\n'
+p19
+I3
+tp20
+a(I1200
+S'start_time     : 1500165944\nlast_update    : 1500167146\nfuzzer_pid     : 6492\ncycles_done    : 0\nexecs_done     : 681453\nexecs_per_sec  : 386.83\npaths_total    : 88\npaths_favored  : 34\npaths_found    : 87\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 46\npending_favs   : 20\npending_total  : 72\nvariable_paths : 0\nbitmap_cvg     : 0.75%\nunique_crashes : 0\nunique_hangs   : 53\nlast_path      : 1500167029\nlast_crash     : 0\nlast_hang      : 1500166948\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Kaprica_Go/input -o /dev/shm/work/Kaprica_Go/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Kaprica_Go/Kaprica_Go.dict -- data/linux/processed-challenges/Kaprica_Go/bin/Kaprica_Go\n'
+p21
+I0
+tp22
+a(I1320
+S'start_time     : 1500165944\nlast_update    : 1500167266\nfuzzer_pid     : 6492\ncycles_done    : 0\nexecs_done     : 724974\nexecs_per_sec  : 48.32\npaths_total    : 88\npaths_favored  : 34\npaths_found    : 87\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 50\npending_favs   : 19\npending_total  : 71\nvariable_paths : 0\nbitmap_cvg     : 0.75%\nunique_crashes : 0\nunique_hangs   : 53\nlast_path      : 1500167029\nlast_crash     : 0\nlast_hang      : 1500166948\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Kaprica_Go/input -o /dev/shm/work/Kaprica_Go/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Kaprica_Go/Kaprica_Go.dict -- data/linux/processed-challenges/Kaprica_Go/bin/Kaprica_Go\n'
+p23
+I0
+tp24
+a(I1440
+S'start_time     : 1500165944\nlast_update    : 1500167386\nfuzzer_pid     : 6492\ncycles_done    : 0\nexecs_done     : 758218\nexecs_per_sec  : 415.63\npaths_total    : 88\npaths_favored  : 34\npaths_found    : 87\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 54\npending_favs   : 17\npending_total  : 69\nvariable_paths : 0\nbitmap_cvg     : 0.75%\nunique_crashes : 0\nunique_hangs   : 55\nlast_path      : 1500167029\nlast_crash     : 0\nlast_hang      : 1500167329\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Kaprica_Go/input -o /dev/shm/work/Kaprica_Go/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Kaprica_Go/Kaprica_Go.dict -- data/linux/processed-challenges/Kaprica_Go/bin/Kaprica_Go\n'
+p25
+I0
+tp26
+a(I1560
+S'start_time     : 1500165944\nlast_update    : 1500167507\nfuzzer_pid     : 6492\ncycles_done    : 0\nexecs_done     : 809364\nexecs_per_sec  : 438.63\npaths_total    : 90\npaths_favored  : 34\npaths_found    : 89\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 56\npending_favs   : 15\npending_total  : 69\nvariable_paths : 0\nbitmap_cvg     : 0.75%\nunique_crashes : 0\nunique_hangs   : 57\nlast_path      : 1500167476\nlast_crash     : 0\nlast_hang      : 1500167505\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Kaprica_Go/input -o /dev/shm/work/Kaprica_Go/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Kaprica_Go/Kaprica_Go.dict -- data/linux/processed-challenges/Kaprica_Go/bin/Kaprica_Go\n'
+p27
+I2
+tp28
+a(I1680
+S'start_time     : 1500165944\nlast_update    : 1500167627\nfuzzer_pid     : 6492\ncycles_done    : 0\nexecs_done     : 844420\nexecs_per_sec  : 398.75\npaths_total    : 91\npaths_favored  : 35\npaths_found    : 90\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 62\npending_favs   : 13\npending_total  : 67\nvariable_paths : 0\nbitmap_cvg     : 0.75%\nunique_crashes : 0\nunique_hangs   : 57\nlast_path      : 1500167577\nlast_crash     : 0\nlast_hang      : 1500167505\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Kaprica_Go/input -o /dev/shm/work/Kaprica_Go/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Kaprica_Go/Kaprica_Go.dict -- data/linux/processed-challenges/Kaprica_Go/bin/Kaprica_Go\n'
+p29
+I1
+tp30
+a(I1800
+S'start_time     : 1500165944\nlast_update    : 1500167747\nfuzzer_pid     : 6492\ncycles_done    : 0\nexecs_done     : 882703\nexecs_per_sec  : 311.12\npaths_total    : 92\npaths_favored  : 36\npaths_found    : 91\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 70\npending_favs   : 12\npending_total  : 66\nvariable_paths : 0\nbitmap_cvg     : 0.75%\nunique_crashes : 0\nunique_hangs   : 58\nlast_path      : 1500167734\nlast_crash     : 0\nlast_hang      : 1500167738\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Kaprica_Go/input -o /dev/shm/work/Kaprica_Go/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Kaprica_Go/Kaprica_Go.dict -- data/linux/processed-challenges/Kaprica_Go/bin/Kaprica_Go\n'
+p31
+I1
+tp32
+a(I1920
+S'start_time     : 1500165944\nlast_update    : 1500167867\nfuzzer_pid     : 6492\ncycles_done    : 0\nexecs_done     : 914223\nexecs_per_sec  : 287.92\npaths_total    : 92\npaths_favored  : 36\npaths_found    : 91\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 72\npending_favs   : 11\npending_total  : 65\nvariable_paths : 0\nbitmap_cvg     : 0.75%\nunique_crashes : 0\nunique_hangs   : 59\nlast_path      : 1500167734\nlast_crash     : 0\nlast_hang      : 1500167864\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Kaprica_Go/input -o /dev/shm/work/Kaprica_Go/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Kaprica_Go/Kaprica_Go.dict -- data/linux/processed-challenges/Kaprica_Go/bin/Kaprica_Go\n'
+p33
+I0
+tp34
+a(I2040
+S'start_time     : 1500165944\nlast_update    : 1500167987\nfuzzer_pid     : 6492\ncycles_done    : 0\nexecs_done     : 949426\nexecs_per_sec  : 150.07\npaths_total    : 92\npaths_favored  : 36\npaths_found    : 91\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 76\npending_favs   : 9\npending_total  : 63\nvariable_paths : 0\nbitmap_cvg     : 0.75%\nunique_crashes : 0\nunique_hangs   : 61\nlast_path      : 1500167734\nlast_crash     : 0\nlast_hang      : 1500167918\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Kaprica_Go/input -o /dev/shm/work/Kaprica_Go/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Kaprica_Go/Kaprica_Go.dict -- data/linux/processed-challenges/Kaprica_Go/bin/Kaprica_Go\n'
+p35
+I0
+tp36
+a(I2160
+S'start_time     : 1500165944\nlast_update    : 1500168108\nfuzzer_pid     : 6492\ncycles_done    : 0\nexecs_done     : 982323\nexecs_per_sec  : 97.89\npaths_total    : 92\npaths_favored  : 36\npaths_found    : 91\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 79\npending_favs   : 7\npending_total  : 61\nvariable_paths : 0\nbitmap_cvg     : 0.75%\nunique_crashes : 0\nunique_hangs   : 61\nlast_path      : 1500167734\nlast_crash     : 0\nlast_hang      : 1500167918\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Kaprica_Go/input -o /dev/shm/work/Kaprica_Go/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Kaprica_Go/Kaprica_Go.dict -- data/linux/processed-challenges/Kaprica_Go/bin/Kaprica_Go\n'
+p37
+I0
+tp38
+a(I2280
+S'start_time     : 1500165944\nlast_update    : 1500168228\nfuzzer_pid     : 6492\ncycles_done    : 0\nexecs_done     : 1002989\nexecs_per_sec  : 75.59\npaths_total    : 92\npaths_favored  : 36\npaths_found    : 91\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 81\npending_favs   : 6\npending_total  : 60\nvariable_paths : 0\nbitmap_cvg     : 0.75%\nunique_crashes : 0\nunique_hangs   : 61\nlast_path      : 1500167734\nlast_crash     : 0\nlast_hang      : 1500167918\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Kaprica_Go/input -o /dev/shm/work/Kaprica_Go/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Kaprica_Go/Kaprica_Go.dict -- data/linux/processed-challenges/Kaprica_Go/bin/Kaprica_Go\n'
+p39
+I0
+tp40
+a(I2400
+S'start_time     : 1500165944\nlast_update    : 1500168348\nfuzzer_pid     : 6492\ncycles_done    : 0\nexecs_done     : 1021005\nexecs_per_sec  : 170.28\npaths_total    : 97\npaths_favored  : 36\npaths_found    : 96\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 81\npending_favs   : 6\npending_total  : 65\nvariable_paths : 0\nbitmap_cvg     : 0.75%\nunique_crashes : 0\nunique_hangs   : 61\nlast_path      : 1500168293\nlast_crash     : 0\nlast_hang      : 1500167918\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Kaprica_Go/input -o /dev/shm/work/Kaprica_Go/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Kaprica_Go/Kaprica_Go.dict -- data/linux/processed-challenges/Kaprica_Go/bin/Kaprica_Go\n'
+p41
+I5
+tp42
+a(I2520
+S'start_time     : 1500165944\nlast_update    : 1500168468\nfuzzer_pid     : 6492\ncycles_done    : 0\nexecs_done     : 1040442\nexecs_per_sec  : 153.66\npaths_total    : 97\npaths_favored  : 36\npaths_found    : 96\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 81\npending_favs   : 6\npending_total  : 65\nvariable_paths : 0\nbitmap_cvg     : 0.75%\nunique_crashes : 0\nunique_hangs   : 61\nlast_path      : 1500168293\nlast_crash     : 0\nlast_hang      : 1500167918\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Kaprica_Go/input -o /dev/shm/work/Kaprica_Go/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Kaprica_Go/Kaprica_Go.dict -- data/linux/processed-challenges/Kaprica_Go/bin/Kaprica_Go\n'
+p43
+I0
+tp44
+a(I2640
+S'start_time     : 1500165944\nlast_update    : 1500168588\nfuzzer_pid     : 6492\ncycles_done    : 0\nexecs_done     : 1060615\nexecs_per_sec  : 177.61\npaths_total    : 98\npaths_favored  : 36\npaths_found    : 97\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 81\npending_favs   : 6\npending_total  : 66\nvariable_paths : 0\nbitmap_cvg     : 0.75%\nunique_crashes : 0\nunique_hangs   : 61\nlast_path      : 1500168536\nlast_crash     : 0\nlast_hang      : 1500167918\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Kaprica_Go/input -o /dev/shm/work/Kaprica_Go/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Kaprica_Go/Kaprica_Go.dict -- data/linux/processed-challenges/Kaprica_Go/bin/Kaprica_Go\n'
+p45
+I1
+tp46
+a(I2760
+S'start_time     : 1500165944\nlast_update    : 1500168709\nfuzzer_pid     : 6492\ncycles_done    : 0\nexecs_done     : 1080148\nexecs_per_sec  : 163.42\npaths_total    : 98\npaths_favored  : 36\npaths_found    : 97\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 81\npending_favs   : 6\npending_total  : 66\nvariable_paths : 0\nbitmap_cvg     : 0.75%\nunique_crashes : 0\nunique_hangs   : 61\nlast_path      : 1500168536\nlast_crash     : 0\nlast_hang      : 1500167918\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Kaprica_Go/input -o /dev/shm/work/Kaprica_Go/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Kaprica_Go/Kaprica_Go.dict -- data/linux/processed-challenges/Kaprica_Go/bin/Kaprica_Go\n'
+p47
+I0
+tp48
+a(I2880
+S'start_time     : 1500165944\nlast_update    : 1500168829\nfuzzer_pid     : 6492\ncycles_done    : 0\nexecs_done     : 1100185\nexecs_per_sec  : 165.15\npaths_total    : 98\npaths_favored  : 36\npaths_found    : 97\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 81\npending_favs   : 6\npending_total  : 66\nvariable_paths : 0\nbitmap_cvg     : 0.75%\nunique_crashes : 0\nunique_hangs   : 61\nlast_path      : 1500168536\nlast_crash     : 0\nlast_hang      : 1500167918\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Kaprica_Go/input -o /dev/shm/work/Kaprica_Go/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Kaprica_Go/Kaprica_Go.dict -- data/linux/processed-challenges/Kaprica_Go/bin/Kaprica_Go\n'
+p49
+I0
+tp50
+a(I3000
+S'start_time     : 1500165944\nlast_update    : 1500168949\nfuzzer_pid     : 6492\ncycles_done    : 0\nexecs_done     : 1120252\nexecs_per_sec  : 160.98\npaths_total    : 98\npaths_favored  : 36\npaths_found    : 97\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 81\npending_favs   : 6\npending_total  : 66\nvariable_paths : 0\nbitmap_cvg     : 0.75%\nunique_crashes : 0\nunique_hangs   : 61\nlast_path      : 1500168536\nlast_crash     : 0\nlast_hang      : 1500167918\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Kaprica_Go/input -o /dev/shm/work/Kaprica_Go/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Kaprica_Go/Kaprica_Go.dict -- data/linux/processed-challenges/Kaprica_Go/bin/Kaprica_Go\n'
+p51
+I0
+tp52
+a(I3120
+S'start_time     : 1500165944\nlast_update    : 1500169069\nfuzzer_pid     : 6492\ncycles_done    : 0\nexecs_done     : 1140206\nexecs_per_sec  : 160.22\npaths_total    : 99\npaths_favored  : 36\npaths_found    : 98\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 81\npending_favs   : 6\npending_total  : 67\nvariable_paths : 0\nbitmap_cvg     : 0.75%\nunique_crashes : 0\nunique_hangs   : 61\nlast_path      : 1500168974\nlast_crash     : 0\nlast_hang      : 1500167918\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Kaprica_Go/input -o /dev/shm/work/Kaprica_Go/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Kaprica_Go/Kaprica_Go.dict -- data/linux/processed-challenges/Kaprica_Go/bin/Kaprica_Go\n'
+p53
+I1
+tp54
+a(I3240
+S'start_time     : 1500165944\nlast_update    : 1500169189\nfuzzer_pid     : 6492\ncycles_done    : 0\nexecs_done     : 1159706\nexecs_per_sec  : 154.37\npaths_total    : 99\npaths_favored  : 36\npaths_found    : 98\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 81\npending_favs   : 6\npending_total  : 67\nvariable_paths : 0\nbitmap_cvg     : 0.75%\nunique_crashes : 0\nunique_hangs   : 61\nlast_path      : 1500168974\nlast_crash     : 0\nlast_hang      : 1500167918\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Kaprica_Go/input -o /dev/shm/work/Kaprica_Go/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Kaprica_Go/Kaprica_Go.dict -- data/linux/processed-challenges/Kaprica_Go/bin/Kaprica_Go\n'
+p55
+I0
+tp56
+a(I3360
+S'start_time     : 1500165944\nlast_update    : 1500169310\nfuzzer_pid     : 6492\ncycles_done    : 0\nexecs_done     : 1191985\nexecs_per_sec  : 239.74\npaths_total    : 99\npaths_favored  : 36\npaths_found    : 98\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 86\npending_favs   : 5\npending_total  : 65\nvariable_paths : 0\nbitmap_cvg     : 0.75%\nunique_crashes : 0\nunique_hangs   : 61\nlast_path      : 1500168974\nlast_crash     : 0\nlast_hang      : 1500167918\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Kaprica_Go/input -o /dev/shm/work/Kaprica_Go/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Kaprica_Go/Kaprica_Go.dict -- data/linux/processed-challenges/Kaprica_Go/bin/Kaprica_Go\n'
+p57
+I1
+tp58
+a(I3480
+S'start_time     : 1500165944\nlast_update    : 1500169430\nfuzzer_pid     : 6492\ncycles_done    : 0\nexecs_done     : 1226835\nexecs_per_sec  : 382.39\npaths_total    : 101\npaths_favored  : 36\npaths_found    : 100\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 89\npending_favs   : 4\npending_total  : 66\nvariable_paths : 0\nbitmap_cvg     : 0.75%\nunique_crashes : 0\nunique_hangs   : 61\nlast_path      : 1500169312\nlast_crash     : 0\nlast_hang      : 1500167918\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Kaprica_Go/input -o /dev/shm/work/Kaprica_Go/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Kaprica_Go/Kaprica_Go.dict -- data/linux/processed-challenges/Kaprica_Go/bin/Kaprica_Go\n'
+p59
+I1
+tp60
+a(I3600
+S'start_time     : 1500165944\nlast_update    : 1500169550\nfuzzer_pid     : 6492\ncycles_done    : 0\nexecs_done     : 1263007\nexecs_per_sec  : 154.66\npaths_total    : 101\npaths_favored  : 36\npaths_found    : 100\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 90\npending_favs   : 3\npending_total  : 65\nvariable_paths : 0\nbitmap_cvg     : 0.75%\nunique_crashes : 0\nunique_hangs   : 61\nlast_path      : 1500169312\nlast_crash     : 0\nlast_hang      : 1500167918\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Kaprica_Go/input -o /dev/shm/work/Kaprica_Go/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Kaprica_Go/Kaprica_Go.dict -- data/linux/processed-challenges/Kaprica_Go/bin/Kaprica_Go\n'
+p61
+I0
+tp62
+a(I3720
+S'start_time     : 1500165944\nlast_update    : 1500169670\nfuzzer_pid     : 6492\ncycles_done    : 0\nexecs_done     : 1295322\nexecs_per_sec  : 252.08\npaths_total    : 101\npaths_favored  : 36\npaths_found    : 100\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 91\npending_favs   : 2\npending_total  : 64\nvariable_paths : 0\nbitmap_cvg     : 0.75%\nunique_crashes : 0\nunique_hangs   : 61\nlast_path      : 1500169312\nlast_crash     : 0\nlast_hang      : 1500167918\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Kaprica_Go/input -o /dev/shm/work/Kaprica_Go/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Kaprica_Go/Kaprica_Go.dict -- data/linux/processed-challenges/Kaprica_Go/bin/Kaprica_Go\n'
+p63
+I0
+tp64
+a(I3840
+S'start_time     : 1500165944\nlast_update    : 1500169790\nfuzzer_pid     : 6492\ncycles_done    : 1\nexecs_done     : 1330723\nexecs_per_sec  : 598.94\npaths_total    : 101\npaths_favored  : 36\npaths_found    : 100\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 8\npending_favs   : 0\npending_total  : 62\nvariable_paths : 0\nbitmap_cvg     : 0.75%\nunique_crashes : 0\nunique_hangs   : 61\nlast_path      : 1500169312\nlast_crash     : 0\nlast_hang      : 1500167918\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Kaprica_Go/input -o /dev/shm/work/Kaprica_Go/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Kaprica_Go/Kaprica_Go.dict -- data/linux/processed-challenges/Kaprica_Go/bin/Kaprica_Go\n'
+p65
+I0
+tp66
+a(I3960
+S'start_time     : 1500165944\nlast_update    : 1500169911\nfuzzer_pid     : 6492\ncycles_done    : 1\nexecs_done     : 1394960\nexecs_per_sec  : 418.77\npaths_total    : 101\npaths_favored  : 36\npaths_found    : 100\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 27\npending_favs   : 0\npending_total  : 56\nvariable_paths : 0\nbitmap_cvg     : 0.75%\nunique_crashes : 0\nunique_hangs   : 61\nlast_path      : 1500169312\nlast_crash     : 0\nlast_hang      : 1500167918\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Kaprica_Go/input -o /dev/shm/work/Kaprica_Go/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Kaprica_Go/Kaprica_Go.dict -- data/linux/processed-challenges/Kaprica_Go/bin/Kaprica_Go\n'
+p67
+I0
+tp68
+a(I4080
+S'start_time     : 1500165944\nlast_update    : 1500170031\nfuzzer_pid     : 6492\ncycles_done    : 1\nexecs_done     : 1442297\nexecs_per_sec  : 392.71\npaths_total    : 102\npaths_favored  : 36\npaths_found    : 101\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 31\npending_favs   : 0\npending_total  : 55\nvariable_paths : 0\nbitmap_cvg     : 0.75%\nunique_crashes : 0\nunique_hangs   : 61\nlast_path      : 1500169943\nlast_crash     : 0\nlast_hang      : 1500167918\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Kaprica_Go/input -o /dev/shm/work/Kaprica_Go/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Kaprica_Go/Kaprica_Go.dict -- data/linux/processed-challenges/Kaprica_Go/bin/Kaprica_Go\n'
+p69
+I1
+tp70
+a(I4200
+S'start_time     : 1500165944\nlast_update    : 1500170151\nfuzzer_pid     : 6492\ncycles_done    : 1\nexecs_done     : 1492756\nexecs_per_sec  : 385.08\npaths_total    : 102\npaths_favored  : 36\npaths_found    : 101\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 45\npending_favs   : 0\npending_total  : 54\nvariable_paths : 0\nbitmap_cvg     : 0.75%\nunique_crashes : 0\nunique_hangs   : 61\nlast_path      : 1500169943\nlast_crash     : 0\nlast_hang      : 1500167918\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Kaprica_Go/input -o /dev/shm/work/Kaprica_Go/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Kaprica_Go/Kaprica_Go.dict -- data/linux/processed-challenges/Kaprica_Go/bin/Kaprica_Go\n'
+p71
+I0
+tp72
+a(I4320
+S'start_time     : 1500165944\nlast_update    : 1500170271\nfuzzer_pid     : 6492\ncycles_done    : 1\nexecs_done     : 1540134\nexecs_per_sec  : 360.55\npaths_total    : 104\npaths_favored  : 36\npaths_found    : 103\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 49\npending_favs   : 0\npending_total  : 55\nvariable_paths : 0\nbitmap_cvg     : 0.75%\nunique_crashes : 0\nunique_hangs   : 62\nlast_path      : 1500170226\nlast_crash     : 0\nlast_hang      : 1500170230\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Kaprica_Go/input -o /dev/shm/work/Kaprica_Go/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Kaprica_Go/Kaprica_Go.dict -- data/linux/processed-challenges/Kaprica_Go/bin/Kaprica_Go\n'
+p73
+I2
+tp74
+a(I4440
+S'start_time     : 1500165944\nlast_update    : 1500170391\nfuzzer_pid     : 6492\ncycles_done    : 1\nexecs_done     : 1578252\nexecs_per_sec  : 309.93\npaths_total    : 106\npaths_favored  : 36\npaths_found    : 105\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 49\npending_favs   : 0\npending_total  : 57\nvariable_paths : 0\nbitmap_cvg     : 0.75%\nunique_crashes : 0\nunique_hangs   : 62\nlast_path      : 1500170337\nlast_crash     : 0\nlast_hang      : 1500170230\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Kaprica_Go/input -o /dev/shm/work/Kaprica_Go/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Kaprica_Go/Kaprica_Go.dict -- data/linux/processed-challenges/Kaprica_Go/bin/Kaprica_Go\n'
+p75
+I2
+tp76
+a(I4560
+S'start_time     : 1500165944\nlast_update    : 1500170512\nfuzzer_pid     : 6492\ncycles_done    : 1\nexecs_done     : 1609611\nexecs_per_sec  : 263.83\npaths_total    : 107\npaths_favored  : 36\npaths_found    : 106\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 53\npending_favs   : 0\npending_total  : 57\nvariable_paths : 0\nbitmap_cvg     : 0.75%\nunique_crashes : 0\nunique_hangs   : 62\nlast_path      : 1500170510\nlast_crash     : 0\nlast_hang      : 1500170230\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Kaprica_Go/input -o /dev/shm/work/Kaprica_Go/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Kaprica_Go/Kaprica_Go.dict -- data/linux/processed-challenges/Kaprica_Go/bin/Kaprica_Go\n'
+p77
+I1
+tp78
+a(I4680
+S'start_time     : 1500165944\nlast_update    : 1500170632\nfuzzer_pid     : 6492\ncycles_done    : 1\nexecs_done     : 1648787\nexecs_per_sec  : 252.89\npaths_total    : 108\npaths_favored  : 36\npaths_found    : 107\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 60\npending_favs   : 0\npending_total  : 57\nvariable_paths : 0\nbitmap_cvg     : 0.75%\nunique_crashes : 0\nunique_hangs   : 62\nlast_path      : 1500170514\nlast_crash     : 0\nlast_hang      : 1500170230\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Kaprica_Go/input -o /dev/shm/work/Kaprica_Go/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Kaprica_Go/Kaprica_Go.dict -- data/linux/processed-challenges/Kaprica_Go/bin/Kaprica_Go\n'
+p79
+I1
+tp80
+a(I4800
+S'start_time     : 1500165944\nlast_update    : 1500170752\nfuzzer_pid     : 6492\ncycles_done    : 1\nexecs_done     : 1687689\nexecs_per_sec  : 373.99\npaths_total    : 108\npaths_favored  : 36\npaths_found    : 107\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 64\npending_favs   : 0\npending_total  : 56\nvariable_paths : 0\nbitmap_cvg     : 0.75%\nunique_crashes : 0\nunique_hangs   : 62\nlast_path      : 1500170514\nlast_crash     : 0\nlast_hang      : 1500170230\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Kaprica_Go/input -o /dev/shm/work/Kaprica_Go/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Kaprica_Go/Kaprica_Go.dict -- data/linux/processed-challenges/Kaprica_Go/bin/Kaprica_Go\n'
+p81
+I0
+tp82
+a(I4920
+S'start_time     : 1500165944\nlast_update    : 1500170872\nfuzzer_pid     : 6492\ncycles_done    : 1\nexecs_done     : 1730901\nexecs_per_sec  : 379.38\npaths_total    : 108\npaths_favored  : 36\npaths_found    : 107\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 75\npending_favs   : 0\npending_total  : 55\nvariable_paths : 0\nbitmap_cvg     : 0.75%\nunique_crashes : 0\nunique_hangs   : 62\nlast_path      : 1500170514\nlast_crash     : 0\nlast_hang      : 1500170230\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Kaprica_Go/input -o /dev/shm/work/Kaprica_Go/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Kaprica_Go/Kaprica_Go.dict -- data/linux/processed-challenges/Kaprica_Go/bin/Kaprica_Go\n'
+p83
+I0
+tp84
+a(I5040
+S'start_time     : 1500165944\nlast_update    : 1500170993\nfuzzer_pid     : 6492\ncycles_done    : 1\nexecs_done     : 1768815\nexecs_per_sec  : 381.19\npaths_total    : 109\npaths_favored  : 36\npaths_found    : 108\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 82\npending_favs   : 0\npending_total  : 55\nvariable_paths : 0\nbitmap_cvg     : 0.75%\nunique_crashes : 0\nunique_hangs   : 63\nlast_path      : 1500170894\nlast_crash     : 0\nlast_hang      : 1500170922\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Kaprica_Go/input -o /dev/shm/work/Kaprica_Go/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Kaprica_Go/Kaprica_Go.dict -- data/linux/processed-challenges/Kaprica_Go/bin/Kaprica_Go\n'
+p85
+I1
+tp86
+a(I5160
+S'start_time     : 1500165944\nlast_update    : 1500171113\nfuzzer_pid     : 6492\ncycles_done    : 1\nexecs_done     : 1812883\nexecs_per_sec  : 318.01\npaths_total    : 109\npaths_favored  : 36\npaths_found    : 108\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 90\npending_favs   : 0\npending_total  : 54\nvariable_paths : 0\nbitmap_cvg     : 0.75%\nunique_crashes : 0\nunique_hangs   : 63\nlast_path      : 1500170894\nlast_crash     : 0\nlast_hang      : 1500170922\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Kaprica_Go/input -o /dev/shm/work/Kaprica_Go/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Kaprica_Go/Kaprica_Go.dict -- data/linux/processed-challenges/Kaprica_Go/bin/Kaprica_Go\n'
+p87
+I0
+tp88
+a(I5280
+S'start_time     : 1500165944\nlast_update    : 1500171233\nfuzzer_pid     : 6492\ncycles_done    : 1\nexecs_done     : 1845263\nexecs_per_sec  : 82.53\npaths_total    : 109\npaths_favored  : 36\npaths_found    : 108\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 98\npending_favs   : 0\npending_total  : 54\nvariable_paths : 0\nbitmap_cvg     : 0.75%\nunique_crashes : 0\nunique_hangs   : 63\nlast_path      : 1500170894\nlast_crash     : 0\nlast_hang      : 1500170922\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Kaprica_Go/input -o /dev/shm/work/Kaprica_Go/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Kaprica_Go/Kaprica_Go.dict -- data/linux/processed-challenges/Kaprica_Go/bin/Kaprica_Go\n'
+p89
+I0
+tp90
+a(I5400
+S'start_time     : 1500165944\nlast_update    : 1500171353\nfuzzer_pid     : 6492\ncycles_done    : 1\nexecs_done     : 1861924\nexecs_per_sec  : 125.39\npaths_total    : 109\npaths_favored  : 36\npaths_found    : 108\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 98\npending_favs   : 0\npending_total  : 54\nvariable_paths : 0\nbitmap_cvg     : 0.75%\nunique_crashes : 0\nunique_hangs   : 63\nlast_path      : 1500170894\nlast_crash     : 0\nlast_hang      : 1500170922\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Kaprica_Go/input -o /dev/shm/work/Kaprica_Go/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Kaprica_Go/Kaprica_Go.dict -- data/linux/processed-challenges/Kaprica_Go/bin/Kaprica_Go\n'
+p91
+I0
+tp92
+a(I5520
+S'start_time     : 1500165944\nlast_update    : 1500171473\nfuzzer_pid     : 6492\ncycles_done    : 1\nexecs_done     : 1895140\nexecs_per_sec  : 48.19\npaths_total    : 110\npaths_favored  : 36\npaths_found    : 109\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 104\npending_favs   : 0\npending_total  : 54\nvariable_paths : 0\nbitmap_cvg     : 0.75%\nunique_crashes : 0\nunique_hangs   : 63\nlast_path      : 1500171370\nlast_crash     : 0\nlast_hang      : 1500170922\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Kaprica_Go/input -o /dev/shm/work/Kaprica_Go/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Kaprica_Go/Kaprica_Go.dict -- data/linux/processed-challenges/Kaprica_Go/bin/Kaprica_Go\n'
+p93
+I1
+tp94
+a(I5640
+S'start_time     : 1500165944\nlast_update    : 1500171533\nfuzzer_pid     : 6492\ncycles_done    : 1\nexecs_done     : 1912553\nexecs_per_sec  : 298.85\npaths_total    : 110\npaths_favored  : 36\npaths_found    : 109\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 104\npending_favs   : 0\npending_total  : 54\nvariable_paths : 0\nbitmap_cvg     : 0.75%\nunique_crashes : 0\nunique_hangs   : 63\nlast_path      : 1500171370\nlast_crash     : 0\nlast_hang      : 1500170922\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Kaprica_Go/input -o /dev/shm/work/Kaprica_Go/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Kaprica_Go/Kaprica_Go.dict -- data/linux/processed-challenges/Kaprica_Go/bin/Kaprica_Go\n'
+p95
+I1
+tp96
+a(I5760
+S'start_time     : 1500165944\nlast_update    : 1500171654\nfuzzer_pid     : 6492\ncycles_done    : 1\nexecs_done     : 1946562\nexecs_per_sec  : 291.96\npaths_total    : 111\npaths_favored  : 36\npaths_found    : 110\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 108\npending_favs   : 0\npending_total  : 54\nvariable_paths : 0\nbitmap_cvg     : 0.75%\nunique_crashes : 0\nunique_hangs   : 63\nlast_path      : 1500171584\nlast_crash     : 0\nlast_hang      : 1500170922\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Kaprica_Go/input -o /dev/shm/work/Kaprica_Go/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Kaprica_Go/Kaprica_Go.dict -- data/linux/processed-challenges/Kaprica_Go/bin/Kaprica_Go\n'
+p97
+I0
+tp98
+a(I5880
+S'start_time     : 1500165944\nlast_update    : 1500171774\nfuzzer_pid     : 6492\ncycles_done    : 1\nexecs_done     : 1984008\nexecs_per_sec  : 314.23\npaths_total    : 111\npaths_favored  : 36\npaths_found    : 110\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 108\npending_favs   : 0\npending_total  : 54\nvariable_paths : 0\nbitmap_cvg     : 0.75%\nunique_crashes : 0\nunique_hangs   : 63\nlast_path      : 1500171584\nlast_crash     : 0\nlast_hang      : 1500170922\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Kaprica_Go/input -o /dev/shm/work/Kaprica_Go/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Kaprica_Go/Kaprica_Go.dict -- data/linux/processed-challenges/Kaprica_Go/bin/Kaprica_Go\n'
+p99
+I0
+tp100
+a(I6000
+S'start_time     : 1500165944\nlast_update    : 1500171894\nfuzzer_pid     : 6492\ncycles_done    : 1\nexecs_done     : 2018671\nexecs_per_sec  : 288.90\npaths_total    : 111\npaths_favored  : 36\npaths_found    : 110\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 108\npending_favs   : 0\npending_total  : 54\nvariable_paths : 0\nbitmap_cvg     : 0.75%\nunique_crashes : 0\nunique_hangs   : 63\nlast_path      : 1500171584\nlast_crash     : 0\nlast_hang      : 1500170922\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Kaprica_Go/input -o /dev/shm/work/Kaprica_Go/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Kaprica_Go/Kaprica_Go.dict -- data/linux/processed-challenges/Kaprica_Go/bin/Kaprica_Go\n'
+p101
+I0
+tp102
+a(I6120
+S'start_time     : 1500165944\nlast_update    : 1500172014\nfuzzer_pid     : 6492\ncycles_done    : 1\nexecs_done     : 2055160\nexecs_per_sec  : 298.39\npaths_total    : 111\npaths_favored  : 36\npaths_found    : 110\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 109\npending_favs   : 0\npending_total  : 53\nvariable_paths : 0\nbitmap_cvg     : 0.75%\nunique_crashes : 0\nunique_hangs   : 63\nlast_path      : 1500171584\nlast_crash     : 0\nlast_hang      : 1500170922\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Kaprica_Go/input -o /dev/shm/work/Kaprica_Go/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Kaprica_Go/Kaprica_Go.dict -- data/linux/processed-challenges/Kaprica_Go/bin/Kaprica_Go\n'
+p103
+I0
+tp104
+a(I6240
+S'start_time     : 1500165944\nlast_update    : 1500172134\nfuzzer_pid     : 6492\ncycles_done    : 1\nexecs_done     : 2089059\nexecs_per_sec  : 288.44\npaths_total    : 111\npaths_favored  : 36\npaths_found    : 110\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 109\npending_favs   : 0\npending_total  : 53\nvariable_paths : 0\nbitmap_cvg     : 0.75%\nunique_crashes : 0\nunique_hangs   : 63\nlast_path      : 1500171584\nlast_crash     : 0\nlast_hang      : 1500170922\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Kaprica_Go/input -o /dev/shm/work/Kaprica_Go/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Kaprica_Go/Kaprica_Go.dict -- data/linux/processed-challenges/Kaprica_Go/bin/Kaprica_Go\n'
+p105
+I1
+tp106
+a(I6360
+S'start_time     : 1500165944\nlast_update    : 1500172255\nfuzzer_pid     : 6492\ncycles_done    : 1\nexecs_done     : 2124218\nexecs_per_sec  : 303.89\npaths_total    : 112\npaths_favored  : 36\npaths_found    : 111\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 109\npending_favs   : 0\npending_total  : 54\nvariable_paths : 0\nbitmap_cvg     : 0.75%\nunique_crashes : 0\nunique_hangs   : 63\nlast_path      : 1500172144\nlast_crash     : 0\nlast_hang      : 1500170922\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Kaprica_Go/input -o /dev/shm/work/Kaprica_Go/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Kaprica_Go/Kaprica_Go.dict -- data/linux/processed-challenges/Kaprica_Go/bin/Kaprica_Go\n'
+p107
+I0
+tp108
+a(I6480
+S'start_time     : 1500165944\nlast_update    : 1500172375\nfuzzer_pid     : 6492\ncycles_done    : 2\nexecs_done     : 2187721\nexecs_per_sec  : 345.40\npaths_total    : 112\npaths_favored  : 36\npaths_found    : 111\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 22\npending_favs   : 0\npending_total  : 51\nvariable_paths : 0\nbitmap_cvg     : 0.75%\nunique_crashes : 0\nunique_hangs   : 63\nlast_path      : 1500172144\nlast_crash     : 0\nlast_hang      : 1500170922\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Kaprica_Go/input -o /dev/shm/work/Kaprica_Go/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Kaprica_Go/Kaprica_Go.dict -- data/linux/processed-challenges/Kaprica_Go/bin/Kaprica_Go\n'
+p109
+I0
+tp110
+a(I6600
+S'start_time     : 1500165944\nlast_update    : 1500172495\nfuzzer_pid     : 6492\ncycles_done    : 2\nexecs_done     : 2238847\nexecs_per_sec  : 343.15\npaths_total    : 112\npaths_favored  : 36\npaths_found    : 111\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 37\npending_favs   : 0\npending_total  : 49\nvariable_paths : 0\nbitmap_cvg     : 0.75%\nunique_crashes : 0\nunique_hangs   : 63\nlast_path      : 1500172144\nlast_crash     : 0\nlast_hang      : 1500170922\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Kaprica_Go/input -o /dev/shm/work/Kaprica_Go/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Kaprica_Go/Kaprica_Go.dict -- data/linux/processed-challenges/Kaprica_Go/bin/Kaprica_Go\n'
+p111
+I0
+tp112
+a(I6720
+S'start_time     : 1500165944\nlast_update    : 1500172615\nfuzzer_pid     : 6492\ncycles_done    : 2\nexecs_done     : 2287912\nexecs_per_sec  : 341.88\npaths_total    : 112\npaths_favored  : 36\npaths_found    : 111\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 49\npending_favs   : 0\npending_total  : 48\nvariable_paths : 0\nbitmap_cvg     : 0.75%\nunique_crashes : 0\nunique_hangs   : 63\nlast_path      : 1500172144\nlast_crash     : 0\nlast_hang      : 1500170922\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Kaprica_Go/input -o /dev/shm/work/Kaprica_Go/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Kaprica_Go/Kaprica_Go.dict -- data/linux/processed-challenges/Kaprica_Go/bin/Kaprica_Go\n'
+p113
+I0
+tp114
+a(I6840
+S'start_time     : 1500165944\nlast_update    : 1500172736\nfuzzer_pid     : 6492\ncycles_done    : 2\nexecs_done     : 2324587\nexecs_per_sec  : 193.70\npaths_total    : 116\npaths_favored  : 33\npaths_found    : 115\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 112\npending_favs   : 1\npending_total  : 52\nvariable_paths : 0\nbitmap_cvg     : 0.91%\nunique_crashes : 0\nunique_hangs   : 65\nlast_path      : 1500172729\nlast_crash     : 0\nlast_hang      : 1500172730\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Kaprica_Go/input -o /dev/shm/work/Kaprica_Go/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Kaprica_Go/Kaprica_Go.dict -- data/linux/processed-challenges/Kaprica_Go/bin/Kaprica_Go\n'
+p115
+I6
+tp116
+a(I6960
+S'start_time     : 1500165944\nlast_update    : 1500172856\nfuzzer_pid     : 6492\ncycles_done    : 3\nexecs_done     : 2368691\nexecs_per_sec  : 600.10\npaths_total    : 118\npaths_favored  : 33\npaths_found    : 117\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 17\npending_favs   : 0\npending_total  : 49\nvariable_paths : 0\nbitmap_cvg     : 0.91%\nunique_crashes : 0\nunique_hangs   : 66\nlast_path      : 1500172751\nlast_crash     : 0\nlast_hang      : 1500172746\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Kaprica_Go/input -o /dev/shm/work/Kaprica_Go/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Kaprica_Go/Kaprica_Go.dict -- data/linux/processed-challenges/Kaprica_Go/bin/Kaprica_Go\n'
+p117
+I0
+tp118
+a(I7080
+S'start_time     : 1500165944\nlast_update    : 1500172976\nfuzzer_pid     : 6492\ncycles_done    : 3\nexecs_done     : 2425664\nexecs_per_sec  : 394.82\npaths_total    : 118\npaths_favored  : 33\npaths_found    : 117\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 35\npending_favs   : 0\npending_total  : 47\nvariable_paths : 0\nbitmap_cvg     : 0.91%\nunique_crashes : 0\nunique_hangs   : 66\nlast_path      : 1500172751\nlast_crash     : 0\nlast_hang      : 1500172746\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Kaprica_Go/input -o /dev/shm/work/Kaprica_Go/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Kaprica_Go/Kaprica_Go.dict -- data/linux/processed-challenges/Kaprica_Go/bin/Kaprica_Go\n'
+p119
+I0
+tp120
+a(I7200
+S'start_time     : 1500165944\nlast_update    : 1500173096\nfuzzer_pid     : 6492\ncycles_done    : 3\nexecs_done     : 2450820\nexecs_per_sec  : 350.78\npaths_total    : 118\npaths_favored  : 33\npaths_found    : 117\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 37\npending_favs   : 0\npending_total  : 46\nvariable_paths : 0\nbitmap_cvg     : 0.91%\nunique_crashes : 0\nunique_hangs   : 66\nlast_path      : 1500172751\nlast_crash     : 0\nlast_hang      : 1500172746\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Kaprica_Go/input -o /dev/shm/work/Kaprica_Go/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Kaprica_Go/Kaprica_Go.dict -- data/linux/processed-challenges/Kaprica_Go/bin/Kaprica_Go\n'
+p121
+I0
+tp122
+a(I7320
+S'start_time     : 1500165944\nlast_update    : 1500173217\nfuzzer_pid     : 6492\ncycles_done    : 3\nexecs_done     : 2501248\nexecs_per_sec  : 356.49\npaths_total    : 118\npaths_favored  : 33\npaths_found    : 117\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 59\npending_favs   : 0\npending_total  : 45\nvariable_paths : 0\nbitmap_cvg     : 0.91%\nunique_crashes : 0\nunique_hangs   : 66\nlast_path      : 1500172751\nlast_crash     : 0\nlast_hang      : 1500172746\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Kaprica_Go/input -o /dev/shm/work/Kaprica_Go/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Kaprica_Go/Kaprica_Go.dict -- data/linux/processed-challenges/Kaprica_Go/bin/Kaprica_Go\n'
+p123
+I0
+tp124
+a(I7440
+S'start_time     : 1500165944\nlast_update    : 1500173337\nfuzzer_pid     : 6492\ncycles_done    : 3\nexecs_done     : 2534942\nexecs_per_sec  : 396.57\npaths_total    : 118\npaths_favored  : 33\npaths_found    : 117\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 62\npending_favs   : 0\npending_total  : 44\nvariable_paths : 0\nbitmap_cvg     : 0.91%\nunique_crashes : 0\nunique_hangs   : 66\nlast_path      : 1500172751\nlast_crash     : 0\nlast_hang      : 1500172746\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Kaprica_Go/input -o /dev/shm/work/Kaprica_Go/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Kaprica_Go/Kaprica_Go.dict -- data/linux/processed-challenges/Kaprica_Go/bin/Kaprica_Go\n'
+p125
+I0
+tp126
+a(I7560
+S'start_time     : 1500165944\nlast_update    : 1500173457\nfuzzer_pid     : 6492\ncycles_done    : 3\nexecs_done     : 2580786\nexecs_per_sec  : 264.27\npaths_total    : 118\npaths_favored  : 33\npaths_found    : 117\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 79\npending_favs   : 0\npending_total  : 43\nvariable_paths : 0\nbitmap_cvg     : 0.91%\nunique_crashes : 0\nunique_hangs   : 66\nlast_path      : 1500172751\nlast_crash     : 0\nlast_hang      : 1500172746\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Kaprica_Go/input -o /dev/shm/work/Kaprica_Go/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Kaprica_Go/Kaprica_Go.dict -- data/linux/processed-challenges/Kaprica_Go/bin/Kaprica_Go\n'
+p127
+I0
+tp128
+a(I7680
+S'start_time     : 1500165944\nlast_update    : 1500173577\nfuzzer_pid     : 6492\ncycles_done    : 3\nexecs_done     : 2620306\nexecs_per_sec  : 382.77\npaths_total    : 118\npaths_favored  : 33\npaths_found    : 117\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 89\npending_favs   : 0\npending_total  : 42\nvariable_paths : 0\nbitmap_cvg     : 0.91%\nunique_crashes : 0\nunique_hangs   : 66\nlast_path      : 1500172751\nlast_crash     : 0\nlast_hang      : 1500172746\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Kaprica_Go/input -o /dev/shm/work/Kaprica_Go/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Kaprica_Go/Kaprica_Go.dict -- data/linux/processed-challenges/Kaprica_Go/bin/Kaprica_Go\n'
+p129
+I0
+tp130
+a(I7800
+S'start_time     : 1500165944\nlast_update    : 1500173697\nfuzzer_pid     : 6492\ncycles_done    : 3\nexecs_done     : 2654363\nexecs_per_sec  : 67.51\npaths_total    : 118\npaths_favored  : 33\npaths_found    : 117\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 95\npending_favs   : 0\npending_total  : 42\nvariable_paths : 0\nbitmap_cvg     : 0.91%\nunique_crashes : 0\nunique_hangs   : 66\nlast_path      : 1500172751\nlast_crash     : 0\nlast_hang      : 1500172746\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Kaprica_Go/input -o /dev/shm/work/Kaprica_Go/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Kaprica_Go/Kaprica_Go.dict -- data/linux/processed-challenges/Kaprica_Go/bin/Kaprica_Go\n'
+p131
+I0
+tp132
+a(I7920
+S'start_time     : 1500165944\nlast_update    : 1500173818\nfuzzer_pid     : 6492\ncycles_done    : 3\nexecs_done     : 2670305\nexecs_per_sec  : 83.21\npaths_total    : 118\npaths_favored  : 33\npaths_found    : 117\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 95\npending_favs   : 0\npending_total  : 42\nvariable_paths : 0\nbitmap_cvg     : 0.91%\nunique_crashes : 0\nunique_hangs   : 66\nlast_path      : 1500172751\nlast_crash     : 0\nlast_hang      : 1500172746\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Kaprica_Go/input -o /dev/shm/work/Kaprica_Go/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Kaprica_Go/Kaprica_Go.dict -- data/linux/processed-challenges/Kaprica_Go/bin/Kaprica_Go\n'
+p133
+I1
+tp134
+a(I8040
+S'start_time     : 1500165944\nlast_update    : 1500173938\nfuzzer_pid     : 6492\ncycles_done    : 3\nexecs_done     : 2689831\nexecs_per_sec  : 184.81\npaths_total    : 119\npaths_favored  : 33\npaths_found    : 118\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 95\npending_favs   : 0\npending_total  : 43\nvariable_paths : 0\nbitmap_cvg     : 0.91%\nunique_crashes : 0\nunique_hangs   : 67\nlast_path      : 1500173845\nlast_crash     : 0\nlast_hang      : 1500173873\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Kaprica_Go/input -o /dev/shm/work/Kaprica_Go/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Kaprica_Go/Kaprica_Go.dict -- data/linux/processed-challenges/Kaprica_Go/bin/Kaprica_Go\n'
+p135
+I0
+tp136
+a(I8160
+S'start_time     : 1500165944\nlast_update    : 1500174058\nfuzzer_pid     : 6492\ncycles_done    : 3\nexecs_done     : 2715489\nexecs_per_sec  : 201.83\npaths_total    : 119\npaths_favored  : 33\npaths_found    : 118\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 100\npending_favs   : 0\npending_total  : 42\nvariable_paths : 0\nbitmap_cvg     : 0.91%\nunique_crashes : 0\nunique_hangs   : 67\nlast_path      : 1500173845\nlast_crash     : 0\nlast_hang      : 1500173873\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Kaprica_Go/input -o /dev/shm/work/Kaprica_Go/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Kaprica_Go/Kaprica_Go.dict -- data/linux/processed-challenges/Kaprica_Go/bin/Kaprica_Go\n'
+p137
+I0
+tp138
+a(I8280
+S'start_time     : 1500165944\nlast_update    : 1500174178\nfuzzer_pid     : 6492\ncycles_done    : 3\nexecs_done     : 2748985\nexecs_per_sec  : 299.79\npaths_total    : 119\npaths_favored  : 33\npaths_found    : 118\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 102\npending_favs   : 0\npending_total  : 41\nvariable_paths : 0\nbitmap_cvg     : 0.91%\nunique_crashes : 0\nunique_hangs   : 67\nlast_path      : 1500173845\nlast_crash     : 0\nlast_hang      : 1500173873\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Kaprica_Go/input -o /dev/shm/work/Kaprica_Go/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Kaprica_Go/Kaprica_Go.dict -- data/linux/processed-challenges/Kaprica_Go/bin/Kaprica_Go\n'
+p139
+I0
+tp140
+a(I8400
+S'start_time     : 1500165944\nlast_update    : 1500174299\nfuzzer_pid     : 6492\ncycles_done    : 3\nexecs_done     : 2770465\nexecs_per_sec  : 185.45\npaths_total    : 119\npaths_favored  : 33\npaths_found    : 118\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 102\npending_favs   : 0\npending_total  : 41\nvariable_paths : 0\nbitmap_cvg     : 0.91%\nunique_crashes : 0\nunique_hangs   : 67\nlast_path      : 1500173845\nlast_crash     : 0\nlast_hang      : 1500173873\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Kaprica_Go/input -o /dev/shm/work/Kaprica_Go/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Kaprica_Go/Kaprica_Go.dict -- data/linux/processed-challenges/Kaprica_Go/bin/Kaprica_Go\n'
+p141
+I0
+tp142
+a(I8520
+S'start_time     : 1500165944\nlast_update    : 1500174419\nfuzzer_pid     : 6492\ncycles_done    : 3\nexecs_done     : 2806290\nexecs_per_sec  : 318.92\npaths_total    : 119\npaths_favored  : 33\npaths_found    : 118\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 103\npending_favs   : 0\npending_total  : 40\nvariable_paths : 0\nbitmap_cvg     : 0.91%\nunique_crashes : 0\nunique_hangs   : 67\nlast_path      : 1500173845\nlast_crash     : 0\nlast_hang      : 1500173873\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Kaprica_Go/input -o /dev/shm/work/Kaprica_Go/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Kaprica_Go/Kaprica_Go.dict -- data/linux/processed-challenges/Kaprica_Go/bin/Kaprica_Go\n'
+p143
+I0
+tp144
+a(I8640
+S'start_time     : 1500165944\nlast_update    : 1500174539\nfuzzer_pid     : 6492\ncycles_done    : 3\nexecs_done     : 2839625\nexecs_per_sec  : 182.56\npaths_total    : 119\npaths_favored  : 33\npaths_found    : 118\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 103\npending_favs   : 0\npending_total  : 40\nvariable_paths : 0\nbitmap_cvg     : 0.91%\nunique_crashes : 0\nunique_hangs   : 67\nlast_path      : 1500173845\nlast_crash     : 0\nlast_hang      : 1500173873\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Kaprica_Go/input -o /dev/shm/work/Kaprica_Go/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Kaprica_Go/Kaprica_Go.dict -- data/linux/processed-challenges/Kaprica_Go/bin/Kaprica_Go\n'
+p145
+I0
+tp146
+a(I8760
+S'start_time     : 1500165944\nlast_update    : 1500174659\nfuzzer_pid     : 6492\ncycles_done    : 3\nexecs_done     : 2876770\nexecs_per_sec  : 243.90\npaths_total    : 119\npaths_favored  : 33\npaths_found    : 118\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 105\npending_favs   : 0\npending_total  : 39\nvariable_paths : 0\nbitmap_cvg     : 0.91%\nunique_crashes : 0\nunique_hangs   : 67\nlast_path      : 1500173845\nlast_crash     : 0\nlast_hang      : 1500173873\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Kaprica_Go/input -o /dev/shm/work/Kaprica_Go/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Kaprica_Go/Kaprica_Go.dict -- data/linux/processed-challenges/Kaprica_Go/bin/Kaprica_Go\n'
+p147
+I0
+tp148
+a(I8880
+S'start_time     : 1500165944\nlast_update    : 1500174780\nfuzzer_pid     : 6492\ncycles_done    : 3\nexecs_done     : 2907887\nexecs_per_sec  : 298.76\npaths_total    : 119\npaths_favored  : 33\npaths_found    : 118\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 105\npending_favs   : 0\npending_total  : 39\nvariable_paths : 0\nbitmap_cvg     : 0.91%\nunique_crashes : 0\nunique_hangs   : 67\nlast_path      : 1500173845\nlast_crash     : 0\nlast_hang      : 1500173873\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Kaprica_Go/input -o /dev/shm/work/Kaprica_Go/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Kaprica_Go/Kaprica_Go.dict -- data/linux/processed-challenges/Kaprica_Go/bin/Kaprica_Go\n'
+p149
+I1
+tp150
+a(I9000
+S'start_time     : 1500165944\nlast_update    : 1500174900\nfuzzer_pid     : 6492\ncycles_done    : 3\nexecs_done     : 2940973\nexecs_per_sec  : 47.96\npaths_total    : 120\npaths_favored  : 33\npaths_found    : 119\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 106\npending_favs   : 0\npending_total  : 39\nvariable_paths : 0\nbitmap_cvg     : 0.91%\nunique_crashes : 0\nunique_hangs   : 67\nlast_path      : 1500174795\nlast_crash     : 0\nlast_hang      : 1500173873\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Kaprica_Go/input -o /dev/shm/work/Kaprica_Go/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Kaprica_Go/Kaprica_Go.dict -- data/linux/processed-challenges/Kaprica_Go/bin/Kaprica_Go\n'
+p151
+I0
+tp152
+a(I9120
+S'start_time     : 1500165944\nlast_update    : 1500175020\nfuzzer_pid     : 6492\ncycles_done    : 3\nexecs_done     : 2959505\nexecs_per_sec  : 97.89\npaths_total    : 120\npaths_favored  : 33\npaths_found    : 119\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 106\npending_favs   : 0\npending_total  : 39\nvariable_paths : 0\nbitmap_cvg     : 0.91%\nunique_crashes : 0\nunique_hangs   : 67\nlast_path      : 1500174795\nlast_crash     : 0\nlast_hang      : 1500173873\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Kaprica_Go/input -o /dev/shm/work/Kaprica_Go/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Kaprica_Go/Kaprica_Go.dict -- data/linux/processed-challenges/Kaprica_Go/bin/Kaprica_Go\n'
+p153
+I0
+tp154
+a(I9240
+S'start_time     : 1500165944\nlast_update    : 1500175140\nfuzzer_pid     : 6492\ncycles_done    : 3\nexecs_done     : 2972525\nexecs_per_sec  : 146.27\npaths_total    : 121\npaths_favored  : 33\npaths_found    : 120\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 106\npending_favs   : 0\npending_total  : 40\nvariable_paths : 0\nbitmap_cvg     : 0.91%\nunique_crashes : 0\nunique_hangs   : 67\nlast_path      : 1500175133\nlast_crash     : 0\nlast_hang      : 1500173873\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Kaprica_Go/input -o /dev/shm/work/Kaprica_Go/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Kaprica_Go/Kaprica_Go.dict -- data/linux/processed-challenges/Kaprica_Go/bin/Kaprica_Go\n'
+p155
+I2
+tp156
+a(I9360
+S'start_time     : 1500165944\nlast_update    : 1500175260\nfuzzer_pid     : 6492\ncycles_done    : 3\nexecs_done     : 2989937\nexecs_per_sec  : 148.40\npaths_total    : 122\npaths_favored  : 33\npaths_found    : 121\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 106\npending_favs   : 0\npending_total  : 41\nvariable_paths : 0\nbitmap_cvg     : 0.91%\nunique_crashes : 0\nunique_hangs   : 68\nlast_path      : 1500175155\nlast_crash     : 0\nlast_hang      : 1500175177\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Kaprica_Go/input -o /dev/shm/work/Kaprica_Go/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Kaprica_Go/Kaprica_Go.dict -- data/linux/processed-challenges/Kaprica_Go/bin/Kaprica_Go\n'
+p157
+I0
+tp158
+a(I9480
+S'start_time     : 1500165944\nlast_update    : 1500175380\nfuzzer_pid     : 6492\ncycles_done    : 3\nexecs_done     : 3007623\nexecs_per_sec  : 142.80\npaths_total    : 123\npaths_favored  : 33\npaths_found    : 122\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 106\npending_favs   : 0\npending_total  : 42\nvariable_paths : 0\nbitmap_cvg     : 0.91%\nunique_crashes : 0\nunique_hangs   : 68\nlast_path      : 1500175367\nlast_crash     : 0\nlast_hang      : 1500175177\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Kaprica_Go/input -o /dev/shm/work/Kaprica_Go/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Kaprica_Go/Kaprica_Go.dict -- data/linux/processed-challenges/Kaprica_Go/bin/Kaprica_Go\n'
+p159
+I1
+tp160
+a(I9600
+S'start_time     : 1500165944\nlast_update    : 1500175501\nfuzzer_pid     : 6492\ncycles_done    : 3\nexecs_done     : 3025561\nexecs_per_sec  : 144.16\npaths_total    : 124\npaths_favored  : 33\npaths_found    : 123\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 106\npending_favs   : 0\npending_total  : 43\nvariable_paths : 0\nbitmap_cvg     : 0.91%\nunique_crashes : 0\nunique_hangs   : 68\nlast_path      : 1500175449\nlast_crash     : 0\nlast_hang      : 1500175177\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Kaprica_Go/input -o /dev/shm/work/Kaprica_Go/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Kaprica_Go/Kaprica_Go.dict -- data/linux/processed-challenges/Kaprica_Go/bin/Kaprica_Go\n'
+p161
+I1
+tp162
+a(I9720
+S'start_time     : 1500165944\nlast_update    : 1500175621\nfuzzer_pid     : 6492\ncycles_done    : 3\nexecs_done     : 3042989\nexecs_per_sec  : 141.39\npaths_total    : 124\npaths_favored  : 33\npaths_found    : 123\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 106\npending_favs   : 0\npending_total  : 43\nvariable_paths : 0\nbitmap_cvg     : 0.91%\nunique_crashes : 0\nunique_hangs   : 68\nlast_path      : 1500175449\nlast_crash     : 0\nlast_hang      : 1500175177\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Kaprica_Go/input -o /dev/shm/work/Kaprica_Go/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Kaprica_Go/Kaprica_Go.dict -- data/linux/processed-challenges/Kaprica_Go/bin/Kaprica_Go\n'
+p163
+I0
+tp164
+a(I9840
+S'start_time     : 1500165944\nlast_update    : 1500175741\nfuzzer_pid     : 6492\ncycles_done    : 3\nexecs_done     : 3060752\nexecs_per_sec  : 153.33\npaths_total    : 124\npaths_favored  : 33\npaths_found    : 123\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 106\npending_favs   : 0\npending_total  : 43\nvariable_paths : 0\nbitmap_cvg     : 0.91%\nunique_crashes : 0\nunique_hangs   : 68\nlast_path      : 1500175449\nlast_crash     : 0\nlast_hang      : 1500175177\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Kaprica_Go/input -o /dev/shm/work/Kaprica_Go/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Kaprica_Go/Kaprica_Go.dict -- data/linux/processed-challenges/Kaprica_Go/bin/Kaprica_Go\n'
+p165
+I0
+tp166
+a(I9960
+S'start_time     : 1500165944\nlast_update    : 1500175861\nfuzzer_pid     : 6492\ncycles_done    : 3\nexecs_done     : 3078475\nexecs_per_sec  : 144.93\npaths_total    : 124\npaths_favored  : 33\npaths_found    : 123\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 106\npending_favs   : 0\npending_total  : 43\nvariable_paths : 0\nbitmap_cvg     : 0.91%\nunique_crashes : 0\nunique_hangs   : 68\nlast_path      : 1500175449\nlast_crash     : 0\nlast_hang      : 1500175177\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Kaprica_Go/input -o /dev/shm/work/Kaprica_Go/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Kaprica_Go/Kaprica_Go.dict -- data/linux/processed-challenges/Kaprica_Go/bin/Kaprica_Go\n'
+p167
+I0
+tp168
+a(I10080
+S'start_time     : 1500165944\nlast_update    : 1500175981\nfuzzer_pid     : 6492\ncycles_done    : 3\nexecs_done     : 3096248\nexecs_per_sec  : 153.01\npaths_total    : 124\npaths_favored  : 33\npaths_found    : 123\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 106\npending_favs   : 0\npending_total  : 43\nvariable_paths : 0\nbitmap_cvg     : 0.91%\nunique_crashes : 0\nunique_hangs   : 68\nlast_path      : 1500175449\nlast_crash     : 0\nlast_hang      : 1500175177\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Kaprica_Go/input -o /dev/shm/work/Kaprica_Go/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Kaprica_Go/Kaprica_Go.dict -- data/linux/processed-challenges/Kaprica_Go/bin/Kaprica_Go\n'
+p169
+I0
+tp170
+a(I10200
+S'start_time     : 1500165944\nlast_update    : 1500176102\nfuzzer_pid     : 6492\ncycles_done    : 3\nexecs_done     : 3113807\nexecs_per_sec  : 151.04\npaths_total    : 124\npaths_favored  : 33\npaths_found    : 123\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 106\npending_favs   : 0\npending_total  : 43\nvariable_paths : 0\nbitmap_cvg     : 0.91%\nunique_crashes : 0\nunique_hangs   : 68\nlast_path      : 1500175449\nlast_crash     : 0\nlast_hang      : 1500175177\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Kaprica_Go/input -o /dev/shm/work/Kaprica_Go/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Kaprica_Go/Kaprica_Go.dict -- data/linux/processed-challenges/Kaprica_Go/bin/Kaprica_Go\n'
+p171
+I0
+tp172
+a(I10320
+S'start_time     : 1500165944\nlast_update    : 1500176222\nfuzzer_pid     : 6492\ncycles_done    : 3\nexecs_done     : 3132325\nexecs_per_sec  : 182.34\npaths_total    : 128\npaths_favored  : 33\npaths_found    : 127\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 114\npending_favs   : 0\npending_total  : 46\nvariable_paths : 0\nbitmap_cvg     : 0.91%\nunique_crashes : 0\nunique_hangs   : 69\nlast_path      : 1500176220\nlast_crash     : 0\nlast_hang      : 1500176206\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Kaprica_Go/input -o /dev/shm/work/Kaprica_Go/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Kaprica_Go/Kaprica_Go.dict -- data/linux/processed-challenges/Kaprica_Go/bin/Kaprica_Go\n'
+p173
+I6
+tp174
+a(I10440
+S'start_time     : 1500165944\nlast_update    : 1500176342\nfuzzer_pid     : 6492\ncycles_done    : 3\nexecs_done     : 3155647\nexecs_per_sec  : 208.84\npaths_total    : 130\npaths_favored  : 33\npaths_found    : 129\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 114\npending_favs   : 0\npending_total  : 48\nvariable_paths : 0\nbitmap_cvg     : 0.91%\nunique_crashes : 0\nunique_hangs   : 71\nlast_path      : 1500176233\nlast_crash     : 0\nlast_hang      : 1500176331\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Kaprica_Go/input -o /dev/shm/work/Kaprica_Go/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Kaprica_Go/Kaprica_Go.dict -- data/linux/processed-challenges/Kaprica_Go/bin/Kaprica_Go\n'
+p175
+I0
+tp176
+a(I10560
+S'start_time     : 1500165944\nlast_update    : 1500176462\nfuzzer_pid     : 6492\ncycles_done    : 3\nexecs_done     : 3179133\nexecs_per_sec  : 193.80\npaths_total    : 130\npaths_favored  : 33\npaths_found    : 129\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 114\npending_favs   : 0\npending_total  : 48\nvariable_paths : 0\nbitmap_cvg     : 0.91%\nunique_crashes : 0\nunique_hangs   : 71\nlast_path      : 1500176233\nlast_crash     : 0\nlast_hang      : 1500176331\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Kaprica_Go/input -o /dev/shm/work/Kaprica_Go/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Kaprica_Go/Kaprica_Go.dict -- data/linux/processed-challenges/Kaprica_Go/bin/Kaprica_Go\n'
+p177
+I0
+tp178
+a(I10680
+S'start_time     : 1500165944\nlast_update    : 1500176582\nfuzzer_pid     : 6492\ncycles_done    : 3\nexecs_done     : 3202667\nexecs_per_sec  : 198.83\npaths_total    : 130\npaths_favored  : 33\npaths_found    : 129\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 114\npending_favs   : 0\npending_total  : 48\nvariable_paths : 0\nbitmap_cvg     : 0.91%\nunique_crashes : 0\nunique_hangs   : 71\nlast_path      : 1500176233\nlast_crash     : 0\nlast_hang      : 1500176331\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Kaprica_Go/input -o /dev/shm/work/Kaprica_Go/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Kaprica_Go/Kaprica_Go.dict -- data/linux/processed-challenges/Kaprica_Go/bin/Kaprica_Go\n'
+p179
+I0
+tp180
+a.

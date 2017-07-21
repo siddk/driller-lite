@@ -1,0 +1,452 @@
+(lp0
+(I0
+S'start_time     : 1499971229\nlast_update    : 1499971229\nfuzzer_pid     : 22232\ncycles_done    : 0\nexecs_done     : 10\nexecs_per_sec  : 133.33\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 1\npending_total  : 1\nvariable_paths : 0\nbitmap_cvg     : 0.07%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/No_Paper._Not_Ever._NOPE/input -o /dev/shm/work/No_Paper._Not_Ever._NOPE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/No_Paper._Not_Ever._NOPE/No_Paper._Not_Ever._NOPE.dict -- data/linux/processed-challenges/No_Paper._Not_Ever._NOPE/bin/No_Paper._Not_Ever._NOPE\n'
+p1
+I4
+tp2
+a(I120
+S'start_time     : 1499971229\nlast_update    : 1499971349\nfuzzer_pid     : 22232\ncycles_done    : 0\nexecs_done     : 124934\nexecs_per_sec  : 1016.02\npaths_total    : 8\npaths_favored  : 1\npaths_found    : 7\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 1\npending_total  : 8\nvariable_paths : 0\nbitmap_cvg     : 0.18%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1499971294\nlast_crash     : 0\nlast_hang      : 1499971311\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/No_Paper._Not_Ever._NOPE/input -o /dev/shm/work/No_Paper._Not_Ever._NOPE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/No_Paper._Not_Ever._NOPE/No_Paper._Not_Ever._NOPE.dict -- data/linux/processed-challenges/No_Paper._Not_Ever._NOPE/bin/No_Paper._Not_Ever._NOPE\n'
+p3
+I5
+tp4
+a(I240
+S'start_time     : 1499971229\nlast_update    : 1499971469\nfuzzer_pid     : 22232\ncycles_done    : 0\nexecs_done     : 245984\nexecs_per_sec  : 1052.51\npaths_total    : 17\npaths_favored  : 5\npaths_found    : 16\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 3\npending_favs   : 4\npending_total  : 16\nvariable_paths : 0\nbitmap_cvg     : 0.21%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1499971459\nlast_crash     : 0\nlast_hang      : 1499971403\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/No_Paper._Not_Ever._NOPE/input -o /dev/shm/work/No_Paper._Not_Ever._NOPE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/No_Paper._Not_Ever._NOPE/No_Paper._Not_Ever._NOPE.dict -- data/linux/processed-challenges/No_Paper._Not_Ever._NOPE/bin/No_Paper._Not_Ever._NOPE\n'
+p5
+I8
+tp6
+a(I360
+S'start_time     : 1499971229\nlast_update    : 1499971589\nfuzzer_pid     : 22232\ncycles_done    : 0\nexecs_done     : 355850\nexecs_per_sec  : 915.73\npaths_total    : 22\npaths_favored  : 11\npaths_found    : 21\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 7\npending_favs   : 9\npending_total  : 20\nvariable_paths : 0\nbitmap_cvg     : 0.22%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1499971579\nlast_crash     : 0\nlast_hang      : 1499971403\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/No_Paper._Not_Ever._NOPE/input -o /dev/shm/work/No_Paper._Not_Ever._NOPE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/No_Paper._Not_Ever._NOPE/No_Paper._Not_Ever._NOPE.dict -- data/linux/processed-challenges/No_Paper._Not_Ever._NOPE/bin/No_Paper._Not_Ever._NOPE\n'
+p7
+I5
+tp8
+a(I480
+S'start_time     : 1499971229\nlast_update    : 1499971709\nfuzzer_pid     : 22232\ncycles_done    : 0\nexecs_done     : 464829\nexecs_per_sec  : 898.54\npaths_total    : 24\npaths_favored  : 12\npaths_found    : 23\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 12\npending_favs   : 7\npending_total  : 18\nvariable_paths : 0\nbitmap_cvg     : 0.23%\nunique_crashes : 0\nunique_hangs   : 6\nlast_path      : 1499971648\nlast_crash     : 0\nlast_hang      : 1499971696\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/No_Paper._Not_Ever._NOPE/input -o /dev/shm/work/No_Paper._Not_Ever._NOPE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/No_Paper._Not_Ever._NOPE/No_Paper._Not_Ever._NOPE.dict -- data/linux/processed-challenges/No_Paper._Not_Ever._NOPE/bin/No_Paper._Not_Ever._NOPE\n'
+p9
+I2
+tp10
+a(I600
+S'start_time     : 1499971229\nlast_update    : 1499971829\nfuzzer_pid     : 22232\ncycles_done    : 0\nexecs_done     : 570980\nexecs_per_sec  : 846.76\npaths_total    : 25\npaths_favored  : 11\npaths_found    : 24\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 23\npending_favs   : 2\npending_total  : 15\nvariable_paths : 0\nbitmap_cvg     : 0.23%\nunique_crashes : 0\nunique_hangs   : 11\nlast_path      : 1499971782\nlast_crash     : 0\nlast_hang      : 1499971825\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/No_Paper._Not_Ever._NOPE/input -o /dev/shm/work/No_Paper._Not_Ever._NOPE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/No_Paper._Not_Ever._NOPE/No_Paper._Not_Ever._NOPE.dict -- data/linux/processed-challenges/No_Paper._Not_Ever._NOPE/bin/No_Paper._Not_Ever._NOPE\n'
+p11
+I1
+tp12
+a(I720
+S'start_time     : 1499971229\nlast_update    : 1499971950\nfuzzer_pid     : 22232\ncycles_done    : 1\nexecs_done     : 675526\nexecs_per_sec  : 822.73\npaths_total    : 31\npaths_favored  : 11\npaths_found    : 30\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 15\npending_favs   : 0\npending_total  : 19\nvariable_paths : 0\nbitmap_cvg     : 0.23%\nunique_crashes : 0\nunique_hangs   : 11\nlast_path      : 1499971940\nlast_crash     : 0\nlast_hang      : 1499971825\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/No_Paper._Not_Ever._NOPE/input -o /dev/shm/work/No_Paper._Not_Ever._NOPE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/No_Paper._Not_Ever._NOPE/No_Paper._Not_Ever._NOPE.dict -- data/linux/processed-challenges/No_Paper._Not_Ever._NOPE/bin/No_Paper._Not_Ever._NOPE\n'
+p13
+I6
+tp14
+a(I840
+S'start_time     : 1499971229\nlast_update    : 1499972070\nfuzzer_pid     : 22232\ncycles_done    : 1\nexecs_done     : 785908\nexecs_per_sec  : 917.95\npaths_total    : 32\npaths_favored  : 11\npaths_found    : 31\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 30\npending_favs   : 0\npending_total  : 19\nvariable_paths : 0\nbitmap_cvg     : 0.23%\nunique_crashes : 0\nunique_hangs   : 11\nlast_path      : 1499972068\nlast_crash     : 0\nlast_hang      : 1499971825\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/No_Paper._Not_Ever._NOPE/input -o /dev/shm/work/No_Paper._Not_Ever._NOPE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/No_Paper._Not_Ever._NOPE/No_Paper._Not_Ever._NOPE.dict -- data/linux/processed-challenges/No_Paper._Not_Ever._NOPE/bin/No_Paper._Not_Ever._NOPE\n'
+p15
+I1
+tp16
+a(I960
+S'start_time     : 1499971229\nlast_update    : 1499972190\nfuzzer_pid     : 22232\ncycles_done    : 2\nexecs_done     : 891884\nexecs_per_sec  : 904.99\npaths_total    : 33\npaths_favored  : 11\npaths_found    : 32\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 9\npending_favs   : 0\npending_total  : 17\nvariable_paths : 0\nbitmap_cvg     : 0.23%\nunique_crashes : 0\nunique_hangs   : 12\nlast_path      : 1499972115\nlast_crash     : 0\nlast_hang      : 1499972089\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/No_Paper._Not_Ever._NOPE/input -o /dev/shm/work/No_Paper._Not_Ever._NOPE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/No_Paper._Not_Ever._NOPE/No_Paper._Not_Ever._NOPE.dict -- data/linux/processed-challenges/No_Paper._Not_Ever._NOPE/bin/No_Paper._Not_Ever._NOPE\n'
+p17
+I1
+tp18
+a(I1080
+S'start_time     : 1499971229\nlast_update    : 1499972310\nfuzzer_pid     : 22232\ncycles_done    : 2\nexecs_done     : 993377\nexecs_per_sec  : 810.60\npaths_total    : 34\npaths_favored  : 11\npaths_found    : 33\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 27\npending_favs   : 0\npending_total  : 18\nvariable_paths : 0\nbitmap_cvg     : 0.23%\nunique_crashes : 0\nunique_hangs   : 13\nlast_path      : 1499972208\nlast_crash     : 0\nlast_hang      : 1499972211\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/No_Paper._Not_Ever._NOPE/input -o /dev/shm/work/No_Paper._Not_Ever._NOPE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/No_Paper._Not_Ever._NOPE/No_Paper._Not_Ever._NOPE.dict -- data/linux/processed-challenges/No_Paper._Not_Ever._NOPE/bin/No_Paper._Not_Ever._NOPE\n'
+p19
+I4
+tp20
+a(I1200
+S'start_time     : 1499971229\nlast_update    : 1499972431\nfuzzer_pid     : 22232\ncycles_done    : 2\nexecs_done     : 1096498\nexecs_per_sec  : 892.24\npaths_total    : 38\npaths_favored  : 11\npaths_found    : 37\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 27\npending_favs   : 0\npending_total  : 22\nvariable_paths : 0\nbitmap_cvg     : 0.23%\nunique_crashes : 0\nunique_hangs   : 13\nlast_path      : 1499972430\nlast_crash     : 0\nlast_hang      : 1499972211\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/No_Paper._Not_Ever._NOPE/input -o /dev/shm/work/No_Paper._Not_Ever._NOPE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/No_Paper._Not_Ever._NOPE/No_Paper._Not_Ever._NOPE.dict -- data/linux/processed-challenges/No_Paper._Not_Ever._NOPE/bin/No_Paper._Not_Ever._NOPE\n'
+p21
+I1
+tp22
+a(I1320
+S'start_time     : 1499971229\nlast_update    : 1499972551\nfuzzer_pid     : 22232\ncycles_done    : 2\nexecs_done     : 1199764\nexecs_per_sec  : 878.79\npaths_total    : 38\npaths_favored  : 11\npaths_found    : 37\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 29\npending_favs   : 0\npending_total  : 21\nvariable_paths : 0\nbitmap_cvg     : 0.23%\nunique_crashes : 0\nunique_hangs   : 13\nlast_path      : 1499972430\nlast_crash     : 0\nlast_hang      : 1499972211\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/No_Paper._Not_Ever._NOPE/input -o /dev/shm/work/No_Paper._Not_Ever._NOPE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/No_Paper._Not_Ever._NOPE/No_Paper._Not_Ever._NOPE.dict -- data/linux/processed-challenges/No_Paper._Not_Ever._NOPE/bin/No_Paper._Not_Ever._NOPE\n'
+p23
+I0
+tp24
+a(I1440
+S'start_time     : 1499971229\nlast_update    : 1499972671\nfuzzer_pid     : 22232\ncycles_done    : 2\nexecs_done     : 1298279\nexecs_per_sec  : 817.01\npaths_total    : 38\npaths_favored  : 11\npaths_found    : 37\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 35\npending_favs   : 0\npending_total  : 20\nvariable_paths : 0\nbitmap_cvg     : 0.23%\nunique_crashes : 0\nunique_hangs   : 13\nlast_path      : 1499972430\nlast_crash     : 0\nlast_hang      : 1499972211\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/No_Paper._Not_Ever._NOPE/input -o /dev/shm/work/No_Paper._Not_Ever._NOPE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/No_Paper._Not_Ever._NOPE/No_Paper._Not_Ever._NOPE.dict -- data/linux/processed-challenges/No_Paper._Not_Ever._NOPE/bin/No_Paper._Not_Ever._NOPE\n'
+p25
+I0
+tp26
+a(I1560
+S'start_time     : 1499971229\nlast_update    : 1499972791\nfuzzer_pid     : 22232\ncycles_done    : 2\nexecs_done     : 1390644\nexecs_per_sec  : 641.67\npaths_total    : 38\npaths_favored  : 11\npaths_found    : 37\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 36\npending_favs   : 0\npending_total  : 19\nvariable_paths : 0\nbitmap_cvg     : 0.23%\nunique_crashes : 0\nunique_hangs   : 13\nlast_path      : 1499972430\nlast_crash     : 0\nlast_hang      : 1499972211\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/No_Paper._Not_Ever._NOPE/input -o /dev/shm/work/No_Paper._Not_Ever._NOPE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/No_Paper._Not_Ever._NOPE/No_Paper._Not_Ever._NOPE.dict -- data/linux/processed-challenges/No_Paper._Not_Ever._NOPE/bin/No_Paper._Not_Ever._NOPE\n'
+p27
+I0
+tp28
+a(I1680
+S'start_time     : 1499971229\nlast_update    : 1499972912\nfuzzer_pid     : 22232\ncycles_done    : 2\nexecs_done     : 1468793\nexecs_per_sec  : 658.03\npaths_total    : 38\npaths_favored  : 11\npaths_found    : 37\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 36\npending_favs   : 0\npending_total  : 19\nvariable_paths : 0\nbitmap_cvg     : 0.23%\nunique_crashes : 0\nunique_hangs   : 13\nlast_path      : 1499972430\nlast_crash     : 0\nlast_hang      : 1499972211\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/No_Paper._Not_Ever._NOPE/input -o /dev/shm/work/No_Paper._Not_Ever._NOPE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/No_Paper._Not_Ever._NOPE/No_Paper._Not_Ever._NOPE.dict -- data/linux/processed-challenges/No_Paper._Not_Ever._NOPE/bin/No_Paper._Not_Ever._NOPE\n'
+p29
+I0
+tp30
+a(I1800
+S'start_time     : 1499971229\nlast_update    : 1499973032\nfuzzer_pid     : 22232\ncycles_done    : 2\nexecs_done     : 1545554\nexecs_per_sec  : 636.25\npaths_total    : 38\npaths_favored  : 11\npaths_found    : 37\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 36\npending_favs   : 0\npending_total  : 19\nvariable_paths : 0\nbitmap_cvg     : 0.23%\nunique_crashes : 0\nunique_hangs   : 13\nlast_path      : 1499972430\nlast_crash     : 0\nlast_hang      : 1499972211\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/No_Paper._Not_Ever._NOPE/input -o /dev/shm/work/No_Paper._Not_Ever._NOPE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/No_Paper._Not_Ever._NOPE/No_Paper._Not_Ever._NOPE.dict -- data/linux/processed-challenges/No_Paper._Not_Ever._NOPE/bin/No_Paper._Not_Ever._NOPE\n'
+p31
+I0
+tp32
+a(I1920
+S'start_time     : 1499971229\nlast_update    : 1499973152\nfuzzer_pid     : 22232\ncycles_done    : 2\nexecs_done     : 1621838\nexecs_per_sec  : 629.95\npaths_total    : 38\npaths_favored  : 11\npaths_found    : 37\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 36\npending_favs   : 0\npending_total  : 19\nvariable_paths : 0\nbitmap_cvg     : 0.23%\nunique_crashes : 0\nunique_hangs   : 13\nlast_path      : 1499972430\nlast_crash     : 0\nlast_hang      : 1499972211\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/No_Paper._Not_Ever._NOPE/input -o /dev/shm/work/No_Paper._Not_Ever._NOPE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/No_Paper._Not_Ever._NOPE/No_Paper._Not_Ever._NOPE.dict -- data/linux/processed-challenges/No_Paper._Not_Ever._NOPE/bin/No_Paper._Not_Ever._NOPE\n'
+p33
+I0
+tp34
+a(I2040
+S'start_time     : 1499971229\nlast_update    : 1499973272\nfuzzer_pid     : 22232\ncycles_done    : 2\nexecs_done     : 1700555\nexecs_per_sec  : 656.35\npaths_total    : 38\npaths_favored  : 11\npaths_found    : 37\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 36\npending_favs   : 0\npending_total  : 19\nvariable_paths : 0\nbitmap_cvg     : 0.23%\nunique_crashes : 0\nunique_hangs   : 13\nlast_path      : 1499972430\nlast_crash     : 0\nlast_hang      : 1499972211\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/No_Paper._Not_Ever._NOPE/input -o /dev/shm/work/No_Paper._Not_Ever._NOPE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/No_Paper._Not_Ever._NOPE/No_Paper._Not_Ever._NOPE.dict -- data/linux/processed-challenges/No_Paper._Not_Ever._NOPE/bin/No_Paper._Not_Ever._NOPE\n'
+p35
+I0
+tp36
+a(I2160
+S'start_time     : 1499971229\nlast_update    : 1499973392\nfuzzer_pid     : 22232\ncycles_done    : 3\nexecs_done     : 1788528\nexecs_per_sec  : 892.94\npaths_total    : 38\npaths_favored  : 11\npaths_found    : 37\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 12\npending_favs   : 0\npending_total  : 18\nvariable_paths : 0\nbitmap_cvg     : 0.23%\nunique_crashes : 0\nunique_hangs   : 13\nlast_path      : 1499972430\nlast_crash     : 0\nlast_hang      : 1499972211\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/No_Paper._Not_Ever._NOPE/input -o /dev/shm/work/No_Paper._Not_Ever._NOPE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/No_Paper._Not_Ever._NOPE/No_Paper._Not_Ever._NOPE.dict -- data/linux/processed-challenges/No_Paper._Not_Ever._NOPE/bin/No_Paper._Not_Ever._NOPE\n'
+p37
+I0
+tp38
+a(I2280
+S'start_time     : 1499971229\nlast_update    : 1499973513\nfuzzer_pid     : 22232\ncycles_done    : 3\nexecs_done     : 1894907\nexecs_per_sec  : 880.26\npaths_total    : 38\npaths_favored  : 11\npaths_found    : 37\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 25\npending_favs   : 0\npending_total  : 16\nvariable_paths : 0\nbitmap_cvg     : 0.23%\nunique_crashes : 0\nunique_hangs   : 13\nlast_path      : 1499972430\nlast_crash     : 0\nlast_hang      : 1499972211\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/No_Paper._Not_Ever._NOPE/input -o /dev/shm/work/No_Paper._Not_Ever._NOPE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/No_Paper._Not_Ever._NOPE/No_Paper._Not_Ever._NOPE.dict -- data/linux/processed-challenges/No_Paper._Not_Ever._NOPE/bin/No_Paper._Not_Ever._NOPE\n'
+p39
+I0
+tp40
+a(I2400
+S'start_time     : 1499971229\nlast_update    : 1499973633\nfuzzer_pid     : 22232\ncycles_done    : 3\nexecs_done     : 1996527\nexecs_per_sec  : 746.79\npaths_total    : 38\npaths_favored  : 11\npaths_found    : 37\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 37\npending_favs   : 0\npending_total  : 14\nvariable_paths : 0\nbitmap_cvg     : 0.23%\nunique_crashes : 0\nunique_hangs   : 13\nlast_path      : 1499972430\nlast_crash     : 0\nlast_hang      : 1499972211\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/No_Paper._Not_Ever._NOPE/input -o /dev/shm/work/No_Paper._Not_Ever._NOPE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/No_Paper._Not_Ever._NOPE/No_Paper._Not_Ever._NOPE.dict -- data/linux/processed-challenges/No_Paper._Not_Ever._NOPE/bin/No_Paper._Not_Ever._NOPE\n'
+p41
+I0
+tp42
+a(I2520
+S'start_time     : 1499971229\nlast_update    : 1499973753\nfuzzer_pid     : 22232\ncycles_done    : 3\nexecs_done     : 2085319\nexecs_per_sec  : 754.88\npaths_total    : 38\npaths_favored  : 11\npaths_found    : 37\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 37\npending_favs   : 0\npending_total  : 14\nvariable_paths : 0\nbitmap_cvg     : 0.23%\nunique_crashes : 0\nunique_hangs   : 13\nlast_path      : 1499972430\nlast_crash     : 0\nlast_hang      : 1499972211\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/No_Paper._Not_Ever._NOPE/input -o /dev/shm/work/No_Paper._Not_Ever._NOPE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/No_Paper._Not_Ever._NOPE/No_Paper._Not_Ever._NOPE.dict -- data/linux/processed-challenges/No_Paper._Not_Ever._NOPE/bin/No_Paper._Not_Ever._NOPE\n'
+p43
+I0
+tp44
+a(I2640
+S'start_time     : 1499971229\nlast_update    : 1499973873\nfuzzer_pid     : 22232\ncycles_done    : 3\nexecs_done     : 2174221\nexecs_per_sec  : 760.49\npaths_total    : 38\npaths_favored  : 11\npaths_found    : 37\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 37\npending_favs   : 0\npending_total  : 14\nvariable_paths : 0\nbitmap_cvg     : 0.23%\nunique_crashes : 0\nunique_hangs   : 13\nlast_path      : 1499972430\nlast_crash     : 0\nlast_hang      : 1499972211\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/No_Paper._Not_Ever._NOPE/input -o /dev/shm/work/No_Paper._Not_Ever._NOPE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/No_Paper._Not_Ever._NOPE/No_Paper._Not_Ever._NOPE.dict -- data/linux/processed-challenges/No_Paper._Not_Ever._NOPE/bin/No_Paper._Not_Ever._NOPE\n'
+p45
+I0
+tp46
+a(I2760
+S'start_time     : 1499971229\nlast_update    : 1499973994\nfuzzer_pid     : 22232\ncycles_done    : 4\nexecs_done     : 2265462\nexecs_per_sec  : 844.43\npaths_total    : 38\npaths_favored  : 11\npaths_found    : 37\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 0\npending_favs   : 0\npending_total  : 13\nvariable_paths : 0\nbitmap_cvg     : 0.23%\nunique_crashes : 0\nunique_hangs   : 13\nlast_path      : 1499972430\nlast_crash     : 0\nlast_hang      : 1499972211\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/No_Paper._Not_Ever._NOPE/input -o /dev/shm/work/No_Paper._Not_Ever._NOPE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/No_Paper._Not_Ever._NOPE/No_Paper._Not_Ever._NOPE.dict -- data/linux/processed-challenges/No_Paper._Not_Ever._NOPE/bin/No_Paper._Not_Ever._NOPE\n'
+p47
+I0
+tp48
+a(I2880
+S'start_time     : 1499971229\nlast_update    : 1499974114\nfuzzer_pid     : 22232\ncycles_done    : 4\nexecs_done     : 2373900\nexecs_per_sec  : 893.88\npaths_total    : 38\npaths_favored  : 11\npaths_found    : 37\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 9\npending_favs   : 0\npending_total  : 11\nvariable_paths : 0\nbitmap_cvg     : 0.23%\nunique_crashes : 0\nunique_hangs   : 13\nlast_path      : 1499972430\nlast_crash     : 0\nlast_hang      : 1499972211\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/No_Paper._Not_Ever._NOPE/input -o /dev/shm/work/No_Paper._Not_Ever._NOPE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/No_Paper._Not_Ever._NOPE/No_Paper._Not_Ever._NOPE.dict -- data/linux/processed-challenges/No_Paper._Not_Ever._NOPE/bin/No_Paper._Not_Ever._NOPE\n'
+p49
+I0
+tp50
+a(I3000
+S'start_time     : 1499971229\nlast_update    : 1499974234\nfuzzer_pid     : 22232\ncycles_done    : 4\nexecs_done     : 2480946\nexecs_per_sec  : 890.31\npaths_total    : 38\npaths_favored  : 11\npaths_found    : 37\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 22\npending_favs   : 0\npending_total  : 10\nvariable_paths : 0\nbitmap_cvg     : 0.23%\nunique_crashes : 0\nunique_hangs   : 13\nlast_path      : 1499972430\nlast_crash     : 0\nlast_hang      : 1499972211\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/No_Paper._Not_Ever._NOPE/input -o /dev/shm/work/No_Paper._Not_Ever._NOPE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/No_Paper._Not_Ever._NOPE/No_Paper._Not_Ever._NOPE.dict -- data/linux/processed-challenges/No_Paper._Not_Ever._NOPE/bin/No_Paper._Not_Ever._NOPE\n'
+p51
+I0
+tp52
+a(I3120
+S'start_time     : 1499971229\nlast_update    : 1499974355\nfuzzer_pid     : 22232\ncycles_done    : 4\nexecs_done     : 2586269\nexecs_per_sec  : 871.90\npaths_total    : 38\npaths_favored  : 11\npaths_found    : 37\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 26\npending_favs   : 0\npending_total  : 10\nvariable_paths : 0\nbitmap_cvg     : 0.23%\nunique_crashes : 0\nunique_hangs   : 13\nlast_path      : 1499972430\nlast_crash     : 0\nlast_hang      : 1499972211\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/No_Paper._Not_Ever._NOPE/input -o /dev/shm/work/No_Paper._Not_Ever._NOPE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/No_Paper._Not_Ever._NOPE/No_Paper._Not_Ever._NOPE.dict -- data/linux/processed-challenges/No_Paper._Not_Ever._NOPE/bin/No_Paper._Not_Ever._NOPE\n'
+p53
+I0
+tp54
+a(I3240
+S'start_time     : 1499971229\nlast_update    : 1499974475\nfuzzer_pid     : 22232\ncycles_done    : 5\nexecs_done     : 2685403\nexecs_per_sec  : 843.23\npaths_total    : 38\npaths_favored  : 11\npaths_found    : 37\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 1\npending_favs   : 0\npending_total  : 9\nvariable_paths : 0\nbitmap_cvg     : 0.23%\nunique_crashes : 0\nunique_hangs   : 13\nlast_path      : 1499972430\nlast_crash     : 0\nlast_hang      : 1499972211\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/No_Paper._Not_Ever._NOPE/input -o /dev/shm/work/No_Paper._Not_Ever._NOPE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/No_Paper._Not_Ever._NOPE/No_Paper._Not_Ever._NOPE.dict -- data/linux/processed-challenges/No_Paper._Not_Ever._NOPE/bin/No_Paper._Not_Ever._NOPE\n'
+p55
+I0
+tp56
+a(I3360
+S'start_time     : 1499971229\nlast_update    : 1499974595\nfuzzer_pid     : 22232\ncycles_done    : 5\nexecs_done     : 2792050\nexecs_per_sec  : 867.13\npaths_total    : 38\npaths_favored  : 11\npaths_found    : 37\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 21\npending_favs   : 0\npending_total  : 9\nvariable_paths : 0\nbitmap_cvg     : 0.23%\nunique_crashes : 0\nunique_hangs   : 13\nlast_path      : 1499972430\nlast_crash     : 0\nlast_hang      : 1499972211\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/No_Paper._Not_Ever._NOPE/input -o /dev/shm/work/No_Paper._Not_Ever._NOPE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/No_Paper._Not_Ever._NOPE/No_Paper._Not_Ever._NOPE.dict -- data/linux/processed-challenges/No_Paper._Not_Ever._NOPE/bin/No_Paper._Not_Ever._NOPE\n'
+p57
+I0
+tp58
+a(I3480
+S'start_time     : 1499971229\nlast_update    : 1499974715\nfuzzer_pid     : 22232\ncycles_done    : 5\nexecs_done     : 2893237\nexecs_per_sec  : 653.58\npaths_total    : 38\npaths_favored  : 11\npaths_found    : 37\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 34\npending_favs   : 0\npending_total  : 8\nvariable_paths : 0\nbitmap_cvg     : 0.23%\nunique_crashes : 0\nunique_hangs   : 13\nlast_path      : 1499972430\nlast_crash     : 0\nlast_hang      : 1499972211\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/No_Paper._Not_Ever._NOPE/input -o /dev/shm/work/No_Paper._Not_Ever._NOPE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/No_Paper._Not_Ever._NOPE/No_Paper._Not_Ever._NOPE.dict -- data/linux/processed-challenges/No_Paper._Not_Ever._NOPE/bin/No_Paper._Not_Ever._NOPE\n'
+p59
+I0
+tp60
+a(I3600
+S'start_time     : 1499971229\nlast_update    : 1499974836\nfuzzer_pid     : 22232\ncycles_done    : 5\nexecs_done     : 2971486\nexecs_per_sec  : 663.41\npaths_total    : 38\npaths_favored  : 11\npaths_found    : 37\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 34\npending_favs   : 0\npending_total  : 8\nvariable_paths : 0\nbitmap_cvg     : 0.23%\nunique_crashes : 0\nunique_hangs   : 13\nlast_path      : 1499972430\nlast_crash     : 0\nlast_hang      : 1499972211\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/No_Paper._Not_Ever._NOPE/input -o /dev/shm/work/No_Paper._Not_Ever._NOPE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/No_Paper._Not_Ever._NOPE/No_Paper._Not_Ever._NOPE.dict -- data/linux/processed-challenges/No_Paper._Not_Ever._NOPE/bin/No_Paper._Not_Ever._NOPE\n'
+p61
+I0
+tp62
+a(I3720
+S'start_time     : 1499971229\nlast_update    : 1499974956\nfuzzer_pid     : 22232\ncycles_done    : 5\nexecs_done     : 3050059\nexecs_per_sec  : 640.16\npaths_total    : 38\npaths_favored  : 11\npaths_found    : 37\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 34\npending_favs   : 0\npending_total  : 8\nvariable_paths : 0\nbitmap_cvg     : 0.23%\nunique_crashes : 0\nunique_hangs   : 13\nlast_path      : 1499972430\nlast_crash     : 0\nlast_hang      : 1499972211\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/No_Paper._Not_Ever._NOPE/input -o /dev/shm/work/No_Paper._Not_Ever._NOPE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/No_Paper._Not_Ever._NOPE/No_Paper._Not_Ever._NOPE.dict -- data/linux/processed-challenges/No_Paper._Not_Ever._NOPE/bin/No_Paper._Not_Ever._NOPE\n'
+p63
+I0
+tp64
+a(I3840
+S'start_time     : 1499971229\nlast_update    : 1499975076\nfuzzer_pid     : 22232\ncycles_done    : 5\nexecs_done     : 3128567\nexecs_per_sec  : 652.06\npaths_total    : 38\npaths_favored  : 11\npaths_found    : 37\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 34\npending_favs   : 0\npending_total  : 8\nvariable_paths : 0\nbitmap_cvg     : 0.23%\nunique_crashes : 0\nunique_hangs   : 13\nlast_path      : 1499972430\nlast_crash     : 0\nlast_hang      : 1499972211\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/No_Paper._Not_Ever._NOPE/input -o /dev/shm/work/No_Paper._Not_Ever._NOPE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/No_Paper._Not_Ever._NOPE/No_Paper._Not_Ever._NOPE.dict -- data/linux/processed-challenges/No_Paper._Not_Ever._NOPE/bin/No_Paper._Not_Ever._NOPE\n'
+p65
+I0
+tp66
+a(I3960
+S'start_time     : 1499971229\nlast_update    : 1499975196\nfuzzer_pid     : 22232\ncycles_done    : 5\nexecs_done     : 3206489\nexecs_per_sec  : 664.46\npaths_total    : 38\npaths_favored  : 11\npaths_found    : 37\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 34\npending_favs   : 0\npending_total  : 8\nvariable_paths : 0\nbitmap_cvg     : 0.23%\nunique_crashes : 0\nunique_hangs   : 13\nlast_path      : 1499972430\nlast_crash     : 0\nlast_hang      : 1499972211\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/No_Paper._Not_Ever._NOPE/input -o /dev/shm/work/No_Paper._Not_Ever._NOPE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/No_Paper._Not_Ever._NOPE/No_Paper._Not_Ever._NOPE.dict -- data/linux/processed-challenges/No_Paper._Not_Ever._NOPE/bin/No_Paper._Not_Ever._NOPE\n'
+p67
+I0
+tp68
+a(I4080
+S'start_time     : 1499971229\nlast_update    : 1499975317\nfuzzer_pid     : 22232\ncycles_done    : 6\nexecs_done     : 3304124\nexecs_per_sec  : 859.63\npaths_total    : 38\npaths_favored  : 11\npaths_found    : 37\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 3\npending_favs   : 0\npending_total  : 7\nvariable_paths : 0\nbitmap_cvg     : 0.23%\nunique_crashes : 0\nunique_hangs   : 13\nlast_path      : 1499972430\nlast_crash     : 0\nlast_hang      : 1499972211\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/No_Paper._Not_Ever._NOPE/input -o /dev/shm/work/No_Paper._Not_Ever._NOPE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/No_Paper._Not_Ever._NOPE/No_Paper._Not_Ever._NOPE.dict -- data/linux/processed-challenges/No_Paper._Not_Ever._NOPE/bin/No_Paper._Not_Ever._NOPE\n'
+p69
+I0
+tp70
+a(I4200
+S'start_time     : 1499971229\nlast_update    : 1499975437\nfuzzer_pid     : 22232\ncycles_done    : 6\nexecs_done     : 3410010\nexecs_per_sec  : 853.94\npaths_total    : 38\npaths_favored  : 11\npaths_found    : 37\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 22\npending_favs   : 0\npending_total  : 7\nvariable_paths : 0\nbitmap_cvg     : 0.23%\nunique_crashes : 0\nunique_hangs   : 13\nlast_path      : 1499972430\nlast_crash     : 0\nlast_hang      : 1499972211\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/No_Paper._Not_Ever._NOPE/input -o /dev/shm/work/No_Paper._Not_Ever._NOPE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/No_Paper._Not_Ever._NOPE/No_Paper._Not_Ever._NOPE.dict -- data/linux/processed-challenges/No_Paper._Not_Ever._NOPE/bin/No_Paper._Not_Ever._NOPE\n'
+p71
+I0
+tp72
+a(I4320
+S'start_time     : 1499971229\nlast_update    : 1499975557\nfuzzer_pid     : 22232\ncycles_done    : 6\nexecs_done     : 3516359\nexecs_per_sec  : 891.56\npaths_total    : 38\npaths_favored  : 11\npaths_found    : 37\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 28\npending_favs   : 0\npending_total  : 7\nvariable_paths : 0\nbitmap_cvg     : 0.23%\nunique_crashes : 0\nunique_hangs   : 13\nlast_path      : 1499972430\nlast_crash     : 0\nlast_hang      : 1499972211\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/No_Paper._Not_Ever._NOPE/input -o /dev/shm/work/No_Paper._Not_Ever._NOPE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/No_Paper._Not_Ever._NOPE/No_Paper._Not_Ever._NOPE.dict -- data/linux/processed-challenges/No_Paper._Not_Ever._NOPE/bin/No_Paper._Not_Ever._NOPE\n'
+p73
+I0
+tp74
+a(I4440
+S'start_time     : 1499971229\nlast_update    : 1499975677\nfuzzer_pid     : 22232\ncycles_done    : 7\nexecs_done     : 3621848\nexecs_per_sec  : 914.68\npaths_total    : 38\npaths_favored  : 11\npaths_found    : 37\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 1\npending_favs   : 0\npending_total  : 6\nvariable_paths : 0\nbitmap_cvg     : 0.23%\nunique_crashes : 0\nunique_hangs   : 13\nlast_path      : 1499972430\nlast_crash     : 0\nlast_hang      : 1499972211\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/No_Paper._Not_Ever._NOPE/input -o /dev/shm/work/No_Paper._Not_Ever._NOPE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/No_Paper._Not_Ever._NOPE/No_Paper._Not_Ever._NOPE.dict -- data/linux/processed-challenges/No_Paper._Not_Ever._NOPE/bin/No_Paper._Not_Ever._NOPE\n'
+p75
+I0
+tp76
+a(I4560
+S'start_time     : 1499971229\nlast_update    : 1499975797\nfuzzer_pid     : 22232\ncycles_done    : 7\nexecs_done     : 3726157\nexecs_per_sec  : 835.82\npaths_total    : 38\npaths_favored  : 11\npaths_found    : 37\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 20\npending_favs   : 0\npending_total  : 6\nvariable_paths : 0\nbitmap_cvg     : 0.23%\nunique_crashes : 0\nunique_hangs   : 13\nlast_path      : 1499972430\nlast_crash     : 0\nlast_hang      : 1499972211\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/No_Paper._Not_Ever._NOPE/input -o /dev/shm/work/No_Paper._Not_Ever._NOPE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/No_Paper._Not_Ever._NOPE/No_Paper._Not_Ever._NOPE.dict -- data/linux/processed-challenges/No_Paper._Not_Ever._NOPE/bin/No_Paper._Not_Ever._NOPE\n'
+p77
+I0
+tp78
+a(I4680
+S'start_time     : 1499971229\nlast_update    : 1499975917\nfuzzer_pid     : 22232\ncycles_done    : 7\nexecs_done     : 3829518\nexecs_per_sec  : 828.37\npaths_total    : 38\npaths_favored  : 11\npaths_found    : 37\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 32\npending_favs   : 0\npending_total  : 5\nvariable_paths : 0\nbitmap_cvg     : 0.23%\nunique_crashes : 0\nunique_hangs   : 13\nlast_path      : 1499972430\nlast_crash     : 0\nlast_hang      : 1499972211\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/No_Paper._Not_Ever._NOPE/input -o /dev/shm/work/No_Paper._Not_Ever._NOPE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/No_Paper._Not_Ever._NOPE/No_Paper._Not_Ever._NOPE.dict -- data/linux/processed-challenges/No_Paper._Not_Ever._NOPE/bin/No_Paper._Not_Ever._NOPE\n'
+p79
+I0
+tp80
+a(I4800
+S'start_time     : 1499971229\nlast_update    : 1499976038\nfuzzer_pid     : 22232\ncycles_done    : 7\nexecs_done     : 3929161\nexecs_per_sec  : 889.73\npaths_total    : 38\npaths_favored  : 11\npaths_found    : 37\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 32\npending_favs   : 0\npending_total  : 5\nvariable_paths : 0\nbitmap_cvg     : 0.23%\nunique_crashes : 0\nunique_hangs   : 13\nlast_path      : 1499972430\nlast_crash     : 0\nlast_hang      : 1499972211\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/No_Paper._Not_Ever._NOPE/input -o /dev/shm/work/No_Paper._Not_Ever._NOPE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/No_Paper._Not_Ever._NOPE/No_Paper._Not_Ever._NOPE.dict -- data/linux/processed-challenges/No_Paper._Not_Ever._NOPE/bin/No_Paper._Not_Ever._NOPE\n'
+p81
+I0
+tp82
+a(I4920
+S'start_time     : 1499971229\nlast_update    : 1499976158\nfuzzer_pid     : 22232\ncycles_done    : 8\nexecs_done     : 4036554\nexecs_per_sec  : 899.29\npaths_total    : 38\npaths_favored  : 11\npaths_found    : 37\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 17\npending_favs   : 0\npending_total  : 4\nvariable_paths : 0\nbitmap_cvg     : 0.23%\nunique_crashes : 0\nunique_hangs   : 13\nlast_path      : 1499972430\nlast_crash     : 0\nlast_hang      : 1499972211\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/No_Paper._Not_Ever._NOPE/input -o /dev/shm/work/No_Paper._Not_Ever._NOPE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/No_Paper._Not_Ever._NOPE/No_Paper._Not_Ever._NOPE.dict -- data/linux/processed-challenges/No_Paper._Not_Ever._NOPE/bin/No_Paper._Not_Ever._NOPE\n'
+p83
+I0
+tp84
+a(I5040
+S'start_time     : 1499971229\nlast_update    : 1499976278\nfuzzer_pid     : 22232\ncycles_done    : 9\nexecs_done     : 4142808\nexecs_per_sec  : 833.52\npaths_total    : 38\npaths_favored  : 11\npaths_found    : 37\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 3\npending_favs   : 0\npending_total  : 4\nvariable_paths : 0\nbitmap_cvg     : 0.23%\nunique_crashes : 0\nunique_hangs   : 13\nlast_path      : 1499972430\nlast_crash     : 0\nlast_hang      : 1499972211\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/No_Paper._Not_Ever._NOPE/input -o /dev/shm/work/No_Paper._Not_Ever._NOPE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/No_Paper._Not_Ever._NOPE/No_Paper._Not_Ever._NOPE.dict -- data/linux/processed-challenges/No_Paper._Not_Ever._NOPE/bin/No_Paper._Not_Ever._NOPE\n'
+p85
+I0
+tp86
+a(I5160
+S'start_time     : 1499971229\nlast_update    : 1499976398\nfuzzer_pid     : 22232\ncycles_done    : 9\nexecs_done     : 4246178\nexecs_per_sec  : 890.22\npaths_total    : 38\npaths_favored  : 11\npaths_found    : 37\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 22\npending_favs   : 0\npending_total  : 4\nvariable_paths : 0\nbitmap_cvg     : 0.23%\nunique_crashes : 0\nunique_hangs   : 13\nlast_path      : 1499972430\nlast_crash     : 0\nlast_hang      : 1499972211\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/No_Paper._Not_Ever._NOPE/input -o /dev/shm/work/No_Paper._Not_Ever._NOPE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/No_Paper._Not_Ever._NOPE/No_Paper._Not_Ever._NOPE.dict -- data/linux/processed-challenges/No_Paper._Not_Ever._NOPE/bin/No_Paper._Not_Ever._NOPE\n'
+p87
+I0
+tp88
+a(I5280
+S'start_time     : 1499971229\nlast_update    : 1499976458\nfuzzer_pid     : 22232\ncycles_done    : 9\nexecs_done     : 4296964\nexecs_per_sec  : 854.44\npaths_total    : 38\npaths_favored  : 11\npaths_found    : 37\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 26\npending_favs   : 0\npending_total  : 4\nvariable_paths : 0\nbitmap_cvg     : 0.23%\nunique_crashes : 0\nunique_hangs   : 13\nlast_path      : 1499972430\nlast_crash     : 0\nlast_hang      : 1499972211\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/No_Paper._Not_Ever._NOPE/input -o /dev/shm/work/No_Paper._Not_Ever._NOPE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/No_Paper._Not_Ever._NOPE/No_Paper._Not_Ever._NOPE.dict -- data/linux/processed-challenges/No_Paper._Not_Ever._NOPE/bin/No_Paper._Not_Ever._NOPE\n'
+p89
+I0
+tp90
+a(I5400
+S'start_time     : 1499971229\nlast_update    : 1499976579\nfuzzer_pid     : 22232\ncycles_done    : 10\nexecs_done     : 4400565\nexecs_per_sec  : 899.59\npaths_total    : 38\npaths_favored  : 11\npaths_found    : 37\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 17\npending_favs   : 0\npending_total  : 4\nvariable_paths : 0\nbitmap_cvg     : 0.23%\nunique_crashes : 0\nunique_hangs   : 13\nlast_path      : 1499972430\nlast_crash     : 0\nlast_hang      : 1499972211\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/No_Paper._Not_Ever._NOPE/input -o /dev/shm/work/No_Paper._Not_Ever._NOPE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/No_Paper._Not_Ever._NOPE/No_Paper._Not_Ever._NOPE.dict -- data/linux/processed-challenges/No_Paper._Not_Ever._NOPE/bin/No_Paper._Not_Ever._NOPE\n'
+p91
+I0
+tp92
+a(I5520
+S'start_time     : 1499971229\nlast_update    : 1499976699\nfuzzer_pid     : 22232\ncycles_done    : 10\nexecs_done     : 4504306\nexecs_per_sec  : 884.73\npaths_total    : 38\npaths_favored  : 11\npaths_found    : 37\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 24\npending_favs   : 0\npending_total  : 4\nvariable_paths : 0\nbitmap_cvg     : 0.23%\nunique_crashes : 0\nunique_hangs   : 13\nlast_path      : 1499972430\nlast_crash     : 0\nlast_hang      : 1499972211\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/No_Paper._Not_Ever._NOPE/input -o /dev/shm/work/No_Paper._Not_Ever._NOPE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/No_Paper._Not_Ever._NOPE/No_Paper._Not_Ever._NOPE.dict -- data/linux/processed-challenges/No_Paper._Not_Ever._NOPE/bin/No_Paper._Not_Ever._NOPE\n'
+p93
+I0
+tp94
+a(I5640
+S'start_time     : 1499971229\nlast_update    : 1499976819\nfuzzer_pid     : 22232\ncycles_done    : 11\nexecs_done     : 4606318\nexecs_per_sec  : 858.19\npaths_total    : 38\npaths_favored  : 11\npaths_found    : 37\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 0\npending_favs   : 0\npending_total  : 2\nvariable_paths : 0\nbitmap_cvg     : 0.23%\nunique_crashes : 0\nunique_hangs   : 13\nlast_path      : 1499972430\nlast_crash     : 0\nlast_hang      : 1499972211\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/No_Paper._Not_Ever._NOPE/input -o /dev/shm/work/No_Paper._Not_Ever._NOPE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/No_Paper._Not_Ever._NOPE/No_Paper._Not_Ever._NOPE.dict -- data/linux/processed-challenges/No_Paper._Not_Ever._NOPE/bin/No_Paper._Not_Ever._NOPE\n'
+p95
+I0
+tp96
+a(I5760
+S'start_time     : 1499971229\nlast_update    : 1499976940\nfuzzer_pid     : 22232\ncycles_done    : 11\nexecs_done     : 4711476\nexecs_per_sec  : 935.23\npaths_total    : 38\npaths_favored  : 11\npaths_found    : 37\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 14\npending_favs   : 0\npending_total  : 2\nvariable_paths : 0\nbitmap_cvg     : 0.23%\nunique_crashes : 0\nunique_hangs   : 13\nlast_path      : 1499972430\nlast_crash     : 0\nlast_hang      : 1499972211\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/No_Paper._Not_Ever._NOPE/input -o /dev/shm/work/No_Paper._Not_Ever._NOPE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/No_Paper._Not_Ever._NOPE/No_Paper._Not_Ever._NOPE.dict -- data/linux/processed-challenges/No_Paper._Not_Ever._NOPE/bin/No_Paper._Not_Ever._NOPE\n'
+p97
+I1
+tp98
+a(I5880
+S'start_time     : 1499971229\nlast_update    : 1499977060\nfuzzer_pid     : 22232\ncycles_done    : 12\nexecs_done     : 4818414\nexecs_per_sec  : 912.33\npaths_total    : 39\npaths_favored  : 11\npaths_found    : 38\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 1\npending_favs   : 0\npending_total  : 2\nvariable_paths : 0\nbitmap_cvg     : 0.23%\nunique_crashes : 0\nunique_hangs   : 13\nlast_path      : 1499976955\nlast_crash     : 0\nlast_hang      : 1499972211\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/No_Paper._Not_Ever._NOPE/input -o /dev/shm/work/No_Paper._Not_Ever._NOPE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/No_Paper._Not_Ever._NOPE/No_Paper._Not_Ever._NOPE.dict -- data/linux/processed-challenges/No_Paper._Not_Ever._NOPE/bin/No_Paper._Not_Ever._NOPE\n'
+p99
+I0
+tp100
+a(I6000
+S'start_time     : 1499971229\nlast_update    : 1499977180\nfuzzer_pid     : 22232\ncycles_done    : 12\nexecs_done     : 4925740\nexecs_per_sec  : 875.84\npaths_total    : 39\npaths_favored  : 11\npaths_found    : 38\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 17\npending_favs   : 0\npending_total  : 2\nvariable_paths : 0\nbitmap_cvg     : 0.23%\nunique_crashes : 0\nunique_hangs   : 13\nlast_path      : 1499976955\nlast_crash     : 0\nlast_hang      : 1499972211\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/No_Paper._Not_Ever._NOPE/input -o /dev/shm/work/No_Paper._Not_Ever._NOPE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/No_Paper._Not_Ever._NOPE/No_Paper._Not_Ever._NOPE.dict -- data/linux/processed-challenges/No_Paper._Not_Ever._NOPE/bin/No_Paper._Not_Ever._NOPE\n'
+p101
+I0
+tp102
+a(I6120
+S'start_time     : 1499971229\nlast_update    : 1499977300\nfuzzer_pid     : 22232\ncycles_done    : 12\nexecs_done     : 5032524\nexecs_per_sec  : 895.74\npaths_total    : 39\npaths_favored  : 11\npaths_found    : 38\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 33\npending_favs   : 0\npending_total  : 2\nvariable_paths : 0\nbitmap_cvg     : 0.23%\nunique_crashes : 0\nunique_hangs   : 13\nlast_path      : 1499976955\nlast_crash     : 0\nlast_hang      : 1499972211\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/No_Paper._Not_Ever._NOPE/input -o /dev/shm/work/No_Paper._Not_Ever._NOPE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/No_Paper._Not_Ever._NOPE/No_Paper._Not_Ever._NOPE.dict -- data/linux/processed-challenges/No_Paper._Not_Ever._NOPE/bin/No_Paper._Not_Ever._NOPE\n'
+p103
+I0
+tp104
+a(I6240
+S'start_time     : 1499971229\nlast_update    : 1499977421\nfuzzer_pid     : 22232\ncycles_done    : 13\nexecs_done     : 5139762\nexecs_per_sec  : 889.91\npaths_total    : 39\npaths_favored  : 11\npaths_found    : 38\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 11\npending_favs   : 0\npending_total  : 2\nvariable_paths : 0\nbitmap_cvg     : 0.23%\nunique_crashes : 0\nunique_hangs   : 13\nlast_path      : 1499976955\nlast_crash     : 0\nlast_hang      : 1499972211\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/No_Paper._Not_Ever._NOPE/input -o /dev/shm/work/No_Paper._Not_Ever._NOPE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/No_Paper._Not_Ever._NOPE/No_Paper._Not_Ever._NOPE.dict -- data/linux/processed-challenges/No_Paper._Not_Ever._NOPE/bin/No_Paper._Not_Ever._NOPE\n'
+p105
+I0
+tp106
+a(I6360
+S'start_time     : 1499971229\nlast_update    : 1499977541\nfuzzer_pid     : 22232\ncycles_done    : 13\nexecs_done     : 5245582\nexecs_per_sec  : 813.53\npaths_total    : 39\npaths_favored  : 11\npaths_found    : 38\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 27\npending_favs   : 0\npending_total  : 2\nvariable_paths : 0\nbitmap_cvg     : 0.23%\nunique_crashes : 0\nunique_hangs   : 13\nlast_path      : 1499976955\nlast_crash     : 0\nlast_hang      : 1499972211\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/No_Paper._Not_Ever._NOPE/input -o /dev/shm/work/No_Paper._Not_Ever._NOPE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/No_Paper._Not_Ever._NOPE/No_Paper._Not_Ever._NOPE.dict -- data/linux/processed-challenges/No_Paper._Not_Ever._NOPE/bin/No_Paper._Not_Ever._NOPE\n'
+p107
+I0
+tp108
+a(I6480
+S'start_time     : 1499971229\nlast_update    : 1499977661\nfuzzer_pid     : 22232\ncycles_done    : 14\nexecs_done     : 5351246\nexecs_per_sec  : 905.93\npaths_total    : 39\npaths_favored  : 11\npaths_found    : 38\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 9\npending_favs   : 0\npending_total  : 2\nvariable_paths : 0\nbitmap_cvg     : 0.23%\nunique_crashes : 0\nunique_hangs   : 13\nlast_path      : 1499976955\nlast_crash     : 0\nlast_hang      : 1499972211\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/No_Paper._Not_Ever._NOPE/input -o /dev/shm/work/No_Paper._Not_Ever._NOPE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/No_Paper._Not_Ever._NOPE/No_Paper._Not_Ever._NOPE.dict -- data/linux/processed-challenges/No_Paper._Not_Ever._NOPE/bin/No_Paper._Not_Ever._NOPE\n'
+p109
+I0
+tp110
+a(I6600
+S'start_time     : 1499971229\nlast_update    : 1499977781\nfuzzer_pid     : 22232\ncycles_done    : 14\nexecs_done     : 5457048\nexecs_per_sec  : 841.33\npaths_total    : 39\npaths_favored  : 11\npaths_found    : 38\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 23\npending_favs   : 0\npending_total  : 2\nvariable_paths : 0\nbitmap_cvg     : 0.23%\nunique_crashes : 0\nunique_hangs   : 13\nlast_path      : 1499976955\nlast_crash     : 0\nlast_hang      : 1499972211\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/No_Paper._Not_Ever._NOPE/input -o /dev/shm/work/No_Paper._Not_Ever._NOPE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/No_Paper._Not_Ever._NOPE/No_Paper._Not_Ever._NOPE.dict -- data/linux/processed-challenges/No_Paper._Not_Ever._NOPE/bin/No_Paper._Not_Ever._NOPE\n'
+p111
+I0
+tp112
+a(I6720
+S'start_time     : 1499971229\nlast_update    : 1499977901\nfuzzer_pid     : 22232\ncycles_done    : 15\nexecs_done     : 5561749\nexecs_per_sec  : 875.31\npaths_total    : 39\npaths_favored  : 11\npaths_found    : 38\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 6\npending_favs   : 0\npending_total  : 2\nvariable_paths : 0\nbitmap_cvg     : 0.23%\nunique_crashes : 0\nunique_hangs   : 13\nlast_path      : 1499976955\nlast_crash     : 0\nlast_hang      : 1499972211\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/No_Paper._Not_Ever._NOPE/input -o /dev/shm/work/No_Paper._Not_Ever._NOPE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/No_Paper._Not_Ever._NOPE/No_Paper._Not_Ever._NOPE.dict -- data/linux/processed-challenges/No_Paper._Not_Ever._NOPE/bin/No_Paper._Not_Ever._NOPE\n'
+p113
+I0
+tp114
+a(I6840
+S'start_time     : 1499971229\nlast_update    : 1499978022\nfuzzer_pid     : 22232\ncycles_done    : 15\nexecs_done     : 5666482\nexecs_per_sec  : 882.36\npaths_total    : 39\npaths_favored  : 11\npaths_found    : 38\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 22\npending_favs   : 0\npending_total  : 1\nvariable_paths : 0\nbitmap_cvg     : 0.23%\nunique_crashes : 0\nunique_hangs   : 13\nlast_path      : 1499976955\nlast_crash     : 0\nlast_hang      : 1499972211\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/No_Paper._Not_Ever._NOPE/input -o /dev/shm/work/No_Paper._Not_Ever._NOPE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/No_Paper._Not_Ever._NOPE/No_Paper._Not_Ever._NOPE.dict -- data/linux/processed-challenges/No_Paper._Not_Ever._NOPE/bin/No_Paper._Not_Ever._NOPE\n'
+p115
+I0
+tp116
+a(I6960
+S'start_time     : 1499971229\nlast_update    : 1499978142\nfuzzer_pid     : 22232\ncycles_done    : 15\nexecs_done     : 5742985\nexecs_per_sec  : 507.02\npaths_total    : 39\npaths_favored  : 11\npaths_found    : 38\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 38\npending_favs   : 0\npending_total  : 1\nvariable_paths : 0\nbitmap_cvg     : 0.23%\nunique_crashes : 0\nunique_hangs   : 13\nlast_path      : 1499976955\nlast_crash     : 0\nlast_hang      : 1499972211\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/No_Paper._Not_Ever._NOPE/input -o /dev/shm/work/No_Paper._Not_Ever._NOPE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/No_Paper._Not_Ever._NOPE/No_Paper._Not_Ever._NOPE.dict -- data/linux/processed-challenges/No_Paper._Not_Ever._NOPE/bin/No_Paper._Not_Ever._NOPE\n'
+p117
+I0
+tp118
+a(I7080
+S'start_time     : 1499971229\nlast_update    : 1499978262\nfuzzer_pid     : 22232\ncycles_done    : 15\nexecs_done     : 5804997\nexecs_per_sec  : 532.08\npaths_total    : 39\npaths_favored  : 11\npaths_found    : 38\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 38\npending_favs   : 0\npending_total  : 1\nvariable_paths : 0\nbitmap_cvg     : 0.23%\nunique_crashes : 0\nunique_hangs   : 13\nlast_path      : 1499976955\nlast_crash     : 0\nlast_hang      : 1499972211\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/No_Paper._Not_Ever._NOPE/input -o /dev/shm/work/No_Paper._Not_Ever._NOPE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/No_Paper._Not_Ever._NOPE/No_Paper._Not_Ever._NOPE.dict -- data/linux/processed-challenges/No_Paper._Not_Ever._NOPE/bin/No_Paper._Not_Ever._NOPE\n'
+p119
+I0
+tp120
+a(I7200
+S'start_time     : 1499971229\nlast_update    : 1499978382\nfuzzer_pid     : 22232\ncycles_done    : 15\nexecs_done     : 5867387\nexecs_per_sec  : 506.30\npaths_total    : 39\npaths_favored  : 11\npaths_found    : 38\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 38\npending_favs   : 0\npending_total  : 1\nvariable_paths : 0\nbitmap_cvg     : 0.23%\nunique_crashes : 0\nunique_hangs   : 13\nlast_path      : 1499976955\nlast_crash     : 0\nlast_hang      : 1499972211\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/No_Paper._Not_Ever._NOPE/input -o /dev/shm/work/No_Paper._Not_Ever._NOPE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/No_Paper._Not_Ever._NOPE/No_Paper._Not_Ever._NOPE.dict -- data/linux/processed-challenges/No_Paper._Not_Ever._NOPE/bin/No_Paper._Not_Ever._NOPE\n'
+p121
+I0
+tp122
+a(I7320
+S'start_time     : 1499971229\nlast_update    : 1499978502\nfuzzer_pid     : 22232\ncycles_done    : 15\nexecs_done     : 5929438\nexecs_per_sec  : 516.38\npaths_total    : 39\npaths_favored  : 11\npaths_found    : 38\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 38\npending_favs   : 0\npending_total  : 1\nvariable_paths : 0\nbitmap_cvg     : 0.23%\nunique_crashes : 0\nunique_hangs   : 13\nlast_path      : 1499976955\nlast_crash     : 0\nlast_hang      : 1499972211\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/No_Paper._Not_Ever._NOPE/input -o /dev/shm/work/No_Paper._Not_Ever._NOPE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/No_Paper._Not_Ever._NOPE/No_Paper._Not_Ever._NOPE.dict -- data/linux/processed-challenges/No_Paper._Not_Ever._NOPE/bin/No_Paper._Not_Ever._NOPE\n'
+p123
+I0
+tp124
+a(I7440
+S'start_time     : 1499971229\nlast_update    : 1499978623\nfuzzer_pid     : 22232\ncycles_done    : 15\nexecs_done     : 5990841\nexecs_per_sec  : 497.01\npaths_total    : 39\npaths_favored  : 11\npaths_found    : 38\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 38\npending_favs   : 0\npending_total  : 1\nvariable_paths : 0\nbitmap_cvg     : 0.23%\nunique_crashes : 0\nunique_hangs   : 13\nlast_path      : 1499976955\nlast_crash     : 0\nlast_hang      : 1499972211\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/No_Paper._Not_Ever._NOPE/input -o /dev/shm/work/No_Paper._Not_Ever._NOPE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/No_Paper._Not_Ever._NOPE/No_Paper._Not_Ever._NOPE.dict -- data/linux/processed-challenges/No_Paper._Not_Ever._NOPE/bin/No_Paper._Not_Ever._NOPE\n'
+p125
+I0
+tp126
+a(I7560
+S'start_time     : 1499971229\nlast_update    : 1499978743\nfuzzer_pid     : 22232\ncycles_done    : 15\nexecs_done     : 6052195\nexecs_per_sec  : 529.11\npaths_total    : 39\npaths_favored  : 11\npaths_found    : 38\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 38\npending_favs   : 0\npending_total  : 1\nvariable_paths : 0\nbitmap_cvg     : 0.23%\nunique_crashes : 0\nunique_hangs   : 13\nlast_path      : 1499976955\nlast_crash     : 0\nlast_hang      : 1499972211\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/No_Paper._Not_Ever._NOPE/input -o /dev/shm/work/No_Paper._Not_Ever._NOPE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/No_Paper._Not_Ever._NOPE/No_Paper._Not_Ever._NOPE.dict -- data/linux/processed-challenges/No_Paper._Not_Ever._NOPE/bin/No_Paper._Not_Ever._NOPE\n'
+p127
+I0
+tp128
+a(I7680
+S'start_time     : 1499971229\nlast_update    : 1499978863\nfuzzer_pid     : 22232\ncycles_done    : 15\nexecs_done     : 6114295\nexecs_per_sec  : 515.48\npaths_total    : 39\npaths_favored  : 11\npaths_found    : 38\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 38\npending_favs   : 0\npending_total  : 1\nvariable_paths : 0\nbitmap_cvg     : 0.23%\nunique_crashes : 0\nunique_hangs   : 13\nlast_path      : 1499976955\nlast_crash     : 0\nlast_hang      : 1499972211\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/No_Paper._Not_Ever._NOPE/input -o /dev/shm/work/No_Paper._Not_Ever._NOPE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/No_Paper._Not_Ever._NOPE/No_Paper._Not_Ever._NOPE.dict -- data/linux/processed-challenges/No_Paper._Not_Ever._NOPE/bin/No_Paper._Not_Ever._NOPE\n'
+p129
+I0
+tp130
+a(I7800
+S'start_time     : 1499971229\nlast_update    : 1499978983\nfuzzer_pid     : 22232\ncycles_done    : 15\nexecs_done     : 6175805\nexecs_per_sec  : 508.40\npaths_total    : 39\npaths_favored  : 11\npaths_found    : 38\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 38\npending_favs   : 0\npending_total  : 1\nvariable_paths : 0\nbitmap_cvg     : 0.23%\nunique_crashes : 0\nunique_hangs   : 13\nlast_path      : 1499976955\nlast_crash     : 0\nlast_hang      : 1499972211\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/No_Paper._Not_Ever._NOPE/input -o /dev/shm/work/No_Paper._Not_Ever._NOPE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/No_Paper._Not_Ever._NOPE/No_Paper._Not_Ever._NOPE.dict -- data/linux/processed-challenges/No_Paper._Not_Ever._NOPE/bin/No_Paper._Not_Ever._NOPE\n'
+p131
+I0
+tp132
+a(I7920
+S'start_time     : 1499971229\nlast_update    : 1499979103\nfuzzer_pid     : 22232\ncycles_done    : 15\nexecs_done     : 6237215\nexecs_per_sec  : 512.28\npaths_total    : 39\npaths_favored  : 11\npaths_found    : 38\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 38\npending_favs   : 0\npending_total  : 1\nvariable_paths : 0\nbitmap_cvg     : 0.23%\nunique_crashes : 0\nunique_hangs   : 13\nlast_path      : 1499976955\nlast_crash     : 0\nlast_hang      : 1499972211\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/No_Paper._Not_Ever._NOPE/input -o /dev/shm/work/No_Paper._Not_Ever._NOPE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/No_Paper._Not_Ever._NOPE/No_Paper._Not_Ever._NOPE.dict -- data/linux/processed-challenges/No_Paper._Not_Ever._NOPE/bin/No_Paper._Not_Ever._NOPE\n'
+p133
+I0
+tp134
+a(I8040
+S'start_time     : 1499971229\nlast_update    : 1499979223\nfuzzer_pid     : 22232\ncycles_done    : 15\nexecs_done     : 6299055\nexecs_per_sec  : 507.82\npaths_total    : 39\npaths_favored  : 11\npaths_found    : 38\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 38\npending_favs   : 0\npending_total  : 1\nvariable_paths : 0\nbitmap_cvg     : 0.23%\nunique_crashes : 0\nunique_hangs   : 13\nlast_path      : 1499976955\nlast_crash     : 0\nlast_hang      : 1499972211\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/No_Paper._Not_Ever._NOPE/input -o /dev/shm/work/No_Paper._Not_Ever._NOPE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/No_Paper._Not_Ever._NOPE/No_Paper._Not_Ever._NOPE.dict -- data/linux/processed-challenges/No_Paper._Not_Ever._NOPE/bin/No_Paper._Not_Ever._NOPE\n'
+p135
+I0
+tp136
+a(I8160
+S'start_time     : 1499971229\nlast_update    : 1499979344\nfuzzer_pid     : 22232\ncycles_done    : 15\nexecs_done     : 6362609\nexecs_per_sec  : 750.50\npaths_total    : 39\npaths_favored  : 11\npaths_found    : 38\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 38\npending_favs   : 0\npending_total  : 1\nvariable_paths : 0\nbitmap_cvg     : 0.23%\nunique_crashes : 0\nunique_hangs   : 13\nlast_path      : 1499976955\nlast_crash     : 0\nlast_hang      : 1499972211\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/No_Paper._Not_Ever._NOPE/input -o /dev/shm/work/No_Paper._Not_Ever._NOPE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/No_Paper._Not_Ever._NOPE/No_Paper._Not_Ever._NOPE.dict -- data/linux/processed-challenges/No_Paper._Not_Ever._NOPE/bin/No_Paper._Not_Ever._NOPE\n'
+p137
+I0
+tp138
+a(I8280
+S'start_time     : 1499971229\nlast_update    : 1499979464\nfuzzer_pid     : 22232\ncycles_done    : 16\nexecs_done     : 6469588\nexecs_per_sec  : 903.03\npaths_total    : 39\npaths_favored  : 11\npaths_found    : 38\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 3\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.23%\nunique_crashes : 0\nunique_hangs   : 13\nlast_path      : 1499976955\nlast_crash     : 0\nlast_hang      : 1499972211\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/No_Paper._Not_Ever._NOPE/input -o /dev/shm/work/No_Paper._Not_Ever._NOPE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/No_Paper._Not_Ever._NOPE/No_Paper._Not_Ever._NOPE.dict -- data/linux/processed-challenges/No_Paper._Not_Ever._NOPE/bin/No_Paper._Not_Ever._NOPE\n'
+p139
+I0
+tp140
+a(I8400
+S'start_time     : 1499971229\nlast_update    : 1499979584\nfuzzer_pid     : 22232\ncycles_done    : 16\nexecs_done     : 6576002\nexecs_per_sec  : 900.77\npaths_total    : 39\npaths_favored  : 11\npaths_found    : 38\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 22\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.23%\nunique_crashes : 0\nunique_hangs   : 13\nlast_path      : 1499976955\nlast_crash     : 0\nlast_hang      : 1499972211\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/No_Paper._Not_Ever._NOPE/input -o /dev/shm/work/No_Paper._Not_Ever._NOPE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/No_Paper._Not_Ever._NOPE/No_Paper._Not_Ever._NOPE.dict -- data/linux/processed-challenges/No_Paper._Not_Ever._NOPE/bin/No_Paper._Not_Ever._NOPE\n'
+p141
+I0
+tp142
+a(I8520
+S'start_time     : 1499971229\nlast_update    : 1499979704\nfuzzer_pid     : 22232\ncycles_done    : 17\nexecs_done     : 6682717\nexecs_per_sec  : 937.39\npaths_total    : 39\npaths_favored  : 11\npaths_found    : 38\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 3\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.23%\nunique_crashes : 0\nunique_hangs   : 13\nlast_path      : 1499976955\nlast_crash     : 0\nlast_hang      : 1499972211\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/No_Paper._Not_Ever._NOPE/input -o /dev/shm/work/No_Paper._Not_Ever._NOPE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/No_Paper._Not_Ever._NOPE/No_Paper._Not_Ever._NOPE.dict -- data/linux/processed-challenges/No_Paper._Not_Ever._NOPE/bin/No_Paper._Not_Ever._NOPE\n'
+p143
+I0
+tp144
+a(I8640
+S'start_time     : 1499971229\nlast_update    : 1499979825\nfuzzer_pid     : 22232\ncycles_done    : 17\nexecs_done     : 6788261\nexecs_per_sec  : 842.94\npaths_total    : 39\npaths_favored  : 11\npaths_found    : 38\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 22\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.23%\nunique_crashes : 0\nunique_hangs   : 13\nlast_path      : 1499976955\nlast_crash     : 0\nlast_hang      : 1499972211\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/No_Paper._Not_Ever._NOPE/input -o /dev/shm/work/No_Paper._Not_Ever._NOPE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/No_Paper._Not_Ever._NOPE/No_Paper._Not_Ever._NOPE.dict -- data/linux/processed-challenges/No_Paper._Not_Ever._NOPE/bin/No_Paper._Not_Ever._NOPE\n'
+p145
+I0
+tp146
+a(I8760
+S'start_time     : 1499971229\nlast_update    : 1499979945\nfuzzer_pid     : 22232\ncycles_done    : 18\nexecs_done     : 6891618\nexecs_per_sec  : 893.30\npaths_total    : 39\npaths_favored  : 11\npaths_found    : 38\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 11\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.23%\nunique_crashes : 0\nunique_hangs   : 13\nlast_path      : 1499976955\nlast_crash     : 0\nlast_hang      : 1499972211\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/No_Paper._Not_Ever._NOPE/input -o /dev/shm/work/No_Paper._Not_Ever._NOPE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/No_Paper._Not_Ever._NOPE/No_Paper._Not_Ever._NOPE.dict -- data/linux/processed-challenges/No_Paper._Not_Ever._NOPE/bin/No_Paper._Not_Ever._NOPE\n'
+p147
+I0
+tp148
+a(I8880
+S'start_time     : 1499971229\nlast_update    : 1499980065\nfuzzer_pid     : 22232\ncycles_done    : 18\nexecs_done     : 6997861\nexecs_per_sec  : 910.42\npaths_total    : 39\npaths_favored  : 11\npaths_found    : 38\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 23\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.23%\nunique_crashes : 0\nunique_hangs   : 13\nlast_path      : 1499976955\nlast_crash     : 0\nlast_hang      : 1499972211\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/No_Paper._Not_Ever._NOPE/input -o /dev/shm/work/No_Paper._Not_Ever._NOPE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/No_Paper._Not_Ever._NOPE/No_Paper._Not_Ever._NOPE.dict -- data/linux/processed-challenges/No_Paper._Not_Ever._NOPE/bin/No_Paper._Not_Ever._NOPE\n'
+p149
+I0
+tp150
+a(I9000
+S'start_time     : 1499971229\nlast_update    : 1499980185\nfuzzer_pid     : 22232\ncycles_done    : 19\nexecs_done     : 7105354\nexecs_per_sec  : 795.95\npaths_total    : 39\npaths_favored  : 11\npaths_found    : 38\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 12\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.23%\nunique_crashes : 0\nunique_hangs   : 13\nlast_path      : 1499976955\nlast_crash     : 0\nlast_hang      : 1499972211\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/No_Paper._Not_Ever._NOPE/input -o /dev/shm/work/No_Paper._Not_Ever._NOPE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/No_Paper._Not_Ever._NOPE/No_Paper._Not_Ever._NOPE.dict -- data/linux/processed-challenges/No_Paper._Not_Ever._NOPE/bin/No_Paper._Not_Ever._NOPE\n'
+p151
+I0
+tp152
+a(I9120
+S'start_time     : 1499971229\nlast_update    : 1499980306\nfuzzer_pid     : 22232\ncycles_done    : 20\nexecs_done     : 7211381\nexecs_per_sec  : 864.86\npaths_total    : 39\npaths_favored  : 11\npaths_found    : 38\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 3\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.23%\nunique_crashes : 0\nunique_hangs   : 13\nlast_path      : 1499976955\nlast_crash     : 0\nlast_hang      : 1499972211\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/No_Paper._Not_Ever._NOPE/input -o /dev/shm/work/No_Paper._Not_Ever._NOPE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/No_Paper._Not_Ever._NOPE/No_Paper._Not_Ever._NOPE.dict -- data/linux/processed-challenges/No_Paper._Not_Ever._NOPE/bin/No_Paper._Not_Ever._NOPE\n'
+p153
+I0
+tp154
+a(I9240
+S'start_time     : 1499971229\nlast_update    : 1499980426\nfuzzer_pid     : 22232\ncycles_done    : 20\nexecs_done     : 7318915\nexecs_per_sec  : 916.27\npaths_total    : 39\npaths_favored  : 11\npaths_found    : 38\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 22\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.23%\nunique_crashes : 0\nunique_hangs   : 13\nlast_path      : 1499976955\nlast_crash     : 0\nlast_hang      : 1499972211\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/No_Paper._Not_Ever._NOPE/input -o /dev/shm/work/No_Paper._Not_Ever._NOPE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/No_Paper._Not_Ever._NOPE/No_Paper._Not_Ever._NOPE.dict -- data/linux/processed-challenges/No_Paper._Not_Ever._NOPE/bin/No_Paper._Not_Ever._NOPE\n'
+p155
+I0
+tp156
+a(I9360
+S'start_time     : 1499971229\nlast_update    : 1499980546\nfuzzer_pid     : 22232\ncycles_done    : 21\nexecs_done     : 7426941\nexecs_per_sec  : 859.83\npaths_total    : 39\npaths_favored  : 11\npaths_found    : 38\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 3\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.23%\nunique_crashes : 0\nunique_hangs   : 13\nlast_path      : 1499976955\nlast_crash     : 0\nlast_hang      : 1499972211\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/No_Paper._Not_Ever._NOPE/input -o /dev/shm/work/No_Paper._Not_Ever._NOPE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/No_Paper._Not_Ever._NOPE/No_Paper._Not_Ever._NOPE.dict -- data/linux/processed-challenges/No_Paper._Not_Ever._NOPE/bin/No_Paper._Not_Ever._NOPE\n'
+p157
+I0
+tp158
+a(I9480
+S'start_time     : 1499971229\nlast_update    : 1499980666\nfuzzer_pid     : 22232\ncycles_done    : 21\nexecs_done     : 7535093\nexecs_per_sec  : 929.92\npaths_total    : 39\npaths_favored  : 11\npaths_found    : 38\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 22\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.23%\nunique_crashes : 0\nunique_hangs   : 13\nlast_path      : 1499976955\nlast_crash     : 0\nlast_hang      : 1499972211\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/No_Paper._Not_Ever._NOPE/input -o /dev/shm/work/No_Paper._Not_Ever._NOPE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/No_Paper._Not_Ever._NOPE/No_Paper._Not_Ever._NOPE.dict -- data/linux/processed-challenges/No_Paper._Not_Ever._NOPE/bin/No_Paper._Not_Ever._NOPE\n'
+p159
+I0
+tp160
+a(I9600
+S'start_time     : 1499971229\nlast_update    : 1499980787\nfuzzer_pid     : 22232\ncycles_done    : 21\nexecs_done     : 7629889\nexecs_per_sec  : 538.20\npaths_total    : 39\npaths_favored  : 11\npaths_found    : 38\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 38\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.23%\nunique_crashes : 0\nunique_hangs   : 13\nlast_path      : 1499976955\nlast_crash     : 0\nlast_hang      : 1499972211\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/No_Paper._Not_Ever._NOPE/input -o /dev/shm/work/No_Paper._Not_Ever._NOPE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/No_Paper._Not_Ever._NOPE/No_Paper._Not_Ever._NOPE.dict -- data/linux/processed-challenges/No_Paper._Not_Ever._NOPE/bin/No_Paper._Not_Ever._NOPE\n'
+p161
+I0
+tp162
+a(I9720
+S'start_time     : 1499971229\nlast_update    : 1499980907\nfuzzer_pid     : 22232\ncycles_done    : 21\nexecs_done     : 7720269\nexecs_per_sec  : 785.95\npaths_total    : 39\npaths_favored  : 11\npaths_found    : 38\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 38\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.23%\nunique_crashes : 0\nunique_hangs   : 13\nlast_path      : 1499976955\nlast_crash     : 0\nlast_hang      : 1499972211\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/No_Paper._Not_Ever._NOPE/input -o /dev/shm/work/No_Paper._Not_Ever._NOPE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/No_Paper._Not_Ever._NOPE/No_Paper._Not_Ever._NOPE.dict -- data/linux/processed-challenges/No_Paper._Not_Ever._NOPE/bin/No_Paper._Not_Ever._NOPE\n'
+p163
+I0
+tp164
+a(I9840
+S'start_time     : 1499971229\nlast_update    : 1499981027\nfuzzer_pid     : 22232\ncycles_done    : 22\nexecs_done     : 7827717\nexecs_per_sec  : 846.78\npaths_total    : 39\npaths_favored  : 11\npaths_found    : 38\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 11\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.23%\nunique_crashes : 0\nunique_hangs   : 13\nlast_path      : 1499976955\nlast_crash     : 0\nlast_hang      : 1499972211\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/No_Paper._Not_Ever._NOPE/input -o /dev/shm/work/No_Paper._Not_Ever._NOPE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/No_Paper._Not_Ever._NOPE/No_Paper._Not_Ever._NOPE.dict -- data/linux/processed-challenges/No_Paper._Not_Ever._NOPE/bin/No_Paper._Not_Ever._NOPE\n'
+p165
+I0
+tp166
+a(I9960
+S'start_time     : 1499971229\nlast_update    : 1499981147\nfuzzer_pid     : 22232\ncycles_done    : 22\nexecs_done     : 7938167\nexecs_per_sec  : 912.98\npaths_total    : 39\npaths_favored  : 11\npaths_found    : 38\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 24\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.23%\nunique_crashes : 0\nunique_hangs   : 13\nlast_path      : 1499976955\nlast_crash     : 0\nlast_hang      : 1499972211\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/No_Paper._Not_Ever._NOPE/input -o /dev/shm/work/No_Paper._Not_Ever._NOPE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/No_Paper._Not_Ever._NOPE/No_Paper._Not_Ever._NOPE.dict -- data/linux/processed-challenges/No_Paper._Not_Ever._NOPE/bin/No_Paper._Not_Ever._NOPE\n'
+p167
+I0
+tp168
+a(I10080
+S'start_time     : 1499971229\nlast_update    : 1499981267\nfuzzer_pid     : 22232\ncycles_done    : 23\nexecs_done     : 8045771\nexecs_per_sec  : 914.64\npaths_total    : 39\npaths_favored  : 11\npaths_found    : 38\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 9\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.23%\nunique_crashes : 0\nunique_hangs   : 13\nlast_path      : 1499976955\nlast_crash     : 0\nlast_hang      : 1499972211\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/No_Paper._Not_Ever._NOPE/input -o /dev/shm/work/No_Paper._Not_Ever._NOPE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/No_Paper._Not_Ever._NOPE/No_Paper._Not_Ever._NOPE.dict -- data/linux/processed-challenges/No_Paper._Not_Ever._NOPE/bin/No_Paper._Not_Ever._NOPE\n'
+p169
+I0
+tp170
+a(I10200
+S'start_time     : 1499971229\nlast_update    : 1499981388\nfuzzer_pid     : 22232\ncycles_done    : 23\nexecs_done     : 8153593\nexecs_per_sec  : 921.66\npaths_total    : 39\npaths_favored  : 11\npaths_found    : 38\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 23\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.23%\nunique_crashes : 0\nunique_hangs   : 13\nlast_path      : 1499976955\nlast_crash     : 0\nlast_hang      : 1499972211\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/No_Paper._Not_Ever._NOPE/input -o /dev/shm/work/No_Paper._Not_Ever._NOPE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/No_Paper._Not_Ever._NOPE/No_Paper._Not_Ever._NOPE.dict -- data/linux/processed-challenges/No_Paper._Not_Ever._NOPE/bin/No_Paper._Not_Ever._NOPE\n'
+p171
+I0
+tp172
+a(I10320
+S'start_time     : 1499971229\nlast_update    : 1499981508\nfuzzer_pid     : 22232\ncycles_done    : 24\nexecs_done     : 8261414\nexecs_per_sec  : 899.22\npaths_total    : 39\npaths_favored  : 11\npaths_found    : 38\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 13\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.23%\nunique_crashes : 0\nunique_hangs   : 13\nlast_path      : 1499976955\nlast_crash     : 0\nlast_hang      : 1499972211\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/No_Paper._Not_Ever._NOPE/input -o /dev/shm/work/No_Paper._Not_Ever._NOPE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/No_Paper._Not_Ever._NOPE/No_Paper._Not_Ever._NOPE.dict -- data/linux/processed-challenges/No_Paper._Not_Ever._NOPE/bin/No_Paper._Not_Ever._NOPE\n'
+p173
+I0
+tp174
+a(I10440
+S'start_time     : 1499971229\nlast_update    : 1499981628\nfuzzer_pid     : 22232\ncycles_done    : 24\nexecs_done     : 8371857\nexecs_per_sec  : 935.45\npaths_total    : 39\npaths_favored  : 11\npaths_found    : 38\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 31\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.23%\nunique_crashes : 0\nunique_hangs   : 13\nlast_path      : 1499976955\nlast_crash     : 0\nlast_hang      : 1499972211\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/No_Paper._Not_Ever._NOPE/input -o /dev/shm/work/No_Paper._Not_Ever._NOPE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/No_Paper._Not_Ever._NOPE/No_Paper._Not_Ever._NOPE.dict -- data/linux/processed-challenges/No_Paper._Not_Ever._NOPE/bin/No_Paper._Not_Ever._NOPE\n'
+p175
+I0
+tp176
+a(I10560
+S'start_time     : 1499971229\nlast_update    : 1499981748\nfuzzer_pid     : 22232\ncycles_done    : 25\nexecs_done     : 8480458\nexecs_per_sec  : 851.23\npaths_total    : 39\npaths_favored  : 11\npaths_found    : 38\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 13\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.23%\nunique_crashes : 0\nunique_hangs   : 13\nlast_path      : 1499976955\nlast_crash     : 0\nlast_hang      : 1499972211\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/No_Paper._Not_Ever._NOPE/input -o /dev/shm/work/No_Paper._Not_Ever._NOPE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/No_Paper._Not_Ever._NOPE/No_Paper._Not_Ever._NOPE.dict -- data/linux/processed-challenges/No_Paper._Not_Ever._NOPE/bin/No_Paper._Not_Ever._NOPE\n'
+p177
+I0
+tp178
+a(I10680
+S'start_time     : 1499971229\nlast_update    : 1499981869\nfuzzer_pid     : 22232\ncycles_done    : 26\nexecs_done     : 8587705\nexecs_per_sec  : 954.13\npaths_total    : 39\npaths_favored  : 11\npaths_found    : 38\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 3\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.23%\nunique_crashes : 0\nunique_hangs   : 13\nlast_path      : 1499976955\nlast_crash     : 0\nlast_hang      : 1499972211\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/No_Paper._Not_Ever._NOPE/input -o /dev/shm/work/No_Paper._Not_Ever._NOPE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/No_Paper._Not_Ever._NOPE/No_Paper._Not_Ever._NOPE.dict -- data/linux/processed-challenges/No_Paper._Not_Ever._NOPE/bin/No_Paper._Not_Ever._NOPE\n'
+p179
+I0
+tp180
+a.

@@ -1,0 +1,42 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/university_enrollment_patched.dir/lib/calloc.c.o"
+  "CMakeFiles/university_enrollment_patched.dir/lib/ctype.c.o"
+  "CMakeFiles/university_enrollment_patched.dir/lib/free.c.o"
+  "CMakeFiles/university_enrollment_patched.dir/lib/malloc.c.o"
+  "CMakeFiles/university_enrollment_patched.dir/lib/malloc_common.c.o"
+  "CMakeFiles/university_enrollment_patched.dir/lib/memchr.c.o"
+  "CMakeFiles/university_enrollment_patched.dir/lib/memcmp.c.o"
+  "CMakeFiles/university_enrollment_patched.dir/lib/memcpy.c.o"
+  "CMakeFiles/university_enrollment_patched.dir/lib/memmove.c.o"
+  "CMakeFiles/university_enrollment_patched.dir/lib/memset.c.o"
+  "CMakeFiles/university_enrollment_patched.dir/lib/printf.c.o"
+  "CMakeFiles/university_enrollment_patched.dir/lib/realloc.c.o"
+  "CMakeFiles/university_enrollment_patched.dir/lib/strcasecmp.c.o"
+  "CMakeFiles/university_enrollment_patched.dir/lib/strcat.c.o"
+  "CMakeFiles/university_enrollment_patched.dir/lib/strchr.c.o"
+  "CMakeFiles/university_enrollment_patched.dir/lib/strcmp.c.o"
+  "CMakeFiles/university_enrollment_patched.dir/lib/strcpy.c.o"
+  "CMakeFiles/university_enrollment_patched.dir/lib/strdup.c.o"
+  "CMakeFiles/university_enrollment_patched.dir/lib/strlen.c.o"
+  "CMakeFiles/university_enrollment_patched.dir/lib/strncasecmp.c.o"
+  "CMakeFiles/university_enrollment_patched.dir/lib/strncmp.c.o"
+  "CMakeFiles/university_enrollment_patched.dir/lib/strncpy.c.o"
+  "CMakeFiles/university_enrollment_patched.dir/lib/strsep.c.o"
+  "CMakeFiles/university_enrollment_patched.dir/lib/strtol.c.o"
+  "CMakeFiles/university_enrollment_patched.dir/src/course.c.o"
+  "CMakeFiles/university_enrollment_patched.dir/src/data_gen.c.o"
+  "CMakeFiles/university_enrollment_patched.dir/src/department.c.o"
+  "CMakeFiles/university_enrollment_patched.dir/src/main.c.o"
+  "CMakeFiles/university_enrollment_patched.dir/src/professor.c.o"
+  "CMakeFiles/university_enrollment_patched.dir/src/ptrlist.c.o"
+  "CMakeFiles/university_enrollment_patched.dir/src/read.c.o"
+  "CMakeFiles/university_enrollment_patched.dir/src/student.c.o"
+  "CMakeFiles/university_enrollment_patched.dir/src/time.c.o"
+  "university_enrollment_patched.pdb"
+  "university_enrollment_patched"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang C)
+  include(CMakeFiles/university_enrollment_patched.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

@@ -1,0 +1,452 @@
+(lp0
+(I0
+S'start_time     : 1500209237\nlast_update    : 1500209237\nfuzzer_pid     : 22234\ncycles_done    : 0\nexecs_done     : 10\nexecs_per_sec  : 208.33\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 1\npending_total  : 1\nvariable_paths : 0\nbitmap_cvg     : 0.13%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/LazyCalc/input -o /dev/shm/work/LazyCalc/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/LazyCalc/LazyCalc.dict -- data/linux/processed-challenges/LazyCalc/bin/LazyCalc\n'
+p1
+I14
+tp2
+a(I120
+S'start_time     : 1500209237\nlast_update    : 1500209358\nfuzzer_pid     : 22234\ncycles_done    : 0\nexecs_done     : 29858\nexecs_per_sec  : 252.86\npaths_total    : 20\npaths_favored  : 1\npaths_found    : 19\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 1\npending_total  : 20\nvariable_paths : 0\nbitmap_cvg     : 0.30%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500209291\nlast_crash     : 0\nlast_hang      : 1500209303\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/LazyCalc/input -o /dev/shm/work/LazyCalc/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/LazyCalc/LazyCalc.dict -- data/linux/processed-challenges/LazyCalc/bin/LazyCalc\n'
+p3
+I6
+tp4
+a(I240
+S'start_time     : 1500209237\nlast_update    : 1500209478\nfuzzer_pid     : 22234\ncycles_done    : 0\nexecs_done     : 59823\nexecs_per_sec  : 268.74\npaths_total    : 20\npaths_favored  : 1\npaths_found    : 19\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 1\npending_total  : 20\nvariable_paths : 0\nbitmap_cvg     : 0.30%\nunique_crashes : 0\nunique_hangs   : 8\nlast_path      : 1500209291\nlast_crash     : 0\nlast_hang      : 1500209471\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/LazyCalc/input -o /dev/shm/work/LazyCalc/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/LazyCalc/LazyCalc.dict -- data/linux/processed-challenges/LazyCalc/bin/LazyCalc\n'
+p5
+I0
+tp6
+a(I360
+S'start_time     : 1500209237\nlast_update    : 1500209598\nfuzzer_pid     : 22234\ncycles_done    : 0\nexecs_done     : 89748\nexecs_per_sec  : 256.23\npaths_total    : 20\npaths_favored  : 1\npaths_found    : 19\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 1\npending_total  : 20\nvariable_paths : 0\nbitmap_cvg     : 0.30%\nunique_crashes : 0\nunique_hangs   : 8\nlast_path      : 1500209291\nlast_crash     : 0\nlast_hang      : 1500209471\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/LazyCalc/input -o /dev/shm/work/LazyCalc/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/LazyCalc/LazyCalc.dict -- data/linux/processed-challenges/LazyCalc/bin/LazyCalc\n'
+p7
+I0
+tp8
+a(I480
+S'start_time     : 1500209237\nlast_update    : 1500209718\nfuzzer_pid     : 22234\ncycles_done    : 0\nexecs_done     : 120100\nexecs_per_sec  : 247.68\npaths_total    : 20\npaths_favored  : 1\npaths_found    : 19\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 1\npending_total  : 20\nvariable_paths : 0\nbitmap_cvg     : 0.30%\nunique_crashes : 0\nunique_hangs   : 8\nlast_path      : 1500209291\nlast_crash     : 0\nlast_hang      : 1500209471\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/LazyCalc/input -o /dev/shm/work/LazyCalc/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/LazyCalc/LazyCalc.dict -- data/linux/processed-challenges/LazyCalc/bin/LazyCalc\n'
+p9
+I0
+tp10
+a(I600
+S'start_time     : 1500209237\nlast_update    : 1500209838\nfuzzer_pid     : 22234\ncycles_done    : 0\nexecs_done     : 150200\nexecs_per_sec  : 253.41\npaths_total    : 20\npaths_favored  : 1\npaths_found    : 19\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 1\npending_total  : 20\nvariable_paths : 0\nbitmap_cvg     : 0.30%\nunique_crashes : 0\nunique_hangs   : 8\nlast_path      : 1500209291\nlast_crash     : 0\nlast_hang      : 1500209471\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/LazyCalc/input -o /dev/shm/work/LazyCalc/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/LazyCalc/LazyCalc.dict -- data/linux/processed-challenges/LazyCalc/bin/LazyCalc\n'
+p11
+I1
+tp12
+a(I720
+S'start_time     : 1500209237\nlast_update    : 1500209958\nfuzzer_pid     : 22234\ncycles_done    : 0\nexecs_done     : 175327\nexecs_per_sec  : 223.92\npaths_total    : 21\npaths_favored  : 10\npaths_found    : 20\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 3\npending_favs   : 8\npending_total  : 18\nvariable_paths : 0\nbitmap_cvg     : 0.30%\nunique_crashes : 0\nunique_hangs   : 8\nlast_path      : 1500209839\nlast_crash     : 0\nlast_hang      : 1500209471\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/LazyCalc/input -o /dev/shm/work/LazyCalc/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/LazyCalc/LazyCalc.dict -- data/linux/processed-challenges/LazyCalc/bin/LazyCalc\n'
+p13
+I0
+tp14
+a(I840
+S'start_time     : 1500209237\nlast_update    : 1500210079\nfuzzer_pid     : 22234\ncycles_done    : 0\nexecs_done     : 198595\nexecs_per_sec  : 211.61\npaths_total    : 21\npaths_favored  : 10\npaths_found    : 20\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 8\npending_favs   : 4\npending_total  : 14\nvariable_paths : 0\nbitmap_cvg     : 0.30%\nunique_crashes : 0\nunique_hangs   : 8\nlast_path      : 1500209839\nlast_crash     : 0\nlast_hang      : 1500209471\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/LazyCalc/input -o /dev/shm/work/LazyCalc/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/LazyCalc/LazyCalc.dict -- data/linux/processed-challenges/LazyCalc/bin/LazyCalc\n'
+p15
+I0
+tp16
+a(I960
+S'start_time     : 1500209237\nlast_update    : 1500210199\nfuzzer_pid     : 22234\ncycles_done    : 1\nexecs_done     : 228206\nexecs_per_sec  : 240.50\npaths_total    : 21\npaths_favored  : 10\npaths_found    : 20\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 2\npending_favs   : 0\npending_total  : 10\nvariable_paths : 0\nbitmap_cvg     : 0.30%\nunique_crashes : 0\nunique_hangs   : 8\nlast_path      : 1500209839\nlast_crash     : 0\nlast_hang      : 1500209471\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/LazyCalc/input -o /dev/shm/work/LazyCalc/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/LazyCalc/LazyCalc.dict -- data/linux/processed-challenges/LazyCalc/bin/LazyCalc\n'
+p17
+I0
+tp18
+a(I1080
+S'start_time     : 1500209237\nlast_update    : 1500210319\nfuzzer_pid     : 22234\ncycles_done    : 1\nexecs_done     : 255056\nexecs_per_sec  : 203.15\npaths_total    : 21\npaths_favored  : 10\npaths_found    : 20\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 9\npending_favs   : 0\npending_total  : 10\nvariable_paths : 0\nbitmap_cvg     : 0.30%\nunique_crashes : 0\nunique_hangs   : 8\nlast_path      : 1500209839\nlast_crash     : 0\nlast_hang      : 1500209471\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/LazyCalc/input -o /dev/shm/work/LazyCalc/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/LazyCalc/LazyCalc.dict -- data/linux/processed-challenges/LazyCalc/bin/LazyCalc\n'
+p19
+I0
+tp20
+a(I1200
+S'start_time     : 1500209237\nlast_update    : 1500210439\nfuzzer_pid     : 22234\ncycles_done    : 1\nexecs_done     : 296071\nexecs_per_sec  : 69.75\npaths_total    : 21\npaths_favored  : 10\npaths_found    : 20\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 19\npending_favs   : 0\npending_total  : 9\nvariable_paths : 0\nbitmap_cvg     : 0.30%\nunique_crashes : 0\nunique_hangs   : 8\nlast_path      : 1500209839\nlast_crash     : 0\nlast_hang      : 1500209471\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/LazyCalc/input -o /dev/shm/work/LazyCalc/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/LazyCalc/LazyCalc.dict -- data/linux/processed-challenges/LazyCalc/bin/LazyCalc\n'
+p21
+I0
+tp22
+a(I1320
+S'start_time     : 1500209237\nlast_update    : 1500210559\nfuzzer_pid     : 22234\ncycles_done    : 2\nexecs_done     : 332287\nexecs_per_sec  : 284.72\npaths_total    : 27\npaths_favored  : 10\npaths_found    : 26\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 1\npending_favs   : 0\npending_total  : 14\nvariable_paths : 0\nbitmap_cvg     : 0.31%\nunique_crashes : 0\nunique_hangs   : 8\nlast_path      : 1500210514\nlast_crash     : 0\nlast_hang      : 1500209471\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/LazyCalc/input -o /dev/shm/work/LazyCalc/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/LazyCalc/LazyCalc.dict -- data/linux/processed-challenges/LazyCalc/bin/LazyCalc\n'
+p23
+I7
+tp24
+a(I1440
+S'start_time     : 1500209237\nlast_update    : 1500210680\nfuzzer_pid     : 22234\ncycles_done    : 2\nexecs_done     : 361452\nexecs_per_sec  : 278.34\npaths_total    : 29\npaths_favored  : 11\npaths_found    : 28\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 11\npending_favs   : 1\npending_total  : 16\nvariable_paths : 0\nbitmap_cvg     : 0.31%\nunique_crashes : 0\nunique_hangs   : 8\nlast_path      : 1500210587\nlast_crash     : 0\nlast_hang      : 1500209471\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/LazyCalc/input -o /dev/shm/work/LazyCalc/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/LazyCalc/LazyCalc.dict -- data/linux/processed-challenges/LazyCalc/bin/LazyCalc\n'
+p25
+I1
+tp26
+a(I1560
+S'start_time     : 1500209237\nlast_update    : 1500210800\nfuzzer_pid     : 22234\ncycles_done    : 2\nexecs_done     : 444658\nexecs_per_sec  : 730.04\npaths_total    : 29\npaths_favored  : 11\npaths_found    : 28\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 23\npending_favs   : 1\npending_total  : 16\nvariable_paths : 0\nbitmap_cvg     : 0.31%\nunique_crashes : 0\nunique_hangs   : 9\nlast_path      : 1500210587\nlast_crash     : 0\nlast_hang      : 1500210725\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/LazyCalc/input -o /dev/shm/work/LazyCalc/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/LazyCalc/LazyCalc.dict -- data/linux/processed-challenges/LazyCalc/bin/LazyCalc\n'
+p27
+I0
+tp28
+a(I1680
+S'start_time     : 1500209237\nlast_update    : 1500210920\nfuzzer_pid     : 22234\ncycles_done    : 2\nexecs_done     : 492382\nexecs_per_sec  : 206.81\npaths_total    : 29\npaths_favored  : 11\npaths_found    : 28\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 23\npending_favs   : 1\npending_total  : 16\nvariable_paths : 0\nbitmap_cvg     : 0.31%\nunique_crashes : 0\nunique_hangs   : 9\nlast_path      : 1500210587\nlast_crash     : 0\nlast_hang      : 1500210725\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/LazyCalc/input -o /dev/shm/work/LazyCalc/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/LazyCalc/LazyCalc.dict -- data/linux/processed-challenges/LazyCalc/bin/LazyCalc\n'
+p29
+I0
+tp30
+a(I1800
+S'start_time     : 1500209237\nlast_update    : 1500211040\nfuzzer_pid     : 22234\ncycles_done    : 2\nexecs_done     : 556598\nexecs_per_sec  : 606.64\npaths_total    : 29\npaths_favored  : 11\npaths_found    : 28\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 24\npending_favs   : 0\npending_total  : 15\nvariable_paths : 0\nbitmap_cvg     : 0.31%\nunique_crashes : 0\nunique_hangs   : 9\nlast_path      : 1500210587\nlast_crash     : 0\nlast_hang      : 1500210725\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/LazyCalc/input -o /dev/shm/work/LazyCalc/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/LazyCalc/LazyCalc.dict -- data/linux/processed-challenges/LazyCalc/bin/LazyCalc\n'
+p31
+I0
+tp32
+a(I1920
+S'start_time     : 1500209237\nlast_update    : 1500211160\nfuzzer_pid     : 22234\ncycles_done    : 2\nexecs_done     : 620291\nexecs_per_sec  : 557.13\npaths_total    : 29\npaths_favored  : 11\npaths_found    : 28\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 24\npending_favs   : 0\npending_total  : 15\nvariable_paths : 0\nbitmap_cvg     : 0.31%\nunique_crashes : 0\nunique_hangs   : 9\nlast_path      : 1500210587\nlast_crash     : 0\nlast_hang      : 1500210725\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/LazyCalc/input -o /dev/shm/work/LazyCalc/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/LazyCalc/LazyCalc.dict -- data/linux/processed-challenges/LazyCalc/bin/LazyCalc\n'
+p33
+I0
+tp34
+a(I2040
+S'start_time     : 1500209237\nlast_update    : 1500211280\nfuzzer_pid     : 22234\ncycles_done    : 2\nexecs_done     : 688172\nexecs_per_sec  : 566.14\npaths_total    : 29\npaths_favored  : 11\npaths_found    : 28\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 24\npending_favs   : 0\npending_total  : 15\nvariable_paths : 0\nbitmap_cvg     : 0.31%\nunique_crashes : 0\nunique_hangs   : 9\nlast_path      : 1500210587\nlast_crash     : 0\nlast_hang      : 1500210725\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/LazyCalc/input -o /dev/shm/work/LazyCalc/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/LazyCalc/LazyCalc.dict -- data/linux/processed-challenges/LazyCalc/bin/LazyCalc\n'
+p35
+I0
+tp36
+a(I2160
+S'start_time     : 1500209237\nlast_update    : 1500211400\nfuzzer_pid     : 22234\ncycles_done    : 2\nexecs_done     : 743917\nexecs_per_sec  : 223.86\npaths_total    : 29\npaths_favored  : 11\npaths_found    : 28\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 24\npending_favs   : 0\npending_total  : 15\nvariable_paths : 0\nbitmap_cvg     : 0.31%\nunique_crashes : 0\nunique_hangs   : 9\nlast_path      : 1500210587\nlast_crash     : 0\nlast_hang      : 1500210725\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/LazyCalc/input -o /dev/shm/work/LazyCalc/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/LazyCalc/LazyCalc.dict -- data/linux/processed-challenges/LazyCalc/bin/LazyCalc\n'
+p37
+I0
+tp38
+a(I2280
+S'start_time     : 1500209237\nlast_update    : 1500211521\nfuzzer_pid     : 22234\ncycles_done    : 2\nexecs_done     : 776837\nexecs_per_sec  : 290.68\npaths_total    : 29\npaths_favored  : 11\npaths_found    : 28\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 28\npending_favs   : 0\npending_total  : 14\nvariable_paths : 0\nbitmap_cvg     : 0.31%\nunique_crashes : 0\nunique_hangs   : 9\nlast_path      : 1500210587\nlast_crash     : 0\nlast_hang      : 1500210725\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/LazyCalc/input -o /dev/shm/work/LazyCalc/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/LazyCalc/LazyCalc.dict -- data/linux/processed-challenges/LazyCalc/bin/LazyCalc\n'
+p39
+I0
+tp40
+a(I2400
+S'start_time     : 1500209237\nlast_update    : 1500211641\nfuzzer_pid     : 22234\ncycles_done    : 2\nexecs_done     : 811892\nexecs_per_sec  : 291.84\npaths_total    : 29\npaths_favored  : 11\npaths_found    : 28\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 28\npending_favs   : 0\npending_total  : 14\nvariable_paths : 0\nbitmap_cvg     : 0.31%\nunique_crashes : 0\nunique_hangs   : 9\nlast_path      : 1500210587\nlast_crash     : 0\nlast_hang      : 1500210725\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/LazyCalc/input -o /dev/shm/work/LazyCalc/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/LazyCalc/LazyCalc.dict -- data/linux/processed-challenges/LazyCalc/bin/LazyCalc\n'
+p41
+I0
+tp42
+a(I2520
+S'start_time     : 1500209237\nlast_update    : 1500211761\nfuzzer_pid     : 22234\ncycles_done    : 2\nexecs_done     : 846740\nexecs_per_sec  : 287.42\npaths_total    : 29\npaths_favored  : 11\npaths_found    : 28\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 28\npending_favs   : 0\npending_total  : 14\nvariable_paths : 0\nbitmap_cvg     : 0.31%\nunique_crashes : 0\nunique_hangs   : 9\nlast_path      : 1500210587\nlast_crash     : 0\nlast_hang      : 1500210725\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/LazyCalc/input -o /dev/shm/work/LazyCalc/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/LazyCalc/LazyCalc.dict -- data/linux/processed-challenges/LazyCalc/bin/LazyCalc\n'
+p43
+I0
+tp44
+a(I2640
+S'start_time     : 1500209237\nlast_update    : 1500211881\nfuzzer_pid     : 22234\ncycles_done    : 2\nexecs_done     : 881835\nexecs_per_sec  : 294.03\npaths_total    : 29\npaths_favored  : 11\npaths_found    : 28\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 28\npending_favs   : 0\npending_total  : 14\nvariable_paths : 0\nbitmap_cvg     : 0.31%\nunique_crashes : 0\nunique_hangs   : 9\nlast_path      : 1500210587\nlast_crash     : 0\nlast_hang      : 1500210725\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/LazyCalc/input -o /dev/shm/work/LazyCalc/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/LazyCalc/LazyCalc.dict -- data/linux/processed-challenges/LazyCalc/bin/LazyCalc\n'
+p45
+I0
+tp46
+a(I2760
+S'start_time     : 1500209237\nlast_update    : 1500212001\nfuzzer_pid     : 22234\ncycles_done    : 2\nexecs_done     : 917042\nexecs_per_sec  : 288.86\npaths_total    : 29\npaths_favored  : 11\npaths_found    : 28\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 28\npending_favs   : 0\npending_total  : 14\nvariable_paths : 0\nbitmap_cvg     : 0.31%\nunique_crashes : 0\nunique_hangs   : 9\nlast_path      : 1500210587\nlast_crash     : 0\nlast_hang      : 1500210725\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/LazyCalc/input -o /dev/shm/work/LazyCalc/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/LazyCalc/LazyCalc.dict -- data/linux/processed-challenges/LazyCalc/bin/LazyCalc\n'
+p47
+I0
+tp48
+a(I2880
+S'start_time     : 1500209237\nlast_update    : 1500212122\nfuzzer_pid     : 22234\ncycles_done    : 2\nexecs_done     : 952147\nexecs_per_sec  : 292.11\npaths_total    : 29\npaths_favored  : 11\npaths_found    : 28\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 28\npending_favs   : 0\npending_total  : 14\nvariable_paths : 0\nbitmap_cvg     : 0.31%\nunique_crashes : 0\nunique_hangs   : 9\nlast_path      : 1500210587\nlast_crash     : 0\nlast_hang      : 1500210725\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/LazyCalc/input -o /dev/shm/work/LazyCalc/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/LazyCalc/LazyCalc.dict -- data/linux/processed-challenges/LazyCalc/bin/LazyCalc\n'
+p49
+I0
+tp50
+a(I3000
+S'start_time     : 1500209237\nlast_update    : 1500212242\nfuzzer_pid     : 22234\ncycles_done    : 2\nexecs_done     : 984570\nexecs_per_sec  : 286.47\npaths_total    : 29\npaths_favored  : 11\npaths_found    : 28\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 28\npending_favs   : 0\npending_total  : 14\nvariable_paths : 0\nbitmap_cvg     : 0.31%\nunique_crashes : 0\nunique_hangs   : 9\nlast_path      : 1500210587\nlast_crash     : 0\nlast_hang      : 1500210725\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/LazyCalc/input -o /dev/shm/work/LazyCalc/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/LazyCalc/LazyCalc.dict -- data/linux/processed-challenges/LazyCalc/bin/LazyCalc\n'
+p51
+I0
+tp52
+a(I3120
+S'start_time     : 1500209237\nlast_update    : 1500212362\nfuzzer_pid     : 22234\ncycles_done    : 2\nexecs_done     : 1018570\nexecs_per_sec  : 277.76\npaths_total    : 29\npaths_favored  : 11\npaths_found    : 28\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 28\npending_favs   : 0\npending_total  : 14\nvariable_paths : 0\nbitmap_cvg     : 0.31%\nunique_crashes : 0\nunique_hangs   : 9\nlast_path      : 1500210587\nlast_crash     : 0\nlast_hang      : 1500210725\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/LazyCalc/input -o /dev/shm/work/LazyCalc/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/LazyCalc/LazyCalc.dict -- data/linux/processed-challenges/LazyCalc/bin/LazyCalc\n'
+p53
+I0
+tp54
+a(I3240
+S'start_time     : 1500209237\nlast_update    : 1500212483\nfuzzer_pid     : 22234\ncycles_done    : 2\nexecs_done     : 1052550\nexecs_per_sec  : 280.71\npaths_total    : 29\npaths_favored  : 11\npaths_found    : 28\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 28\npending_favs   : 0\npending_total  : 14\nvariable_paths : 0\nbitmap_cvg     : 0.31%\nunique_crashes : 0\nunique_hangs   : 9\nlast_path      : 1500210587\nlast_crash     : 0\nlast_hang      : 1500210725\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/LazyCalc/input -o /dev/shm/work/LazyCalc/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/LazyCalc/LazyCalc.dict -- data/linux/processed-challenges/LazyCalc/bin/LazyCalc\n'
+p55
+I0
+tp56
+a(I3360
+S'start_time     : 1500209237\nlast_update    : 1500212603\nfuzzer_pid     : 22234\ncycles_done    : 2\nexecs_done     : 1086205\nexecs_per_sec  : 269.90\npaths_total    : 29\npaths_favored  : 11\npaths_found    : 28\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 28\npending_favs   : 0\npending_total  : 14\nvariable_paths : 0\nbitmap_cvg     : 0.31%\nunique_crashes : 0\nunique_hangs   : 9\nlast_path      : 1500210587\nlast_crash     : 0\nlast_hang      : 1500210725\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/LazyCalc/input -o /dev/shm/work/LazyCalc/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/LazyCalc/LazyCalc.dict -- data/linux/processed-challenges/LazyCalc/bin/LazyCalc\n'
+p57
+I0
+tp58
+a(I3480
+S'start_time     : 1500209237\nlast_update    : 1500212723\nfuzzer_pid     : 22234\ncycles_done    : 2\nexecs_done     : 1119880\nexecs_per_sec  : 285.70\npaths_total    : 29\npaths_favored  : 11\npaths_found    : 28\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 28\npending_favs   : 0\npending_total  : 14\nvariable_paths : 0\nbitmap_cvg     : 0.31%\nunique_crashes : 0\nunique_hangs   : 9\nlast_path      : 1500210587\nlast_crash     : 0\nlast_hang      : 1500210725\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/LazyCalc/input -o /dev/shm/work/LazyCalc/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/LazyCalc/LazyCalc.dict -- data/linux/processed-challenges/LazyCalc/bin/LazyCalc\n'
+p59
+I0
+tp60
+a(I3600
+S'start_time     : 1500209237\nlast_update    : 1500212843\nfuzzer_pid     : 22234\ncycles_done    : 2\nexecs_done     : 1153435\nexecs_per_sec  : 279.41\npaths_total    : 29\npaths_favored  : 11\npaths_found    : 28\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 28\npending_favs   : 0\npending_total  : 14\nvariable_paths : 0\nbitmap_cvg     : 0.31%\nunique_crashes : 0\nunique_hangs   : 9\nlast_path      : 1500210587\nlast_crash     : 0\nlast_hang      : 1500210725\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/LazyCalc/input -o /dev/shm/work/LazyCalc/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/LazyCalc/LazyCalc.dict -- data/linux/processed-challenges/LazyCalc/bin/LazyCalc\n'
+p61
+I0
+tp62
+a(I3720
+S'start_time     : 1500209237\nlast_update    : 1500212963\nfuzzer_pid     : 22234\ncycles_done    : 2\nexecs_done     : 1186440\nexecs_per_sec  : 268.01\npaths_total    : 29\npaths_favored  : 11\npaths_found    : 28\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 28\npending_favs   : 0\npending_total  : 14\nvariable_paths : 0\nbitmap_cvg     : 0.31%\nunique_crashes : 0\nunique_hangs   : 9\nlast_path      : 1500210587\nlast_crash     : 0\nlast_hang      : 1500210725\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/LazyCalc/input -o /dev/shm/work/LazyCalc/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/LazyCalc/LazyCalc.dict -- data/linux/processed-challenges/LazyCalc/bin/LazyCalc\n'
+p63
+I0
+tp64
+a(I3840
+S'start_time     : 1500209237\nlast_update    : 1500213084\nfuzzer_pid     : 22234\ncycles_done    : 2\nexecs_done     : 1219475\nexecs_per_sec  : 280.71\npaths_total    : 29\npaths_favored  : 11\npaths_found    : 28\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 28\npending_favs   : 0\npending_total  : 14\nvariable_paths : 0\nbitmap_cvg     : 0.31%\nunique_crashes : 0\nunique_hangs   : 9\nlast_path      : 1500210587\nlast_crash     : 0\nlast_hang      : 1500210725\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/LazyCalc/input -o /dev/shm/work/LazyCalc/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/LazyCalc/LazyCalc.dict -- data/linux/processed-challenges/LazyCalc/bin/LazyCalc\n'
+p65
+I0
+tp66
+a(I3960
+S'start_time     : 1500209237\nlast_update    : 1500213204\nfuzzer_pid     : 22234\ncycles_done    : 2\nexecs_done     : 1252890\nexecs_per_sec  : 276.13\npaths_total    : 29\npaths_favored  : 11\npaths_found    : 28\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 28\npending_favs   : 0\npending_total  : 14\nvariable_paths : 0\nbitmap_cvg     : 0.31%\nunique_crashes : 0\nunique_hangs   : 9\nlast_path      : 1500210587\nlast_crash     : 0\nlast_hang      : 1500210725\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/LazyCalc/input -o /dev/shm/work/LazyCalc/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/LazyCalc/LazyCalc.dict -- data/linux/processed-challenges/LazyCalc/bin/LazyCalc\n'
+p67
+I0
+tp68
+a(I4080
+S'start_time     : 1500209237\nlast_update    : 1500213324\nfuzzer_pid     : 22234\ncycles_done    : 2\nexecs_done     : 1286130\nexecs_per_sec  : 285.39\npaths_total    : 29\npaths_favored  : 11\npaths_found    : 28\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 28\npending_favs   : 0\npending_total  : 14\nvariable_paths : 0\nbitmap_cvg     : 0.31%\nunique_crashes : 0\nunique_hangs   : 9\nlast_path      : 1500210587\nlast_crash     : 0\nlast_hang      : 1500210725\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/LazyCalc/input -o /dev/shm/work/LazyCalc/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/LazyCalc/LazyCalc.dict -- data/linux/processed-challenges/LazyCalc/bin/LazyCalc\n'
+p69
+I0
+tp70
+a(I4200
+S'start_time     : 1500209237\nlast_update    : 1500213444\nfuzzer_pid     : 22234\ncycles_done    : 2\nexecs_done     : 1319425\nexecs_per_sec  : 273.81\npaths_total    : 29\npaths_favored  : 11\npaths_found    : 28\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 28\npending_favs   : 0\npending_total  : 14\nvariable_paths : 0\nbitmap_cvg     : 0.31%\nunique_crashes : 0\nunique_hangs   : 9\nlast_path      : 1500210587\nlast_crash     : 0\nlast_hang      : 1500210725\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/LazyCalc/input -o /dev/shm/work/LazyCalc/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/LazyCalc/LazyCalc.dict -- data/linux/processed-challenges/LazyCalc/bin/LazyCalc\n'
+p71
+I0
+tp72
+a(I4320
+S'start_time     : 1500209237\nlast_update    : 1500213564\nfuzzer_pid     : 22234\ncycles_done    : 2\nexecs_done     : 1352785\nexecs_per_sec  : 274.45\npaths_total    : 29\npaths_favored  : 11\npaths_found    : 28\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 28\npending_favs   : 0\npending_total  : 14\nvariable_paths : 0\nbitmap_cvg     : 0.31%\nunique_crashes : 0\nunique_hangs   : 9\nlast_path      : 1500210587\nlast_crash     : 0\nlast_hang      : 1500210725\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/LazyCalc/input -o /dev/shm/work/LazyCalc/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/LazyCalc/LazyCalc.dict -- data/linux/processed-challenges/LazyCalc/bin/LazyCalc\n'
+p73
+I0
+tp74
+a(I4440
+S'start_time     : 1500209237\nlast_update    : 1500213684\nfuzzer_pid     : 22234\ncycles_done    : 2\nexecs_done     : 1385970\nexecs_per_sec  : 275.45\npaths_total    : 29\npaths_favored  : 11\npaths_found    : 28\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 28\npending_favs   : 0\npending_total  : 14\nvariable_paths : 0\nbitmap_cvg     : 0.31%\nunique_crashes : 0\nunique_hangs   : 9\nlast_path      : 1500210587\nlast_crash     : 0\nlast_hang      : 1500210725\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/LazyCalc/input -o /dev/shm/work/LazyCalc/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/LazyCalc/LazyCalc.dict -- data/linux/processed-challenges/LazyCalc/bin/LazyCalc\n'
+p75
+I0
+tp76
+a(I4560
+S'start_time     : 1500209237\nlast_update    : 1500213805\nfuzzer_pid     : 22234\ncycles_done    : 2\nexecs_done     : 1419395\nexecs_per_sec  : 278.81\npaths_total    : 29\npaths_favored  : 11\npaths_found    : 28\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 28\npending_favs   : 0\npending_total  : 14\nvariable_paths : 0\nbitmap_cvg     : 0.31%\nunique_crashes : 0\nunique_hangs   : 9\nlast_path      : 1500210587\nlast_crash     : 0\nlast_hang      : 1500210725\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/LazyCalc/input -o /dev/shm/work/LazyCalc/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/LazyCalc/LazyCalc.dict -- data/linux/processed-challenges/LazyCalc/bin/LazyCalc\n'
+p77
+I0
+tp78
+a(I4680
+S'start_time     : 1500209237\nlast_update    : 1500213925\nfuzzer_pid     : 22234\ncycles_done    : 2\nexecs_done     : 1452460\nexecs_per_sec  : 278.12\npaths_total    : 29\npaths_favored  : 11\npaths_found    : 28\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 28\npending_favs   : 0\npending_total  : 14\nvariable_paths : 0\nbitmap_cvg     : 0.31%\nunique_crashes : 0\nunique_hangs   : 9\nlast_path      : 1500210587\nlast_crash     : 0\nlast_hang      : 1500210725\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/LazyCalc/input -o /dev/shm/work/LazyCalc/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/LazyCalc/LazyCalc.dict -- data/linux/processed-challenges/LazyCalc/bin/LazyCalc\n'
+p79
+I0
+tp80
+a(I4800
+S'start_time     : 1500209237\nlast_update    : 1500214045\nfuzzer_pid     : 22234\ncycles_done    : 2\nexecs_done     : 1485200\nexecs_per_sec  : 270.26\npaths_total    : 29\npaths_favored  : 11\npaths_found    : 28\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 28\npending_favs   : 0\npending_total  : 14\nvariable_paths : 0\nbitmap_cvg     : 0.31%\nunique_crashes : 0\nunique_hangs   : 9\nlast_path      : 1500210587\nlast_crash     : 0\nlast_hang      : 1500210725\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/LazyCalc/input -o /dev/shm/work/LazyCalc/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/LazyCalc/LazyCalc.dict -- data/linux/processed-challenges/LazyCalc/bin/LazyCalc\n'
+p81
+I0
+tp82
+a(I4920
+S'start_time     : 1500209237\nlast_update    : 1500214165\nfuzzer_pid     : 22234\ncycles_done    : 3\nexecs_done     : 1514776\nexecs_per_sec  : 251.80\npaths_total    : 29\npaths_favored  : 11\npaths_found    : 28\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 2\npending_favs   : 0\npending_total  : 13\nvariable_paths : 0\nbitmap_cvg     : 0.31%\nunique_crashes : 0\nunique_hangs   : 9\nlast_path      : 1500210587\nlast_crash     : 0\nlast_hang      : 1500210725\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/LazyCalc/input -o /dev/shm/work/LazyCalc/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/LazyCalc/LazyCalc.dict -- data/linux/processed-challenges/LazyCalc/bin/LazyCalc\n'
+p83
+I0
+tp84
+a(I5040
+S'start_time     : 1500209237\nlast_update    : 1500214285\nfuzzer_pid     : 22234\ncycles_done    : 3\nexecs_done     : 1544247\nexecs_per_sec  : 289.36\npaths_total    : 29\npaths_favored  : 11\npaths_found    : 28\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 4\npending_favs   : 0\npending_total  : 13\nvariable_paths : 0\nbitmap_cvg     : 0.31%\nunique_crashes : 0\nunique_hangs   : 9\nlast_path      : 1500210587\nlast_crash     : 0\nlast_hang      : 1500210725\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/LazyCalc/input -o /dev/shm/work/LazyCalc/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/LazyCalc/LazyCalc.dict -- data/linux/processed-challenges/LazyCalc/bin/LazyCalc\n'
+p85
+I0
+tp86
+a(I5160
+S'start_time     : 1500209237\nlast_update    : 1500214405\nfuzzer_pid     : 22234\ncycles_done    : 3\nexecs_done     : 1574922\nexecs_per_sec  : 259.98\npaths_total    : 29\npaths_favored  : 11\npaths_found    : 28\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 6\npending_favs   : 0\npending_total  : 13\nvariable_paths : 0\nbitmap_cvg     : 0.31%\nunique_crashes : 0\nunique_hangs   : 9\nlast_path      : 1500210587\nlast_crash     : 0\nlast_hang      : 1500210725\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/LazyCalc/input -o /dev/shm/work/LazyCalc/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/LazyCalc/LazyCalc.dict -- data/linux/processed-challenges/LazyCalc/bin/LazyCalc\n'
+p87
+I0
+tp88
+a(I5280
+S'start_time     : 1500209237\nlast_update    : 1500214526\nfuzzer_pid     : 22234\ncycles_done    : 3\nexecs_done     : 1603972\nexecs_per_sec  : 256.11\npaths_total    : 29\npaths_favored  : 11\npaths_found    : 28\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 9\npending_favs   : 0\npending_total  : 13\nvariable_paths : 0\nbitmap_cvg     : 0.31%\nunique_crashes : 0\nunique_hangs   : 9\nlast_path      : 1500210587\nlast_crash     : 0\nlast_hang      : 1500210725\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/LazyCalc/input -o /dev/shm/work/LazyCalc/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/LazyCalc/LazyCalc.dict -- data/linux/processed-challenges/LazyCalc/bin/LazyCalc\n'
+p89
+I0
+tp90
+a(I5400
+S'start_time     : 1500209237\nlast_update    : 1500214646\nfuzzer_pid     : 22234\ncycles_done    : 3\nexecs_done     : 1632334\nexecs_per_sec  : 265.93\npaths_total    : 29\npaths_favored  : 11\npaths_found    : 28\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 11\npending_favs   : 0\npending_total  : 12\nvariable_paths : 0\nbitmap_cvg     : 0.31%\nunique_crashes : 0\nunique_hangs   : 9\nlast_path      : 1500210587\nlast_crash     : 0\nlast_hang      : 1500210725\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/LazyCalc/input -o /dev/shm/work/LazyCalc/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/LazyCalc/LazyCalc.dict -- data/linux/processed-challenges/LazyCalc/bin/LazyCalc\n'
+p91
+I0
+tp92
+a(I5520
+S'start_time     : 1500209237\nlast_update    : 1500214766\nfuzzer_pid     : 22234\ncycles_done    : 3\nexecs_done     : 1669449\nexecs_per_sec  : 254.15\npaths_total    : 29\npaths_favored  : 11\npaths_found    : 28\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 23\npending_favs   : 0\npending_total  : 12\nvariable_paths : 0\nbitmap_cvg     : 0.31%\nunique_crashes : 0\nunique_hangs   : 9\nlast_path      : 1500210587\nlast_crash     : 0\nlast_hang      : 1500210725\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/LazyCalc/input -o /dev/shm/work/LazyCalc/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/LazyCalc/LazyCalc.dict -- data/linux/processed-challenges/LazyCalc/bin/LazyCalc\n'
+p93
+I0
+tp94
+a(I5640
+S'start_time     : 1500209237\nlast_update    : 1500214886\nfuzzer_pid     : 22234\ncycles_done    : 4\nexecs_done     : 1699059\nexecs_per_sec  : 297.66\npaths_total    : 29\npaths_favored  : 11\npaths_found    : 28\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 2\npending_favs   : 0\npending_total  : 12\nvariable_paths : 0\nbitmap_cvg     : 0.31%\nunique_crashes : 0\nunique_hangs   : 9\nlast_path      : 1500210587\nlast_crash     : 0\nlast_hang      : 1500210725\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/LazyCalc/input -o /dev/shm/work/LazyCalc/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/LazyCalc/LazyCalc.dict -- data/linux/processed-challenges/LazyCalc/bin/LazyCalc\n'
+p95
+I0
+tp96
+a(I5760
+S'start_time     : 1500209237\nlast_update    : 1500215006\nfuzzer_pid     : 22234\ncycles_done    : 4\nexecs_done     : 1730209\nexecs_per_sec  : 299.35\npaths_total    : 29\npaths_favored  : 11\npaths_found    : 28\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 5\npending_favs   : 0\npending_total  : 12\nvariable_paths : 0\nbitmap_cvg     : 0.31%\nunique_crashes : 0\nunique_hangs   : 9\nlast_path      : 1500210587\nlast_crash     : 0\nlast_hang      : 1500210725\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/LazyCalc/input -o /dev/shm/work/LazyCalc/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/LazyCalc/LazyCalc.dict -- data/linux/processed-challenges/LazyCalc/bin/LazyCalc\n'
+p97
+I0
+tp98
+a(I5880
+S'start_time     : 1500209237\nlast_update    : 1500215127\nfuzzer_pid     : 22234\ncycles_done    : 4\nexecs_done     : 1759371\nexecs_per_sec  : 233.29\npaths_total    : 29\npaths_favored  : 11\npaths_found    : 28\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 7\npending_favs   : 0\npending_total  : 12\nvariable_paths : 0\nbitmap_cvg     : 0.31%\nunique_crashes : 0\nunique_hangs   : 10\nlast_path      : 1500210587\nlast_crash     : 0\nlast_hang      : 1500215078\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/LazyCalc/input -o /dev/shm/work/LazyCalc/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/LazyCalc/LazyCalc.dict -- data/linux/processed-challenges/LazyCalc/bin/LazyCalc\n'
+p99
+I0
+tp100
+a(I6000
+S'start_time     : 1500209237\nlast_update    : 1500215247\nfuzzer_pid     : 22234\ncycles_done    : 4\nexecs_done     : 1787355\nexecs_per_sec  : 207.62\npaths_total    : 29\npaths_favored  : 11\npaths_found    : 28\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 9\npending_favs   : 0\npending_total  : 11\nvariable_paths : 0\nbitmap_cvg     : 0.31%\nunique_crashes : 0\nunique_hangs   : 10\nlast_path      : 1500210587\nlast_crash     : 0\nlast_hang      : 1500215078\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/LazyCalc/input -o /dev/shm/work/LazyCalc/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/LazyCalc/LazyCalc.dict -- data/linux/processed-challenges/LazyCalc/bin/LazyCalc\n'
+p101
+I0
+tp102
+a(I6120
+S'start_time     : 1500209237\nlast_update    : 1500215367\nfuzzer_pid     : 22234\ncycles_done    : 4\nexecs_done     : 1826277\nexecs_per_sec  : 860.97\npaths_total    : 30\npaths_favored  : 11\npaths_found    : 29\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 21\npending_favs   : 0\npending_total  : 12\nvariable_paths : 0\nbitmap_cvg     : 0.31%\nunique_crashes : 0\nunique_hangs   : 10\nlast_path      : 1500215343\nlast_crash     : 0\nlast_hang      : 1500215078\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/LazyCalc/input -o /dev/shm/work/LazyCalc/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/LazyCalc/LazyCalc.dict -- data/linux/processed-challenges/LazyCalc/bin/LazyCalc\n'
+p103
+I1
+tp104
+a(I6240
+S'start_time     : 1500209237\nlast_update    : 1500215487\nfuzzer_pid     : 22234\ncycles_done    : 4\nexecs_done     : 1885343\nexecs_per_sec  : 176.81\npaths_total    : 32\npaths_favored  : 11\npaths_found    : 31\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 21\npending_favs   : 0\npending_total  : 14\nvariable_paths : 0\nbitmap_cvg     : 0.31%\nunique_crashes : 0\nunique_hangs   : 10\nlast_path      : 1500215482\nlast_crash     : 0\nlast_hang      : 1500215078\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/LazyCalc/input -o /dev/shm/work/LazyCalc/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/LazyCalc/LazyCalc.dict -- data/linux/processed-challenges/LazyCalc/bin/LazyCalc\n'
+p105
+I2
+tp106
+a(I6360
+S'start_time     : 1500209237\nlast_update    : 1500215608\nfuzzer_pid     : 22234\ncycles_done    : 4\nexecs_done     : 1936005\nexecs_per_sec  : 601.56\npaths_total    : 32\npaths_favored  : 11\npaths_found    : 31\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 22\npending_favs   : 0\npending_total  : 13\nvariable_paths : 0\nbitmap_cvg     : 0.31%\nunique_crashes : 0\nunique_hangs   : 10\nlast_path      : 1500215482\nlast_crash     : 0\nlast_hang      : 1500215078\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/LazyCalc/input -o /dev/shm/work/LazyCalc/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/LazyCalc/LazyCalc.dict -- data/linux/processed-challenges/LazyCalc/bin/LazyCalc\n'
+p107
+I0
+tp108
+a(I6480
+S'start_time     : 1500209237\nlast_update    : 1500215728\nfuzzer_pid     : 22234\ncycles_done    : 4\nexecs_done     : 2003714\nexecs_per_sec  : 617.16\npaths_total    : 32\npaths_favored  : 11\npaths_found    : 31\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 22\npending_favs   : 0\npending_total  : 13\nvariable_paths : 0\nbitmap_cvg     : 0.31%\nunique_crashes : 0\nunique_hangs   : 10\nlast_path      : 1500215482\nlast_crash     : 0\nlast_hang      : 1500215078\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/LazyCalc/input -o /dev/shm/work/LazyCalc/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/LazyCalc/LazyCalc.dict -- data/linux/processed-challenges/LazyCalc/bin/LazyCalc\n'
+p109
+I0
+tp110
+a(I6600
+S'start_time     : 1500209237\nlast_update    : 1500215848\nfuzzer_pid     : 22234\ncycles_done    : 4\nexecs_done     : 2077850\nexecs_per_sec  : 614.88\npaths_total    : 32\npaths_favored  : 11\npaths_found    : 31\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 22\npending_favs   : 0\npending_total  : 13\nvariable_paths : 0\nbitmap_cvg     : 0.31%\nunique_crashes : 0\nunique_hangs   : 10\nlast_path      : 1500215482\nlast_crash     : 0\nlast_hang      : 1500215078\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/LazyCalc/input -o /dev/shm/work/LazyCalc/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/LazyCalc/LazyCalc.dict -- data/linux/processed-challenges/LazyCalc/bin/LazyCalc\n'
+p111
+I0
+tp112
+a(I6720
+S'start_time     : 1500209237\nlast_update    : 1500215968\nfuzzer_pid     : 22234\ncycles_done    : 4\nexecs_done     : 2121260\nexecs_per_sec  : 432.13\npaths_total    : 32\npaths_favored  : 11\npaths_found    : 31\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 23\npending_favs   : 0\npending_total  : 12\nvariable_paths : 0\nbitmap_cvg     : 0.31%\nunique_crashes : 0\nunique_hangs   : 10\nlast_path      : 1500215482\nlast_crash     : 0\nlast_hang      : 1500215078\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/LazyCalc/input -o /dev/shm/work/LazyCalc/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/LazyCalc/LazyCalc.dict -- data/linux/processed-challenges/LazyCalc/bin/LazyCalc\n'
+p113
+I0
+tp114
+a(I6840
+S'start_time     : 1500209237\nlast_update    : 1500216029\nfuzzer_pid     : 22234\ncycles_done    : 4\nexecs_done     : 2138080\nexecs_per_sec  : 438.34\npaths_total    : 32\npaths_favored  : 11\npaths_found    : 31\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 25\npending_favs   : 0\npending_total  : 12\nvariable_paths : 0\nbitmap_cvg     : 0.31%\nunique_crashes : 0\nunique_hangs   : 10\nlast_path      : 1500215482\nlast_crash     : 0\nlast_hang      : 1500215078\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/LazyCalc/input -o /dev/shm/work/LazyCalc/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/LazyCalc/LazyCalc.dict -- data/linux/processed-challenges/LazyCalc/bin/LazyCalc\n'
+p115
+I0
+tp116
+a(I6960
+S'start_time     : 1500209237\nlast_update    : 1500216149\nfuzzer_pid     : 22234\ncycles_done    : 4\nexecs_done     : 2190208\nexecs_per_sec  : 433.67\npaths_total    : 32\npaths_favored  : 11\npaths_found    : 31\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 25\npending_favs   : 0\npending_total  : 12\nvariable_paths : 0\nbitmap_cvg     : 0.31%\nunique_crashes : 0\nunique_hangs   : 10\nlast_path      : 1500215482\nlast_crash     : 0\nlast_hang      : 1500215078\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/LazyCalc/input -o /dev/shm/work/LazyCalc/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/LazyCalc/LazyCalc.dict -- data/linux/processed-challenges/LazyCalc/bin/LazyCalc\n'
+p117
+I0
+tp118
+a(I7080
+S'start_time     : 1500209237\nlast_update    : 1500216269\nfuzzer_pid     : 22234\ncycles_done    : 4\nexecs_done     : 2240662\nexecs_per_sec  : 292.53\npaths_total    : 32\npaths_favored  : 11\npaths_found    : 31\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 25\npending_favs   : 0\npending_total  : 12\nvariable_paths : 0\nbitmap_cvg     : 0.31%\nunique_crashes : 0\nunique_hangs   : 10\nlast_path      : 1500215482\nlast_crash     : 0\nlast_hang      : 1500215078\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/LazyCalc/input -o /dev/shm/work/LazyCalc/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/LazyCalc/LazyCalc.dict -- data/linux/processed-challenges/LazyCalc/bin/LazyCalc\n'
+p119
+I0
+tp120
+a(I7200
+S'start_time     : 1500209237\nlast_update    : 1500216389\nfuzzer_pid     : 22234\ncycles_done    : 4\nexecs_done     : 2290407\nexecs_per_sec  : 423.98\npaths_total    : 32\npaths_favored  : 11\npaths_found    : 31\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 25\npending_favs   : 0\npending_total  : 12\nvariable_paths : 0\nbitmap_cvg     : 0.31%\nunique_crashes : 0\nunique_hangs   : 10\nlast_path      : 1500215482\nlast_crash     : 0\nlast_hang      : 1500215078\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/LazyCalc/input -o /dev/shm/work/LazyCalc/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/LazyCalc/LazyCalc.dict -- data/linux/processed-challenges/LazyCalc/bin/LazyCalc\n'
+p121
+I0
+tp122
+a(I7320
+S'start_time     : 1500209237\nlast_update    : 1500216509\nfuzzer_pid     : 22234\ncycles_done    : 4\nexecs_done     : 2342039\nexecs_per_sec  : 441.72\npaths_total    : 32\npaths_favored  : 11\npaths_found    : 31\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 25\npending_favs   : 0\npending_total  : 12\nvariable_paths : 0\nbitmap_cvg     : 0.31%\nunique_crashes : 0\nunique_hangs   : 10\nlast_path      : 1500215482\nlast_crash     : 0\nlast_hang      : 1500215078\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/LazyCalc/input -o /dev/shm/work/LazyCalc/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/LazyCalc/LazyCalc.dict -- data/linux/processed-challenges/LazyCalc/bin/LazyCalc\n'
+p123
+I0
+tp124
+a(I7440
+S'start_time     : 1500209237\nlast_update    : 1500216630\nfuzzer_pid     : 22234\ncycles_done    : 4\nexecs_done     : 2394463\nexecs_per_sec  : 438.58\npaths_total    : 32\npaths_favored  : 11\npaths_found    : 31\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 25\npending_favs   : 0\npending_total  : 12\nvariable_paths : 0\nbitmap_cvg     : 0.31%\nunique_crashes : 0\nunique_hangs   : 10\nlast_path      : 1500215482\nlast_crash     : 0\nlast_hang      : 1500215078\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/LazyCalc/input -o /dev/shm/work/LazyCalc/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/LazyCalc/LazyCalc.dict -- data/linux/processed-challenges/LazyCalc/bin/LazyCalc\n'
+p125
+I0
+tp126
+a(I7560
+S'start_time     : 1500209237\nlast_update    : 1500216750\nfuzzer_pid     : 22234\ncycles_done    : 4\nexecs_done     : 2446663\nexecs_per_sec  : 436.40\npaths_total    : 32\npaths_favored  : 11\npaths_found    : 31\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 25\npending_favs   : 0\npending_total  : 12\nvariable_paths : 0\nbitmap_cvg     : 0.31%\nunique_crashes : 0\nunique_hangs   : 10\nlast_path      : 1500215482\nlast_crash     : 0\nlast_hang      : 1500215078\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/LazyCalc/input -o /dev/shm/work/LazyCalc/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/LazyCalc/LazyCalc.dict -- data/linux/processed-challenges/LazyCalc/bin/LazyCalc\n'
+p127
+I0
+tp128
+a(I7680
+S'start_time     : 1500209237\nlast_update    : 1500216870\nfuzzer_pid     : 22234\ncycles_done    : 4\nexecs_done     : 2498735\nexecs_per_sec  : 435.00\npaths_total    : 32\npaths_favored  : 11\npaths_found    : 31\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 25\npending_favs   : 0\npending_total  : 12\nvariable_paths : 0\nbitmap_cvg     : 0.31%\nunique_crashes : 0\nunique_hangs   : 10\nlast_path      : 1500215482\nlast_crash     : 0\nlast_hang      : 1500215078\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/LazyCalc/input -o /dev/shm/work/LazyCalc/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/LazyCalc/LazyCalc.dict -- data/linux/processed-challenges/LazyCalc/bin/LazyCalc\n'
+p129
+I0
+tp130
+a(I7800
+S'start_time     : 1500209237\nlast_update    : 1500216990\nfuzzer_pid     : 22234\ncycles_done    : 5\nexecs_done     : 2535802\nexecs_per_sec  : 259.47\npaths_total    : 32\npaths_favored  : 11\npaths_found    : 31\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 1\npending_favs   : 0\npending_total  : 11\nvariable_paths : 0\nbitmap_cvg     : 0.31%\nunique_crashes : 0\nunique_hangs   : 10\nlast_path      : 1500215482\nlast_crash     : 0\nlast_hang      : 1500215078\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/LazyCalc/input -o /dev/shm/work/LazyCalc/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/LazyCalc/LazyCalc.dict -- data/linux/processed-challenges/LazyCalc/bin/LazyCalc\n'
+p131
+I0
+tp132
+a(I7920
+S'start_time     : 1500209237\nlast_update    : 1500217110\nfuzzer_pid     : 22234\ncycles_done    : 5\nexecs_done     : 2564133\nexecs_per_sec  : 236.88\npaths_total    : 32\npaths_favored  : 11\npaths_found    : 31\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 3\npending_favs   : 0\npending_total  : 11\nvariable_paths : 0\nbitmap_cvg     : 0.31%\nunique_crashes : 0\nunique_hangs   : 10\nlast_path      : 1500215482\nlast_crash     : 0\nlast_hang      : 1500215078\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/LazyCalc/input -o /dev/shm/work/LazyCalc/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/LazyCalc/LazyCalc.dict -- data/linux/processed-challenges/LazyCalc/bin/LazyCalc\n'
+p133
+I0
+tp134
+a(I8040
+S'start_time     : 1500209237\nlast_update    : 1500217230\nfuzzer_pid     : 22234\ncycles_done    : 5\nexecs_done     : 2593003\nexecs_per_sec  : 226.83\npaths_total    : 32\npaths_favored  : 11\npaths_found    : 31\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 4\npending_favs   : 0\npending_total  : 11\nvariable_paths : 0\nbitmap_cvg     : 0.31%\nunique_crashes : 0\nunique_hangs   : 10\nlast_path      : 1500215482\nlast_crash     : 0\nlast_hang      : 1500215078\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/LazyCalc/input -o /dev/shm/work/LazyCalc/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/LazyCalc/LazyCalc.dict -- data/linux/processed-challenges/LazyCalc/bin/LazyCalc\n'
+p135
+I0
+tp136
+a(I8160
+S'start_time     : 1500209237\nlast_update    : 1500217351\nfuzzer_pid     : 22234\ncycles_done    : 5\nexecs_done     : 2621875\nexecs_per_sec  : 239.18\npaths_total    : 32\npaths_favored  : 11\npaths_found    : 31\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 6\npending_favs   : 0\npending_total  : 11\nvariable_paths : 0\nbitmap_cvg     : 0.31%\nunique_crashes : 0\nunique_hangs   : 10\nlast_path      : 1500215482\nlast_crash     : 0\nlast_hang      : 1500215078\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/LazyCalc/input -o /dev/shm/work/LazyCalc/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/LazyCalc/LazyCalc.dict -- data/linux/processed-challenges/LazyCalc/bin/LazyCalc\n'
+p137
+I0
+tp138
+a(I8280
+S'start_time     : 1500209237\nlast_update    : 1500217471\nfuzzer_pid     : 22234\ncycles_done    : 5\nexecs_done     : 2647228\nexecs_per_sec  : 103.16\npaths_total    : 32\npaths_favored  : 11\npaths_found    : 31\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 8\npending_favs   : 0\npending_total  : 11\nvariable_paths : 0\nbitmap_cvg     : 0.31%\nunique_crashes : 0\nunique_hangs   : 10\nlast_path      : 1500215482\nlast_crash     : 0\nlast_hang      : 1500215078\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/LazyCalc/input -o /dev/shm/work/LazyCalc/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/LazyCalc/LazyCalc.dict -- data/linux/processed-challenges/LazyCalc/bin/LazyCalc\n'
+p139
+I0
+tp140
+a(I8400
+S'start_time     : 1500209237\nlast_update    : 1500217591\nfuzzer_pid     : 22234\ncycles_done    : 5\nexecs_done     : 2673965\nexecs_per_sec  : 220.34\npaths_total    : 32\npaths_favored  : 11\npaths_found    : 31\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 9\npending_favs   : 0\npending_total  : 11\nvariable_paths : 0\nbitmap_cvg     : 0.31%\nunique_crashes : 0\nunique_hangs   : 10\nlast_path      : 1500215482\nlast_crash     : 0\nlast_hang      : 1500215078\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/LazyCalc/input -o /dev/shm/work/LazyCalc/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/LazyCalc/LazyCalc.dict -- data/linux/processed-challenges/LazyCalc/bin/LazyCalc\n'
+p141
+I0
+tp142
+a(I8520
+S'start_time     : 1500209237\nlast_update    : 1500217711\nfuzzer_pid     : 22234\ncycles_done    : 5\nexecs_done     : 2702557\nexecs_per_sec  : 242.25\npaths_total    : 32\npaths_favored  : 11\npaths_found    : 31\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 11\npending_favs   : 0\npending_total  : 11\nvariable_paths : 0\nbitmap_cvg     : 0.31%\nunique_crashes : 0\nunique_hangs   : 10\nlast_path      : 1500215482\nlast_crash     : 0\nlast_hang      : 1500215078\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/LazyCalc/input -o /dev/shm/work/LazyCalc/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/LazyCalc/LazyCalc.dict -- data/linux/processed-challenges/LazyCalc/bin/LazyCalc\n'
+p143
+I0
+tp144
+a(I8640
+S'start_time     : 1500209237\nlast_update    : 1500217832\nfuzzer_pid     : 22234\ncycles_done    : 5\nexecs_done     : 2749803\nexecs_per_sec  : 118.26\npaths_total    : 32\npaths_favored  : 11\npaths_found    : 31\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 20\npending_favs   : 0\npending_total  : 10\nvariable_paths : 0\nbitmap_cvg     : 0.31%\nunique_crashes : 0\nunique_hangs   : 10\nlast_path      : 1500215482\nlast_crash     : 0\nlast_hang      : 1500215078\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/LazyCalc/input -o /dev/shm/work/LazyCalc/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/LazyCalc/LazyCalc.dict -- data/linux/processed-challenges/LazyCalc/bin/LazyCalc\n'
+p145
+I0
+tp146
+a(I8760
+S'start_time     : 1500209237\nlast_update    : 1500217952\nfuzzer_pid     : 22234\ncycles_done    : 6\nexecs_done     : 2787161\nexecs_per_sec  : 225.40\npaths_total    : 32\npaths_favored  : 11\npaths_found    : 31\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 1\npending_favs   : 0\npending_total  : 9\nvariable_paths : 0\nbitmap_cvg     : 0.31%\nunique_crashes : 0\nunique_hangs   : 10\nlast_path      : 1500215482\nlast_crash     : 0\nlast_hang      : 1500215078\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/LazyCalc/input -o /dev/shm/work/LazyCalc/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/LazyCalc/LazyCalc.dict -- data/linux/processed-challenges/LazyCalc/bin/LazyCalc\n'
+p147
+I0
+tp148
+a(I8880
+S'start_time     : 1500209237\nlast_update    : 1500218072\nfuzzer_pid     : 22234\ncycles_done    : 6\nexecs_done     : 2815273\nexecs_per_sec  : 243.43\npaths_total    : 32\npaths_favored  : 11\npaths_found    : 31\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 3\npending_favs   : 0\npending_total  : 9\nvariable_paths : 0\nbitmap_cvg     : 0.31%\nunique_crashes : 0\nunique_hangs   : 10\nlast_path      : 1500215482\nlast_crash     : 0\nlast_hang      : 1500215078\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/LazyCalc/input -o /dev/shm/work/LazyCalc/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/LazyCalc/LazyCalc.dict -- data/linux/processed-challenges/LazyCalc/bin/LazyCalc\n'
+p149
+I0
+tp150
+a(I9000
+S'start_time     : 1500209237\nlast_update    : 1500218192\nfuzzer_pid     : 22234\ncycles_done    : 6\nexecs_done     : 2845128\nexecs_per_sec  : 258.26\npaths_total    : 32\npaths_favored  : 11\npaths_found    : 31\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 4\npending_favs   : 0\npending_total  : 9\nvariable_paths : 0\nbitmap_cvg     : 0.31%\nunique_crashes : 0\nunique_hangs   : 10\nlast_path      : 1500215482\nlast_crash     : 0\nlast_hang      : 1500215078\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/LazyCalc/input -o /dev/shm/work/LazyCalc/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/LazyCalc/LazyCalc.dict -- data/linux/processed-challenges/LazyCalc/bin/LazyCalc\n'
+p151
+I0
+tp152
+a(I9120
+S'start_time     : 1500209237\nlast_update    : 1500218313\nfuzzer_pid     : 22234\ncycles_done    : 6\nexecs_done     : 2874567\nexecs_per_sec  : 241.72\npaths_total    : 32\npaths_favored  : 11\npaths_found    : 31\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 6\npending_favs   : 0\npending_total  : 9\nvariable_paths : 0\nbitmap_cvg     : 0.31%\nunique_crashes : 0\nunique_hangs   : 10\nlast_path      : 1500215482\nlast_crash     : 0\nlast_hang      : 1500215078\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/LazyCalc/input -o /dev/shm/work/LazyCalc/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/LazyCalc/LazyCalc.dict -- data/linux/processed-challenges/LazyCalc/bin/LazyCalc\n'
+p153
+I0
+tp154
+a(I9240
+S'start_time     : 1500209237\nlast_update    : 1500218433\nfuzzer_pid     : 22234\ncycles_done    : 6\nexecs_done     : 2901661\nexecs_per_sec  : 269.21\npaths_total    : 32\npaths_favored  : 11\npaths_found    : 31\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 8\npending_favs   : 0\npending_total  : 9\nvariable_paths : 0\nbitmap_cvg     : 0.31%\nunique_crashes : 0\nunique_hangs   : 10\nlast_path      : 1500215482\nlast_crash     : 0\nlast_hang      : 1500215078\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/LazyCalc/input -o /dev/shm/work/LazyCalc/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/LazyCalc/LazyCalc.dict -- data/linux/processed-challenges/LazyCalc/bin/LazyCalc\n'
+p155
+I0
+tp156
+a(I9360
+S'start_time     : 1500209237\nlast_update    : 1500218553\nfuzzer_pid     : 22234\ncycles_done    : 6\nexecs_done     : 2929239\nexecs_per_sec  : 253.12\npaths_total    : 32\npaths_favored  : 11\npaths_found    : 31\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 9\npending_favs   : 0\npending_total  : 9\nvariable_paths : 0\nbitmap_cvg     : 0.31%\nunique_crashes : 0\nunique_hangs   : 10\nlast_path      : 1500215482\nlast_crash     : 0\nlast_hang      : 1500215078\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/LazyCalc/input -o /dev/shm/work/LazyCalc/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/LazyCalc/LazyCalc.dict -- data/linux/processed-challenges/LazyCalc/bin/LazyCalc\n'
+p157
+I0
+tp158
+a(I9480
+S'start_time     : 1500209237\nlast_update    : 1500218673\nfuzzer_pid     : 22234\ncycles_done    : 6\nexecs_done     : 2956913\nexecs_per_sec  : 455.25\npaths_total    : 32\npaths_favored  : 11\npaths_found    : 31\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 14\npending_favs   : 0\npending_total  : 9\nvariable_paths : 0\nbitmap_cvg     : 0.31%\nunique_crashes : 0\nunique_hangs   : 10\nlast_path      : 1500215482\nlast_crash     : 0\nlast_hang      : 1500215078\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/LazyCalc/input -o /dev/shm/work/LazyCalc/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/LazyCalc/LazyCalc.dict -- data/linux/processed-challenges/LazyCalc/bin/LazyCalc\n'
+p159
+I0
+tp160
+a(I9600
+S'start_time     : 1500209237\nlast_update    : 1500218793\nfuzzer_pid     : 22234\ncycles_done    : 6\nexecs_done     : 2993957\nexecs_per_sec  : 181.38\npaths_total    : 32\npaths_favored  : 11\npaths_found    : 31\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 16\npending_favs   : 0\npending_total  : 8\nvariable_paths : 0\nbitmap_cvg     : 0.31%\nunique_crashes : 0\nunique_hangs   : 10\nlast_path      : 1500215482\nlast_crash     : 0\nlast_hang      : 1500215078\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/LazyCalc/input -o /dev/shm/work/LazyCalc/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/LazyCalc/LazyCalc.dict -- data/linux/processed-challenges/LazyCalc/bin/LazyCalc\n'
+p161
+I0
+tp162
+a(I9720
+S'start_time     : 1500209237\nlast_update    : 1500218914\nfuzzer_pid     : 22234\ncycles_done    : 6\nexecs_done     : 3028323\nexecs_per_sec  : 299.06\npaths_total    : 32\npaths_favored  : 11\npaths_found    : 31\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 27\npending_favs   : 0\npending_total  : 7\nvariable_paths : 0\nbitmap_cvg     : 0.31%\nunique_crashes : 0\nunique_hangs   : 10\nlast_path      : 1500215482\nlast_crash     : 0\nlast_hang      : 1500215078\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/LazyCalc/input -o /dev/shm/work/LazyCalc/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/LazyCalc/LazyCalc.dict -- data/linux/processed-challenges/LazyCalc/bin/LazyCalc\n'
+p163
+I0
+tp164
+a(I9840
+S'start_time     : 1500209237\nlast_update    : 1500219034\nfuzzer_pid     : 22234\ncycles_done    : 6\nexecs_done     : 3064664\nexecs_per_sec  : 299.19\npaths_total    : 32\npaths_favored  : 11\npaths_found    : 31\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 27\npending_favs   : 0\npending_total  : 7\nvariable_paths : 0\nbitmap_cvg     : 0.31%\nunique_crashes : 0\nunique_hangs   : 10\nlast_path      : 1500215482\nlast_crash     : 0\nlast_hang      : 1500215078\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/LazyCalc/input -o /dev/shm/work/LazyCalc/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/LazyCalc/LazyCalc.dict -- data/linux/processed-challenges/LazyCalc/bin/LazyCalc\n'
+p165
+I0
+tp166
+a(I9960
+S'start_time     : 1500209237\nlast_update    : 1500219154\nfuzzer_pid     : 22234\ncycles_done    : 6\nexecs_done     : 3100664\nexecs_per_sec  : 298.00\npaths_total    : 32\npaths_favored  : 11\npaths_found    : 31\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 27\npending_favs   : 0\npending_total  : 7\nvariable_paths : 0\nbitmap_cvg     : 0.31%\nunique_crashes : 0\nunique_hangs   : 10\nlast_path      : 1500215482\nlast_crash     : 0\nlast_hang      : 1500215078\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/LazyCalc/input -o /dev/shm/work/LazyCalc/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/LazyCalc/LazyCalc.dict -- data/linux/processed-challenges/LazyCalc/bin/LazyCalc\n'
+p167
+I0
+tp168
+a(I10080
+S'start_time     : 1500209237\nlast_update    : 1500219274\nfuzzer_pid     : 22234\ncycles_done    : 6\nexecs_done     : 3137013\nexecs_per_sec  : 280.93\npaths_total    : 32\npaths_favored  : 11\npaths_found    : 31\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 27\npending_favs   : 0\npending_total  : 7\nvariable_paths : 0\nbitmap_cvg     : 0.31%\nunique_crashes : 0\nunique_hangs   : 10\nlast_path      : 1500215482\nlast_crash     : 0\nlast_hang      : 1500215078\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/LazyCalc/input -o /dev/shm/work/LazyCalc/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/LazyCalc/LazyCalc.dict -- data/linux/processed-challenges/LazyCalc/bin/LazyCalc\n'
+p169
+I0
+tp170
+a(I10200
+S'start_time     : 1500209237\nlast_update    : 1500219395\nfuzzer_pid     : 22234\ncycles_done    : 6\nexecs_done     : 3173048\nexecs_per_sec  : 300.51\npaths_total    : 32\npaths_favored  : 11\npaths_found    : 31\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 27\npending_favs   : 0\npending_total  : 7\nvariable_paths : 0\nbitmap_cvg     : 0.31%\nunique_crashes : 0\nunique_hangs   : 10\nlast_path      : 1500215482\nlast_crash     : 0\nlast_hang      : 1500215078\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/LazyCalc/input -o /dev/shm/work/LazyCalc/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/LazyCalc/LazyCalc.dict -- data/linux/processed-challenges/LazyCalc/bin/LazyCalc\n'
+p171
+I0
+tp172
+a(I10320
+S'start_time     : 1500209237\nlast_update    : 1500219515\nfuzzer_pid     : 22234\ncycles_done    : 6\nexecs_done     : 3206399\nexecs_per_sec  : 110.90\npaths_total    : 32\npaths_favored  : 11\npaths_found    : 31\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 27\npending_favs   : 0\npending_total  : 7\nvariable_paths : 0\nbitmap_cvg     : 0.31%\nunique_crashes : 0\nunique_hangs   : 10\nlast_path      : 1500215482\nlast_crash     : 0\nlast_hang      : 1500215078\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/LazyCalc/input -o /dev/shm/work/LazyCalc/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/LazyCalc/LazyCalc.dict -- data/linux/processed-challenges/LazyCalc/bin/LazyCalc\n'
+p173
+I0
+tp174
+a(I10440
+S'start_time     : 1500209237\nlast_update    : 1500219635\nfuzzer_pid     : 22234\ncycles_done    : 6\nexecs_done     : 3243121\nexecs_per_sec  : 307.64\npaths_total    : 32\npaths_favored  : 11\npaths_found    : 31\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 27\npending_favs   : 0\npending_total  : 7\nvariable_paths : 0\nbitmap_cvg     : 0.31%\nunique_crashes : 0\nunique_hangs   : 10\nlast_path      : 1500215482\nlast_crash     : 0\nlast_hang      : 1500215078\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/LazyCalc/input -o /dev/shm/work/LazyCalc/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/LazyCalc/LazyCalc.dict -- data/linux/processed-challenges/LazyCalc/bin/LazyCalc\n'
+p175
+I0
+tp176
+a(I10560
+S'start_time     : 1500209237\nlast_update    : 1500219755\nfuzzer_pid     : 22234\ncycles_done    : 6\nexecs_done     : 3279769\nexecs_per_sec  : 307.26\npaths_total    : 32\npaths_favored  : 11\npaths_found    : 31\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 27\npending_favs   : 0\npending_total  : 7\nvariable_paths : 0\nbitmap_cvg     : 0.31%\nunique_crashes : 0\nunique_hangs   : 10\nlast_path      : 1500215482\nlast_crash     : 0\nlast_hang      : 1500215078\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/LazyCalc/input -o /dev/shm/work/LazyCalc/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/LazyCalc/LazyCalc.dict -- data/linux/processed-challenges/LazyCalc/bin/LazyCalc\n'
+p177
+I0
+tp178
+a(I10680
+S'start_time     : 1500209237\nlast_update    : 1500219875\nfuzzer_pid     : 22234\ncycles_done    : 6\nexecs_done     : 3316513\nexecs_per_sec  : 304.80\npaths_total    : 32\npaths_favored  : 11\npaths_found    : 31\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 27\npending_favs   : 0\npending_total  : 7\nvariable_paths : 0\nbitmap_cvg     : 0.31%\nunique_crashes : 0\nunique_hangs   : 10\nlast_path      : 1500215482\nlast_crash     : 0\nlast_hang      : 1500215078\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/LazyCalc/input -o /dev/shm/work/LazyCalc/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/LazyCalc/LazyCalc.dict -- data/linux/processed-challenges/LazyCalc/bin/LazyCalc\n'
+p179
+I0
+tp180
+a.

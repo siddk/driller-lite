@@ -1,0 +1,43 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/Headscratch.dir/lib/calloc.c.o"
+  "CMakeFiles/Headscratch.dir/lib/ctype.c.o"
+  "CMakeFiles/Headscratch.dir/lib/exit.c.o"
+  "CMakeFiles/Headscratch.dir/lib/fflush.c.o"
+  "CMakeFiles/Headscratch.dir/lib/fopen.c.o"
+  "CMakeFiles/Headscratch.dir/lib/fread.c.o"
+  "CMakeFiles/Headscratch.dir/lib/free.c.o"
+  "CMakeFiles/Headscratch.dir/lib/fwrite.c.o"
+  "CMakeFiles/Headscratch.dir/lib/fxlat.c.o"
+  "CMakeFiles/Headscratch.dir/lib/malloc.c.o"
+  "CMakeFiles/Headscratch.dir/lib/malloc_common.c.o"
+  "CMakeFiles/Headscratch.dir/lib/memchr.c.o"
+  "CMakeFiles/Headscratch.dir/lib/memcmp.c.o"
+  "CMakeFiles/Headscratch.dir/lib/memcpy.c.o"
+  "CMakeFiles/Headscratch.dir/lib/memmove.c.o"
+  "CMakeFiles/Headscratch.dir/lib/memset.c.o"
+  "CMakeFiles/Headscratch.dir/lib/printf.c.o"
+  "CMakeFiles/Headscratch.dir/lib/realloc.c.o"
+  "CMakeFiles/Headscratch.dir/lib/stdio.c.o"
+  "CMakeFiles/Headscratch.dir/lib/strcasecmp.c.o"
+  "CMakeFiles/Headscratch.dir/lib/strcasestr.c.o"
+  "CMakeFiles/Headscratch.dir/lib/strchr.c.o"
+  "CMakeFiles/Headscratch.dir/lib/strcmp.c.o"
+  "CMakeFiles/Headscratch.dir/lib/strcpy.c.o"
+  "CMakeFiles/Headscratch.dir/lib/strdup.c.o"
+  "CMakeFiles/Headscratch.dir/lib/strlen.c.o"
+  "CMakeFiles/Headscratch.dir/lib/strncasecmp.c.o"
+  "CMakeFiles/Headscratch.dir/lib/strncpy.c.o"
+  "CMakeFiles/Headscratch.dir/lib/strndup.c.o"
+  "CMakeFiles/Headscratch.dir/lib/strsep.c.o"
+  "CMakeFiles/Headscratch.dir/lib/strstr.c.o"
+  "CMakeFiles/Headscratch.dir/lib/strtol.c.o"
+  "CMakeFiles/Headscratch.dir/lib/strtoul.c.o"
+  "CMakeFiles/Headscratch.dir/src/service.c.o"
+  "Headscratch.pdb"
+  "Headscratch"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang C)
+  include(CMakeFiles/Headscratch.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

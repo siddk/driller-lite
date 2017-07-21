@@ -1,0 +1,59 @@
+# The set of languages for which implicit dependencies are needed:
+set(CMAKE_DEPENDS_LANGUAGES
+  "C"
+  )
+# The set of files for implicit dependencies of each language:
+set(CMAKE_DEPENDS_CHECK_C
+  "/vagrant/driller/data/linux/processed-challenges/simplenote/lib/calloc.c" "/vagrant/driller/data/linux/processed-challenges/simplenote/bin/CMakeFiles/simplenote.dir/lib/calloc.c.o"
+  "/vagrant/driller/data/linux/processed-challenges/simplenote/lib/ctype.c" "/vagrant/driller/data/linux/processed-challenges/simplenote/bin/CMakeFiles/simplenote.dir/lib/ctype.c.o"
+  "/vagrant/driller/data/linux/processed-challenges/simplenote/lib/free.c" "/vagrant/driller/data/linux/processed-challenges/simplenote/bin/CMakeFiles/simplenote.dir/lib/free.c.o"
+  "/vagrant/driller/data/linux/processed-challenges/simplenote/lib/malloc.c" "/vagrant/driller/data/linux/processed-challenges/simplenote/bin/CMakeFiles/simplenote.dir/lib/malloc.c.o"
+  "/vagrant/driller/data/linux/processed-challenges/simplenote/lib/malloc_common.c" "/vagrant/driller/data/linux/processed-challenges/simplenote/bin/CMakeFiles/simplenote.dir/lib/malloc_common.c.o"
+  "/vagrant/driller/data/linux/processed-challenges/simplenote/lib/memchr.c" "/vagrant/driller/data/linux/processed-challenges/simplenote/bin/CMakeFiles/simplenote.dir/lib/memchr.c.o"
+  "/vagrant/driller/data/linux/processed-challenges/simplenote/lib/memcmp.c" "/vagrant/driller/data/linux/processed-challenges/simplenote/bin/CMakeFiles/simplenote.dir/lib/memcmp.c.o"
+  "/vagrant/driller/data/linux/processed-challenges/simplenote/lib/memcpy.c" "/vagrant/driller/data/linux/processed-challenges/simplenote/bin/CMakeFiles/simplenote.dir/lib/memcpy.c.o"
+  "/vagrant/driller/data/linux/processed-challenges/simplenote/lib/memmove.c" "/vagrant/driller/data/linux/processed-challenges/simplenote/bin/CMakeFiles/simplenote.dir/lib/memmove.c.o"
+  "/vagrant/driller/data/linux/processed-challenges/simplenote/lib/memset.c" "/vagrant/driller/data/linux/processed-challenges/simplenote/bin/CMakeFiles/simplenote.dir/lib/memset.c.o"
+  "/vagrant/driller/data/linux/processed-challenges/simplenote/lib/printf.c" "/vagrant/driller/data/linux/processed-challenges/simplenote/bin/CMakeFiles/simplenote.dir/lib/printf.c.o"
+  "/vagrant/driller/data/linux/processed-challenges/simplenote/lib/realloc.c" "/vagrant/driller/data/linux/processed-challenges/simplenote/bin/CMakeFiles/simplenote.dir/lib/realloc.c.o"
+  "/vagrant/driller/data/linux/processed-challenges/simplenote/lib/strcasecmp.c" "/vagrant/driller/data/linux/processed-challenges/simplenote/bin/CMakeFiles/simplenote.dir/lib/strcasecmp.c.o"
+  "/vagrant/driller/data/linux/processed-challenges/simplenote/lib/strcat.c" "/vagrant/driller/data/linux/processed-challenges/simplenote/bin/CMakeFiles/simplenote.dir/lib/strcat.c.o"
+  "/vagrant/driller/data/linux/processed-challenges/simplenote/lib/strchr.c" "/vagrant/driller/data/linux/processed-challenges/simplenote/bin/CMakeFiles/simplenote.dir/lib/strchr.c.o"
+  "/vagrant/driller/data/linux/processed-challenges/simplenote/lib/strcmp.c" "/vagrant/driller/data/linux/processed-challenges/simplenote/bin/CMakeFiles/simplenote.dir/lib/strcmp.c.o"
+  "/vagrant/driller/data/linux/processed-challenges/simplenote/lib/strcpy.c" "/vagrant/driller/data/linux/processed-challenges/simplenote/bin/CMakeFiles/simplenote.dir/lib/strcpy.c.o"
+  "/vagrant/driller/data/linux/processed-challenges/simplenote/lib/strdup.c" "/vagrant/driller/data/linux/processed-challenges/simplenote/bin/CMakeFiles/simplenote.dir/lib/strdup.c.o"
+  "/vagrant/driller/data/linux/processed-challenges/simplenote/lib/strlen.c" "/vagrant/driller/data/linux/processed-challenges/simplenote/bin/CMakeFiles/simplenote.dir/lib/strlen.c.o"
+  "/vagrant/driller/data/linux/processed-challenges/simplenote/lib/strncasecmp.c" "/vagrant/driller/data/linux/processed-challenges/simplenote/bin/CMakeFiles/simplenote.dir/lib/strncasecmp.c.o"
+  "/vagrant/driller/data/linux/processed-challenges/simplenote/lib/strncmp.c" "/vagrant/driller/data/linux/processed-challenges/simplenote/bin/CMakeFiles/simplenote.dir/lib/strncmp.c.o"
+  "/vagrant/driller/data/linux/processed-challenges/simplenote/lib/strncpy.c" "/vagrant/driller/data/linux/processed-challenges/simplenote/bin/CMakeFiles/simplenote.dir/lib/strncpy.c.o"
+  "/vagrant/driller/data/linux/processed-challenges/simplenote/lib/strsep.c" "/vagrant/driller/data/linux/processed-challenges/simplenote/bin/CMakeFiles/simplenote.dir/lib/strsep.c.o"
+  "/vagrant/driller/data/linux/processed-challenges/simplenote/lib/strtol.c" "/vagrant/driller/data/linux/processed-challenges/simplenote/bin/CMakeFiles/simplenote.dir/lib/strtol.c.o"
+  "/vagrant/driller/data/linux/processed-challenges/simplenote/src/io.c" "/vagrant/driller/data/linux/processed-challenges/simplenote/bin/CMakeFiles/simplenote.dir/src/io.c.o"
+  "/vagrant/driller/data/linux/processed-challenges/simplenote/src/main.c" "/vagrant/driller/data/linux/processed-challenges/simplenote/bin/CMakeFiles/simplenote.dir/src/main.c.o"
+  )
+set(CMAKE_C_COMPILER_ID "Clang")
+
+# Preprocessor definitions for this target.
+set(CMAKE_TARGET_DEFINITIONS
+  "FORTIFY_SOURCE=0"
+  "LINUX"
+  "errno=__cgc_errno"
+  )
+
+# Targets to which this target links.
+set(CMAKE_TARGET_LINKED_INFO_FILES
+  "/vagrant/driller/data/linux/build/include/CMakeFiles/cgc.dir/DependInfo.cmake"
+  "/vagrant/driller/data/linux/build/include/tiny-AES128-C/CMakeFiles/tiny-AES128-C.dir/DependInfo.cmake"
+  )
+
+# The include file search paths:
+set(CMAKE_C_TARGET_INCLUDE_PATH
+  "../include"
+  "../processed-challenges/simplenote/lib"
+  "../processed-challenges/simplenote/src"
+  "../processed-challenges/simplenote/include"
+  "../include/tiny-AES128-C"
+  )
+set(CMAKE_CXX_TARGET_INCLUDE_PATH ${CMAKE_C_TARGET_INCLUDE_PATH})
+set(CMAKE_Fortran_TARGET_INCLUDE_PATH ${CMAKE_C_TARGET_INCLUDE_PATH})
+set(CMAKE_ASM_TARGET_INCLUDE_PATH ${CMAKE_C_TARGET_INCLUDE_PATH})

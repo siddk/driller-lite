@@ -1,0 +1,5 @@
+set( SERVICE_ID "00055" )
+set( AUTHOR_ID "KPRCA" )
+add_compile_options( -O0 -g -Wno-overlength-strings -Wno-packed -Wall -Wno-unused-variable -Wno-unused-function )
+set( VULN_COUNT "1" )
+buildCB()

@@ -1,0 +1,452 @@
+(lp0
+(I0
+S'start_time     : 1500046921\nlast_update    : 1500046922\nfuzzer_pid     : 2246\ncycles_done    : 0\nexecs_done     : 10\nexecs_per_sec  : 188.68\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 1\npending_total  : 1\nvariable_paths : 0\nbitmap_cvg     : 0.09%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Griswold/input -o /dev/shm/work/Griswold/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Griswold/Griswold.dict -- data/linux/processed-challenges/Griswold/bin/Griswold\n'
+p1
+I7
+tp2
+a(I120
+S'start_time     : 1500046921\nlast_update    : 1500047042\nfuzzer_pid     : 2246\ncycles_done    : 0\nexecs_done     : 102855\nexecs_per_sec  : 828.65\npaths_total    : 8\npaths_favored  : 1\npaths_found    : 7\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 1\npending_total  : 8\nvariable_paths : 0\nbitmap_cvg     : 0.14%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500046939\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Griswold/input -o /dev/shm/work/Griswold/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Griswold/Griswold.dict -- data/linux/processed-challenges/Griswold/bin/Griswold\n'
+p3
+I1
+tp4
+a(I240
+S'start_time     : 1500046921\nlast_update    : 1500047162\nfuzzer_pid     : 2246\ncycles_done    : 1\nexecs_done     : 202370\nexecs_per_sec  : 821.43\npaths_total    : 8\npaths_favored  : 4\npaths_found    : 7\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 3\npending_favs   : 0\npending_total  : 2\nvariable_paths : 0\nbitmap_cvg     : 0.14%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500046939\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Griswold/input -o /dev/shm/work/Griswold/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Griswold/Griswold.dict -- data/linux/processed-challenges/Griswold/bin/Griswold\n'
+p5
+I0
+tp6
+a(I360
+S'start_time     : 1500046921\nlast_update    : 1500047282\nfuzzer_pid     : 2246\ncycles_done    : 2\nexecs_done     : 298657\nexecs_per_sec  : 758.28\npaths_total    : 8\npaths_favored  : 4\npaths_found    : 7\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 6\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.14%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500046939\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Griswold/input -o /dev/shm/work/Griswold/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Griswold/Griswold.dict -- data/linux/processed-challenges/Griswold/bin/Griswold\n'
+p7
+I0
+tp8
+a(I480
+S'start_time     : 1500046921\nlast_update    : 1500047402\nfuzzer_pid     : 2246\ncycles_done    : 3\nexecs_done     : 389795\nexecs_per_sec  : 731.83\npaths_total    : 8\npaths_favored  : 4\npaths_found    : 7\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 7\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.14%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500046939\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Griswold/input -o /dev/shm/work/Griswold/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Griswold/Griswold.dict -- data/linux/processed-challenges/Griswold/bin/Griswold\n'
+p9
+I0
+tp10
+a(I600
+S'start_time     : 1500046921\nlast_update    : 1500047522\nfuzzer_pid     : 2246\ncycles_done    : 5\nexecs_done     : 481902\nexecs_per_sec  : 771.77\npaths_total    : 8\npaths_favored  : 4\npaths_found    : 7\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.14%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500046939\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Griswold/input -o /dev/shm/work/Griswold/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Griswold/Griswold.dict -- data/linux/processed-challenges/Griswold/bin/Griswold\n'
+p11
+I0
+tp12
+a(I720
+S'start_time     : 1500046921\nlast_update    : 1500047643\nfuzzer_pid     : 2246\ncycles_done    : 6\nexecs_done     : 572237\nexecs_per_sec  : 746.26\npaths_total    : 8\npaths_favored  : 4\npaths_found    : 7\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 1\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.14%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500046939\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Griswold/input -o /dev/shm/work/Griswold/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Griswold/Griswold.dict -- data/linux/processed-challenges/Griswold/bin/Griswold\n'
+p13
+I0
+tp14
+a(I840
+S'start_time     : 1500046921\nlast_update    : 1500047763\nfuzzer_pid     : 2246\ncycles_done    : 7\nexecs_done     : 663332\nexecs_per_sec  : 755.84\npaths_total    : 8\npaths_favored  : 4\npaths_found    : 7\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 2\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.14%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500046939\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Griswold/input -o /dev/shm/work/Griswold/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Griswold/Griswold.dict -- data/linux/processed-challenges/Griswold/bin/Griswold\n'
+p15
+I0
+tp16
+a(I960
+S'start_time     : 1500046921\nlast_update    : 1500047883\nfuzzer_pid     : 2246\ncycles_done    : 8\nexecs_done     : 754957\nexecs_per_sec  : 772.18\npaths_total    : 8\npaths_favored  : 4\npaths_found    : 7\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 3\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.14%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500046939\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Griswold/input -o /dev/shm/work/Griswold/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Griswold/Griswold.dict -- data/linux/processed-challenges/Griswold/bin/Griswold\n'
+p17
+I0
+tp18
+a(I1080
+S'start_time     : 1500046921\nlast_update    : 1500048003\nfuzzer_pid     : 2246\ncycles_done    : 9\nexecs_done     : 848707\nexecs_per_sec  : 791.94\npaths_total    : 8\npaths_favored  : 4\npaths_found    : 7\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 4\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.14%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500046939\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Griswold/input -o /dev/shm/work/Griswold/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Griswold/Griswold.dict -- data/linux/processed-challenges/Griswold/bin/Griswold\n'
+p19
+I0
+tp20
+a(I1200
+S'start_time     : 1500046921\nlast_update    : 1500048123\nfuzzer_pid     : 2246\ncycles_done    : 10\nexecs_done     : 942827\nexecs_per_sec  : 792.74\npaths_total    : 8\npaths_favored  : 4\npaths_found    : 7\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 5\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.14%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500046939\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Griswold/input -o /dev/shm/work/Griswold/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Griswold/Griswold.dict -- data/linux/processed-challenges/Griswold/bin/Griswold\n'
+p21
+I0
+tp22
+a(I1320
+S'start_time     : 1500046921\nlast_update    : 1500048244\nfuzzer_pid     : 2246\ncycles_done    : 11\nexecs_done     : 1036737\nexecs_per_sec  : 787.92\npaths_total    : 8\npaths_favored  : 4\npaths_found    : 7\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 6\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.14%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500046939\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Griswold/input -o /dev/shm/work/Griswold/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Griswold/Griswold.dict -- data/linux/processed-challenges/Griswold/bin/Griswold\n'
+p23
+I0
+tp24
+a(I1440
+S'start_time     : 1500046921\nlast_update    : 1500048364\nfuzzer_pid     : 2246\ncycles_done    : 12\nexecs_done     : 1130807\nexecs_per_sec  : 794.51\npaths_total    : 8\npaths_favored  : 4\npaths_found    : 7\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 7\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.14%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500046939\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Griswold/input -o /dev/shm/work/Griswold/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Griswold/Griswold.dict -- data/linux/processed-challenges/Griswold/bin/Griswold\n'
+p25
+I0
+tp26
+a(I1560
+S'start_time     : 1500046921\nlast_update    : 1500048484\nfuzzer_pid     : 2246\ncycles_done    : 13\nexecs_done     : 1222795\nexecs_per_sec  : 745.98\npaths_total    : 8\npaths_favored  : 4\npaths_found    : 7\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 7\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.14%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500046939\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Griswold/input -o /dev/shm/work/Griswold/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Griswold/Griswold.dict -- data/linux/processed-challenges/Griswold/bin/Griswold\n'
+p27
+I0
+tp28
+a(I1680
+S'start_time     : 1500046921\nlast_update    : 1500048604\nfuzzer_pid     : 2246\ncycles_done    : 15\nexecs_done     : 1315879\nexecs_per_sec  : 816.25\npaths_total    : 8\npaths_favored  : 4\npaths_found    : 7\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.14%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500046939\nlast_crash     : 0\nlast_hang      : 1500048593\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Griswold/input -o /dev/shm/work/Griswold/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Griswold/Griswold.dict -- data/linux/processed-challenges/Griswold/bin/Griswold\n'
+p29
+I0
+tp30
+a(I1800
+S'start_time     : 1500046921\nlast_update    : 1500048724\nfuzzer_pid     : 2246\ncycles_done    : 16\nexecs_done     : 1409092\nexecs_per_sec  : 785.32\npaths_total    : 8\npaths_favored  : 4\npaths_found    : 7\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 1\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.14%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500046939\nlast_crash     : 0\nlast_hang      : 1500048593\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Griswold/input -o /dev/shm/work/Griswold/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Griswold/Griswold.dict -- data/linux/processed-challenges/Griswold/bin/Griswold\n'
+p31
+I0
+tp32
+a(I1920
+S'start_time     : 1500046921\nlast_update    : 1500048845\nfuzzer_pid     : 2246\ncycles_done    : 17\nexecs_done     : 1502892\nexecs_per_sec  : 789.52\npaths_total    : 8\npaths_favored  : 4\npaths_found    : 7\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 2\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.14%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500046939\nlast_crash     : 0\nlast_hang      : 1500048593\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Griswold/input -o /dev/shm/work/Griswold/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Griswold/Griswold.dict -- data/linux/processed-challenges/Griswold/bin/Griswold\n'
+p33
+I0
+tp34
+a(I2040
+S'start_time     : 1500046921\nlast_update    : 1500048965\nfuzzer_pid     : 2246\ncycles_done    : 18\nexecs_done     : 1595695\nexecs_per_sec  : 805.34\npaths_total    : 8\npaths_favored  : 4\npaths_found    : 7\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 3\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.14%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500046939\nlast_crash     : 0\nlast_hang      : 1500048593\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Griswold/input -o /dev/shm/work/Griswold/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Griswold/Griswold.dict -- data/linux/processed-challenges/Griswold/bin/Griswold\n'
+p35
+I0
+tp36
+a(I2160
+S'start_time     : 1500046921\nlast_update    : 1500049085\nfuzzer_pid     : 2246\ncycles_done    : 19\nexecs_done     : 1692135\nexecs_per_sec  : 806.79\npaths_total    : 8\npaths_favored  : 4\npaths_found    : 7\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 5\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.14%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500046939\nlast_crash     : 0\nlast_hang      : 1500048593\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Griswold/input -o /dev/shm/work/Griswold/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Griswold/Griswold.dict -- data/linux/processed-challenges/Griswold/bin/Griswold\n'
+p37
+I0
+tp38
+a(I2280
+S'start_time     : 1500046921\nlast_update    : 1500049205\nfuzzer_pid     : 2246\ncycles_done    : 20\nexecs_done     : 1789491\nexecs_per_sec  : 826.95\npaths_total    : 8\npaths_favored  : 4\npaths_found    : 7\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 6\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.14%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500046939\nlast_crash     : 0\nlast_hang      : 1500048593\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Griswold/input -o /dev/shm/work/Griswold/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Griswold/Griswold.dict -- data/linux/processed-challenges/Griswold/bin/Griswold\n'
+p39
+I0
+tp40
+a(I2400
+S'start_time     : 1500046921\nlast_update    : 1500049325\nfuzzer_pid     : 2246\ncycles_done    : 22\nexecs_done     : 1888811\nexecs_per_sec  : 833.59\npaths_total    : 8\npaths_favored  : 4\npaths_found    : 7\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.14%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500046939\nlast_crash     : 0\nlast_hang      : 1500048593\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Griswold/input -o /dev/shm/work/Griswold/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Griswold/Griswold.dict -- data/linux/processed-challenges/Griswold/bin/Griswold\n'
+p41
+I0
+tp42
+a(I2520
+S'start_time     : 1500046921\nlast_update    : 1500049446\nfuzzer_pid     : 2246\ncycles_done    : 23\nexecs_done     : 1987847\nexecs_per_sec  : 821.33\npaths_total    : 8\npaths_favored  : 4\npaths_found    : 7\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 1\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.14%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500046939\nlast_crash     : 0\nlast_hang      : 1500048593\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Griswold/input -o /dev/shm/work/Griswold/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Griswold/Griswold.dict -- data/linux/processed-challenges/Griswold/bin/Griswold\n'
+p43
+I0
+tp44
+a(I2640
+S'start_time     : 1500046921\nlast_update    : 1500049566\nfuzzer_pid     : 2246\ncycles_done    : 24\nexecs_done     : 2085995\nexecs_per_sec  : 815.72\npaths_total    : 8\npaths_favored  : 4\npaths_found    : 7\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 3\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.14%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500046939\nlast_crash     : 0\nlast_hang      : 1500048593\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Griswold/input -o /dev/shm/work/Griswold/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Griswold/Griswold.dict -- data/linux/processed-challenges/Griswold/bin/Griswold\n'
+p45
+I0
+tp46
+a(I2760
+S'start_time     : 1500046921\nlast_update    : 1500049686\nfuzzer_pid     : 2246\ncycles_done    : 25\nexecs_done     : 2184395\nexecs_per_sec  : 802.05\npaths_total    : 8\npaths_favored  : 4\npaths_found    : 7\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 5\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.14%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500046939\nlast_crash     : 0\nlast_hang      : 1500048593\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Griswold/input -o /dev/shm/work/Griswold/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Griswold/Griswold.dict -- data/linux/processed-challenges/Griswold/bin/Griswold\n'
+p47
+I0
+tp48
+a(I2880
+S'start_time     : 1500046921\nlast_update    : 1500049806\nfuzzer_pid     : 2246\ncycles_done    : 26\nexecs_done     : 2280491\nexecs_per_sec  : 815.88\npaths_total    : 8\npaths_favored  : 4\npaths_found    : 7\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 6\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.14%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500046939\nlast_crash     : 0\nlast_hang      : 1500048593\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Griswold/input -o /dev/shm/work/Griswold/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Griswold/Griswold.dict -- data/linux/processed-challenges/Griswold/bin/Griswold\n'
+p49
+I0
+tp50
+a(I3000
+S'start_time     : 1500046921\nlast_update    : 1500049927\nfuzzer_pid     : 2246\ncycles_done    : 28\nexecs_done     : 2379167\nexecs_per_sec  : 832.57\npaths_total    : 8\npaths_favored  : 4\npaths_found    : 7\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.14%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500046939\nlast_crash     : 0\nlast_hang      : 1500048593\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Griswold/input -o /dev/shm/work/Griswold/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Griswold/Griswold.dict -- data/linux/processed-challenges/Griswold/bin/Griswold\n'
+p51
+I0
+tp52
+a(I3120
+S'start_time     : 1500046921\nlast_update    : 1500050047\nfuzzer_pid     : 2246\ncycles_done    : 29\nexecs_done     : 2476467\nexecs_per_sec  : 787.80\npaths_total    : 8\npaths_favored  : 4\npaths_found    : 7\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 2\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.14%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500046939\nlast_crash     : 0\nlast_hang      : 1500048593\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Griswold/input -o /dev/shm/work/Griswold/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Griswold/Griswold.dict -- data/linux/processed-challenges/Griswold/bin/Griswold\n'
+p53
+I0
+tp54
+a(I3240
+S'start_time     : 1500046921\nlast_update    : 1500050167\nfuzzer_pid     : 2246\ncycles_done    : 30\nexecs_done     : 2573539\nexecs_per_sec  : 799.73\npaths_total    : 8\npaths_favored  : 4\npaths_found    : 7\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 4\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.14%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500046939\nlast_crash     : 0\nlast_hang      : 1500048593\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Griswold/input -o /dev/shm/work/Griswold/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Griswold/Griswold.dict -- data/linux/processed-challenges/Griswold/bin/Griswold\n'
+p55
+I0
+tp56
+a(I3360
+S'start_time     : 1500046921\nlast_update    : 1500050287\nfuzzer_pid     : 2246\ncycles_done    : 31\nexecs_done     : 2670151\nexecs_per_sec  : 804.53\npaths_total    : 8\npaths_favored  : 4\npaths_found    : 7\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 5\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.14%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500046939\nlast_crash     : 0\nlast_hang      : 1500048593\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Griswold/input -o /dev/shm/work/Griswold/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Griswold/Griswold.dict -- data/linux/processed-challenges/Griswold/bin/Griswold\n'
+p57
+I0
+tp58
+a(I3480
+S'start_time     : 1500046921\nlast_update    : 1500050408\nfuzzer_pid     : 2246\ncycles_done    : 32\nexecs_done     : 2766642\nexecs_per_sec  : 764.57\npaths_total    : 8\npaths_favored  : 4\npaths_found    : 7\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 6\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.14%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500046939\nlast_crash     : 0\nlast_hang      : 1500048593\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Griswold/input -o /dev/shm/work/Griswold/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Griswold/Griswold.dict -- data/linux/processed-challenges/Griswold/bin/Griswold\n'
+p59
+I0
+tp60
+a(I3600
+S'start_time     : 1500046921\nlast_update    : 1500050528\nfuzzer_pid     : 2246\ncycles_done    : 34\nexecs_done     : 2861631\nexecs_per_sec  : 823.26\npaths_total    : 8\npaths_favored  : 4\npaths_found    : 7\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.14%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500046939\nlast_crash     : 0\nlast_hang      : 1500048593\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Griswold/input -o /dev/shm/work/Griswold/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Griswold/Griswold.dict -- data/linux/processed-challenges/Griswold/bin/Griswold\n'
+p61
+I0
+tp62
+a(I3720
+S'start_time     : 1500046921\nlast_update    : 1500050648\nfuzzer_pid     : 2246\ncycles_done    : 35\nexecs_done     : 2957437\nexecs_per_sec  : 781.26\npaths_total    : 8\npaths_favored  : 4\npaths_found    : 7\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 1\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.14%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500046939\nlast_crash     : 0\nlast_hang      : 1500048593\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Griswold/input -o /dev/shm/work/Griswold/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Griswold/Griswold.dict -- data/linux/processed-challenges/Griswold/bin/Griswold\n'
+p63
+I0
+tp64
+a(I3840
+S'start_time     : 1500046921\nlast_update    : 1500050768\nfuzzer_pid     : 2246\ncycles_done    : 36\nexecs_done     : 3054423\nexecs_per_sec  : 805.48\npaths_total    : 8\npaths_favored  : 4\npaths_found    : 7\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 2\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.14%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500046939\nlast_crash     : 0\nlast_hang      : 1500048593\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Griswold/input -o /dev/shm/work/Griswold/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Griswold/Griswold.dict -- data/linux/processed-challenges/Griswold/bin/Griswold\n'
+p65
+I0
+tp66
+a(I3960
+S'start_time     : 1500046921\nlast_update    : 1500050889\nfuzzer_pid     : 2246\ncycles_done    : 37\nexecs_done     : 3149677\nexecs_per_sec  : 774.46\npaths_total    : 8\npaths_favored  : 4\npaths_found    : 7\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 4\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.14%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500046939\nlast_crash     : 0\nlast_hang      : 1500048593\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Griswold/input -o /dev/shm/work/Griswold/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Griswold/Griswold.dict -- data/linux/processed-challenges/Griswold/bin/Griswold\n'
+p67
+I0
+tp68
+a(I4080
+S'start_time     : 1500046921\nlast_update    : 1500051009\nfuzzer_pid     : 2246\ncycles_done    : 38\nexecs_done     : 3245537\nexecs_per_sec  : 787.00\npaths_total    : 8\npaths_favored  : 4\npaths_found    : 7\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 5\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.14%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500046939\nlast_crash     : 0\nlast_hang      : 1500048593\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Griswold/input -o /dev/shm/work/Griswold/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Griswold/Griswold.dict -- data/linux/processed-challenges/Griswold/bin/Griswold\n'
+p69
+I0
+tp70
+a(I4200
+S'start_time     : 1500046921\nlast_update    : 1500051129\nfuzzer_pid     : 2246\ncycles_done    : 39\nexecs_done     : 3341937\nexecs_per_sec  : 795.66\npaths_total    : 8\npaths_favored  : 4\npaths_found    : 7\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 7\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.14%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500046939\nlast_crash     : 0\nlast_hang      : 1500048593\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Griswold/input -o /dev/shm/work/Griswold/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Griswold/Griswold.dict -- data/linux/processed-challenges/Griswold/bin/Griswold\n'
+p71
+I0
+tp72
+a(I4320
+S'start_time     : 1500046921\nlast_update    : 1500051250\nfuzzer_pid     : 2246\ncycles_done    : 41\nexecs_done     : 3438012\nexecs_per_sec  : 786.60\npaths_total    : 8\npaths_favored  : 4\npaths_found    : 7\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.14%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500046939\nlast_crash     : 0\nlast_hang      : 1500048593\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Griswold/input -o /dev/shm/work/Griswold/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Griswold/Griswold.dict -- data/linux/processed-challenges/Griswold/bin/Griswold\n'
+p73
+I0
+tp74
+a(I4440
+S'start_time     : 1500046921\nlast_update    : 1500051370\nfuzzer_pid     : 2246\ncycles_done    : 42\nexecs_done     : 3534172\nexecs_per_sec  : 794.99\npaths_total    : 8\npaths_favored  : 4\npaths_found    : 7\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 1\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.14%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500046939\nlast_crash     : 0\nlast_hang      : 1500048593\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Griswold/input -o /dev/shm/work/Griswold/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Griswold/Griswold.dict -- data/linux/processed-challenges/Griswold/bin/Griswold\n'
+p75
+I0
+tp76
+a(I4560
+S'start_time     : 1500046921\nlast_update    : 1500051490\nfuzzer_pid     : 2246\ncycles_done    : 43\nexecs_done     : 3630379\nexecs_per_sec  : 818.05\npaths_total    : 8\npaths_favored  : 4\npaths_found    : 7\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 2\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.14%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500046939\nlast_crash     : 0\nlast_hang      : 1500048593\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Griswold/input -o /dev/shm/work/Griswold/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Griswold/Griswold.dict -- data/linux/processed-challenges/Griswold/bin/Griswold\n'
+p77
+I0
+tp78
+a(I4680
+S'start_time     : 1500046921\nlast_update    : 1500051610\nfuzzer_pid     : 2246\ncycles_done    : 44\nexecs_done     : 3728362\nexecs_per_sec  : 791.96\npaths_total    : 8\npaths_favored  : 4\npaths_found    : 7\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 5\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.14%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500046939\nlast_crash     : 0\nlast_hang      : 1500048593\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Griswold/input -o /dev/shm/work/Griswold/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Griswold/Griswold.dict -- data/linux/processed-challenges/Griswold/bin/Griswold\n'
+p79
+I0
+tp80
+a(I4800
+S'start_time     : 1500046921\nlast_update    : 1500051730\nfuzzer_pid     : 2246\ncycles_done    : 45\nexecs_done     : 3823627\nexecs_per_sec  : 787.47\npaths_total    : 8\npaths_favored  : 4\npaths_found    : 7\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 6\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.14%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500046939\nlast_crash     : 0\nlast_hang      : 1500048593\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Griswold/input -o /dev/shm/work/Griswold/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Griswold/Griswold.dict -- data/linux/processed-challenges/Griswold/bin/Griswold\n'
+p81
+I0
+tp82
+a(I4920
+S'start_time     : 1500046921\nlast_update    : 1500051851\nfuzzer_pid     : 2246\ncycles_done    : 46\nexecs_done     : 3920619\nexecs_per_sec  : 801.62\npaths_total    : 8\npaths_favored  : 4\npaths_found    : 7\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 7\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.14%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500046939\nlast_crash     : 0\nlast_hang      : 1500048593\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Griswold/input -o /dev/shm/work/Griswold/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Griswold/Griswold.dict -- data/linux/processed-challenges/Griswold/bin/Griswold\n'
+p83
+I0
+tp84
+a(I5040
+S'start_time     : 1500046921\nlast_update    : 1500051971\nfuzzer_pid     : 2246\ncycles_done    : 48\nexecs_done     : 4016766\nexecs_per_sec  : 823.06\npaths_total    : 8\npaths_favored  : 4\npaths_found    : 7\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.14%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500046939\nlast_crash     : 0\nlast_hang      : 1500048593\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Griswold/input -o /dev/shm/work/Griswold/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Griswold/Griswold.dict -- data/linux/processed-challenges/Griswold/bin/Griswold\n'
+p85
+I0
+tp86
+a(I5160
+S'start_time     : 1500046921\nlast_update    : 1500052031\nfuzzer_pid     : 2246\ncycles_done    : 48\nexecs_done     : 4064447\nexecs_per_sec  : 799.25\npaths_total    : 8\npaths_favored  : 4\npaths_found    : 7\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 5\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.14%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500046939\nlast_crash     : 0\nlast_hang      : 1500048593\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Griswold/input -o /dev/shm/work/Griswold/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Griswold/Griswold.dict -- data/linux/processed-challenges/Griswold/bin/Griswold\n'
+p87
+I0
+tp88
+a(I5280
+S'start_time     : 1500046921\nlast_update    : 1500052151\nfuzzer_pid     : 2246\ncycles_done    : 49\nexecs_done     : 4160315\nexecs_per_sec  : 798.48\npaths_total    : 8\npaths_favored  : 4\npaths_found    : 7\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 6\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.14%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500046939\nlast_crash     : 0\nlast_hang      : 1500048593\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Griswold/input -o /dev/shm/work/Griswold/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Griswold/Griswold.dict -- data/linux/processed-challenges/Griswold/bin/Griswold\n'
+p89
+I0
+tp90
+a(I5400
+S'start_time     : 1500046921\nlast_update    : 1500052272\nfuzzer_pid     : 2246\ncycles_done    : 50\nexecs_done     : 4255342\nexecs_per_sec  : 782.43\npaths_total    : 8\npaths_favored  : 4\npaths_found    : 7\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 7\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.14%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500046939\nlast_crash     : 0\nlast_hang      : 1500048593\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Griswold/input -o /dev/shm/work/Griswold/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Griswold/Griswold.dict -- data/linux/processed-challenges/Griswold/bin/Griswold\n'
+p91
+I0
+tp92
+a(I5520
+S'start_time     : 1500046921\nlast_update    : 1500052392\nfuzzer_pid     : 2246\ncycles_done    : 52\nexecs_done     : 4350911\nexecs_per_sec  : 811.17\npaths_total    : 8\npaths_favored  : 4\npaths_found    : 7\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.14%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500046939\nlast_crash     : 0\nlast_hang      : 1500048593\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Griswold/input -o /dev/shm/work/Griswold/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Griswold/Griswold.dict -- data/linux/processed-challenges/Griswold/bin/Griswold\n'
+p93
+I0
+tp94
+a(I5640
+S'start_time     : 1500046921\nlast_update    : 1500052512\nfuzzer_pid     : 2246\ncycles_done    : 53\nexecs_done     : 4448266\nexecs_per_sec  : 811.76\npaths_total    : 8\npaths_favored  : 4\npaths_found    : 7\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 1\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.14%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500046939\nlast_crash     : 0\nlast_hang      : 1500048593\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Griswold/input -o /dev/shm/work/Griswold/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Griswold/Griswold.dict -- data/linux/processed-challenges/Griswold/bin/Griswold\n'
+p95
+I0
+tp96
+a(I5760
+S'start_time     : 1500046921\nlast_update    : 1500052632\nfuzzer_pid     : 2246\ncycles_done    : 54\nexecs_done     : 4545039\nexecs_per_sec  : 798.02\npaths_total    : 8\npaths_favored  : 4\npaths_found    : 7\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 2\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.14%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500046939\nlast_crash     : 0\nlast_hang      : 1500048593\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Griswold/input -o /dev/shm/work/Griswold/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Griswold/Griswold.dict -- data/linux/processed-challenges/Griswold/bin/Griswold\n'
+p97
+I0
+tp98
+a(I5880
+S'start_time     : 1500046921\nlast_update    : 1500052753\nfuzzer_pid     : 2246\ncycles_done    : 55\nexecs_done     : 4642215\nexecs_per_sec  : 815.88\npaths_total    : 8\npaths_favored  : 4\npaths_found    : 7\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 5\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.14%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500046939\nlast_crash     : 0\nlast_hang      : 1500048593\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Griswold/input -o /dev/shm/work/Griswold/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Griswold/Griswold.dict -- data/linux/processed-challenges/Griswold/bin/Griswold\n'
+p99
+I0
+tp100
+a(I6000
+S'start_time     : 1500046921\nlast_update    : 1500052873\nfuzzer_pid     : 2246\ncycles_done    : 56\nexecs_done     : 4739627\nexecs_per_sec  : 778.33\npaths_total    : 8\npaths_favored  : 4\npaths_found    : 7\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 6\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.14%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500046939\nlast_crash     : 0\nlast_hang      : 1500048593\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Griswold/input -o /dev/shm/work/Griswold/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Griswold/Griswold.dict -- data/linux/processed-challenges/Griswold/bin/Griswold\n'
+p101
+I0
+tp102
+a(I6120
+S'start_time     : 1500046921\nlast_update    : 1500052993\nfuzzer_pid     : 2246\ncycles_done    : 57\nexecs_done     : 4833477\nexecs_per_sec  : 774.87\npaths_total    : 8\npaths_favored  : 4\npaths_found    : 7\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 7\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.14%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500046939\nlast_crash     : 0\nlast_hang      : 1500048593\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Griswold/input -o /dev/shm/work/Griswold/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Griswold/Griswold.dict -- data/linux/processed-challenges/Griswold/bin/Griswold\n'
+p103
+I0
+tp104
+a(I6240
+S'start_time     : 1500046921\nlast_update    : 1500053113\nfuzzer_pid     : 2246\ncycles_done    : 59\nexecs_done     : 4927252\nexecs_per_sec  : 778.72\npaths_total    : 8\npaths_favored  : 4\npaths_found    : 7\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.14%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500046939\nlast_crash     : 0\nlast_hang      : 1500048593\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Griswold/input -o /dev/shm/work/Griswold/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Griswold/Griswold.dict -- data/linux/processed-challenges/Griswold/bin/Griswold\n'
+p105
+I0
+tp106
+a(I6360
+S'start_time     : 1500046921\nlast_update    : 1500053233\nfuzzer_pid     : 2246\ncycles_done    : 60\nexecs_done     : 5019242\nexecs_per_sec  : 782.13\npaths_total    : 8\npaths_favored  : 4\npaths_found    : 7\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 1\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.14%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500046939\nlast_crash     : 0\nlast_hang      : 1500048593\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Griswold/input -o /dev/shm/work/Griswold/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Griswold/Griswold.dict -- data/linux/processed-challenges/Griswold/bin/Griswold\n'
+p107
+I0
+tp108
+a(I6480
+S'start_time     : 1500046921\nlast_update    : 1500053354\nfuzzer_pid     : 2246\ncycles_done    : 61\nexecs_done     : 5114171\nexecs_per_sec  : 805.90\npaths_total    : 8\npaths_favored  : 4\npaths_found    : 7\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 2\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.14%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500046939\nlast_crash     : 0\nlast_hang      : 1500048593\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Griswold/input -o /dev/shm/work/Griswold/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Griswold/Griswold.dict -- data/linux/processed-challenges/Griswold/bin/Griswold\n'
+p109
+I0
+tp110
+a(I6600
+S'start_time     : 1500046921\nlast_update    : 1500053474\nfuzzer_pid     : 2246\ncycles_done    : 62\nexecs_done     : 5210342\nexecs_per_sec  : 793.41\npaths_total    : 8\npaths_favored  : 4\npaths_found    : 7\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 4\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.14%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500046939\nlast_crash     : 0\nlast_hang      : 1500048593\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Griswold/input -o /dev/shm/work/Griswold/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Griswold/Griswold.dict -- data/linux/processed-challenges/Griswold/bin/Griswold\n'
+p111
+I0
+tp112
+a(I6720
+S'start_time     : 1500046921\nlast_update    : 1500053594\nfuzzer_pid     : 2246\ncycles_done    : 63\nexecs_done     : 5306227\nexecs_per_sec  : 808.87\npaths_total    : 8\npaths_favored  : 4\npaths_found    : 7\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 5\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.14%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500046939\nlast_crash     : 0\nlast_hang      : 1500048593\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Griswold/input -o /dev/shm/work/Griswold/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Griswold/Griswold.dict -- data/linux/processed-challenges/Griswold/bin/Griswold\n'
+p113
+I0
+tp114
+a(I6840
+S'start_time     : 1500046921\nlast_update    : 1500053714\nfuzzer_pid     : 2246\ncycles_done    : 64\nexecs_done     : 5401007\nexecs_per_sec  : 783.56\npaths_total    : 8\npaths_favored  : 4\npaths_found    : 7\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 6\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.14%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500046939\nlast_crash     : 0\nlast_hang      : 1500048593\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Griswold/input -o /dev/shm/work/Griswold/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Griswold/Griswold.dict -- data/linux/processed-challenges/Griswold/bin/Griswold\n'
+p115
+I0
+tp116
+a(I6960
+S'start_time     : 1500046921\nlast_update    : 1500053834\nfuzzer_pid     : 2246\ncycles_done    : 65\nexecs_done     : 5496582\nexecs_per_sec  : 789.62\npaths_total    : 8\npaths_favored  : 4\npaths_found    : 7\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 7\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.14%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500046939\nlast_crash     : 0\nlast_hang      : 1500048593\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Griswold/input -o /dev/shm/work/Griswold/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Griswold/Griswold.dict -- data/linux/processed-challenges/Griswold/bin/Griswold\n'
+p117
+I0
+tp118
+a(I7080
+S'start_time     : 1500046921\nlast_update    : 1500053955\nfuzzer_pid     : 2246\ncycles_done    : 67\nexecs_done     : 5593612\nexecs_per_sec  : 776.84\npaths_total    : 8\npaths_favored  : 4\npaths_found    : 7\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.14%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500046939\nlast_crash     : 0\nlast_hang      : 1500048593\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Griswold/input -o /dev/shm/work/Griswold/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Griswold/Griswold.dict -- data/linux/processed-challenges/Griswold/bin/Griswold\n'
+p119
+I0
+tp120
+a(I7200
+S'start_time     : 1500046921\nlast_update    : 1500054075\nfuzzer_pid     : 2246\ncycles_done    : 68\nexecs_done     : 5688427\nexecs_per_sec  : 802.31\npaths_total    : 8\npaths_favored  : 4\npaths_found    : 7\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 1\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.14%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500046939\nlast_crash     : 0\nlast_hang      : 1500048593\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Griswold/input -o /dev/shm/work/Griswold/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Griswold/Griswold.dict -- data/linux/processed-challenges/Griswold/bin/Griswold\n'
+p121
+I0
+tp122
+a(I7320
+S'start_time     : 1500046921\nlast_update    : 1500054195\nfuzzer_pid     : 2246\ncycles_done    : 69\nexecs_done     : 5784357\nexecs_per_sec  : 792.38\npaths_total    : 8\npaths_favored  : 4\npaths_found    : 7\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 2\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.14%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500046939\nlast_crash     : 0\nlast_hang      : 1500048593\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Griswold/input -o /dev/shm/work/Griswold/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Griswold/Griswold.dict -- data/linux/processed-challenges/Griswold/bin/Griswold\n'
+p123
+I0
+tp124
+a(I7440
+S'start_time     : 1500046921\nlast_update    : 1500054315\nfuzzer_pid     : 2246\ncycles_done    : 70\nexecs_done     : 5880727\nexecs_per_sec  : 815.19\npaths_total    : 8\npaths_favored  : 4\npaths_found    : 7\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 4\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.14%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500046939\nlast_crash     : 0\nlast_hang      : 1500048593\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Griswold/input -o /dev/shm/work/Griswold/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Griswold/Griswold.dict -- data/linux/processed-challenges/Griswold/bin/Griswold\n'
+p125
+I0
+tp126
+a(I7560
+S'start_time     : 1500046921\nlast_update    : 1500054435\nfuzzer_pid     : 2246\ncycles_done    : 71\nexecs_done     : 5977162\nexecs_per_sec  : 781.20\npaths_total    : 8\npaths_favored  : 4\npaths_found    : 7\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 6\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.14%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500046939\nlast_crash     : 0\nlast_hang      : 1500048593\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Griswold/input -o /dev/shm/work/Griswold/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Griswold/Griswold.dict -- data/linux/processed-challenges/Griswold/bin/Griswold\n'
+p127
+I0
+tp128
+a(I7680
+S'start_time     : 1500046921\nlast_update    : 1500054556\nfuzzer_pid     : 2246\ncycles_done    : 72\nexecs_done     : 6073991\nexecs_per_sec  : 815.48\npaths_total    : 8\npaths_favored  : 4\npaths_found    : 7\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 7\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.14%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500046939\nlast_crash     : 0\nlast_hang      : 1500048593\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Griswold/input -o /dev/shm/work/Griswold/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Griswold/Griswold.dict -- data/linux/processed-challenges/Griswold/bin/Griswold\n'
+p129
+I0
+tp130
+a(I7800
+S'start_time     : 1500046921\nlast_update    : 1500054676\nfuzzer_pid     : 2246\ncycles_done    : 74\nexecs_done     : 6171187\nexecs_per_sec  : 792.01\npaths_total    : 8\npaths_favored  : 4\npaths_found    : 7\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.14%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500046939\nlast_crash     : 0\nlast_hang      : 1500048593\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Griswold/input -o /dev/shm/work/Griswold/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Griswold/Griswold.dict -- data/linux/processed-challenges/Griswold/bin/Griswold\n'
+p131
+I0
+tp132
+a(I7920
+S'start_time     : 1500046921\nlast_update    : 1500054796\nfuzzer_pid     : 2246\ncycles_done    : 75\nexecs_done     : 6263672\nexecs_per_sec  : 794.33\npaths_total    : 8\npaths_favored  : 4\npaths_found    : 7\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 1\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.14%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500046939\nlast_crash     : 0\nlast_hang      : 1500048593\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Griswold/input -o /dev/shm/work/Griswold/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Griswold/Griswold.dict -- data/linux/processed-challenges/Griswold/bin/Griswold\n'
+p133
+I0
+tp134
+a(I8040
+S'start_time     : 1500046921\nlast_update    : 1500054916\nfuzzer_pid     : 2246\ncycles_done    : 76\nexecs_done     : 6358271\nexecs_per_sec  : 818.27\npaths_total    : 8\npaths_favored  : 4\npaths_found    : 7\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 2\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.14%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500046939\nlast_crash     : 0\nlast_hang      : 1500048593\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Griswold/input -o /dev/shm/work/Griswold/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Griswold/Griswold.dict -- data/linux/processed-challenges/Griswold/bin/Griswold\n'
+p135
+I0
+tp136
+a(I8160
+S'start_time     : 1500046921\nlast_update    : 1500055036\nfuzzer_pid     : 2246\ncycles_done    : 77\nexecs_done     : 6454695\nexecs_per_sec  : 798.86\npaths_total    : 8\npaths_favored  : 4\npaths_found    : 7\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 4\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.14%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500046939\nlast_crash     : 0\nlast_hang      : 1500048593\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Griswold/input -o /dev/shm/work/Griswold/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Griswold/Griswold.dict -- data/linux/processed-challenges/Griswold/bin/Griswold\n'
+p137
+I0
+tp138
+a(I8280
+S'start_time     : 1500046921\nlast_update    : 1500055157\nfuzzer_pid     : 2246\ncycles_done    : 78\nexecs_done     : 6551872\nexecs_per_sec  : 792.06\npaths_total    : 8\npaths_favored  : 4\npaths_found    : 7\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 5\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.14%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500046939\nlast_crash     : 0\nlast_hang      : 1500048593\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Griswold/input -o /dev/shm/work/Griswold/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Griswold/Griswold.dict -- data/linux/processed-challenges/Griswold/bin/Griswold\n'
+p139
+I0
+tp140
+a(I8400
+S'start_time     : 1500046921\nlast_update    : 1500055277\nfuzzer_pid     : 2246\ncycles_done    : 79\nexecs_done     : 6648463\nexecs_per_sec  : 814.85\npaths_total    : 8\npaths_favored  : 4\npaths_found    : 7\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 7\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.14%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500046939\nlast_crash     : 0\nlast_hang      : 1500048593\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Griswold/input -o /dev/shm/work/Griswold/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Griswold/Griswold.dict -- data/linux/processed-challenges/Griswold/bin/Griswold\n'
+p141
+I0
+tp142
+a(I8520
+S'start_time     : 1500046921\nlast_update    : 1500055397\nfuzzer_pid     : 2246\ncycles_done    : 81\nexecs_done     : 6744563\nexecs_per_sec  : 823.41\npaths_total    : 8\npaths_favored  : 4\npaths_found    : 7\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.14%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500046939\nlast_crash     : 0\nlast_hang      : 1500048593\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Griswold/input -o /dev/shm/work/Griswold/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Griswold/Griswold.dict -- data/linux/processed-challenges/Griswold/bin/Griswold\n'
+p143
+I0
+tp144
+a(I8640
+S'start_time     : 1500046921\nlast_update    : 1500055517\nfuzzer_pid     : 2246\ncycles_done    : 82\nexecs_done     : 6839482\nexecs_per_sec  : 767.35\npaths_total    : 8\npaths_favored  : 4\npaths_found    : 7\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 1\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.14%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500046939\nlast_crash     : 0\nlast_hang      : 1500048593\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Griswold/input -o /dev/shm/work/Griswold/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Griswold/Griswold.dict -- data/linux/processed-challenges/Griswold/bin/Griswold\n'
+p145
+I0
+tp146
+a(I8760
+S'start_time     : 1500046921\nlast_update    : 1500055637\nfuzzer_pid     : 2246\ncycles_done    : 83\nexecs_done     : 6934397\nexecs_per_sec  : 760.25\npaths_total    : 8\npaths_favored  : 4\npaths_found    : 7\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 2\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.14%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500046939\nlast_crash     : 0\nlast_hang      : 1500048593\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Griswold/input -o /dev/shm/work/Griswold/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Griswold/Griswold.dict -- data/linux/processed-challenges/Griswold/bin/Griswold\n'
+p147
+I0
+tp148
+a(I8880
+S'start_time     : 1500046921\nlast_update    : 1500055758\nfuzzer_pid     : 2246\ncycles_done    : 84\nexecs_done     : 7029602\nexecs_per_sec  : 795.62\npaths_total    : 8\npaths_favored  : 4\npaths_found    : 7\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 3\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.14%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500046939\nlast_crash     : 0\nlast_hang      : 1500048593\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Griswold/input -o /dev/shm/work/Griswold/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Griswold/Griswold.dict -- data/linux/processed-challenges/Griswold/bin/Griswold\n'
+p149
+I0
+tp150
+a(I9000
+S'start_time     : 1500046921\nlast_update    : 1500055878\nfuzzer_pid     : 2246\ncycles_done    : 85\nexecs_done     : 7124427\nexecs_per_sec  : 767.65\npaths_total    : 8\npaths_favored  : 4\npaths_found    : 7\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 5\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.14%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500046939\nlast_crash     : 0\nlast_hang      : 1500048593\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Griswold/input -o /dev/shm/work/Griswold/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Griswold/Griswold.dict -- data/linux/processed-challenges/Griswold/bin/Griswold\n'
+p151
+I0
+tp152
+a(I9120
+S'start_time     : 1500046921\nlast_update    : 1500055998\nfuzzer_pid     : 2246\ncycles_done    : 86\nexecs_done     : 7218567\nexecs_per_sec  : 757.63\npaths_total    : 8\npaths_favored  : 4\npaths_found    : 7\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 5\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.14%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500046939\nlast_crash     : 0\nlast_hang      : 1500048593\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Griswold/input -o /dev/shm/work/Griswold/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Griswold/Griswold.dict -- data/linux/processed-challenges/Griswold/bin/Griswold\n'
+p153
+I0
+tp154
+a(I9240
+S'start_time     : 1500046921\nlast_update    : 1500056118\nfuzzer_pid     : 2246\ncycles_done    : 87\nexecs_done     : 7314167\nexecs_per_sec  : 797.77\npaths_total    : 8\npaths_favored  : 4\npaths_found    : 7\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 7\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.14%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500046939\nlast_crash     : 0\nlast_hang      : 1500048593\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Griswold/input -o /dev/shm/work/Griswold/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Griswold/Griswold.dict -- data/linux/processed-challenges/Griswold/bin/Griswold\n'
+p155
+I0
+tp156
+a(I9360
+S'start_time     : 1500046921\nlast_update    : 1500056238\nfuzzer_pid     : 2246\ncycles_done    : 89\nexecs_done     : 7410522\nexecs_per_sec  : 778.79\npaths_total    : 8\npaths_favored  : 4\npaths_found    : 7\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.14%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500046939\nlast_crash     : 0\nlast_hang      : 1500048593\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Griswold/input -o /dev/shm/work/Griswold/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Griswold/Griswold.dict -- data/linux/processed-challenges/Griswold/bin/Griswold\n'
+p157
+I0
+tp158
+a(I9480
+S'start_time     : 1500046921\nlast_update    : 1500056358\nfuzzer_pid     : 2246\ncycles_done    : 90\nexecs_done     : 7506522\nexecs_per_sec  : 800.31\npaths_total    : 8\npaths_favored  : 4\npaths_found    : 7\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 1\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.14%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500046939\nlast_crash     : 0\nlast_hang      : 1500048593\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Griswold/input -o /dev/shm/work/Griswold/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Griswold/Griswold.dict -- data/linux/processed-challenges/Griswold/bin/Griswold\n'
+p159
+I0
+tp160
+a(I9600
+S'start_time     : 1500046921\nlast_update    : 1500056478\nfuzzer_pid     : 2246\ncycles_done    : 91\nexecs_done     : 7602097\nexecs_per_sec  : 790.81\npaths_total    : 8\npaths_favored  : 4\npaths_found    : 7\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 2\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.14%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500046939\nlast_crash     : 0\nlast_hang      : 1500048593\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Griswold/input -o /dev/shm/work/Griswold/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Griswold/Griswold.dict -- data/linux/processed-challenges/Griswold/bin/Griswold\n'
+p161
+I0
+tp162
+a(I9720
+S'start_time     : 1500046921\nlast_update    : 1500056599\nfuzzer_pid     : 2246\ncycles_done    : 92\nexecs_done     : 7697131\nexecs_per_sec  : 806.06\npaths_total    : 8\npaths_favored  : 4\npaths_found    : 7\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 4\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.14%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500046939\nlast_crash     : 0\nlast_hang      : 1500048593\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Griswold/input -o /dev/shm/work/Griswold/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Griswold/Griswold.dict -- data/linux/processed-challenges/Griswold/bin/Griswold\n'
+p163
+I0
+tp164
+a(I9840
+S'start_time     : 1500046921\nlast_update    : 1500056719\nfuzzer_pid     : 2246\ncycles_done    : 93\nexecs_done     : 7793235\nexecs_per_sec  : 817.43\npaths_total    : 8\npaths_favored  : 4\npaths_found    : 7\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 6\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.14%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500046939\nlast_crash     : 0\nlast_hang      : 1500048593\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Griswold/input -o /dev/shm/work/Griswold/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Griswold/Griswold.dict -- data/linux/processed-challenges/Griswold/bin/Griswold\n'
+p165
+I0
+tp166
+a(I9960
+S'start_time     : 1500046921\nlast_update    : 1500056839\nfuzzer_pid     : 2246\ncycles_done    : 94\nexecs_done     : 7889192\nexecs_per_sec  : 787.51\npaths_total    : 8\npaths_favored  : 4\npaths_found    : 7\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 7\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.14%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500046939\nlast_crash     : 0\nlast_hang      : 1500048593\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Griswold/input -o /dev/shm/work/Griswold/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Griswold/Griswold.dict -- data/linux/processed-challenges/Griswold/bin/Griswold\n'
+p167
+I0
+tp168
+a(I10080
+S'start_time     : 1500046921\nlast_update    : 1500056959\nfuzzer_pid     : 2246\ncycles_done    : 96\nexecs_done     : 7987799\nexecs_per_sec  : 828.68\npaths_total    : 8\npaths_favored  : 4\npaths_found    : 7\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 1\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.14%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500046939\nlast_crash     : 0\nlast_hang      : 1500048593\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Griswold/input -o /dev/shm/work/Griswold/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Griswold/Griswold.dict -- data/linux/processed-challenges/Griswold/bin/Griswold\n'
+p169
+I0
+tp170
+a(I10200
+S'start_time     : 1500046921\nlast_update    : 1500057079\nfuzzer_pid     : 2246\ncycles_done    : 97\nexecs_done     : 8086847\nexecs_per_sec  : 813.22\npaths_total    : 8\npaths_favored  : 4\npaths_found    : 7\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 2\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.14%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500046939\nlast_crash     : 0\nlast_hang      : 1500048593\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Griswold/input -o /dev/shm/work/Griswold/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Griswold/Griswold.dict -- data/linux/processed-challenges/Griswold/bin/Griswold\n'
+p171
+I0
+tp172
+a(I10320
+S'start_time     : 1500046921\nlast_update    : 1500057200\nfuzzer_pid     : 2246\ncycles_done    : 98\nexecs_done     : 8182347\nexecs_per_sec  : 763.11\npaths_total    : 8\npaths_favored  : 4\npaths_found    : 7\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 4\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.14%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500046939\nlast_crash     : 0\nlast_hang      : 1500048593\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Griswold/input -o /dev/shm/work/Griswold/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Griswold/Griswold.dict -- data/linux/processed-challenges/Griswold/bin/Griswold\n'
+p173
+I0
+tp174
+a(I10440
+S'start_time     : 1500046921\nlast_update    : 1500057320\nfuzzer_pid     : 2246\ncycles_done    : 99\nexecs_done     : 8279119\nexecs_per_sec  : 845.72\npaths_total    : 8\npaths_favored  : 4\npaths_found    : 7\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 5\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.14%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500046939\nlast_crash     : 0\nlast_hang      : 1500048593\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Griswold/input -o /dev/shm/work/Griswold/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Griswold/Griswold.dict -- data/linux/processed-challenges/Griswold/bin/Griswold\n'
+p175
+I0
+tp176
+a(I10560
+S'start_time     : 1500046921\nlast_update    : 1500057440\nfuzzer_pid     : 2246\ncycles_done    : 100\nexecs_done     : 8374857\nexecs_per_sec  : 800.49\npaths_total    : 8\npaths_favored  : 4\npaths_found    : 7\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 6\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.14%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500046939\nlast_crash     : 0\nlast_hang      : 1500048593\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Griswold/input -o /dev/shm/work/Griswold/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Griswold/Griswold.dict -- data/linux/processed-challenges/Griswold/bin/Griswold\n'
+p177
+I0
+tp178
+a(I10680
+S'start_time     : 1500046921\nlast_update    : 1500057560\nfuzzer_pid     : 2246\ncycles_done    : 101\nexecs_done     : 8470387\nexecs_per_sec  : 762.71\npaths_total    : 8\npaths_favored  : 4\npaths_found    : 7\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 7\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.14%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500046939\nlast_crash     : 0\nlast_hang      : 1500048593\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Griswold/input -o /dev/shm/work/Griswold/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Griswold/Griswold.dict -- data/linux/processed-challenges/Griswold/bin/Griswold\n'
+p179
+I0
+tp180
+a.

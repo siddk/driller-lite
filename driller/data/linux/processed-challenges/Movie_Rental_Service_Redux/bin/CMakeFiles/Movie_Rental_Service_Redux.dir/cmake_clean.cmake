@@ -1,0 +1,40 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/Movie_Rental_Service_Redux.dir/lib/calloc.c.o"
+  "CMakeFiles/Movie_Rental_Service_Redux.dir/lib/ctype.c.o"
+  "CMakeFiles/Movie_Rental_Service_Redux.dir/lib/free.c.o"
+  "CMakeFiles/Movie_Rental_Service_Redux.dir/lib/malloc.c.o"
+  "CMakeFiles/Movie_Rental_Service_Redux.dir/lib/malloc_common.c.o"
+  "CMakeFiles/Movie_Rental_Service_Redux.dir/lib/memchr.c.o"
+  "CMakeFiles/Movie_Rental_Service_Redux.dir/lib/memcmp.c.o"
+  "CMakeFiles/Movie_Rental_Service_Redux.dir/lib/memcpy.c.o"
+  "CMakeFiles/Movie_Rental_Service_Redux.dir/lib/memmove.c.o"
+  "CMakeFiles/Movie_Rental_Service_Redux.dir/lib/memset.c.o"
+  "CMakeFiles/Movie_Rental_Service_Redux.dir/lib/printf.c.o"
+  "CMakeFiles/Movie_Rental_Service_Redux.dir/lib/realloc.c.o"
+  "CMakeFiles/Movie_Rental_Service_Redux.dir/lib/strcasecmp.c.o"
+  "CMakeFiles/Movie_Rental_Service_Redux.dir/lib/strcat.c.o"
+  "CMakeFiles/Movie_Rental_Service_Redux.dir/lib/strchr.c.o"
+  "CMakeFiles/Movie_Rental_Service_Redux.dir/lib/strcmp.c.o"
+  "CMakeFiles/Movie_Rental_Service_Redux.dir/lib/strcpy.c.o"
+  "CMakeFiles/Movie_Rental_Service_Redux.dir/lib/strdup.c.o"
+  "CMakeFiles/Movie_Rental_Service_Redux.dir/lib/strlen.c.o"
+  "CMakeFiles/Movie_Rental_Service_Redux.dir/lib/strncasecmp.c.o"
+  "CMakeFiles/Movie_Rental_Service_Redux.dir/lib/strncmp.c.o"
+  "CMakeFiles/Movie_Rental_Service_Redux.dir/lib/strncpy.c.o"
+  "CMakeFiles/Movie_Rental_Service_Redux.dir/lib/strsep.c.o"
+  "CMakeFiles/Movie_Rental_Service_Redux.dir/lib/strtol.c.o"
+  "CMakeFiles/Movie_Rental_Service_Redux.dir/src/admin.c.o"
+  "CMakeFiles/Movie_Rental_Service_Redux.dir/src/cmdb.c.o"
+  "CMakeFiles/Movie_Rental_Service_Redux.dir/src/cmdb_backend.c.o"
+  "CMakeFiles/Movie_Rental_Service_Redux.dir/src/debug.c.o"
+  "CMakeFiles/Movie_Rental_Service_Redux.dir/src/main.c.o"
+  "CMakeFiles/Movie_Rental_Service_Redux.dir/src/readline.c.o"
+  "CMakeFiles/Movie_Rental_Service_Redux.dir/src/user.c.o"
+  "Movie_Rental_Service_Redux.pdb"
+  "Movie_Rental_Service_Redux"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang C)
+  include(CMakeFiles/Movie_Rental_Service_Redux.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

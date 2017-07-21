@@ -1,0 +1,452 @@
+(lp0
+(I0
+S'start_time     : 1499798386\nlast_update    : 1499798386\nfuzzer_pid     : 30600\ncycles_done    : 0\nexecs_done     : 10\nexecs_per_sec  : 204.08\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 1\npending_total  : 1\nvariable_paths : 0\nbitmap_cvg     : 0.08%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/router_simulator/input -o /dev/shm/work/router_simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/router_simulator/router_simulator.dict -- data/linux/processed-challenges/router_simulator/bin/router_simulator\n'
+p1
+I26
+tp2
+a(I120
+S'start_time     : 1499798386\nlast_update    : 1499798506\nfuzzer_pid     : 30600\ncycles_done    : 0\nexecs_done     : 161683\nexecs_per_sec  : 1351.84\npaths_total    : 41\npaths_favored  : 12\npaths_found    : 40\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 4\npending_favs   : 12\npending_total  : 40\nvariable_paths : 0\nbitmap_cvg     : 0.20%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499798504\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/router_simulator/input -o /dev/shm/work/router_simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/router_simulator/router_simulator.dict -- data/linux/processed-challenges/router_simulator/bin/router_simulator\n'
+p3
+I19
+tp4
+a(I240
+S'start_time     : 1499798386\nlast_update    : 1499798627\nfuzzer_pid     : 30600\ncycles_done    : 0\nexecs_done     : 322046\nexecs_per_sec  : 1346.77\npaths_total    : 52\npaths_favored  : 12\npaths_found    : 51\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 4\npending_favs   : 12\npending_total  : 51\nvariable_paths : 0\nbitmap_cvg     : 0.26%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499798601\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/router_simulator/input -o /dev/shm/work/router_simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/router_simulator/router_simulator.dict -- data/linux/processed-challenges/router_simulator/bin/router_simulator\n'
+p5
+I7
+tp6
+a(I360
+S'start_time     : 1499798386\nlast_update    : 1499798747\nfuzzer_pid     : 30600\ncycles_done    : 0\nexecs_done     : 480186\nexecs_per_sec  : 1320.73\npaths_total    : 73\npaths_favored  : 25\npaths_found    : 72\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 54\npending_favs   : 16\npending_total  : 56\nvariable_paths : 0\nbitmap_cvg     : 0.33%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499798739\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/router_simulator/input -o /dev/shm/work/router_simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/router_simulator/router_simulator.dict -- data/linux/processed-challenges/router_simulator/bin/router_simulator\n'
+p7
+I21
+tp8
+a(I480
+S'start_time     : 1499798386\nlast_update    : 1499798867\nfuzzer_pid     : 30600\ncycles_done    : 0\nexecs_done     : 638835\nexecs_per_sec  : 1331.85\npaths_total    : 89\npaths_favored  : 26\npaths_found    : 88\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 62\npending_favs   : 16\npending_total  : 69\nvariable_paths : 0\nbitmap_cvg     : 0.42%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499798828\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/router_simulator/input -o /dev/shm/work/router_simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/router_simulator/router_simulator.dict -- data/linux/processed-challenges/router_simulator/bin/router_simulator\n'
+p9
+I16
+tp10
+a(I600
+S'start_time     : 1499798386\nlast_update    : 1499798987\nfuzzer_pid     : 30600\ncycles_done    : 0\nexecs_done     : 795150\nexecs_per_sec  : 1305.94\npaths_total    : 95\npaths_favored  : 29\npaths_found    : 94\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 67\npending_favs   : 17\npending_total  : 71\nvariable_paths : 0\nbitmap_cvg     : 0.44%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499798953\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/router_simulator/input -o /dev/shm/work/router_simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/router_simulator/router_simulator.dict -- data/linux/processed-challenges/router_simulator/bin/router_simulator\n'
+p11
+I6
+tp12
+a(I720
+S'start_time     : 1499798386\nlast_update    : 1499799107\nfuzzer_pid     : 30600\ncycles_done    : 0\nexecs_done     : 952146\nexecs_per_sec  : 1335.40\npaths_total    : 106\npaths_favored  : 32\npaths_found    : 105\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 73\npending_favs   : 14\npending_total  : 76\nvariable_paths : 0\nbitmap_cvg     : 0.50%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499799090\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/router_simulator/input -o /dev/shm/work/router_simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/router_simulator/router_simulator.dict -- data/linux/processed-challenges/router_simulator/bin/router_simulator\n'
+p13
+I12
+tp14
+a(I840
+S'start_time     : 1499798386\nlast_update    : 1499799228\nfuzzer_pid     : 30600\ncycles_done    : 0\nexecs_done     : 1107676\nexecs_per_sec  : 1254.96\npaths_total    : 136\npaths_favored  : 33\npaths_found    : 135\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 77\npending_favs   : 15\npending_total  : 105\nvariable_paths : 0\nbitmap_cvg     : 0.59%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499799200\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/router_simulator/input -o /dev/shm/work/router_simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/router_simulator/router_simulator.dict -- data/linux/processed-challenges/router_simulator/bin/router_simulator\n'
+p15
+I29
+tp16
+a(I960
+S'start_time     : 1499798386\nlast_update    : 1499799348\nfuzzer_pid     : 30600\ncycles_done    : 0\nexecs_done     : 1263071\nexecs_per_sec  : 1294.64\npaths_total    : 144\npaths_favored  : 53\npaths_found    : 143\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 79\npending_favs   : 35\npending_total  : 112\nvariable_paths : 0\nbitmap_cvg     : 0.59%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499799304\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/router_simulator/input -o /dev/shm/work/router_simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/router_simulator/router_simulator.dict -- data/linux/processed-challenges/router_simulator/bin/router_simulator\n'
+p17
+I9
+tp18
+a(I1080
+S'start_time     : 1499798386\nlast_update    : 1499799468\nfuzzer_pid     : 30600\ncycles_done    : 0\nexecs_done     : 1419074\nexecs_per_sec  : 1308.11\npaths_total    : 156\npaths_favored  : 53\npaths_found    : 155\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 89\npending_favs   : 32\npending_total  : 121\nvariable_paths : 0\nbitmap_cvg     : 0.63%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499799460\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/router_simulator/input -o /dev/shm/work/router_simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/router_simulator/router_simulator.dict -- data/linux/processed-challenges/router_simulator/bin/router_simulator\n'
+p19
+I11
+tp20
+a(I1200
+S'start_time     : 1499798386\nlast_update    : 1499799588\nfuzzer_pid     : 30600\ncycles_done    : 0\nexecs_done     : 1575524\nexecs_per_sec  : 1294.66\npaths_total    : 162\npaths_favored  : 60\npaths_found    : 161\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 90\npending_favs   : 39\npending_total  : 126\nvariable_paths : 0\nbitmap_cvg     : 0.63%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499799543\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/router_simulator/input -o /dev/shm/work/router_simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/router_simulator/router_simulator.dict -- data/linux/processed-challenges/router_simulator/bin/router_simulator\n'
+p21
+I6
+tp22
+a(I1320
+S'start_time     : 1499798386\nlast_update    : 1499799708\nfuzzer_pid     : 30600\ncycles_done    : 0\nexecs_done     : 1732472\nexecs_per_sec  : 1318.22\npaths_total    : 173\npaths_favored  : 60\npaths_found    : 172\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 95\npending_favs   : 39\npending_total  : 136\nvariable_paths : 0\nbitmap_cvg     : 0.68%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499799678\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/router_simulator/input -o /dev/shm/work/router_simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/router_simulator/router_simulator.dict -- data/linux/processed-challenges/router_simulator/bin/router_simulator\n'
+p23
+I11
+tp24
+a(I1440
+S'start_time     : 1499798386\nlast_update    : 1499799829\nfuzzer_pid     : 30600\ncycles_done    : 0\nexecs_done     : 1889248\nexecs_per_sec  : 1318.92\npaths_total    : 182\npaths_favored  : 66\npaths_found    : 181\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 97\npending_favs   : 43\npending_total  : 143\nvariable_paths : 0\nbitmap_cvg     : 0.69%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499799828\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/router_simulator/input -o /dev/shm/work/router_simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/router_simulator/router_simulator.dict -- data/linux/processed-challenges/router_simulator/bin/router_simulator\n'
+p25
+I9
+tp26
+a(I1560
+S'start_time     : 1499798386\nlast_update    : 1499799949\nfuzzer_pid     : 30600\ncycles_done    : 0\nexecs_done     : 2046043\nexecs_per_sec  : 1305.50\npaths_total    : 191\npaths_favored  : 67\npaths_found    : 190\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 104\npending_favs   : 43\npending_total  : 149\nvariable_paths : 0\nbitmap_cvg     : 0.69%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499799937\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/router_simulator/input -o /dev/shm/work/router_simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/router_simulator/router_simulator.dict -- data/linux/processed-challenges/router_simulator/bin/router_simulator\n'
+p27
+I9
+tp28
+a(I1680
+S'start_time     : 1499798386\nlast_update    : 1499800069\nfuzzer_pid     : 30600\ncycles_done    : 0\nexecs_done     : 2199969\nexecs_per_sec  : 1301.55\npaths_total    : 198\npaths_favored  : 68\npaths_found    : 197\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 109\npending_favs   : 44\npending_total  : 154\nvariable_paths : 0\nbitmap_cvg     : 0.70%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499800057\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/router_simulator/input -o /dev/shm/work/router_simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/router_simulator/router_simulator.dict -- data/linux/processed-challenges/router_simulator/bin/router_simulator\n'
+p29
+I7
+tp30
+a(I1800
+S'start_time     : 1499798386\nlast_update    : 1499800189\nfuzzer_pid     : 30600\ncycles_done    : 0\nexecs_done     : 2352487\nexecs_per_sec  : 1256.18\npaths_total    : 203\npaths_favored  : 75\npaths_found    : 202\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 115\npending_favs   : 48\npending_total  : 155\nvariable_paths : 0\nbitmap_cvg     : 0.71%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499800152\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/router_simulator/input -o /dev/shm/work/router_simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/router_simulator/router_simulator.dict -- data/linux/processed-challenges/router_simulator/bin/router_simulator\n'
+p31
+I5
+tp32
+a(I1920
+S'start_time     : 1499798386\nlast_update    : 1499800310\nfuzzer_pid     : 30600\ncycles_done    : 0\nexecs_done     : 2504032\nexecs_per_sec  : 1244.31\npaths_total    : 218\npaths_favored  : 76\npaths_found    : 217\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 127\npending_favs   : 45\npending_total  : 164\nvariable_paths : 0\nbitmap_cvg     : 0.72%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499800309\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/router_simulator/input -o /dev/shm/work/router_simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/router_simulator/router_simulator.dict -- data/linux/processed-challenges/router_simulator/bin/router_simulator\n'
+p33
+I15
+tp34
+a(I2040
+S'start_time     : 1499798386\nlast_update    : 1499800430\nfuzzer_pid     : 30600\ncycles_done    : 0\nexecs_done     : 2654302\nexecs_per_sec  : 1186.94\npaths_total    : 228\npaths_favored  : 82\npaths_found    : 227\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 130\npending_favs   : 49\npending_total  : 172\nvariable_paths : 0\nbitmap_cvg     : 0.73%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499800423\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/router_simulator/input -o /dev/shm/work/router_simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/router_simulator/router_simulator.dict -- data/linux/processed-challenges/router_simulator/bin/router_simulator\n'
+p35
+I11
+tp36
+a(I2160
+S'start_time     : 1499798386\nlast_update    : 1499800550\nfuzzer_pid     : 30600\ncycles_done    : 0\nexecs_done     : 2806661\nexecs_per_sec  : 1228.17\npaths_total    : 233\npaths_favored  : 86\npaths_found    : 232\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 134\npending_favs   : 52\npending_total  : 175\nvariable_paths : 0\nbitmap_cvg     : 0.74%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499800515\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/router_simulator/input -o /dev/shm/work/router_simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/router_simulator/router_simulator.dict -- data/linux/processed-challenges/router_simulator/bin/router_simulator\n'
+p37
+I4
+tp38
+a(I2280
+S'start_time     : 1499798386\nlast_update    : 1499800670\nfuzzer_pid     : 30600\ncycles_done    : 0\nexecs_done     : 2958190\nexecs_per_sec  : 1259.63\npaths_total    : 237\npaths_favored  : 86\npaths_found    : 236\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 150\npending_favs   : 46\npending_total  : 173\nvariable_paths : 0\nbitmap_cvg     : 0.74%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499800646\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/router_simulator/input -o /dev/shm/work/router_simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/router_simulator/router_simulator.dict -- data/linux/processed-challenges/router_simulator/bin/router_simulator\n'
+p39
+I5
+tp40
+a(I2400
+S'start_time     : 1499798386\nlast_update    : 1499800790\nfuzzer_pid     : 30600\ncycles_done    : 0\nexecs_done     : 3108732\nexecs_per_sec  : 1223.13\npaths_total    : 243\npaths_favored  : 86\npaths_found    : 242\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 151\npending_favs   : 46\npending_total  : 178\nvariable_paths : 0\nbitmap_cvg     : 0.74%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499800790\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/router_simulator/input -o /dev/shm/work/router_simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/router_simulator/router_simulator.dict -- data/linux/processed-challenges/router_simulator/bin/router_simulator\n'
+p41
+I5
+tp42
+a(I2520
+S'start_time     : 1499798386\nlast_update    : 1499800910\nfuzzer_pid     : 30600\ncycles_done    : 0\nexecs_done     : 3256334\nexecs_per_sec  : 1246.23\npaths_total    : 248\npaths_favored  : 86\npaths_found    : 247\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 151\npending_favs   : 46\npending_total  : 183\nvariable_paths : 0\nbitmap_cvg     : 0.74%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499800902\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/router_simulator/input -o /dev/shm/work/router_simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/router_simulator/router_simulator.dict -- data/linux/processed-challenges/router_simulator/bin/router_simulator\n'
+p43
+I5
+tp44
+a(I2640
+S'start_time     : 1499798386\nlast_update    : 1499801031\nfuzzer_pid     : 30600\ncycles_done    : 0\nexecs_done     : 3407675\nexecs_per_sec  : 1337.27\npaths_total    : 253\npaths_favored  : 89\npaths_found    : 252\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 165\npending_favs   : 41\npending_total  : 180\nvariable_paths : 0\nbitmap_cvg     : 0.76%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499801029\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/router_simulator/input -o /dev/shm/work/router_simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/router_simulator/router_simulator.dict -- data/linux/processed-challenges/router_simulator/bin/router_simulator\n'
+p45
+I5
+tp46
+a(I2760
+S'start_time     : 1499798386\nlast_update    : 1499801151\nfuzzer_pid     : 30600\ncycles_done    : 0\nexecs_done     : 3565269\nexecs_per_sec  : 1271.89\npaths_total    : 263\npaths_favored  : 93\npaths_found    : 262\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 167\npending_favs   : 45\npending_total  : 188\nvariable_paths : 0\nbitmap_cvg     : 0.78%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499801114\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/router_simulator/input -o /dev/shm/work/router_simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/router_simulator/router_simulator.dict -- data/linux/processed-challenges/router_simulator/bin/router_simulator\n'
+p47
+I11
+tp48
+a(I2880
+S'start_time     : 1499798386\nlast_update    : 1499801271\nfuzzer_pid     : 30600\ncycles_done    : 0\nexecs_done     : 3715394\nexecs_per_sec  : 1203.42\npaths_total    : 271\npaths_favored  : 100\npaths_found    : 270\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 182\npending_favs   : 52\npending_total  : 192\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499801254\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/router_simulator/input -o /dev/shm/work/router_simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/router_simulator/router_simulator.dict -- data/linux/processed-challenges/router_simulator/bin/router_simulator\n'
+p49
+I7
+tp50
+a(I3000
+S'start_time     : 1499798386\nlast_update    : 1499801391\nfuzzer_pid     : 30600\ncycles_done    : 0\nexecs_done     : 3862416\nexecs_per_sec  : 1244.98\npaths_total    : 274\npaths_favored  : 102\npaths_found    : 273\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 195\npending_favs   : 48\npending_total  : 190\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499801367\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/router_simulator/input -o /dev/shm/work/router_simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/router_simulator/router_simulator.dict -- data/linux/processed-challenges/router_simulator/bin/router_simulator\n'
+p51
+I3
+tp52
+a(I3120
+S'start_time     : 1499798386\nlast_update    : 1499801512\nfuzzer_pid     : 30600\ncycles_done    : 0\nexecs_done     : 4009053\nexecs_per_sec  : 1183.42\npaths_total    : 276\npaths_favored  : 102\npaths_found    : 275\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 202\npending_favs   : 43\npending_total  : 186\nvariable_paths : 0\nbitmap_cvg     : 0.81%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499801478\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/router_simulator/input -o /dev/shm/work/router_simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/router_simulator/router_simulator.dict -- data/linux/processed-challenges/router_simulator/bin/router_simulator\n'
+p53
+I2
+tp54
+a(I3240
+S'start_time     : 1499798386\nlast_update    : 1499801632\nfuzzer_pid     : 30600\ncycles_done    : 0\nexecs_done     : 4164232\nexecs_per_sec  : 1310.41\npaths_total    : 284\npaths_favored  : 102\npaths_found    : 283\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 204\npending_favs   : 41\npending_total  : 192\nvariable_paths : 0\nbitmap_cvg     : 0.82%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499801598\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/router_simulator/input -o /dev/shm/work/router_simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/router_simulator/router_simulator.dict -- data/linux/processed-challenges/router_simulator/bin/router_simulator\n'
+p55
+I8
+tp56
+a(I3360
+S'start_time     : 1499798386\nlast_update    : 1499801752\nfuzzer_pid     : 30600\ncycles_done    : 0\nexecs_done     : 4313474\nexecs_per_sec  : 1194.56\npaths_total    : 287\npaths_favored  : 107\npaths_found    : 286\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 215\npending_favs   : 45\npending_total  : 192\nvariable_paths : 0\nbitmap_cvg     : 0.82%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499801740\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/router_simulator/input -o /dev/shm/work/router_simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/router_simulator/router_simulator.dict -- data/linux/processed-challenges/router_simulator/bin/router_simulator\n'
+p57
+I4
+tp58
+a(I3480
+S'start_time     : 1499798386\nlast_update    : 1499801872\nfuzzer_pid     : 30600\ncycles_done    : 0\nexecs_done     : 4461812\nexecs_per_sec  : 1236.04\npaths_total    : 294\npaths_favored  : 107\npaths_found    : 293\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 219\npending_favs   : 43\npending_total  : 197\nvariable_paths : 0\nbitmap_cvg     : 0.82%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499801849\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/router_simulator/input -o /dev/shm/work/router_simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/router_simulator/router_simulator.dict -- data/linux/processed-challenges/router_simulator/bin/router_simulator\n'
+p59
+I6
+tp60
+a(I3600
+S'start_time     : 1499798386\nlast_update    : 1499801992\nfuzzer_pid     : 30600\ncycles_done    : 0\nexecs_done     : 4611039\nexecs_per_sec  : 1224.14\npaths_total    : 299\npaths_favored  : 107\npaths_found    : 298\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 227\npending_favs   : 42\npending_total  : 200\nvariable_paths : 0\nbitmap_cvg     : 0.82%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499801985\nlast_crash     : 0\nlast_hang      : 1499801931\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/router_simulator/input -o /dev/shm/work/router_simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/router_simulator/router_simulator.dict -- data/linux/processed-challenges/router_simulator/bin/router_simulator\n'
+p61
+I5
+tp62
+a(I3720
+S'start_time     : 1499798386\nlast_update    : 1499802112\nfuzzer_pid     : 30600\ncycles_done    : 0\nexecs_done     : 4759717\nexecs_per_sec  : 1257.01\npaths_total    : 305\npaths_favored  : 107\npaths_found    : 304\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 232\npending_favs   : 37\npending_total  : 201\nvariable_paths : 0\nbitmap_cvg     : 0.83%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499802104\nlast_crash     : 0\nlast_hang      : 1499801931\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/router_simulator/input -o /dev/shm/work/router_simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/router_simulator/router_simulator.dict -- data/linux/processed-challenges/router_simulator/bin/router_simulator\n'
+p63
+I6
+tp64
+a(I3840
+S'start_time     : 1499798386\nlast_update    : 1499802232\nfuzzer_pid     : 30600\ncycles_done    : 0\nexecs_done     : 4906196\nexecs_per_sec  : 1130.41\npaths_total    : 307\npaths_favored  : 110\npaths_found    : 306\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 242\npending_favs   : 39\npending_total  : 199\nvariable_paths : 0\nbitmap_cvg     : 0.83%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499802170\nlast_crash     : 0\nlast_hang      : 1499801931\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/router_simulator/input -o /dev/shm/work/router_simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/router_simulator/router_simulator.dict -- data/linux/processed-challenges/router_simulator/bin/router_simulator\n'
+p65
+I2
+tp66
+a(I3960
+S'start_time     : 1499798386\nlast_update    : 1499802352\nfuzzer_pid     : 30600\ncycles_done    : 0\nexecs_done     : 5049318\nexecs_per_sec  : 1184.62\npaths_total    : 313\npaths_favored  : 110\npaths_found    : 312\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 242\npending_favs   : 39\npending_total  : 205\nvariable_paths : 0\nbitmap_cvg     : 0.83%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499802306\nlast_crash     : 0\nlast_hang      : 1499801931\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/router_simulator/input -o /dev/shm/work/router_simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/router_simulator/router_simulator.dict -- data/linux/processed-challenges/router_simulator/bin/router_simulator\n'
+p67
+I6
+tp68
+a(I4080
+S'start_time     : 1499798386\nlast_update    : 1499802473\nfuzzer_pid     : 30600\ncycles_done    : 0\nexecs_done     : 5193854\nexecs_per_sec  : 1338.02\npaths_total    : 317\npaths_favored  : 111\npaths_found    : 316\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 250\npending_favs   : 38\npending_total  : 206\nvariable_paths : 0\nbitmap_cvg     : 0.84%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499802455\nlast_crash     : 0\nlast_hang      : 1499801931\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/router_simulator/input -o /dev/shm/work/router_simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/router_simulator/router_simulator.dict -- data/linux/processed-challenges/router_simulator/bin/router_simulator\n'
+p69
+I5
+tp70
+a(I4200
+S'start_time     : 1499798386\nlast_update    : 1499802593\nfuzzer_pid     : 30600\ncycles_done    : 0\nexecs_done     : 5349871\nexecs_per_sec  : 1218.00\npaths_total    : 323\npaths_favored  : 116\npaths_found    : 322\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 252\npending_favs   : 41\npending_total  : 210\nvariable_paths : 0\nbitmap_cvg     : 0.85%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499802592\nlast_crash     : 0\nlast_hang      : 1499801931\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/router_simulator/input -o /dev/shm/work/router_simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/router_simulator/router_simulator.dict -- data/linux/processed-challenges/router_simulator/bin/router_simulator\n'
+p71
+I5
+tp72
+a(I4320
+S'start_time     : 1499798386\nlast_update    : 1499802713\nfuzzer_pid     : 30600\ncycles_done    : 0\nexecs_done     : 5504351\nexecs_per_sec  : 1226.99\npaths_total    : 327\npaths_favored  : 116\npaths_found    : 326\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 252\npending_favs   : 41\npending_total  : 214\nvariable_paths : 0\nbitmap_cvg     : 0.85%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499802607\nlast_crash     : 0\nlast_hang      : 1499801931\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/router_simulator/input -o /dev/shm/work/router_simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/router_simulator/router_simulator.dict -- data/linux/processed-challenges/router_simulator/bin/router_simulator\n'
+p73
+I4
+tp74
+a(I4440
+S'start_time     : 1499798386\nlast_update    : 1499802833\nfuzzer_pid     : 30600\ncycles_done    : 0\nexecs_done     : 5659425\nexecs_per_sec  : 1317.14\npaths_total    : 333\npaths_favored  : 118\npaths_found    : 332\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 257\npending_favs   : 38\npending_total  : 215\nvariable_paths : 0\nbitmap_cvg     : 0.86%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1499802809\nlast_crash     : 0\nlast_hang      : 1499802756\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/router_simulator/input -o /dev/shm/work/router_simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/router_simulator/router_simulator.dict -- data/linux/processed-challenges/router_simulator/bin/router_simulator\n'
+p75
+I6
+tp76
+a(I4560
+S'start_time     : 1499798386\nlast_update    : 1499802954\nfuzzer_pid     : 30600\ncycles_done    : 0\nexecs_done     : 5815439\nexecs_per_sec  : 1303.98\npaths_total    : 336\npaths_favored  : 121\npaths_found    : 335\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 264\npending_favs   : 38\npending_total  : 215\nvariable_paths : 0\nbitmap_cvg     : 0.86%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1499802925\nlast_crash     : 0\nlast_hang      : 1499802912\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/router_simulator/input -o /dev/shm/work/router_simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/router_simulator/router_simulator.dict -- data/linux/processed-challenges/router_simulator/bin/router_simulator\n'
+p77
+I3
+tp78
+a(I4680
+S'start_time     : 1499798386\nlast_update    : 1499803074\nfuzzer_pid     : 30600\ncycles_done    : 0\nexecs_done     : 5971569\nexecs_per_sec  : 1334.40\npaths_total    : 344\npaths_favored  : 121\npaths_found    : 343\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 265\npending_favs   : 37\npending_total  : 222\nvariable_paths : 0\nbitmap_cvg     : 0.97%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1499803055\nlast_crash     : 0\nlast_hang      : 1499802912\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/router_simulator/input -o /dev/shm/work/router_simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/router_simulator/router_simulator.dict -- data/linux/processed-challenges/router_simulator/bin/router_simulator\n'
+p79
+I8
+tp80
+a(I4800
+S'start_time     : 1499798386\nlast_update    : 1499803194\nfuzzer_pid     : 30600\ncycles_done    : 0\nexecs_done     : 6130508\nexecs_per_sec  : 1305.84\npaths_total    : 349\npaths_favored  : 124\npaths_found    : 348\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 267\npending_favs   : 41\npending_total  : 226\nvariable_paths : 0\nbitmap_cvg     : 0.97%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1499803131\nlast_crash     : 0\nlast_hang      : 1499803179\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/router_simulator/input -o /dev/shm/work/router_simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/router_simulator/router_simulator.dict -- data/linux/processed-challenges/router_simulator/bin/router_simulator\n'
+p81
+I5
+tp82
+a(I4920
+S'start_time     : 1499798386\nlast_update    : 1499803314\nfuzzer_pid     : 30600\ncycles_done    : 0\nexecs_done     : 6283408\nexecs_per_sec  : 1217.33\npaths_total    : 349\npaths_favored  : 123\npaths_found    : 348\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 274\npending_favs   : 36\npending_total  : 221\nvariable_paths : 0\nbitmap_cvg     : 0.97%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1499803131\nlast_crash     : 0\nlast_hang      : 1499803307\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/router_simulator/input -o /dev/shm/work/router_simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/router_simulator/router_simulator.dict -- data/linux/processed-challenges/router_simulator/bin/router_simulator\n'
+p83
+I0
+tp84
+a(I5040
+S'start_time     : 1499798386\nlast_update    : 1499803435\nfuzzer_pid     : 30600\ncycles_done    : 0\nexecs_done     : 6437190\nexecs_per_sec  : 1304.74\npaths_total    : 352\npaths_favored  : 123\npaths_found    : 351\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 278\npending_favs   : 32\npending_total  : 220\nvariable_paths : 0\nbitmap_cvg     : 0.97%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1499803410\nlast_crash     : 0\nlast_hang      : 1499803307\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/router_simulator/input -o /dev/shm/work/router_simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/router_simulator/router_simulator.dict -- data/linux/processed-challenges/router_simulator/bin/router_simulator\n'
+p85
+I3
+tp86
+a(I5160
+S'start_time     : 1499798386\nlast_update    : 1499803555\nfuzzer_pid     : 30600\ncycles_done    : 0\nexecs_done     : 6585958\nexecs_per_sec  : 1142.60\npaths_total    : 355\npaths_favored  : 125\npaths_found    : 354\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 294\npending_favs   : 29\npending_total  : 218\nvariable_paths : 0\nbitmap_cvg     : 0.98%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1499803532\nlast_crash     : 0\nlast_hang      : 1499803307\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/router_simulator/input -o /dev/shm/work/router_simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/router_simulator/router_simulator.dict -- data/linux/processed-challenges/router_simulator/bin/router_simulator\n'
+p87
+I3
+tp88
+a(I5280
+S'start_time     : 1499798386\nlast_update    : 1499803675\nfuzzer_pid     : 30600\ncycles_done    : 0\nexecs_done     : 6729731\nexecs_per_sec  : 1188.30\npaths_total    : 361\npaths_favored  : 125\npaths_found    : 360\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 295\npending_favs   : 30\npending_total  : 223\nvariable_paths : 0\nbitmap_cvg     : 0.98%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1499803662\nlast_crash     : 0\nlast_hang      : 1499803307\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/router_simulator/input -o /dev/shm/work/router_simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/router_simulator/router_simulator.dict -- data/linux/processed-challenges/router_simulator/bin/router_simulator\n'
+p89
+I6
+tp90
+a(I5400
+S'start_time     : 1499798386\nlast_update    : 1499803795\nfuzzer_pid     : 30600\ncycles_done    : 0\nexecs_done     : 6872639\nexecs_per_sec  : 1167.00\npaths_total    : 362\npaths_favored  : 125\npaths_found    : 361\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 300\npending_favs   : 27\npending_total  : 221\nvariable_paths : 0\nbitmap_cvg     : 0.98%\nunique_crashes : 0\nunique_hangs   : 6\nlast_path      : 1499803685\nlast_crash     : 0\nlast_hang      : 1499803688\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/router_simulator/input -o /dev/shm/work/router_simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/router_simulator/router_simulator.dict -- data/linux/processed-challenges/router_simulator/bin/router_simulator\n'
+p91
+I1
+tp92
+a(I5520
+S'start_time     : 1499798386\nlast_update    : 1499803915\nfuzzer_pid     : 30600\ncycles_done    : 0\nexecs_done     : 7018750\nexecs_per_sec  : 1248.36\npaths_total    : 363\npaths_favored  : 125\npaths_found    : 362\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 302\npending_favs   : 25\npending_total  : 220\nvariable_paths : 0\nbitmap_cvg     : 0.98%\nunique_crashes : 0\nunique_hangs   : 6\nlast_path      : 1499803882\nlast_crash     : 0\nlast_hang      : 1499803688\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/router_simulator/input -o /dev/shm/work/router_simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/router_simulator/router_simulator.dict -- data/linux/processed-challenges/router_simulator/bin/router_simulator\n'
+p93
+I1
+tp94
+a(I5640
+S'start_time     : 1499798386\nlast_update    : 1499804035\nfuzzer_pid     : 30600\ncycles_done    : 0\nexecs_done     : 7170477\nexecs_per_sec  : 1295.34\npaths_total    : 374\npaths_favored  : 125\npaths_found    : 373\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 315\npending_favs   : 23\npending_total  : 229\nvariable_paths : 0\nbitmap_cvg     : 0.99%\nunique_crashes : 0\nunique_hangs   : 6\nlast_path      : 1499803996\nlast_crash     : 0\nlast_hang      : 1499803688\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/router_simulator/input -o /dev/shm/work/router_simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/router_simulator/router_simulator.dict -- data/linux/processed-challenges/router_simulator/bin/router_simulator\n'
+p95
+I11
+tp96
+a(I5760
+S'start_time     : 1499798386\nlast_update    : 1499804156\nfuzzer_pid     : 30600\ncycles_done    : 0\nexecs_done     : 7324164\nexecs_per_sec  : 1307.60\npaths_total    : 378\npaths_favored  : 129\npaths_found    : 377\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 317\npending_favs   : 28\npending_total  : 232\nvariable_paths : 0\nbitmap_cvg     : 0.99%\nunique_crashes : 0\nunique_hangs   : 6\nlast_path      : 1499804116\nlast_crash     : 0\nlast_hang      : 1499803688\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/router_simulator/input -o /dev/shm/work/router_simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/router_simulator/router_simulator.dict -- data/linux/processed-challenges/router_simulator/bin/router_simulator\n'
+p97
+I4
+tp98
+a(I5880
+S'start_time     : 1499798386\nlast_update    : 1499804216\nfuzzer_pid     : 30600\ncycles_done    : 0\nexecs_done     : 7394831\nexecs_per_sec  : 1240.00\npaths_total    : 380\npaths_favored  : 130\npaths_found    : 379\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 329\npending_favs   : 28\npending_total  : 231\nvariable_paths : 0\nbitmap_cvg     : 1.00%\nunique_crashes : 0\nunique_hangs   : 6\nlast_path      : 1499804215\nlast_crash     : 0\nlast_hang      : 1499803688\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/router_simulator/input -o /dev/shm/work/router_simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/router_simulator/router_simulator.dict -- data/linux/processed-challenges/router_simulator/bin/router_simulator\n'
+p99
+I7
+tp100
+a(I6000
+S'start_time     : 1499798386\nlast_update    : 1499804336\nfuzzer_pid     : 30600\ncycles_done    : 0\nexecs_done     : 7550934\nexecs_per_sec  : 1320.07\npaths_total    : 386\npaths_favored  : 130\npaths_found    : 385\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 329\npending_favs   : 28\npending_total  : 237\nvariable_paths : 0\nbitmap_cvg     : 1.00%\nunique_crashes : 0\nunique_hangs   : 6\nlast_path      : 1499804319\nlast_crash     : 0\nlast_hang      : 1499803688\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/router_simulator/input -o /dev/shm/work/router_simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/router_simulator/router_simulator.dict -- data/linux/processed-challenges/router_simulator/bin/router_simulator\n'
+p101
+I1
+tp102
+a(I6120
+S'start_time     : 1499798386\nlast_update    : 1499804456\nfuzzer_pid     : 30600\ncycles_done    : 0\nexecs_done     : 7703523\nexecs_per_sec  : 1267.84\npaths_total    : 393\npaths_favored  : 131\npaths_found    : 392\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 339\npending_favs   : 26\npending_total  : 240\nvariable_paths : 0\nbitmap_cvg     : 1.02%\nunique_crashes : 0\nunique_hangs   : 6\nlast_path      : 1499804442\nlast_crash     : 0\nlast_hang      : 1499803688\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/router_simulator/input -o /dev/shm/work/router_simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/router_simulator/router_simulator.dict -- data/linux/processed-challenges/router_simulator/bin/router_simulator\n'
+p103
+I10
+tp104
+a(I6240
+S'start_time     : 1499798386\nlast_update    : 1499804576\nfuzzer_pid     : 30600\ncycles_done    : 0\nexecs_done     : 7857434\nexecs_per_sec  : 1287.44\npaths_total    : 401\npaths_favored  : 136\npaths_found    : 400\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 340\npending_favs   : 31\npending_total  : 247\nvariable_paths : 0\nbitmap_cvg     : 1.05%\nunique_crashes : 0\nunique_hangs   : 6\nlast_path      : 1499804572\nlast_crash     : 0\nlast_hang      : 1499803688\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/router_simulator/input -o /dev/shm/work/router_simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/router_simulator/router_simulator.dict -- data/linux/processed-challenges/router_simulator/bin/router_simulator\n'
+p105
+I11
+tp106
+a(I6360
+S'start_time     : 1499798386\nlast_update    : 1499804696\nfuzzer_pid     : 30600\ncycles_done    : 0\nexecs_done     : 8011002\nexecs_per_sec  : 1219.47\npaths_total    : 407\npaths_favored  : 143\npaths_found    : 406\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 352\npending_favs   : 34\npending_total  : 248\nvariable_paths : 0\nbitmap_cvg     : 1.06%\nunique_crashes : 0\nunique_hangs   : 6\nlast_path      : 1499804627\nlast_crash     : 0\nlast_hang      : 1499803688\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/router_simulator/input -o /dev/shm/work/router_simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/router_simulator/router_simulator.dict -- data/linux/processed-challenges/router_simulator/bin/router_simulator\n'
+p107
+I0
+tp108
+a(I6480
+S'start_time     : 1499798386\nlast_update    : 1499804817\nfuzzer_pid     : 30600\ncycles_done    : 0\nexecs_done     : 8151206\nexecs_per_sec  : 1231.07\npaths_total    : 407\npaths_favored  : 143\npaths_found    : 406\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 354\npending_favs   : 32\npending_total  : 246\nvariable_paths : 0\nbitmap_cvg     : 1.06%\nunique_crashes : 0\nunique_hangs   : 6\nlast_path      : 1499804627\nlast_crash     : 0\nlast_hang      : 1499803688\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/router_simulator/input -o /dev/shm/work/router_simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/router_simulator/router_simulator.dict -- data/linux/processed-challenges/router_simulator/bin/router_simulator\n'
+p109
+I2
+tp110
+a(I6600
+S'start_time     : 1499798386\nlast_update    : 1499804937\nfuzzer_pid     : 30600\ncycles_done    : 0\nexecs_done     : 8306996\nexecs_per_sec  : 1327.91\npaths_total    : 410\npaths_favored  : 143\npaths_found    : 409\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 363\npending_favs   : 31\npending_total  : 248\nvariable_paths : 0\nbitmap_cvg     : 1.06%\nunique_crashes : 0\nunique_hangs   : 6\nlast_path      : 1499804885\nlast_crash     : 0\nlast_hang      : 1499803688\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/router_simulator/input -o /dev/shm/work/router_simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/router_simulator/router_simulator.dict -- data/linux/processed-challenges/router_simulator/bin/router_simulator\n'
+p111
+I2
+tp112
+a(I6720
+S'start_time     : 1499798386\nlast_update    : 1499805057\nfuzzer_pid     : 30600\ncycles_done    : 0\nexecs_done     : 8463909\nexecs_per_sec  : 1227.40\npaths_total    : 412\npaths_favored  : 145\npaths_found    : 411\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 367\npending_favs   : 29\npending_total  : 246\nvariable_paths : 0\nbitmap_cvg     : 1.07%\nunique_crashes : 0\nunique_hangs   : 7\nlast_path      : 1499804998\nlast_crash     : 0\nlast_hang      : 1499805026\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/router_simulator/input -o /dev/shm/work/router_simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/router_simulator/router_simulator.dict -- data/linux/processed-challenges/router_simulator/bin/router_simulator\n'
+p113
+I3
+tp114
+a(I6840
+S'start_time     : 1499798386\nlast_update    : 1499805177\nfuzzer_pid     : 30600\ncycles_done    : 0\nexecs_done     : 8616873\nexecs_per_sec  : 1221.49\npaths_total    : 414\npaths_favored  : 144\npaths_found    : 413\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 372\npending_favs   : 27\npending_total  : 245\nvariable_paths : 0\nbitmap_cvg     : 1.07%\nunique_crashes : 0\nunique_hangs   : 7\nlast_path      : 1499805088\nlast_crash     : 0\nlast_hang      : 1499805026\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/router_simulator/input -o /dev/shm/work/router_simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/router_simulator/router_simulator.dict -- data/linux/processed-challenges/router_simulator/bin/router_simulator\n'
+p115
+I2
+tp116
+a(I6960
+S'start_time     : 1499798386\nlast_update    : 1499805298\nfuzzer_pid     : 30600\ncycles_done    : 0\nexecs_done     : 8770873\nexecs_per_sec  : 1316.84\npaths_total    : 418\npaths_favored  : 145\npaths_found    : 417\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 378\npending_favs   : 26\npending_total  : 246\nvariable_paths : 0\nbitmap_cvg     : 1.07%\nunique_crashes : 0\nunique_hangs   : 7\nlast_path      : 1499805293\nlast_crash     : 0\nlast_hang      : 1499805026\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/router_simulator/input -o /dev/shm/work/router_simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/router_simulator/router_simulator.dict -- data/linux/processed-challenges/router_simulator/bin/router_simulator\n'
+p117
+I3
+tp118
+a(I7080
+S'start_time     : 1499798386\nlast_update    : 1499805418\nfuzzer_pid     : 30600\ncycles_done    : 0\nexecs_done     : 8925585\nexecs_per_sec  : 1248.89\npaths_total    : 422\npaths_favored  : 146\npaths_found    : 421\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 381\npending_favs   : 25\npending_total  : 247\nvariable_paths : 0\nbitmap_cvg     : 1.07%\nunique_crashes : 0\nunique_hangs   : 8\nlast_path      : 1499805418\nlast_crash     : 0\nlast_hang      : 1499805327\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/router_simulator/input -o /dev/shm/work/router_simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/router_simulator/router_simulator.dict -- data/linux/processed-challenges/router_simulator/bin/router_simulator\n'
+p119
+I3
+tp120
+a(I7200
+S'start_time     : 1499798386\nlast_update    : 1499805538\nfuzzer_pid     : 30600\ncycles_done    : 0\nexecs_done     : 9078126\nexecs_per_sec  : 1304.56\npaths_total    : 425\npaths_favored  : 146\npaths_found    : 424\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 388\npending_favs   : 22\npending_total  : 247\nvariable_paths : 0\nbitmap_cvg     : 1.08%\nunique_crashes : 0\nunique_hangs   : 8\nlast_path      : 1499805538\nlast_crash     : 0\nlast_hang      : 1499805327\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/router_simulator/input -o /dev/shm/work/router_simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/router_simulator/router_simulator.dict -- data/linux/processed-challenges/router_simulator/bin/router_simulator\n'
+p121
+I8
+tp122
+a(I7320
+S'start_time     : 1499798386\nlast_update    : 1499805658\nfuzzer_pid     : 30600\ncycles_done    : 0\nexecs_done     : 9230657\nexecs_per_sec  : 1286.88\npaths_total    : 430\npaths_favored  : 149\npaths_found    : 429\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 389\npending_favs   : 25\npending_total  : 251\nvariable_paths : 0\nbitmap_cvg     : 1.11%\nunique_crashes : 0\nunique_hangs   : 8\nlast_path      : 1499805582\nlast_crash     : 0\nlast_hang      : 1499805327\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/router_simulator/input -o /dev/shm/work/router_simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/router_simulator/router_simulator.dict -- data/linux/processed-challenges/router_simulator/bin/router_simulator\n'
+p123
+I3
+tp124
+a(I7440
+S'start_time     : 1499798386\nlast_update    : 1499805779\nfuzzer_pid     : 30600\ncycles_done    : 0\nexecs_done     : 9378392\nexecs_per_sec  : 1224.55\npaths_total    : 433\npaths_favored  : 149\npaths_found    : 432\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 393\npending_favs   : 23\npending_total  : 252\nvariable_paths : 0\nbitmap_cvg     : 1.11%\nunique_crashes : 0\nunique_hangs   : 8\nlast_path      : 1499805716\nlast_crash     : 0\nlast_hang      : 1499805327\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/router_simulator/input -o /dev/shm/work/router_simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/router_simulator/router_simulator.dict -- data/linux/processed-challenges/router_simulator/bin/router_simulator\n'
+p125
+I0
+tp126
+a(I7560
+S'start_time     : 1499798386\nlast_update    : 1499805899\nfuzzer_pid     : 30600\ncycles_done    : 0\nexecs_done     : 9530617\nexecs_per_sec  : 1296.36\npaths_total    : 437\npaths_favored  : 149\npaths_found    : 436\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 399\npending_favs   : 20\npending_total  : 253\nvariable_paths : 0\nbitmap_cvg     : 1.12%\nunique_crashes : 0\nunique_hangs   : 8\nlast_path      : 1499805895\nlast_crash     : 0\nlast_hang      : 1499805327\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/router_simulator/input -o /dev/shm/work/router_simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/router_simulator/router_simulator.dict -- data/linux/processed-challenges/router_simulator/bin/router_simulator\n'
+p127
+I5
+tp128
+a(I7680
+S'start_time     : 1499798386\nlast_update    : 1499806019\nfuzzer_pid     : 30600\ncycles_done    : 0\nexecs_done     : 9685674\nexecs_per_sec  : 1052.08\npaths_total    : 439\npaths_favored  : 153\npaths_found    : 438\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 400\npending_favs   : 24\npending_total  : 254\nvariable_paths : 0\nbitmap_cvg     : 1.12%\nunique_crashes : 0\nunique_hangs   : 8\nlast_path      : 1499805988\nlast_crash     : 0\nlast_hang      : 1499805327\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/router_simulator/input -o /dev/shm/work/router_simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/router_simulator/router_simulator.dict -- data/linux/processed-challenges/router_simulator/bin/router_simulator\n'
+p129
+I2
+tp130
+a(I7800
+S'start_time     : 1499798386\nlast_update    : 1499806139\nfuzzer_pid     : 30600\ncycles_done    : 0\nexecs_done     : 9838031\nexecs_per_sec  : 1294.62\npaths_total    : 440\npaths_favored  : 154\npaths_found    : 439\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 406\npending_favs   : 20\npending_total  : 250\nvariable_paths : 0\nbitmap_cvg     : 1.12%\nunique_crashes : 0\nunique_hangs   : 9\nlast_path      : 1499806025\nlast_crash     : 0\nlast_hang      : 1499806043\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/router_simulator/input -o /dev/shm/work/router_simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/router_simulator/router_simulator.dict -- data/linux/processed-challenges/router_simulator/bin/router_simulator\n'
+p131
+I0
+tp132
+a(I7920
+S'start_time     : 1499798386\nlast_update    : 1499806259\nfuzzer_pid     : 30600\ncycles_done    : 0\nexecs_done     : 9987512\nexecs_per_sec  : 1230.53\npaths_total    : 441\npaths_favored  : 154\npaths_found    : 440\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 415\npending_favs   : 16\npending_total  : 247\nvariable_paths : 0\nbitmap_cvg     : 1.12%\nunique_crashes : 0\nunique_hangs   : 9\nlast_path      : 1499806228\nlast_crash     : 0\nlast_hang      : 1499806043\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/router_simulator/input -o /dev/shm/work/router_simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/router_simulator/router_simulator.dict -- data/linux/processed-challenges/router_simulator/bin/router_simulator\n'
+p133
+I1
+tp134
+a(I8040
+S'start_time     : 1499798386\nlast_update    : 1499806380\nfuzzer_pid     : 30600\ncycles_done    : 0\nexecs_done     : 10135888\nexecs_per_sec  : 1245.45\npaths_total    : 442\npaths_favored  : 154\npaths_found    : 441\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 419\npending_favs   : 13\npending_total  : 245\nvariable_paths : 0\nbitmap_cvg     : 1.12%\nunique_crashes : 0\nunique_hangs   : 9\nlast_path      : 1499806352\nlast_crash     : 0\nlast_hang      : 1499806043\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/router_simulator/input -o /dev/shm/work/router_simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/router_simulator/router_simulator.dict -- data/linux/processed-challenges/router_simulator/bin/router_simulator\n'
+p135
+I1
+tp136
+a(I8160
+S'start_time     : 1499798386\nlast_update    : 1499806500\nfuzzer_pid     : 30600\ncycles_done    : 0\nexecs_done     : 10287692\nexecs_per_sec  : 1301.65\npaths_total    : 445\npaths_favored  : 153\npaths_found    : 444\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 426\npending_favs   : 11\npending_total  : 245\nvariable_paths : 0\nbitmap_cvg     : 1.14%\nunique_crashes : 0\nunique_hangs   : 9\nlast_path      : 1499806493\nlast_crash     : 0\nlast_hang      : 1499806043\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/router_simulator/input -o /dev/shm/work/router_simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/router_simulator/router_simulator.dict -- data/linux/processed-challenges/router_simulator/bin/router_simulator\n'
+p137
+I3
+tp138
+a(I8280
+S'start_time     : 1499798386\nlast_update    : 1499806620\nfuzzer_pid     : 30600\ncycles_done    : 0\nexecs_done     : 10435812\nexecs_per_sec  : 1331.85\npaths_total    : 448\npaths_favored  : 154\npaths_found    : 447\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 429\npending_favs   : 10\npending_total  : 246\nvariable_paths : 0\nbitmap_cvg     : 1.15%\nunique_crashes : 0\nunique_hangs   : 9\nlast_path      : 1499806586\nlast_crash     : 0\nlast_hang      : 1499806043\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/router_simulator/input -o /dev/shm/work/router_simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/router_simulator/router_simulator.dict -- data/linux/processed-challenges/router_simulator/bin/router_simulator\n'
+p139
+I4
+tp140
+a(I8400
+S'start_time     : 1499798386\nlast_update    : 1499806740\nfuzzer_pid     : 30600\ncycles_done    : 0\nexecs_done     : 10591550\nexecs_per_sec  : 1265.12\npaths_total    : 451\npaths_favored  : 152\npaths_found    : 450\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 435\npending_favs   : 10\npending_total  : 246\nvariable_paths : 0\nbitmap_cvg     : 1.17%\nunique_crashes : 0\nunique_hangs   : 9\nlast_path      : 1499806725\nlast_crash     : 0\nlast_hang      : 1499806043\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/router_simulator/input -o /dev/shm/work/router_simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/router_simulator/router_simulator.dict -- data/linux/processed-challenges/router_simulator/bin/router_simulator\n'
+p141
+I2
+tp142
+a(I8520
+S'start_time     : 1499798386\nlast_update    : 1499806860\nfuzzer_pid     : 30600\ncycles_done    : 0\nexecs_done     : 10731232\nexecs_per_sec  : 1204.47\npaths_total    : 459\npaths_favored  : 150\npaths_found    : 458\npaths_imported : 0\nmax_depth      : 12\ncur_path       : 442\npending_favs   : 7\npending_total  : 250\nvariable_paths : 0\nbitmap_cvg     : 1.18%\nunique_crashes : 0\nunique_hangs   : 9\nlast_path      : 1499806859\nlast_crash     : 0\nlast_hang      : 1499806043\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/router_simulator/input -o /dev/shm/work/router_simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/router_simulator/router_simulator.dict -- data/linux/processed-challenges/router_simulator/bin/router_simulator\n'
+p143
+I8
+tp144
+a(I8640
+S'start_time     : 1499798386\nlast_update    : 1499806981\nfuzzer_pid     : 30600\ncycles_done    : 0\nexecs_done     : 10880120\nexecs_per_sec  : 1258.58\npaths_total    : 462\npaths_favored  : 154\npaths_found    : 461\npaths_imported : 0\nmax_depth      : 12\ncur_path       : 444\npending_favs   : 9\npending_total  : 251\nvariable_paths : 0\nbitmap_cvg     : 1.18%\nunique_crashes : 0\nunique_hangs   : 9\nlast_path      : 1499806952\nlast_crash     : 0\nlast_hang      : 1499806043\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/router_simulator/input -o /dev/shm/work/router_simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/router_simulator/router_simulator.dict -- data/linux/processed-challenges/router_simulator/bin/router_simulator\n'
+p145
+I5
+tp146
+a(I8760
+S'start_time     : 1499798386\nlast_update    : 1499807101\nfuzzer_pid     : 30600\ncycles_done    : 0\nexecs_done     : 11030831\nexecs_per_sec  : 1271.98\npaths_total    : 469\npaths_favored  : 155\npaths_found    : 468\npaths_imported : 0\nmax_depth      : 12\ncur_path       : 446\npending_favs   : 9\npending_total  : 257\nvariable_paths : 0\nbitmap_cvg     : 1.19%\nunique_crashes : 0\nunique_hangs   : 9\nlast_path      : 1499807075\nlast_crash     : 0\nlast_hang      : 1499806043\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/router_simulator/input -o /dev/shm/work/router_simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/router_simulator/router_simulator.dict -- data/linux/processed-challenges/router_simulator/bin/router_simulator\n'
+p147
+I5
+tp148
+a(I8880
+S'start_time     : 1499798386\nlast_update    : 1499807221\nfuzzer_pid     : 30600\ncycles_done    : 0\nexecs_done     : 11176883\nexecs_per_sec  : 1248.91\npaths_total    : 477\npaths_favored  : 154\npaths_found    : 476\npaths_imported : 0\nmax_depth      : 12\ncur_path       : 450\npending_favs   : 8\npending_total  : 263\nvariable_paths : 0\nbitmap_cvg     : 1.20%\nunique_crashes : 0\nunique_hangs   : 9\nlast_path      : 1499807210\nlast_crash     : 0\nlast_hang      : 1499806043\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/router_simulator/input -o /dev/shm/work/router_simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/router_simulator/router_simulator.dict -- data/linux/processed-challenges/router_simulator/bin/router_simulator\n'
+p149
+I9
+tp150
+a(I9000
+S'start_time     : 1499798386\nlast_update    : 1499807341\nfuzzer_pid     : 30600\ncycles_done    : 0\nexecs_done     : 11314144\nexecs_per_sec  : 1270.31\npaths_total    : 480\npaths_favored  : 154\npaths_found    : 479\npaths_imported : 0\nmax_depth      : 13\ncur_path       : 453\npending_favs   : 7\npending_total  : 264\nvariable_paths : 0\nbitmap_cvg     : 1.20%\nunique_crashes : 0\nunique_hangs   : 9\nlast_path      : 1499807326\nlast_crash     : 0\nlast_hang      : 1499806043\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/router_simulator/input -o /dev/shm/work/router_simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/router_simulator/router_simulator.dict -- data/linux/processed-challenges/router_simulator/bin/router_simulator\n'
+p151
+I7
+tp152
+a(I9120
+S'start_time     : 1499798386\nlast_update    : 1499807461\nfuzzer_pid     : 30600\ncycles_done    : 0\nexecs_done     : 11447119\nexecs_per_sec  : 1177.93\npaths_total    : 486\npaths_favored  : 155\npaths_found    : 485\npaths_imported : 0\nmax_depth      : 13\ncur_path       : 457\npending_favs   : 8\npending_total  : 269\nvariable_paths : 0\nbitmap_cvg     : 1.21%\nunique_crashes : 0\nunique_hangs   : 9\nlast_path      : 1499807427\nlast_crash     : 0\nlast_hang      : 1499806043\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/router_simulator/input -o /dev/shm/work/router_simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/router_simulator/router_simulator.dict -- data/linux/processed-challenges/router_simulator/bin/router_simulator\n'
+p153
+I3
+tp154
+a(I9240
+S'start_time     : 1499798386\nlast_update    : 1499807581\nfuzzer_pid     : 30600\ncycles_done    : 0\nexecs_done     : 11598361\nexecs_per_sec  : 1325.43\npaths_total    : 495\npaths_favored  : 159\npaths_found    : 494\npaths_imported : 0\nmax_depth      : 13\ncur_path       : 463\npending_favs   : 9\npending_total  : 276\nvariable_paths : 0\nbitmap_cvg     : 1.23%\nunique_crashes : 0\nunique_hangs   : 9\nlast_path      : 1499807576\nlast_crash     : 0\nlast_hang      : 1499806043\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/router_simulator/input -o /dev/shm/work/router_simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/router_simulator/router_simulator.dict -- data/linux/processed-challenges/router_simulator/bin/router_simulator\n'
+p155
+I7
+tp156
+a(I9360
+S'start_time     : 1499798386\nlast_update    : 1499807702\nfuzzer_pid     : 30600\ncycles_done    : 0\nexecs_done     : 11733968\nexecs_per_sec  : 715.13\npaths_total    : 497\npaths_favored  : 163\npaths_found    : 496\npaths_imported : 0\nmax_depth      : 13\ncur_path       : 469\npending_favs   : 13\npending_total  : 276\nvariable_paths : 0\nbitmap_cvg     : 1.23%\nunique_crashes : 0\nunique_hangs   : 9\nlast_path      : 1499807677\nlast_crash     : 0\nlast_hang      : 1499806043\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/router_simulator/input -o /dev/shm/work/router_simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/router_simulator/router_simulator.dict -- data/linux/processed-challenges/router_simulator/bin/router_simulator\n'
+p157
+I2
+tp158
+a(I9480
+S'start_time     : 1499798386\nlast_update    : 1499807822\nfuzzer_pid     : 30600\ncycles_done    : 0\nexecs_done     : 11860094\nexecs_per_sec  : 1263.45\npaths_total    : 498\npaths_favored  : 163\npaths_found    : 497\npaths_imported : 0\nmax_depth      : 14\ncur_path       : 478\npending_favs   : 12\npending_total  : 275\nvariable_paths : 0\nbitmap_cvg     : 1.23%\nunique_crashes : 0\nunique_hangs   : 10\nlast_path      : 1499807784\nlast_crash     : 0\nlast_hang      : 1499807785\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/router_simulator/input -o /dev/shm/work/router_simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/router_simulator/router_simulator.dict -- data/linux/processed-challenges/router_simulator/bin/router_simulator\n'
+p159
+I2
+tp160
+a(I9600
+S'start_time     : 1499798386\nlast_update    : 1499807942\nfuzzer_pid     : 30600\ncycles_done    : 0\nexecs_done     : 11976305\nexecs_per_sec  : 565.80\npaths_total    : 499\npaths_favored  : 164\npaths_found    : 498\npaths_imported : 0\nmax_depth      : 14\ncur_path       : 481\npending_favs   : 10\npending_total  : 273\nvariable_paths : 0\nbitmap_cvg     : 1.23%\nunique_crashes : 0\nunique_hangs   : 10\nlast_path      : 1499807843\nlast_crash     : 0\nlast_hang      : 1499807785\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/router_simulator/input -o /dev/shm/work/router_simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/router_simulator/router_simulator.dict -- data/linux/processed-challenges/router_simulator/bin/router_simulator\n'
+p161
+I2
+tp162
+a(I9720
+S'start_time     : 1499798386\nlast_update    : 1499808062\nfuzzer_pid     : 30600\ncycles_done    : 0\nexecs_done     : 12090464\nexecs_per_sec  : 1071.17\npaths_total    : 503\npaths_favored  : 164\npaths_found    : 502\npaths_imported : 0\nmax_depth      : 14\ncur_path       : 482\npending_favs   : 9\npending_total  : 276\nvariable_paths : 0\nbitmap_cvg     : 1.23%\nunique_crashes : 0\nunique_hangs   : 10\nlast_path      : 1499808049\nlast_crash     : 0\nlast_hang      : 1499807785\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/router_simulator/input -o /dev/shm/work/router_simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/router_simulator/router_simulator.dict -- data/linux/processed-challenges/router_simulator/bin/router_simulator\n'
+p163
+I5
+tp164
+a(I9840
+S'start_time     : 1499798386\nlast_update    : 1499808182\nfuzzer_pid     : 30600\ncycles_done    : 0\nexecs_done     : 12242229\nexecs_per_sec  : 1284.40\npaths_total    : 506\npaths_favored  : 165\npaths_found    : 505\npaths_imported : 0\nmax_depth      : 14\ncur_path       : 489\npending_favs   : 7\npending_total  : 276\nvariable_paths : 0\nbitmap_cvg     : 1.25%\nunique_crashes : 0\nunique_hangs   : 10\nlast_path      : 1499808116\nlast_crash     : 0\nlast_hang      : 1499807785\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/router_simulator/input -o /dev/shm/work/router_simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/router_simulator/router_simulator.dict -- data/linux/processed-challenges/router_simulator/bin/router_simulator\n'
+p165
+I2
+tp166
+a(I9960
+S'start_time     : 1499798386\nlast_update    : 1499808302\nfuzzer_pid     : 30600\ncycles_done    : 0\nexecs_done     : 12398815\nexecs_per_sec  : 1314.64\npaths_total    : 513\npaths_favored  : 165\npaths_found    : 512\npaths_imported : 0\nmax_depth      : 14\ncur_path       : 494\npending_favs   : 5\npending_total  : 281\nvariable_paths : 0\nbitmap_cvg     : 1.25%\nunique_crashes : 0\nunique_hangs   : 11\nlast_path      : 1499808297\nlast_crash     : 0\nlast_hang      : 1499808229\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/router_simulator/input -o /dev/shm/work/router_simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/router_simulator/router_simulator.dict -- data/linux/processed-challenges/router_simulator/bin/router_simulator\n'
+p167
+I6
+tp168
+a(I10080
+S'start_time     : 1499798386\nlast_update    : 1499808423\nfuzzer_pid     : 30600\ncycles_done    : 0\nexecs_done     : 12550318\nexecs_per_sec  : 1078.86\npaths_total    : 514\npaths_favored  : 166\npaths_found    : 513\npaths_imported : 0\nmax_depth      : 14\ncur_path       : 498\npending_favs   : 4\npending_total  : 280\nvariable_paths : 0\nbitmap_cvg     : 1.25%\nunique_crashes : 0\nunique_hangs   : 12\nlast_path      : 1499808332\nlast_crash     : 0\nlast_hang      : 1499808405\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/router_simulator/input -o /dev/shm/work/router_simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/router_simulator/router_simulator.dict -- data/linux/processed-challenges/router_simulator/bin/router_simulator\n'
+p169
+I2
+tp170
+a(I10200
+S'start_time     : 1499798386\nlast_update    : 1499808543\nfuzzer_pid     : 30600\ncycles_done    : 0\nexecs_done     : 12700543\nexecs_per_sec  : 1290.75\npaths_total    : 520\npaths_favored  : 167\npaths_found    : 519\npaths_imported : 0\nmax_depth      : 15\ncur_path       : 503\npending_favs   : 4\npending_total  : 285\nvariable_paths : 0\nbitmap_cvg     : 1.26%\nunique_crashes : 0\nunique_hangs   : 13\nlast_path      : 1499808538\nlast_crash     : 0\nlast_hang      : 1499808463\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/router_simulator/input -o /dev/shm/work/router_simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/router_simulator/router_simulator.dict -- data/linux/processed-challenges/router_simulator/bin/router_simulator\n'
+p171
+I6
+tp172
+a(I10320
+S'start_time     : 1499798386\nlast_update    : 1499808663\nfuzzer_pid     : 30600\ncycles_done    : 0\nexecs_done     : 12853987\nexecs_per_sec  : 1272.69\npaths_total    : 523\npaths_favored  : 168\npaths_found    : 522\npaths_imported : 0\nmax_depth      : 15\ncur_path       : 512\npending_favs   : 5\npending_total  : 287\nvariable_paths : 0\nbitmap_cvg     : 1.26%\nunique_crashes : 0\nunique_hangs   : 13\nlast_path      : 1499808609\nlast_crash     : 0\nlast_hang      : 1499808463\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/router_simulator/input -o /dev/shm/work/router_simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/router_simulator/router_simulator.dict -- data/linux/processed-challenges/router_simulator/bin/router_simulator\n'
+p173
+I1
+tp174
+a(I10440
+S'start_time     : 1499798386\nlast_update    : 1499808783\nfuzzer_pid     : 30600\ncycles_done    : 0\nexecs_done     : 12997026\nexecs_per_sec  : 1048.92\npaths_total    : 523\npaths_favored  : 168\npaths_found    : 522\npaths_imported : 0\nmax_depth      : 15\ncur_path       : 519\npending_favs   : 2\npending_total  : 284\nvariable_paths : 0\nbitmap_cvg     : 1.26%\nunique_crashes : 0\nunique_hangs   : 15\nlast_path      : 1499808609\nlast_crash     : 0\nlast_hang      : 1499808780\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/router_simulator/input -o /dev/shm/work/router_simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/router_simulator/router_simulator.dict -- data/linux/processed-challenges/router_simulator/bin/router_simulator\n'
+p175
+I2
+tp176
+a(I10560
+S'start_time     : 1499798386\nlast_update    : 1499808903\nfuzzer_pid     : 30600\ncycles_done    : 1\nexecs_done     : 13134578\nexecs_per_sec  : 1260.64\npaths_total    : 525\npaths_favored  : 168\npaths_found    : 524\npaths_imported : 0\nmax_depth      : 16\ncur_path       : 49\npending_favs   : 1\npending_total  : 285\nvariable_paths : 0\nbitmap_cvg     : 1.26%\nunique_crashes : 0\nunique_hangs   : 15\nlast_path      : 1499808799\nlast_crash     : 0\nlast_hang      : 1499808780\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/router_simulator/input -o /dev/shm/work/router_simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/router_simulator/router_simulator.dict -- data/linux/processed-challenges/router_simulator/bin/router_simulator\n'
+p177
+I0
+tp178
+a(I10680
+S'start_time     : 1499798386\nlast_update    : 1499809024\nfuzzer_pid     : 30600\ncycles_done    : 1\nexecs_done     : 13288401\nexecs_per_sec  : 1108.87\npaths_total    : 525\npaths_favored  : 168\npaths_found    : 524\npaths_imported : 0\nmax_depth      : 16\ncur_path       : 84\npending_favs   : 0\npending_total  : 281\nvariable_paths : 0\nbitmap_cvg     : 1.26%\nunique_crashes : 0\nunique_hangs   : 15\nlast_path      : 1499808799\nlast_crash     : 0\nlast_hang      : 1499808780\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/router_simulator/input -o /dev/shm/work/router_simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/router_simulator/router_simulator.dict -- data/linux/processed-challenges/router_simulator/bin/router_simulator\n'
+p179
+I1
+tp180
+a.

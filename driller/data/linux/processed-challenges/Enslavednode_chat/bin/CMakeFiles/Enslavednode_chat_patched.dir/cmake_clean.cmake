@@ -1,0 +1,40 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/Enslavednode_chat_patched.dir/lib/calloc.c.o"
+  "CMakeFiles/Enslavednode_chat_patched.dir/lib/ctype.c.o"
+  "CMakeFiles/Enslavednode_chat_patched.dir/lib/free.c.o"
+  "CMakeFiles/Enslavednode_chat_patched.dir/lib/malloc.c.o"
+  "CMakeFiles/Enslavednode_chat_patched.dir/lib/malloc_common.c.o"
+  "CMakeFiles/Enslavednode_chat_patched.dir/lib/memchr.c.o"
+  "CMakeFiles/Enslavednode_chat_patched.dir/lib/memcmp.c.o"
+  "CMakeFiles/Enslavednode_chat_patched.dir/lib/memcpy.c.o"
+  "CMakeFiles/Enslavednode_chat_patched.dir/lib/memmove.c.o"
+  "CMakeFiles/Enslavednode_chat_patched.dir/lib/memset.c.o"
+  "CMakeFiles/Enslavednode_chat_patched.dir/lib/printf.c.o"
+  "CMakeFiles/Enslavednode_chat_patched.dir/lib/realloc.c.o"
+  "CMakeFiles/Enslavednode_chat_patched.dir/lib/strcasecmp.c.o"
+  "CMakeFiles/Enslavednode_chat_patched.dir/lib/strcat.c.o"
+  "CMakeFiles/Enslavednode_chat_patched.dir/lib/strchr.c.o"
+  "CMakeFiles/Enslavednode_chat_patched.dir/lib/strcmp.c.o"
+  "CMakeFiles/Enslavednode_chat_patched.dir/lib/strcpy.c.o"
+  "CMakeFiles/Enslavednode_chat_patched.dir/lib/strdup.c.o"
+  "CMakeFiles/Enslavednode_chat_patched.dir/lib/strlen.c.o"
+  "CMakeFiles/Enslavednode_chat_patched.dir/lib/strncasecmp.c.o"
+  "CMakeFiles/Enslavednode_chat_patched.dir/lib/strncmp.c.o"
+  "CMakeFiles/Enslavednode_chat_patched.dir/lib/strncpy.c.o"
+  "CMakeFiles/Enslavednode_chat_patched.dir/lib/strsep.c.o"
+  "CMakeFiles/Enslavednode_chat_patched.dir/lib/strtol.c.o"
+  "CMakeFiles/Enslavednode_chat_patched.dir/src/common.c.o"
+  "CMakeFiles/Enslavednode_chat_patched.dir/src/error.c.o"
+  "CMakeFiles/Enslavednode_chat_patched.dir/src/list.c.o"
+  "CMakeFiles/Enslavednode_chat_patched.dir/src/main.c.o"
+  "CMakeFiles/Enslavednode_chat_patched.dir/src/string.c.o"
+  "CMakeFiles/Enslavednode_chat_patched.dir/src/tree.c.o"
+  "CMakeFiles/Enslavednode_chat_patched.dir/src/wl.c.o"
+  "Enslavednode_chat_patched.pdb"
+  "Enslavednode_chat_patched"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang C)
+  include(CMakeFiles/Enslavednode_chat_patched.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

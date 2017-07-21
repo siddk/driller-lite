@@ -1,0 +1,452 @@
+(lp0
+(I0
+S'start_time     : 1499949539\nlast_update    : 1499949539\nfuzzer_pid     : 3747\ncycles_done    : 0\nexecs_done     : 10\nexecs_per_sec  : 188.68\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 1\npending_total  : 1\nvariable_paths : 0\nbitmap_cvg     : 0.21%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Board_Game/input -o /dev/shm/work/Board_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Board_Game/Board_Game.dict -- data/linux/processed-challenges/Board_Game/bin/Board_Game\n'
+p1
+I25
+tp2
+a(I120
+S'start_time     : 1499949539\nlast_update    : 1499949659\nfuzzer_pid     : 3747\ncycles_done    : 0\nexecs_done     : 134578\nexecs_per_sec  : 1114.18\npaths_total    : 39\npaths_favored  : 1\npaths_found    : 38\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 1\npending_total  : 39\nvariable_paths : 0\nbitmap_cvg     : 0.42%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499949641\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Board_Game/input -o /dev/shm/work/Board_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Board_Game/Board_Game.dict -- data/linux/processed-challenges/Board_Game/bin/Board_Game\n'
+p3
+I15
+tp4
+a(I240
+S'start_time     : 1499949539\nlast_update    : 1499949779\nfuzzer_pid     : 3747\ncycles_done    : 0\nexecs_done     : 266551\nexecs_per_sec  : 1069.68\npaths_total    : 46\npaths_favored  : 16\npaths_found    : 45\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 13\npending_favs   : 13\npending_total  : 42\nvariable_paths : 0\nbitmap_cvg     : 0.43%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499949752\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Board_Game/input -o /dev/shm/work/Board_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Board_Game/Board_Game.dict -- data/linux/processed-challenges/Board_Game/bin/Board_Game\n'
+p5
+I6
+tp6
+a(I360
+S'start_time     : 1499949539\nlast_update    : 1499949900\nfuzzer_pid     : 3747\ncycles_done    : 0\nexecs_done     : 396038\nexecs_per_sec  : 1041.64\npaths_total    : 54\npaths_favored  : 20\npaths_found    : 53\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 26\npending_favs   : 15\npending_total  : 46\nvariable_paths : 0\nbitmap_cvg     : 0.44%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499949898\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Board_Game/input -o /dev/shm/work/Board_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Board_Game/Board_Game.dict -- data/linux/processed-challenges/Board_Game/bin/Board_Game\n'
+p7
+I8
+tp8
+a(I480
+S'start_time     : 1499949539\nlast_update    : 1499950020\nfuzzer_pid     : 3747\ncycles_done    : 0\nexecs_done     : 514932\nexecs_per_sec  : 876.19\npaths_total    : 58\npaths_favored  : 21\npaths_found    : 57\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 40\npending_favs   : 11\npending_total  : 43\nvariable_paths : 0\nbitmap_cvg     : 0.45%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499949978\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Board_Game/input -o /dev/shm/work/Board_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Board_Game/Board_Game.dict -- data/linux/processed-challenges/Board_Game/bin/Board_Game\n'
+p9
+I7
+tp10
+a(I600
+S'start_time     : 1499949539\nlast_update    : 1499950140\nfuzzer_pid     : 3747\ncycles_done    : 0\nexecs_done     : 630791\nexecs_per_sec  : 1025.60\npaths_total    : 62\npaths_favored  : 21\npaths_found    : 61\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 46\npending_favs   : 9\npending_total  : 44\nvariable_paths : 0\nbitmap_cvg     : 0.45%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499950035\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Board_Game/input -o /dev/shm/work/Board_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Board_Game/Board_Game.dict -- data/linux/processed-challenges/Board_Game/bin/Board_Game\n'
+p11
+I1
+tp12
+a(I720
+S'start_time     : 1499949539\nlast_update    : 1499950260\nfuzzer_pid     : 3747\ncycles_done    : 0\nexecs_done     : 754747\nexecs_per_sec  : 1025.92\npaths_total    : 72\npaths_favored  : 21\npaths_found    : 71\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 48\npending_favs   : 8\npending_total  : 53\nvariable_paths : 0\nbitmap_cvg     : 0.45%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499950239\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Board_Game/input -o /dev/shm/work/Board_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Board_Game/Board_Game.dict -- data/linux/processed-challenges/Board_Game/bin/Board_Game\n'
+p13
+I10
+tp14
+a(I840
+S'start_time     : 1499949539\nlast_update    : 1499950380\nfuzzer_pid     : 3747\ncycles_done    : 0\nexecs_done     : 882129\nexecs_per_sec  : 1121.16\npaths_total    : 76\npaths_favored  : 22\npaths_found    : 75\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 55\npending_favs   : 8\npending_total  : 54\nvariable_paths : 0\nbitmap_cvg     : 0.45%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499950351\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Board_Game/input -o /dev/shm/work/Board_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Board_Game/Board_Game.dict -- data/linux/processed-challenges/Board_Game/bin/Board_Game\n'
+p15
+I4
+tp16
+a(I960
+S'start_time     : 1499949539\nlast_update    : 1499950500\nfuzzer_pid     : 3747\ncycles_done    : 0\nexecs_done     : 999762\nexecs_per_sec  : 969.82\npaths_total    : 77\npaths_favored  : 21\npaths_found    : 76\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 69\npending_favs   : 4\npending_total  : 50\nvariable_paths : 0\nbitmap_cvg     : 0.45%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499950490\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Board_Game/input -o /dev/shm/work/Board_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Board_Game/Board_Game.dict -- data/linux/processed-challenges/Board_Game/bin/Board_Game\n'
+p17
+I2
+tp18
+a(I1080
+S'start_time     : 1499949539\nlast_update    : 1499950621\nfuzzer_pid     : 3747\ncycles_done    : 0\nexecs_done     : 1116300\nexecs_per_sec  : 979.25\npaths_total    : 80\npaths_favored  : 21\npaths_found    : 79\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 69\npending_favs   : 4\npending_total  : 53\nvariable_paths : 0\nbitmap_cvg     : 0.45%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499950515\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Board_Game/input -o /dev/shm/work/Board_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Board_Game/Board_Game.dict -- data/linux/processed-challenges/Board_Game/bin/Board_Game\n'
+p19
+I2
+tp20
+a(I1200
+S'start_time     : 1499949539\nlast_update    : 1499950741\nfuzzer_pid     : 3747\ncycles_done    : 0\nexecs_done     : 1237657\nexecs_per_sec  : 1072.94\npaths_total    : 85\npaths_favored  : 21\npaths_found    : 84\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 73\npending_favs   : 3\npending_total  : 56\nvariable_paths : 0\nbitmap_cvg     : 0.45%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499950713\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Board_Game/input -o /dev/shm/work/Board_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Board_Game/Board_Game.dict -- data/linux/processed-challenges/Board_Game/bin/Board_Game\n'
+p21
+I5
+tp22
+a(I1320
+S'start_time     : 1499949539\nlast_update    : 1499950861\nfuzzer_pid     : 3747\ncycles_done    : 0\nexecs_done     : 1363623\nexecs_per_sec  : 925.69\npaths_total    : 88\npaths_favored  : 21\npaths_found    : 87\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 76\npending_favs   : 2\npending_total  : 58\nvariable_paths : 0\nbitmap_cvg     : 0.45%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499950814\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Board_Game/input -o /dev/shm/work/Board_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Board_Game/Board_Game.dict -- data/linux/processed-challenges/Board_Game/bin/Board_Game\n'
+p23
+I3
+tp24
+a(I1440
+S'start_time     : 1499949539\nlast_update    : 1499950982\nfuzzer_pid     : 3747\ncycles_done    : 1\nexecs_done     : 1485047\nexecs_per_sec  : 851.17\npaths_total    : 91\npaths_favored  : 21\npaths_found    : 90\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 28\npending_favs   : 0\npending_total  : 57\nvariable_paths : 0\nbitmap_cvg     : 0.45%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499950898\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Board_Game/input -o /dev/shm/work/Board_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Board_Game/Board_Game.dict -- data/linux/processed-challenges/Board_Game/bin/Board_Game\n'
+p25
+I3
+tp26
+a(I1560
+S'start_time     : 1499949539\nlast_update    : 1499951102\nfuzzer_pid     : 3747\ncycles_done    : 1\nexecs_done     : 1599114\nexecs_per_sec  : 889.60\npaths_total    : 94\npaths_favored  : 21\npaths_found    : 93\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 49\npending_favs   : 0\npending_total  : 58\nvariable_paths : 0\nbitmap_cvg     : 0.45%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499951005\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Board_Game/input -o /dev/shm/work/Board_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Board_Game/Board_Game.dict -- data/linux/processed-challenges/Board_Game/bin/Board_Game\n'
+p27
+I3
+tp28
+a(I1680
+S'start_time     : 1499949539\nlast_update    : 1499951222\nfuzzer_pid     : 3747\ncycles_done    : 1\nexecs_done     : 1704665\nexecs_per_sec  : 771.56\npaths_total    : 94\npaths_favored  : 21\npaths_found    : 93\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 59\npending_favs   : 0\npending_total  : 55\nvariable_paths : 0\nbitmap_cvg     : 0.45%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499951005\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Board_Game/input -o /dev/shm/work/Board_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Board_Game/Board_Game.dict -- data/linux/processed-challenges/Board_Game/bin/Board_Game\n'
+p29
+I0
+tp30
+a(I1800
+S'start_time     : 1499949539\nlast_update    : 1499951343\nfuzzer_pid     : 3747\ncycles_done    : 1\nexecs_done     : 1816596\nexecs_per_sec  : 1038.31\npaths_total    : 99\npaths_favored  : 21\npaths_found    : 98\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 96\npending_favs   : 1\npending_total  : 59\nvariable_paths : 0\nbitmap_cvg     : 0.47%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499951335\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Board_Game/input -o /dev/shm/work/Board_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Board_Game/Board_Game.dict -- data/linux/processed-challenges/Board_Game/bin/Board_Game\n'
+p31
+I5
+tp32
+a(I1920
+S'start_time     : 1499949539\nlast_update    : 1499951463\nfuzzer_pid     : 3747\ncycles_done    : 1\nexecs_done     : 1938826\nexecs_per_sec  : 1023.25\npaths_total    : 104\npaths_favored  : 21\npaths_found    : 103\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 96\npending_favs   : 1\npending_total  : 64\nvariable_paths : 0\nbitmap_cvg     : 0.48%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499951450\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Board_Game/input -o /dev/shm/work/Board_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Board_Game/Board_Game.dict -- data/linux/processed-challenges/Board_Game/bin/Board_Game\n'
+p33
+I5
+tp34
+a(I2040
+S'start_time     : 1499949539\nlast_update    : 1499951583\nfuzzer_pid     : 3747\ncycles_done    : 1\nexecs_done     : 2060240\nexecs_per_sec  : 1026.64\npaths_total    : 109\npaths_favored  : 21\npaths_found    : 108\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 97\npending_favs   : 3\npending_total  : 68\nvariable_paths : 0\nbitmap_cvg     : 0.55%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499951551\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Board_Game/input -o /dev/shm/work/Board_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Board_Game/Board_Game.dict -- data/linux/processed-challenges/Board_Game/bin/Board_Game\n'
+p35
+I5
+tp36
+a(I2160
+S'start_time     : 1499949539\nlast_update    : 1499951703\nfuzzer_pid     : 3747\ncycles_done    : 1\nexecs_done     : 2181666\nexecs_per_sec  : 1049.41\npaths_total    : 112\npaths_favored  : 21\npaths_found    : 111\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 104\npending_favs   : 5\npending_total  : 70\nvariable_paths : 0\nbitmap_cvg     : 0.55%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499951689\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Board_Game/input -o /dev/shm/work/Board_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Board_Game/Board_Game.dict -- data/linux/processed-challenges/Board_Game/bin/Board_Game\n'
+p37
+I3
+tp38
+a(I2280
+S'start_time     : 1499949539\nlast_update    : 1499951823\nfuzzer_pid     : 3747\ncycles_done    : 1\nexecs_done     : 2300024\nexecs_per_sec  : 960.74\npaths_total    : 117\npaths_favored  : 22\npaths_found    : 116\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 108\npending_favs   : 3\npending_total  : 72\nvariable_paths : 0\nbitmap_cvg     : 0.56%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499951823\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Board_Game/input -o /dev/shm/work/Board_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Board_Game/Board_Game.dict -- data/linux/processed-challenges/Board_Game/bin/Board_Game\n'
+p39
+I6
+tp40
+a(I2400
+S'start_time     : 1499949539\nlast_update    : 1499951944\nfuzzer_pid     : 3747\ncycles_done    : 1\nexecs_done     : 2421017\nexecs_per_sec  : 998.91\npaths_total    : 128\npaths_favored  : 22\npaths_found    : 127\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 108\npending_favs   : 3\npending_total  : 83\nvariable_paths : 0\nbitmap_cvg     : 0.60%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499951920\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Board_Game/input -o /dev/shm/work/Board_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Board_Game/Board_Game.dict -- data/linux/processed-challenges/Board_Game/bin/Board_Game\n'
+p41
+I10
+tp42
+a(I2520
+S'start_time     : 1499949539\nlast_update    : 1499952064\nfuzzer_pid     : 3747\ncycles_done    : 1\nexecs_done     : 2541020\nexecs_per_sec  : 1006.01\npaths_total    : 131\npaths_favored  : 25\npaths_found    : 130\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 109\npending_favs   : 7\npending_total  : 85\nvariable_paths : 0\nbitmap_cvg     : 0.61%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499951994\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Board_Game/input -o /dev/shm/work/Board_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Board_Game/Board_Game.dict -- data/linux/processed-challenges/Board_Game/bin/Board_Game\n'
+p43
+I3
+tp44
+a(I2640
+S'start_time     : 1499949539\nlast_update    : 1499952184\nfuzzer_pid     : 3747\ncycles_done    : 1\nexecs_done     : 2662179\nexecs_per_sec  : 1019.81\npaths_total    : 131\npaths_favored  : 26\npaths_found    : 130\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 116\npending_favs   : 8\npending_total  : 84\nvariable_paths : 0\nbitmap_cvg     : 0.61%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499951994\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Board_Game/input -o /dev/shm/work/Board_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Board_Game/Board_Game.dict -- data/linux/processed-challenges/Board_Game/bin/Board_Game\n'
+p45
+I0
+tp46
+a(I2760
+S'start_time     : 1499949539\nlast_update    : 1499952304\nfuzzer_pid     : 3747\ncycles_done    : 1\nexecs_done     : 2780832\nexecs_per_sec  : 1021.93\npaths_total    : 136\npaths_favored  : 26\npaths_found    : 135\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 119\npending_favs   : 6\npending_total  : 87\nvariable_paths : 0\nbitmap_cvg     : 0.63%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499952304\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Board_Game/input -o /dev/shm/work/Board_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Board_Game/Board_Game.dict -- data/linux/processed-challenges/Board_Game/bin/Board_Game\n'
+p47
+I6
+tp48
+a(I2880
+S'start_time     : 1499949539\nlast_update    : 1499952425\nfuzzer_pid     : 3747\ncycles_done    : 1\nexecs_done     : 2902912\nexecs_per_sec  : 1029.18\npaths_total    : 138\npaths_favored  : 26\npaths_found    : 137\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 119\npending_favs   : 6\npending_total  : 89\nvariable_paths : 0\nbitmap_cvg     : 0.63%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499952342\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Board_Game/input -o /dev/shm/work/Board_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Board_Game/Board_Game.dict -- data/linux/processed-challenges/Board_Game/bin/Board_Game\n'
+p49
+I1
+tp50
+a(I3000
+S'start_time     : 1499949539\nlast_update    : 1499952545\nfuzzer_pid     : 3747\ncycles_done    : 1\nexecs_done     : 3020651\nexecs_per_sec  : 980.12\npaths_total    : 141\npaths_favored  : 30\npaths_found    : 140\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 122\npending_favs   : 8\npending_total  : 90\nvariable_paths : 0\nbitmap_cvg     : 0.63%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499952538\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Board_Game/input -o /dev/shm/work/Board_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Board_Game/Board_Game.dict -- data/linux/processed-challenges/Board_Game/bin/Board_Game\n'
+p51
+I3
+tp52
+a(I3120
+S'start_time     : 1499949539\nlast_update    : 1499952665\nfuzzer_pid     : 3747\ncycles_done    : 1\nexecs_done     : 3138629\nexecs_per_sec  : 1096.16\npaths_total    : 144\npaths_favored  : 30\npaths_found    : 143\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 124\npending_favs   : 8\npending_total  : 92\nvariable_paths : 0\nbitmap_cvg     : 0.63%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499952639\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Board_Game/input -o /dev/shm/work/Board_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Board_Game/Board_Game.dict -- data/linux/processed-challenges/Board_Game/bin/Board_Game\n'
+p53
+I3
+tp54
+a(I3240
+S'start_time     : 1499949539\nlast_update    : 1499952785\nfuzzer_pid     : 3747\ncycles_done    : 1\nexecs_done     : 3240302\nexecs_per_sec  : 840.10\npaths_total    : 146\npaths_favored  : 30\npaths_found    : 145\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 128\npending_favs   : 7\npending_total  : 93\nvariable_paths : 0\nbitmap_cvg     : 0.63%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499952754\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Board_Game/input -o /dev/shm/work/Board_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Board_Game/Board_Game.dict -- data/linux/processed-challenges/Board_Game/bin/Board_Game\n'
+p55
+I2
+tp56
+a(I3360
+S'start_time     : 1499949539\nlast_update    : 1499952906\nfuzzer_pid     : 3747\ncycles_done    : 1\nexecs_done     : 3340930\nexecs_per_sec  : 841.61\npaths_total    : 148\npaths_favored  : 30\npaths_found    : 147\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 128\npending_favs   : 7\npending_total  : 95\nvariable_paths : 0\nbitmap_cvg     : 0.63%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499952892\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Board_Game/input -o /dev/shm/work/Board_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Board_Game/Board_Game.dict -- data/linux/processed-challenges/Board_Game/bin/Board_Game\n'
+p57
+I2
+tp58
+a(I3480
+S'start_time     : 1499949539\nlast_update    : 1499953026\nfuzzer_pid     : 3747\ncycles_done    : 1\nexecs_done     : 3452420\nexecs_per_sec  : 987.08\npaths_total    : 150\npaths_favored  : 30\npaths_found    : 149\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 129\npending_favs   : 7\npending_total  : 96\nvariable_paths : 0\nbitmap_cvg     : 0.63%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499952980\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Board_Game/input -o /dev/shm/work/Board_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Board_Game/Board_Game.dict -- data/linux/processed-challenges/Board_Game/bin/Board_Game\n'
+p59
+I2
+tp60
+a(I3600
+S'start_time     : 1499949539\nlast_update    : 1499953146\nfuzzer_pid     : 3747\ncycles_done    : 1\nexecs_done     : 3570068\nexecs_per_sec  : 958.00\npaths_total    : 150\npaths_favored  : 30\npaths_found    : 149\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 131\npending_favs   : 7\npending_total  : 95\nvariable_paths : 0\nbitmap_cvg     : 0.63%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499952980\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Board_Game/input -o /dev/shm/work/Board_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Board_Game/Board_Game.dict -- data/linux/processed-challenges/Board_Game/bin/Board_Game\n'
+p61
+I0
+tp62
+a(I3720
+S'start_time     : 1499949539\nlast_update    : 1499953266\nfuzzer_pid     : 3747\ncycles_done    : 1\nexecs_done     : 3689899\nexecs_per_sec  : 1023.87\npaths_total    : 153\npaths_favored  : 30\npaths_found    : 152\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 132\npending_favs   : 7\npending_total  : 97\nvariable_paths : 0\nbitmap_cvg     : 0.65%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499953264\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Board_Game/input -o /dev/shm/work/Board_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Board_Game/Board_Game.dict -- data/linux/processed-challenges/Board_Game/bin/Board_Game\n'
+p63
+I3
+tp64
+a(I3840
+S'start_time     : 1499949539\nlast_update    : 1499953386\nfuzzer_pid     : 3747\ncycles_done    : 1\nexecs_done     : 3812299\nexecs_per_sec  : 1026.15\npaths_total    : 153\npaths_favored  : 30\npaths_found    : 152\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 132\npending_favs   : 7\npending_total  : 97\nvariable_paths : 0\nbitmap_cvg     : 0.65%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499953264\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Board_Game/input -o /dev/shm/work/Board_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Board_Game/Board_Game.dict -- data/linux/processed-challenges/Board_Game/bin/Board_Game\n'
+p65
+I0
+tp66
+a(I3960
+S'start_time     : 1499949539\nlast_update    : 1499953507\nfuzzer_pid     : 3747\ncycles_done    : 1\nexecs_done     : 3915362\nexecs_per_sec  : 864.62\npaths_total    : 157\npaths_favored  : 29\npaths_found    : 156\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 136\npending_favs   : 8\npending_total  : 100\nvariable_paths : 0\nbitmap_cvg     : 0.65%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499953473\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Board_Game/input -o /dev/shm/work/Board_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Board_Game/Board_Game.dict -- data/linux/processed-challenges/Board_Game/bin/Board_Game\n'
+p67
+I4
+tp68
+a(I4080
+S'start_time     : 1499949539\nlast_update    : 1499953627\nfuzzer_pid     : 3747\ncycles_done    : 1\nexecs_done     : 4017756\nexecs_per_sec  : 865.62\npaths_total    : 159\npaths_favored  : 29\npaths_found    : 158\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 136\npending_favs   : 8\npending_total  : 102\nvariable_paths : 0\nbitmap_cvg     : 0.65%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499953533\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Board_Game/input -o /dev/shm/work/Board_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Board_Game/Board_Game.dict -- data/linux/processed-challenges/Board_Game/bin/Board_Game\n'
+p69
+I2
+tp70
+a(I4200
+S'start_time     : 1499949539\nlast_update    : 1499953747\nfuzzer_pid     : 3747\ncycles_done    : 1\nexecs_done     : 4134704\nexecs_per_sec  : 1011.19\npaths_total    : 163\npaths_favored  : 30\npaths_found    : 162\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 137\npending_favs   : 9\npending_total  : 105\nvariable_paths : 0\nbitmap_cvg     : 0.65%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499953673\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Board_Game/input -o /dev/shm/work/Board_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Board_Game/Board_Game.dict -- data/linux/processed-challenges/Board_Game/bin/Board_Game\n'
+p71
+I4
+tp72
+a(I4320
+S'start_time     : 1499949539\nlast_update    : 1499953867\nfuzzer_pid     : 3747\ncycles_done    : 1\nexecs_done     : 4251215\nexecs_per_sec  : 965.27\npaths_total    : 163\npaths_favored  : 31\npaths_found    : 162\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 139\npending_favs   : 10\npending_total  : 104\nvariable_paths : 0\nbitmap_cvg     : 0.65%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499953673\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Board_Game/input -o /dev/shm/work/Board_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Board_Game/Board_Game.dict -- data/linux/processed-challenges/Board_Game/bin/Board_Game\n'
+p73
+I0
+tp74
+a(I4440
+S'start_time     : 1499949539\nlast_update    : 1499953987\nfuzzer_pid     : 3747\ncycles_done    : 1\nexecs_done     : 4364963\nexecs_per_sec  : 756.69\npaths_total    : 164\npaths_favored  : 31\npaths_found    : 163\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 147\npending_favs   : 9\npending_total  : 104\nvariable_paths : 0\nbitmap_cvg     : 0.65%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499953874\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Board_Game/input -o /dev/shm/work/Board_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Board_Game/Board_Game.dict -- data/linux/processed-challenges/Board_Game/bin/Board_Game\n'
+p75
+I1
+tp76
+a(I4560
+S'start_time     : 1499949539\nlast_update    : 1499954108\nfuzzer_pid     : 3747\ncycles_done    : 1\nexecs_done     : 4459745\nexecs_per_sec  : 800.48\npaths_total    : 165\npaths_favored  : 31\npaths_found    : 164\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 147\npending_favs   : 9\npending_total  : 105\nvariable_paths : 0\nbitmap_cvg     : 0.65%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499954036\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Board_Game/input -o /dev/shm/work/Board_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Board_Game/Board_Game.dict -- data/linux/processed-challenges/Board_Game/bin/Board_Game\n'
+p77
+I1
+tp78
+a(I4680
+S'start_time     : 1499949539\nlast_update    : 1499954228\nfuzzer_pid     : 3747\ncycles_done    : 1\nexecs_done     : 4569357\nexecs_per_sec  : 968.59\npaths_total    : 167\npaths_favored  : 31\npaths_found    : 166\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 148\npending_favs   : 9\npending_total  : 106\nvariable_paths : 0\nbitmap_cvg     : 0.65%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499954189\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Board_Game/input -o /dev/shm/work/Board_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Board_Game/Board_Game.dict -- data/linux/processed-challenges/Board_Game/bin/Board_Game\n'
+p79
+I2
+tp80
+a(I4800
+S'start_time     : 1499949539\nlast_update    : 1499954348\nfuzzer_pid     : 3747\ncycles_done    : 1\nexecs_done     : 4685112\nexecs_per_sec  : 923.34\npaths_total    : 168\npaths_favored  : 31\npaths_found    : 167\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 150\npending_favs   : 9\npending_total  : 106\nvariable_paths : 0\nbitmap_cvg     : 0.65%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499954286\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Board_Game/input -o /dev/shm/work/Board_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Board_Game/Board_Game.dict -- data/linux/processed-challenges/Board_Game/bin/Board_Game\n'
+p81
+I1
+tp82
+a(I4920
+S'start_time     : 1499949539\nlast_update    : 1499954468\nfuzzer_pid     : 3747\ncycles_done    : 1\nexecs_done     : 4806548\nexecs_per_sec  : 1023.21\npaths_total    : 171\npaths_favored  : 31\npaths_found    : 170\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 150\npending_favs   : 9\npending_total  : 109\nvariable_paths : 0\nbitmap_cvg     : 0.65%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499954410\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Board_Game/input -o /dev/shm/work/Board_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Board_Game/Board_Game.dict -- data/linux/processed-challenges/Board_Game/bin/Board_Game\n'
+p83
+I3
+tp84
+a(I5040
+S'start_time     : 1499949539\nlast_update    : 1499954588\nfuzzer_pid     : 3747\ncycles_done    : 1\nexecs_done     : 4914377\nexecs_per_sec  : 886.43\npaths_total    : 177\npaths_favored  : 32\npaths_found    : 176\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 151\npending_favs   : 10\npending_total  : 114\nvariable_paths : 0\nbitmap_cvg     : 0.69%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499954555\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Board_Game/input -o /dev/shm/work/Board_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Board_Game/Board_Game.dict -- data/linux/processed-challenges/Board_Game/bin/Board_Game\n'
+p85
+I6
+tp86
+a(I5160
+S'start_time     : 1499949539\nlast_update    : 1499954709\nfuzzer_pid     : 3747\ncycles_done    : 1\nexecs_done     : 5024703\nexecs_per_sec  : 1097.47\npaths_total    : 179\npaths_favored  : 36\npaths_found    : 178\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 152\npending_favs   : 15\npending_total  : 115\nvariable_paths : 0\nbitmap_cvg     : 0.70%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499954635\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Board_Game/input -o /dev/shm/work/Board_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Board_Game/Board_Game.dict -- data/linux/processed-challenges/Board_Game/bin/Board_Game\n'
+p87
+I2
+tp88
+a(I5280
+S'start_time     : 1499949539\nlast_update    : 1499954829\nfuzzer_pid     : 3747\ncycles_done    : 1\nexecs_done     : 5126788\nexecs_per_sec  : 872.23\npaths_total    : 179\npaths_favored  : 36\npaths_found    : 178\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 159\npending_favs   : 13\npending_total  : 113\nvariable_paths : 0\nbitmap_cvg     : 0.70%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499954635\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Board_Game/input -o /dev/shm/work/Board_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Board_Game/Board_Game.dict -- data/linux/processed-challenges/Board_Game/bin/Board_Game\n'
+p89
+I0
+tp90
+a(I5400
+S'start_time     : 1499949539\nlast_update    : 1499954949\nfuzzer_pid     : 3747\ncycles_done    : 1\nexecs_done     : 5242167\nexecs_per_sec  : 1004.57\npaths_total    : 179\npaths_favored  : 36\npaths_found    : 178\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 161\npending_favs   : 11\npending_total  : 111\nvariable_paths : 0\nbitmap_cvg     : 0.70%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499954635\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Board_Game/input -o /dev/shm/work/Board_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Board_Game/Board_Game.dict -- data/linux/processed-challenges/Board_Game/bin/Board_Game\n'
+p91
+I0
+tp92
+a(I5520
+S'start_time     : 1499949539\nlast_update    : 1499955069\nfuzzer_pid     : 3747\ncycles_done    : 1\nexecs_done     : 5356013\nexecs_per_sec  : 735.19\npaths_total    : 180\npaths_favored  : 36\npaths_found    : 179\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 164\npending_favs   : 10\npending_total  : 111\nvariable_paths : 0\nbitmap_cvg     : 0.70%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499954977\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Board_Game/input -o /dev/shm/work/Board_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Board_Game/Board_Game.dict -- data/linux/processed-challenges/Board_Game/bin/Board_Game\n'
+p93
+I1
+tp94
+a(I5640
+S'start_time     : 1499949539\nlast_update    : 1499955189\nfuzzer_pid     : 3747\ncycles_done    : 1\nexecs_done     : 5451526\nexecs_per_sec  : 817.76\npaths_total    : 181\npaths_favored  : 36\npaths_found    : 180\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 164\npending_favs   : 10\npending_total  : 112\nvariable_paths : 0\nbitmap_cvg     : 0.70%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499955115\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Board_Game/input -o /dev/shm/work/Board_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Board_Game/Board_Game.dict -- data/linux/processed-challenges/Board_Game/bin/Board_Game\n'
+p95
+I1
+tp96
+a(I5760
+S'start_time     : 1499949539\nlast_update    : 1499955310\nfuzzer_pid     : 3747\ncycles_done    : 1\nexecs_done     : 5564942\nexecs_per_sec  : 1041.93\npaths_total    : 181\npaths_favored  : 36\npaths_found    : 180\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 168\npending_favs   : 8\npending_total  : 110\nvariable_paths : 0\nbitmap_cvg     : 0.70%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499955115\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Board_Game/input -o /dev/shm/work/Board_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Board_Game/Board_Game.dict -- data/linux/processed-challenges/Board_Game/bin/Board_Game\n'
+p97
+I0
+tp98
+a(I5880
+S'start_time     : 1499949539\nlast_update    : 1499955430\nfuzzer_pid     : 3747\ncycles_done    : 1\nexecs_done     : 5685761\nexecs_per_sec  : 1032.03\npaths_total    : 186\npaths_favored  : 36\npaths_found    : 185\npaths_imported : 0\nmax_depth      : 12\ncur_path       : 170\npending_favs   : 7\npending_total  : 114\nvariable_paths : 0\nbitmap_cvg     : 0.70%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499955408\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Board_Game/input -o /dev/shm/work/Board_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Board_Game/Board_Game.dict -- data/linux/processed-challenges/Board_Game/bin/Board_Game\n'
+p99
+I5
+tp100
+a(I6000
+S'start_time     : 1499949539\nlast_update    : 1499955490\nfuzzer_pid     : 3747\ncycles_done    : 1\nexecs_done     : 5743758\nexecs_per_sec  : 793.90\npaths_total    : 188\npaths_favored  : 36\npaths_found    : 187\npaths_imported : 0\nmax_depth      : 12\ncur_path       : 171\npending_favs   : 7\npending_total  : 115\nvariable_paths : 0\nbitmap_cvg     : 0.70%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499955484\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Board_Game/input -o /dev/shm/work/Board_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Board_Game/Board_Game.dict -- data/linux/processed-challenges/Board_Game/bin/Board_Game\n'
+p101
+I3
+tp102
+a(I6120
+S'start_time     : 1499949539\nlast_update    : 1499955610\nfuzzer_pid     : 3747\ncycles_done    : 1\nexecs_done     : 5846234\nexecs_per_sec  : 810.79\npaths_total    : 191\npaths_favored  : 38\npaths_found    : 190\npaths_imported : 0\nmax_depth      : 12\ncur_path       : 172\npending_favs   : 9\npending_total  : 117\nvariable_paths : 0\nbitmap_cvg     : 0.72%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499955590\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Board_Game/input -o /dev/shm/work/Board_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Board_Game/Board_Game.dict -- data/linux/processed-challenges/Board_Game/bin/Board_Game\n'
+p103
+I2
+tp104
+a(I6240
+S'start_time     : 1499949539\nlast_update    : 1499955730\nfuzzer_pid     : 3747\ncycles_done    : 1\nexecs_done     : 5953632\nexecs_per_sec  : 899.92\npaths_total    : 192\npaths_favored  : 38\npaths_found    : 191\npaths_imported : 0\nmax_depth      : 12\ncur_path       : 172\npending_favs   : 9\npending_total  : 118\nvariable_paths : 0\nbitmap_cvg     : 0.72%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499955671\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Board_Game/input -o /dev/shm/work/Board_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Board_Game/Board_Game.dict -- data/linux/processed-challenges/Board_Game/bin/Board_Game\n'
+p105
+I9
+tp106
+a(I6360
+S'start_time     : 1499949539\nlast_update    : 1499955850\nfuzzer_pid     : 3747\ncycles_done    : 1\nexecs_done     : 6058369\nexecs_per_sec  : 898.46\npaths_total    : 201\npaths_favored  : 37\npaths_found    : 200\npaths_imported : 0\nmax_depth      : 12\ncur_path       : 173\npending_favs   : 10\npending_total  : 126\nvariable_paths : 0\nbitmap_cvg     : 0.78%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499955791\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Board_Game/input -o /dev/shm/work/Board_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Board_Game/Board_Game.dict -- data/linux/processed-challenges/Board_Game/bin/Board_Game\n'
+p107
+I1
+tp108
+a(I6480
+S'start_time     : 1499949539\nlast_update    : 1499955971\nfuzzer_pid     : 3747\ncycles_done    : 1\nexecs_done     : 6162903\nexecs_per_sec  : 904.14\npaths_total    : 202\npaths_favored  : 45\npaths_found    : 201\npaths_imported : 0\nmax_depth      : 12\ncur_path       : 174\npending_favs   : 17\npending_total  : 126\nvariable_paths : 0\nbitmap_cvg     : 0.79%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499955935\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Board_Game/input -o /dev/shm/work/Board_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Board_Game/Board_Game.dict -- data/linux/processed-challenges/Board_Game/bin/Board_Game\n'
+p109
+I2
+tp110
+a(I6600
+S'start_time     : 1499949539\nlast_update    : 1499956091\nfuzzer_pid     : 3747\ncycles_done    : 1\nexecs_done     : 6271645\nexecs_per_sec  : 892.15\npaths_total    : 203\npaths_favored  : 45\npaths_found    : 202\npaths_imported : 0\nmax_depth      : 12\ncur_path       : 174\npending_favs   : 17\npending_total  : 127\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499955992\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Board_Game/input -o /dev/shm/work/Board_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Board_Game/Board_Game.dict -- data/linux/processed-challenges/Board_Game/bin/Board_Game\n'
+p111
+I7
+tp112
+a(I6720
+S'start_time     : 1499949539\nlast_update    : 1499956211\nfuzzer_pid     : 3747\ncycles_done    : 1\nexecs_done     : 6390755\nexecs_per_sec  : 1013.17\npaths_total    : 210\npaths_favored  : 46\npaths_found    : 209\npaths_imported : 0\nmax_depth      : 12\ncur_path       : 177\npending_favs   : 18\npending_total  : 133\nvariable_paths : 0\nbitmap_cvg     : 0.82%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499956135\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Board_Game/input -o /dev/shm/work/Board_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Board_Game/Board_Game.dict -- data/linux/processed-challenges/Board_Game/bin/Board_Game\n'
+p113
+I0
+tp114
+a(I6840
+S'start_time     : 1499949539\nlast_update    : 1499956331\nfuzzer_pid     : 3747\ncycles_done    : 1\nexecs_done     : 6511519\nexecs_per_sec  : 1058.46\npaths_total    : 210\npaths_favored  : 46\npaths_found    : 209\npaths_imported : 0\nmax_depth      : 12\ncur_path       : 183\npending_favs   : 21\npending_total  : 132\nvariable_paths : 0\nbitmap_cvg     : 0.82%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499956135\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Board_Game/input -o /dev/shm/work/Board_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Board_Game/Board_Game.dict -- data/linux/processed-challenges/Board_Game/bin/Board_Game\n'
+p115
+I0
+tp116
+a(I6960
+S'start_time     : 1499949539\nlast_update    : 1499956452\nfuzzer_pid     : 3747\ncycles_done    : 1\nexecs_done     : 6613943\nexecs_per_sec  : 779.74\npaths_total    : 210\npaths_favored  : 46\npaths_found    : 209\npaths_imported : 0\nmax_depth      : 12\ncur_path       : 188\npending_favs   : 19\npending_total  : 130\nvariable_paths : 0\nbitmap_cvg     : 0.82%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499956135\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Board_Game/input -o /dev/shm/work/Board_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Board_Game/Board_Game.dict -- data/linux/processed-challenges/Board_Game/bin/Board_Game\n'
+p117
+I1
+tp118
+a(I7080
+S'start_time     : 1499949539\nlast_update    : 1499956572\nfuzzer_pid     : 3747\ncycles_done    : 1\nexecs_done     : 6717019\nexecs_per_sec  : 871.20\npaths_total    : 211\npaths_favored  : 46\npaths_found    : 210\npaths_imported : 0\nmax_depth      : 13\ncur_path       : 188\npending_favs   : 19\npending_total  : 131\nvariable_paths : 0\nbitmap_cvg     : 0.82%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499956491\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Board_Game/input -o /dev/shm/work/Board_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Board_Game/Board_Game.dict -- data/linux/processed-challenges/Board_Game/bin/Board_Game\n'
+p119
+I0
+tp120
+a(I7200
+S'start_time     : 1499949539\nlast_update    : 1499956692\nfuzzer_pid     : 3747\ncycles_done    : 1\nexecs_done     : 6822360\nexecs_per_sec  : 920.86\npaths_total    : 211\npaths_favored  : 46\npaths_found    : 210\npaths_imported : 0\nmax_depth      : 13\ncur_path       : 190\npending_favs   : 18\npending_total  : 130\nvariable_paths : 0\nbitmap_cvg     : 0.82%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499956491\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Board_Game/input -o /dev/shm/work/Board_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Board_Game/Board_Game.dict -- data/linux/processed-challenges/Board_Game/bin/Board_Game\n'
+p121
+I1
+tp122
+a(I7320
+S'start_time     : 1499949539\nlast_update    : 1499956812\nfuzzer_pid     : 3747\ncycles_done    : 1\nexecs_done     : 6926936\nexecs_per_sec  : 918.82\npaths_total    : 212\npaths_favored  : 46\npaths_found    : 211\npaths_imported : 0\nmax_depth      : 13\ncur_path       : 191\npending_favs   : 17\npending_total  : 130\nvariable_paths : 0\nbitmap_cvg     : 0.82%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499956747\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Board_Game/input -o /dev/shm/work/Board_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Board_Game/Board_Game.dict -- data/linux/processed-challenges/Board_Game/bin/Board_Game\n'
+p123
+I2
+tp124
+a(I7440
+S'start_time     : 1499949539\nlast_update    : 1499956933\nfuzzer_pid     : 3747\ncycles_done    : 1\nexecs_done     : 7031386\nexecs_per_sec  : 901.38\npaths_total    : 215\npaths_favored  : 46\npaths_found    : 214\npaths_imported : 0\nmax_depth      : 13\ncur_path       : 192\npending_favs   : 16\npending_total  : 132\nvariable_paths : 0\nbitmap_cvg     : 0.85%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499956894\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Board_Game/input -o /dev/shm/work/Board_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Board_Game/Board_Game.dict -- data/linux/processed-challenges/Board_Game/bin/Board_Game\n'
+p125
+I1
+tp126
+a(I7560
+S'start_time     : 1499949539\nlast_update    : 1499957053\nfuzzer_pid     : 3747\ncycles_done    : 1\nexecs_done     : 7134419\nexecs_per_sec  : 877.29\npaths_total    : 216\npaths_favored  : 47\npaths_found    : 215\npaths_imported : 0\nmax_depth      : 13\ncur_path       : 194\npending_favs   : 17\npending_total  : 132\nvariable_paths : 0\nbitmap_cvg     : 0.85%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499957050\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Board_Game/input -o /dev/shm/work/Board_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Board_Game/Board_Game.dict -- data/linux/processed-challenges/Board_Game/bin/Board_Game\n'
+p127
+I1
+tp128
+a(I7680
+S'start_time     : 1499949539\nlast_update    : 1499957173\nfuzzer_pid     : 3747\ncycles_done    : 1\nexecs_done     : 7238195\nexecs_per_sec  : 816.70\npaths_total    : 216\npaths_favored  : 47\npaths_found    : 215\npaths_imported : 0\nmax_depth      : 13\ncur_path       : 195\npending_favs   : 17\npending_total  : 131\nvariable_paths : 0\nbitmap_cvg     : 0.85%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499957050\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Board_Game/input -o /dev/shm/work/Board_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Board_Game/Board_Game.dict -- data/linux/processed-challenges/Board_Game/bin/Board_Game\n'
+p129
+I2
+tp130
+a(I7800
+S'start_time     : 1499949539\nlast_update    : 1499957293\nfuzzer_pid     : 3747\ncycles_done    : 1\nexecs_done     : 7345113\nexecs_per_sec  : 928.76\npaths_total    : 218\npaths_favored  : 47\npaths_found    : 217\npaths_imported : 0\nmax_depth      : 13\ncur_path       : 195\npending_favs   : 17\npending_total  : 133\nvariable_paths : 0\nbitmap_cvg     : 0.85%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499957191\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Board_Game/input -o /dev/shm/work/Board_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Board_Game/Board_Game.dict -- data/linux/processed-challenges/Board_Game/bin/Board_Game\n'
+p131
+I2
+tp132
+a(I7920
+S'start_time     : 1499949539\nlast_update    : 1499957414\nfuzzer_pid     : 3747\ncycles_done    : 1\nexecs_done     : 7449314\nexecs_per_sec  : 906.69\npaths_total    : 221\npaths_favored  : 47\npaths_found    : 220\npaths_imported : 0\nmax_depth      : 13\ncur_path       : 196\npending_favs   : 17\npending_total  : 135\nvariable_paths : 0\nbitmap_cvg     : 0.86%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499957361\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Board_Game/input -o /dev/shm/work/Board_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Board_Game/Board_Game.dict -- data/linux/processed-challenges/Board_Game/bin/Board_Game\n'
+p133
+I1
+tp134
+a(I8040
+S'start_time     : 1499949539\nlast_update    : 1499957534\nfuzzer_pid     : 3747\ncycles_done    : 1\nexecs_done     : 7552239\nexecs_per_sec  : 889.93\npaths_total    : 223\npaths_favored  : 50\npaths_found    : 222\npaths_imported : 0\nmax_depth      : 13\ncur_path       : 198\npending_favs   : 19\npending_total  : 136\nvariable_paths : 0\nbitmap_cvg     : 0.87%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499957531\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Board_Game/input -o /dev/shm/work/Board_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Board_Game/Board_Game.dict -- data/linux/processed-challenges/Board_Game/bin/Board_Game\n'
+p135
+I2
+tp136
+a(I8160
+S'start_time     : 1499949539\nlast_update    : 1499957654\nfuzzer_pid     : 3747\ncycles_done    : 1\nexecs_done     : 7656098\nexecs_per_sec  : 800.83\npaths_total    : 223\npaths_favored  : 51\npaths_found    : 222\npaths_imported : 0\nmax_depth      : 13\ncur_path       : 199\npending_favs   : 20\npending_total  : 135\nvariable_paths : 0\nbitmap_cvg     : 0.87%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499957531\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Board_Game/input -o /dev/shm/work/Board_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Board_Game/Board_Game.dict -- data/linux/processed-challenges/Board_Game/bin/Board_Game\n'
+p137
+I1
+tp138
+a(I8280
+S'start_time     : 1499949539\nlast_update    : 1499957774\nfuzzer_pid     : 3747\ncycles_done    : 1\nexecs_done     : 7762889\nexecs_per_sec  : 892.86\npaths_total    : 224\npaths_favored  : 51\npaths_found    : 223\npaths_imported : 0\nmax_depth      : 13\ncur_path       : 199\npending_favs   : 20\npending_total  : 136\nvariable_paths : 0\nbitmap_cvg     : 0.87%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499957673\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Board_Game/input -o /dev/shm/work/Board_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Board_Game/Board_Game.dict -- data/linux/processed-challenges/Board_Game/bin/Board_Game\n'
+p139
+I6
+tp140
+a(I8400
+S'start_time     : 1499949539\nlast_update    : 1499957894\nfuzzer_pid     : 3747\ncycles_done    : 1\nexecs_done     : 7865324\nexecs_per_sec  : 893.28\npaths_total    : 231\npaths_favored  : 51\npaths_found    : 230\npaths_imported : 0\nmax_depth      : 13\ncur_path       : 200\npending_favs   : 20\npending_total  : 142\nvariable_paths : 0\nbitmap_cvg     : 0.88%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499957859\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Board_Game/input -o /dev/shm/work/Board_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Board_Game/Board_Game.dict -- data/linux/processed-challenges/Board_Game/bin/Board_Game\n'
+p141
+I2
+tp142
+a(I8520
+S'start_time     : 1499949539\nlast_update    : 1499958015\nfuzzer_pid     : 3747\ncycles_done    : 1\nexecs_done     : 7968415\nexecs_per_sec  : 879.15\npaths_total    : 232\npaths_favored  : 52\npaths_found    : 231\npaths_imported : 0\nmax_depth      : 13\ncur_path       : 201\npending_favs   : 20\npending_total  : 142\nvariable_paths : 0\nbitmap_cvg     : 0.88%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499957930\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Board_Game/input -o /dev/shm/work/Board_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Board_Game/Board_Game.dict -- data/linux/processed-challenges/Board_Game/bin/Board_Game\n'
+p143
+I3
+tp144
+a(I8640
+S'start_time     : 1499949539\nlast_update    : 1499958135\nfuzzer_pid     : 3747\ncycles_done    : 1\nexecs_done     : 8071543\nexecs_per_sec  : 880.11\npaths_total    : 236\npaths_favored  : 52\npaths_found    : 235\npaths_imported : 0\nmax_depth      : 13\ncur_path       : 202\npending_favs   : 19\npending_total  : 145\nvariable_paths : 0\nbitmap_cvg     : 0.88%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499958094\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Board_Game/input -o /dev/shm/work/Board_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Board_Game/Board_Game.dict -- data/linux/processed-challenges/Board_Game/bin/Board_Game\n'
+p145
+I1
+tp146
+a(I8760
+S'start_time     : 1499949539\nlast_update    : 1499958255\nfuzzer_pid     : 3747\ncycles_done    : 1\nexecs_done     : 8179170\nexecs_per_sec  : 928.33\npaths_total    : 237\npaths_favored  : 53\npaths_found    : 236\npaths_imported : 0\nmax_depth      : 13\ncur_path       : 203\npending_favs   : 20\npending_total  : 145\nvariable_paths : 0\nbitmap_cvg     : 0.88%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499958223\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Board_Game/input -o /dev/shm/work/Board_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Board_Game/Board_Game.dict -- data/linux/processed-challenges/Board_Game/bin/Board_Game\n'
+p147
+I2
+tp148
+a(I8880
+S'start_time     : 1499949539\nlast_update    : 1499958375\nfuzzer_pid     : 3747\ncycles_done    : 1\nexecs_done     : 8296518\nexecs_per_sec  : 903.33\npaths_total    : 238\npaths_favored  : 54\npaths_found    : 237\npaths_imported : 0\nmax_depth      : 13\ncur_path       : 205\npending_favs   : 19\npending_total  : 144\nvariable_paths : 0\nbitmap_cvg     : 0.89%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499958296\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Board_Game/input -o /dev/shm/work/Board_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Board_Game/Board_Game.dict -- data/linux/processed-challenges/Board_Game/bin/Board_Game\n'
+p149
+I1
+tp150
+a(I9000
+S'start_time     : 1499949539\nlast_update    : 1499958495\nfuzzer_pid     : 3747\ncycles_done    : 1\nexecs_done     : 8414710\nexecs_per_sec  : 991.34\npaths_total    : 239\npaths_favored  : 55\npaths_found    : 238\npaths_imported : 0\nmax_depth      : 13\ncur_path       : 206\npending_favs   : 19\npending_total  : 144\nvariable_paths : 0\nbitmap_cvg     : 0.89%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499958390\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Board_Game/input -o /dev/shm/work/Board_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Board_Game/Board_Game.dict -- data/linux/processed-challenges/Board_Game/bin/Board_Game\n'
+p151
+I1
+tp152
+a(I9120
+S'start_time     : 1499949539\nlast_update    : 1499958616\nfuzzer_pid     : 3747\ncycles_done    : 1\nexecs_done     : 8534877\nexecs_per_sec  : 1010.22\npaths_total    : 241\npaths_favored  : 56\npaths_found    : 240\npaths_imported : 0\nmax_depth      : 13\ncur_path       : 207\npending_favs   : 19\npending_total  : 145\nvariable_paths : 0\nbitmap_cvg     : 0.89%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499958611\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Board_Game/input -o /dev/shm/work/Board_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Board_Game/Board_Game.dict -- data/linux/processed-challenges/Board_Game/bin/Board_Game\n'
+p153
+I1
+tp154
+a(I9240
+S'start_time     : 1499949539\nlast_update    : 1499958736\nfuzzer_pid     : 3747\ncycles_done    : 1\nexecs_done     : 8655710\nexecs_per_sec  : 1031.32\npaths_total    : 245\npaths_favored  : 57\npaths_found    : 244\npaths_imported : 0\nmax_depth      : 13\ncur_path       : 208\npending_favs   : 19\npending_total  : 148\nvariable_paths : 0\nbitmap_cvg     : 0.90%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499958722\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Board_Game/input -o /dev/shm/work/Board_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Board_Game/Board_Game.dict -- data/linux/processed-challenges/Board_Game/bin/Board_Game\n'
+p155
+I5
+tp156
+a(I9360
+S'start_time     : 1499949539\nlast_update    : 1499958856\nfuzzer_pid     : 3747\ncycles_done    : 1\nexecs_done     : 8766178\nexecs_per_sec  : 895.96\npaths_total    : 247\npaths_favored  : 60\npaths_found    : 246\npaths_imported : 0\nmax_depth      : 14\ncur_path       : 212\npending_favs   : 21\npending_total  : 149\nvariable_paths : 0\nbitmap_cvg     : 0.90%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499958854\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Board_Game/input -o /dev/shm/work/Board_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Board_Game/Board_Game.dict -- data/linux/processed-challenges/Board_Game/bin/Board_Game\n'
+p157
+I2
+tp158
+a(I9480
+S'start_time     : 1499949539\nlast_update    : 1499958976\nfuzzer_pid     : 3747\ncycles_done    : 1\nexecs_done     : 8870133\nexecs_per_sec  : 890.79\npaths_total    : 248\npaths_favored  : 62\npaths_found    : 247\npaths_imported : 0\nmax_depth      : 14\ncur_path       : 213\npending_favs   : 22\npending_total  : 149\nvariable_paths : 0\nbitmap_cvg     : 0.91%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499958910\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Board_Game/input -o /dev/shm/work/Board_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Board_Game/Board_Game.dict -- data/linux/processed-challenges/Board_Game/bin/Board_Game\n'
+p159
+I0
+tp160
+a(I9600
+S'start_time     : 1499949539\nlast_update    : 1499959097\nfuzzer_pid     : 3747\ncycles_done    : 1\nexecs_done     : 8972803\nexecs_per_sec  : 884.68\npaths_total    : 250\npaths_favored  : 63\npaths_found    : 249\npaths_imported : 0\nmax_depth      : 14\ncur_path       : 215\npending_favs   : 22\npending_total  : 150\nvariable_paths : 0\nbitmap_cvg     : 0.91%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499959042\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Board_Game/input -o /dev/shm/work/Board_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Board_Game/Board_Game.dict -- data/linux/processed-challenges/Board_Game/bin/Board_Game\n'
+p161
+I2
+tp162
+a(I9720
+S'start_time     : 1499949539\nlast_update    : 1499959217\nfuzzer_pid     : 3747\ncycles_done    : 1\nexecs_done     : 9079897\nexecs_per_sec  : 829.13\npaths_total    : 250\npaths_favored  : 63\npaths_found    : 249\npaths_imported : 0\nmax_depth      : 14\ncur_path       : 216\npending_favs   : 21\npending_total  : 149\nvariable_paths : 0\nbitmap_cvg     : 0.91%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499959042\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Board_Game/input -o /dev/shm/work/Board_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Board_Game/Board_Game.dict -- data/linux/processed-challenges/Board_Game/bin/Board_Game\n'
+p163
+I1
+tp164
+a(I9840
+S'start_time     : 1499949539\nlast_update    : 1499959337\nfuzzer_pid     : 3747\ncycles_done    : 1\nexecs_done     : 9185196\nexecs_per_sec  : 898.85\npaths_total    : 252\npaths_favored  : 63\npaths_found    : 251\npaths_imported : 0\nmax_depth      : 14\ncur_path       : 216\npending_favs   : 21\npending_total  : 151\nvariable_paths : 0\nbitmap_cvg     : 0.91%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499959289\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Board_Game/input -o /dev/shm/work/Board_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Board_Game/Board_Game.dict -- data/linux/processed-challenges/Board_Game/bin/Board_Game\n'
+p165
+I2
+tp166
+a(I9960
+S'start_time     : 1499949539\nlast_update    : 1499959457\nfuzzer_pid     : 3747\ncycles_done    : 1\nexecs_done     : 9291677\nexecs_per_sec  : 783.15\npaths_total    : 253\npaths_favored  : 63\npaths_found    : 252\npaths_imported : 0\nmax_depth      : 14\ncur_path       : 218\npending_favs   : 21\npending_total  : 151\nvariable_paths : 0\nbitmap_cvg     : 0.91%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499959346\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Board_Game/input -o /dev/shm/work/Board_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Board_Game/Board_Game.dict -- data/linux/processed-challenges/Board_Game/bin/Board_Game\n'
+p167
+I0
+tp168
+a(I10080
+S'start_time     : 1499949539\nlast_update    : 1499959578\nfuzzer_pid     : 3747\ncycles_done    : 1\nexecs_done     : 9395238\nexecs_per_sec  : 919.24\npaths_total    : 253\npaths_favored  : 63\npaths_found    : 252\npaths_imported : 0\nmax_depth      : 14\ncur_path       : 219\npending_favs   : 20\npending_total  : 150\nvariable_paths : 0\nbitmap_cvg     : 0.91%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499959346\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Board_Game/input -o /dev/shm/work/Board_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Board_Game/Board_Game.dict -- data/linux/processed-challenges/Board_Game/bin/Board_Game\n'
+p169
+I6
+tp170
+a(I10200
+S'start_time     : 1499949539\nlast_update    : 1499959698\nfuzzer_pid     : 3747\ncycles_done    : 1\nexecs_done     : 9487430\nexecs_per_sec  : 814.83\npaths_total    : 260\npaths_favored  : 63\npaths_found    : 259\npaths_imported : 0\nmax_depth      : 14\ncur_path       : 220\npending_favs   : 19\npending_total  : 156\nvariable_paths : 0\nbitmap_cvg     : 0.92%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499959675\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Board_Game/input -o /dev/shm/work/Board_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Board_Game/Board_Game.dict -- data/linux/processed-challenges/Board_Game/bin/Board_Game\n'
+p171
+I1
+tp172
+a(I10320
+S'start_time     : 1499949539\nlast_update    : 1499959818\nfuzzer_pid     : 3747\ncycles_done    : 1\nexecs_done     : 9584560\nexecs_per_sec  : 813.89\npaths_total    : 261\npaths_favored  : 66\npaths_found    : 260\npaths_imported : 0\nmax_depth      : 14\ncur_path       : 221\npending_favs   : 23\npending_total  : 156\nvariable_paths : 0\nbitmap_cvg     : 0.92%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499959793\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Board_Game/input -o /dev/shm/work/Board_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Board_Game/Board_Game.dict -- data/linux/processed-challenges/Board_Game/bin/Board_Game\n'
+p173
+I2
+tp174
+a(I10440
+S'start_time     : 1499949539\nlast_update    : 1499959938\nfuzzer_pid     : 3747\ncycles_done    : 1\nexecs_done     : 9689890\nexecs_per_sec  : 913.67\npaths_total    : 262\npaths_favored  : 66\npaths_found    : 261\npaths_imported : 0\nmax_depth      : 14\ncur_path       : 221\npending_favs   : 23\npending_total  : 157\nvariable_paths : 0\nbitmap_cvg     : 0.92%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499959865\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Board_Game/input -o /dev/shm/work/Board_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Board_Game/Board_Game.dict -- data/linux/processed-challenges/Board_Game/bin/Board_Game\n'
+p175
+I2
+tp176
+a(I10560
+S'start_time     : 1499949539\nlast_update    : 1499960058\nfuzzer_pid     : 3747\ncycles_done    : 1\nexecs_done     : 9794769\nexecs_per_sec  : 875.34\npaths_total    : 265\npaths_favored  : 66\npaths_found    : 264\npaths_imported : 0\nmax_depth      : 14\ncur_path       : 222\npending_favs   : 23\npending_total  : 159\nvariable_paths : 0\nbitmap_cvg     : 0.92%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499960021\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Board_Game/input -o /dev/shm/work/Board_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Board_Game/Board_Game.dict -- data/linux/processed-challenges/Board_Game/bin/Board_Game\n'
+p177
+I1
+tp178
+a(I10680
+S'start_time     : 1499949539\nlast_update    : 1499960178\nfuzzer_pid     : 3747\ncycles_done    : 1\nexecs_done     : 9899935\nexecs_per_sec  : 705.72\npaths_total    : 266\npaths_favored  : 66\npaths_found    : 265\npaths_imported : 0\nmax_depth      : 14\ncur_path       : 223\npending_favs   : 23\npending_total  : 159\nvariable_paths : 0\nbitmap_cvg     : 0.92%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499960177\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Board_Game/input -o /dev/shm/work/Board_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Board_Game/Board_Game.dict -- data/linux/processed-challenges/Board_Game/bin/Board_Game\n'
+p179
+I2
+tp180
+a.

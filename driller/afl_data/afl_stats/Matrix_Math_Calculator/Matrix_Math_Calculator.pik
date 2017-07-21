@@ -1,0 +1,452 @@
+(lp0
+(I0
+S'start_time     : 1500284980\nlast_update    : 1500284980\nfuzzer_pid     : 16871\ncycles_done    : 0\nexecs_done     : 10\nexecs_per_sec  : 163.93\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 1\npending_total  : 1\nvariable_paths : 0\nbitmap_cvg     : 0.30%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Matrix_Math_Calculator/input -o /dev/shm/work/Matrix_Math_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Matrix_Math_Calculator/Matrix_Math_Calculator.dict -- data/linux/processed-challenges/Matrix_Math_Calculator/bin/Matrix_Math_Calculator\n'
+p1
+I20
+tp2
+a(I120
+S'start_time     : 1500284980\nlast_update    : 1500285100\nfuzzer_pid     : 16871\ncycles_done    : 0\nexecs_done     : 100790\nexecs_per_sec  : 832.22\npaths_total    : 38\npaths_favored  : 1\npaths_found    : 37\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 1\npending_total  : 38\nvariable_paths : 0\nbitmap_cvg     : 0.75%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500285083\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Matrix_Math_Calculator/input -o /dev/shm/work/Matrix_Math_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Matrix_Math_Calculator/Matrix_Math_Calculator.dict -- data/linux/processed-challenges/Matrix_Math_Calculator/bin/Matrix_Math_Calculator\n'
+p3
+I18
+tp4
+a(I240
+S'start_time     : 1500284980\nlast_update    : 1500285220\nfuzzer_pid     : 16871\ncycles_done    : 0\nexecs_done     : 200109\nexecs_per_sec  : 816.94\npaths_total    : 66\npaths_favored  : 25\npaths_found    : 65\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 10\npending_favs   : 24\npending_total  : 64\nvariable_paths : 0\nbitmap_cvg     : 1.21%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500285218\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Matrix_Math_Calculator/input -o /dev/shm/work/Matrix_Math_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Matrix_Math_Calculator/Matrix_Math_Calculator.dict -- data/linux/processed-challenges/Matrix_Math_Calculator/bin/Matrix_Math_Calculator\n'
+p5
+I31
+tp6
+a(I360
+S'start_time     : 1500284980\nlast_update    : 1500285341\nfuzzer_pid     : 16871\ncycles_done    : 0\nexecs_done     : 297909\nexecs_per_sec  : 804.47\npaths_total    : 86\npaths_favored  : 25\npaths_found    : 85\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 10\npending_favs   : 24\npending_total  : 84\nvariable_paths : 0\nbitmap_cvg     : 1.31%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500285339\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Matrix_Math_Calculator/input -o /dev/shm/work/Matrix_Math_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Matrix_Math_Calculator/Matrix_Math_Calculator.dict -- data/linux/processed-challenges/Matrix_Math_Calculator/bin/Matrix_Math_Calculator\n'
+p7
+I17
+tp8
+a(I480
+S'start_time     : 1500284980\nlast_update    : 1500285461\nfuzzer_pid     : 16871\ncycles_done    : 0\nexecs_done     : 395736\nexecs_per_sec  : 812.12\npaths_total    : 96\npaths_favored  : 31\npaths_found    : 95\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 27\npending_favs   : 28\npending_total  : 91\nvariable_paths : 0\nbitmap_cvg     : 1.32%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500285460\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Matrix_Math_Calculator/input -o /dev/shm/work/Matrix_Math_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Matrix_Math_Calculator/Matrix_Math_Calculator.dict -- data/linux/processed-challenges/Matrix_Math_Calculator/bin/Matrix_Math_Calculator\n'
+p9
+I10
+tp10
+a(I600
+S'start_time     : 1500284980\nlast_update    : 1500285581\nfuzzer_pid     : 16871\ncycles_done    : 0\nexecs_done     : 489222\nexecs_per_sec  : 515.18\npaths_total    : 110\npaths_favored  : 35\npaths_found    : 109\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 30\npending_favs   : 33\npending_total  : 104\nvariable_paths : 0\nbitmap_cvg     : 1.50%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500285579\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Matrix_Math_Calculator/input -o /dev/shm/work/Matrix_Math_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Matrix_Math_Calculator/Matrix_Math_Calculator.dict -- data/linux/processed-challenges/Matrix_Math_Calculator/bin/Matrix_Math_Calculator\n'
+p11
+I14
+tp12
+a(I720
+S'start_time     : 1500284980\nlast_update    : 1500285701\nfuzzer_pid     : 16871\ncycles_done    : 0\nexecs_done     : 571015\nexecs_per_sec  : 699.22\npaths_total    : 142\npaths_favored  : 35\npaths_found    : 141\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 30\npending_favs   : 33\npending_total  : 136\nvariable_paths : 0\nbitmap_cvg     : 1.62%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500285695\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Matrix_Math_Calculator/input -o /dev/shm/work/Matrix_Math_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Matrix_Math_Calculator/Matrix_Math_Calculator.dict -- data/linux/processed-challenges/Matrix_Math_Calculator/bin/Matrix_Math_Calculator\n'
+p13
+I32
+tp14
+a(I840
+S'start_time     : 1500284980\nlast_update    : 1500285822\nfuzzer_pid     : 16871\ncycles_done    : 0\nexecs_done     : 659013\nexecs_per_sec  : 765.86\npaths_total    : 149\npaths_favored  : 49\npaths_found    : 148\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 45\npending_favs   : 44\npending_total  : 138\nvariable_paths : 0\nbitmap_cvg     : 1.65%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500285814\nlast_crash     : 0\nlast_hang      : 1500285741\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Matrix_Math_Calculator/input -o /dev/shm/work/Matrix_Math_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Matrix_Math_Calculator/Matrix_Math_Calculator.dict -- data/linux/processed-challenges/Matrix_Math_Calculator/bin/Matrix_Math_Calculator\n'
+p15
+I7
+tp16
+a(I960
+S'start_time     : 1500284980\nlast_update    : 1500285942\nfuzzer_pid     : 16871\ncycles_done    : 0\nexecs_done     : 752787\nexecs_per_sec  : 779.29\npaths_total    : 156\npaths_favored  : 50\npaths_found    : 155\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 56\npending_favs   : 42\npending_total  : 141\nvariable_paths : 0\nbitmap_cvg     : 1.67%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500285939\nlast_crash     : 0\nlast_hang      : 1500285741\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Matrix_Math_Calculator/input -o /dev/shm/work/Matrix_Math_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Matrix_Math_Calculator/Matrix_Math_Calculator.dict -- data/linux/processed-challenges/Matrix_Math_Calculator/bin/Matrix_Math_Calculator\n'
+p17
+I8
+tp18
+a(I1080
+S'start_time     : 1500284980\nlast_update    : 1500286062\nfuzzer_pid     : 16871\ncycles_done    : 0\nexecs_done     : 846912\nexecs_per_sec  : 783.28\npaths_total    : 165\npaths_favored  : 50\npaths_found    : 164\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 56\npending_favs   : 42\npending_total  : 150\nvariable_paths : 0\nbitmap_cvg     : 1.67%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500286051\nlast_crash     : 0\nlast_hang      : 1500285741\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Matrix_Math_Calculator/input -o /dev/shm/work/Matrix_Math_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Matrix_Math_Calculator/Matrix_Math_Calculator.dict -- data/linux/processed-challenges/Matrix_Math_Calculator/bin/Matrix_Math_Calculator\n'
+p19
+I8
+tp20
+a(I1200
+S'start_time     : 1500284980\nlast_update    : 1500286182\nfuzzer_pid     : 16871\ncycles_done    : 0\nexecs_done     : 941353\nexecs_per_sec  : 766.58\npaths_total    : 169\npaths_favored  : 56\npaths_found    : 168\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 68\npending_favs   : 47\npending_total  : 152\nvariable_paths : 0\nbitmap_cvg     : 1.67%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500286153\nlast_crash     : 0\nlast_hang      : 1500285741\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Matrix_Math_Calculator/input -o /dev/shm/work/Matrix_Math_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Matrix_Math_Calculator/Matrix_Math_Calculator.dict -- data/linux/processed-challenges/Matrix_Math_Calculator/bin/Matrix_Math_Calculator\n'
+p21
+I4
+tp22
+a(I1320
+S'start_time     : 1500284980\nlast_update    : 1500286302\nfuzzer_pid     : 16871\ncycles_done    : 0\nexecs_done     : 1028196\nexecs_per_sec  : 712.90\npaths_total    : 175\npaths_favored  : 56\npaths_found    : 174\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 76\npending_favs   : 46\npending_total  : 156\nvariable_paths : 0\nbitmap_cvg     : 1.68%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500286293\nlast_crash     : 0\nlast_hang      : 1500285741\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Matrix_Math_Calculator/input -o /dev/shm/work/Matrix_Math_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Matrix_Math_Calculator/Matrix_Math_Calculator.dict -- data/linux/processed-challenges/Matrix_Math_Calculator/bin/Matrix_Math_Calculator\n'
+p23
+I6
+tp24
+a(I1440
+S'start_time     : 1500284980\nlast_update    : 1500286422\nfuzzer_pid     : 16871\ncycles_done    : 0\nexecs_done     : 1115566\nexecs_per_sec  : 738.34\npaths_total    : 183\npaths_favored  : 56\npaths_found    : 182\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 76\npending_favs   : 46\npending_total  : 164\nvariable_paths : 0\nbitmap_cvg     : 1.71%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500286402\nlast_crash     : 0\nlast_hang      : 1500285741\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Matrix_Math_Calculator/input -o /dev/shm/work/Matrix_Math_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Matrix_Math_Calculator/Matrix_Math_Calculator.dict -- data/linux/processed-challenges/Matrix_Math_Calculator/bin/Matrix_Math_Calculator\n'
+p25
+I8
+tp26
+a(I1560
+S'start_time     : 1500284980\nlast_update    : 1500286543\nfuzzer_pid     : 16871\ncycles_done    : 0\nexecs_done     : 1198844\nexecs_per_sec  : 607.63\npaths_total    : 192\npaths_favored  : 53\npaths_found    : 191\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 85\npending_favs   : 43\npending_total  : 171\nvariable_paths : 0\nbitmap_cvg     : 1.72%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500286536\nlast_crash     : 0\nlast_hang      : 1500285741\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Matrix_Math_Calculator/input -o /dev/shm/work/Matrix_Math_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Matrix_Math_Calculator/Matrix_Math_Calculator.dict -- data/linux/processed-challenges/Matrix_Math_Calculator/bin/Matrix_Math_Calculator\n'
+p27
+I9
+tp28
+a(I1680
+S'start_time     : 1500284980\nlast_update    : 1500286663\nfuzzer_pid     : 16871\ncycles_done    : 0\nexecs_done     : 1272718\nexecs_per_sec  : 656.75\npaths_total    : 204\npaths_favored  : 53\npaths_found    : 202\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 85\npending_favs   : 43\npending_total  : 183\nvariable_paths : 0\nbitmap_cvg     : 1.73%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500286663\nlast_crash     : 0\nlast_hang      : 1500285741\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Matrix_Math_Calculator/input -o /dev/shm/work/Matrix_Math_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Matrix_Math_Calculator/Matrix_Math_Calculator.dict -- data/linux/processed-challenges/Matrix_Math_Calculator/bin/Matrix_Math_Calculator\n'
+p29
+I12
+tp30
+a(I1800
+S'start_time     : 1500284980\nlast_update    : 1500286783\nfuzzer_pid     : 16871\ncycles_done    : 0\nexecs_done     : 1351460\nexecs_per_sec  : 680.79\npaths_total    : 218\npaths_favored  : 61\npaths_found    : 217\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 87\npending_favs   : 51\npending_total  : 196\nvariable_paths : 0\nbitmap_cvg     : 1.74%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500286778\nlast_crash     : 0\nlast_hang      : 1500285741\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Matrix_Math_Calculator/input -o /dev/shm/work/Matrix_Math_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Matrix_Math_Calculator/Matrix_Math_Calculator.dict -- data/linux/processed-challenges/Matrix_Math_Calculator/bin/Matrix_Math_Calculator\n'
+p31
+I14
+tp32
+a(I1920
+S'start_time     : 1500284980\nlast_update    : 1500286903\nfuzzer_pid     : 16871\ncycles_done    : 0\nexecs_done     : 1446503\nexecs_per_sec  : 779.89\npaths_total    : 226\npaths_favored  : 63\npaths_found    : 225\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 90\npending_favs   : 50\npending_total  : 202\nvariable_paths : 0\nbitmap_cvg     : 1.75%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500286901\nlast_crash     : 0\nlast_hang      : 1500285741\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Matrix_Math_Calculator/input -o /dev/shm/work/Matrix_Math_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Matrix_Math_Calculator/Matrix_Math_Calculator.dict -- data/linux/processed-challenges/Matrix_Math_Calculator/bin/Matrix_Math_Calculator\n'
+p33
+I8
+tp34
+a(I2040
+S'start_time     : 1500284980\nlast_update    : 1500287023\nfuzzer_pid     : 16871\ncycles_done    : 0\nexecs_done     : 1542730\nexecs_per_sec  : 816.79\npaths_total    : 230\npaths_favored  : 63\npaths_found    : 229\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 90\npending_favs   : 50\npending_total  : 206\nvariable_paths : 0\nbitmap_cvg     : 1.75%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500286941\nlast_crash     : 0\nlast_hang      : 1500285741\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Matrix_Math_Calculator/input -o /dev/shm/work/Matrix_Math_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Matrix_Math_Calculator/Matrix_Math_Calculator.dict -- data/linux/processed-challenges/Matrix_Math_Calculator/bin/Matrix_Math_Calculator\n'
+p35
+I4
+tp36
+a(I2160
+S'start_time     : 1500284980\nlast_update    : 1500287143\nfuzzer_pid     : 16871\ncycles_done    : 0\nexecs_done     : 1636025\nexecs_per_sec  : 748.28\npaths_total    : 232\npaths_favored  : 63\npaths_found    : 231\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 97\npending_favs   : 48\npending_total  : 204\nvariable_paths : 0\nbitmap_cvg     : 1.75%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500287127\nlast_crash     : 0\nlast_hang      : 1500285741\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Matrix_Math_Calculator/input -o /dev/shm/work/Matrix_Math_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Matrix_Math_Calculator/Matrix_Math_Calculator.dict -- data/linux/processed-challenges/Matrix_Math_Calculator/bin/Matrix_Math_Calculator\n'
+p37
+I2
+tp38
+a(I2280
+S'start_time     : 1500284980\nlast_update    : 1500287264\nfuzzer_pid     : 16871\ncycles_done    : 0\nexecs_done     : 1720996\nexecs_per_sec  : 728.92\npaths_total    : 244\npaths_favored  : 63\npaths_found    : 243\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 102\npending_favs   : 45\npending_total  : 213\nvariable_paths : 0\nbitmap_cvg     : 1.77%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500287258\nlast_crash     : 0\nlast_hang      : 1500285741\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Matrix_Math_Calculator/input -o /dev/shm/work/Matrix_Math_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Matrix_Math_Calculator/Matrix_Math_Calculator.dict -- data/linux/processed-challenges/Matrix_Math_Calculator/bin/Matrix_Math_Calculator\n'
+p39
+I12
+tp40
+a(I2400
+S'start_time     : 1500284980\nlast_update    : 1500287384\nfuzzer_pid     : 16871\ncycles_done    : 0\nexecs_done     : 1802334\nexecs_per_sec  : 478.76\npaths_total    : 256\npaths_favored  : 64\npaths_found    : 255\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 113\npending_favs   : 45\npending_total  : 224\nvariable_paths : 0\nbitmap_cvg     : 1.79%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500287382\nlast_crash     : 0\nlast_hang      : 1500285741\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Matrix_Math_Calculator/input -o /dev/shm/work/Matrix_Math_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Matrix_Math_Calculator/Matrix_Math_Calculator.dict -- data/linux/processed-challenges/Matrix_Math_Calculator/bin/Matrix_Math_Calculator\n'
+p41
+I12
+tp42
+a(I2520
+S'start_time     : 1500284980\nlast_update    : 1500287504\nfuzzer_pid     : 16871\ncycles_done    : 0\nexecs_done     : 1874310\nexecs_per_sec  : 632.21\npaths_total    : 287\npaths_favored  : 64\npaths_found    : 286\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 113\npending_favs   : 45\npending_total  : 255\nvariable_paths : 0\nbitmap_cvg     : 1.82%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500287494\nlast_crash     : 0\nlast_hang      : 1500285741\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Matrix_Math_Calculator/input -o /dev/shm/work/Matrix_Math_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Matrix_Math_Calculator/Matrix_Math_Calculator.dict -- data/linux/processed-challenges/Matrix_Math_Calculator/bin/Matrix_Math_Calculator\n'
+p43
+I31
+tp44
+a(I2640
+S'start_time     : 1500284980\nlast_update    : 1500287624\nfuzzer_pid     : 16871\ncycles_done    : 0\nexecs_done     : 1950412\nexecs_per_sec  : 633.51\npaths_total    : 294\npaths_favored  : 64\npaths_found    : 293\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 113\npending_favs   : 45\npending_total  : 262\nvariable_paths : 0\nbitmap_cvg     : 1.82%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500287579\nlast_crash     : 0\nlast_hang      : 1500285741\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Matrix_Math_Calculator/input -o /dev/shm/work/Matrix_Math_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Matrix_Math_Calculator/Matrix_Math_Calculator.dict -- data/linux/processed-challenges/Matrix_Math_Calculator/bin/Matrix_Math_Calculator\n'
+p45
+I7
+tp46
+a(I2760
+S'start_time     : 1500284980\nlast_update    : 1500287744\nfuzzer_pid     : 16871\ncycles_done    : 0\nexecs_done     : 2025943\nexecs_per_sec  : 408.26\npaths_total    : 295\npaths_favored  : 75\npaths_found    : 294\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 123\npending_favs   : 56\npending_total  : 260\nvariable_paths : 0\nbitmap_cvg     : 1.82%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500287679\nlast_crash     : 0\nlast_hang      : 1500285741\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Matrix_Math_Calculator/input -o /dev/shm/work/Matrix_Math_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Matrix_Math_Calculator/Matrix_Math_Calculator.dict -- data/linux/processed-challenges/Matrix_Math_Calculator/bin/Matrix_Math_Calculator\n'
+p47
+I1
+tp48
+a(I2880
+S'start_time     : 1500284980\nlast_update    : 1500287864\nfuzzer_pid     : 16871\ncycles_done    : 0\nexecs_done     : 2089770\nexecs_per_sec  : 580.02\npaths_total    : 305\npaths_favored  : 75\npaths_found    : 304\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 123\npending_favs   : 56\npending_total  : 270\nvariable_paths : 0\nbitmap_cvg     : 1.96%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500287838\nlast_crash     : 0\nlast_hang      : 1500285741\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Matrix_Math_Calculator/input -o /dev/shm/work/Matrix_Math_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Matrix_Math_Calculator/Matrix_Math_Calculator.dict -- data/linux/processed-challenges/Matrix_Math_Calculator/bin/Matrix_Math_Calculator\n'
+p49
+I10
+tp50
+a(I3000
+S'start_time     : 1500284980\nlast_update    : 1500287984\nfuzzer_pid     : 16871\ncycles_done    : 0\nexecs_done     : 2159669\nexecs_per_sec  : 585.52\npaths_total    : 311\npaths_favored  : 75\npaths_found    : 310\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 123\npending_favs   : 56\npending_total  : 276\nvariable_paths : 0\nbitmap_cvg     : 1.97%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500287972\nlast_crash     : 0\nlast_hang      : 1500285741\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Matrix_Math_Calculator/input -o /dev/shm/work/Matrix_Math_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Matrix_Math_Calculator/Matrix_Math_Calculator.dict -- data/linux/processed-challenges/Matrix_Math_Calculator/bin/Matrix_Math_Calculator\n'
+p51
+I6
+tp52
+a(I3120
+S'start_time     : 1500284980\nlast_update    : 1500288105\nfuzzer_pid     : 16871\ncycles_done    : 0\nexecs_done     : 2235073\nexecs_per_sec  : 749.11\npaths_total    : 322\npaths_favored  : 80\npaths_found    : 321\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 130\npending_favs   : 61\npending_total  : 286\nvariable_paths : 0\nbitmap_cvg     : 1.98%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500288093\nlast_crash     : 0\nlast_hang      : 1500285741\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Matrix_Math_Calculator/input -o /dev/shm/work/Matrix_Math_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Matrix_Math_Calculator/Matrix_Math_Calculator.dict -- data/linux/processed-challenges/Matrix_Math_Calculator/bin/Matrix_Math_Calculator\n'
+p53
+I11
+tp54
+a(I3240
+S'start_time     : 1500284980\nlast_update    : 1500288225\nfuzzer_pid     : 16871\ncycles_done    : 0\nexecs_done     : 2324773\nexecs_per_sec  : 741.26\npaths_total    : 325\npaths_favored  : 80\npaths_found    : 324\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 130\npending_favs   : 61\npending_total  : 289\nvariable_paths : 0\nbitmap_cvg     : 1.98%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500288136\nlast_crash     : 0\nlast_hang      : 1500285741\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Matrix_Math_Calculator/input -o /dev/shm/work/Matrix_Math_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Matrix_Math_Calculator/Matrix_Math_Calculator.dict -- data/linux/processed-challenges/Matrix_Math_Calculator/bin/Matrix_Math_Calculator\n'
+p55
+I3
+tp56
+a(I3360
+S'start_time     : 1500284980\nlast_update    : 1500288345\nfuzzer_pid     : 16871\ncycles_done    : 0\nexecs_done     : 2406838\nexecs_per_sec  : 637.46\npaths_total    : 326\npaths_favored  : 84\npaths_found    : 325\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 132\npending_favs   : 64\npending_total  : 289\nvariable_paths : 0\nbitmap_cvg     : 1.98%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500288267\nlast_crash     : 0\nlast_hang      : 1500285741\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Matrix_Math_Calculator/input -o /dev/shm/work/Matrix_Math_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Matrix_Math_Calculator/Matrix_Math_Calculator.dict -- data/linux/processed-challenges/Matrix_Math_Calculator/bin/Matrix_Math_Calculator\n'
+p57
+I1
+tp58
+a(I3480
+S'start_time     : 1500284980\nlast_update    : 1500288465\nfuzzer_pid     : 16871\ncycles_done    : 0\nexecs_done     : 2471087\nexecs_per_sec  : 378.99\npaths_total    : 329\npaths_favored  : 84\npaths_found    : 328\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 144\npending_favs   : 62\npending_total  : 289\nvariable_paths : 0\nbitmap_cvg     : 2.00%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500288432\nlast_crash     : 0\nlast_hang      : 1500285741\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Matrix_Math_Calculator/input -o /dev/shm/work/Matrix_Math_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Matrix_Math_Calculator/Matrix_Math_Calculator.dict -- data/linux/processed-challenges/Matrix_Math_Calculator/bin/Matrix_Math_Calculator\n'
+p59
+I3
+tp60
+a(I3600
+S'start_time     : 1500284980\nlast_update    : 1500288586\nfuzzer_pid     : 16871\ncycles_done    : 0\nexecs_done     : 2554886\nexecs_per_sec  : 767.15\npaths_total    : 332\npaths_favored  : 87\npaths_found    : 331\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 152\npending_favs   : 61\npending_total  : 288\nvariable_paths : 0\nbitmap_cvg     : 2.00%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500288557\nlast_crash     : 0\nlast_hang      : 1500285741\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Matrix_Math_Calculator/input -o /dev/shm/work/Matrix_Math_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Matrix_Math_Calculator/Matrix_Math_Calculator.dict -- data/linux/processed-challenges/Matrix_Math_Calculator/bin/Matrix_Math_Calculator\n'
+p61
+I3
+tp62
+a(I3720
+S'start_time     : 1500284980\nlast_update    : 1500288706\nfuzzer_pid     : 16871\ncycles_done    : 0\nexecs_done     : 2638999\nexecs_per_sec  : 696.91\npaths_total    : 332\npaths_favored  : 87\npaths_found    : 331\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 154\npending_favs   : 59\npending_total  : 286\nvariable_paths : 0\nbitmap_cvg     : 2.00%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500288557\nlast_crash     : 0\nlast_hang      : 1500285741\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Matrix_Math_Calculator/input -o /dev/shm/work/Matrix_Math_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Matrix_Math_Calculator/Matrix_Math_Calculator.dict -- data/linux/processed-challenges/Matrix_Math_Calculator/bin/Matrix_Math_Calculator\n'
+p63
+I0
+tp64
+a(I3840
+S'start_time     : 1500284980\nlast_update    : 1500288826\nfuzzer_pid     : 16871\ncycles_done    : 0\nexecs_done     : 2722537\nexecs_per_sec  : 679.05\npaths_total    : 333\npaths_favored  : 87\npaths_found    : 332\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 166\npending_favs   : 57\npending_total  : 284\nvariable_paths : 0\nbitmap_cvg     : 2.00%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500288771\nlast_crash     : 0\nlast_hang      : 1500285741\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Matrix_Math_Calculator/input -o /dev/shm/work/Matrix_Math_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Matrix_Math_Calculator/Matrix_Math_Calculator.dict -- data/linux/processed-challenges/Matrix_Math_Calculator/bin/Matrix_Math_Calculator\n'
+p65
+I1
+tp66
+a(I3960
+S'start_time     : 1500284980\nlast_update    : 1500288946\nfuzzer_pid     : 16871\ncycles_done    : 0\nexecs_done     : 2810863\nexecs_per_sec  : 677.48\npaths_total    : 334\npaths_favored  : 88\npaths_found    : 333\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 177\npending_favs   : 57\npending_total  : 283\nvariable_paths : 0\nbitmap_cvg     : 2.00%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500288861\nlast_crash     : 0\nlast_hang      : 1500285741\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Matrix_Math_Calculator/input -o /dev/shm/work/Matrix_Math_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Matrix_Math_Calculator/Matrix_Math_Calculator.dict -- data/linux/processed-challenges/Matrix_Math_Calculator/bin/Matrix_Math_Calculator\n'
+p67
+I1
+tp68
+a(I4080
+S'start_time     : 1500284980\nlast_update    : 1500289067\nfuzzer_pid     : 16871\ncycles_done    : 0\nexecs_done     : 2876225\nexecs_per_sec  : 475.73\npaths_total    : 348\npaths_favored  : 88\npaths_found    : 347\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 177\npending_favs   : 57\npending_total  : 297\nvariable_paths : 0\nbitmap_cvg     : 2.03%\nunique_crashes : 0\nunique_hangs   : 11\nlast_path      : 1500289035\nlast_crash     : 0\nlast_hang      : 1500289063\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Matrix_Math_Calculator/input -o /dev/shm/work/Matrix_Math_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Matrix_Math_Calculator/Matrix_Math_Calculator.dict -- data/linux/processed-challenges/Matrix_Math_Calculator/bin/Matrix_Math_Calculator\n'
+p69
+I14
+tp70
+a(I4200
+S'start_time     : 1500284980\nlast_update    : 1500289187\nfuzzer_pid     : 16871\ncycles_done    : 0\nexecs_done     : 2950194\nexecs_per_sec  : 617.54\npaths_total    : 355\npaths_favored  : 88\npaths_found    : 354\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 177\npending_favs   : 57\npending_total  : 304\nvariable_paths : 0\nbitmap_cvg     : 2.03%\nunique_crashes : 0\nunique_hangs   : 11\nlast_path      : 1500289180\nlast_crash     : 0\nlast_hang      : 1500289063\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Matrix_Math_Calculator/input -o /dev/shm/work/Matrix_Math_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Matrix_Math_Calculator/Matrix_Math_Calculator.dict -- data/linux/processed-challenges/Matrix_Math_Calculator/bin/Matrix_Math_Calculator\n'
+p71
+I7
+tp72
+a(I4320
+S'start_time     : 1500284980\nlast_update    : 1500289307\nfuzzer_pid     : 16871\ncycles_done    : 0\nexecs_done     : 3028479\nexecs_per_sec  : 742.88\npaths_total    : 356\npaths_favored  : 95\npaths_found    : 355\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 181\npending_favs   : 65\npending_total  : 304\nvariable_paths : 0\nbitmap_cvg     : 2.03%\nunique_crashes : 0\nunique_hangs   : 11\nlast_path      : 1500289248\nlast_crash     : 0\nlast_hang      : 1500289063\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Matrix_Math_Calculator/input -o /dev/shm/work/Matrix_Math_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Matrix_Math_Calculator/Matrix_Math_Calculator.dict -- data/linux/processed-challenges/Matrix_Math_Calculator/bin/Matrix_Math_Calculator\n'
+p73
+I1
+tp74
+a(I4440
+S'start_time     : 1500284980\nlast_update    : 1500289427\nfuzzer_pid     : 16871\ncycles_done    : 0\nexecs_done     : 3118949\nexecs_per_sec  : 754.44\npaths_total    : 365\npaths_favored  : 95\npaths_found    : 364\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 181\npending_favs   : 65\npending_total  : 313\nvariable_paths : 0\nbitmap_cvg     : 2.04%\nunique_crashes : 0\nunique_hangs   : 11\nlast_path      : 1500289402\nlast_crash     : 0\nlast_hang      : 1500289063\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Matrix_Math_Calculator/input -o /dev/shm/work/Matrix_Math_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Matrix_Math_Calculator/Matrix_Math_Calculator.dict -- data/linux/processed-challenges/Matrix_Math_Calculator/bin/Matrix_Math_Calculator\n'
+p75
+I9
+tp76
+a(I4560
+S'start_time     : 1500284980\nlast_update    : 1500289547\nfuzzer_pid     : 16871\ncycles_done    : 0\nexecs_done     : 3207613\nexecs_per_sec  : 565.48\npaths_total    : 367\npaths_favored  : 96\npaths_found    : 366\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 183\npending_favs   : 65\npending_total  : 314\nvariable_paths : 0\nbitmap_cvg     : 2.04%\nunique_crashes : 0\nunique_hangs   : 11\nlast_path      : 1500289460\nlast_crash     : 0\nlast_hang      : 1500289063\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Matrix_Math_Calculator/input -o /dev/shm/work/Matrix_Math_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Matrix_Math_Calculator/Matrix_Math_Calculator.dict -- data/linux/processed-challenges/Matrix_Math_Calculator/bin/Matrix_Math_Calculator\n'
+p77
+I2
+tp78
+a(I4680
+S'start_time     : 1500284980\nlast_update    : 1500289668\nfuzzer_pid     : 16871\ncycles_done    : 0\nexecs_done     : 3279132\nexecs_per_sec  : 600.67\npaths_total    : 371\npaths_favored  : 96\npaths_found    : 370\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 188\npending_favs   : 64\npending_total  : 317\nvariable_paths : 0\nbitmap_cvg     : 2.04%\nunique_crashes : 0\nunique_hangs   : 11\nlast_path      : 1500289645\nlast_crash     : 0\nlast_hang      : 1500289063\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Matrix_Math_Calculator/input -o /dev/shm/work/Matrix_Math_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Matrix_Math_Calculator/Matrix_Math_Calculator.dict -- data/linux/processed-challenges/Matrix_Math_Calculator/bin/Matrix_Math_Calculator\n'
+p79
+I4
+tp80
+a(I4800
+S'start_time     : 1500284980\nlast_update    : 1500289788\nfuzzer_pid     : 16871\ncycles_done    : 0\nexecs_done     : 3354483\nexecs_per_sec  : 687.65\npaths_total    : 379\npaths_favored  : 96\npaths_found    : 378\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 188\npending_favs   : 64\npending_total  : 325\nvariable_paths : 0\nbitmap_cvg     : 2.05%\nunique_crashes : 0\nunique_hangs   : 11\nlast_path      : 1500289780\nlast_crash     : 0\nlast_hang      : 1500289063\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Matrix_Math_Calculator/input -o /dev/shm/work/Matrix_Math_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Matrix_Math_Calculator/Matrix_Math_Calculator.dict -- data/linux/processed-challenges/Matrix_Math_Calculator/bin/Matrix_Math_Calculator\n'
+p81
+I8
+tp82
+a(I4920
+S'start_time     : 1500284980\nlast_update    : 1500289848\nfuzzer_pid     : 16871\ncycles_done    : 0\nexecs_done     : 3394602\nexecs_per_sec  : 681.49\npaths_total    : 383\npaths_favored  : 96\npaths_found    : 382\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 188\npending_favs   : 64\npending_total  : 329\nvariable_paths : 0\nbitmap_cvg     : 2.05%\nunique_crashes : 0\nunique_hangs   : 11\nlast_path      : 1500289824\nlast_crash     : 0\nlast_hang      : 1500289063\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Matrix_Math_Calculator/input -o /dev/shm/work/Matrix_Math_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Matrix_Math_Calculator/Matrix_Math_Calculator.dict -- data/linux/processed-challenges/Matrix_Math_Calculator/bin/Matrix_Math_Calculator\n'
+p83
+I6
+tp84
+a(I5040
+S'start_time     : 1500284980\nlast_update    : 1500289968\nfuzzer_pid     : 16871\ncycles_done    : 0\nexecs_done     : 3475333\nexecs_per_sec  : 674.51\npaths_total    : 387\npaths_favored  : 96\npaths_found    : 386\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 188\npending_favs   : 64\npending_total  : 333\nvariable_paths : 0\nbitmap_cvg     : 2.06%\nunique_crashes : 0\nunique_hangs   : 11\nlast_path      : 1500289955\nlast_crash     : 0\nlast_hang      : 1500289063\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Matrix_Math_Calculator/input -o /dev/shm/work/Matrix_Math_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Matrix_Math_Calculator/Matrix_Math_Calculator.dict -- data/linux/processed-challenges/Matrix_Math_Calculator/bin/Matrix_Math_Calculator\n'
+p85
+I2
+tp86
+a(I5160
+S'start_time     : 1500284980\nlast_update    : 1500290088\nfuzzer_pid     : 16871\ncycles_done    : 0\nexecs_done     : 3543707\nexecs_per_sec  : 628.00\npaths_total    : 387\npaths_favored  : 96\npaths_found    : 386\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 208\npending_favs   : 64\npending_total  : 332\nvariable_paths : 0\nbitmap_cvg     : 2.06%\nunique_crashes : 0\nunique_hangs   : 11\nlast_path      : 1500289955\nlast_crash     : 0\nlast_hang      : 1500289063\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Matrix_Math_Calculator/input -o /dev/shm/work/Matrix_Math_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Matrix_Math_Calculator/Matrix_Math_Calculator.dict -- data/linux/processed-challenges/Matrix_Math_Calculator/bin/Matrix_Math_Calculator\n'
+p87
+I0
+tp88
+a(I5280
+S'start_time     : 1500284980\nlast_update    : 1500290208\nfuzzer_pid     : 16871\ncycles_done    : 0\nexecs_done     : 3617992\nexecs_per_sec  : 626.48\npaths_total    : 387\npaths_favored  : 96\npaths_found    : 386\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 209\npending_favs   : 63\npending_total  : 331\nvariable_paths : 0\nbitmap_cvg     : 2.06%\nunique_crashes : 0\nunique_hangs   : 11\nlast_path      : 1500289955\nlast_crash     : 0\nlast_hang      : 1500289063\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Matrix_Math_Calculator/input -o /dev/shm/work/Matrix_Math_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Matrix_Math_Calculator/Matrix_Math_Calculator.dict -- data/linux/processed-challenges/Matrix_Math_Calculator/bin/Matrix_Math_Calculator\n'
+p89
+I4
+tp90
+a(I5400
+S'start_time     : 1500284980\nlast_update    : 1500290329\nfuzzer_pid     : 16871\ncycles_done    : 0\nexecs_done     : 3696109\nexecs_per_sec  : 652.76\npaths_total    : 392\npaths_favored  : 96\npaths_found    : 391\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 209\npending_favs   : 63\npending_total  : 336\nvariable_paths : 0\nbitmap_cvg     : 2.06%\nunique_crashes : 0\nunique_hangs   : 11\nlast_path      : 1500290274\nlast_crash     : 0\nlast_hang      : 1500289063\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Matrix_Math_Calculator/input -o /dev/shm/work/Matrix_Math_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Matrix_Math_Calculator/Matrix_Math_Calculator.dict -- data/linux/processed-challenges/Matrix_Math_Calculator/bin/Matrix_Math_Calculator\n'
+p91
+I3
+tp92
+a(I5520
+S'start_time     : 1500284980\nlast_update    : 1500290449\nfuzzer_pid     : 16871\ncycles_done    : 0\nexecs_done     : 3773670\nexecs_per_sec  : 638.35\npaths_total    : 394\npaths_favored  : 96\npaths_found    : 393\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 209\npending_favs   : 63\npending_total  : 338\nvariable_paths : 0\nbitmap_cvg     : 2.06%\nunique_crashes : 0\nunique_hangs   : 11\nlast_path      : 1500290349\nlast_crash     : 0\nlast_hang      : 1500289063\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Matrix_Math_Calculator/input -o /dev/shm/work/Matrix_Math_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Matrix_Math_Calculator/Matrix_Math_Calculator.dict -- data/linux/processed-challenges/Matrix_Math_Calculator/bin/Matrix_Math_Calculator\n'
+p93
+I0
+tp94
+a(I5640
+S'start_time     : 1500284980\nlast_update    : 1500290569\nfuzzer_pid     : 16871\ncycles_done    : 0\nexecs_done     : 3863754\nexecs_per_sec  : 794.15\npaths_total    : 401\npaths_favored  : 96\npaths_found    : 400\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 228\npending_favs   : 59\npending_total  : 341\nvariable_paths : 0\nbitmap_cvg     : 2.06%\nunique_crashes : 0\nunique_hangs   : 11\nlast_path      : 1500290553\nlast_crash     : 0\nlast_hang      : 1500289063\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Matrix_Math_Calculator/input -o /dev/shm/work/Matrix_Math_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Matrix_Math_Calculator/Matrix_Math_Calculator.dict -- data/linux/processed-challenges/Matrix_Math_Calculator/bin/Matrix_Math_Calculator\n'
+p95
+I15
+tp96
+a(I5760
+S'start_time     : 1500284980\nlast_update    : 1500290689\nfuzzer_pid     : 16871\ncycles_done    : 0\nexecs_done     : 3957524\nexecs_per_sec  : 793.74\npaths_total    : 415\npaths_favored  : 96\npaths_found    : 414\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 228\npending_favs   : 59\npending_total  : 355\nvariable_paths : 0\nbitmap_cvg     : 2.06%\nunique_crashes : 0\nunique_hangs   : 11\nlast_path      : 1500290682\nlast_crash     : 0\nlast_hang      : 1500289063\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Matrix_Math_Calculator/input -o /dev/shm/work/Matrix_Math_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Matrix_Math_Calculator/Matrix_Math_Calculator.dict -- data/linux/processed-challenges/Matrix_Math_Calculator/bin/Matrix_Math_Calculator\n'
+p97
+I7
+tp98
+a(I5880
+S'start_time     : 1500284980\nlast_update    : 1500290809\nfuzzer_pid     : 16871\ncycles_done    : 0\nexecs_done     : 4040754\nexecs_per_sec  : 549.07\npaths_total    : 417\npaths_favored  : 96\npaths_found    : 416\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 236\npending_favs   : 58\npending_total  : 355\nvariable_paths : 0\nbitmap_cvg     : 2.07%\nunique_crashes : 0\nunique_hangs   : 11\nlast_path      : 1500290751\nlast_crash     : 0\nlast_hang      : 1500289063\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Matrix_Math_Calculator/input -o /dev/shm/work/Matrix_Math_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Matrix_Math_Calculator/Matrix_Math_Calculator.dict -- data/linux/processed-challenges/Matrix_Math_Calculator/bin/Matrix_Math_Calculator\n'
+p99
+I4
+tp100
+a(I6000
+S'start_time     : 1500284980\nlast_update    : 1500290930\nfuzzer_pid     : 16871\ncycles_done    : 0\nexecs_done     : 4116630\nexecs_per_sec  : 656.41\npaths_total    : 423\npaths_favored  : 96\npaths_found    : 422\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 236\npending_favs   : 58\npending_total  : 361\nvariable_paths : 0\nbitmap_cvg     : 2.07%\nunique_crashes : 0\nunique_hangs   : 11\nlast_path      : 1500290913\nlast_crash     : 0\nlast_hang      : 1500289063\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Matrix_Math_Calculator/input -o /dev/shm/work/Matrix_Math_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Matrix_Math_Calculator/Matrix_Math_Calculator.dict -- data/linux/processed-challenges/Matrix_Math_Calculator/bin/Matrix_Math_Calculator\n'
+p101
+I4
+tp102
+a(I6120
+S'start_time     : 1500284980\nlast_update    : 1500291050\nfuzzer_pid     : 16871\ncycles_done    : 0\nexecs_done     : 4196733\nexecs_per_sec  : 642.28\npaths_total    : 424\npaths_favored  : 96\npaths_found    : 423\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 236\npending_favs   : 58\npending_total  : 362\nvariable_paths : 0\nbitmap_cvg     : 2.07%\nunique_crashes : 0\nunique_hangs   : 11\nlast_path      : 1500290974\nlast_crash     : 0\nlast_hang      : 1500289063\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Matrix_Math_Calculator/input -o /dev/shm/work/Matrix_Math_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Matrix_Math_Calculator/Matrix_Math_Calculator.dict -- data/linux/processed-challenges/Matrix_Math_Calculator/bin/Matrix_Math_Calculator\n'
+p103
+I2
+tp104
+a(I6240
+S'start_time     : 1500284980\nlast_update    : 1500291170\nfuzzer_pid     : 16871\ncycles_done    : 0\nexecs_done     : 4264801\nexecs_per_sec  : 586.94\npaths_total    : 426\npaths_favored  : 93\npaths_found    : 425\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 241\npending_favs   : 57\npending_total  : 362\nvariable_paths : 0\nbitmap_cvg     : 2.07%\nunique_crashes : 0\nunique_hangs   : 11\nlast_path      : 1500291075\nlast_crash     : 0\nlast_hang      : 1500289063\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Matrix_Math_Calculator/input -o /dev/shm/work/Matrix_Math_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Matrix_Math_Calculator/Matrix_Math_Calculator.dict -- data/linux/processed-challenges/Matrix_Math_Calculator/bin/Matrix_Math_Calculator\n'
+p105
+I1
+tp106
+a(I6360
+S'start_time     : 1500284980\nlast_update    : 1500291290\nfuzzer_pid     : 16871\ncycles_done    : 0\nexecs_done     : 4331775\nexecs_per_sec  : 503.36\npaths_total    : 427\npaths_favored  : 93\npaths_found    : 426\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 255\npending_favs   : 56\npending_total  : 361\nvariable_paths : 0\nbitmap_cvg     : 2.07%\nunique_crashes : 0\nunique_hangs   : 11\nlast_path      : 1500291183\nlast_crash     : 0\nlast_hang      : 1500289063\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Matrix_Math_Calculator/input -o /dev/shm/work/Matrix_Math_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Matrix_Math_Calculator/Matrix_Math_Calculator.dict -- data/linux/processed-challenges/Matrix_Math_Calculator/bin/Matrix_Math_Calculator\n'
+p107
+I0
+tp108
+a(I6480
+S'start_time     : 1500284980\nlast_update    : 1500291410\nfuzzer_pid     : 16871\ncycles_done    : 0\nexecs_done     : 4392276\nexecs_per_sec  : 438.13\npaths_total    : 427\npaths_favored  : 93\npaths_found    : 426\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 260\npending_favs   : 54\npending_total  : 359\nvariable_paths : 0\nbitmap_cvg     : 2.07%\nunique_crashes : 0\nunique_hangs   : 11\nlast_path      : 1500291183\nlast_crash     : 0\nlast_hang      : 1500289063\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Matrix_Math_Calculator/input -o /dev/shm/work/Matrix_Math_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Matrix_Math_Calculator/Matrix_Math_Calculator.dict -- data/linux/processed-challenges/Matrix_Math_Calculator/bin/Matrix_Math_Calculator\n'
+p109
+I0
+tp110
+a(I6600
+S'start_time     : 1500284980\nlast_update    : 1500291531\nfuzzer_pid     : 16871\ncycles_done    : 0\nexecs_done     : 4446852\nexecs_per_sec  : 433.53\npaths_total    : 427\npaths_favored  : 93\npaths_found    : 426\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 265\npending_favs   : 53\npending_total  : 358\nvariable_paths : 0\nbitmap_cvg     : 2.07%\nunique_crashes : 0\nunique_hangs   : 11\nlast_path      : 1500291183\nlast_crash     : 0\nlast_hang      : 1500289063\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Matrix_Math_Calculator/input -o /dev/shm/work/Matrix_Math_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Matrix_Math_Calculator/Matrix_Math_Calculator.dict -- data/linux/processed-challenges/Matrix_Math_Calculator/bin/Matrix_Math_Calculator\n'
+p111
+I3
+tp112
+a(I6720
+S'start_time     : 1500284980\nlast_update    : 1500291651\nfuzzer_pid     : 16871\ncycles_done    : 0\nexecs_done     : 4513389\nexecs_per_sec  : 587.23\npaths_total    : 430\npaths_favored  : 93\npaths_found    : 429\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 265\npending_favs   : 53\npending_total  : 361\nvariable_paths : 0\nbitmap_cvg     : 2.07%\nunique_crashes : 0\nunique_hangs   : 11\nlast_path      : 1500291565\nlast_crash     : 0\nlast_hang      : 1500289063\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Matrix_Math_Calculator/input -o /dev/shm/work/Matrix_Math_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Matrix_Math_Calculator/Matrix_Math_Calculator.dict -- data/linux/processed-challenges/Matrix_Math_Calculator/bin/Matrix_Math_Calculator\n'
+p113
+I0
+tp114
+a(I6840
+S'start_time     : 1500284980\nlast_update    : 1500291771\nfuzzer_pid     : 16871\ncycles_done    : 0\nexecs_done     : 4567015\nexecs_per_sec  : 473.89\npaths_total    : 430\npaths_favored  : 94\npaths_found    : 429\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 266\npending_favs   : 53\npending_total  : 360\nvariable_paths : 0\nbitmap_cvg     : 2.07%\nunique_crashes : 0\nunique_hangs   : 11\nlast_path      : 1500291565\nlast_crash     : 0\nlast_hang      : 1500289063\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Matrix_Math_Calculator/input -o /dev/shm/work/Matrix_Math_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Matrix_Math_Calculator/Matrix_Math_Calculator.dict -- data/linux/processed-challenges/Matrix_Math_Calculator/bin/Matrix_Math_Calculator\n'
+p115
+I0
+tp116
+a(I6960
+S'start_time     : 1500284980\nlast_update    : 1500291892\nfuzzer_pid     : 16871\ncycles_done    : 0\nexecs_done     : 4636698\nexecs_per_sec  : 543.42\npaths_total    : 430\npaths_favored  : 94\npaths_found    : 429\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 274\npending_favs   : 51\npending_total  : 358\nvariable_paths : 0\nbitmap_cvg     : 2.07%\nunique_crashes : 0\nunique_hangs   : 11\nlast_path      : 1500291565\nlast_crash     : 0\nlast_hang      : 1500289063\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Matrix_Math_Calculator/input -o /dev/shm/work/Matrix_Math_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Matrix_Math_Calculator/Matrix_Math_Calculator.dict -- data/linux/processed-challenges/Matrix_Math_Calculator/bin/Matrix_Math_Calculator\n'
+p117
+I3
+tp118
+a(I7080
+S'start_time     : 1500284980\nlast_update    : 1500292012\nfuzzer_pid     : 16871\ncycles_done    : 0\nexecs_done     : 4715828\nexecs_per_sec  : 659.47\npaths_total    : 434\npaths_favored  : 94\npaths_found    : 433\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 274\npending_favs   : 51\npending_total  : 362\nvariable_paths : 0\nbitmap_cvg     : 2.07%\nunique_crashes : 0\nunique_hangs   : 11\nlast_path      : 1500291977\nlast_crash     : 0\nlast_hang      : 1500289063\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Matrix_Math_Calculator/input -o /dev/shm/work/Matrix_Math_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Matrix_Math_Calculator/Matrix_Math_Calculator.dict -- data/linux/processed-challenges/Matrix_Math_Calculator/bin/Matrix_Math_Calculator\n'
+p119
+I2
+tp120
+a(I7200
+S'start_time     : 1500284980\nlast_update    : 1500292132\nfuzzer_pid     : 16871\ncycles_done    : 0\nexecs_done     : 4794927\nexecs_per_sec  : 659.41\npaths_total    : 436\npaths_favored  : 94\npaths_found    : 435\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 274\npending_favs   : 51\npending_total  : 364\nvariable_paths : 0\nbitmap_cvg     : 2.07%\nunique_crashes : 0\nunique_hangs   : 11\nlast_path      : 1500292085\nlast_crash     : 0\nlast_hang      : 1500289063\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Matrix_Math_Calculator/input -o /dev/shm/work/Matrix_Math_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Matrix_Math_Calculator/Matrix_Math_Calculator.dict -- data/linux/processed-challenges/Matrix_Math_Calculator/bin/Matrix_Math_Calculator\n'
+p121
+I1
+tp122
+a(I7320
+S'start_time     : 1500284980\nlast_update    : 1500292252\nfuzzer_pid     : 16871\ncycles_done    : 0\nexecs_done     : 4834572\nexecs_per_sec  : 318.12\npaths_total    : 437\npaths_favored  : 93\npaths_found    : 436\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 277\npending_favs   : 51\npending_total  : 364\nvariable_paths : 0\nbitmap_cvg     : 2.07%\nunique_crashes : 0\nunique_hangs   : 11\nlast_path      : 1500292240\nlast_crash     : 0\nlast_hang      : 1500289063\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Matrix_Math_Calculator/input -o /dev/shm/work/Matrix_Math_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Matrix_Math_Calculator/Matrix_Math_Calculator.dict -- data/linux/processed-challenges/Matrix_Math_Calculator/bin/Matrix_Math_Calculator\n'
+p123
+I2
+tp124
+a(I7440
+S'start_time     : 1500284980\nlast_update    : 1500292372\nfuzzer_pid     : 16871\ncycles_done    : 0\nexecs_done     : 4885692\nexecs_per_sec  : 404.13\npaths_total    : 440\npaths_favored  : 95\npaths_found    : 439\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 286\npending_favs   : 52\npending_total  : 366\nvariable_paths : 0\nbitmap_cvg     : 2.08%\nunique_crashes : 0\nunique_hangs   : 11\nlast_path      : 1500292358\nlast_crash     : 0\nlast_hang      : 1500289063\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Matrix_Math_Calculator/input -o /dev/shm/work/Matrix_Math_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Matrix_Math_Calculator/Matrix_Math_Calculator.dict -- data/linux/processed-challenges/Matrix_Math_Calculator/bin/Matrix_Math_Calculator\n'
+p125
+I2
+tp126
+a(I7560
+S'start_time     : 1500284980\nlast_update    : 1500292492\nfuzzer_pid     : 16871\ncycles_done    : 0\nexecs_done     : 4943144\nexecs_per_sec  : 564.12\npaths_total    : 441\npaths_favored  : 97\npaths_found    : 440\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 287\npending_favs   : 53\npending_total  : 366\nvariable_paths : 0\nbitmap_cvg     : 2.08%\nunique_crashes : 0\nunique_hangs   : 11\nlast_path      : 1500292492\nlast_crash     : 0\nlast_hang      : 1500289063\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Matrix_Math_Calculator/input -o /dev/shm/work/Matrix_Math_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Matrix_Math_Calculator/Matrix_Math_Calculator.dict -- data/linux/processed-challenges/Matrix_Math_Calculator/bin/Matrix_Math_Calculator\n'
+p127
+I2
+tp128
+a(I7680
+S'start_time     : 1500284980\nlast_update    : 1500292612\nfuzzer_pid     : 16871\ncycles_done    : 0\nexecs_done     : 5008528\nexecs_per_sec  : 470.54\npaths_total    : 443\npaths_favored  : 97\npaths_found    : 442\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 290\npending_favs   : 52\npending_total  : 367\nvariable_paths : 0\nbitmap_cvg     : 2.08%\nunique_crashes : 0\nunique_hangs   : 11\nlast_path      : 1500292564\nlast_crash     : 0\nlast_hang      : 1500289063\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Matrix_Math_Calculator/input -o /dev/shm/work/Matrix_Math_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Matrix_Math_Calculator/Matrix_Math_Calculator.dict -- data/linux/processed-challenges/Matrix_Math_Calculator/bin/Matrix_Math_Calculator\n'
+p129
+I9
+tp130
+a(I7800
+S'start_time     : 1500284980\nlast_update    : 1500292733\nfuzzer_pid     : 16871\ncycles_done    : 0\nexecs_done     : 5080384\nexecs_per_sec  : 617.44\npaths_total    : 456\npaths_favored  : 97\npaths_found    : 455\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 290\npending_favs   : 52\npending_total  : 380\nvariable_paths : 0\nbitmap_cvg     : 2.08%\nunique_crashes : 0\nunique_hangs   : 11\nlast_path      : 1500292717\nlast_crash     : 0\nlast_hang      : 1500289063\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Matrix_Math_Calculator/input -o /dev/shm/work/Matrix_Math_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Matrix_Math_Calculator/Matrix_Math_Calculator.dict -- data/linux/processed-challenges/Matrix_Math_Calculator/bin/Matrix_Math_Calculator\n'
+p131
+I9
+tp132
+a(I7920
+S'start_time     : 1500284980\nlast_update    : 1500292853\nfuzzer_pid     : 16871\ncycles_done    : 0\nexecs_done     : 5154412\nexecs_per_sec  : 636.18\npaths_total    : 462\npaths_favored  : 97\npaths_found    : 461\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 290\npending_favs   : 52\npending_total  : 386\nvariable_paths : 0\nbitmap_cvg     : 2.09%\nunique_crashes : 0\nunique_hangs   : 11\nlast_path      : 1500292811\nlast_crash     : 0\nlast_hang      : 1500289063\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Matrix_Math_Calculator/input -o /dev/shm/work/Matrix_Math_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Matrix_Math_Calculator/Matrix_Math_Calculator.dict -- data/linux/processed-challenges/Matrix_Math_Calculator/bin/Matrix_Math_Calculator\n'
+p133
+I5
+tp134
+a(I8040
+S'start_time     : 1500284980\nlast_update    : 1500292973\nfuzzer_pid     : 16871\ncycles_done    : 0\nexecs_done     : 5209928\nexecs_per_sec  : 384.48\npaths_total    : 467\npaths_favored  : 96\npaths_found    : 466\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 292\npending_favs   : 53\npending_total  : 390\nvariable_paths : 0\nbitmap_cvg     : 2.09%\nunique_crashes : 0\nunique_hangs   : 11\nlast_path      : 1500292964\nlast_crash     : 0\nlast_hang      : 1500289063\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Matrix_Math_Calculator/input -o /dev/shm/work/Matrix_Math_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Matrix_Math_Calculator/Matrix_Math_Calculator.dict -- data/linux/processed-challenges/Matrix_Math_Calculator/bin/Matrix_Math_Calculator\n'
+p135
+I2
+tp136
+a(I8160
+S'start_time     : 1500284980\nlast_update    : 1500293093\nfuzzer_pid     : 16871\ncycles_done    : 0\nexecs_done     : 5281395\nexecs_per_sec  : 495.07\npaths_total    : 469\npaths_favored  : 96\npaths_found    : 468\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 297\npending_favs   : 52\npending_total  : 390\nvariable_paths : 0\nbitmap_cvg     : 2.09%\nunique_crashes : 0\nunique_hangs   : 11\nlast_path      : 1500293071\nlast_crash     : 0\nlast_hang      : 1500289063\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Matrix_Math_Calculator/input -o /dev/shm/work/Matrix_Math_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Matrix_Math_Calculator/Matrix_Math_Calculator.dict -- data/linux/processed-challenges/Matrix_Math_Calculator/bin/Matrix_Math_Calculator\n'
+p137
+I3
+tp138
+a(I8280
+S'start_time     : 1500284980\nlast_update    : 1500293214\nfuzzer_pid     : 16871\ncycles_done    : 0\nexecs_done     : 5344902\nexecs_per_sec  : 584.58\npaths_total    : 487\npaths_favored  : 96\npaths_found    : 486\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 300\npending_favs   : 52\npending_total  : 407\nvariable_paths : 0\nbitmap_cvg     : 2.09%\nunique_crashes : 0\nunique_hangs   : 11\nlast_path      : 1500293207\nlast_crash     : 0\nlast_hang      : 1500289063\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Matrix_Math_Calculator/input -o /dev/shm/work/Matrix_Math_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Matrix_Math_Calculator/Matrix_Math_Calculator.dict -- data/linux/processed-challenges/Matrix_Math_Calculator/bin/Matrix_Math_Calculator\n'
+p139
+I24
+tp140
+a(I8400
+S'start_time     : 1500284980\nlast_update    : 1500293334\nfuzzer_pid     : 16871\ncycles_done    : 0\nexecs_done     : 5415699\nexecs_per_sec  : 580.19\npaths_total    : 497\npaths_favored  : 96\npaths_found    : 496\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 300\npending_favs   : 52\npending_total  : 417\nvariable_paths : 0\nbitmap_cvg     : 2.10%\nunique_crashes : 0\nunique_hangs   : 11\nlast_path      : 1500293325\nlast_crash     : 0\nlast_hang      : 1500289063\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Matrix_Math_Calculator/input -o /dev/shm/work/Matrix_Math_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Matrix_Math_Calculator/Matrix_Math_Calculator.dict -- data/linux/processed-challenges/Matrix_Math_Calculator/bin/Matrix_Math_Calculator\n'
+p141
+I4
+tp142
+a(I8520
+S'start_time     : 1500284980\nlast_update    : 1500293454\nfuzzer_pid     : 16871\ncycles_done    : 0\nexecs_done     : 5456243\nexecs_per_sec  : 462.98\npaths_total    : 498\npaths_favored  : 104\npaths_found    : 497\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 303\npending_favs   : 59\npending_total  : 417\nvariable_paths : 0\nbitmap_cvg     : 2.10%\nunique_crashes : 0\nunique_hangs   : 11\nlast_path      : 1500293374\nlast_crash     : 0\nlast_hang      : 1500289063\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Matrix_Math_Calculator/input -o /dev/shm/work/Matrix_Math_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Matrix_Math_Calculator/Matrix_Math_Calculator.dict -- data/linux/processed-challenges/Matrix_Math_Calculator/bin/Matrix_Math_Calculator\n'
+p143
+I0
+tp144
+a(I8640
+S'start_time     : 1500284980\nlast_update    : 1500293574\nfuzzer_pid     : 16871\ncycles_done    : 0\nexecs_done     : 5514068\nexecs_per_sec  : 449.30\npaths_total    : 498\npaths_favored  : 104\npaths_found    : 497\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 310\npending_favs   : 57\npending_total  : 415\nvariable_paths : 0\nbitmap_cvg     : 2.10%\nunique_crashes : 0\nunique_hangs   : 11\nlast_path      : 1500293374\nlast_crash     : 0\nlast_hang      : 1500289063\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Matrix_Math_Calculator/input -o /dev/shm/work/Matrix_Math_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Matrix_Math_Calculator/Matrix_Math_Calculator.dict -- data/linux/processed-challenges/Matrix_Math_Calculator/bin/Matrix_Math_Calculator\n'
+p145
+I0
+tp146
+a(I8760
+S'start_time     : 1500284980\nlast_update    : 1500293694\nfuzzer_pid     : 16871\ncycles_done    : 0\nexecs_done     : 5578676\nexecs_per_sec  : 479.97\npaths_total    : 498\npaths_favored  : 104\npaths_found    : 497\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 321\npending_favs   : 55\npending_total  : 413\nvariable_paths : 0\nbitmap_cvg     : 2.10%\nunique_crashes : 0\nunique_hangs   : 11\nlast_path      : 1500293374\nlast_crash     : 0\nlast_hang      : 1500289063\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Matrix_Math_Calculator/input -o /dev/shm/work/Matrix_Math_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Matrix_Math_Calculator/Matrix_Math_Calculator.dict -- data/linux/processed-challenges/Matrix_Math_Calculator/bin/Matrix_Math_Calculator\n'
+p147
+I5
+tp148
+a(I8880
+S'start_time     : 1500284980\nlast_update    : 1500293815\nfuzzer_pid     : 16871\ncycles_done    : 0\nexecs_done     : 5642858\nexecs_per_sec  : 593.11\npaths_total    : 505\npaths_favored  : 104\npaths_found    : 504\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 321\npending_favs   : 55\npending_total  : 420\nvariable_paths : 0\nbitmap_cvg     : 2.10%\nunique_crashes : 0\nunique_hangs   : 11\nlast_path      : 1500293782\nlast_crash     : 0\nlast_hang      : 1500289063\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Matrix_Math_Calculator/input -o /dev/shm/work/Matrix_Math_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Matrix_Math_Calculator/Matrix_Math_Calculator.dict -- data/linux/processed-challenges/Matrix_Math_Calculator/bin/Matrix_Math_Calculator\n'
+p149
+I3
+tp150
+a(I9000
+S'start_time     : 1500284980\nlast_update    : 1500293935\nfuzzer_pid     : 16871\ncycles_done    : 0\nexecs_done     : 5713528\nexecs_per_sec  : 569.87\npaths_total    : 510\npaths_favored  : 104\npaths_found    : 509\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 321\npending_favs   : 55\npending_total  : 425\nvariable_paths : 0\nbitmap_cvg     : 2.10%\nunique_crashes : 0\nunique_hangs   : 11\nlast_path      : 1500293929\nlast_crash     : 0\nlast_hang      : 1500289063\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Matrix_Math_Calculator/input -o /dev/shm/work/Matrix_Math_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Matrix_Math_Calculator/Matrix_Math_Calculator.dict -- data/linux/processed-challenges/Matrix_Math_Calculator/bin/Matrix_Math_Calculator\n'
+p151
+I5
+tp152
+a(I9120
+S'start_time     : 1500284980\nlast_update    : 1500294055\nfuzzer_pid     : 16871\ncycles_done    : 0\nexecs_done     : 5787808\nexecs_per_sec  : 680.40\npaths_total    : 512\npaths_favored  : 103\npaths_found    : 511\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 326\npending_favs   : 54\npending_total  : 425\nvariable_paths : 0\nbitmap_cvg     : 2.10%\nunique_crashes : 0\nunique_hangs   : 11\nlast_path      : 1500294013\nlast_crash     : 0\nlast_hang      : 1500289063\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Matrix_Math_Calculator/input -o /dev/shm/work/Matrix_Math_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Matrix_Math_Calculator/Matrix_Math_Calculator.dict -- data/linux/processed-challenges/Matrix_Math_Calculator/bin/Matrix_Math_Calculator\n'
+p153
+I2
+tp154
+a(I9240
+S'start_time     : 1500284980\nlast_update    : 1500294175\nfuzzer_pid     : 16871\ncycles_done    : 0\nexecs_done     : 5875230\nexecs_per_sec  : 685.77\npaths_total    : 513\npaths_favored  : 103\npaths_found    : 512\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 331\npending_favs   : 51\npending_total  : 423\nvariable_paths : 0\nbitmap_cvg     : 2.11%\nunique_crashes : 0\nunique_hangs   : 11\nlast_path      : 1500294066\nlast_crash     : 0\nlast_hang      : 1500289063\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Matrix_Math_Calculator/input -o /dev/shm/work/Matrix_Math_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Matrix_Math_Calculator/Matrix_Math_Calculator.dict -- data/linux/processed-challenges/Matrix_Math_Calculator/bin/Matrix_Math_Calculator\n'
+p155
+I0
+tp156
+a(I9360
+S'start_time     : 1500284980\nlast_update    : 1500294295\nfuzzer_pid     : 16871\ncycles_done    : 0\nexecs_done     : 5955159\nexecs_per_sec  : 564.91\npaths_total    : 513\npaths_favored  : 103\npaths_found    : 512\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 333\npending_favs   : 49\npending_total  : 421\nvariable_paths : 0\nbitmap_cvg     : 2.11%\nunique_crashes : 0\nunique_hangs   : 11\nlast_path      : 1500294066\nlast_crash     : 0\nlast_hang      : 1500289063\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Matrix_Math_Calculator/input -o /dev/shm/work/Matrix_Math_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Matrix_Math_Calculator/Matrix_Math_Calculator.dict -- data/linux/processed-challenges/Matrix_Math_Calculator/bin/Matrix_Math_Calculator\n'
+p157
+I0
+tp158
+a(I9480
+S'start_time     : 1500284980\nlast_update    : 1500294416\nfuzzer_pid     : 16871\ncycles_done    : 0\nexecs_done     : 6019711\nexecs_per_sec  : 583.35\npaths_total    : 513\npaths_favored  : 103\npaths_found    : 512\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 335\npending_favs   : 48\npending_total  : 420\nvariable_paths : 0\nbitmap_cvg     : 2.11%\nunique_crashes : 0\nunique_hangs   : 11\nlast_path      : 1500294066\nlast_crash     : 0\nlast_hang      : 1500289063\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Matrix_Math_Calculator/input -o /dev/shm/work/Matrix_Math_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Matrix_Math_Calculator/Matrix_Math_Calculator.dict -- data/linux/processed-challenges/Matrix_Math_Calculator/bin/Matrix_Math_Calculator\n'
+p159
+I2
+tp160
+a(I9600
+S'start_time     : 1500284980\nlast_update    : 1500294536\nfuzzer_pid     : 16871\ncycles_done    : 0\nexecs_done     : 6069934\nexecs_per_sec  : 386.64\npaths_total    : 515\npaths_favored  : 103\npaths_found    : 514\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 348\npending_favs   : 47\npending_total  : 421\nvariable_paths : 0\nbitmap_cvg     : 2.11%\nunique_crashes : 0\nunique_hangs   : 11\nlast_path      : 1500294434\nlast_crash     : 0\nlast_hang      : 1500289063\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Matrix_Math_Calculator/input -o /dev/shm/work/Matrix_Math_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Matrix_Math_Calculator/Matrix_Math_Calculator.dict -- data/linux/processed-challenges/Matrix_Math_Calculator/bin/Matrix_Math_Calculator\n'
+p161
+I0
+tp162
+a(I9720
+S'start_time     : 1500284980\nlast_update    : 1500294656\nfuzzer_pid     : 16871\ncycles_done    : 0\nexecs_done     : 6140724\nexecs_per_sec  : 627.59\npaths_total    : 515\npaths_favored  : 103\npaths_found    : 514\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 360\npending_favs   : 46\npending_total  : 419\nvariable_paths : 0\nbitmap_cvg     : 2.11%\nunique_crashes : 0\nunique_hangs   : 11\nlast_path      : 1500294434\nlast_crash     : 0\nlast_hang      : 1500289063\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Matrix_Math_Calculator/input -o /dev/shm/work/Matrix_Math_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Matrix_Math_Calculator/Matrix_Math_Calculator.dict -- data/linux/processed-challenges/Matrix_Math_Calculator/bin/Matrix_Math_Calculator\n'
+p163
+I0
+tp164
+a(I9840
+S'start_time     : 1500284980\nlast_update    : 1500294776\nfuzzer_pid     : 16871\ncycles_done    : 0\nexecs_done     : 6211780\nexecs_per_sec  : 517.15\npaths_total    : 515\npaths_favored  : 103\npaths_found    : 514\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 363\npending_favs   : 45\npending_total  : 418\nvariable_paths : 0\nbitmap_cvg     : 2.11%\nunique_crashes : 0\nunique_hangs   : 11\nlast_path      : 1500294434\nlast_crash     : 0\nlast_hang      : 1500289063\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Matrix_Math_Calculator/input -o /dev/shm/work/Matrix_Math_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Matrix_Math_Calculator/Matrix_Math_Calculator.dict -- data/linux/processed-challenges/Matrix_Math_Calculator/bin/Matrix_Math_Calculator\n'
+p165
+I0
+tp166
+a(I9960
+S'start_time     : 1500284980\nlast_update    : 1500294896\nfuzzer_pid     : 16871\ncycles_done    : 0\nexecs_done     : 6291818\nexecs_per_sec  : 626.46\npaths_total    : 515\npaths_favored  : 103\npaths_found    : 514\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 368\npending_favs   : 43\npending_total  : 416\nvariable_paths : 0\nbitmap_cvg     : 2.11%\nunique_crashes : 0\nunique_hangs   : 11\nlast_path      : 1500294434\nlast_crash     : 0\nlast_hang      : 1500289063\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Matrix_Math_Calculator/input -o /dev/shm/work/Matrix_Math_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Matrix_Math_Calculator/Matrix_Math_Calculator.dict -- data/linux/processed-challenges/Matrix_Math_Calculator/bin/Matrix_Math_Calculator\n'
+p167
+I0
+tp168
+a(I10080
+S'start_time     : 1500284980\nlast_update    : 1500295017\nfuzzer_pid     : 16871\ncycles_done    : 0\nexecs_done     : 6365547\nexecs_per_sec  : 606.57\npaths_total    : 515\npaths_favored  : 103\npaths_found    : 514\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 374\npending_favs   : 42\npending_total  : 415\nvariable_paths : 0\nbitmap_cvg     : 2.11%\nunique_crashes : 0\nunique_hangs   : 11\nlast_path      : 1500294434\nlast_crash     : 0\nlast_hang      : 1500289063\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Matrix_Math_Calculator/input -o /dev/shm/work/Matrix_Math_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Matrix_Math_Calculator/Matrix_Math_Calculator.dict -- data/linux/processed-challenges/Matrix_Math_Calculator/bin/Matrix_Math_Calculator\n'
+p169
+I3
+tp170
+a(I10200
+S'start_time     : 1500284980\nlast_update    : 1500295137\nfuzzer_pid     : 16871\ncycles_done    : 0\nexecs_done     : 6426601\nexecs_per_sec  : 460.87\npaths_total    : 519\npaths_favored  : 103\npaths_found    : 518\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 378\npending_favs   : 41\npending_total  : 418\nvariable_paths : 0\nbitmap_cvg     : 2.11%\nunique_crashes : 0\nunique_hangs   : 11\nlast_path      : 1500295102\nlast_crash     : 0\nlast_hang      : 1500289063\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Matrix_Math_Calculator/input -o /dev/shm/work/Matrix_Math_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Matrix_Math_Calculator/Matrix_Math_Calculator.dict -- data/linux/processed-challenges/Matrix_Math_Calculator/bin/Matrix_Math_Calculator\n'
+p171
+I1
+tp172
+a(I10320
+S'start_time     : 1500284980\nlast_update    : 1500295257\nfuzzer_pid     : 16871\ncycles_done    : 0\nexecs_done     : 6487479\nexecs_per_sec  : 578.43\npaths_total    : 522\npaths_favored  : 103\npaths_found    : 521\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 378\npending_favs   : 41\npending_total  : 421\nvariable_paths : 0\nbitmap_cvg     : 2.11%\nunique_crashes : 0\nunique_hangs   : 11\nlast_path      : 1500295254\nlast_crash     : 0\nlast_hang      : 1500289063\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Matrix_Math_Calculator/input -o /dev/shm/work/Matrix_Math_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Matrix_Math_Calculator/Matrix_Math_Calculator.dict -- data/linux/processed-challenges/Matrix_Math_Calculator/bin/Matrix_Math_Calculator\n'
+p173
+I4
+tp174
+a(I10440
+S'start_time     : 1500284980\nlast_update    : 1500295377\nfuzzer_pid     : 16871\ncycles_done    : 0\nexecs_done     : 6555491\nexecs_per_sec  : 573.90\npaths_total    : 523\npaths_favored  : 103\npaths_found    : 522\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 378\npending_favs   : 41\npending_total  : 422\nvariable_paths : 0\nbitmap_cvg     : 2.11%\nunique_crashes : 0\nunique_hangs   : 11\nlast_path      : 1500295285\nlast_crash     : 0\nlast_hang      : 1500289063\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Matrix_Math_Calculator/input -o /dev/shm/work/Matrix_Math_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Matrix_Math_Calculator/Matrix_Math_Calculator.dict -- data/linux/processed-challenges/Matrix_Math_Calculator/bin/Matrix_Math_Calculator\n'
+p175
+I1
+tp176
+a(I10560
+S'start_time     : 1500284980\nlast_update    : 1500295497\nfuzzer_pid     : 16871\ncycles_done    : 0\nexecs_done     : 6620910\nexecs_per_sec  : 533.39\npaths_total    : 524\npaths_favored  : 102\npaths_found    : 523\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 386\npending_favs   : 40\npending_total  : 422\nvariable_paths : 0\nbitmap_cvg     : 2.11%\nunique_crashes : 0\nunique_hangs   : 11\nlast_path      : 1500295386\nlast_crash     : 0\nlast_hang      : 1500289063\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Matrix_Math_Calculator/input -o /dev/shm/work/Matrix_Math_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Matrix_Math_Calculator/Matrix_Math_Calculator.dict -- data/linux/processed-challenges/Matrix_Math_Calculator/bin/Matrix_Math_Calculator\n'
+p177
+I1
+tp178
+a(I10680
+S'start_time     : 1500284980\nlast_update    : 1500295618\nfuzzer_pid     : 16871\ncycles_done    : 0\nexecs_done     : 6692854\nexecs_per_sec  : 682.87\npaths_total    : 527\npaths_favored  : 102\npaths_found    : 526\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 400\npending_favs   : 39\npending_total  : 424\nvariable_paths : 0\nbitmap_cvg     : 2.11%\nunique_crashes : 0\nunique_hangs   : 11\nlast_path      : 1500295598\nlast_crash     : 0\nlast_hang      : 1500289063\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Matrix_Math_Calculator/input -o /dev/shm/work/Matrix_Math_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Matrix_Math_Calculator/Matrix_Math_Calculator.dict -- data/linux/processed-challenges/Matrix_Math_Calculator/bin/Matrix_Math_Calculator\n'
+p179
+I4
+tp180
+a.

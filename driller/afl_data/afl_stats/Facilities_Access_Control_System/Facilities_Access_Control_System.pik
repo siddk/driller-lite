@@ -1,0 +1,452 @@
+(lp0
+(I0
+S'start_time     : 1499830551\nlast_update    : 1499830552\nfuzzer_pid     : 8956\ncycles_done    : 0\nexecs_done     : 10\nexecs_per_sec  : 217.39\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 1\npending_total  : 1\nvariable_paths : 0\nbitmap_cvg     : 0.12%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Facilities_Access_Control_System/input -o /dev/shm/work/Facilities_Access_Control_System/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Facilities_Access_Control_System/Facilities_Access_Control_System.dict -- data/linux/processed-challenges/Facilities_Access_Control_System/bin/Facilities_Access_Control_System\n'
+p1
+I44
+tp2
+a(I120
+S'start_time     : 1499830551\nlast_update    : 1499830672\nfuzzer_pid     : 8956\ncycles_done    : 0\nexecs_done     : 171685\nexecs_per_sec  : 1392.22\npaths_total    : 88\npaths_favored  : 48\npaths_found    : 87\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 3\npending_favs   : 47\npending_total  : 86\nvariable_paths : 0\nbitmap_cvg     : 0.75%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499830671\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Facilities_Access_Control_System/input -o /dev/shm/work/Facilities_Access_Control_System/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Facilities_Access_Control_System/Facilities_Access_Control_System.dict -- data/linux/processed-challenges/Facilities_Access_Control_System/bin/Facilities_Access_Control_System\n'
+p3
+I45
+tp4
+a(I240
+S'start_time     : 1499830551\nlast_update    : 1499830792\nfuzzer_pid     : 8956\ncycles_done    : 0\nexecs_done     : 342603\nexecs_per_sec  : 1421.94\npaths_total    : 102\npaths_favored  : 55\npaths_found    : 101\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 9\npending_favs   : 52\npending_total  : 97\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499830773\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Facilities_Access_Control_System/input -o /dev/shm/work/Facilities_Access_Control_System/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Facilities_Access_Control_System/Facilities_Access_Control_System.dict -- data/linux/processed-challenges/Facilities_Access_Control_System/bin/Facilities_Access_Control_System\n'
+p5
+I13
+tp6
+a(I360
+S'start_time     : 1499830551\nlast_update    : 1499830912\nfuzzer_pid     : 8956\ncycles_done    : 0\nexecs_done     : 510570\nexecs_per_sec  : 1399.03\npaths_total    : 111\npaths_favored  : 57\npaths_found    : 110\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 27\npending_favs   : 43\npending_total  : 95\nvariable_paths : 0\nbitmap_cvg     : 0.82%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499830883\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Facilities_Access_Control_System/input -o /dev/shm/work/Facilities_Access_Control_System/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Facilities_Access_Control_System/Facilities_Access_Control_System.dict -- data/linux/processed-challenges/Facilities_Access_Control_System/bin/Facilities_Access_Control_System\n'
+p7
+I10
+tp8
+a(I480
+S'start_time     : 1499830551\nlast_update    : 1499831033\nfuzzer_pid     : 8956\ncycles_done    : 0\nexecs_done     : 672791\nexecs_per_sec  : 1356.29\npaths_total    : 121\npaths_favored  : 58\npaths_found    : 120\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 35\npending_favs   : 40\npending_total  : 101\nvariable_paths : 0\nbitmap_cvg     : 0.83%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499831028\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Facilities_Access_Control_System/input -o /dev/shm/work/Facilities_Access_Control_System/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Facilities_Access_Control_System/Facilities_Access_Control_System.dict -- data/linux/processed-challenges/Facilities_Access_Control_System/bin/Facilities_Access_Control_System\n'
+p9
+I9
+tp10
+a(I600
+S'start_time     : 1499830551\nlast_update    : 1499831153\nfuzzer_pid     : 8956\ncycles_done    : 0\nexecs_done     : 838629\nexecs_per_sec  : 1413.93\npaths_total    : 135\npaths_favored  : 60\npaths_found    : 134\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 47\npending_favs   : 37\npending_total  : 109\nvariable_paths : 0\nbitmap_cvg     : 0.84%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499831149\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Facilities_Access_Control_System/input -o /dev/shm/work/Facilities_Access_Control_System/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Facilities_Access_Control_System/Facilities_Access_Control_System.dict -- data/linux/processed-challenges/Facilities_Access_Control_System/bin/Facilities_Access_Control_System\n'
+p11
+I14
+tp12
+a(I720
+S'start_time     : 1499830551\nlast_update    : 1499831273\nfuzzer_pid     : 8956\ncycles_done    : 0\nexecs_done     : 1004877\nexecs_per_sec  : 1361.60\npaths_total    : 140\npaths_favored  : 61\npaths_found    : 139\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 53\npending_favs   : 35\npending_total  : 111\nvariable_paths : 0\nbitmap_cvg     : 0.85%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499831246\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Facilities_Access_Control_System/input -o /dev/shm/work/Facilities_Access_Control_System/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Facilities_Access_Control_System/Facilities_Access_Control_System.dict -- data/linux/processed-challenges/Facilities_Access_Control_System/bin/Facilities_Access_Control_System\n'
+p13
+I5
+tp14
+a(I840
+S'start_time     : 1499830551\nlast_update    : 1499831393\nfuzzer_pid     : 8956\ncycles_done    : 0\nexecs_done     : 1172468\nexecs_per_sec  : 1411.02\npaths_total    : 155\npaths_favored  : 61\npaths_found    : 154\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 67\npending_favs   : 28\npending_total  : 119\nvariable_paths : 0\nbitmap_cvg     : 0.86%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499831383\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Facilities_Access_Control_System/input -o /dev/shm/work/Facilities_Access_Control_System/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Facilities_Access_Control_System/Facilities_Access_Control_System.dict -- data/linux/processed-challenges/Facilities_Access_Control_System/bin/Facilities_Access_Control_System\n'
+p15
+I15
+tp16
+a(I960
+S'start_time     : 1499830551\nlast_update    : 1499831514\nfuzzer_pid     : 8956\ncycles_done    : 0\nexecs_done     : 1334820\nexecs_per_sec  : 1328.15\npaths_total    : 166\npaths_favored  : 61\npaths_found    : 165\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 95\npending_favs   : 19\npending_total  : 120\nvariable_paths : 0\nbitmap_cvg     : 0.86%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499831513\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Facilities_Access_Control_System/input -o /dev/shm/work/Facilities_Access_Control_System/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Facilities_Access_Control_System/Facilities_Access_Control_System.dict -- data/linux/processed-challenges/Facilities_Access_Control_System/bin/Facilities_Access_Control_System\n'
+p17
+I11
+tp18
+a(I1080
+S'start_time     : 1499830551\nlast_update    : 1499831634\nfuzzer_pid     : 8956\ncycles_done    : 0\nexecs_done     : 1495549\nexecs_per_sec  : 1326.95\npaths_total    : 175\npaths_favored  : 61\npaths_found    : 174\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 102\npending_favs   : 18\npending_total  : 127\nvariable_paths : 0\nbitmap_cvg     : 0.86%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499831625\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Facilities_Access_Control_System/input -o /dev/shm/work/Facilities_Access_Control_System/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Facilities_Access_Control_System/Facilities_Access_Control_System.dict -- data/linux/processed-challenges/Facilities_Access_Control_System/bin/Facilities_Access_Control_System\n'
+p19
+I9
+tp20
+a(I1200
+S'start_time     : 1499830551\nlast_update    : 1499831754\nfuzzer_pid     : 8956\ncycles_done    : 0\nexecs_done     : 1658438\nexecs_per_sec  : 1274.61\npaths_total    : 184\npaths_favored  : 61\npaths_found    : 183\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 124\npending_favs   : 12\npending_total  : 128\nvariable_paths : 0\nbitmap_cvg     : 0.87%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499831716\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Facilities_Access_Control_System/input -o /dev/shm/work/Facilities_Access_Control_System/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Facilities_Access_Control_System/Facilities_Access_Control_System.dict -- data/linux/processed-challenges/Facilities_Access_Control_System/bin/Facilities_Access_Control_System\n'
+p21
+I9
+tp22
+a(I1320
+S'start_time     : 1499830551\nlast_update    : 1499831874\nfuzzer_pid     : 8956\ncycles_done    : 0\nexecs_done     : 1811032\nexecs_per_sec  : 1306.83\npaths_total    : 190\npaths_favored  : 62\npaths_found    : 189\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 144\npending_favs   : 9\npending_total  : 130\nvariable_paths : 0\nbitmap_cvg     : 0.92%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499831870\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Facilities_Access_Control_System/input -o /dev/shm/work/Facilities_Access_Control_System/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Facilities_Access_Control_System/Facilities_Access_Control_System.dict -- data/linux/processed-challenges/Facilities_Access_Control_System/bin/Facilities_Access_Control_System\n'
+p23
+I6
+tp24
+a(I1440
+S'start_time     : 1499830551\nlast_update    : 1499831994\nfuzzer_pid     : 8956\ncycles_done    : 0\nexecs_done     : 1970197\nexecs_per_sec  : 1364.98\npaths_total    : 194\npaths_favored  : 65\npaths_found    : 193\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 148\npending_favs   : 12\npending_total  : 133\nvariable_paths : 0\nbitmap_cvg     : 0.92%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499831914\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Facilities_Access_Control_System/input -o /dev/shm/work/Facilities_Access_Control_System/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Facilities_Access_Control_System/Facilities_Access_Control_System.dict -- data/linux/processed-challenges/Facilities_Access_Control_System/bin/Facilities_Access_Control_System\n'
+p25
+I4
+tp26
+a(I1560
+S'start_time     : 1499830551\nlast_update    : 1499832114\nfuzzer_pid     : 8956\ncycles_done    : 0\nexecs_done     : 2119848\nexecs_per_sec  : 1265.71\npaths_total    : 199\npaths_favored  : 65\npaths_found    : 198\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 180\npending_favs   : 6\npending_total  : 131\nvariable_paths : 0\nbitmap_cvg     : 0.93%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499832101\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Facilities_Access_Control_System/input -o /dev/shm/work/Facilities_Access_Control_System/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Facilities_Access_Control_System/Facilities_Access_Control_System.dict -- data/linux/processed-challenges/Facilities_Access_Control_System/bin/Facilities_Access_Control_System\n'
+p27
+I5
+tp28
+a(I1680
+S'start_time     : 1499830551\nlast_update    : 1499832235\nfuzzer_pid     : 8956\ncycles_done    : 0\nexecs_done     : 2273582\nexecs_per_sec  : 1191.87\npaths_total    : 201\npaths_favored  : 66\npaths_found    : 200\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 189\npending_favs   : 6\npending_total  : 131\nvariable_paths : 0\nbitmap_cvg     : 0.93%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499832226\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Facilities_Access_Control_System/input -o /dev/shm/work/Facilities_Access_Control_System/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Facilities_Access_Control_System/Facilities_Access_Control_System.dict -- data/linux/processed-challenges/Facilities_Access_Control_System/bin/Facilities_Access_Control_System\n'
+p29
+I3
+tp30
+a(I1800
+S'start_time     : 1499830551\nlast_update    : 1499832355\nfuzzer_pid     : 8956\ncycles_done    : 0\nexecs_done     : 2416206\nexecs_per_sec  : 1191.48\npaths_total    : 208\npaths_favored  : 66\npaths_found    : 207\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 189\npending_favs   : 6\npending_total  : 138\nvariable_paths : 0\nbitmap_cvg     : 0.95%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499832346\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Facilities_Access_Control_System/input -o /dev/shm/work/Facilities_Access_Control_System/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Facilities_Access_Control_System/Facilities_Access_Control_System.dict -- data/linux/processed-challenges/Facilities_Access_Control_System/bin/Facilities_Access_Control_System\n'
+p31
+I6
+tp32
+a(I1920
+S'start_time     : 1499830551\nlast_update    : 1499832475\nfuzzer_pid     : 8956\ncycles_done    : 0\nexecs_done     : 2570818\nexecs_per_sec  : 1385.35\npaths_total    : 208\npaths_favored  : 70\npaths_found    : 207\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 198\npending_favs   : 6\npending_total  : 133\nvariable_paths : 0\nbitmap_cvg     : 0.95%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499832346\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Facilities_Access_Control_System/input -o /dev/shm/work/Facilities_Access_Control_System/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Facilities_Access_Control_System/Facilities_Access_Control_System.dict -- data/linux/processed-challenges/Facilities_Access_Control_System/bin/Facilities_Access_Control_System\n'
+p33
+I0
+tp34
+a(I2040
+S'start_time     : 1499830551\nlast_update    : 1499832595\nfuzzer_pid     : 8956\ncycles_done    : 0\nexecs_done     : 2713322\nexecs_per_sec  : 1132.80\npaths_total    : 213\npaths_favored  : 69\npaths_found    : 212\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 206\npending_favs   : 3\npending_total  : 135\nvariable_paths : 0\nbitmap_cvg     : 0.96%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499832560\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Facilities_Access_Control_System/input -o /dev/shm/work/Facilities_Access_Control_System/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Facilities_Access_Control_System/Facilities_Access_Control_System.dict -- data/linux/processed-challenges/Facilities_Access_Control_System/bin/Facilities_Access_Control_System\n'
+p35
+I5
+tp36
+a(I2160
+S'start_time     : 1499830551\nlast_update    : 1499832716\nfuzzer_pid     : 8956\ncycles_done    : 0\nexecs_done     : 2857114\nexecs_per_sec  : 1193.30\npaths_total    : 222\npaths_favored  : 73\npaths_found    : 221\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 212\npending_favs   : 7\npending_total  : 142\nvariable_paths : 0\nbitmap_cvg     : 0.98%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499832706\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Facilities_Access_Control_System/input -o /dev/shm/work/Facilities_Access_Control_System/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Facilities_Access_Control_System/Facilities_Access_Control_System.dict -- data/linux/processed-challenges/Facilities_Access_Control_System/bin/Facilities_Access_Control_System\n'
+p37
+I9
+tp38
+a(I2280
+S'start_time     : 1499830551\nlast_update    : 1499832836\nfuzzer_pid     : 8956\ncycles_done    : 0\nexecs_done     : 2999660\nexecs_per_sec  : 1174.09\npaths_total    : 222\npaths_favored  : 74\npaths_found    : 221\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 217\npending_favs   : 4\npending_total  : 138\nvariable_paths : 0\nbitmap_cvg     : 0.98%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499832706\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Facilities_Access_Control_System/input -o /dev/shm/work/Facilities_Access_Control_System/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Facilities_Access_Control_System/Facilities_Access_Control_System.dict -- data/linux/processed-challenges/Facilities_Access_Control_System/bin/Facilities_Access_Control_System\n'
+p39
+I0
+tp40
+a(I2400
+S'start_time     : 1499830551\nlast_update    : 1499832956\nfuzzer_pid     : 8956\ncycles_done    : 0\nexecs_done     : 3137674\nexecs_per_sec  : 1178.51\npaths_total    : 226\npaths_favored  : 74\npaths_found    : 225\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 221\npending_favs   : 1\npending_total  : 139\nvariable_paths : 0\nbitmap_cvg     : 0.99%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499832954\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Facilities_Access_Control_System/input -o /dev/shm/work/Facilities_Access_Control_System/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Facilities_Access_Control_System/Facilities_Access_Control_System.dict -- data/linux/processed-challenges/Facilities_Access_Control_System/bin/Facilities_Access_Control_System\n'
+p41
+I4
+tp42
+a(I2520
+S'start_time     : 1499830551\nlast_update    : 1499833076\nfuzzer_pid     : 8956\ncycles_done    : 0\nexecs_done     : 3277017\nexecs_per_sec  : 1190.98\npaths_total    : 227\npaths_favored  : 76\npaths_found    : 226\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 224\npending_favs   : 2\npending_total  : 138\nvariable_paths : 0\nbitmap_cvg     : 1.00%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499833048\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Facilities_Access_Control_System/input -o /dev/shm/work/Facilities_Access_Control_System/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Facilities_Access_Control_System/Facilities_Access_Control_System.dict -- data/linux/processed-challenges/Facilities_Access_Control_System/bin/Facilities_Access_Control_System\n'
+p43
+I1
+tp44
+a(I2640
+S'start_time     : 1499830551\nlast_update    : 1499833196\nfuzzer_pid     : 8956\ncycles_done    : 0\nexecs_done     : 3417163\nexecs_per_sec  : 1105.70\npaths_total    : 230\npaths_favored  : 77\npaths_found    : 229\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 227\npending_favs   : 3\npending_total  : 138\nvariable_paths : 0\nbitmap_cvg     : 1.00%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499833139\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Facilities_Access_Control_System/input -o /dev/shm/work/Facilities_Access_Control_System/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Facilities_Access_Control_System/Facilities_Access_Control_System.dict -- data/linux/processed-challenges/Facilities_Access_Control_System/bin/Facilities_Access_Control_System\n'
+p45
+I3
+tp46
+a(I2760
+S'start_time     : 1499830551\nlast_update    : 1499833316\nfuzzer_pid     : 8956\ncycles_done    : 0\nexecs_done     : 3554398\nexecs_per_sec  : 1104.79\npaths_total    : 230\npaths_favored  : 77\npaths_found    : 229\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 229\npending_favs   : 1\npending_total  : 136\nvariable_paths : 0\nbitmap_cvg     : 1.00%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499833139\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Facilities_Access_Control_System/input -o /dev/shm/work/Facilities_Access_Control_System/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Facilities_Access_Control_System/Facilities_Access_Control_System.dict -- data/linux/processed-challenges/Facilities_Access_Control_System/bin/Facilities_Access_Control_System\n'
+p47
+I0
+tp48
+a(I2880
+S'start_time     : 1499830551\nlast_update    : 1499833437\nfuzzer_pid     : 8956\ncycles_done    : 1\nexecs_done     : 3710469\nexecs_per_sec  : 1376.37\npaths_total    : 230\npaths_favored  : 77\npaths_found    : 229\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 45\npending_favs   : 0\npending_total  : 132\nvariable_paths : 0\nbitmap_cvg     : 1.00%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499833139\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Facilities_Access_Control_System/input -o /dev/shm/work/Facilities_Access_Control_System/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Facilities_Access_Control_System/Facilities_Access_Control_System.dict -- data/linux/processed-challenges/Facilities_Access_Control_System/bin/Facilities_Access_Control_System\n'
+p49
+I0
+tp50
+a(I3000
+S'start_time     : 1499830551\nlast_update    : 1499833557\nfuzzer_pid     : 8956\ncycles_done    : 1\nexecs_done     : 3870582\nexecs_per_sec  : 1354.17\npaths_total    : 231\npaths_favored  : 77\npaths_found    : 230\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 77\npending_favs   : 0\npending_total  : 126\nvariable_paths : 0\nbitmap_cvg     : 1.00%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499833535\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Facilities_Access_Control_System/input -o /dev/shm/work/Facilities_Access_Control_System/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Facilities_Access_Control_System/Facilities_Access_Control_System.dict -- data/linux/processed-challenges/Facilities_Access_Control_System/bin/Facilities_Access_Control_System\n'
+p51
+I1
+tp52
+a(I3120
+S'start_time     : 1499830551\nlast_update    : 1499833677\nfuzzer_pid     : 8956\ncycles_done    : 1\nexecs_done     : 4033088\nexecs_per_sec  : 1371.56\npaths_total    : 236\npaths_favored  : 77\npaths_found    : 235\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 119\npending_favs   : 0\npending_total  : 123\nvariable_paths : 0\nbitmap_cvg     : 1.00%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499833676\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Facilities_Access_Control_System/input -o /dev/shm/work/Facilities_Access_Control_System/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Facilities_Access_Control_System/Facilities_Access_Control_System.dict -- data/linux/processed-challenges/Facilities_Access_Control_System/bin/Facilities_Access_Control_System\n'
+p53
+I5
+tp54
+a(I3240
+S'start_time     : 1499830551\nlast_update    : 1499833798\nfuzzer_pid     : 8956\ncycles_done    : 1\nexecs_done     : 4179154\nexecs_per_sec  : 1145.66\npaths_total    : 240\npaths_favored  : 77\npaths_found    : 239\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 145\npending_favs   : 0\npending_total  : 121\nvariable_paths : 0\nbitmap_cvg     : 1.00%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499833798\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Facilities_Access_Control_System/input -o /dev/shm/work/Facilities_Access_Control_System/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Facilities_Access_Control_System/Facilities_Access_Control_System.dict -- data/linux/processed-challenges/Facilities_Access_Control_System/bin/Facilities_Access_Control_System\n'
+p55
+I4
+tp56
+a(I3360
+S'start_time     : 1499830551\nlast_update    : 1499833918\nfuzzer_pid     : 8956\ncycles_done    : 1\nexecs_done     : 4322441\nexecs_per_sec  : 1179.70\npaths_total    : 247\npaths_favored  : 77\npaths_found    : 246\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 160\npending_favs   : 0\npending_total  : 125\nvariable_paths : 0\nbitmap_cvg     : 1.00%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499833918\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Facilities_Access_Control_System/input -o /dev/shm/work/Facilities_Access_Control_System/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Facilities_Access_Control_System/Facilities_Access_Control_System.dict -- data/linux/processed-challenges/Facilities_Access_Control_System/bin/Facilities_Access_Control_System\n'
+p57
+I7
+tp58
+a(I3480
+S'start_time     : 1499830551\nlast_update    : 1499834038\nfuzzer_pid     : 8956\ncycles_done    : 1\nexecs_done     : 4469226\nexecs_per_sec  : 1213.02\npaths_total    : 250\npaths_favored  : 77\npaths_found    : 249\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 166\npending_favs   : 0\npending_total  : 126\nvariable_paths : 0\nbitmap_cvg     : 1.00%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499833971\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Facilities_Access_Control_System/input -o /dev/shm/work/Facilities_Access_Control_System/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Facilities_Access_Control_System/Facilities_Access_Control_System.dict -- data/linux/processed-challenges/Facilities_Access_Control_System/bin/Facilities_Access_Control_System\n'
+p59
+I3
+tp60
+a(I3600
+S'start_time     : 1499830551\nlast_update    : 1499834158\nfuzzer_pid     : 8956\ncycles_done    : 1\nexecs_done     : 4613207\nexecs_per_sec  : 1301.53\npaths_total    : 256\npaths_favored  : 77\npaths_found    : 255\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 190\npending_favs   : 0\npending_total  : 129\nvariable_paths : 0\nbitmap_cvg     : 1.00%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499834156\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Facilities_Access_Control_System/input -o /dev/shm/work/Facilities_Access_Control_System/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Facilities_Access_Control_System/Facilities_Access_Control_System.dict -- data/linux/processed-challenges/Facilities_Access_Control_System/bin/Facilities_Access_Control_System\n'
+p61
+I6
+tp62
+a(I3720
+S'start_time     : 1499830551\nlast_update    : 1499834279\nfuzzer_pid     : 8956\ncycles_done    : 1\nexecs_done     : 4767417\nexecs_per_sec  : 1214.03\npaths_total    : 258\npaths_favored  : 77\npaths_found    : 257\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 194\npending_favs   : 0\npending_total  : 131\nvariable_paths : 0\nbitmap_cvg     : 1.00%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499834218\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Facilities_Access_Control_System/input -o /dev/shm/work/Facilities_Access_Control_System/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Facilities_Access_Control_System/Facilities_Access_Control_System.dict -- data/linux/processed-challenges/Facilities_Access_Control_System/bin/Facilities_Access_Control_System\n'
+p63
+I2
+tp64
+a(I3840
+S'start_time     : 1499830551\nlast_update    : 1499834399\nfuzzer_pid     : 8956\ncycles_done    : 1\nexecs_done     : 4910152\nexecs_per_sec  : 1146.06\npaths_total    : 261\npaths_favored  : 77\npaths_found    : 260\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 201\npending_favs   : 0\npending_total  : 132\nvariable_paths : 0\nbitmap_cvg     : 1.00%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499834387\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Facilities_Access_Control_System/input -o /dev/shm/work/Facilities_Access_Control_System/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Facilities_Access_Control_System/Facilities_Access_Control_System.dict -- data/linux/processed-challenges/Facilities_Access_Control_System/bin/Facilities_Access_Control_System\n'
+p65
+I3
+tp66
+a(I3960
+S'start_time     : 1499830551\nlast_update    : 1499834519\nfuzzer_pid     : 8956\ncycles_done    : 1\nexecs_done     : 5046429\nexecs_per_sec  : 1186.77\npaths_total    : 261\npaths_favored  : 77\npaths_found    : 260\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 211\npending_favs   : 0\npending_total  : 129\nvariable_paths : 0\nbitmap_cvg     : 1.00%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499834387\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Facilities_Access_Control_System/input -o /dev/shm/work/Facilities_Access_Control_System/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Facilities_Access_Control_System/Facilities_Access_Control_System.dict -- data/linux/processed-challenges/Facilities_Access_Control_System/bin/Facilities_Access_Control_System\n'
+p67
+I0
+tp68
+a(I4080
+S'start_time     : 1499830551\nlast_update    : 1499834639\nfuzzer_pid     : 8956\ncycles_done    : 1\nexecs_done     : 5188525\nexecs_per_sec  : 1191.42\npaths_total    : 262\npaths_favored  : 77\npaths_found    : 261\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 227\npending_favs   : 0\npending_total  : 129\nvariable_paths : 0\nbitmap_cvg     : 1.00%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499834545\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Facilities_Access_Control_System/input -o /dev/shm/work/Facilities_Access_Control_System/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Facilities_Access_Control_System/Facilities_Access_Control_System.dict -- data/linux/processed-challenges/Facilities_Access_Control_System/bin/Facilities_Access_Control_System\n'
+p69
+I1
+tp70
+a(I4200
+S'start_time     : 1499830551\nlast_update    : 1499834759\nfuzzer_pid     : 8956\ncycles_done    : 1\nexecs_done     : 5314552\nexecs_per_sec  : 877.73\npaths_total    : 262\npaths_favored  : 77\npaths_found    : 261\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 230\npending_favs   : 0\npending_total  : 129\nvariable_paths : 0\nbitmap_cvg     : 1.00%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499834545\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Facilities_Access_Control_System/input -o /dev/shm/work/Facilities_Access_Control_System/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Facilities_Access_Control_System/Facilities_Access_Control_System.dict -- data/linux/processed-challenges/Facilities_Access_Control_System/bin/Facilities_Access_Control_System\n'
+p71
+I0
+tp72
+a(I4320
+S'start_time     : 1499830551\nlast_update    : 1499834880\nfuzzer_pid     : 8956\ncycles_done    : 1\nexecs_done     : 5450458\nexecs_per_sec  : 909.34\npaths_total    : 264\npaths_favored  : 77\npaths_found    : 263\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 242\npending_favs   : 0\npending_total  : 129\nvariable_paths : 0\nbitmap_cvg     : 1.00%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1499834797\nlast_crash     : 0\nlast_hang      : 1499834870\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Facilities_Access_Control_System/input -o /dev/shm/work/Facilities_Access_Control_System/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Facilities_Access_Control_System/Facilities_Access_Control_System.dict -- data/linux/processed-challenges/Facilities_Access_Control_System/bin/Facilities_Access_Control_System\n'
+p73
+I2
+tp74
+a(I4440
+S'start_time     : 1499830551\nlast_update    : 1499835000\nfuzzer_pid     : 8956\ncycles_done    : 1\nexecs_done     : 5571180\nexecs_per_sec  : 1009.40\npaths_total    : 265\npaths_favored  : 77\npaths_found    : 264\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 245\npending_favs   : 0\npending_total  : 128\nvariable_paths : 0\nbitmap_cvg     : 1.00%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1499834985\nlast_crash     : 0\nlast_hang      : 1499834870\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Facilities_Access_Control_System/input -o /dev/shm/work/Facilities_Access_Control_System/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Facilities_Access_Control_System/Facilities_Access_Control_System.dict -- data/linux/processed-challenges/Facilities_Access_Control_System/bin/Facilities_Access_Control_System\n'
+p75
+I1
+tp76
+a(I4560
+S'start_time     : 1499830551\nlast_update    : 1499835120\nfuzzer_pid     : 8956\ncycles_done    : 1\nexecs_done     : 5678402\nexecs_per_sec  : 850.53\npaths_total    : 266\npaths_favored  : 77\npaths_found    : 265\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 258\npending_favs   : 0\npending_total  : 128\nvariable_paths : 0\nbitmap_cvg     : 1.00%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1499835091\nlast_crash     : 0\nlast_hang      : 1499834870\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Facilities_Access_Control_System/input -o /dev/shm/work/Facilities_Access_Control_System/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Facilities_Access_Control_System/Facilities_Access_Control_System.dict -- data/linux/processed-challenges/Facilities_Access_Control_System/bin/Facilities_Access_Control_System\n'
+p77
+I1
+tp78
+a(I4680
+S'start_time     : 1499830551\nlast_update    : 1499835180\nfuzzer_pid     : 8956\ncycles_done    : 1\nexecs_done     : 5719349\nexecs_per_sec  : 580.52\npaths_total    : 267\npaths_favored  : 77\npaths_found    : 266\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 261\npending_favs   : 0\npending_total  : 128\nvariable_paths : 0\nbitmap_cvg     : 1.00%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1499835148\nlast_crash     : 0\nlast_hang      : 1499834870\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Facilities_Access_Control_System/input -o /dev/shm/work/Facilities_Access_Control_System/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Facilities_Access_Control_System/Facilities_Access_Control_System.dict -- data/linux/processed-challenges/Facilities_Access_Control_System/bin/Facilities_Access_Control_System\n'
+p79
+I2
+tp80
+a(I4800
+S'start_time     : 1499830551\nlast_update    : 1499835301\nfuzzer_pid     : 8956\ncycles_done    : 1\nexecs_done     : 5796013\nexecs_per_sec  : 773.81\npaths_total    : 269\npaths_favored  : 77\npaths_found    : 268\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 261\npending_favs   : 0\npending_total  : 130\nvariable_paths : 0\nbitmap_cvg     : 1.04%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1499835269\nlast_crash     : 0\nlast_hang      : 1499834870\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Facilities_Access_Control_System/input -o /dev/shm/work/Facilities_Access_Control_System/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Facilities_Access_Control_System/Facilities_Access_Control_System.dict -- data/linux/processed-challenges/Facilities_Access_Control_System/bin/Facilities_Access_Control_System\n'
+p81
+I1
+tp82
+a(I4920
+S'start_time     : 1499830551\nlast_update    : 1499835421\nfuzzer_pid     : 8956\ncycles_done    : 1\nexecs_done     : 5864779\nexecs_per_sec  : 636.45\npaths_total    : 269\npaths_favored  : 76\npaths_found    : 268\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 266\npending_favs   : 2\npending_total  : 129\nvariable_paths : 0\nbitmap_cvg     : 1.04%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1499835269\nlast_crash     : 0\nlast_hang      : 1499834870\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Facilities_Access_Control_System/input -o /dev/shm/work/Facilities_Access_Control_System/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Facilities_Access_Control_System/Facilities_Access_Control_System.dict -- data/linux/processed-challenges/Facilities_Access_Control_System/bin/Facilities_Access_Control_System\n'
+p83
+I1
+tp84
+a(I5040
+S'start_time     : 1499830551\nlast_update    : 1499835541\nfuzzer_pid     : 8956\ncycles_done    : 1\nexecs_done     : 5949008\nexecs_per_sec  : 752.36\npaths_total    : 271\npaths_favored  : 76\npaths_found    : 270\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 266\npending_favs   : 2\npending_total  : 131\nvariable_paths : 0\nbitmap_cvg     : 1.07%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1499835520\nlast_crash     : 0\nlast_hang      : 1499834870\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Facilities_Access_Control_System/input -o /dev/shm/work/Facilities_Access_Control_System/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Facilities_Access_Control_System/Facilities_Access_Control_System.dict -- data/linux/processed-challenges/Facilities_Access_Control_System/bin/Facilities_Access_Control_System\n'
+p85
+I1
+tp86
+a(I5160
+S'start_time     : 1499830551\nlast_update    : 1499835661\nfuzzer_pid     : 8956\ncycles_done    : 1\nexecs_done     : 6031010\nexecs_per_sec  : 575.29\npaths_total    : 278\npaths_favored  : 77\npaths_found    : 277\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 267\npending_favs   : 3\npending_total  : 137\nvariable_paths : 0\nbitmap_cvg     : 1.13%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1499835659\nlast_crash     : 0\nlast_hang      : 1499834870\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Facilities_Access_Control_System/input -o /dev/shm/work/Facilities_Access_Control_System/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Facilities_Access_Control_System/Facilities_Access_Control_System.dict -- data/linux/processed-challenges/Facilities_Access_Control_System/bin/Facilities_Access_Control_System\n'
+p87
+I7
+tp88
+a(I5280
+S'start_time     : 1499830551\nlast_update    : 1499835781\nfuzzer_pid     : 8956\ncycles_done    : 1\nexecs_done     : 6109302\nexecs_per_sec  : 763.89\npaths_total    : 279\npaths_favored  : 77\npaths_found    : 278\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 267\npending_favs   : 3\npending_total  : 138\nvariable_paths : 0\nbitmap_cvg     : 1.13%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1499835743\nlast_crash     : 0\nlast_hang      : 1499834870\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Facilities_Access_Control_System/input -o /dev/shm/work/Facilities_Access_Control_System/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Facilities_Access_Control_System/Facilities_Access_Control_System.dict -- data/linux/processed-challenges/Facilities_Access_Control_System/bin/Facilities_Access_Control_System\n'
+p89
+I1
+tp90
+a(I5400
+S'start_time     : 1499830551\nlast_update    : 1499835902\nfuzzer_pid     : 8956\ncycles_done    : 1\nexecs_done     : 6183618\nexecs_per_sec  : 559.79\npaths_total    : 279\npaths_favored  : 83\npaths_found    : 278\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 268\npending_favs   : 9\npending_total  : 137\nvariable_paths : 0\nbitmap_cvg     : 1.13%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1499835743\nlast_crash     : 0\nlast_hang      : 1499834870\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Facilities_Access_Control_System/input -o /dev/shm/work/Facilities_Access_Control_System/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Facilities_Access_Control_System/Facilities_Access_Control_System.dict -- data/linux/processed-challenges/Facilities_Access_Control_System/bin/Facilities_Access_Control_System\n'
+p91
+I0
+tp92
+a(I5520
+S'start_time     : 1499830551\nlast_update    : 1499836022\nfuzzer_pid     : 8956\ncycles_done    : 1\nexecs_done     : 6266055\nexecs_per_sec  : 625.74\npaths_total    : 283\npaths_favored  : 83\npaths_found    : 282\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 269\npending_favs   : 8\npending_total  : 140\nvariable_paths : 0\nbitmap_cvg     : 1.15%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1499836020\nlast_crash     : 0\nlast_hang      : 1499834870\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Facilities_Access_Control_System/input -o /dev/shm/work/Facilities_Access_Control_System/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Facilities_Access_Control_System/Facilities_Access_Control_System.dict -- data/linux/processed-challenges/Facilities_Access_Control_System/bin/Facilities_Access_Control_System\n'
+p93
+I9
+tp94
+a(I5640
+S'start_time     : 1499830551\nlast_update    : 1499836142\nfuzzer_pid     : 8956\ncycles_done    : 1\nexecs_done     : 6344356\nexecs_per_sec  : 800.17\npaths_total    : 292\npaths_favored  : 83\npaths_found    : 291\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 269\npending_favs   : 8\npending_total  : 149\nvariable_paths : 0\nbitmap_cvg     : 1.20%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1499836125\nlast_crash     : 0\nlast_hang      : 1499834870\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Facilities_Access_Control_System/input -o /dev/shm/work/Facilities_Access_Control_System/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Facilities_Access_Control_System/Facilities_Access_Control_System.dict -- data/linux/processed-challenges/Facilities_Access_Control_System/bin/Facilities_Access_Control_System\n'
+p95
+I6
+tp96
+a(I5760
+S'start_time     : 1499830551\nlast_update    : 1499836262\nfuzzer_pid     : 8956\ncycles_done    : 1\nexecs_done     : 6431424\nexecs_per_sec  : 568.54\npaths_total    : 294\npaths_favored  : 85\npaths_found    : 293\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 271\npending_favs   : 16\npending_total  : 150\nvariable_paths : 0\nbitmap_cvg     : 1.20%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1499836161\nlast_crash     : 0\nlast_hang      : 1499834870\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Facilities_Access_Control_System/input -o /dev/shm/work/Facilities_Access_Control_System/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Facilities_Access_Control_System/Facilities_Access_Control_System.dict -- data/linux/processed-challenges/Facilities_Access_Control_System/bin/Facilities_Access_Control_System\n'
+p97
+I0
+tp98
+a(I5880
+S'start_time     : 1499830551\nlast_update    : 1499836383\nfuzzer_pid     : 8956\ncycles_done    : 1\nexecs_done     : 6511160\nexecs_per_sec  : 784.66\npaths_total    : 294\npaths_favored  : 85\npaths_found    : 293\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 271\npending_favs   : 16\npending_total  : 150\nvariable_paths : 0\nbitmap_cvg     : 1.20%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1499836161\nlast_crash     : 0\nlast_hang      : 1499834870\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Facilities_Access_Control_System/input -o /dev/shm/work/Facilities_Access_Control_System/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Facilities_Access_Control_System/Facilities_Access_Control_System.dict -- data/linux/processed-challenges/Facilities_Access_Control_System/bin/Facilities_Access_Control_System\n'
+p99
+I0
+tp100
+a(I6000
+S'start_time     : 1499830551\nlast_update    : 1499836503\nfuzzer_pid     : 8956\ncycles_done    : 1\nexecs_done     : 6601242\nexecs_per_sec  : 759.96\npaths_total    : 294\npaths_favored  : 85\npaths_found    : 293\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 274\npending_favs   : 14\npending_total  : 148\nvariable_paths : 0\nbitmap_cvg     : 1.20%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1499836161\nlast_crash     : 0\nlast_hang      : 1499834870\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Facilities_Access_Control_System/input -o /dev/shm/work/Facilities_Access_Control_System/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Facilities_Access_Control_System/Facilities_Access_Control_System.dict -- data/linux/processed-challenges/Facilities_Access_Control_System/bin/Facilities_Access_Control_System\n'
+p101
+I5
+tp102
+a(I6120
+S'start_time     : 1499830551\nlast_update    : 1499836623\nfuzzer_pid     : 8956\ncycles_done    : 1\nexecs_done     : 6680758\nexecs_per_sec  : 814.20\npaths_total    : 300\npaths_favored  : 85\npaths_found    : 299\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 274\npending_favs   : 14\npending_total  : 154\nvariable_paths : 0\nbitmap_cvg     : 1.21%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1499836597\nlast_crash     : 0\nlast_hang      : 1499834870\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Facilities_Access_Control_System/input -o /dev/shm/work/Facilities_Access_Control_System/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Facilities_Access_Control_System/Facilities_Access_Control_System.dict -- data/linux/processed-challenges/Facilities_Access_Control_System/bin/Facilities_Access_Control_System\n'
+p103
+I2
+tp104
+a(I6240
+S'start_time     : 1499830551\nlast_update    : 1499836743\nfuzzer_pid     : 8956\ncycles_done    : 1\nexecs_done     : 6777552\nexecs_per_sec  : 819.02\npaths_total    : 301\npaths_favored  : 85\npaths_found    : 300\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 274\npending_favs   : 14\npending_total  : 155\nvariable_paths : 0\nbitmap_cvg     : 1.21%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1499836666\nlast_crash     : 0\nlast_hang      : 1499834870\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Facilities_Access_Control_System/input -o /dev/shm/work/Facilities_Access_Control_System/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Facilities_Access_Control_System/Facilities_Access_Control_System.dict -- data/linux/processed-challenges/Facilities_Access_Control_System/bin/Facilities_Access_Control_System\n'
+p105
+I2
+tp106
+a(I6360
+S'start_time     : 1499830551\nlast_update    : 1499836863\nfuzzer_pid     : 8956\ncycles_done    : 1\nexecs_done     : 6851125\nexecs_per_sec  : 618.50\npaths_total    : 303\npaths_favored  : 88\npaths_found    : 302\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 275\npending_favs   : 18\npending_total  : 156\nvariable_paths : 0\nbitmap_cvg     : 1.22%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1499836787\nlast_crash     : 0\nlast_hang      : 1499836757\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Facilities_Access_Control_System/input -o /dev/shm/work/Facilities_Access_Control_System/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Facilities_Access_Control_System/Facilities_Access_Control_System.dict -- data/linux/processed-challenges/Facilities_Access_Control_System/bin/Facilities_Access_Control_System\n'
+p107
+I0
+tp108
+a(I6480
+S'start_time     : 1499830551\nlast_update    : 1499836984\nfuzzer_pid     : 8956\ncycles_done    : 1\nexecs_done     : 6933017\nexecs_per_sec  : 565.94\npaths_total    : 303\npaths_favored  : 89\npaths_found    : 302\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 276\npending_favs   : 19\npending_total  : 155\nvariable_paths : 0\nbitmap_cvg     : 1.22%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1499836787\nlast_crash     : 0\nlast_hang      : 1499836757\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Facilities_Access_Control_System/input -o /dev/shm/work/Facilities_Access_Control_System/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Facilities_Access_Control_System/Facilities_Access_Control_System.dict -- data/linux/processed-challenges/Facilities_Access_Control_System/bin/Facilities_Access_Control_System\n'
+p109
+I0
+tp110
+a(I6600
+S'start_time     : 1499830551\nlast_update    : 1499837104\nfuzzer_pid     : 8956\ncycles_done    : 1\nexecs_done     : 7010878\nexecs_per_sec  : 776.52\npaths_total    : 303\npaths_favored  : 89\npaths_found    : 302\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 276\npending_favs   : 19\npending_total  : 155\nvariable_paths : 0\nbitmap_cvg     : 1.22%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1499836787\nlast_crash     : 0\nlast_hang      : 1499836757\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Facilities_Access_Control_System/input -o /dev/shm/work/Facilities_Access_Control_System/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Facilities_Access_Control_System/Facilities_Access_Control_System.dict -- data/linux/processed-challenges/Facilities_Access_Control_System/bin/Facilities_Access_Control_System\n'
+p111
+I2
+tp112
+a(I6720
+S'start_time     : 1499830551\nlast_update    : 1499837224\nfuzzer_pid     : 8956\ncycles_done    : 1\nexecs_done     : 7087519\nexecs_per_sec  : 755.80\npaths_total    : 305\npaths_favored  : 89\npaths_found    : 304\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 277\npending_favs   : 18\npending_total  : 156\nvariable_paths : 0\nbitmap_cvg     : 1.22%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1499837132\nlast_crash     : 0\nlast_hang      : 1499836757\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Facilities_Access_Control_System/input -o /dev/shm/work/Facilities_Access_Control_System/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Facilities_Access_Control_System/Facilities_Access_Control_System.dict -- data/linux/processed-challenges/Facilities_Access_Control_System/bin/Facilities_Access_Control_System\n'
+p113
+I4
+tp114
+a(I6840
+S'start_time     : 1499830551\nlast_update    : 1499837344\nfuzzer_pid     : 8956\ncycles_done    : 1\nexecs_done     : 7177230\nexecs_per_sec  : 798.16\npaths_total    : 310\npaths_favored  : 89\npaths_found    : 309\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 277\npending_favs   : 18\npending_total  : 161\nvariable_paths : 0\nbitmap_cvg     : 1.23%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1499837341\nlast_crash     : 0\nlast_hang      : 1499836757\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Facilities_Access_Control_System/input -o /dev/shm/work/Facilities_Access_Control_System/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Facilities_Access_Control_System/Facilities_Access_Control_System.dict -- data/linux/processed-challenges/Facilities_Access_Control_System/bin/Facilities_Access_Control_System\n'
+p115
+I1
+tp116
+a(I6960
+S'start_time     : 1499830551\nlast_update    : 1499837465\nfuzzer_pid     : 8956\ncycles_done    : 1\nexecs_done     : 7255413\nexecs_per_sec  : 670.69\npaths_total    : 310\npaths_favored  : 89\npaths_found    : 309\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 280\npending_favs   : 20\npending_total  : 160\nvariable_paths : 0\nbitmap_cvg     : 1.23%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1499837341\nlast_crash     : 0\nlast_hang      : 1499836757\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Facilities_Access_Control_System/input -o /dev/shm/work/Facilities_Access_Control_System/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Facilities_Access_Control_System/Facilities_Access_Control_System.dict -- data/linux/processed-challenges/Facilities_Access_Control_System/bin/Facilities_Access_Control_System\n'
+p117
+I1
+tp118
+a(I7080
+S'start_time     : 1499830551\nlast_update    : 1499837585\nfuzzer_pid     : 8956\ncycles_done    : 1\nexecs_done     : 7344353\nexecs_per_sec  : 793.72\npaths_total    : 312\npaths_favored  : 89\npaths_found    : 311\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 280\npending_favs   : 20\npending_total  : 162\nvariable_paths : 0\nbitmap_cvg     : 1.23%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1499837539\nlast_crash     : 0\nlast_hang      : 1499836757\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Facilities_Access_Control_System/input -o /dev/shm/work/Facilities_Access_Control_System/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Facilities_Access_Control_System/Facilities_Access_Control_System.dict -- data/linux/processed-challenges/Facilities_Access_Control_System/bin/Facilities_Access_Control_System\n'
+p119
+I1
+tp120
+a(I7200
+S'start_time     : 1499830551\nlast_update    : 1499837705\nfuzzer_pid     : 8956\ncycles_done    : 1\nexecs_done     : 7426471\nexecs_per_sec  : 775.57\npaths_total    : 314\npaths_favored  : 89\npaths_found    : 313\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 282\npending_favs   : 19\npending_total  : 163\nvariable_paths : 0\nbitmap_cvg     : 1.24%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1499837699\nlast_crash     : 0\nlast_hang      : 1499836757\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Facilities_Access_Control_System/input -o /dev/shm/work/Facilities_Access_Control_System/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Facilities_Access_Control_System/Facilities_Access_Control_System.dict -- data/linux/processed-challenges/Facilities_Access_Control_System/bin/Facilities_Access_Control_System\n'
+p121
+I2
+tp122
+a(I7320
+S'start_time     : 1499830551\nlast_update    : 1499837825\nfuzzer_pid     : 8956\ncycles_done    : 1\nexecs_done     : 7520852\nexecs_per_sec  : 634.60\npaths_total    : 314\npaths_favored  : 89\npaths_found    : 313\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 283\npending_favs   : 19\npending_total  : 162\nvariable_paths : 0\nbitmap_cvg     : 1.24%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1499837699\nlast_crash     : 0\nlast_hang      : 1499836757\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Facilities_Access_Control_System/input -o /dev/shm/work/Facilities_Access_Control_System/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Facilities_Access_Control_System/Facilities_Access_Control_System.dict -- data/linux/processed-challenges/Facilities_Access_Control_System/bin/Facilities_Access_Control_System\n'
+p123
+I1
+tp124
+a(I7440
+S'start_time     : 1499830551\nlast_update    : 1499837945\nfuzzer_pid     : 8956\ncycles_done    : 1\nexecs_done     : 7607136\nexecs_per_sec  : 799.60\npaths_total    : 316\npaths_favored  : 89\npaths_found    : 315\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 283\npending_favs   : 19\npending_total  : 164\nvariable_paths : 0\nbitmap_cvg     : 1.25%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1499837903\nlast_crash     : 0\nlast_hang      : 1499836757\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Facilities_Access_Control_System/input -o /dev/shm/work/Facilities_Access_Control_System/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Facilities_Access_Control_System/Facilities_Access_Control_System.dict -- data/linux/processed-challenges/Facilities_Access_Control_System/bin/Facilities_Access_Control_System\n'
+p125
+I1
+tp126
+a(I7560
+S'start_time     : 1499830551\nlast_update    : 1499838066\nfuzzer_pid     : 8956\ncycles_done    : 1\nexecs_done     : 7696455\nexecs_per_sec  : 676.76\npaths_total    : 316\npaths_favored  : 89\npaths_found    : 315\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 285\npending_favs   : 19\npending_total  : 163\nvariable_paths : 0\nbitmap_cvg     : 1.25%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1499837903\nlast_crash     : 0\nlast_hang      : 1499836757\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Facilities_Access_Control_System/input -o /dev/shm/work/Facilities_Access_Control_System/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Facilities_Access_Control_System/Facilities_Access_Control_System.dict -- data/linux/processed-challenges/Facilities_Access_Control_System/bin/Facilities_Access_Control_System\n'
+p127
+I1
+tp128
+a(I7680
+S'start_time     : 1499830551\nlast_update    : 1499838186\nfuzzer_pid     : 8956\ncycles_done    : 1\nexecs_done     : 7788281\nexecs_per_sec  : 799.36\npaths_total    : 317\npaths_favored  : 89\npaths_found    : 316\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 285\npending_favs   : 19\npending_total  : 164\nvariable_paths : 0\nbitmap_cvg     : 1.25%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1499838107\nlast_crash     : 0\nlast_hang      : 1499836757\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Facilities_Access_Control_System/input -o /dev/shm/work/Facilities_Access_Control_System/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Facilities_Access_Control_System/Facilities_Access_Control_System.dict -- data/linux/processed-challenges/Facilities_Access_Control_System/bin/Facilities_Access_Control_System\n'
+p129
+I0
+tp130
+a(I7800
+S'start_time     : 1499830551\nlast_update    : 1499838306\nfuzzer_pid     : 8956\ncycles_done    : 1\nexecs_done     : 7872480\nexecs_per_sec  : 626.19\npaths_total    : 317\npaths_favored  : 90\npaths_found    : 316\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 286\npending_favs   : 19\npending_total  : 163\nvariable_paths : 0\nbitmap_cvg     : 1.25%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1499838107\nlast_crash     : 0\nlast_hang      : 1499836757\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Facilities_Access_Control_System/input -o /dev/shm/work/Facilities_Access_Control_System/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Facilities_Access_Control_System/Facilities_Access_Control_System.dict -- data/linux/processed-challenges/Facilities_Access_Control_System/bin/Facilities_Access_Control_System\n'
+p131
+I0
+tp132
+a(I7920
+S'start_time     : 1499830551\nlast_update    : 1499838426\nfuzzer_pid     : 8956\ncycles_done    : 1\nexecs_done     : 7965661\nexecs_per_sec  : 783.46\npaths_total    : 318\npaths_favored  : 90\npaths_found    : 317\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 290\npending_favs   : 18\npending_total  : 163\nvariable_paths : 0\nbitmap_cvg     : 1.25%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1499838378\nlast_crash     : 0\nlast_hang      : 1499836757\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Facilities_Access_Control_System/input -o /dev/shm/work/Facilities_Access_Control_System/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Facilities_Access_Control_System/Facilities_Access_Control_System.dict -- data/linux/processed-challenges/Facilities_Access_Control_System/bin/Facilities_Access_Control_System\n'
+p133
+I1
+tp134
+a(I8040
+S'start_time     : 1499830551\nlast_update    : 1499838546\nfuzzer_pid     : 8956\ncycles_done    : 1\nexecs_done     : 8062458\nexecs_per_sec  : 792.65\npaths_total    : 318\npaths_favored  : 90\npaths_found    : 317\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 292\npending_favs   : 18\npending_total  : 162\nvariable_paths : 0\nbitmap_cvg     : 1.25%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1499838378\nlast_crash     : 0\nlast_hang      : 1499836757\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Facilities_Access_Control_System/input -o /dev/shm/work/Facilities_Access_Control_System/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Facilities_Access_Control_System/Facilities_Access_Control_System.dict -- data/linux/processed-challenges/Facilities_Access_Control_System/bin/Facilities_Access_Control_System\n'
+p135
+I1
+tp136
+a(I8160
+S'start_time     : 1499830551\nlast_update    : 1499838667\nfuzzer_pid     : 8956\ncycles_done    : 1\nexecs_done     : 8165892\nexecs_per_sec  : 885.22\npaths_total    : 319\npaths_favored  : 90\npaths_found    : 318\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 292\npending_favs   : 18\npending_total  : 163\nvariable_paths : 0\nbitmap_cvg     : 1.25%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1499838575\nlast_crash     : 0\nlast_hang      : 1499836757\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Facilities_Access_Control_System/input -o /dev/shm/work/Facilities_Access_Control_System/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Facilities_Access_Control_System/Facilities_Access_Control_System.dict -- data/linux/processed-challenges/Facilities_Access_Control_System/bin/Facilities_Access_Control_System\n'
+p137
+I0
+tp138
+a(I8280
+S'start_time     : 1499830551\nlast_update    : 1499838787\nfuzzer_pid     : 8956\ncycles_done    : 1\nexecs_done     : 8243090\nexecs_per_sec  : 622.65\npaths_total    : 319\npaths_favored  : 90\npaths_found    : 318\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 294\npending_favs   : 18\npending_total  : 162\nvariable_paths : 0\nbitmap_cvg     : 1.25%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1499838575\nlast_crash     : 0\nlast_hang      : 1499836757\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Facilities_Access_Control_System/input -o /dev/shm/work/Facilities_Access_Control_System/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Facilities_Access_Control_System/Facilities_Access_Control_System.dict -- data/linux/processed-challenges/Facilities_Access_Control_System/bin/Facilities_Access_Control_System\n'
+p139
+I1
+tp140
+a(I8400
+S'start_time     : 1499830551\nlast_update    : 1499838907\nfuzzer_pid     : 8956\ncycles_done    : 1\nexecs_done     : 8338108\nexecs_per_sec  : 629.35\npaths_total    : 320\npaths_favored  : 90\npaths_found    : 319\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 295\npending_favs   : 17\npending_total  : 162\nvariable_paths : 0\nbitmap_cvg     : 1.25%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1499838828\nlast_crash     : 0\nlast_hang      : 1499838839\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Facilities_Access_Control_System/input -o /dev/shm/work/Facilities_Access_Control_System/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Facilities_Access_Control_System/Facilities_Access_Control_System.dict -- data/linux/processed-challenges/Facilities_Access_Control_System/bin/Facilities_Access_Control_System\n'
+p141
+I0
+tp142
+a(I8520
+S'start_time     : 1499830551\nlast_update    : 1499839027\nfuzzer_pid     : 8956\ncycles_done    : 1\nexecs_done     : 8418757\nexecs_per_sec  : 813.02\npaths_total    : 320\npaths_favored  : 90\npaths_found    : 319\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 295\npending_favs   : 17\npending_total  : 162\nvariable_paths : 0\nbitmap_cvg     : 1.25%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1499838828\nlast_crash     : 0\nlast_hang      : 1499838839\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Facilities_Access_Control_System/input -o /dev/shm/work/Facilities_Access_Control_System/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Facilities_Access_Control_System/Facilities_Access_Control_System.dict -- data/linux/processed-challenges/Facilities_Access_Control_System/bin/Facilities_Access_Control_System\n'
+p143
+I0
+tp144
+a(I8640
+S'start_time     : 1499830551\nlast_update    : 1499839147\nfuzzer_pid     : 8956\ncycles_done    : 1\nexecs_done     : 8499564\nexecs_per_sec  : 763.80\npaths_total    : 320\npaths_favored  : 90\npaths_found    : 319\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 296\npending_favs   : 16\npending_total  : 161\nvariable_paths : 0\nbitmap_cvg     : 1.25%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1499838828\nlast_crash     : 0\nlast_hang      : 1499838839\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Facilities_Access_Control_System/input -o /dev/shm/work/Facilities_Access_Control_System/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Facilities_Access_Control_System/Facilities_Access_Control_System.dict -- data/linux/processed-challenges/Facilities_Access_Control_System/bin/Facilities_Access_Control_System\n'
+p145
+I0
+tp146
+a(I8760
+S'start_time     : 1499830551\nlast_update    : 1499839268\nfuzzer_pid     : 8956\ncycles_done    : 1\nexecs_done     : 8583609\nexecs_per_sec  : 616.46\npaths_total    : 320\npaths_favored  : 90\npaths_found    : 319\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 297\npending_favs   : 15\npending_total  : 160\nvariable_paths : 0\nbitmap_cvg     : 1.25%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1499838828\nlast_crash     : 0\nlast_hang      : 1499838839\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Facilities_Access_Control_System/input -o /dev/shm/work/Facilities_Access_Control_System/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Facilities_Access_Control_System/Facilities_Access_Control_System.dict -- data/linux/processed-challenges/Facilities_Access_Control_System/bin/Facilities_Access_Control_System\n'
+p147
+I0
+tp148
+a(I8880
+S'start_time     : 1499830551\nlast_update    : 1499839388\nfuzzer_pid     : 8956\ncycles_done    : 1\nexecs_done     : 8670641\nexecs_per_sec  : 609.81\npaths_total    : 320\npaths_favored  : 90\npaths_found    : 319\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 301\npending_favs   : 14\npending_total  : 159\nvariable_paths : 0\nbitmap_cvg     : 1.25%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1499838828\nlast_crash     : 0\nlast_hang      : 1499838839\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Facilities_Access_Control_System/input -o /dev/shm/work/Facilities_Access_Control_System/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Facilities_Access_Control_System/Facilities_Access_Control_System.dict -- data/linux/processed-challenges/Facilities_Access_Control_System/bin/Facilities_Access_Control_System\n'
+p149
+I0
+tp150
+a(I9000
+S'start_time     : 1499830551\nlast_update    : 1499839508\nfuzzer_pid     : 8956\ncycles_done    : 1\nexecs_done     : 8754004\nexecs_per_sec  : 829.06\npaths_total    : 320\npaths_favored  : 90\npaths_found    : 319\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 301\npending_favs   : 14\npending_total  : 159\nvariable_paths : 0\nbitmap_cvg     : 1.25%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1499838828\nlast_crash     : 0\nlast_hang      : 1499838839\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Facilities_Access_Control_System/input -o /dev/shm/work/Facilities_Access_Control_System/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Facilities_Access_Control_System/Facilities_Access_Control_System.dict -- data/linux/processed-challenges/Facilities_Access_Control_System/bin/Facilities_Access_Control_System\n'
+p151
+I0
+tp152
+a(I9120
+S'start_time     : 1499830551\nlast_update    : 1499839629\nfuzzer_pid     : 8956\ncycles_done    : 1\nexecs_done     : 8845472\nexecs_per_sec  : 901.80\npaths_total    : 320\npaths_favored  : 90\npaths_found    : 319\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 302\npending_favs   : 13\npending_total  : 158\nvariable_paths : 0\nbitmap_cvg     : 1.25%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1499838828\nlast_crash     : 0\nlast_hang      : 1499838839\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Facilities_Access_Control_System/input -o /dev/shm/work/Facilities_Access_Control_System/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Facilities_Access_Control_System/Facilities_Access_Control_System.dict -- data/linux/processed-challenges/Facilities_Access_Control_System/bin/Facilities_Access_Control_System\n'
+p153
+I0
+tp154
+a(I9240
+S'start_time     : 1499830551\nlast_update    : 1499839749\nfuzzer_pid     : 8956\ncycles_done    : 1\nexecs_done     : 8927833\nexecs_per_sec  : 678.10\npaths_total    : 320\npaths_favored  : 90\npaths_found    : 319\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 304\npending_favs   : 12\npending_total  : 157\nvariable_paths : 0\nbitmap_cvg     : 1.25%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1499838828\nlast_crash     : 0\nlast_hang      : 1499838839\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Facilities_Access_Control_System/input -o /dev/shm/work/Facilities_Access_Control_System/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Facilities_Access_Control_System/Facilities_Access_Control_System.dict -- data/linux/processed-challenges/Facilities_Access_Control_System/bin/Facilities_Access_Control_System\n'
+p155
+I0
+tp156
+a(I9360
+S'start_time     : 1499830551\nlast_update    : 1499839869\nfuzzer_pid     : 8956\ncycles_done    : 1\nexecs_done     : 9013394\nexecs_per_sec  : 623.20\npaths_total    : 320\npaths_favored  : 90\npaths_found    : 319\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 305\npending_favs   : 11\npending_total  : 156\nvariable_paths : 0\nbitmap_cvg     : 1.25%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1499838828\nlast_crash     : 0\nlast_hang      : 1499838839\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Facilities_Access_Control_System/input -o /dev/shm/work/Facilities_Access_Control_System/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Facilities_Access_Control_System/Facilities_Access_Control_System.dict -- data/linux/processed-challenges/Facilities_Access_Control_System/bin/Facilities_Access_Control_System\n'
+p157
+I0
+tp158
+a(I9480
+S'start_time     : 1499830551\nlast_update    : 1499839989\nfuzzer_pid     : 8956\ncycles_done    : 1\nexecs_done     : 9094841\nexecs_per_sec  : 844.84\npaths_total    : 320\npaths_favored  : 90\npaths_found    : 319\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 305\npending_favs   : 11\npending_total  : 156\nvariable_paths : 0\nbitmap_cvg     : 1.25%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1499838828\nlast_crash     : 0\nlast_hang      : 1499838839\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Facilities_Access_Control_System/input -o /dev/shm/work/Facilities_Access_Control_System/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Facilities_Access_Control_System/Facilities_Access_Control_System.dict -- data/linux/processed-challenges/Facilities_Access_Control_System/bin/Facilities_Access_Control_System\n'
+p159
+I0
+tp160
+a(I9600
+S'start_time     : 1499830551\nlast_update    : 1499840109\nfuzzer_pid     : 8956\ncycles_done    : 1\nexecs_done     : 9182501\nexecs_per_sec  : 685.17\npaths_total    : 320\npaths_favored  : 90\npaths_found    : 319\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 306\npending_favs   : 10\npending_total  : 155\nvariable_paths : 0\nbitmap_cvg     : 1.25%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1499838828\nlast_crash     : 0\nlast_hang      : 1499838839\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Facilities_Access_Control_System/input -o /dev/shm/work/Facilities_Access_Control_System/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Facilities_Access_Control_System/Facilities_Access_Control_System.dict -- data/linux/processed-challenges/Facilities_Access_Control_System/bin/Facilities_Access_Control_System\n'
+p161
+I0
+tp162
+a(I9720
+S'start_time     : 1499830551\nlast_update    : 1499840229\nfuzzer_pid     : 8956\ncycles_done    : 1\nexecs_done     : 9265316\nexecs_per_sec  : 534.17\npaths_total    : 320\npaths_favored  : 90\npaths_found    : 319\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 310\npending_favs   : 9\npending_total  : 154\nvariable_paths : 0\nbitmap_cvg     : 1.25%\nunique_crashes : 0\nunique_hangs   : 6\nlast_path      : 1499838828\nlast_crash     : 0\nlast_hang      : 1499840191\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Facilities_Access_Control_System/input -o /dev/shm/work/Facilities_Access_Control_System/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Facilities_Access_Control_System/Facilities_Access_Control_System.dict -- data/linux/processed-challenges/Facilities_Access_Control_System/bin/Facilities_Access_Control_System\n'
+p163
+I2
+tp164
+a(I9840
+S'start_time     : 1499830551\nlast_update    : 1499840350\nfuzzer_pid     : 8956\ncycles_done    : 1\nexecs_done     : 9335933\nexecs_per_sec  : 701.72\npaths_total    : 323\npaths_favored  : 90\npaths_found    : 322\npaths_imported : 0\nmax_depth      : 12\ncur_path       : 310\npending_favs   : 9\npending_total  : 157\nvariable_paths : 0\nbitmap_cvg     : 1.26%\nunique_crashes : 0\nunique_hangs   : 6\nlast_path      : 1499840331\nlast_crash     : 0\nlast_hang      : 1499840191\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Facilities_Access_Control_System/input -o /dev/shm/work/Facilities_Access_Control_System/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Facilities_Access_Control_System/Facilities_Access_Control_System.dict -- data/linux/processed-challenges/Facilities_Access_Control_System/bin/Facilities_Access_Control_System\n'
+p165
+I1
+tp166
+a(I9960
+S'start_time     : 1499830551\nlast_update    : 1499840470\nfuzzer_pid     : 8956\ncycles_done    : 1\nexecs_done     : 9420908\nexecs_per_sec  : 727.52\npaths_total    : 323\npaths_favored  : 91\npaths_found    : 322\npaths_imported : 0\nmax_depth      : 12\ncur_path       : 311\npending_favs   : 9\npending_total  : 156\nvariable_paths : 0\nbitmap_cvg     : 1.26%\nunique_crashes : 0\nunique_hangs   : 6\nlast_path      : 1499840331\nlast_crash     : 0\nlast_hang      : 1499840191\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Facilities_Access_Control_System/input -o /dev/shm/work/Facilities_Access_Control_System/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Facilities_Access_Control_System/Facilities_Access_Control_System.dict -- data/linux/processed-challenges/Facilities_Access_Control_System/bin/Facilities_Access_Control_System\n'
+p167
+I0
+tp168
+a(I10080
+S'start_time     : 1499830551\nlast_update    : 1499840590\nfuzzer_pid     : 8956\ncycles_done    : 1\nexecs_done     : 9513710\nexecs_per_sec  : 837.35\npaths_total    : 324\npaths_favored  : 91\npaths_found    : 323\npaths_imported : 0\nmax_depth      : 12\ncur_path       : 311\npending_favs   : 9\npending_total  : 157\nvariable_paths : 0\nbitmap_cvg     : 1.26%\nunique_crashes : 0\nunique_hangs   : 7\nlast_path      : 1499840553\nlast_crash     : 0\nlast_hang      : 1499840538\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Facilities_Access_Control_System/input -o /dev/shm/work/Facilities_Access_Control_System/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Facilities_Access_Control_System/Facilities_Access_Control_System.dict -- data/linux/processed-challenges/Facilities_Access_Control_System/bin/Facilities_Access_Control_System\n'
+p169
+I2
+tp170
+a(I10200
+S'start_time     : 1499830551\nlast_update    : 1499840710\nfuzzer_pid     : 8956\ncycles_done    : 1\nexecs_done     : 9613495\nexecs_per_sec  : 786.76\npaths_total    : 325\npaths_favored  : 90\npaths_found    : 324\npaths_imported : 0\nmax_depth      : 12\ncur_path       : 313\npending_favs   : 8\npending_total  : 157\nvariable_paths : 0\nbitmap_cvg     : 1.26%\nunique_crashes : 0\nunique_hangs   : 7\nlast_path      : 1499840642\nlast_crash     : 0\nlast_hang      : 1499840538\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Facilities_Access_Control_System/input -o /dev/shm/work/Facilities_Access_Control_System/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Facilities_Access_Control_System/Facilities_Access_Control_System.dict -- data/linux/processed-challenges/Facilities_Access_Control_System/bin/Facilities_Access_Control_System\n'
+p171
+I2
+tp172
+a(I10320
+S'start_time     : 1499830551\nlast_update    : 1499840830\nfuzzer_pid     : 8956\ncycles_done    : 1\nexecs_done     : 9726446\nexecs_per_sec  : 961.26\npaths_total    : 327\npaths_favored  : 90\npaths_found    : 326\npaths_imported : 0\nmax_depth      : 12\ncur_path       : 313\npending_favs   : 8\npending_total  : 159\nvariable_paths : 0\nbitmap_cvg     : 1.26%\nunique_crashes : 0\nunique_hangs   : 10\nlast_path      : 1499840761\nlast_crash     : 0\nlast_hang      : 1499840816\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Facilities_Access_Control_System/input -o /dev/shm/work/Facilities_Access_Control_System/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Facilities_Access_Control_System/Facilities_Access_Control_System.dict -- data/linux/processed-challenges/Facilities_Access_Control_System/bin/Facilities_Access_Control_System\n'
+p173
+I1
+tp174
+a(I10440
+S'start_time     : 1499830551\nlast_update    : 1499840951\nfuzzer_pid     : 8956\ncycles_done    : 1\nexecs_done     : 9830114\nexecs_per_sec  : 944.97\npaths_total    : 329\npaths_favored  : 91\npaths_found    : 328\npaths_imported : 0\nmax_depth      : 12\ncur_path       : 315\npending_favs   : 8\npending_total  : 160\nvariable_paths : 0\nbitmap_cvg     : 1.26%\nunique_crashes : 0\nunique_hangs   : 12\nlast_path      : 1499840911\nlast_crash     : 0\nlast_hang      : 1499840931\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Facilities_Access_Control_System/input -o /dev/shm/work/Facilities_Access_Control_System/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Facilities_Access_Control_System/Facilities_Access_Control_System.dict -- data/linux/processed-challenges/Facilities_Access_Control_System/bin/Facilities_Access_Control_System\n'
+p175
+I1
+tp176
+a(I10560
+S'start_time     : 1499830551\nlast_update    : 1499841071\nfuzzer_pid     : 8956\ncycles_done    : 1\nexecs_done     : 9934266\nexecs_per_sec  : 753.86\npaths_total    : 329\npaths_favored  : 92\npaths_found    : 328\npaths_imported : 0\nmax_depth      : 12\ncur_path       : 317\npending_favs   : 8\npending_total  : 159\nvariable_paths : 0\nbitmap_cvg     : 1.26%\nunique_crashes : 0\nunique_hangs   : 14\nlast_path      : 1499840911\nlast_crash     : 0\nlast_hang      : 1499841011\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Facilities_Access_Control_System/input -o /dev/shm/work/Facilities_Access_Control_System/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Facilities_Access_Control_System/Facilities_Access_Control_System.dict -- data/linux/processed-challenges/Facilities_Access_Control_System/bin/Facilities_Access_Control_System\n'
+p177
+I0
+tp178
+a(I10680
+S'start_time     : 1499830551\nlast_update    : 1499841191\nfuzzer_pid     : 8956\ncycles_done    : 1\nexecs_done     : 10032914\nexecs_per_sec  : 846.88\npaths_total    : 329\npaths_favored  : 92\npaths_found    : 328\npaths_imported : 0\nmax_depth      : 12\ncur_path       : 318\npending_favs   : 7\npending_total  : 158\nvariable_paths : 0\nbitmap_cvg     : 1.26%\nunique_crashes : 0\nunique_hangs   : 18\nlast_path      : 1499840911\nlast_crash     : 0\nlast_hang      : 1499841188\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Facilities_Access_Control_System/input -o /dev/shm/work/Facilities_Access_Control_System/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Facilities_Access_Control_System/Facilities_Access_Control_System.dict -- data/linux/processed-challenges/Facilities_Access_Control_System/bin/Facilities_Access_Control_System\n'
+p179
+I0
+tp180
+a.

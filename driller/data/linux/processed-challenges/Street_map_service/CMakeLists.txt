@@ -1,0 +1,6 @@
+set( SERVICE_ID "00010" )
+set( POLLS_RELEASE_SEED "1496047114" )
+set( AUTHOR_ID "CROMU" )
+add_compile_options( -O0 -g -Wno-overlength-strings -Wno-packed )
+set( POLLS_TESTING_SEED "596837685" )
+buildCB()

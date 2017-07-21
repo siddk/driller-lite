@@ -1,0 +1,452 @@
+(lp0
+(I0
+S'start_time     : 1500230900\nlast_update    : 1500230900\nfuzzer_pid     : 30865\ncycles_done    : 0\nexecs_done     : 10\nexecs_per_sec  : 149.25\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 1\npending_total  : 1\nvariable_paths : 0\nbitmap_cvg     : 0.08%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/QuadtreeConways/input -o /dev/shm/work/QuadtreeConways/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/QuadtreeConways/QuadtreeConways.dict -- data/linux/processed-challenges/QuadtreeConways/bin/QuadtreeConways\n'
+p1
+I23
+tp2
+a(I120
+S'start_time     : 1500230900\nlast_update    : 1500231020\nfuzzer_pid     : 30865\ncycles_done    : 0\nexecs_done     : 112835\nexecs_per_sec  : 941.14\npaths_total    : 37\npaths_favored  : 1\npaths_found    : 36\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 1\npending_total  : 37\nvariable_paths : 0\nbitmap_cvg     : 0.70%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500231014\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/QuadtreeConways/input -o /dev/shm/work/QuadtreeConways/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/QuadtreeConways/QuadtreeConways.dict -- data/linux/processed-challenges/QuadtreeConways/bin/QuadtreeConways\n'
+p3
+I14
+tp4
+a(I240
+S'start_time     : 1500230900\nlast_update    : 1500231140\nfuzzer_pid     : 30865\ncycles_done    : 0\nexecs_done     : 224165\nexecs_per_sec  : 887.90\npaths_total    : 55\npaths_favored  : 13\npaths_found    : 54\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 2\npending_favs   : 13\npending_total  : 54\nvariable_paths : 0\nbitmap_cvg     : 0.76%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500231122\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/QuadtreeConways/input -o /dev/shm/work/QuadtreeConways/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/QuadtreeConways/QuadtreeConways.dict -- data/linux/processed-challenges/QuadtreeConways/bin/QuadtreeConways\n'
+p5
+I19
+tp6
+a(I360
+S'start_time     : 1500230900\nlast_update    : 1500231260\nfuzzer_pid     : 30865\ncycles_done    : 0\nexecs_done     : 328824\nexecs_per_sec  : 533.28\npaths_total    : 61\npaths_favored  : 16\npaths_found    : 60\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 14\npending_favs   : 15\npending_total  : 59\nvariable_paths : 0\nbitmap_cvg     : 0.76%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500231229\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/QuadtreeConways/input -o /dev/shm/work/QuadtreeConways/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/QuadtreeConways/QuadtreeConways.dict -- data/linux/processed-challenges/QuadtreeConways/bin/QuadtreeConways\n'
+p7
+I6
+tp8
+a(I480
+S'start_time     : 1500230900\nlast_update    : 1500231380\nfuzzer_pid     : 30865\ncycles_done    : 0\nexecs_done     : 413840\nexecs_per_sec  : 721.26\npaths_total    : 81\npaths_favored  : 16\npaths_found    : 80\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 18\npending_favs   : 13\npending_total  : 77\nvariable_paths : 0\nbitmap_cvg     : 1.23%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500231380\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/QuadtreeConways/input -o /dev/shm/work/QuadtreeConways/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/QuadtreeConways/QuadtreeConways.dict -- data/linux/processed-challenges/QuadtreeConways/bin/QuadtreeConways\n'
+p9
+I20
+tp10
+a(I600
+S'start_time     : 1500230900\nlast_update    : 1500231501\nfuzzer_pid     : 30865\ncycles_done    : 0\nexecs_done     : 497790\nexecs_per_sec  : 668.65\npaths_total    : 85\npaths_favored  : 20\npaths_found    : 84\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 27\npending_favs   : 14\npending_total  : 76\nvariable_paths : 0\nbitmap_cvg     : 1.24%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500231495\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/QuadtreeConways/input -o /dev/shm/work/QuadtreeConways/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/QuadtreeConways/QuadtreeConways.dict -- data/linux/processed-challenges/QuadtreeConways/bin/QuadtreeConways\n'
+p11
+I3
+tp12
+a(I720
+S'start_time     : 1500230900\nlast_update    : 1500231621\nfuzzer_pid     : 30865\ncycles_done    : 0\nexecs_done     : 576636\nexecs_per_sec  : 666.55\npaths_total    : 92\npaths_favored  : 20\npaths_found    : 91\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 37\npending_favs   : 13\npending_total  : 81\nvariable_paths : 0\nbitmap_cvg     : 1.25%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500231605\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/QuadtreeConways/input -o /dev/shm/work/QuadtreeConways/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/QuadtreeConways/QuadtreeConways.dict -- data/linux/processed-challenges/QuadtreeConways/bin/QuadtreeConways\n'
+p13
+I7
+tp14
+a(I840
+S'start_time     : 1500230900\nlast_update    : 1500231741\nfuzzer_pid     : 30865\ncycles_done    : 0\nexecs_done     : 657029\nexecs_per_sec  : 654.87\npaths_total    : 96\npaths_favored  : 20\npaths_found    : 95\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 37\npending_favs   : 13\npending_total  : 85\nvariable_paths : 0\nbitmap_cvg     : 1.27%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500231715\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/QuadtreeConways/input -o /dev/shm/work/QuadtreeConways/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/QuadtreeConways/QuadtreeConways.dict -- data/linux/processed-challenges/QuadtreeConways/bin/QuadtreeConways\n'
+p15
+I4
+tp16
+a(I960
+S'start_time     : 1500230900\nlast_update    : 1500231861\nfuzzer_pid     : 30865\ncycles_done    : 0\nexecs_done     : 745124\nexecs_per_sec  : 343.09\npaths_total    : 103\npaths_favored  : 19\npaths_found    : 102\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 66\npending_favs   : 13\npending_total  : 89\nvariable_paths : 0\nbitmap_cvg     : 1.28%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500231823\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/QuadtreeConways/input -o /dev/shm/work/QuadtreeConways/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/QuadtreeConways/QuadtreeConways.dict -- data/linux/processed-challenges/QuadtreeConways/bin/QuadtreeConways\n'
+p17
+I7
+tp18
+a(I1080
+S'start_time     : 1500230900\nlast_update    : 1500231982\nfuzzer_pid     : 30865\ncycles_done    : 0\nexecs_done     : 807545\nexecs_per_sec  : 546.28\npaths_total    : 118\npaths_favored  : 19\npaths_found    : 117\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 66\npending_favs   : 13\npending_total  : 104\nvariable_paths : 0\nbitmap_cvg     : 1.31%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500231964\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/QuadtreeConways/input -o /dev/shm/work/QuadtreeConways/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/QuadtreeConways/QuadtreeConways.dict -- data/linux/processed-challenges/QuadtreeConways/bin/QuadtreeConways\n'
+p19
+I16
+tp20
+a(I1200
+S'start_time     : 1500230900\nlast_update    : 1500232102\nfuzzer_pid     : 30865\ncycles_done    : 0\nexecs_done     : 872513\nexecs_per_sec  : 553.42\npaths_total    : 127\npaths_favored  : 19\npaths_found    : 126\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 66\npending_favs   : 13\npending_total  : 113\nvariable_paths : 0\nbitmap_cvg     : 1.33%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500232075\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/QuadtreeConways/input -o /dev/shm/work/QuadtreeConways/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/QuadtreeConways/QuadtreeConways.dict -- data/linux/processed-challenges/QuadtreeConways/bin/QuadtreeConways\n'
+p21
+I8
+tp22
+a(I1320
+S'start_time     : 1500230900\nlast_update    : 1500232222\nfuzzer_pid     : 30865\ncycles_done    : 0\nexecs_done     : 943084\nexecs_per_sec  : 689.41\npaths_total    : 140\npaths_favored  : 19\npaths_found    : 139\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 77\npending_favs   : 17\npending_total  : 125\nvariable_paths : 0\nbitmap_cvg     : 1.35%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500232220\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/QuadtreeConways/input -o /dev/shm/work/QuadtreeConways/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/QuadtreeConways/QuadtreeConways.dict -- data/linux/processed-challenges/QuadtreeConways/bin/QuadtreeConways\n'
+p23
+I13
+tp24
+a(I1440
+S'start_time     : 1500230900\nlast_update    : 1500232342\nfuzzer_pid     : 30865\ncycles_done    : 0\nexecs_done     : 1028822\nexecs_per_sec  : 721.79\npaths_total    : 147\npaths_favored  : 19\npaths_found    : 146\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 77\npending_favs   : 17\npending_total  : 132\nvariable_paths : 0\nbitmap_cvg     : 1.37%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500232342\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/QuadtreeConways/input -o /dev/shm/work/QuadtreeConways/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/QuadtreeConways/QuadtreeConways.dict -- data/linux/processed-challenges/QuadtreeConways/bin/QuadtreeConways\n'
+p25
+I8
+tp26
+a(I1560
+S'start_time     : 1500230900\nlast_update    : 1500232462\nfuzzer_pid     : 30865\ncycles_done    : 0\nexecs_done     : 1113859\nexecs_per_sec  : 710.08\npaths_total    : 164\npaths_favored  : 25\npaths_found    : 163\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 79\npending_favs   : 22\npending_total  : 148\nvariable_paths : 0\nbitmap_cvg     : 1.40%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500232398\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/QuadtreeConways/input -o /dev/shm/work/QuadtreeConways/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/QuadtreeConways/QuadtreeConways.dict -- data/linux/processed-challenges/QuadtreeConways/bin/QuadtreeConways\n'
+p27
+I16
+tp28
+a(I1680
+S'start_time     : 1500230900\nlast_update    : 1500232582\nfuzzer_pid     : 30865\ncycles_done    : 0\nexecs_done     : 1198996\nexecs_per_sec  : 626.81\npaths_total    : 168\npaths_favored  : 28\npaths_found    : 167\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 94\npending_favs   : 25\npending_total  : 151\nvariable_paths : 0\nbitmap_cvg     : 1.43%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500232576\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/QuadtreeConways/input -o /dev/shm/work/QuadtreeConways/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/QuadtreeConways/QuadtreeConways.dict -- data/linux/processed-challenges/QuadtreeConways/bin/QuadtreeConways\n'
+p29
+I6
+tp30
+a(I1800
+S'start_time     : 1500230900\nlast_update    : 1500232703\nfuzzer_pid     : 30865\ncycles_done    : 0\nexecs_done     : 1298812\nexecs_per_sec  : 839.70\npaths_total    : 180\npaths_favored  : 28\npaths_found    : 179\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 94\npending_favs   : 25\npending_total  : 163\nvariable_paths : 0\nbitmap_cvg     : 1.46%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500232678\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/QuadtreeConways/input -o /dev/shm/work/QuadtreeConways/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/QuadtreeConways/QuadtreeConways.dict -- data/linux/processed-challenges/QuadtreeConways/bin/QuadtreeConways\n'
+p31
+I10
+tp32
+a(I1920
+S'start_time     : 1500230900\nlast_update    : 1500232823\nfuzzer_pid     : 30865\ncycles_done    : 0\nexecs_done     : 1375756\nexecs_per_sec  : 347.53\npaths_total    : 185\npaths_favored  : 32\npaths_found    : 184\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 96\npending_favs   : 30\npending_total  : 167\nvariable_paths : 0\nbitmap_cvg     : 1.46%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500232774\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/QuadtreeConways/input -o /dev/shm/work/QuadtreeConways/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/QuadtreeConways/QuadtreeConways.dict -- data/linux/processed-challenges/QuadtreeConways/bin/QuadtreeConways\n'
+p33
+I5
+tp34
+a(I2040
+S'start_time     : 1500230900\nlast_update    : 1500232943\nfuzzer_pid     : 30865\ncycles_done    : 0\nexecs_done     : 1468747\nexecs_per_sec  : 794.74\npaths_total    : 200\npaths_favored  : 32\npaths_found    : 199\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 98\npending_favs   : 28\npending_total  : 180\nvariable_paths : 0\nbitmap_cvg     : 1.51%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500232915\nlast_crash     : 0\nlast_hang      : 1500232935\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/QuadtreeConways/input -o /dev/shm/work/QuadtreeConways/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/QuadtreeConways/QuadtreeConways.dict -- data/linux/processed-challenges/QuadtreeConways/bin/QuadtreeConways\n'
+p35
+I15
+tp36
+a(I2160
+S'start_time     : 1500230900\nlast_update    : 1500233063\nfuzzer_pid     : 30865\ncycles_done    : 0\nexecs_done     : 1545952\nexecs_per_sec  : 498.71\npaths_total    : 204\npaths_favored  : 40\npaths_found    : 203\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 103\npending_favs   : 33\npending_total  : 183\nvariable_paths : 0\nbitmap_cvg     : 1.51%\nunique_crashes : 0\nunique_hangs   : 8\nlast_path      : 1500233010\nlast_crash     : 0\nlast_hang      : 1500233004\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/QuadtreeConways/input -o /dev/shm/work/QuadtreeConways/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/QuadtreeConways/QuadtreeConways.dict -- data/linux/processed-challenges/QuadtreeConways/bin/QuadtreeConways\n'
+p37
+I4
+tp38
+a(I2280
+S'start_time     : 1500230900\nlast_update    : 1500233183\nfuzzer_pid     : 30865\ncycles_done    : 0\nexecs_done     : 1580782\nexecs_per_sec  : 394.24\npaths_total    : 209\npaths_favored  : 40\npaths_found    : 208\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 113\npending_favs   : 32\npending_total  : 187\nvariable_paths : 0\nbitmap_cvg     : 1.51%\nunique_crashes : 0\nunique_hangs   : 15\nlast_path      : 1500233182\nlast_crash     : 0\nlast_hang      : 1500233170\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/QuadtreeConways/input -o /dev/shm/work/QuadtreeConways/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/QuadtreeConways/QuadtreeConways.dict -- data/linux/processed-challenges/QuadtreeConways/bin/QuadtreeConways\n'
+p39
+I5
+tp40
+a(I2400
+S'start_time     : 1500230900\nlast_update    : 1500233303\nfuzzer_pid     : 30865\ncycles_done    : 0\nexecs_done     : 1626973\nexecs_per_sec  : 383.92\npaths_total    : 220\npaths_favored  : 40\npaths_found    : 219\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 113\npending_favs   : 32\npending_total  : 198\nvariable_paths : 0\nbitmap_cvg     : 1.52%\nunique_crashes : 0\nunique_hangs   : 18\nlast_path      : 1500233297\nlast_crash     : 0\nlast_hang      : 1500233279\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/QuadtreeConways/input -o /dev/shm/work/QuadtreeConways/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/QuadtreeConways/QuadtreeConways.dict -- data/linux/processed-challenges/QuadtreeConways/bin/QuadtreeConways\n'
+p41
+I11
+tp42
+a(I2520
+S'start_time     : 1500230900\nlast_update    : 1500233424\nfuzzer_pid     : 30865\ncycles_done    : 0\nexecs_done     : 1673549\nexecs_per_sec  : 392.78\npaths_total    : 224\npaths_favored  : 40\npaths_found    : 223\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 113\npending_favs   : 32\npending_total  : 202\nvariable_paths : 0\nbitmap_cvg     : 1.53%\nunique_crashes : 0\nunique_hangs   : 21\nlast_path      : 1500233363\nlast_crash     : 0\nlast_hang      : 1500233402\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/QuadtreeConways/input -o /dev/shm/work/QuadtreeConways/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/QuadtreeConways/QuadtreeConways.dict -- data/linux/processed-challenges/QuadtreeConways/bin/QuadtreeConways\n'
+p43
+I4
+tp44
+a(I2640
+S'start_time     : 1500230900\nlast_update    : 1500233544\nfuzzer_pid     : 30865\ncycles_done    : 0\nexecs_done     : 1730291\nexecs_per_sec  : 587.86\npaths_total    : 240\npaths_favored  : 42\npaths_found    : 239\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 126\npending_favs   : 37\npending_total  : 217\nvariable_paths : 0\nbitmap_cvg     : 1.56%\nunique_crashes : 0\nunique_hangs   : 21\nlast_path      : 1500233526\nlast_crash     : 0\nlast_hang      : 1500233402\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/QuadtreeConways/input -o /dev/shm/work/QuadtreeConways/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/QuadtreeConways/QuadtreeConways.dict -- data/linux/processed-challenges/QuadtreeConways/bin/QuadtreeConways\n'
+p45
+I16
+tp46
+a(I2760
+S'start_time     : 1500230900\nlast_update    : 1500233664\nfuzzer_pid     : 30865\ncycles_done    : 0\nexecs_done     : 1799994\nexecs_per_sec  : 564.79\npaths_total    : 244\npaths_favored  : 42\npaths_found    : 243\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 126\npending_favs   : 37\npending_total  : 221\nvariable_paths : 0\nbitmap_cvg     : 1.56%\nunique_crashes : 0\nunique_hangs   : 21\nlast_path      : 1500233589\nlast_crash     : 0\nlast_hang      : 1500233402\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/QuadtreeConways/input -o /dev/shm/work/QuadtreeConways/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/QuadtreeConways/QuadtreeConways.dict -- data/linux/processed-challenges/QuadtreeConways/bin/QuadtreeConways\n'
+p47
+I4
+tp48
+a(I2880
+S'start_time     : 1500230900\nlast_update    : 1500233784\nfuzzer_pid     : 30865\ncycles_done    : 0\nexecs_done     : 1860574\nexecs_per_sec  : 140.11\npaths_total    : 247\npaths_favored  : 51\npaths_found    : 246\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 129\npending_favs   : 46\npending_total  : 223\nvariable_paths : 0\nbitmap_cvg     : 1.57%\nunique_crashes : 0\nunique_hangs   : 21\nlast_path      : 1500233758\nlast_crash     : 0\nlast_hang      : 1500233402\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/QuadtreeConways/input -o /dev/shm/work/QuadtreeConways/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/QuadtreeConways/QuadtreeConways.dict -- data/linux/processed-challenges/QuadtreeConways/bin/QuadtreeConways\n'
+p49
+I3
+tp50
+a(I3000
+S'start_time     : 1500230900\nlast_update    : 1500233904\nfuzzer_pid     : 30865\ncycles_done    : 0\nexecs_done     : 1894436\nexecs_per_sec  : 366.43\npaths_total    : 262\npaths_favored  : 51\npaths_found    : 261\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 129\npending_favs   : 46\npending_total  : 238\nvariable_paths : 0\nbitmap_cvg     : 1.58%\nunique_crashes : 0\nunique_hangs   : 28\nlast_path      : 1500233896\nlast_crash     : 0\nlast_hang      : 1500233884\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/QuadtreeConways/input -o /dev/shm/work/QuadtreeConways/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/QuadtreeConways/QuadtreeConways.dict -- data/linux/processed-challenges/QuadtreeConways/bin/QuadtreeConways\n'
+p51
+I15
+tp52
+a(I3120
+S'start_time     : 1500230900\nlast_update    : 1500234025\nfuzzer_pid     : 30865\ncycles_done    : 0\nexecs_done     : 1937809\nexecs_per_sec  : 354.04\npaths_total    : 267\npaths_favored  : 51\npaths_found    : 266\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 129\npending_favs   : 46\npending_total  : 243\nvariable_paths : 0\nbitmap_cvg     : 1.58%\nunique_crashes : 0\nunique_hangs   : 30\nlast_path      : 1500234003\nlast_crash     : 0\nlast_hang      : 1500233908\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/QuadtreeConways/input -o /dev/shm/work/QuadtreeConways/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/QuadtreeConways/QuadtreeConways.dict -- data/linux/processed-challenges/QuadtreeConways/bin/QuadtreeConways\n'
+p53
+I5
+tp54
+a(I3240
+S'start_time     : 1500230900\nlast_update    : 1500234145\nfuzzer_pid     : 30865\ncycles_done    : 0\nexecs_done     : 1981733\nexecs_per_sec  : 367.84\npaths_total    : 269\npaths_favored  : 51\npaths_found    : 268\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 129\npending_favs   : 46\npending_total  : 245\nvariable_paths : 0\nbitmap_cvg     : 1.58%\nunique_crashes : 0\nunique_hangs   : 32\nlast_path      : 1500234128\nlast_crash     : 0\nlast_hang      : 1500234113\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/QuadtreeConways/input -o /dev/shm/work/QuadtreeConways/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/QuadtreeConways/QuadtreeConways.dict -- data/linux/processed-challenges/QuadtreeConways/bin/QuadtreeConways\n'
+p55
+I3
+tp56
+a(I3360
+S'start_time     : 1500230900\nlast_update    : 1500234265\nfuzzer_pid     : 30865\ncycles_done    : 0\nexecs_done     : 2049302\nexecs_per_sec  : 636.02\npaths_total    : 282\npaths_favored  : 52\npaths_found    : 281\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 130\npending_favs   : 49\npending_total  : 257\nvariable_paths : 0\nbitmap_cvg     : 1.59%\nunique_crashes : 0\nunique_hangs   : 32\nlast_path      : 1500234258\nlast_crash     : 0\nlast_hang      : 1500234113\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/QuadtreeConways/input -o /dev/shm/work/QuadtreeConways/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/QuadtreeConways/QuadtreeConways.dict -- data/linux/processed-challenges/QuadtreeConways/bin/QuadtreeConways\n'
+p57
+I12
+tp58
+a(I3480
+S'start_time     : 1500230900\nlast_update    : 1500234385\nfuzzer_pid     : 30865\ncycles_done    : 0\nexecs_done     : 2126296\nexecs_per_sec  : 629.82\npaths_total    : 287\npaths_favored  : 52\npaths_found    : 286\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 130\npending_favs   : 49\npending_total  : 262\nvariable_paths : 0\nbitmap_cvg     : 1.59%\nunique_crashes : 0\nunique_hangs   : 32\nlast_path      : 1500234362\nlast_crash     : 0\nlast_hang      : 1500234113\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/QuadtreeConways/input -o /dev/shm/work/QuadtreeConways/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/QuadtreeConways/QuadtreeConways.dict -- data/linux/processed-challenges/QuadtreeConways/bin/QuadtreeConways\n'
+p59
+I6
+tp60
+a(I3600
+S'start_time     : 1500230900\nlast_update    : 1500234506\nfuzzer_pid     : 30865\ncycles_done    : 0\nexecs_done     : 2188284\nexecs_per_sec  : 591.14\npaths_total    : 291\npaths_favored  : 54\npaths_found    : 290\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 146\npending_favs   : 51\npending_total  : 264\nvariable_paths : 0\nbitmap_cvg     : 1.59%\nunique_crashes : 0\nunique_hangs   : 33\nlast_path      : 1500234495\nlast_crash     : 0\nlast_hang      : 1500234489\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/QuadtreeConways/input -o /dev/shm/work/QuadtreeConways/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/QuadtreeConways/QuadtreeConways.dict -- data/linux/processed-challenges/QuadtreeConways/bin/QuadtreeConways\n'
+p61
+I3
+tp62
+a(I3720
+S'start_time     : 1500230900\nlast_update    : 1500234626\nfuzzer_pid     : 30865\ncycles_done    : 0\nexecs_done     : 2267487\nexecs_per_sec  : 745.37\npaths_total    : 335\npaths_favored  : 55\npaths_found    : 334\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 147\npending_favs   : 51\npending_total  : 307\nvariable_paths : 0\nbitmap_cvg     : 1.60%\nunique_crashes : 0\nunique_hangs   : 34\nlast_path      : 1500234621\nlast_crash     : 0\nlast_hang      : 1500234530\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/QuadtreeConways/input -o /dev/shm/work/QuadtreeConways/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/QuadtreeConways/QuadtreeConways.dict -- data/linux/processed-challenges/QuadtreeConways/bin/QuadtreeConways\n'
+p63
+I44
+tp64
+a(I3840
+S'start_time     : 1500230900\nlast_update    : 1500234746\nfuzzer_pid     : 30865\ncycles_done    : 0\nexecs_done     : 2355191\nexecs_per_sec  : 731.59\npaths_total    : 347\npaths_favored  : 55\npaths_found    : 346\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 147\npending_favs   : 51\npending_total  : 319\nvariable_paths : 0\nbitmap_cvg     : 1.61%\nunique_crashes : 0\nunique_hangs   : 34\nlast_path      : 1500234720\nlast_crash     : 0\nlast_hang      : 1500234530\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/QuadtreeConways/input -o /dev/shm/work/QuadtreeConways/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/QuadtreeConways/QuadtreeConways.dict -- data/linux/processed-challenges/QuadtreeConways/bin/QuadtreeConways\n'
+p65
+I12
+tp66
+a(I3960
+S'start_time     : 1500230900\nlast_update    : 1500234866\nfuzzer_pid     : 30865\ncycles_done    : 0\nexecs_done     : 2424868\nexecs_per_sec  : 555.88\npaths_total    : 349\npaths_favored  : 64\npaths_found    : 348\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 152\npending_favs   : 59\npending_total  : 319\nvariable_paths : 0\nbitmap_cvg     : 1.61%\nunique_crashes : 0\nunique_hangs   : 34\nlast_path      : 1500234777\nlast_crash     : 0\nlast_hang      : 1500234530\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/QuadtreeConways/input -o /dev/shm/work/QuadtreeConways/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/QuadtreeConways/QuadtreeConways.dict -- data/linux/processed-challenges/QuadtreeConways/bin/QuadtreeConways\n'
+p67
+I2
+tp68
+a(I4080
+S'start_time     : 1500230900\nlast_update    : 1500234986\nfuzzer_pid     : 30865\ncycles_done    : 0\nexecs_done     : 2494132\nexecs_per_sec  : 582.06\npaths_total    : 352\npaths_favored  : 64\npaths_found    : 351\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 152\npending_favs   : 59\npending_total  : 322\nvariable_paths : 0\nbitmap_cvg     : 1.62%\nunique_crashes : 0\nunique_hangs   : 35\nlast_path      : 1500234935\nlast_crash     : 0\nlast_hang      : 1500234938\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/QuadtreeConways/input -o /dev/shm/work/QuadtreeConways/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/QuadtreeConways/QuadtreeConways.dict -- data/linux/processed-challenges/QuadtreeConways/bin/QuadtreeConways\n'
+p69
+I3
+tp70
+a(I4200
+S'start_time     : 1500230900\nlast_update    : 1500235107\nfuzzer_pid     : 30865\ncycles_done    : 0\nexecs_done     : 2556979\nexecs_per_sec  : 546.15\npaths_total    : 356\npaths_favored  : 64\npaths_found    : 355\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 157\npending_favs   : 58\npending_total  : 325\nvariable_paths : 0\nbitmap_cvg     : 1.66%\nunique_crashes : 0\nunique_hangs   : 35\nlast_path      : 1500235103\nlast_crash     : 0\nlast_hang      : 1500234938\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/QuadtreeConways/input -o /dev/shm/work/QuadtreeConways/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/QuadtreeConways/QuadtreeConways.dict -- data/linux/processed-challenges/QuadtreeConways/bin/QuadtreeConways\n'
+p71
+I4
+tp72
+a(I4320
+S'start_time     : 1500230900\nlast_update    : 1500235227\nfuzzer_pid     : 30865\ncycles_done    : 0\nexecs_done     : 2623217\nexecs_per_sec  : 563.25\npaths_total    : 359\npaths_favored  : 64\npaths_found    : 358\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 157\npending_favs   : 58\npending_total  : 328\nvariable_paths : 0\nbitmap_cvg     : 1.66%\nunique_crashes : 0\nunique_hangs   : 35\nlast_path      : 1500235139\nlast_crash     : 0\nlast_hang      : 1500234938\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/QuadtreeConways/input -o /dev/shm/work/QuadtreeConways/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/QuadtreeConways/QuadtreeConways.dict -- data/linux/processed-challenges/QuadtreeConways/bin/QuadtreeConways\n'
+p73
+I3
+tp74
+a(I4440
+S'start_time     : 1500230900\nlast_update    : 1500235347\nfuzzer_pid     : 30865\ncycles_done    : 0\nexecs_done     : 2688949\nexecs_per_sec  : 549.03\npaths_total    : 359\npaths_favored  : 64\npaths_found    : 358\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 157\npending_favs   : 58\npending_total  : 328\nvariable_paths : 0\nbitmap_cvg     : 1.66%\nunique_crashes : 0\nunique_hangs   : 36\nlast_path      : 1500235139\nlast_crash     : 0\nlast_hang      : 1500235311\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/QuadtreeConways/input -o /dev/shm/work/QuadtreeConways/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/QuadtreeConways/QuadtreeConways.dict -- data/linux/processed-challenges/QuadtreeConways/bin/QuadtreeConways\n'
+p75
+I0
+tp76
+a(I4560
+S'start_time     : 1500230900\nlast_update    : 1500235467\nfuzzer_pid     : 30865\ncycles_done    : 0\nexecs_done     : 2740625\nexecs_per_sec  : 466.32\npaths_total    : 361\npaths_favored  : 64\npaths_found    : 360\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 164\npending_favs   : 58\npending_total  : 328\nvariable_paths : 0\nbitmap_cvg     : 1.66%\nunique_crashes : 0\nunique_hangs   : 36\nlast_path      : 1500235460\nlast_crash     : 0\nlast_hang      : 1500235311\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/QuadtreeConways/input -o /dev/shm/work/QuadtreeConways/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/QuadtreeConways/QuadtreeConways.dict -- data/linux/processed-challenges/QuadtreeConways/bin/QuadtreeConways\n'
+p77
+I3
+tp78
+a(I4680
+S'start_time     : 1500230900\nlast_update    : 1500235587\nfuzzer_pid     : 30865\ncycles_done    : 0\nexecs_done     : 2800780\nexecs_per_sec  : 515.36\npaths_total    : 366\npaths_favored  : 64\npaths_found    : 365\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 164\npending_favs   : 58\npending_total  : 333\nvariable_paths : 0\nbitmap_cvg     : 1.66%\nunique_crashes : 0\nunique_hangs   : 37\nlast_path      : 1500235563\nlast_crash     : 0\nlast_hang      : 1500235538\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/QuadtreeConways/input -o /dev/shm/work/QuadtreeConways/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/QuadtreeConways/QuadtreeConways.dict -- data/linux/processed-challenges/QuadtreeConways/bin/QuadtreeConways\n'
+p79
+I4
+tp80
+a(I4800
+S'start_time     : 1500230900\nlast_update    : 1500235707\nfuzzer_pid     : 30865\ncycles_done    : 0\nexecs_done     : 2861020\nexecs_per_sec  : 501.17\npaths_total    : 368\npaths_favored  : 64\npaths_found    : 367\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 164\npending_favs   : 58\npending_total  : 335\nvariable_paths : 0\nbitmap_cvg     : 1.66%\nunique_crashes : 0\nunique_hangs   : 37\nlast_path      : 1500235637\nlast_crash     : 0\nlast_hang      : 1500235538\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/QuadtreeConways/input -o /dev/shm/work/QuadtreeConways/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/QuadtreeConways/QuadtreeConways.dict -- data/linux/processed-challenges/QuadtreeConways/bin/QuadtreeConways\n'
+p81
+I2
+tp82
+a(I4920
+S'start_time     : 1500230900\nlast_update    : 1500235828\nfuzzer_pid     : 30865\ncycles_done    : 0\nexecs_done     : 2917032\nexecs_per_sec  : 551.23\npaths_total    : 370\npaths_favored  : 65\npaths_found    : 369\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 165\npending_favs   : 58\npending_total  : 336\nvariable_paths : 0\nbitmap_cvg     : 1.66%\nunique_crashes : 0\nunique_hangs   : 38\nlast_path      : 1500235811\nlast_crash     : 0\nlast_hang      : 1500235775\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/QuadtreeConways/input -o /dev/shm/work/QuadtreeConways/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/QuadtreeConways/QuadtreeConways.dict -- data/linux/processed-challenges/QuadtreeConways/bin/QuadtreeConways\n'
+p83
+I2
+tp84
+a(I5040
+S'start_time     : 1500230900\nlast_update    : 1500235948\nfuzzer_pid     : 30865\ncycles_done    : 0\nexecs_done     : 2992497\nexecs_per_sec  : 743.44\npaths_total    : 380\npaths_favored  : 65\npaths_found    : 379\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 169\npending_favs   : 56\npending_total  : 344\nvariable_paths : 0\nbitmap_cvg     : 1.67%\nunique_crashes : 0\nunique_hangs   : 38\nlast_path      : 1500235940\nlast_crash     : 0\nlast_hang      : 1500235775\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/QuadtreeConways/input -o /dev/shm/work/QuadtreeConways/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/QuadtreeConways/QuadtreeConways.dict -- data/linux/processed-challenges/QuadtreeConways/bin/QuadtreeConways\n'
+p85
+I10
+tp86
+a(I5160
+S'start_time     : 1500230900\nlast_update    : 1500236068\nfuzzer_pid     : 30865\ncycles_done    : 0\nexecs_done     : 3079661\nexecs_per_sec  : 718.71\npaths_total    : 387\npaths_favored  : 65\npaths_found    : 386\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 169\npending_favs   : 56\npending_total  : 351\nvariable_paths : 0\nbitmap_cvg     : 1.67%\nunique_crashes : 0\nunique_hangs   : 39\nlast_path      : 1500236058\nlast_crash     : 0\nlast_hang      : 1500236036\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/QuadtreeConways/input -o /dev/shm/work/QuadtreeConways/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/QuadtreeConways/QuadtreeConways.dict -- data/linux/processed-challenges/QuadtreeConways/bin/QuadtreeConways\n'
+p87
+I7
+tp88
+a(I5280
+S'start_time     : 1500230900\nlast_update    : 1500236188\nfuzzer_pid     : 30865\ncycles_done    : 0\nexecs_done     : 3167922\nexecs_per_sec  : 780.88\npaths_total    : 396\npaths_favored  : 65\npaths_found    : 395\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 170\npending_favs   : 55\npending_total  : 359\nvariable_paths : 0\nbitmap_cvg     : 1.67%\nunique_crashes : 0\nunique_hangs   : 39\nlast_path      : 1500236171\nlast_crash     : 0\nlast_hang      : 1500236036\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/QuadtreeConways/input -o /dev/shm/work/QuadtreeConways/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/QuadtreeConways/QuadtreeConways.dict -- data/linux/processed-challenges/QuadtreeConways/bin/QuadtreeConways\n'
+p89
+I9
+tp90
+a(I5400
+S'start_time     : 1500230900\nlast_update    : 1500236309\nfuzzer_pid     : 30865\ncycles_done    : 0\nexecs_done     : 3262202\nexecs_per_sec  : 772.40\npaths_total    : 398\npaths_favored  : 65\npaths_found    : 397\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 170\npending_favs   : 55\npending_total  : 361\nvariable_paths : 0\nbitmap_cvg     : 1.67%\nunique_crashes : 0\nunique_hangs   : 39\nlast_path      : 1500236284\nlast_crash     : 0\nlast_hang      : 1500236036\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/QuadtreeConways/input -o /dev/shm/work/QuadtreeConways/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/QuadtreeConways/QuadtreeConways.dict -- data/linux/processed-challenges/QuadtreeConways/bin/QuadtreeConways\n'
+p91
+I2
+tp92
+a(I5520
+S'start_time     : 1500230900\nlast_update    : 1500236429\nfuzzer_pid     : 30865\ncycles_done    : 0\nexecs_done     : 3343891\nexecs_per_sec  : 605.13\npaths_total    : 399\npaths_favored  : 66\npaths_found    : 398\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 186\npending_favs   : 51\npending_total  : 357\nvariable_paths : 0\nbitmap_cvg     : 1.67%\nunique_crashes : 0\nunique_hangs   : 39\nlast_path      : 1500236394\nlast_crash     : 0\nlast_hang      : 1500236036\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/QuadtreeConways/input -o /dev/shm/work/QuadtreeConways/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/QuadtreeConways/QuadtreeConways.dict -- data/linux/processed-challenges/QuadtreeConways/bin/QuadtreeConways\n'
+p93
+I1
+tp94
+a(I5640
+S'start_time     : 1500230900\nlast_update    : 1500236549\nfuzzer_pid     : 30865\ncycles_done    : 0\nexecs_done     : 3408665\nexecs_per_sec  : 774.87\npaths_total    : 400\npaths_favored  : 66\npaths_found    : 399\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 197\npending_favs   : 48\npending_total  : 354\nvariable_paths : 0\nbitmap_cvg     : 1.67%\nunique_crashes : 0\nunique_hangs   : 40\nlast_path      : 1500236512\nlast_crash     : 0\nlast_hang      : 1500236429\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/QuadtreeConways/input -o /dev/shm/work/QuadtreeConways/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/QuadtreeConways/QuadtreeConways.dict -- data/linux/processed-challenges/QuadtreeConways/bin/QuadtreeConways\n'
+p95
+I1
+tp96
+a(I5760
+S'start_time     : 1500230900\nlast_update    : 1500236669\nfuzzer_pid     : 30865\ncycles_done    : 0\nexecs_done     : 3475586\nexecs_per_sec  : 612.15\npaths_total    : 411\npaths_favored  : 66\npaths_found    : 410\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 200\npending_favs   : 47\npending_total  : 364\nvariable_paths : 0\nbitmap_cvg     : 1.67%\nunique_crashes : 0\nunique_hangs   : 45\nlast_path      : 1500236641\nlast_crash     : 0\nlast_hang      : 1500236661\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/QuadtreeConways/input -o /dev/shm/work/QuadtreeConways/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/QuadtreeConways/QuadtreeConways.dict -- data/linux/processed-challenges/QuadtreeConways/bin/QuadtreeConways\n'
+p97
+I11
+tp98
+a(I5880
+S'start_time     : 1500230900\nlast_update    : 1500236789\nfuzzer_pid     : 30865\ncycles_done    : 0\nexecs_done     : 3549790\nexecs_per_sec  : 604.89\npaths_total    : 413\npaths_favored  : 66\npaths_found    : 412\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 200\npending_favs   : 47\npending_total  : 366\nvariable_paths : 0\nbitmap_cvg     : 1.67%\nunique_crashes : 0\nunique_hangs   : 46\nlast_path      : 1500236676\nlast_crash     : 0\nlast_hang      : 1500236772\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/QuadtreeConways/input -o /dev/shm/work/QuadtreeConways/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/QuadtreeConways/QuadtreeConways.dict -- data/linux/processed-challenges/QuadtreeConways/bin/QuadtreeConways\n'
+p99
+I2
+tp100
+a(I6000
+S'start_time     : 1500230900\nlast_update    : 1500236910\nfuzzer_pid     : 30865\ncycles_done    : 0\nexecs_done     : 3600409\nexecs_per_sec  : 72.15\npaths_total    : 416\npaths_favored  : 68\npaths_found    : 415\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 222\npending_favs   : 46\npending_total  : 366\nvariable_paths : 0\nbitmap_cvg     : 1.68%\nunique_crashes : 0\nunique_hangs   : 47\nlast_path      : 1500236854\nlast_crash     : 0\nlast_hang      : 1500236872\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/QuadtreeConways/input -o /dev/shm/work/QuadtreeConways/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/QuadtreeConways/QuadtreeConways.dict -- data/linux/processed-challenges/QuadtreeConways/bin/QuadtreeConways\n'
+p101
+I3
+tp102
+a(I6120
+S'start_time     : 1500230900\nlast_update    : 1500237030\nfuzzer_pid     : 30865\ncycles_done    : 0\nexecs_done     : 3609317\nexecs_per_sec  : 79.55\npaths_total    : 416\npaths_favored  : 68\npaths_found    : 415\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 222\npending_favs   : 46\npending_total  : 366\nvariable_paths : 0\nbitmap_cvg     : 1.68%\nunique_crashes : 0\nunique_hangs   : 47\nlast_path      : 1500236854\nlast_crash     : 0\nlast_hang      : 1500236872\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/QuadtreeConways/input -o /dev/shm/work/QuadtreeConways/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/QuadtreeConways/QuadtreeConways.dict -- data/linux/processed-challenges/QuadtreeConways/bin/QuadtreeConways\n'
+p103
+I0
+tp104
+a(I6240
+S'start_time     : 1500230900\nlast_update    : 1500237150\nfuzzer_pid     : 30865\ncycles_done    : 0\nexecs_done     : 3618693\nexecs_per_sec  : 71.14\npaths_total    : 416\npaths_favored  : 68\npaths_found    : 415\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 222\npending_favs   : 46\npending_total  : 366\nvariable_paths : 0\nbitmap_cvg     : 1.68%\nunique_crashes : 0\nunique_hangs   : 47\nlast_path      : 1500236854\nlast_crash     : 0\nlast_hang      : 1500236872\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/QuadtreeConways/input -o /dev/shm/work/QuadtreeConways/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/QuadtreeConways/QuadtreeConways.dict -- data/linux/processed-challenges/QuadtreeConways/bin/QuadtreeConways\n'
+p105
+I0
+tp106
+a(I6360
+S'start_time     : 1500230900\nlast_update    : 1500237270\nfuzzer_pid     : 30865\ncycles_done    : 0\nexecs_done     : 3628025\nexecs_per_sec  : 155.94\npaths_total    : 417\npaths_favored  : 68\npaths_found    : 416\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 222\npending_favs   : 46\npending_total  : 367\nvariable_paths : 0\nbitmap_cvg     : 1.68%\nunique_crashes : 0\nunique_hangs   : 47\nlast_path      : 1500237266\nlast_crash     : 0\nlast_hang      : 1500236872\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/QuadtreeConways/input -o /dev/shm/work/QuadtreeConways/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/QuadtreeConways/QuadtreeConways.dict -- data/linux/processed-challenges/QuadtreeConways/bin/QuadtreeConways\n'
+p107
+I1
+tp108
+a(I6480
+S'start_time     : 1500230900\nlast_update    : 1500237330\nfuzzer_pid     : 30865\ncycles_done    : 0\nexecs_done     : 3638059\nexecs_per_sec  : 172.81\npaths_total    : 419\npaths_favored  : 68\npaths_found    : 418\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 222\npending_favs   : 46\npending_total  : 369\nvariable_paths : 0\nbitmap_cvg     : 1.68%\nunique_crashes : 0\nunique_hangs   : 49\nlast_path      : 1500237292\nlast_crash     : 0\nlast_hang      : 1500237326\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/QuadtreeConways/input -o /dev/shm/work/QuadtreeConways/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/QuadtreeConways/QuadtreeConways.dict -- data/linux/processed-challenges/QuadtreeConways/bin/QuadtreeConways\n'
+p109
+I4
+tp110
+a(I6600
+S'start_time     : 1500230900\nlast_update    : 1500237451\nfuzzer_pid     : 30865\ncycles_done    : 0\nexecs_done     : 3658398\nexecs_per_sec  : 178.32\npaths_total    : 421\npaths_favored  : 68\npaths_found    : 420\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 222\npending_favs   : 46\npending_total  : 371\nvariable_paths : 0\nbitmap_cvg     : 1.68%\nunique_crashes : 0\nunique_hangs   : 49\nlast_path      : 1500237383\nlast_crash     : 0\nlast_hang      : 1500237326\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/QuadtreeConways/input -o /dev/shm/work/QuadtreeConways/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/QuadtreeConways/QuadtreeConways.dict -- data/linux/processed-challenges/QuadtreeConways/bin/QuadtreeConways\n'
+p111
+I2
+tp112
+a(I6720
+S'start_time     : 1500230900\nlast_update    : 1500237571\nfuzzer_pid     : 30865\ncycles_done    : 0\nexecs_done     : 3678824\nexecs_per_sec  : 171.98\npaths_total    : 426\npaths_favored  : 68\npaths_found    : 425\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 222\npending_favs   : 46\npending_total  : 376\nvariable_paths : 0\nbitmap_cvg     : 1.68%\nunique_crashes : 0\nunique_hangs   : 49\nlast_path      : 1500237533\nlast_crash     : 0\nlast_hang      : 1500237326\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/QuadtreeConways/input -o /dev/shm/work/QuadtreeConways/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/QuadtreeConways/QuadtreeConways.dict -- data/linux/processed-challenges/QuadtreeConways/bin/QuadtreeConways\n'
+p113
+I7
+tp114
+a(I6840
+S'start_time     : 1500230900\nlast_update    : 1500237691\nfuzzer_pid     : 30865\ncycles_done    : 0\nexecs_done     : 3699009\nexecs_per_sec  : 168.16\npaths_total    : 430\npaths_favored  : 68\npaths_found    : 429\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 222\npending_favs   : 46\npending_total  : 380\nvariable_paths : 0\nbitmap_cvg     : 1.68%\nunique_crashes : 0\nunique_hangs   : 51\nlast_path      : 1500237625\nlast_crash     : 0\nlast_hang      : 1500237663\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/QuadtreeConways/input -o /dev/shm/work/QuadtreeConways/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/QuadtreeConways/QuadtreeConways.dict -- data/linux/processed-challenges/QuadtreeConways/bin/QuadtreeConways\n'
+p115
+I1
+tp116
+a(I6960
+S'start_time     : 1500230900\nlast_update    : 1500237811\nfuzzer_pid     : 30865\ncycles_done    : 0\nexecs_done     : 3719555\nexecs_per_sec  : 163.16\npaths_total    : 432\npaths_favored  : 68\npaths_found    : 431\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 222\npending_favs   : 46\npending_total  : 382\nvariable_paths : 0\nbitmap_cvg     : 1.68%\nunique_crashes : 0\nunique_hangs   : 51\nlast_path      : 1500237774\nlast_crash     : 0\nlast_hang      : 1500237663\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/QuadtreeConways/input -o /dev/shm/work/QuadtreeConways/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/QuadtreeConways/QuadtreeConways.dict -- data/linux/processed-challenges/QuadtreeConways/bin/QuadtreeConways\n'
+p117
+I2
+tp118
+a(I7080
+S'start_time     : 1500230900\nlast_update    : 1500237931\nfuzzer_pid     : 30865\ncycles_done    : 0\nexecs_done     : 3739983\nexecs_per_sec  : 168.12\npaths_total    : 433\npaths_favored  : 68\npaths_found    : 432\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 222\npending_favs   : 46\npending_total  : 383\nvariable_paths : 0\nbitmap_cvg     : 1.68%\nunique_crashes : 0\nunique_hangs   : 51\nlast_path      : 1500237862\nlast_crash     : 0\nlast_hang      : 1500237663\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/QuadtreeConways/input -o /dev/shm/work/QuadtreeConways/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/QuadtreeConways/QuadtreeConways.dict -- data/linux/processed-challenges/QuadtreeConways/bin/QuadtreeConways\n'
+p119
+I0
+tp120
+a(I7200
+S'start_time     : 1500230900\nlast_update    : 1500238051\nfuzzer_pid     : 30865\ncycles_done    : 0\nexecs_done     : 3759850\nexecs_per_sec  : 324.19\npaths_total    : 434\npaths_favored  : 69\npaths_found    : 433\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 225\npending_favs   : 46\npending_total  : 383\nvariable_paths : 0\nbitmap_cvg     : 1.68%\nunique_crashes : 0\nunique_hangs   : 53\nlast_path      : 1500238047\nlast_crash     : 0\nlast_hang      : 1500238049\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/QuadtreeConways/input -o /dev/shm/work/QuadtreeConways/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/QuadtreeConways/QuadtreeConways.dict -- data/linux/processed-challenges/QuadtreeConways/bin/QuadtreeConways\n'
+p121
+I2
+tp122
+a(I7320
+S'start_time     : 1500230900\nlast_update    : 1500238172\nfuzzer_pid     : 30865\ncycles_done    : 0\nexecs_done     : 3804828\nexecs_per_sec  : 380.43\npaths_total    : 435\npaths_favored  : 69\npaths_found    : 434\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 226\npending_favs   : 46\npending_total  : 383\nvariable_paths : 0\nbitmap_cvg     : 1.68%\nunique_crashes : 0\nunique_hangs   : 57\nlast_path      : 1500238059\nlast_crash     : 0\nlast_hang      : 1500238146\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/QuadtreeConways/input -o /dev/shm/work/QuadtreeConways/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/QuadtreeConways/QuadtreeConways.dict -- data/linux/processed-challenges/QuadtreeConways/bin/QuadtreeConways\n'
+p123
+I2
+tp124
+a(I7440
+S'start_time     : 1500230900\nlast_update    : 1500238292\nfuzzer_pid     : 30865\ncycles_done    : 0\nexecs_done     : 3863774\nexecs_per_sec  : 561.25\npaths_total    : 441\npaths_favored  : 69\npaths_found    : 440\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 229\npending_favs   : 45\npending_total  : 388\nvariable_paths : 0\nbitmap_cvg     : 1.68%\nunique_crashes : 0\nunique_hangs   : 57\nlast_path      : 1500238281\nlast_crash     : 0\nlast_hang      : 1500238146\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/QuadtreeConways/input -o /dev/shm/work/QuadtreeConways/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/QuadtreeConways/QuadtreeConways.dict -- data/linux/processed-challenges/QuadtreeConways/bin/QuadtreeConways\n'
+p125
+I6
+tp126
+a(I7560
+S'start_time     : 1500230900\nlast_update    : 1500238412\nfuzzer_pid     : 30865\ncycles_done    : 0\nexecs_done     : 3932641\nexecs_per_sec  : 579.19\npaths_total    : 445\npaths_favored  : 69\npaths_found    : 444\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 229\npending_favs   : 45\npending_total  : 392\nvariable_paths : 0\nbitmap_cvg     : 1.69%\nunique_crashes : 0\nunique_hangs   : 57\nlast_path      : 1500238411\nlast_crash     : 0\nlast_hang      : 1500238146\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/QuadtreeConways/input -o /dev/shm/work/QuadtreeConways/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/QuadtreeConways/QuadtreeConways.dict -- data/linux/processed-challenges/QuadtreeConways/bin/QuadtreeConways\n'
+p127
+I3
+tp128
+a(I7680
+S'start_time     : 1500230900\nlast_update    : 1500238532\nfuzzer_pid     : 30865\ncycles_done    : 0\nexecs_done     : 3992307\nexecs_per_sec  : 554.58\npaths_total    : 448\npaths_favored  : 73\npaths_found    : 447\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 231\npending_favs   : 47\npending_total  : 394\nvariable_paths : 0\nbitmap_cvg     : 1.70%\nunique_crashes : 0\nunique_hangs   : 58\nlast_path      : 1500238507\nlast_crash     : 0\nlast_hang      : 1500238440\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/QuadtreeConways/input -o /dev/shm/work/QuadtreeConways/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/QuadtreeConways/QuadtreeConways.dict -- data/linux/processed-challenges/QuadtreeConways/bin/QuadtreeConways\n'
+p129
+I2
+tp130
+a(I7800
+S'start_time     : 1500230900\nlast_update    : 1500238652\nfuzzer_pid     : 30865\ncycles_done    : 0\nexecs_done     : 4061042\nexecs_per_sec  : 356.02\npaths_total    : 448\npaths_favored  : 73\npaths_found    : 447\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 238\npending_favs   : 45\npending_total  : 392\nvariable_paths : 0\nbitmap_cvg     : 1.70%\nunique_crashes : 0\nunique_hangs   : 58\nlast_path      : 1500238507\nlast_crash     : 0\nlast_hang      : 1500238440\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/QuadtreeConways/input -o /dev/shm/work/QuadtreeConways/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/QuadtreeConways/QuadtreeConways.dict -- data/linux/processed-challenges/QuadtreeConways/bin/QuadtreeConways\n'
+p131
+I1
+tp132
+a(I7920
+S'start_time     : 1500230900\nlast_update    : 1500238773\nfuzzer_pid     : 30865\ncycles_done    : 0\nexecs_done     : 4103814\nexecs_per_sec  : 456.25\npaths_total    : 449\npaths_favored  : 73\npaths_found    : 448\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 241\npending_favs   : 44\npending_total  : 392\nvariable_paths : 0\nbitmap_cvg     : 1.70%\nunique_crashes : 0\nunique_hangs   : 58\nlast_path      : 1500238675\nlast_crash     : 0\nlast_hang      : 1500238440\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/QuadtreeConways/input -o /dev/shm/work/QuadtreeConways/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/QuadtreeConways/QuadtreeConways.dict -- data/linux/processed-challenges/QuadtreeConways/bin/QuadtreeConways\n'
+p133
+I0
+tp134
+a(I8040
+S'start_time     : 1500230900\nlast_update    : 1500238893\nfuzzer_pid     : 30865\ncycles_done    : 0\nexecs_done     : 4135769\nexecs_per_sec  : 396.41\npaths_total    : 450\npaths_favored  : 71\npaths_found    : 449\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 243\npending_favs   : 43\npending_total  : 392\nvariable_paths : 0\nbitmap_cvg     : 1.70%\nunique_crashes : 0\nunique_hangs   : 58\nlast_path      : 1500238850\nlast_crash     : 0\nlast_hang      : 1500238440\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/QuadtreeConways/input -o /dev/shm/work/QuadtreeConways/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/QuadtreeConways/QuadtreeConways.dict -- data/linux/processed-challenges/QuadtreeConways/bin/QuadtreeConways\n'
+p135
+I1
+tp136
+a(I8160
+S'start_time     : 1500230900\nlast_update    : 1500239013\nfuzzer_pid     : 30865\ncycles_done    : 0\nexecs_done     : 4167454\nexecs_per_sec  : 391.14\npaths_total    : 450\npaths_favored  : 71\npaths_found    : 449\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 244\npending_favs   : 42\npending_total  : 391\nvariable_paths : 0\nbitmap_cvg     : 1.70%\nunique_crashes : 0\nunique_hangs   : 58\nlast_path      : 1500238850\nlast_crash     : 0\nlast_hang      : 1500238440\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/QuadtreeConways/input -o /dev/shm/work/QuadtreeConways/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/QuadtreeConways/QuadtreeConways.dict -- data/linux/processed-challenges/QuadtreeConways/bin/QuadtreeConways\n'
+p137
+I0
+tp138
+a(I8280
+S'start_time     : 1500230900\nlast_update    : 1500239133\nfuzzer_pid     : 30865\ncycles_done    : 0\nexecs_done     : 4186767\nexecs_per_sec  : 118.65\npaths_total    : 452\npaths_favored  : 71\npaths_found    : 451\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 247\npending_favs   : 41\npending_total  : 392\nvariable_paths : 0\nbitmap_cvg     : 1.70%\nunique_crashes : 0\nunique_hangs   : 58\nlast_path      : 1500239119\nlast_crash     : 0\nlast_hang      : 1500238440\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/QuadtreeConways/input -o /dev/shm/work/QuadtreeConways/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/QuadtreeConways/QuadtreeConways.dict -- data/linux/processed-challenges/QuadtreeConways/bin/QuadtreeConways\n'
+p139
+I3
+tp140
+a(I8400
+S'start_time     : 1500230900\nlast_update    : 1500239253\nfuzzer_pid     : 30865\ncycles_done    : 0\nexecs_done     : 4207492\nexecs_per_sec  : 83.95\npaths_total    : 453\npaths_favored  : 71\npaths_found    : 452\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 251\npending_favs   : 41\npending_total  : 392\nvariable_paths : 0\nbitmap_cvg     : 1.70%\nunique_crashes : 0\nunique_hangs   : 58\nlast_path      : 1500239144\nlast_crash     : 0\nlast_hang      : 1500238440\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/QuadtreeConways/input -o /dev/shm/work/QuadtreeConways/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/QuadtreeConways/QuadtreeConways.dict -- data/linux/processed-challenges/QuadtreeConways/bin/QuadtreeConways\n'
+p141
+I0
+tp142
+a(I8520
+S'start_time     : 1500230900\nlast_update    : 1500239374\nfuzzer_pid     : 30865\ncycles_done    : 0\nexecs_done     : 4217503\nexecs_per_sec  : 75.30\npaths_total    : 453\npaths_favored  : 71\npaths_found    : 452\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 251\npending_favs   : 41\npending_total  : 392\nvariable_paths : 0\nbitmap_cvg     : 1.70%\nunique_crashes : 0\nunique_hangs   : 58\nlast_path      : 1500239144\nlast_crash     : 0\nlast_hang      : 1500238440\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/QuadtreeConways/input -o /dev/shm/work/QuadtreeConways/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/QuadtreeConways/QuadtreeConways.dict -- data/linux/processed-challenges/QuadtreeConways/bin/QuadtreeConways\n'
+p143
+I1
+tp144
+a(I8640
+S'start_time     : 1500230900\nlast_update    : 1500239494\nfuzzer_pid     : 30865\ncycles_done    : 0\nexecs_done     : 4233003\nexecs_per_sec  : 134.43\npaths_total    : 454\npaths_favored  : 71\npaths_found    : 453\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 253\npending_favs   : 40\npending_total  : 392\nvariable_paths : 0\nbitmap_cvg     : 1.70%\nunique_crashes : 0\nunique_hangs   : 58\nlast_path      : 1500239429\nlast_crash     : 0\nlast_hang      : 1500238440\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/QuadtreeConways/input -o /dev/shm/work/QuadtreeConways/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/QuadtreeConways/QuadtreeConways.dict -- data/linux/processed-challenges/QuadtreeConways/bin/QuadtreeConways\n'
+p145
+I0
+tp146
+a(I8760
+S'start_time     : 1500230900\nlast_update    : 1500239614\nfuzzer_pid     : 30865\ncycles_done    : 0\nexecs_done     : 4251752\nexecs_per_sec  : 118.51\npaths_total    : 454\npaths_favored  : 72\npaths_found    : 453\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 259\npending_favs   : 40\npending_total  : 391\nvariable_paths : 0\nbitmap_cvg     : 1.70%\nunique_crashes : 0\nunique_hangs   : 58\nlast_path      : 1500239429\nlast_crash     : 0\nlast_hang      : 1500238440\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/QuadtreeConways/input -o /dev/shm/work/QuadtreeConways/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/QuadtreeConways/QuadtreeConways.dict -- data/linux/processed-challenges/QuadtreeConways/bin/QuadtreeConways\n'
+p147
+I0
+tp148
+a(I8880
+S'start_time     : 1500230900\nlast_update    : 1500239734\nfuzzer_pid     : 30865\ncycles_done    : 0\nexecs_done     : 4266073\nexecs_per_sec  : 111.98\npaths_total    : 454\npaths_favored  : 72\npaths_found    : 453\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 259\npending_favs   : 40\npending_total  : 391\nvariable_paths : 0\nbitmap_cvg     : 1.70%\nunique_crashes : 0\nunique_hangs   : 58\nlast_path      : 1500239429\nlast_crash     : 0\nlast_hang      : 1500238440\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/QuadtreeConways/input -o /dev/shm/work/QuadtreeConways/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/QuadtreeConways/QuadtreeConways.dict -- data/linux/processed-challenges/QuadtreeConways/bin/QuadtreeConways\n'
+p149
+I3
+tp150
+a(I9000
+S'start_time     : 1500230900\nlast_update    : 1500239855\nfuzzer_pid     : 30865\ncycles_done    : 0\nexecs_done     : 4295770\nexecs_per_sec  : 271.38\npaths_total    : 457\npaths_favored  : 72\npaths_found    : 456\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 259\npending_favs   : 40\npending_total  : 394\nvariable_paths : 0\nbitmap_cvg     : 1.70%\nunique_crashes : 0\nunique_hangs   : 60\nlast_path      : 1500239791\nlast_crash     : 0\nlast_hang      : 1500239821\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/QuadtreeConways/input -o /dev/shm/work/QuadtreeConways/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/QuadtreeConways/QuadtreeConways.dict -- data/linux/processed-challenges/QuadtreeConways/bin/QuadtreeConways\n'
+p151
+I1
+tp152
+a(I9120
+S'start_time     : 1500230900\nlast_update    : 1500239975\nfuzzer_pid     : 30865\ncycles_done    : 0\nexecs_done     : 4327460\nexecs_per_sec  : 271.41\npaths_total    : 458\npaths_favored  : 72\npaths_found    : 457\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 259\npending_favs   : 40\npending_total  : 395\nvariable_paths : 0\nbitmap_cvg     : 1.70%\nunique_crashes : 0\nunique_hangs   : 60\nlast_path      : 1500239909\nlast_crash     : 0\nlast_hang      : 1500239821\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/QuadtreeConways/input -o /dev/shm/work/QuadtreeConways/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/QuadtreeConways/QuadtreeConways.dict -- data/linux/processed-challenges/QuadtreeConways/bin/QuadtreeConways\n'
+p153
+I2
+tp154
+a(I9240
+S'start_time     : 1500230900\nlast_update    : 1500240095\nfuzzer_pid     : 30865\ncycles_done    : 0\nexecs_done     : 4359490\nexecs_per_sec  : 272.31\npaths_total    : 460\npaths_favored  : 72\npaths_found    : 459\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 259\npending_favs   : 40\npending_total  : 397\nvariable_paths : 0\nbitmap_cvg     : 1.70%\nunique_crashes : 0\nunique_hangs   : 60\nlast_path      : 1500239981\nlast_crash     : 0\nlast_hang      : 1500239821\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/QuadtreeConways/input -o /dev/shm/work/QuadtreeConways/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/QuadtreeConways/QuadtreeConways.dict -- data/linux/processed-challenges/QuadtreeConways/bin/QuadtreeConways\n'
+p155
+I0
+tp156
+a(I9360
+S'start_time     : 1500230900\nlast_update    : 1500240215\nfuzzer_pid     : 30865\ncycles_done    : 0\nexecs_done     : 4388849\nexecs_per_sec  : 81.11\npaths_total    : 461\npaths_favored  : 72\npaths_found    : 460\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 263\npending_favs   : 39\npending_total  : 397\nvariable_paths : 0\nbitmap_cvg     : 1.70%\nunique_crashes : 0\nunique_hangs   : 60\nlast_path      : 1500240183\nlast_crash     : 0\nlast_hang      : 1500239821\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/QuadtreeConways/input -o /dev/shm/work/QuadtreeConways/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/QuadtreeConways/QuadtreeConways.dict -- data/linux/processed-challenges/QuadtreeConways/bin/QuadtreeConways\n'
+p157
+I1
+tp158
+a(I9480
+S'start_time     : 1500230900\nlast_update    : 1500240335\nfuzzer_pid     : 30865\ncycles_done    : 0\nexecs_done     : 4398294\nexecs_per_sec  : 95.84\npaths_total    : 461\npaths_favored  : 72\npaths_found    : 460\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 263\npending_favs   : 39\npending_total  : 397\nvariable_paths : 0\nbitmap_cvg     : 1.70%\nunique_crashes : 0\nunique_hangs   : 60\nlast_path      : 1500240183\nlast_crash     : 0\nlast_hang      : 1500239821\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/QuadtreeConways/input -o /dev/shm/work/QuadtreeConways/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/QuadtreeConways/QuadtreeConways.dict -- data/linux/processed-challenges/QuadtreeConways/bin/QuadtreeConways\n'
+p159
+I0
+tp160
+a(I9600
+S'start_time     : 1500230900\nlast_update    : 1500240455\nfuzzer_pid     : 30865\ncycles_done    : 0\nexecs_done     : 4408311\nexecs_per_sec  : 76.91\npaths_total    : 461\npaths_favored  : 72\npaths_found    : 460\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 263\npending_favs   : 39\npending_total  : 397\nvariable_paths : 0\nbitmap_cvg     : 1.70%\nunique_crashes : 0\nunique_hangs   : 60\nlast_path      : 1500240183\nlast_crash     : 0\nlast_hang      : 1500239821\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/QuadtreeConways/input -o /dev/shm/work/QuadtreeConways/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/QuadtreeConways/QuadtreeConways.dict -- data/linux/processed-challenges/QuadtreeConways/bin/QuadtreeConways\n'
+p161
+I0
+tp162
+a(I9720
+S'start_time     : 1500230900\nlast_update    : 1500240576\nfuzzer_pid     : 30865\ncycles_done    : 0\nexecs_done     : 4417465\nexecs_per_sec  : 75.11\npaths_total    : 461\npaths_favored  : 72\npaths_found    : 460\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 263\npending_favs   : 39\npending_total  : 397\nvariable_paths : 0\nbitmap_cvg     : 1.70%\nunique_crashes : 0\nunique_hangs   : 60\nlast_path      : 1500240183\nlast_crash     : 0\nlast_hang      : 1500239821\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/QuadtreeConways/input -o /dev/shm/work/QuadtreeConways/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/QuadtreeConways/QuadtreeConways.dict -- data/linux/processed-challenges/QuadtreeConways/bin/QuadtreeConways\n'
+p163
+I1
+tp164
+a(I9840
+S'start_time     : 1500230900\nlast_update    : 1500240696\nfuzzer_pid     : 30865\ncycles_done    : 0\nexecs_done     : 4428924\nexecs_per_sec  : 64.73\npaths_total    : 462\npaths_favored  : 72\npaths_found    : 461\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 264\npending_favs   : 38\npending_total  : 397\nvariable_paths : 0\nbitmap_cvg     : 1.70%\nunique_crashes : 0\nunique_hangs   : 60\nlast_path      : 1500240629\nlast_crash     : 0\nlast_hang      : 1500239821\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/QuadtreeConways/input -o /dev/shm/work/QuadtreeConways/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/QuadtreeConways/QuadtreeConways.dict -- data/linux/processed-challenges/QuadtreeConways/bin/QuadtreeConways\n'
+p165
+I0
+tp166
+a(I9960
+S'start_time     : 1500230900\nlast_update    : 1500240816\nfuzzer_pid     : 30865\ncycles_done    : 0\nexecs_done     : 4437415\nexecs_per_sec  : 70.26\npaths_total    : 462\npaths_favored  : 72\npaths_found    : 461\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 264\npending_favs   : 38\npending_total  : 397\nvariable_paths : 0\nbitmap_cvg     : 1.70%\nunique_crashes : 0\nunique_hangs   : 60\nlast_path      : 1500240629\nlast_crash     : 0\nlast_hang      : 1500239821\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/QuadtreeConways/input -o /dev/shm/work/QuadtreeConways/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/QuadtreeConways/QuadtreeConways.dict -- data/linux/processed-challenges/QuadtreeConways/bin/QuadtreeConways\n'
+p167
+I0
+tp168
+a(I10080
+S'start_time     : 1500230900\nlast_update    : 1500240936\nfuzzer_pid     : 30865\ncycles_done    : 0\nexecs_done     : 4445601\nexecs_per_sec  : 65.05\npaths_total    : 462\npaths_favored  : 72\npaths_found    : 461\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 264\npending_favs   : 38\npending_total  : 397\nvariable_paths : 0\nbitmap_cvg     : 1.70%\nunique_crashes : 0\nunique_hangs   : 60\nlast_path      : 1500240629\nlast_crash     : 0\nlast_hang      : 1500239821\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/QuadtreeConways/input -o /dev/shm/work/QuadtreeConways/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/QuadtreeConways/QuadtreeConways.dict -- data/linux/processed-challenges/QuadtreeConways/bin/QuadtreeConways\n'
+p169
+I0
+tp170
+a(I10200
+S'start_time     : 1500230900\nlast_update    : 1500241056\nfuzzer_pid     : 30865\ncycles_done    : 0\nexecs_done     : 4459939\nexecs_per_sec  : 252.03\npaths_total    : 462\npaths_favored  : 70\npaths_found    : 461\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 267\npending_favs   : 36\npending_total  : 396\nvariable_paths : 0\nbitmap_cvg     : 1.70%\nunique_crashes : 0\nunique_hangs   : 62\nlast_path      : 1500240629\nlast_crash     : 0\nlast_hang      : 1500241035\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/QuadtreeConways/input -o /dev/shm/work/QuadtreeConways/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/QuadtreeConways/QuadtreeConways.dict -- data/linux/processed-challenges/QuadtreeConways/bin/QuadtreeConways\n'
+p171
+I0
+tp172
+a(I10320
+S'start_time     : 1500230900\nlast_update    : 1500241177\nfuzzer_pid     : 30865\ncycles_done    : 0\nexecs_done     : 4511322\nexecs_per_sec  : 423.52\npaths_total    : 462\npaths_favored  : 70\npaths_found    : 461\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 274\npending_favs   : 34\npending_total  : 394\nvariable_paths : 0\nbitmap_cvg     : 1.70%\nunique_crashes : 0\nunique_hangs   : 62\nlast_path      : 1500240629\nlast_crash     : 0\nlast_hang      : 1500241035\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/QuadtreeConways/input -o /dev/shm/work/QuadtreeConways/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/QuadtreeConways/QuadtreeConways.dict -- data/linux/processed-challenges/QuadtreeConways/bin/QuadtreeConways\n'
+p173
+I0
+tp174
+a(I10440
+S'start_time     : 1500230900\nlast_update    : 1500241297\nfuzzer_pid     : 30865\ncycles_done    : 0\nexecs_done     : 4537813\nexecs_per_sec  : 318.75\npaths_total    : 462\npaths_favored  : 70\npaths_found    : 461\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 289\npending_favs   : 33\npending_total  : 393\nvariable_paths : 0\nbitmap_cvg     : 1.70%\nunique_crashes : 0\nunique_hangs   : 63\nlast_path      : 1500240629\nlast_crash     : 0\nlast_hang      : 1500241215\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/QuadtreeConways/input -o /dev/shm/work/QuadtreeConways/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/QuadtreeConways/QuadtreeConways.dict -- data/linux/processed-challenges/QuadtreeConways/bin/QuadtreeConways\n'
+p175
+I3
+tp176
+a(I10560
+S'start_time     : 1500230900\nlast_update    : 1500241417\nfuzzer_pid     : 30865\ncycles_done    : 0\nexecs_done     : 4614790\nexecs_per_sec  : 730.52\npaths_total    : 469\npaths_favored  : 70\npaths_found    : 468\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 291\npending_favs   : 32\npending_total  : 399\nvariable_paths : 0\nbitmap_cvg     : 1.70%\nunique_crashes : 0\nunique_hangs   : 63\nlast_path      : 1500241407\nlast_crash     : 0\nlast_hang      : 1500241215\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/QuadtreeConways/input -o /dev/shm/work/QuadtreeConways/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/QuadtreeConways/QuadtreeConways.dict -- data/linux/processed-challenges/QuadtreeConways/bin/QuadtreeConways\n'
+p177
+I5
+tp178
+a(I10680
+S'start_time     : 1500230900\nlast_update    : 1500241537\nfuzzer_pid     : 30865\ncycles_done    : 0\nexecs_done     : 4702576\nexecs_per_sec  : 719.20\npaths_total    : 471\npaths_favored  : 70\npaths_found    : 470\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 291\npending_favs   : 32\npending_total  : 401\nvariable_paths : 0\nbitmap_cvg     : 1.70%\nunique_crashes : 0\nunique_hangs   : 63\nlast_path      : 1500241533\nlast_crash     : 0\nlast_hang      : 1500241215\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/QuadtreeConways/input -o /dev/shm/work/QuadtreeConways/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/QuadtreeConways/QuadtreeConways.dict -- data/linux/processed-challenges/QuadtreeConways/bin/QuadtreeConways\n'
+p179
+I3
+tp180
+a.

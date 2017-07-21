@@ -1,0 +1,452 @@
+(lp0
+(I0
+S'start_time     : 1500111843\nlast_update    : 1500111843\nfuzzer_pid     : 5962\ncycles_done    : 0\nexecs_done     : 10\nexecs_per_sec  : 181.82\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 1\npending_total  : 1\nvariable_paths : 0\nbitmap_cvg     : 0.18%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Childs_Game/input -o /dev/shm/work/Childs_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Childs_Game/Childs_Game.dict -- data/linux/processed-challenges/Childs_Game/bin/Childs_Game\n'
+p1
+I17
+tp2
+a(I120
+S'start_time     : 1500111843\nlast_update    : 1500111963\nfuzzer_pid     : 5962\ncycles_done    : 0\nexecs_done     : 98433\nexecs_per_sec  : 807.96\npaths_total    : 30\npaths_favored  : 1\npaths_found    : 29\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 1\npending_total  : 30\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500111938\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Childs_Game/input -o /dev/shm/work/Childs_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Childs_Game/Childs_Game.dict -- data/linux/processed-challenges/Childs_Game/bin/Childs_Game\n'
+p3
+I13
+tp4
+a(I240
+S'start_time     : 1500111843\nlast_update    : 1500112083\nfuzzer_pid     : 5962\ncycles_done    : 0\nexecs_done     : 193047\nexecs_per_sec  : 785.72\npaths_total    : 44\npaths_favored  : 17\npaths_found    : 43\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 1\npending_favs   : 17\npending_total  : 43\nvariable_paths : 0\nbitmap_cvg     : 0.36%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500112080\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Childs_Game/input -o /dev/shm/work/Childs_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Childs_Game/Childs_Game.dict -- data/linux/processed-challenges/Childs_Game/bin/Childs_Game\n'
+p5
+I15
+tp6
+a(I360
+S'start_time     : 1500111843\nlast_update    : 1500112203\nfuzzer_pid     : 5962\ncycles_done    : 0\nexecs_done     : 287972\nexecs_per_sec  : 775.98\npaths_total    : 52\npaths_favored  : 17\npaths_found    : 51\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 1\npending_favs   : 17\npending_total  : 51\nvariable_paths : 0\nbitmap_cvg     : 0.37%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500112199\nlast_crash     : 0\nlast_hang      : 1500112141\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Childs_Game/input -o /dev/shm/work/Childs_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Childs_Game/Childs_Game.dict -- data/linux/processed-challenges/Childs_Game/bin/Childs_Game\n'
+p7
+I7
+tp8
+a(I480
+S'start_time     : 1500111843\nlast_update    : 1500112324\nfuzzer_pid     : 5962\ncycles_done    : 0\nexecs_done     : 381748\nexecs_per_sec  : 787.76\npaths_total    : 69\npaths_favored  : 31\npaths_found    : 68\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 17\npending_favs   : 27\npending_total  : 62\nvariable_paths : 0\nbitmap_cvg     : 0.42%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500112320\nlast_crash     : 0\nlast_hang      : 1500112141\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Childs_Game/input -o /dev/shm/work/Childs_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Childs_Game/Childs_Game.dict -- data/linux/processed-challenges/Childs_Game/bin/Childs_Game\n'
+p9
+I17
+tp10
+a(I600
+S'start_time     : 1500111843\nlast_update    : 1500112444\nfuzzer_pid     : 5962\ncycles_done    : 0\nexecs_done     : 475344\nexecs_per_sec  : 790.61\npaths_total    : 94\npaths_favored  : 31\npaths_found    : 93\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 19\npending_favs   : 26\npending_total  : 86\nvariable_paths : 0\nbitmap_cvg     : 0.43%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500112434\nlast_crash     : 0\nlast_hang      : 1500112141\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Childs_Game/input -o /dev/shm/work/Childs_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Childs_Game/Childs_Game.dict -- data/linux/processed-challenges/Childs_Game/bin/Childs_Game\n'
+p11
+I25
+tp12
+a(I720
+S'start_time     : 1500111843\nlast_update    : 1500112564\nfuzzer_pid     : 5962\ncycles_done    : 0\nexecs_done     : 567940\nexecs_per_sec  : 796.01\npaths_total    : 96\npaths_favored  : 34\npaths_found    : 95\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 26\npending_favs   : 27\npending_total  : 85\nvariable_paths : 0\nbitmap_cvg     : 0.43%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500112488\nlast_crash     : 0\nlast_hang      : 1500112141\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Childs_Game/input -o /dev/shm/work/Childs_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Childs_Game/Childs_Game.dict -- data/linux/processed-challenges/Childs_Game/bin/Childs_Game\n'
+p13
+I2
+tp14
+a(I840
+S'start_time     : 1500111843\nlast_update    : 1500112684\nfuzzer_pid     : 5962\ncycles_done    : 0\nexecs_done     : 660757\nexecs_per_sec  : 749.82\npaths_total    : 98\npaths_favored  : 34\npaths_found    : 97\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 37\npending_favs   : 23\npending_total  : 82\nvariable_paths : 0\nbitmap_cvg     : 0.43%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500112605\nlast_crash     : 0\nlast_hang      : 1500112141\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Childs_Game/input -o /dev/shm/work/Childs_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Childs_Game/Childs_Game.dict -- data/linux/processed-challenges/Childs_Game/bin/Childs_Game\n'
+p15
+I2
+tp16
+a(I960
+S'start_time     : 1500111843\nlast_update    : 1500112805\nfuzzer_pid     : 5962\ncycles_done    : 0\nexecs_done     : 752297\nexecs_per_sec  : 767.85\npaths_total    : 101\npaths_favored  : 33\npaths_found    : 100\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 44\npending_favs   : 20\npending_total  : 79\nvariable_paths : 0\nbitmap_cvg     : 0.43%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500112802\nlast_crash     : 0\nlast_hang      : 1500112141\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Childs_Game/input -o /dev/shm/work/Childs_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Childs_Game/Childs_Game.dict -- data/linux/processed-challenges/Childs_Game/bin/Childs_Game\n'
+p17
+I3
+tp18
+a(I1080
+S'start_time     : 1500111843\nlast_update    : 1500112925\nfuzzer_pid     : 5962\ncycles_done    : 0\nexecs_done     : 844450\nexecs_per_sec  : 774.25\npaths_total    : 115\npaths_favored  : 33\npaths_found    : 114\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 54\npending_favs   : 15\npending_total  : 88\nvariable_paths : 0\nbitmap_cvg     : 0.63%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500112922\nlast_crash     : 0\nlast_hang      : 1500112141\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Childs_Game/input -o /dev/shm/work/Childs_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Childs_Game/Childs_Game.dict -- data/linux/processed-challenges/Childs_Game/bin/Childs_Game\n'
+p19
+I14
+tp20
+a(I1200
+S'start_time     : 1500111843\nlast_update    : 1500113045\nfuzzer_pid     : 5962\ncycles_done    : 0\nexecs_done     : 937525\nexecs_per_sec  : 781.17\npaths_total    : 127\npaths_favored  : 33\npaths_found    : 126\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 54\npending_favs   : 15\npending_total  : 100\nvariable_paths : 0\nbitmap_cvg     : 0.65%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500113022\nlast_crash     : 0\nlast_hang      : 1500112141\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Childs_Game/input -o /dev/shm/work/Childs_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Childs_Game/Childs_Game.dict -- data/linux/processed-challenges/Childs_Game/bin/Childs_Game\n'
+p21
+I12
+tp22
+a(I1320
+S'start_time     : 1500111843\nlast_update    : 1500113165\nfuzzer_pid     : 5962\ncycles_done    : 0\nexecs_done     : 1028045\nexecs_per_sec  : 770.48\npaths_total    : 134\npaths_favored  : 43\npaths_found    : 133\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 58\npending_favs   : 25\npending_total  : 106\nvariable_paths : 0\nbitmap_cvg     : 0.66%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500113146\nlast_crash     : 0\nlast_hang      : 1500112141\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Childs_Game/input -o /dev/shm/work/Childs_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Childs_Game/Childs_Game.dict -- data/linux/processed-challenges/Childs_Game/bin/Childs_Game\n'
+p23
+I7
+tp24
+a(I1440
+S'start_time     : 1500111843\nlast_update    : 1500113286\nfuzzer_pid     : 5962\ncycles_done    : 0\nexecs_done     : 1117696\nexecs_per_sec  : 736.70\npaths_total    : 136\npaths_favored  : 43\npaths_found    : 135\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 95\npending_favs   : 19\npending_total  : 102\nvariable_paths : 0\nbitmap_cvg     : 0.66%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500113247\nlast_crash     : 0\nlast_hang      : 1500112141\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Childs_Game/input -o /dev/shm/work/Childs_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Childs_Game/Childs_Game.dict -- data/linux/processed-challenges/Childs_Game/bin/Childs_Game\n'
+p25
+I2
+tp26
+a(I1560
+S'start_time     : 1500111843\nlast_update    : 1500113406\nfuzzer_pid     : 5962\ncycles_done    : 0\nexecs_done     : 1209875\nexecs_per_sec  : 774.66\npaths_total    : 145\npaths_favored  : 43\npaths_found    : 144\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 95\npending_favs   : 19\npending_total  : 111\nvariable_paths : 0\nbitmap_cvg     : 0.67%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500113371\nlast_crash     : 0\nlast_hang      : 1500112141\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Childs_Game/input -o /dev/shm/work/Childs_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Childs_Game/Childs_Game.dict -- data/linux/processed-challenges/Childs_Game/bin/Childs_Game\n'
+p27
+I9
+tp28
+a(I1680
+S'start_time     : 1500111843\nlast_update    : 1500113526\nfuzzer_pid     : 5962\ncycles_done    : 0\nexecs_done     : 1302639\nexecs_per_sec  : 770.86\npaths_total    : 149\npaths_favored  : 42\npaths_found    : 148\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 98\npending_favs   : 17\npending_total  : 114\nvariable_paths : 0\nbitmap_cvg     : 0.67%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500113515\nlast_crash     : 0\nlast_hang      : 1500112141\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Childs_Game/input -o /dev/shm/work/Childs_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Childs_Game/Childs_Game.dict -- data/linux/processed-challenges/Childs_Game/bin/Childs_Game\n'
+p29
+I4
+tp30
+a(I1800
+S'start_time     : 1500111843\nlast_update    : 1500113646\nfuzzer_pid     : 5962\ncycles_done    : 0\nexecs_done     : 1391295\nexecs_per_sec  : 683.19\npaths_total    : 158\npaths_favored  : 43\npaths_found    : 157\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 106\npending_favs   : 14\npending_total  : 119\nvariable_paths : 0\nbitmap_cvg     : 0.90%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500113645\nlast_crash     : 0\nlast_hang      : 1500112141\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Childs_Game/input -o /dev/shm/work/Childs_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Childs_Game/Childs_Game.dict -- data/linux/processed-challenges/Childs_Game/bin/Childs_Game\n'
+p31
+I10
+tp32
+a(I1920
+S'start_time     : 1500111843\nlast_update    : 1500113766\nfuzzer_pid     : 5962\ncycles_done    : 0\nexecs_done     : 1481041\nexecs_per_sec  : 753.11\npaths_total    : 175\npaths_favored  : 43\npaths_found    : 174\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 106\npending_favs   : 14\npending_total  : 136\nvariable_paths : 0\nbitmap_cvg     : 1.03%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500113766\nlast_crash     : 0\nlast_hang      : 1500112141\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Childs_Game/input -o /dev/shm/work/Childs_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Childs_Game/Childs_Game.dict -- data/linux/processed-challenges/Childs_Game/bin/Childs_Game\n'
+p33
+I17
+tp34
+a(I2040
+S'start_time     : 1500111843\nlast_update    : 1500113887\nfuzzer_pid     : 5962\ncycles_done    : 0\nexecs_done     : 1568980\nexecs_per_sec  : 769.47\npaths_total    : 178\npaths_favored  : 50\npaths_found    : 177\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 107\npending_favs   : 24\npending_total  : 138\nvariable_paths : 0\nbitmap_cvg     : 1.03%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500113877\nlast_crash     : 0\nlast_hang      : 1500112141\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Childs_Game/input -o /dev/shm/work/Childs_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Childs_Game/Childs_Game.dict -- data/linux/processed-challenges/Childs_Game/bin/Childs_Game\n'
+p35
+I2
+tp36
+a(I2160
+S'start_time     : 1500111843\nlast_update    : 1500114007\nfuzzer_pid     : 5962\ncycles_done    : 0\nexecs_done     : 1658686\nexecs_per_sec  : 747.25\npaths_total    : 188\npaths_favored  : 50\npaths_found    : 187\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 116\npending_favs   : 23\npending_total  : 147\nvariable_paths : 0\nbitmap_cvg     : 1.05%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500113980\nlast_crash     : 0\nlast_hang      : 1500112141\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Childs_Game/input -o /dev/shm/work/Childs_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Childs_Game/Childs_Game.dict -- data/linux/processed-challenges/Childs_Game/bin/Childs_Game\n'
+p37
+I10
+tp38
+a(I2280
+S'start_time     : 1500111843\nlast_update    : 1500114127\nfuzzer_pid     : 5962\ncycles_done    : 0\nexecs_done     : 1748801\nexecs_per_sec  : 742.23\npaths_total    : 193\npaths_favored  : 51\npaths_found    : 192\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 119\npending_favs   : 25\npending_total  : 151\nvariable_paths : 0\nbitmap_cvg     : 1.06%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500114077\nlast_crash     : 0\nlast_hang      : 1500114075\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Childs_Game/input -o /dev/shm/work/Childs_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Childs_Game/Childs_Game.dict -- data/linux/processed-challenges/Childs_Game/bin/Childs_Game\n'
+p39
+I5
+tp40
+a(I2400
+S'start_time     : 1500111843\nlast_update    : 1500114247\nfuzzer_pid     : 5962\ncycles_done    : 0\nexecs_done     : 1835814\nexecs_per_sec  : 646.72\npaths_total    : 194\npaths_favored  : 51\npaths_found    : 193\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 131\npending_favs   : 23\npending_total  : 150\nvariable_paths : 0\nbitmap_cvg     : 1.06%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500114192\nlast_crash     : 0\nlast_hang      : 1500114075\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Childs_Game/input -o /dev/shm/work/Childs_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Childs_Game/Childs_Game.dict -- data/linux/processed-challenges/Childs_Game/bin/Childs_Game\n'
+p41
+I1
+tp42
+a(I2520
+S'start_time     : 1500111843\nlast_update    : 1500114368\nfuzzer_pid     : 5962\ncycles_done    : 0\nexecs_done     : 1920019\nexecs_per_sec  : 723.99\npaths_total    : 204\npaths_favored  : 51\npaths_found    : 203\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 131\npending_favs   : 23\npending_total  : 160\nvariable_paths : 0\nbitmap_cvg     : 1.08%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500114360\nlast_crash     : 0\nlast_hang      : 1500114294\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Childs_Game/input -o /dev/shm/work/Childs_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Childs_Game/Childs_Game.dict -- data/linux/processed-challenges/Childs_Game/bin/Childs_Game\n'
+p43
+I10
+tp44
+a(I2640
+S'start_time     : 1500111843\nlast_update    : 1500114488\nfuzzer_pid     : 5962\ncycles_done    : 0\nexecs_done     : 2006675\nexecs_per_sec  : 733.86\npaths_total    : 210\npaths_favored  : 53\npaths_found    : 209\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 136\npending_favs   : 24\npending_total  : 165\nvariable_paths : 0\nbitmap_cvg     : 1.09%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500114479\nlast_crash     : 0\nlast_hang      : 1500114392\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Childs_Game/input -o /dev/shm/work/Childs_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Childs_Game/Childs_Game.dict -- data/linux/processed-challenges/Childs_Game/bin/Childs_Game\n'
+p45
+I6
+tp46
+a(I2760
+S'start_time     : 1500111843\nlast_update    : 1500114608\nfuzzer_pid     : 5962\ncycles_done    : 0\nexecs_done     : 2097659\nexecs_per_sec  : 770.11\npaths_total    : 212\npaths_favored  : 53\npaths_found    : 211\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 136\npending_favs   : 24\npending_total  : 167\nvariable_paths : 0\nbitmap_cvg     : 1.09%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500114554\nlast_crash     : 0\nlast_hang      : 1500114392\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Childs_Game/input -o /dev/shm/work/Childs_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Childs_Game/Childs_Game.dict -- data/linux/processed-challenges/Childs_Game/bin/Childs_Game\n'
+p47
+I2
+tp48
+a(I2880
+S'start_time     : 1500111843\nlast_update    : 1500114728\nfuzzer_pid     : 5962\ncycles_done    : 0\nexecs_done     : 2188065\nexecs_per_sec  : 756.25\npaths_total    : 216\npaths_favored  : 54\npaths_found    : 215\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 141\npending_favs   : 25\npending_total  : 170\nvariable_paths : 0\nbitmap_cvg     : 1.09%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500114717\nlast_crash     : 0\nlast_hang      : 1500114392\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Childs_Game/input -o /dev/shm/work/Childs_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Childs_Game/Childs_Game.dict -- data/linux/processed-challenges/Childs_Game/bin/Childs_Game\n'
+p49
+I4
+tp50
+a(I3000
+S'start_time     : 1500111843\nlast_update    : 1500114848\nfuzzer_pid     : 5962\ncycles_done    : 0\nexecs_done     : 2279540\nexecs_per_sec  : 752.36\npaths_total    : 218\npaths_favored  : 54\npaths_found    : 217\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 141\npending_favs   : 25\npending_total  : 172\nvariable_paths : 0\nbitmap_cvg     : 1.09%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500114803\nlast_crash     : 0\nlast_hang      : 1500114392\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Childs_Game/input -o /dev/shm/work/Childs_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Childs_Game/Childs_Game.dict -- data/linux/processed-challenges/Childs_Game/bin/Childs_Game\n'
+p51
+I2
+tp52
+a(I3120
+S'start_time     : 1500111843\nlast_update    : 1500114969\nfuzzer_pid     : 5962\ncycles_done    : 0\nexecs_done     : 2365839\nexecs_per_sec  : 640.96\npaths_total    : 219\npaths_favored  : 54\npaths_found    : 218\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 152\npending_favs   : 23\npending_total  : 171\nvariable_paths : 0\nbitmap_cvg     : 1.09%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500114950\nlast_crash     : 0\nlast_hang      : 1500114392\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Childs_Game/input -o /dev/shm/work/Childs_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Childs_Game/Childs_Game.dict -- data/linux/processed-challenges/Childs_Game/bin/Childs_Game\n'
+p53
+I1
+tp54
+a(I3240
+S'start_time     : 1500111843\nlast_update    : 1500115089\nfuzzer_pid     : 5962\ncycles_done    : 0\nexecs_done     : 2443350\nexecs_per_sec  : 690.25\npaths_total    : 221\npaths_favored  : 56\npaths_found    : 220\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 158\npending_favs   : 23\npending_total  : 171\nvariable_paths : 0\nbitmap_cvg     : 1.09%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500115065\nlast_crash     : 0\nlast_hang      : 1500114392\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Childs_Game/input -o /dev/shm/work/Childs_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Childs_Game/Childs_Game.dict -- data/linux/processed-challenges/Childs_Game/bin/Childs_Game\n'
+p55
+I2
+tp56
+a(I3360
+S'start_time     : 1500111843\nlast_update    : 1500115209\nfuzzer_pid     : 5962\ncycles_done    : 0\nexecs_done     : 2529813\nexecs_per_sec  : 726.99\npaths_total    : 234\npaths_favored  : 56\npaths_found    : 233\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 158\npending_favs   : 23\npending_total  : 184\nvariable_paths : 0\nbitmap_cvg     : 1.19%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500115141\nlast_crash     : 0\nlast_hang      : 1500114392\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Childs_Game/input -o /dev/shm/work/Childs_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Childs_Game/Childs_Game.dict -- data/linux/processed-challenges/Childs_Game/bin/Childs_Game\n'
+p57
+I13
+tp58
+a(I3480
+S'start_time     : 1500111843\nlast_update    : 1500115330\nfuzzer_pid     : 5962\ncycles_done    : 0\nexecs_done     : 2610168\nexecs_per_sec  : 528.30\npaths_total    : 259\npaths_favored  : 63\npaths_found    : 258\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 168\npending_favs   : 30\npending_total  : 208\nvariable_paths : 0\nbitmap_cvg     : 1.21%\nunique_crashes : 0\nunique_hangs   : 6\nlast_path      : 1500115324\nlast_crash     : 0\nlast_hang      : 1500115306\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Childs_Game/input -o /dev/shm/work/Childs_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Childs_Game/Childs_Game.dict -- data/linux/processed-challenges/Childs_Game/bin/Childs_Game\n'
+p59
+I25
+tp60
+a(I3600
+S'start_time     : 1500111843\nlast_update    : 1500115450\nfuzzer_pid     : 5962\ncycles_done    : 0\nexecs_done     : 2691756\nexecs_per_sec  : 711.96\npaths_total    : 289\npaths_favored  : 63\npaths_found    : 288\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 168\npending_favs   : 30\npending_total  : 238\nvariable_paths : 0\nbitmap_cvg     : 1.22%\nunique_crashes : 0\nunique_hangs   : 8\nlast_path      : 1500115441\nlast_crash     : 0\nlast_hang      : 1500115428\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Childs_Game/input -o /dev/shm/work/Childs_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Childs_Game/Childs_Game.dict -- data/linux/processed-challenges/Childs_Game/bin/Childs_Game\n'
+p61
+I30
+tp62
+a(I3720
+S'start_time     : 1500111843\nlast_update    : 1500115570\nfuzzer_pid     : 5962\ncycles_done    : 0\nexecs_done     : 2771790\nexecs_per_sec  : 639.88\npaths_total    : 292\npaths_favored  : 81\npaths_found    : 291\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 176\npending_favs   : 47\npending_total  : 240\nvariable_paths : 0\nbitmap_cvg     : 1.22%\nunique_crashes : 0\nunique_hangs   : 9\nlast_path      : 1500115490\nlast_crash     : 0\nlast_hang      : 1500115458\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Childs_Game/input -o /dev/shm/work/Childs_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Childs_Game/Childs_Game.dict -- data/linux/processed-challenges/Childs_Game/bin/Childs_Game\n'
+p63
+I3
+tp64
+a(I3840
+S'start_time     : 1500111843\nlast_update    : 1500115690\nfuzzer_pid     : 5962\ncycles_done    : 0\nexecs_done     : 2847849\nexecs_per_sec  : 651.63\npaths_total    : 299\npaths_favored  : 82\npaths_found    : 298\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 179\npending_favs   : 46\npending_total  : 245\nvariable_paths : 0\nbitmap_cvg     : 1.23%\nunique_crashes : 0\nunique_hangs   : 22\nlast_path      : 1500115681\nlast_crash     : 0\nlast_hang      : 1500115690\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Childs_Game/input -o /dev/shm/work/Childs_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Childs_Game/Childs_Game.dict -- data/linux/processed-challenges/Childs_Game/bin/Childs_Game\n'
+p65
+I7
+tp66
+a(I3960
+S'start_time     : 1500111843\nlast_update    : 1500115810\nfuzzer_pid     : 5962\ncycles_done    : 0\nexecs_done     : 2925275\nexecs_per_sec  : 660.23\npaths_total    : 304\npaths_favored  : 82\npaths_found    : 303\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 179\npending_favs   : 46\npending_total  : 250\nvariable_paths : 0\nbitmap_cvg     : 1.24%\nunique_crashes : 0\nunique_hangs   : 32\nlast_path      : 1500115803\nlast_crash     : 0\nlast_hang      : 1500115799\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Childs_Game/input -o /dev/shm/work/Childs_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Childs_Game/Childs_Game.dict -- data/linux/processed-challenges/Childs_Game/bin/Childs_Game\n'
+p67
+I6
+tp68
+a(I4080
+S'start_time     : 1500111843\nlast_update    : 1500115930\nfuzzer_pid     : 5962\ncycles_done    : 0\nexecs_done     : 3000518\nexecs_per_sec  : 691.44\npaths_total    : 316\npaths_favored  : 85\npaths_found    : 315\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 181\npending_favs   : 48\npending_total  : 261\nvariable_paths : 0\nbitmap_cvg     : 1.25%\nunique_crashes : 0\nunique_hangs   : 34\nlast_path      : 1500115927\nlast_crash     : 0\nlast_hang      : 1500115898\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Childs_Game/input -o /dev/shm/work/Childs_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Childs_Game/Childs_Game.dict -- data/linux/processed-challenges/Childs_Game/bin/Childs_Game\n'
+p69
+I11
+tp70
+a(I4200
+S'start_time     : 1500111843\nlast_update    : 1500116051\nfuzzer_pid     : 5962\ncycles_done    : 0\nexecs_done     : 3084265\nexecs_per_sec  : 683.96\npaths_total    : 320\npaths_favored  : 85\npaths_found    : 319\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 181\npending_favs   : 48\npending_total  : 265\nvariable_paths : 0\nbitmap_cvg     : 1.25%\nunique_crashes : 0\nunique_hangs   : 34\nlast_path      : 1500116034\nlast_crash     : 0\nlast_hang      : 1500115898\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Childs_Game/input -o /dev/shm/work/Childs_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Childs_Game/Childs_Game.dict -- data/linux/processed-challenges/Childs_Game/bin/Childs_Game\n'
+p71
+I4
+tp72
+a(I4320
+S'start_time     : 1500111843\nlast_update    : 1500116171\nfuzzer_pid     : 5962\ncycles_done    : 0\nexecs_done     : 3167772\nexecs_per_sec  : 746.49\npaths_total    : 322\npaths_favored  : 90\npaths_found    : 321\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 183\npending_favs   : 53\npending_total  : 266\nvariable_paths : 0\nbitmap_cvg     : 1.25%\nunique_crashes : 0\nunique_hangs   : 35\nlast_path      : 1500116112\nlast_crash     : 0\nlast_hang      : 1500116122\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Childs_Game/input -o /dev/shm/work/Childs_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Childs_Game/Childs_Game.dict -- data/linux/processed-challenges/Childs_Game/bin/Childs_Game\n'
+p73
+I2
+tp74
+a(I4440
+S'start_time     : 1500111843\nlast_update    : 1500116291\nfuzzer_pid     : 5962\ncycles_done    : 0\nexecs_done     : 3244747\nexecs_per_sec  : 623.97\npaths_total    : 324\npaths_favored  : 89\npaths_found    : 323\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 189\npending_favs   : 49\npending_total  : 265\nvariable_paths : 0\nbitmap_cvg     : 1.25%\nunique_crashes : 0\nunique_hangs   : 36\nlast_path      : 1500116251\nlast_crash     : 0\nlast_hang      : 1500116220\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Childs_Game/input -o /dev/shm/work/Childs_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Childs_Game/Childs_Game.dict -- data/linux/processed-challenges/Childs_Game/bin/Childs_Game\n'
+p75
+I2
+tp76
+a(I4560
+S'start_time     : 1500111843\nlast_update    : 1500116411\nfuzzer_pid     : 5962\ncycles_done    : 0\nexecs_done     : 3326289\nexecs_per_sec  : 706.24\npaths_total    : 324\npaths_favored  : 89\npaths_found    : 323\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 211\npending_favs   : 46\npending_total  : 262\nvariable_paths : 0\nbitmap_cvg     : 1.25%\nunique_crashes : 0\nunique_hangs   : 36\nlast_path      : 1500116251\nlast_crash     : 0\nlast_hang      : 1500116220\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Childs_Game/input -o /dev/shm/work/Childs_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Childs_Game/Childs_Game.dict -- data/linux/processed-challenges/Childs_Game/bin/Childs_Game\n'
+p77
+I0
+tp78
+a(I4680
+S'start_time     : 1500111843\nlast_update    : 1500116531\nfuzzer_pid     : 5962\ncycles_done    : 0\nexecs_done     : 3402650\nexecs_per_sec  : 670.81\npaths_total    : 328\npaths_favored  : 89\npaths_found    : 327\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 215\npending_favs   : 45\npending_total  : 265\nvariable_paths : 0\nbitmap_cvg     : 1.25%\nunique_crashes : 0\nunique_hangs   : 37\nlast_path      : 1500116518\nlast_crash     : 0\nlast_hang      : 1500116499\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Childs_Game/input -o /dev/shm/work/Childs_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Childs_Game/Childs_Game.dict -- data/linux/processed-challenges/Childs_Game/bin/Childs_Game\n'
+p79
+I4
+tp80
+a(I4800
+S'start_time     : 1500111843\nlast_update    : 1500116651\nfuzzer_pid     : 5962\ncycles_done    : 0\nexecs_done     : 3485126\nexecs_per_sec  : 682.73\npaths_total    : 331\npaths_favored  : 89\npaths_found    : 330\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 215\npending_favs   : 45\npending_total  : 268\nvariable_paths : 0\nbitmap_cvg     : 1.25%\nunique_crashes : 0\nunique_hangs   : 37\nlast_path      : 1500116583\nlast_crash     : 0\nlast_hang      : 1500116499\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Childs_Game/input -o /dev/shm/work/Childs_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Childs_Game/Childs_Game.dict -- data/linux/processed-challenges/Childs_Game/bin/Childs_Game\n'
+p81
+I3
+tp82
+a(I4920
+S'start_time     : 1500111843\nlast_update    : 1500116772\nfuzzer_pid     : 5962\ncycles_done    : 0\nexecs_done     : 3564278\nexecs_per_sec  : 626.34\npaths_total    : 331\npaths_favored  : 90\npaths_found    : 330\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 219\npending_favs   : 44\npending_total  : 266\nvariable_paths : 0\nbitmap_cvg     : 1.25%\nunique_crashes : 0\nunique_hangs   : 37\nlast_path      : 1500116583\nlast_crash     : 0\nlast_hang      : 1500116499\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Childs_Game/input -o /dev/shm/work/Childs_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Childs_Game/Childs_Game.dict -- data/linux/processed-challenges/Childs_Game/bin/Childs_Game\n'
+p83
+I0
+tp84
+a(I5040
+S'start_time     : 1500111843\nlast_update    : 1500116892\nfuzzer_pid     : 5962\ncycles_done    : 0\nexecs_done     : 3644192\nexecs_per_sec  : 697.91\npaths_total    : 335\npaths_favored  : 91\npaths_found    : 334\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 222\npending_favs   : 44\npending_total  : 268\nvariable_paths : 0\nbitmap_cvg     : 1.26%\nunique_crashes : 0\nunique_hangs   : 37\nlast_path      : 1500116887\nlast_crash     : 0\nlast_hang      : 1500116499\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Childs_Game/input -o /dev/shm/work/Childs_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Childs_Game/Childs_Game.dict -- data/linux/processed-challenges/Childs_Game/bin/Childs_Game\n'
+p85
+I4
+tp86
+a(I5160
+S'start_time     : 1500111843\nlast_update    : 1500117012\nfuzzer_pid     : 5962\ncycles_done    : 0\nexecs_done     : 3726625\nexecs_per_sec  : 728.34\npaths_total    : 337\npaths_favored  : 91\npaths_found    : 336\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 228\npending_favs   : 43\npending_total  : 269\nvariable_paths : 0\nbitmap_cvg     : 1.26%\nunique_crashes : 0\nunique_hangs   : 38\nlast_path      : 1500116963\nlast_crash     : 0\nlast_hang      : 1500117001\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Childs_Game/input -o /dev/shm/work/Childs_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Childs_Game/Childs_Game.dict -- data/linux/processed-challenges/Childs_Game/bin/Childs_Game\n'
+p87
+I2
+tp88
+a(I5280
+S'start_time     : 1500111843\nlast_update    : 1500117132\nfuzzer_pid     : 5962\ncycles_done    : 0\nexecs_done     : 3800861\nexecs_per_sec  : 659.16\npaths_total    : 339\npaths_favored  : 91\npaths_found    : 338\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 231\npending_favs   : 41\npending_total  : 269\nvariable_paths : 0\nbitmap_cvg     : 1.27%\nunique_crashes : 0\nunique_hangs   : 39\nlast_path      : 1500117110\nlast_crash     : 0\nlast_hang      : 1500117105\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Childs_Game/input -o /dev/shm/work/Childs_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Childs_Game/Childs_Game.dict -- data/linux/processed-challenges/Childs_Game/bin/Childs_Game\n'
+p89
+I2
+tp90
+a(I5400
+S'start_time     : 1500111843\nlast_update    : 1500117252\nfuzzer_pid     : 5962\ncycles_done    : 0\nexecs_done     : 3878197\nexecs_per_sec  : 502.49\npaths_total    : 341\npaths_favored  : 91\npaths_found    : 340\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 241\npending_favs   : 41\npending_total  : 269\nvariable_paths : 0\nbitmap_cvg     : 1.27%\nunique_crashes : 0\nunique_hangs   : 41\nlast_path      : 1500117192\nlast_crash     : 0\nlast_hang      : 1500117246\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Childs_Game/input -o /dev/shm/work/Childs_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Childs_Game/Childs_Game.dict -- data/linux/processed-challenges/Childs_Game/bin/Childs_Game\n'
+p91
+I2
+tp92
+a(I5520
+S'start_time     : 1500111843\nlast_update    : 1500117372\nfuzzer_pid     : 5962\ncycles_done    : 0\nexecs_done     : 3948061\nexecs_per_sec  : 646.25\npaths_total    : 345\npaths_favored  : 91\npaths_found    : 344\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 241\npending_favs   : 41\npending_total  : 273\nvariable_paths : 0\nbitmap_cvg     : 1.27%\nunique_crashes : 0\nunique_hangs   : 52\nlast_path      : 1500117341\nlast_crash     : 0\nlast_hang      : 1500117368\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Childs_Game/input -o /dev/shm/work/Childs_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Childs_Game/Childs_Game.dict -- data/linux/processed-challenges/Childs_Game/bin/Childs_Game\n'
+p93
+I4
+tp94
+a(I5640
+S'start_time     : 1500111843\nlast_update    : 1500117493\nfuzzer_pid     : 5962\ncycles_done    : 0\nexecs_done     : 4026003\nexecs_per_sec  : 567.49\npaths_total    : 348\npaths_favored  : 94\npaths_found    : 347\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 244\npending_favs   : 43\npending_total  : 275\nvariable_paths : 0\nbitmap_cvg     : 1.27%\nunique_crashes : 0\nunique_hangs   : 55\nlast_path      : 1500117436\nlast_crash     : 0\nlast_hang      : 1500117424\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Childs_Game/input -o /dev/shm/work/Childs_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Childs_Game/Childs_Game.dict -- data/linux/processed-challenges/Childs_Game/bin/Childs_Game\n'
+p95
+I3
+tp96
+a(I5760
+S'start_time     : 1500111843\nlast_update    : 1500117553\nfuzzer_pid     : 5962\ncycles_done    : 0\nexecs_done     : 4062191\nexecs_per_sec  : 701.00\npaths_total    : 348\npaths_favored  : 94\npaths_found    : 347\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 244\npending_favs   : 43\npending_total  : 275\nvariable_paths : 0\nbitmap_cvg     : 1.27%\nunique_crashes : 0\nunique_hangs   : 55\nlast_path      : 1500117436\nlast_crash     : 0\nlast_hang      : 1500117424\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Childs_Game/input -o /dev/shm/work/Childs_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Childs_Game/Childs_Game.dict -- data/linux/processed-challenges/Childs_Game/bin/Childs_Game\n'
+p97
+I0
+tp98
+a(I5880
+S'start_time     : 1500111843\nlast_update    : 1500117673\nfuzzer_pid     : 5962\ncycles_done    : 0\nexecs_done     : 4133603\nexecs_per_sec  : 524.46\npaths_total    : 348\npaths_favored  : 94\npaths_found    : 347\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 250\npending_favs   : 41\npending_total  : 273\nvariable_paths : 0\nbitmap_cvg     : 1.27%\nunique_crashes : 0\nunique_hangs   : 56\nlast_path      : 1500117436\nlast_crash     : 0\nlast_hang      : 1500117670\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Childs_Game/input -o /dev/shm/work/Childs_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Childs_Game/Childs_Game.dict -- data/linux/processed-challenges/Childs_Game/bin/Childs_Game\n'
+p99
+I3
+tp100
+a(I6000
+S'start_time     : 1500111843\nlast_update    : 1500117793\nfuzzer_pid     : 5962\ncycles_done    : 0\nexecs_done     : 4217102\nexecs_per_sec  : 699.50\npaths_total    : 353\npaths_favored  : 94\npaths_found    : 352\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 250\npending_favs   : 41\npending_total  : 278\nvariable_paths : 0\nbitmap_cvg     : 1.27%\nunique_crashes : 0\nunique_hangs   : 57\nlast_path      : 1500117773\nlast_crash     : 0\nlast_hang      : 1500117675\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Childs_Game/input -o /dev/shm/work/Childs_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Childs_Game/Childs_Game.dict -- data/linux/processed-challenges/Childs_Game/bin/Childs_Game\n'
+p101
+I3
+tp102
+a(I6120
+S'start_time     : 1500111843\nlast_update    : 1500117913\nfuzzer_pid     : 5962\ncycles_done    : 0\nexecs_done     : 4292764\nexecs_per_sec  : 683.10\npaths_total    : 354\npaths_favored  : 94\npaths_found    : 353\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 251\npending_favs   : 40\npending_total  : 278\nvariable_paths : 0\nbitmap_cvg     : 1.28%\nunique_crashes : 0\nunique_hangs   : 58\nlast_path      : 1500117833\nlast_crash     : 0\nlast_hang      : 1500117895\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Childs_Game/input -o /dev/shm/work/Childs_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Childs_Game/Childs_Game.dict -- data/linux/processed-challenges/Childs_Game/bin/Childs_Game\n'
+p103
+I1
+tp104
+a(I6240
+S'start_time     : 1500111843\nlast_update    : 1500118034\nfuzzer_pid     : 5962\ncycles_done    : 0\nexecs_done     : 4367951\nexecs_per_sec  : 668.38\npaths_total    : 355\npaths_favored  : 94\npaths_found    : 354\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 257\npending_favs   : 39\npending_total  : 277\nvariable_paths : 0\nbitmap_cvg     : 1.28%\nunique_crashes : 0\nunique_hangs   : 58\nlast_path      : 1500117969\nlast_crash     : 0\nlast_hang      : 1500117895\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Childs_Game/input -o /dev/shm/work/Childs_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Childs_Game/Childs_Game.dict -- data/linux/processed-challenges/Childs_Game/bin/Childs_Game\n'
+p105
+I0
+tp106
+a(I6360
+S'start_time     : 1500111843\nlast_update    : 1500118154\nfuzzer_pid     : 5962\ncycles_done    : 0\nexecs_done     : 4441010\nexecs_per_sec  : 555.49\npaths_total    : 355\npaths_favored  : 93\npaths_found    : 354\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 260\npending_favs   : 37\npending_total  : 275\nvariable_paths : 0\nbitmap_cvg     : 1.28%\nunique_crashes : 0\nunique_hangs   : 58\nlast_path      : 1500117969\nlast_crash     : 0\nlast_hang      : 1500117895\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Childs_Game/input -o /dev/shm/work/Childs_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Childs_Game/Childs_Game.dict -- data/linux/processed-challenges/Childs_Game/bin/Childs_Game\n'
+p107
+I1
+tp108
+a(I6480
+S'start_time     : 1500111843\nlast_update    : 1500118274\nfuzzer_pid     : 5962\ncycles_done    : 0\nexecs_done     : 4505628\nexecs_per_sec  : 448.96\npaths_total    : 356\npaths_favored  : 93\npaths_found    : 355\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 264\npending_favs   : 36\npending_total  : 275\nvariable_paths : 0\nbitmap_cvg     : 1.28%\nunique_crashes : 0\nunique_hangs   : 58\nlast_path      : 1500118210\nlast_crash     : 0\nlast_hang      : 1500117895\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Childs_Game/input -o /dev/shm/work/Childs_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Childs_Game/Childs_Game.dict -- data/linux/processed-challenges/Childs_Game/bin/Childs_Game\n'
+p109
+I0
+tp110
+a(I6600
+S'start_time     : 1500111843\nlast_update    : 1500118394\nfuzzer_pid     : 5962\ncycles_done    : 0\nexecs_done     : 4567568\nexecs_per_sec  : 648.32\npaths_total    : 356\npaths_favored  : 93\npaths_found    : 355\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 267\npending_favs   : 37\npending_total  : 274\nvariable_paths : 0\nbitmap_cvg     : 1.28%\nunique_crashes : 0\nunique_hangs   : 58\nlast_path      : 1500118210\nlast_crash     : 0\nlast_hang      : 1500117895\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Childs_Game/input -o /dev/shm/work/Childs_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Childs_Game/Childs_Game.dict -- data/linux/processed-challenges/Childs_Game/bin/Childs_Game\n'
+p111
+I1
+tp112
+a(I6720
+S'start_time     : 1500111843\nlast_update    : 1500118514\nfuzzer_pid     : 5962\ncycles_done    : 0\nexecs_done     : 4639509\nexecs_per_sec  : 725.93\npaths_total    : 358\npaths_favored  : 93\npaths_found    : 357\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 275\npending_favs   : 36\npending_total  : 275\nvariable_paths : 0\nbitmap_cvg     : 1.28%\nunique_crashes : 0\nunique_hangs   : 58\nlast_path      : 1500118498\nlast_crash     : 0\nlast_hang      : 1500117895\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Childs_Game/input -o /dev/shm/work/Childs_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Childs_Game/Childs_Game.dict -- data/linux/processed-challenges/Childs_Game/bin/Childs_Game\n'
+p113
+I1
+tp114
+a(I6840
+S'start_time     : 1500111843\nlast_update    : 1500118634\nfuzzer_pid     : 5962\ncycles_done    : 0\nexecs_done     : 4706347\nexecs_per_sec  : 628.19\npaths_total    : 358\npaths_favored  : 93\npaths_found    : 357\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 280\npending_favs   : 34\npending_total  : 273\nvariable_paths : 0\nbitmap_cvg     : 1.28%\nunique_crashes : 0\nunique_hangs   : 58\nlast_path      : 1500118498\nlast_crash     : 0\nlast_hang      : 1500117895\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Childs_Game/input -o /dev/shm/work/Childs_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Childs_Game/Childs_Game.dict -- data/linux/processed-challenges/Childs_Game/bin/Childs_Game\n'
+p115
+I0
+tp116
+a(I6960
+S'start_time     : 1500111843\nlast_update    : 1500118755\nfuzzer_pid     : 5962\ncycles_done    : 0\nexecs_done     : 4773802\nexecs_per_sec  : 628.40\npaths_total    : 360\npaths_favored  : 93\npaths_found    : 359\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 285\npending_favs   : 33\npending_total  : 274\nvariable_paths : 0\nbitmap_cvg     : 1.28%\nunique_crashes : 0\nunique_hangs   : 58\nlast_path      : 1500118752\nlast_crash     : 0\nlast_hang      : 1500117895\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Childs_Game/input -o /dev/shm/work/Childs_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Childs_Game/Childs_Game.dict -- data/linux/processed-challenges/Childs_Game/bin/Childs_Game\n'
+p117
+I2
+tp118
+a(I7080
+S'start_time     : 1500111843\nlast_update    : 1500118875\nfuzzer_pid     : 5962\ncycles_done    : 0\nexecs_done     : 4837939\nexecs_per_sec  : 460.29\npaths_total    : 360\npaths_favored  : 94\npaths_found    : 359\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 287\npending_favs   : 33\npending_total  : 273\nvariable_paths : 0\nbitmap_cvg     : 1.28%\nunique_crashes : 0\nunique_hangs   : 59\nlast_path      : 1500118752\nlast_crash     : 0\nlast_hang      : 1500118801\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Childs_Game/input -o /dev/shm/work/Childs_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Childs_Game/Childs_Game.dict -- data/linux/processed-challenges/Childs_Game/bin/Childs_Game\n'
+p119
+I0
+tp120
+a(I7200
+S'start_time     : 1500111843\nlast_update    : 1500118995\nfuzzer_pid     : 5962\ncycles_done    : 0\nexecs_done     : 4897568\nexecs_per_sec  : 559.86\npaths_total    : 365\npaths_favored  : 94\npaths_found    : 364\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 287\npending_favs   : 33\npending_total  : 278\nvariable_paths : 0\nbitmap_cvg     : 1.28%\nunique_crashes : 0\nunique_hangs   : 59\nlast_path      : 1500118994\nlast_crash     : 0\nlast_hang      : 1500118801\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Childs_Game/input -o /dev/shm/work/Childs_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Childs_Game/Childs_Game.dict -- data/linux/processed-challenges/Childs_Game/bin/Childs_Game\n'
+p121
+I8
+tp122
+a(I7320
+S'start_time     : 1500111843\nlast_update    : 1500119115\nfuzzer_pid     : 5962\ncycles_done    : 0\nexecs_done     : 4968027\nexecs_per_sec  : 590.81\npaths_total    : 372\npaths_favored  : 94\npaths_found    : 371\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 287\npending_favs   : 33\npending_total  : 285\nvariable_paths : 0\nbitmap_cvg     : 1.28%\nunique_crashes : 0\nunique_hangs   : 59\nlast_path      : 1500119105\nlast_crash     : 0\nlast_hang      : 1500118801\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Childs_Game/input -o /dev/shm/work/Childs_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Childs_Game/Childs_Game.dict -- data/linux/processed-challenges/Childs_Game/bin/Childs_Game\n'
+p123
+I8
+tp124
+a(I7440
+S'start_time     : 1500111843\nlast_update    : 1500119235\nfuzzer_pid     : 5962\ncycles_done    : 0\nexecs_done     : 5038475\nexecs_per_sec  : 606.34\npaths_total    : 376\npaths_favored  : 95\npaths_found    : 375\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 293\npending_favs   : 33\npending_total  : 288\nvariable_paths : 0\nbitmap_cvg     : 1.28%\nunique_crashes : 0\nunique_hangs   : 61\nlast_path      : 1500119150\nlast_crash     : 0\nlast_hang      : 1500119187\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Childs_Game/input -o /dev/shm/work/Childs_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Childs_Game/Childs_Game.dict -- data/linux/processed-challenges/Childs_Game/bin/Childs_Game\n'
+p125
+I2
+tp126
+a(I7560
+S'start_time     : 1500111843\nlast_update    : 1500119355\nfuzzer_pid     : 5962\ncycles_done    : 0\nexecs_done     : 5095297\nexecs_per_sec  : 406.70\npaths_total    : 380\npaths_favored  : 96\npaths_found    : 379\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 298\npending_favs   : 32\npending_total  : 290\nvariable_paths : 0\nbitmap_cvg     : 1.28%\nunique_crashes : 0\nunique_hangs   : 67\nlast_path      : 1500119326\nlast_crash     : 0\nlast_hang      : 1500119353\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Childs_Game/input -o /dev/shm/work/Childs_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Childs_Game/Childs_Game.dict -- data/linux/processed-challenges/Childs_Game/bin/Childs_Game\n'
+p127
+I6
+tp128
+a(I7680
+S'start_time     : 1500111843\nlast_update    : 1500119476\nfuzzer_pid     : 5962\ncycles_done    : 0\nexecs_done     : 5144371\nexecs_per_sec  : 407.94\npaths_total    : 386\npaths_favored  : 96\npaths_found    : 385\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 298\npending_favs   : 32\npending_total  : 296\nvariable_paths : 0\nbitmap_cvg     : 1.29%\nunique_crashes : 0\nunique_hangs   : 69\nlast_path      : 1500119469\nlast_crash     : 0\nlast_hang      : 1500119441\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Childs_Game/input -o /dev/shm/work/Childs_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Childs_Game/Childs_Game.dict -- data/linux/processed-challenges/Childs_Game/bin/Childs_Game\n'
+p129
+I4
+tp130
+a(I7800
+S'start_time     : 1500111843\nlast_update    : 1500119596\nfuzzer_pid     : 5962\ncycles_done    : 0\nexecs_done     : 5196215\nexecs_per_sec  : 418.55\npaths_total    : 388\npaths_favored  : 96\npaths_found    : 387\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 298\npending_favs   : 32\npending_total  : 298\nvariable_paths : 0\nbitmap_cvg     : 1.29%\nunique_crashes : 0\nunique_hangs   : 71\nlast_path      : 1500119520\nlast_crash     : 0\nlast_hang      : 1500119553\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Childs_Game/input -o /dev/shm/work/Childs_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Childs_Game/Childs_Game.dict -- data/linux/processed-challenges/Childs_Game/bin/Childs_Game\n'
+p131
+I1
+tp132
+a(I7920
+S'start_time     : 1500111843\nlast_update    : 1500119716\nfuzzer_pid     : 5962\ncycles_done    : 0\nexecs_done     : 5241391\nexecs_per_sec  : 540.10\npaths_total    : 389\npaths_favored  : 95\npaths_found    : 388\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 300\npending_favs   : 32\npending_total  : 298\nvariable_paths : 0\nbitmap_cvg     : 1.29%\nunique_crashes : 0\nunique_hangs   : 73\nlast_path      : 1500119644\nlast_crash     : 0\nlast_hang      : 1500119667\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Childs_Game/input -o /dev/shm/work/Childs_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Childs_Game/Childs_Game.dict -- data/linux/processed-challenges/Childs_Game/bin/Childs_Game\n'
+p133
+I1
+tp134
+a(I8040
+S'start_time     : 1500111843\nlast_update    : 1500119836\nfuzzer_pid     : 5962\ncycles_done    : 0\nexecs_done     : 5308572\nexecs_per_sec  : 677.39\npaths_total    : 391\npaths_favored  : 94\npaths_found    : 390\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 304\npending_favs   : 30\npending_total  : 299\nvariable_paths : 0\nbitmap_cvg     : 1.29%\nunique_crashes : 0\nunique_hangs   : 74\nlast_path      : 1500119808\nlast_crash     : 0\nlast_hang      : 1500119718\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Childs_Game/input -o /dev/shm/work/Childs_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Childs_Game/Childs_Game.dict -- data/linux/processed-challenges/Childs_Game/bin/Childs_Game\n'
+p135
+I1
+tp136
+a(I8160
+S'start_time     : 1500111843\nlast_update    : 1500119956\nfuzzer_pid     : 5962\ncycles_done    : 0\nexecs_done     : 5384706\nexecs_per_sec  : 729.32\npaths_total    : 391\npaths_favored  : 94\npaths_found    : 390\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 307\npending_favs   : 28\npending_total  : 297\nvariable_paths : 0\nbitmap_cvg     : 1.29%\nunique_crashes : 0\nunique_hangs   : 76\nlast_path      : 1500119808\nlast_crash     : 0\nlast_hang      : 1500119938\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Childs_Game/input -o /dev/shm/work/Childs_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Childs_Game/Childs_Game.dict -- data/linux/processed-challenges/Childs_Game/bin/Childs_Game\n'
+p137
+I0
+tp138
+a(I8280
+S'start_time     : 1500111843\nlast_update    : 1500120077\nfuzzer_pid     : 5962\ncycles_done    : 0\nexecs_done     : 5458075\nexecs_per_sec  : 567.69\npaths_total    : 391\npaths_favored  : 94\npaths_found    : 390\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 310\npending_favs   : 26\npending_total  : 295\nvariable_paths : 0\nbitmap_cvg     : 1.29%\nunique_crashes : 0\nunique_hangs   : 78\nlast_path      : 1500119808\nlast_crash     : 0\nlast_hang      : 1500120023\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Childs_Game/input -o /dev/shm/work/Childs_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Childs_Game/Childs_Game.dict -- data/linux/processed-challenges/Childs_Game/bin/Childs_Game\n'
+p139
+I0
+tp140
+a(I8400
+S'start_time     : 1500111843\nlast_update    : 1500120197\nfuzzer_pid     : 5962\ncycles_done    : 0\nexecs_done     : 5528745\nexecs_per_sec  : 535.56\npaths_total    : 391\npaths_favored  : 94\npaths_found    : 390\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 316\npending_favs   : 24\npending_total  : 293\nvariable_paths : 0\nbitmap_cvg     : 1.29%\nunique_crashes : 0\nunique_hangs   : 80\nlast_path      : 1500119808\nlast_crash     : 0\nlast_hang      : 1500120160\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Childs_Game/input -o /dev/shm/work/Childs_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Childs_Game/Childs_Game.dict -- data/linux/processed-challenges/Childs_Game/bin/Childs_Game\n'
+p141
+I2
+tp142
+a(I8520
+S'start_time     : 1500111843\nlast_update    : 1500120317\nfuzzer_pid     : 5962\ncycles_done    : 0\nexecs_done     : 5603870\nexecs_per_sec  : 572.01\npaths_total    : 394\npaths_favored  : 94\npaths_found    : 393\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 318\npending_favs   : 23\npending_total  : 295\nvariable_paths : 0\nbitmap_cvg     : 1.29%\nunique_crashes : 0\nunique_hangs   : 80\nlast_path      : 1500120264\nlast_crash     : 0\nlast_hang      : 1500120160\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Childs_Game/input -o /dev/shm/work/Childs_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Childs_Game/Childs_Game.dict -- data/linux/processed-challenges/Childs_Game/bin/Childs_Game\n'
+p143
+I1
+tp144
+a(I8640
+S'start_time     : 1500111843\nlast_update    : 1500120437\nfuzzer_pid     : 5962\ncycles_done    : 0\nexecs_done     : 5676189\nexecs_per_sec  : 744.37\npaths_total    : 397\npaths_favored  : 95\npaths_found    : 396\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 322\npending_favs   : 24\npending_total  : 297\nvariable_paths : 0\nbitmap_cvg     : 1.29%\nunique_crashes : 0\nunique_hangs   : 80\nlast_path      : 1500120426\nlast_crash     : 0\nlast_hang      : 1500120160\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Childs_Game/input -o /dev/shm/work/Childs_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Childs_Game/Childs_Game.dict -- data/linux/processed-challenges/Childs_Game/bin/Childs_Game\n'
+p145
+I4
+tp146
+a(I8760
+S'start_time     : 1500111843\nlast_update    : 1500120557\nfuzzer_pid     : 5962\ncycles_done    : 0\nexecs_done     : 5753627\nexecs_per_sec  : 580.89\npaths_total    : 398\npaths_favored  : 97\npaths_found    : 397\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 333\npending_favs   : 25\npending_total  : 295\nvariable_paths : 0\nbitmap_cvg     : 1.30%\nunique_crashes : 0\nunique_hangs   : 80\nlast_path      : 1500120460\nlast_crash     : 0\nlast_hang      : 1500120160\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Childs_Game/input -o /dev/shm/work/Childs_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Childs_Game/Childs_Game.dict -- data/linux/processed-challenges/Childs_Game/bin/Childs_Game\n'
+p147
+I0
+tp148
+a(I8880
+S'start_time     : 1500111843\nlast_update    : 1500120678\nfuzzer_pid     : 5962\ncycles_done    : 0\nexecs_done     : 5822689\nexecs_per_sec  : 671.30\npaths_total    : 403\npaths_favored  : 97\npaths_found    : 402\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 335\npending_favs   : 24\npending_total  : 299\nvariable_paths : 0\nbitmap_cvg     : 1.31%\nunique_crashes : 0\nunique_hangs   : 80\nlast_path      : 1500120665\nlast_crash     : 0\nlast_hang      : 1500120160\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Childs_Game/input -o /dev/shm/work/Childs_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Childs_Game/Childs_Game.dict -- data/linux/processed-challenges/Childs_Game/bin/Childs_Game\n'
+p149
+I6
+tp150
+a(I9000
+S'start_time     : 1500111843\nlast_update    : 1500120798\nfuzzer_pid     : 5962\ncycles_done    : 0\nexecs_done     : 5903048\nexecs_per_sec  : 643.22\npaths_total    : 405\npaths_favored  : 97\npaths_found    : 404\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 335\npending_favs   : 24\npending_total  : 301\nvariable_paths : 0\nbitmap_cvg     : 1.31%\nunique_crashes : 0\nunique_hangs   : 81\nlast_path      : 1500120757\nlast_crash     : 0\nlast_hang      : 1500120687\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Childs_Game/input -o /dev/shm/work/Childs_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Childs_Game/Childs_Game.dict -- data/linux/processed-challenges/Childs_Game/bin/Childs_Game\n'
+p151
+I2
+tp152
+a(I9120
+S'start_time     : 1500111843\nlast_update    : 1500120918\nfuzzer_pid     : 5962\ncycles_done    : 0\nexecs_done     : 5978190\nexecs_per_sec  : 604.45\npaths_total    : 406\npaths_favored  : 101\npaths_found    : 405\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 338\npending_favs   : 27\npending_total  : 300\nvariable_paths : 0\nbitmap_cvg     : 1.31%\nunique_crashes : 0\nunique_hangs   : 81\nlast_path      : 1500120841\nlast_crash     : 0\nlast_hang      : 1500120687\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Childs_Game/input -o /dev/shm/work/Childs_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Childs_Game/Childs_Game.dict -- data/linux/processed-challenges/Childs_Game/bin/Childs_Game\n'
+p153
+I0
+tp154
+a(I9240
+S'start_time     : 1500111843\nlast_update    : 1500121038\nfuzzer_pid     : 5962\ncycles_done    : 0\nexecs_done     : 6056511\nexecs_per_sec  : 708.18\npaths_total    : 409\npaths_favored  : 101\npaths_found    : 408\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 339\npending_favs   : 26\npending_total  : 302\nvariable_paths : 0\nbitmap_cvg     : 1.31%\nunique_crashes : 0\nunique_hangs   : 83\nlast_path      : 1500121033\nlast_crash     : 0\nlast_hang      : 1500121010\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Childs_Game/input -o /dev/shm/work/Childs_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Childs_Game/Childs_Game.dict -- data/linux/processed-challenges/Childs_Game/bin/Childs_Game\n'
+p155
+I4
+tp156
+a(I9360
+S'start_time     : 1500111843\nlast_update    : 1500121159\nfuzzer_pid     : 5962\ncycles_done    : 0\nexecs_done     : 6141651\nexecs_per_sec  : 706.12\npaths_total    : 411\npaths_favored  : 101\npaths_found    : 410\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 339\npending_favs   : 26\npending_total  : 304\nvariable_paths : 0\nbitmap_cvg     : 1.31%\nunique_crashes : 0\nunique_hangs   : 83\nlast_path      : 1500121113\nlast_crash     : 0\nlast_hang      : 1500121010\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Childs_Game/input -o /dev/shm/work/Childs_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Childs_Game/Childs_Game.dict -- data/linux/processed-challenges/Childs_Game/bin/Childs_Game\n'
+p157
+I1
+tp158
+a(I9480
+S'start_time     : 1500111843\nlast_update    : 1500121279\nfuzzer_pid     : 5962\ncycles_done    : 0\nexecs_done     : 6208586\nexecs_per_sec  : 52.76\npaths_total    : 411\npaths_favored  : 101\npaths_found    : 410\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 341\npending_favs   : 26\npending_total  : 303\nvariable_paths : 0\nbitmap_cvg     : 1.31%\nunique_crashes : 0\nunique_hangs   : 84\nlast_path      : 1500121113\nlast_crash     : 0\nlast_hang      : 1500121208\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Childs_Game/input -o /dev/shm/work/Childs_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Childs_Game/Childs_Game.dict -- data/linux/processed-challenges/Childs_Game/bin/Childs_Game\n'
+p159
+I0
+tp160
+a(I9600
+S'start_time     : 1500111843\nlast_update    : 1500121399\nfuzzer_pid     : 5962\ncycles_done    : 0\nexecs_done     : 6269812\nexecs_per_sec  : 487.91\npaths_total    : 411\npaths_favored  : 101\npaths_found    : 410\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 353\npending_favs   : 25\npending_total  : 302\nvariable_paths : 0\nbitmap_cvg     : 1.31%\nunique_crashes : 0\nunique_hangs   : 84\nlast_path      : 1500121113\nlast_crash     : 0\nlast_hang      : 1500121208\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Childs_Game/input -o /dev/shm/work/Childs_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Childs_Game/Childs_Game.dict -- data/linux/processed-challenges/Childs_Game/bin/Childs_Game\n'
+p161
+I0
+tp162
+a(I9720
+S'start_time     : 1500111843\nlast_update    : 1500121519\nfuzzer_pid     : 5962\ncycles_done    : 0\nexecs_done     : 6336332\nexecs_per_sec  : 624.70\npaths_total    : 411\npaths_favored  : 101\npaths_found    : 410\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 354\npending_favs   : 24\npending_total  : 301\nvariable_paths : 0\nbitmap_cvg     : 1.31%\nunique_crashes : 0\nunique_hangs   : 84\nlast_path      : 1500121113\nlast_crash     : 0\nlast_hang      : 1500121208\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Childs_Game/input -o /dev/shm/work/Childs_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Childs_Game/Childs_Game.dict -- data/linux/processed-challenges/Childs_Game/bin/Childs_Game\n'
+p163
+I1
+tp164
+a(I9840
+S'start_time     : 1500111843\nlast_update    : 1500121639\nfuzzer_pid     : 5962\ncycles_done    : 0\nexecs_done     : 6403014\nexecs_per_sec  : 451.63\npaths_total    : 412\npaths_favored  : 101\npaths_found    : 411\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 355\npending_favs   : 23\npending_total  : 301\nvariable_paths : 0\nbitmap_cvg     : 1.31%\nunique_crashes : 0\nunique_hangs   : 84\nlast_path      : 1500121533\nlast_crash     : 0\nlast_hang      : 1500121208\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Childs_Game/input -o /dev/shm/work/Childs_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Childs_Game/Childs_Game.dict -- data/linux/processed-challenges/Childs_Game/bin/Childs_Game\n'
+p165
+I0
+tp166
+a(I9960
+S'start_time     : 1500111843\nlast_update    : 1500121760\nfuzzer_pid     : 5962\ncycles_done    : 0\nexecs_done     : 6466454\nexecs_per_sec  : 479.01\npaths_total    : 412\npaths_favored  : 101\npaths_found    : 411\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 365\npending_favs   : 22\npending_total  : 300\nvariable_paths : 0\nbitmap_cvg     : 1.31%\nunique_crashes : 0\nunique_hangs   : 85\nlast_path      : 1500121533\nlast_crash     : 0\nlast_hang      : 1500121727\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Childs_Game/input -o /dev/shm/work/Childs_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Childs_Game/Childs_Game.dict -- data/linux/processed-challenges/Childs_Game/bin/Childs_Game\n'
+p167
+I0
+tp168
+a(I10080
+S'start_time     : 1500111843\nlast_update    : 1500121880\nfuzzer_pid     : 5962\ncycles_done    : 0\nexecs_done     : 6528336\nexecs_per_sec  : 613.22\npaths_total    : 413\npaths_favored  : 101\npaths_found    : 412\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 365\npending_favs   : 22\npending_total  : 301\nvariable_paths : 0\nbitmap_cvg     : 1.31%\nunique_crashes : 0\nunique_hangs   : 85\nlast_path      : 1500121844\nlast_crash     : 0\nlast_hang      : 1500121727\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Childs_Game/input -o /dev/shm/work/Childs_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Childs_Game/Childs_Game.dict -- data/linux/processed-challenges/Childs_Game/bin/Childs_Game\n'
+p169
+I1
+tp170
+a(I10200
+S'start_time     : 1500111843\nlast_update    : 1500122000\nfuzzer_pid     : 5962\ncycles_done    : 0\nexecs_done     : 6601917\nexecs_per_sec  : 675.78\npaths_total    : 413\npaths_favored  : 101\npaths_found    : 412\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 377\npending_favs   : 21\npending_total  : 299\nvariable_paths : 0\nbitmap_cvg     : 1.31%\nunique_crashes : 0\nunique_hangs   : 85\nlast_path      : 1500121844\nlast_crash     : 0\nlast_hang      : 1500121727\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Childs_Game/input -o /dev/shm/work/Childs_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Childs_Game/Childs_Game.dict -- data/linux/processed-challenges/Childs_Game/bin/Childs_Game\n'
+p171
+I2
+tp172
+a(I10320
+S'start_time     : 1500111843\nlast_update    : 1500122120\nfuzzer_pid     : 5962\ncycles_done    : 0\nexecs_done     : 6638647\nexecs_per_sec  : 540.94\npaths_total    : 415\npaths_favored  : 101\npaths_found    : 414\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 379\npending_favs   : 20\npending_total  : 299\nvariable_paths : 0\nbitmap_cvg     : 1.31%\nunique_crashes : 0\nunique_hangs   : 87\nlast_path      : 1500122043\nlast_crash     : 0\nlast_hang      : 1500122055\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Childs_Game/input -o /dev/shm/work/Childs_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Childs_Game/Childs_Game.dict -- data/linux/processed-challenges/Childs_Game/bin/Childs_Game\n'
+p173
+I2
+tp174
+a(I10440
+S'start_time     : 1500111843\nlast_update    : 1500122240\nfuzzer_pid     : 5962\ncycles_done    : 0\nexecs_done     : 6692288\nexecs_per_sec  : 437.51\npaths_total    : 418\npaths_favored  : 101\npaths_found    : 417\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 379\npending_favs   : 20\npending_total  : 302\nvariable_paths : 0\nbitmap_cvg     : 1.58%\nunique_crashes : 0\nunique_hangs   : 89\nlast_path      : 1500122233\nlast_crash     : 0\nlast_hang      : 1500122217\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Childs_Game/input -o /dev/shm/work/Childs_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Childs_Game/Childs_Game.dict -- data/linux/processed-challenges/Childs_Game/bin/Childs_Game\n'
+p175
+I2
+tp176
+a(I10560
+S'start_time     : 1500111843\nlast_update    : 1500122360\nfuzzer_pid     : 5962\ncycles_done    : 0\nexecs_done     : 6743908\nexecs_per_sec  : 413.67\npaths_total    : 420\npaths_favored  : 101\npaths_found    : 419\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 379\npending_favs   : 20\npending_total  : 304\nvariable_paths : 0\nbitmap_cvg     : 1.58%\nunique_crashes : 0\nunique_hangs   : 92\nlast_path      : 1500122312\nlast_crash     : 0\nlast_hang      : 1500122345\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Childs_Game/input -o /dev/shm/work/Childs_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Childs_Game/Childs_Game.dict -- data/linux/processed-challenges/Childs_Game/bin/Childs_Game\n'
+p177
+I1
+tp178
+a(I10680
+S'start_time     : 1500111843\nlast_update    : 1500122481\nfuzzer_pid     : 5962\ncycles_done    : 0\nexecs_done     : 6782241\nexecs_per_sec  : 392.79\npaths_total    : 420\npaths_favored  : 97\npaths_found    : 419\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 380\npending_favs   : 20\npending_total  : 303\nvariable_paths : 0\nbitmap_cvg     : 1.58%\nunique_crashes : 0\nunique_hangs   : 92\nlast_path      : 1500122312\nlast_crash     : 0\nlast_hang      : 1500122345\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Childs_Game/input -o /dev/shm/work/Childs_Game/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Childs_Game/Childs_Game.dict -- data/linux/processed-challenges/Childs_Game/bin/Childs_Game\n'
+p179
+I0
+tp180
+a.

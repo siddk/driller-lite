@@ -1,0 +1,452 @@
+(lp0
+(I0
+S'start_time     : 1500296055\nlast_update    : 1500296055\nfuzzer_pid     : 24517\ncycles_done    : 0\nexecs_done     : 10\nexecs_per_sec  : 156.25\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 1\npending_total  : 1\nvariable_paths : 0\nbitmap_cvg     : 0.05%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ValveChecks/input -o /dev/shm/work/ValveChecks/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ValveChecks/ValveChecks.dict -- data/linux/processed-challenges/ValveChecks/bin/ValveChecks\n'
+p1
+I9
+tp2
+a(I120
+S'start_time     : 1500296055\nlast_update    : 1500296175\nfuzzer_pid     : 24517\ncycles_done    : 1\nexecs_done     : 90202\nexecs_per_sec  : 633.55\npaths_total    : 10\npaths_favored  : 2\npaths_found    : 9\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 9\npending_favs   : 1\npending_total  : 3\nvariable_paths : 0\nbitmap_cvg     : 0.13%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500296162\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ValveChecks/input -o /dev/shm/work/ValveChecks/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ValveChecks/ValveChecks.dict -- data/linux/processed-challenges/ValveChecks/bin/ValveChecks\n'
+p3
+I1
+tp4
+a(I240
+S'start_time     : 1500296055\nlast_update    : 1500296296\nfuzzer_pid     : 24517\ncycles_done    : 2\nexecs_done     : 171706\nexecs_per_sec  : 730.05\npaths_total    : 10\npaths_favored  : 2\npaths_found    : 9\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 6\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.13%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500296162\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ValveChecks/input -o /dev/shm/work/ValveChecks/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ValveChecks/ValveChecks.dict -- data/linux/processed-challenges/ValveChecks/bin/ValveChecks\n'
+p5
+I0
+tp6
+a(I360
+S'start_time     : 1500296055\nlast_update    : 1500296416\nfuzzer_pid     : 24517\ncycles_done    : 3\nexecs_done     : 257852\nexecs_per_sec  : 735.03\npaths_total    : 10\npaths_favored  : 2\npaths_found    : 9\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 4\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.13%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500296162\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ValveChecks/input -o /dev/shm/work/ValveChecks/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ValveChecks/ValveChecks.dict -- data/linux/processed-challenges/ValveChecks/bin/ValveChecks\n'
+p7
+I0
+tp8
+a(I480
+S'start_time     : 1500296055\nlast_update    : 1500296536\nfuzzer_pid     : 24517\ncycles_done    : 4\nexecs_done     : 344600\nexecs_per_sec  : 726.51\npaths_total    : 10\npaths_favored  : 2\npaths_found    : 9\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 1\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.13%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500296162\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ValveChecks/input -o /dev/shm/work/ValveChecks/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ValveChecks/ValveChecks.dict -- data/linux/processed-challenges/ValveChecks/bin/ValveChecks\n'
+p9
+I0
+tp10
+a(I600
+S'start_time     : 1500296055\nlast_update    : 1500296656\nfuzzer_pid     : 24517\ncycles_done    : 4\nexecs_done     : 432134\nexecs_per_sec  : 737.03\npaths_total    : 10\npaths_favored  : 2\npaths_found    : 9\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 8\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.13%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500296162\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ValveChecks/input -o /dev/shm/work/ValveChecks/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ValveChecks/ValveChecks.dict -- data/linux/processed-challenges/ValveChecks/bin/ValveChecks\n'
+p11
+I0
+tp12
+a(I720
+S'start_time     : 1500296055\nlast_update    : 1500296776\nfuzzer_pid     : 24517\ncycles_done    : 5\nexecs_done     : 519454\nexecs_per_sec  : 726.36\npaths_total    : 10\npaths_favored  : 2\npaths_found    : 9\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 4\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.13%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500296162\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ValveChecks/input -o /dev/shm/work/ValveChecks/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ValveChecks/ValveChecks.dict -- data/linux/processed-challenges/ValveChecks/bin/ValveChecks\n'
+p13
+I0
+tp14
+a(I840
+S'start_time     : 1500296055\nlast_update    : 1500296897\nfuzzer_pid     : 24517\ncycles_done    : 6\nexecs_done     : 605566\nexecs_per_sec  : 727.05\npaths_total    : 10\npaths_favored  : 2\npaths_found    : 9\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 1\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.13%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500296162\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ValveChecks/input -o /dev/shm/work/ValveChecks/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ValveChecks/ValveChecks.dict -- data/linux/processed-challenges/ValveChecks/bin/ValveChecks\n'
+p15
+I0
+tp16
+a(I960
+S'start_time     : 1500296055\nlast_update    : 1500297017\nfuzzer_pid     : 24517\ncycles_done    : 6\nexecs_done     : 692700\nexecs_per_sec  : 740.40\npaths_total    : 10\npaths_favored  : 2\npaths_found    : 9\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 8\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.13%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500296162\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ValveChecks/input -o /dev/shm/work/ValveChecks/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ValveChecks/ValveChecks.dict -- data/linux/processed-challenges/ValveChecks/bin/ValveChecks\n'
+p17
+I0
+tp18
+a(I1080
+S'start_time     : 1500296055\nlast_update    : 1500297137\nfuzzer_pid     : 24517\ncycles_done    : 7\nexecs_done     : 779392\nexecs_per_sec  : 740.03\npaths_total    : 10\npaths_favored  : 2\npaths_found    : 9\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 4\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.13%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500296162\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ValveChecks/input -o /dev/shm/work/ValveChecks/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ValveChecks/ValveChecks.dict -- data/linux/processed-challenges/ValveChecks/bin/ValveChecks\n'
+p19
+I0
+tp20
+a(I1200
+S'start_time     : 1500296055\nlast_update    : 1500297257\nfuzzer_pid     : 24517\ncycles_done    : 8\nexecs_done     : 866538\nexecs_per_sec  : 736.02\npaths_total    : 10\npaths_favored  : 2\npaths_found    : 9\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 1\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.13%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500296162\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ValveChecks/input -o /dev/shm/work/ValveChecks/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ValveChecks/ValveChecks.dict -- data/linux/processed-challenges/ValveChecks/bin/ValveChecks\n'
+p21
+I0
+tp22
+a(I1320
+S'start_time     : 1500296055\nlast_update    : 1500297377\nfuzzer_pid     : 24517\ncycles_done    : 8\nexecs_done     : 953964\nexecs_per_sec  : 737.56\npaths_total    : 10\npaths_favored  : 2\npaths_found    : 9\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 7\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.13%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500296162\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ValveChecks/input -o /dev/shm/work/ValveChecks/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ValveChecks/ValveChecks.dict -- data/linux/processed-challenges/ValveChecks/bin/ValveChecks\n'
+p23
+I0
+tp24
+a(I1440
+S'start_time     : 1500296055\nlast_update    : 1500297498\nfuzzer_pid     : 24517\ncycles_done    : 9\nexecs_done     : 1041310\nexecs_per_sec  : 735.44\npaths_total    : 10\npaths_favored  : 2\npaths_found    : 9\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 3\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.13%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500296162\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ValveChecks/input -o /dev/shm/work/ValveChecks/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ValveChecks/ValveChecks.dict -- data/linux/processed-challenges/ValveChecks/bin/ValveChecks\n'
+p25
+I0
+tp26
+a(I1560
+S'start_time     : 1500296055\nlast_update    : 1500297618\nfuzzer_pid     : 24517\ncycles_done    : 10\nexecs_done     : 1128544\nexecs_per_sec  : 739.43\npaths_total    : 10\npaths_favored  : 2\npaths_found    : 9\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.13%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500296162\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ValveChecks/input -o /dev/shm/work/ValveChecks/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ValveChecks/ValveChecks.dict -- data/linux/processed-challenges/ValveChecks/bin/ValveChecks\n'
+p27
+I0
+tp28
+a(I1680
+S'start_time     : 1500296055\nlast_update    : 1500297738\nfuzzer_pid     : 24517\ncycles_done    : 10\nexecs_done     : 1215376\nexecs_per_sec  : 748.34\npaths_total    : 10\npaths_favored  : 2\npaths_found    : 9\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 7\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.13%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500296162\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ValveChecks/input -o /dev/shm/work/ValveChecks/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ValveChecks/ValveChecks.dict -- data/linux/processed-challenges/ValveChecks/bin/ValveChecks\n'
+p29
+I0
+tp30
+a(I1800
+S'start_time     : 1500296055\nlast_update    : 1500297858\nfuzzer_pid     : 24517\ncycles_done    : 11\nexecs_done     : 1301572\nexecs_per_sec  : 741.94\npaths_total    : 10\npaths_favored  : 2\npaths_found    : 9\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 3\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.13%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500296162\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ValveChecks/input -o /dev/shm/work/ValveChecks/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ValveChecks/ValveChecks.dict -- data/linux/processed-challenges/ValveChecks/bin/ValveChecks\n'
+p31
+I0
+tp32
+a(I1920
+S'start_time     : 1500296055\nlast_update    : 1500297979\nfuzzer_pid     : 24517\ncycles_done    : 11\nexecs_done     : 1389356\nexecs_per_sec  : 719.24\npaths_total    : 10\npaths_favored  : 2\npaths_found    : 9\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 9\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.13%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500296162\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ValveChecks/input -o /dev/shm/work/ValveChecks/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ValveChecks/ValveChecks.dict -- data/linux/processed-challenges/ValveChecks/bin/ValveChecks\n'
+p33
+I0
+tp34
+a(I2040
+S'start_time     : 1500296055\nlast_update    : 1500298099\nfuzzer_pid     : 24517\ncycles_done    : 12\nexecs_done     : 1476286\nexecs_per_sec  : 742.88\npaths_total    : 10\npaths_favored  : 2\npaths_found    : 9\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 6\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.13%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500296162\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ValveChecks/input -o /dev/shm/work/ValveChecks/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ValveChecks/ValveChecks.dict -- data/linux/processed-challenges/ValveChecks/bin/ValveChecks\n'
+p35
+I0
+tp36
+a(I2160
+S'start_time     : 1500296055\nlast_update    : 1500298219\nfuzzer_pid     : 24517\ncycles_done    : 13\nexecs_done     : 1562642\nexecs_per_sec  : 717.04\npaths_total    : 10\npaths_favored  : 2\npaths_found    : 9\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 2\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.13%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500296162\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ValveChecks/input -o /dev/shm/work/ValveChecks/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ValveChecks/ValveChecks.dict -- data/linux/processed-challenges/ValveChecks/bin/ValveChecks\n'
+p37
+I0
+tp38
+a(I2280
+S'start_time     : 1500296055\nlast_update    : 1500298340\nfuzzer_pid     : 24517\ncycles_done    : 13\nexecs_done     : 1649328\nexecs_per_sec  : 730.02\npaths_total    : 10\npaths_favored  : 2\npaths_found    : 9\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 9\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.13%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500296162\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ValveChecks/input -o /dev/shm/work/ValveChecks/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ValveChecks/ValveChecks.dict -- data/linux/processed-challenges/ValveChecks/bin/ValveChecks\n'
+p39
+I0
+tp40
+a(I2400
+S'start_time     : 1500296055\nlast_update    : 1500298460\nfuzzer_pid     : 24517\ncycles_done    : 14\nexecs_done     : 1736642\nexecs_per_sec  : 738.75\npaths_total    : 10\npaths_favored  : 2\npaths_found    : 9\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 5\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.13%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500296162\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ValveChecks/input -o /dev/shm/work/ValveChecks/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ValveChecks/ValveChecks.dict -- data/linux/processed-challenges/ValveChecks/bin/ValveChecks\n'
+p41
+I0
+tp42
+a(I2520
+S'start_time     : 1500296055\nlast_update    : 1500298580\nfuzzer_pid     : 24517\ncycles_done    : 15\nexecs_done     : 1825121\nexecs_per_sec  : 750.65\npaths_total    : 10\npaths_favored  : 2\npaths_found    : 9\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 2\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.13%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500296162\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ValveChecks/input -o /dev/shm/work/ValveChecks/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ValveChecks/ValveChecks.dict -- data/linux/processed-challenges/ValveChecks/bin/ValveChecks\n'
+p43
+I0
+tp44
+a(I2640
+S'start_time     : 1500296055\nlast_update    : 1500298700\nfuzzer_pid     : 24517\ncycles_done    : 15\nexecs_done     : 1913953\nexecs_per_sec  : 687.16\npaths_total    : 10\npaths_favored  : 2\npaths_found    : 9\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 9\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.13%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500296162\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ValveChecks/input -o /dev/shm/work/ValveChecks/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ValveChecks/ValveChecks.dict -- data/linux/processed-challenges/ValveChecks/bin/ValveChecks\n'
+p45
+I0
+tp46
+a(I2760
+S'start_time     : 1500296055\nlast_update    : 1500298820\nfuzzer_pid     : 24517\ncycles_done    : 16\nexecs_done     : 2002936\nexecs_per_sec  : 730.72\npaths_total    : 10\npaths_favored  : 2\npaths_found    : 9\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 4\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.13%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500296162\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ValveChecks/input -o /dev/shm/work/ValveChecks/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ValveChecks/ValveChecks.dict -- data/linux/processed-challenges/ValveChecks/bin/ValveChecks\n'
+p47
+I0
+tp48
+a(I2880
+S'start_time     : 1500296055\nlast_update    : 1500298940\nfuzzer_pid     : 24517\ncycles_done    : 17\nexecs_done     : 2091170\nexecs_per_sec  : 747.87\npaths_total    : 10\npaths_favored  : 2\npaths_found    : 9\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 1\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.13%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500296162\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ValveChecks/input -o /dev/shm/work/ValveChecks/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ValveChecks/ValveChecks.dict -- data/linux/processed-challenges/ValveChecks/bin/ValveChecks\n'
+p49
+I0
+tp50
+a(I3000
+S'start_time     : 1500296055\nlast_update    : 1500299061\nfuzzer_pid     : 24517\ncycles_done    : 17\nexecs_done     : 2179527\nexecs_per_sec  : 690.32\npaths_total    : 10\npaths_favored  : 2\npaths_found    : 9\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 9\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.13%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500296162\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ValveChecks/input -o /dev/shm/work/ValveChecks/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ValveChecks/ValveChecks.dict -- data/linux/processed-challenges/ValveChecks/bin/ValveChecks\n'
+p51
+I0
+tp52
+a(I3120
+S'start_time     : 1500296055\nlast_update    : 1500299181\nfuzzer_pid     : 24517\ncycles_done    : 18\nexecs_done     : 2268740\nexecs_per_sec  : 706.59\npaths_total    : 10\npaths_favored  : 2\npaths_found    : 9\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 4\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.13%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500296162\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ValveChecks/input -o /dev/shm/work/ValveChecks/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ValveChecks/ValveChecks.dict -- data/linux/processed-challenges/ValveChecks/bin/ValveChecks\n'
+p53
+I0
+tp54
+a(I3240
+S'start_time     : 1500296055\nlast_update    : 1500299301\nfuzzer_pid     : 24517\ncycles_done    : 19\nexecs_done     : 2357324\nexecs_per_sec  : 740.12\npaths_total    : 10\npaths_favored  : 2\npaths_found    : 9\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 1\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.13%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500296162\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ValveChecks/input -o /dev/shm/work/ValveChecks/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ValveChecks/ValveChecks.dict -- data/linux/processed-challenges/ValveChecks/bin/ValveChecks\n'
+p55
+I0
+tp56
+a(I3360
+S'start_time     : 1500296055\nlast_update    : 1500299421\nfuzzer_pid     : 24517\ncycles_done    : 19\nexecs_done     : 2447020\nexecs_per_sec  : 729.64\npaths_total    : 10\npaths_favored  : 2\npaths_found    : 9\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 9\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.13%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500296162\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ValveChecks/input -o /dev/shm/work/ValveChecks/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ValveChecks/ValveChecks.dict -- data/linux/processed-challenges/ValveChecks/bin/ValveChecks\n'
+p57
+I0
+tp58
+a(I3480
+S'start_time     : 1500296055\nlast_update    : 1500299542\nfuzzer_pid     : 24517\ncycles_done    : 20\nexecs_done     : 2535628\nexecs_per_sec  : 745.19\npaths_total    : 10\npaths_favored  : 2\npaths_found    : 9\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 4\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.13%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500296162\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ValveChecks/input -o /dev/shm/work/ValveChecks/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ValveChecks/ValveChecks.dict -- data/linux/processed-challenges/ValveChecks/bin/ValveChecks\n'
+p59
+I0
+tp60
+a(I3600
+S'start_time     : 1500296055\nlast_update    : 1500299662\nfuzzer_pid     : 24517\ncycles_done    : 21\nexecs_done     : 2624771\nexecs_per_sec  : 749.01\npaths_total    : 10\npaths_favored  : 2\npaths_found    : 9\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 1\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.13%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500296162\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ValveChecks/input -o /dev/shm/work/ValveChecks/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ValveChecks/ValveChecks.dict -- data/linux/processed-challenges/ValveChecks/bin/ValveChecks\n'
+p61
+I0
+tp62
+a(I3720
+S'start_time     : 1500296055\nlast_update    : 1500299782\nfuzzer_pid     : 24517\ncycles_done    : 21\nexecs_done     : 2713466\nexecs_per_sec  : 707.47\npaths_total    : 10\npaths_favored  : 2\npaths_found    : 9\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 9\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.13%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500296162\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ValveChecks/input -o /dev/shm/work/ValveChecks/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ValveChecks/ValveChecks.dict -- data/linux/processed-challenges/ValveChecks/bin/ValveChecks\n'
+p63
+I0
+tp64
+a(I3840
+S'start_time     : 1500296055\nlast_update    : 1500299902\nfuzzer_pid     : 24517\ncycles_done    : 22\nexecs_done     : 2802394\nexecs_per_sec  : 738.07\npaths_total    : 10\npaths_favored  : 2\npaths_found    : 9\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 4\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.13%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500296162\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ValveChecks/input -o /dev/shm/work/ValveChecks/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ValveChecks/ValveChecks.dict -- data/linux/processed-challenges/ValveChecks/bin/ValveChecks\n'
+p65
+I0
+tp66
+a(I3960
+S'start_time     : 1500296055\nlast_update    : 1500300022\nfuzzer_pid     : 24517\ncycles_done    : 23\nexecs_done     : 2891236\nexecs_per_sec  : 759.13\npaths_total    : 10\npaths_favored  : 2\npaths_found    : 9\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 1\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.13%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500296162\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ValveChecks/input -o /dev/shm/work/ValveChecks/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ValveChecks/ValveChecks.dict -- data/linux/processed-challenges/ValveChecks/bin/ValveChecks\n'
+p67
+I0
+tp68
+a(I4080
+S'start_time     : 1500296055\nlast_update    : 1500300143\nfuzzer_pid     : 24517\ncycles_done    : 23\nexecs_done     : 2981841\nexecs_per_sec  : 764.39\npaths_total    : 10\npaths_favored  : 2\npaths_found    : 9\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 8\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.13%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500296162\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ValveChecks/input -o /dev/shm/work/ValveChecks/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ValveChecks/ValveChecks.dict -- data/linux/processed-challenges/ValveChecks/bin/ValveChecks\n'
+p69
+I0
+tp70
+a(I4200
+S'start_time     : 1500296055\nlast_update    : 1500300263\nfuzzer_pid     : 24517\ncycles_done    : 24\nexecs_done     : 3070716\nexecs_per_sec  : 750.26\npaths_total    : 10\npaths_favored  : 2\npaths_found    : 9\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 4\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.13%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500296162\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ValveChecks/input -o /dev/shm/work/ValveChecks/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ValveChecks/ValveChecks.dict -- data/linux/processed-challenges/ValveChecks/bin/ValveChecks\n'
+p71
+I0
+tp72
+a(I4320
+S'start_time     : 1500296055\nlast_update    : 1500300383\nfuzzer_pid     : 24517\ncycles_done    : 25\nexecs_done     : 3160346\nexecs_per_sec  : 789.85\npaths_total    : 10\npaths_favored  : 2\npaths_found    : 9\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 1\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.13%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500296162\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ValveChecks/input -o /dev/shm/work/ValveChecks/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ValveChecks/ValveChecks.dict -- data/linux/processed-challenges/ValveChecks/bin/ValveChecks\n'
+p73
+I0
+tp74
+a(I4440
+S'start_time     : 1500296055\nlast_update    : 1500300503\nfuzzer_pid     : 24517\ncycles_done    : 25\nexecs_done     : 3250738\nexecs_per_sec  : 697.87\npaths_total    : 10\npaths_favored  : 2\npaths_found    : 9\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 9\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.13%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500296162\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ValveChecks/input -o /dev/shm/work/ValveChecks/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ValveChecks/ValveChecks.dict -- data/linux/processed-challenges/ValveChecks/bin/ValveChecks\n'
+p75
+I0
+tp76
+a(I4560
+S'start_time     : 1500296055\nlast_update    : 1500300623\nfuzzer_pid     : 24517\ncycles_done    : 26\nexecs_done     : 3338826\nexecs_per_sec  : 732.39\npaths_total    : 10\npaths_favored  : 2\npaths_found    : 9\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 4\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.13%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500296162\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ValveChecks/input -o /dev/shm/work/ValveChecks/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ValveChecks/ValveChecks.dict -- data/linux/processed-challenges/ValveChecks/bin/ValveChecks\n'
+p77
+I0
+tp78
+a(I4680
+S'start_time     : 1500296055\nlast_update    : 1500300744\nfuzzer_pid     : 24517\ncycles_done    : 27\nexecs_done     : 3426212\nexecs_per_sec  : 713.48\npaths_total    : 10\npaths_favored  : 2\npaths_found    : 9\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 1\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.13%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500296162\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ValveChecks/input -o /dev/shm/work/ValveChecks/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ValveChecks/ValveChecks.dict -- data/linux/processed-challenges/ValveChecks/bin/ValveChecks\n'
+p79
+I0
+tp80
+a(I4800
+S'start_time     : 1500296055\nlast_update    : 1500300864\nfuzzer_pid     : 24517\ncycles_done    : 27\nexecs_done     : 3515086\nexecs_per_sec  : 729.08\npaths_total    : 10\npaths_favored  : 2\npaths_found    : 9\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 8\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.13%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500296162\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ValveChecks/input -o /dev/shm/work/ValveChecks/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ValveChecks/ValveChecks.dict -- data/linux/processed-challenges/ValveChecks/bin/ValveChecks\n'
+p81
+I0
+tp82
+a(I4920
+S'start_time     : 1500296055\nlast_update    : 1500300984\nfuzzer_pid     : 24517\ncycles_done    : 28\nexecs_done     : 3603824\nexecs_per_sec  : 737.59\npaths_total    : 10\npaths_favored  : 2\npaths_found    : 9\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 3\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.13%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500296162\nlast_crash     : 0\nlast_hang      : 1500300896\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ValveChecks/input -o /dev/shm/work/ValveChecks/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ValveChecks/ValveChecks.dict -- data/linux/processed-challenges/ValveChecks/bin/ValveChecks\n'
+p83
+I0
+tp84
+a(I5040
+S'start_time     : 1500296055\nlast_update    : 1500301104\nfuzzer_pid     : 24517\ncycles_done    : 29\nexecs_done     : 3691661\nexecs_per_sec  : 751.80\npaths_total    : 10\npaths_favored  : 2\npaths_found    : 9\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 1\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.13%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500296162\nlast_crash     : 0\nlast_hang      : 1500300896\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ValveChecks/input -o /dev/shm/work/ValveChecks/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ValveChecks/ValveChecks.dict -- data/linux/processed-challenges/ValveChecks/bin/ValveChecks\n'
+p85
+I0
+tp86
+a(I5160
+S'start_time     : 1500296055\nlast_update    : 1500301225\nfuzzer_pid     : 24517\ncycles_done    : 29\nexecs_done     : 3781400\nexecs_per_sec  : 741.89\npaths_total    : 10\npaths_favored  : 2\npaths_found    : 9\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 8\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.13%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500296162\nlast_crash     : 0\nlast_hang      : 1500300896\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ValveChecks/input -o /dev/shm/work/ValveChecks/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ValveChecks/ValveChecks.dict -- data/linux/processed-challenges/ValveChecks/bin/ValveChecks\n'
+p87
+I0
+tp88
+a(I5280
+S'start_time     : 1500296055\nlast_update    : 1500301345\nfuzzer_pid     : 24517\ncycles_done    : 30\nexecs_done     : 3869756\nexecs_per_sec  : 748.40\npaths_total    : 10\npaths_favored  : 2\npaths_found    : 9\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 4\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.13%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500296162\nlast_crash     : 0\nlast_hang      : 1500300896\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ValveChecks/input -o /dev/shm/work/ValveChecks/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ValveChecks/ValveChecks.dict -- data/linux/processed-challenges/ValveChecks/bin/ValveChecks\n'
+p89
+I0
+tp90
+a(I5400
+S'start_time     : 1500296055\nlast_update    : 1500301465\nfuzzer_pid     : 24517\ncycles_done    : 31\nexecs_done     : 3957142\nexecs_per_sec  : 714.49\npaths_total    : 10\npaths_favored  : 2\npaths_found    : 9\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.13%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500296162\nlast_crash     : 0\nlast_hang      : 1500300896\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ValveChecks/input -o /dev/shm/work/ValveChecks/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ValveChecks/ValveChecks.dict -- data/linux/processed-challenges/ValveChecks/bin/ValveChecks\n'
+p91
+I0
+tp92
+a(I5520
+S'start_time     : 1500296055\nlast_update    : 1500301585\nfuzzer_pid     : 24517\ncycles_done    : 31\nexecs_done     : 4046128\nexecs_per_sec  : 734.37\npaths_total    : 10\npaths_favored  : 2\npaths_found    : 9\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 7\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.13%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500296162\nlast_crash     : 0\nlast_hang      : 1500300896\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ValveChecks/input -o /dev/shm/work/ValveChecks/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ValveChecks/ValveChecks.dict -- data/linux/processed-challenges/ValveChecks/bin/ValveChecks\n'
+p93
+I0
+tp94
+a(I5640
+S'start_time     : 1500296055\nlast_update    : 1500301705\nfuzzer_pid     : 24517\ncycles_done    : 32\nexecs_done     : 4133408\nexecs_per_sec  : 719.80\npaths_total    : 10\npaths_favored  : 2\npaths_found    : 9\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 3\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.13%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500296162\nlast_crash     : 0\nlast_hang      : 1500300896\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ValveChecks/input -o /dev/shm/work/ValveChecks/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ValveChecks/ValveChecks.dict -- data/linux/processed-challenges/ValveChecks/bin/ValveChecks\n'
+p95
+I0
+tp96
+a(I5760
+S'start_time     : 1500296055\nlast_update    : 1500301825\nfuzzer_pid     : 24517\ncycles_done    : 33\nexecs_done     : 4219198\nexecs_per_sec  : 738.90\npaths_total    : 10\npaths_favored  : 2\npaths_found    : 9\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.13%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500296162\nlast_crash     : 0\nlast_hang      : 1500300896\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ValveChecks/input -o /dev/shm/work/ValveChecks/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ValveChecks/ValveChecks.dict -- data/linux/processed-challenges/ValveChecks/bin/ValveChecks\n'
+p97
+I0
+tp98
+a(I5880
+S'start_time     : 1500296055\nlast_update    : 1500301945\nfuzzer_pid     : 24517\ncycles_done    : 33\nexecs_done     : 4307388\nexecs_per_sec  : 731.16\npaths_total    : 10\npaths_favored  : 2\npaths_found    : 9\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 7\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.13%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500296162\nlast_crash     : 0\nlast_hang      : 1500300896\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ValveChecks/input -o /dev/shm/work/ValveChecks/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ValveChecks/ValveChecks.dict -- data/linux/processed-challenges/ValveChecks/bin/ValveChecks\n'
+p99
+I0
+tp100
+a(I6000
+S'start_time     : 1500296055\nlast_update    : 1500302066\nfuzzer_pid     : 24517\ncycles_done    : 34\nexecs_done     : 4395240\nexecs_per_sec  : 745.95\npaths_total    : 10\npaths_favored  : 2\npaths_found    : 9\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 3\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.13%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500296162\nlast_crash     : 0\nlast_hang      : 1500300896\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ValveChecks/input -o /dev/shm/work/ValveChecks/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ValveChecks/ValveChecks.dict -- data/linux/processed-challenges/ValveChecks/bin/ValveChecks\n'
+p101
+I0
+tp102
+a(I6120
+S'start_time     : 1500296055\nlast_update    : 1500302186\nfuzzer_pid     : 24517\ncycles_done    : 35\nexecs_done     : 4482702\nexecs_per_sec  : 748.10\npaths_total    : 10\npaths_favored  : 2\npaths_found    : 9\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.13%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500296162\nlast_crash     : 0\nlast_hang      : 1500300896\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ValveChecks/input -o /dev/shm/work/ValveChecks/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ValveChecks/ValveChecks.dict -- data/linux/processed-challenges/ValveChecks/bin/ValveChecks\n'
+p103
+I0
+tp104
+a(I6240
+S'start_time     : 1500296055\nlast_update    : 1500302306\nfuzzer_pid     : 24517\ncycles_done    : 35\nexecs_done     : 4571656\nexecs_per_sec  : 697.79\npaths_total    : 10\npaths_favored  : 2\npaths_found    : 9\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 7\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.13%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500296162\nlast_crash     : 0\nlast_hang      : 1500300896\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ValveChecks/input -o /dev/shm/work/ValveChecks/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ValveChecks/ValveChecks.dict -- data/linux/processed-challenges/ValveChecks/bin/ValveChecks\n'
+p105
+I0
+tp106
+a(I6360
+S'start_time     : 1500296055\nlast_update    : 1500302427\nfuzzer_pid     : 24517\ncycles_done    : 36\nexecs_done     : 4660531\nexecs_per_sec  : 760.90\npaths_total    : 10\npaths_favored  : 2\npaths_found    : 9\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 3\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.13%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500296162\nlast_crash     : 0\nlast_hang      : 1500300896\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ValveChecks/input -o /dev/shm/work/ValveChecks/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ValveChecks/ValveChecks.dict -- data/linux/processed-challenges/ValveChecks/bin/ValveChecks\n'
+p107
+I0
+tp108
+a(I6480
+S'start_time     : 1500296055\nlast_update    : 1500302547\nfuzzer_pid     : 24517\ncycles_done    : 37\nexecs_done     : 4748702\nexecs_per_sec  : 732.65\npaths_total    : 10\npaths_favored  : 2\npaths_found    : 9\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.13%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500296162\nlast_crash     : 0\nlast_hang      : 1500300896\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ValveChecks/input -o /dev/shm/work/ValveChecks/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ValveChecks/ValveChecks.dict -- data/linux/processed-challenges/ValveChecks/bin/ValveChecks\n'
+p109
+I0
+tp110
+a(I6600
+S'start_time     : 1500296055\nlast_update    : 1500302667\nfuzzer_pid     : 24517\ncycles_done    : 37\nexecs_done     : 4836866\nexecs_per_sec  : 762.75\npaths_total    : 10\npaths_favored  : 2\npaths_found    : 9\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 7\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.13%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500296162\nlast_crash     : 0\nlast_hang      : 1500300896\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ValveChecks/input -o /dev/shm/work/ValveChecks/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ValveChecks/ValveChecks.dict -- data/linux/processed-challenges/ValveChecks/bin/ValveChecks\n'
+p111
+I0
+tp112
+a(I6720
+S'start_time     : 1500296055\nlast_update    : 1500302727\nfuzzer_pid     : 24517\ncycles_done    : 38\nexecs_done     : 4880330\nexecs_per_sec  : 730.75\npaths_total    : 10\npaths_favored  : 2\npaths_found    : 9\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.13%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500296162\nlast_crash     : 0\nlast_hang      : 1500300896\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ValveChecks/input -o /dev/shm/work/ValveChecks/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ValveChecks/ValveChecks.dict -- data/linux/processed-challenges/ValveChecks/bin/ValveChecks\n'
+p113
+I0
+tp114
+a(I6840
+S'start_time     : 1500296055\nlast_update    : 1500302847\nfuzzer_pid     : 24517\ncycles_done    : 38\nexecs_done     : 4968718\nexecs_per_sec  : 734.11\npaths_total    : 10\npaths_favored  : 2\npaths_found    : 9\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 7\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.13%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500296162\nlast_crash     : 0\nlast_hang      : 1500300896\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ValveChecks/input -o /dev/shm/work/ValveChecks/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ValveChecks/ValveChecks.dict -- data/linux/processed-challenges/ValveChecks/bin/ValveChecks\n'
+p115
+I0
+tp116
+a(I6960
+S'start_time     : 1500296055\nlast_update    : 1500302968\nfuzzer_pid     : 24517\ncycles_done    : 39\nexecs_done     : 5054852\nexecs_per_sec  : 724.99\npaths_total    : 10\npaths_favored  : 2\npaths_found    : 9\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 3\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.13%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500296162\nlast_crash     : 0\nlast_hang      : 1500300896\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ValveChecks/input -o /dev/shm/work/ValveChecks/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ValveChecks/ValveChecks.dict -- data/linux/processed-challenges/ValveChecks/bin/ValveChecks\n'
+p117
+I0
+tp118
+a(I7080
+S'start_time     : 1500296055\nlast_update    : 1500303088\nfuzzer_pid     : 24517\ncycles_done    : 40\nexecs_done     : 5142400\nexecs_per_sec  : 743.60\npaths_total    : 10\npaths_favored  : 2\npaths_found    : 9\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.13%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500296162\nlast_crash     : 0\nlast_hang      : 1500300896\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ValveChecks/input -o /dev/shm/work/ValveChecks/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ValveChecks/ValveChecks.dict -- data/linux/processed-challenges/ValveChecks/bin/ValveChecks\n'
+p119
+I0
+tp120
+a(I7200
+S'start_time     : 1500296055\nlast_update    : 1500303208\nfuzzer_pid     : 24517\ncycles_done    : 40\nexecs_done     : 5232481\nexecs_per_sec  : 770.61\npaths_total    : 10\npaths_favored  : 2\npaths_found    : 9\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 7\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.13%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500296162\nlast_crash     : 0\nlast_hang      : 1500300896\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ValveChecks/input -o /dev/shm/work/ValveChecks/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ValveChecks/ValveChecks.dict -- data/linux/processed-challenges/ValveChecks/bin/ValveChecks\n'
+p121
+I0
+tp122
+a(I7320
+S'start_time     : 1500296055\nlast_update    : 1500303328\nfuzzer_pid     : 24517\ncycles_done    : 41\nexecs_done     : 5320906\nexecs_per_sec  : 759.42\npaths_total    : 10\npaths_favored  : 2\npaths_found    : 9\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 3\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.13%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500296162\nlast_crash     : 0\nlast_hang      : 1500300896\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ValveChecks/input -o /dev/shm/work/ValveChecks/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ValveChecks/ValveChecks.dict -- data/linux/processed-challenges/ValveChecks/bin/ValveChecks\n'
+p123
+I0
+tp124
+a(I7440
+S'start_time     : 1500296055\nlast_update    : 1500303449\nfuzzer_pid     : 24517\ncycles_done    : 42\nexecs_done     : 5411421\nexecs_per_sec  : 754.95\npaths_total    : 10\npaths_favored  : 2\npaths_found    : 9\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.13%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500296162\nlast_crash     : 0\nlast_hang      : 1500300896\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ValveChecks/input -o /dev/shm/work/ValveChecks/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ValveChecks/ValveChecks.dict -- data/linux/processed-challenges/ValveChecks/bin/ValveChecks\n'
+p125
+I0
+tp126
+a(I7560
+S'start_time     : 1500296055\nlast_update    : 1500303569\nfuzzer_pid     : 24517\ncycles_done    : 42\nexecs_done     : 5500964\nexecs_per_sec  : 733.60\npaths_total    : 10\npaths_favored  : 2\npaths_found    : 9\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 7\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.13%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500296162\nlast_crash     : 0\nlast_hang      : 1500300896\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ValveChecks/input -o /dev/shm/work/ValveChecks/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ValveChecks/ValveChecks.dict -- data/linux/processed-challenges/ValveChecks/bin/ValveChecks\n'
+p127
+I0
+tp128
+a(I7680
+S'start_time     : 1500296055\nlast_update    : 1500303689\nfuzzer_pid     : 24517\ncycles_done    : 43\nexecs_done     : 5589268\nexecs_per_sec  : 745.93\npaths_total    : 10\npaths_favored  : 2\npaths_found    : 9\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 3\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.13%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500296162\nlast_crash     : 0\nlast_hang      : 1500300896\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ValveChecks/input -o /dev/shm/work/ValveChecks/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ValveChecks/ValveChecks.dict -- data/linux/processed-challenges/ValveChecks/bin/ValveChecks\n'
+p129
+I0
+tp130
+a(I7800
+S'start_time     : 1500296055\nlast_update    : 1500303809\nfuzzer_pid     : 24517\ncycles_done    : 44\nexecs_done     : 5676684\nexecs_per_sec  : 747.67\npaths_total    : 10\npaths_favored  : 2\npaths_found    : 9\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.13%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500296162\nlast_crash     : 0\nlast_hang      : 1500300896\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ValveChecks/input -o /dev/shm/work/ValveChecks/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ValveChecks/ValveChecks.dict -- data/linux/processed-challenges/ValveChecks/bin/ValveChecks\n'
+p131
+I0
+tp132
+a(I7920
+S'start_time     : 1500296055\nlast_update    : 1500303930\nfuzzer_pid     : 24517\ncycles_done    : 44\nexecs_done     : 5762848\nexecs_per_sec  : 705.77\npaths_total    : 10\npaths_favored  : 2\npaths_found    : 9\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 7\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.13%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500296162\nlast_crash     : 0\nlast_hang      : 1500300896\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ValveChecks/input -o /dev/shm/work/ValveChecks/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ValveChecks/ValveChecks.dict -- data/linux/processed-challenges/ValveChecks/bin/ValveChecks\n'
+p133
+I0
+tp134
+a(I8040
+S'start_time     : 1500296055\nlast_update    : 1500304050\nfuzzer_pid     : 24517\ncycles_done    : 45\nexecs_done     : 5850254\nexecs_per_sec  : 733.05\npaths_total    : 10\npaths_favored  : 2\npaths_found    : 9\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 3\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.13%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500296162\nlast_crash     : 0\nlast_hang      : 1500300896\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ValveChecks/input -o /dev/shm/work/ValveChecks/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ValveChecks/ValveChecks.dict -- data/linux/processed-challenges/ValveChecks/bin/ValveChecks\n'
+p135
+I0
+tp136
+a(I8160
+S'start_time     : 1500296055\nlast_update    : 1500304170\nfuzzer_pid     : 24517\ncycles_done    : 45\nexecs_done     : 5936922\nexecs_per_sec  : 759.08\npaths_total    : 10\npaths_favored  : 2\npaths_found    : 9\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 9\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.13%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500296162\nlast_crash     : 0\nlast_hang      : 1500300896\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ValveChecks/input -o /dev/shm/work/ValveChecks/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ValveChecks/ValveChecks.dict -- data/linux/processed-challenges/ValveChecks/bin/ValveChecks\n'
+p137
+I0
+tp138
+a(I8280
+S'start_time     : 1500296055\nlast_update    : 1500304290\nfuzzer_pid     : 24517\ncycles_done    : 46\nexecs_done     : 6024976\nexecs_per_sec  : 775.85\npaths_total    : 10\npaths_favored  : 2\npaths_found    : 9\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 6\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.13%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500296162\nlast_crash     : 0\nlast_hang      : 1500300896\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ValveChecks/input -o /dev/shm/work/ValveChecks/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ValveChecks/ValveChecks.dict -- data/linux/processed-challenges/ValveChecks/bin/ValveChecks\n'
+p139
+I0
+tp140
+a(I8400
+S'start_time     : 1500296055\nlast_update    : 1500304410\nfuzzer_pid     : 24517\ncycles_done    : 47\nexecs_done     : 6111758\nexecs_per_sec  : 728.58\npaths_total    : 10\npaths_favored  : 2\npaths_found    : 9\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 3\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.13%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500296162\nlast_crash     : 0\nlast_hang      : 1500300896\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ValveChecks/input -o /dev/shm/work/ValveChecks/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ValveChecks/ValveChecks.dict -- data/linux/processed-challenges/ValveChecks/bin/ValveChecks\n'
+p141
+I0
+tp142
+a(I8520
+S'start_time     : 1500296055\nlast_update    : 1500304530\nfuzzer_pid     : 24517\ncycles_done    : 47\nexecs_done     : 6197800\nexecs_per_sec  : 745.31\npaths_total    : 10\npaths_favored  : 2\npaths_found    : 9\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 9\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.13%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500296162\nlast_crash     : 0\nlast_hang      : 1500300896\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ValveChecks/input -o /dev/shm/work/ValveChecks/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ValveChecks/ValveChecks.dict -- data/linux/processed-challenges/ValveChecks/bin/ValveChecks\n'
+p143
+I0
+tp144
+a(I8640
+S'start_time     : 1500296055\nlast_update    : 1500304651\nfuzzer_pid     : 24517\ncycles_done    : 48\nexecs_done     : 6282224\nexecs_per_sec  : 740.80\npaths_total    : 10\npaths_favored  : 2\npaths_found    : 9\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 6\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.13%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500296162\nlast_crash     : 0\nlast_hang      : 1500300896\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ValveChecks/input -o /dev/shm/work/ValveChecks/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ValveChecks/ValveChecks.dict -- data/linux/processed-challenges/ValveChecks/bin/ValveChecks\n'
+p145
+I0
+tp146
+a(I8760
+S'start_time     : 1500296055\nlast_update    : 1500304771\nfuzzer_pid     : 24517\ncycles_done    : 49\nexecs_done     : 6369142\nexecs_per_sec  : 728.97\npaths_total    : 10\npaths_favored  : 2\npaths_found    : 9\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 2\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.13%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500296162\nlast_crash     : 0\nlast_hang      : 1500300896\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ValveChecks/input -o /dev/shm/work/ValveChecks/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ValveChecks/ValveChecks.dict -- data/linux/processed-challenges/ValveChecks/bin/ValveChecks\n'
+p147
+I0
+tp148
+a(I8880
+S'start_time     : 1500296055\nlast_update    : 1500304891\nfuzzer_pid     : 24517\ncycles_done    : 49\nexecs_done     : 6454202\nexecs_per_sec  : 713.97\npaths_total    : 10\npaths_favored  : 2\npaths_found    : 9\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 9\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.13%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500296162\nlast_crash     : 0\nlast_hang      : 1500300896\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ValveChecks/input -o /dev/shm/work/ValveChecks/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ValveChecks/ValveChecks.dict -- data/linux/processed-challenges/ValveChecks/bin/ValveChecks\n'
+p149
+I0
+tp150
+a(I9000
+S'start_time     : 1500296055\nlast_update    : 1500305011\nfuzzer_pid     : 24517\ncycles_done    : 50\nexecs_done     : 6541614\nexecs_per_sec  : 717.59\npaths_total    : 10\npaths_favored  : 2\npaths_found    : 9\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 5\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.13%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500296162\nlast_crash     : 0\nlast_hang      : 1500300896\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ValveChecks/input -o /dev/shm/work/ValveChecks/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ValveChecks/ValveChecks.dict -- data/linux/processed-challenges/ValveChecks/bin/ValveChecks\n'
+p151
+I0
+tp152
+a(I9120
+S'start_time     : 1500296055\nlast_update    : 1500305131\nfuzzer_pid     : 24517\ncycles_done    : 51\nexecs_done     : 6628992\nexecs_per_sec  : 751.25\npaths_total    : 10\npaths_favored  : 2\npaths_found    : 9\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 1\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.13%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500296162\nlast_crash     : 0\nlast_hang      : 1500300896\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ValveChecks/input -o /dev/shm/work/ValveChecks/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ValveChecks/ValveChecks.dict -- data/linux/processed-challenges/ValveChecks/bin/ValveChecks\n'
+p153
+I0
+tp154
+a(I9240
+S'start_time     : 1500296055\nlast_update    : 1500305252\nfuzzer_pid     : 24517\ncycles_done    : 51\nexecs_done     : 6717489\nexecs_per_sec  : 684.15\npaths_total    : 10\npaths_favored  : 2\npaths_found    : 9\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 9\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.13%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500296162\nlast_crash     : 0\nlast_hang      : 1500300896\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ValveChecks/input -o /dev/shm/work/ValveChecks/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ValveChecks/ValveChecks.dict -- data/linux/processed-challenges/ValveChecks/bin/ValveChecks\n'
+p155
+I0
+tp156
+a(I9360
+S'start_time     : 1500296055\nlast_update    : 1500305372\nfuzzer_pid     : 24517\ncycles_done    : 52\nexecs_done     : 6806296\nexecs_per_sec  : 747.00\npaths_total    : 10\npaths_favored  : 2\npaths_found    : 9\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 4\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.13%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500296162\nlast_crash     : 0\nlast_hang      : 1500300896\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ValveChecks/input -o /dev/shm/work/ValveChecks/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ValveChecks/ValveChecks.dict -- data/linux/processed-challenges/ValveChecks/bin/ValveChecks\n'
+p157
+I0
+tp158
+a(I9480
+S'start_time     : 1500296055\nlast_update    : 1500305492\nfuzzer_pid     : 24517\ncycles_done    : 53\nexecs_done     : 6895636\nexecs_per_sec  : 770.15\npaths_total    : 10\npaths_favored  : 2\npaths_found    : 9\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 1\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.13%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500296162\nlast_crash     : 0\nlast_hang      : 1500300896\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ValveChecks/input -o /dev/shm/work/ValveChecks/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ValveChecks/ValveChecks.dict -- data/linux/processed-challenges/ValveChecks/bin/ValveChecks\n'
+p159
+I0
+tp160
+a(I9600
+S'start_time     : 1500296055\nlast_update    : 1500305612\nfuzzer_pid     : 24517\ncycles_done    : 53\nexecs_done     : 6985880\nexecs_per_sec  : 675.85\npaths_total    : 10\npaths_favored  : 2\npaths_found    : 9\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 9\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.13%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500296162\nlast_crash     : 0\nlast_hang      : 1500300896\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ValveChecks/input -o /dev/shm/work/ValveChecks/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ValveChecks/ValveChecks.dict -- data/linux/processed-challenges/ValveChecks/bin/ValveChecks\n'
+p161
+I0
+tp162
+a(I9720
+S'start_time     : 1500296055\nlast_update    : 1500305732\nfuzzer_pid     : 24517\ncycles_done    : 54\nexecs_done     : 7074046\nexecs_per_sec  : 751.38\npaths_total    : 10\npaths_favored  : 2\npaths_found    : 9\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 4\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.13%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500296162\nlast_crash     : 0\nlast_hang      : 1500300896\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ValveChecks/input -o /dev/shm/work/ValveChecks/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ValveChecks/ValveChecks.dict -- data/linux/processed-challenges/ValveChecks/bin/ValveChecks\n'
+p163
+I0
+tp164
+a(I9840
+S'start_time     : 1500296055\nlast_update    : 1500305852\nfuzzer_pid     : 24517\ncycles_done    : 55\nexecs_done     : 7161921\nexecs_per_sec  : 750.78\npaths_total    : 10\npaths_favored  : 2\npaths_found    : 9\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 1\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.13%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500296162\nlast_crash     : 0\nlast_hang      : 1500300896\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ValveChecks/input -o /dev/shm/work/ValveChecks/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ValveChecks/ValveChecks.dict -- data/linux/processed-challenges/ValveChecks/bin/ValveChecks\n'
+p165
+I0
+tp166
+a(I9960
+S'start_time     : 1500296055\nlast_update    : 1500305973\nfuzzer_pid     : 24517\ncycles_done    : 55\nexecs_done     : 7252136\nexecs_per_sec  : 728.95\npaths_total    : 10\npaths_favored  : 2\npaths_found    : 9\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 9\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.13%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500296162\nlast_crash     : 0\nlast_hang      : 1500300896\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ValveChecks/input -o /dev/shm/work/ValveChecks/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ValveChecks/ValveChecks.dict -- data/linux/processed-challenges/ValveChecks/bin/ValveChecks\n'
+p167
+I0
+tp168
+a(I10080
+S'start_time     : 1500296055\nlast_update    : 1500306093\nfuzzer_pid     : 24517\ncycles_done    : 56\nexecs_done     : 7341636\nexecs_per_sec  : 761.66\npaths_total    : 10\npaths_favored  : 2\npaths_found    : 9\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 4\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.13%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500296162\nlast_crash     : 0\nlast_hang      : 1500300896\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ValveChecks/input -o /dev/shm/work/ValveChecks/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ValveChecks/ValveChecks.dict -- data/linux/processed-challenges/ValveChecks/bin/ValveChecks\n'
+p169
+I0
+tp170
+a(I10200
+S'start_time     : 1500296055\nlast_update    : 1500306213\nfuzzer_pid     : 24517\ncycles_done    : 57\nexecs_done     : 7431561\nexecs_per_sec  : 779.03\npaths_total    : 10\npaths_favored  : 2\npaths_found    : 9\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 1\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.13%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500296162\nlast_crash     : 0\nlast_hang      : 1500300896\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ValveChecks/input -o /dev/shm/work/ValveChecks/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ValveChecks/ValveChecks.dict -- data/linux/processed-challenges/ValveChecks/bin/ValveChecks\n'
+p171
+I0
+tp172
+a(I10320
+S'start_time     : 1500296055\nlast_update    : 1500306333\nfuzzer_pid     : 24517\ncycles_done    : 57\nexecs_done     : 7521688\nexecs_per_sec  : 711.84\npaths_total    : 10\npaths_favored  : 2\npaths_found    : 9\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 9\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.13%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500296162\nlast_crash     : 0\nlast_hang      : 1500300896\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ValveChecks/input -o /dev/shm/work/ValveChecks/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ValveChecks/ValveChecks.dict -- data/linux/processed-challenges/ValveChecks/bin/ValveChecks\n'
+p173
+I0
+tp174
+a(I10440
+S'start_time     : 1500296055\nlast_update    : 1500306453\nfuzzer_pid     : 24517\ncycles_done    : 58\nexecs_done     : 7610726\nexecs_per_sec  : 743.61\npaths_total    : 10\npaths_favored  : 2\npaths_found    : 9\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 4\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.13%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500296162\nlast_crash     : 0\nlast_hang      : 1500300896\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ValveChecks/input -o /dev/shm/work/ValveChecks/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ValveChecks/ValveChecks.dict -- data/linux/processed-challenges/ValveChecks/bin/ValveChecks\n'
+p175
+I0
+tp176
+a(I10560
+S'start_time     : 1500296055\nlast_update    : 1500306574\nfuzzer_pid     : 24517\ncycles_done    : 59\nexecs_done     : 7700198\nexecs_per_sec  : 749.41\npaths_total    : 10\npaths_favored  : 2\npaths_found    : 9\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 1\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.13%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500296162\nlast_crash     : 0\nlast_hang      : 1500300896\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ValveChecks/input -o /dev/shm/work/ValveChecks/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ValveChecks/ValveChecks.dict -- data/linux/processed-challenges/ValveChecks/bin/ValveChecks\n'
+p177
+I0
+tp178
+a(I10680
+S'start_time     : 1500296055\nlast_update    : 1500306694\nfuzzer_pid     : 24517\ncycles_done    : 59\nexecs_done     : 7789907\nexecs_per_sec  : 676.67\npaths_total    : 10\npaths_favored  : 2\npaths_found    : 9\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 9\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.13%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500296162\nlast_crash     : 0\nlast_hang      : 1500300896\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/ValveChecks/input -o /dev/shm/work/ValveChecks/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/ValveChecks/ValveChecks.dict -- data/linux/processed-challenges/ValveChecks/bin/ValveChecks\n'
+p179
+I0
+tp180
+a.

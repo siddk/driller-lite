@@ -1,0 +1,452 @@
+(lp0
+(I0
+S'start_time     : 1499884928\nlast_update    : 1499884928\nfuzzer_pid     : 2586\ncycles_done    : 0\nexecs_done     : 10\nexecs_per_sec  : 196.08\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 1\npending_total  : 1\nvariable_paths : 0\nbitmap_cvg     : 0.20%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sensr/input -o /dev/shm/work/Sensr/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sensr/Sensr.dict -- data/linux/processed-challenges/Sensr/bin/Sensr\n'
+p1
+I11
+tp2
+a(I120
+S'start_time     : 1499884928\nlast_update    : 1499885048\nfuzzer_pid     : 2586\ncycles_done    : 0\nexecs_done     : 134531\nexecs_per_sec  : 1102.47\npaths_total    : 26\npaths_favored  : 1\npaths_found    : 25\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 1\npending_total  : 26\nvariable_paths : 0\nbitmap_cvg     : 0.56%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499885039\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sensr/input -o /dev/shm/work/Sensr/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sensr/Sensr.dict -- data/linux/processed-challenges/Sensr/bin/Sensr\n'
+p3
+I15
+tp4
+a(I240
+S'start_time     : 1499884928\nlast_update    : 1499885169\nfuzzer_pid     : 2586\ncycles_done    : 0\nexecs_done     : 263266\nexecs_per_sec  : 1061.18\npaths_total    : 84\npaths_favored  : 13\npaths_found    : 83\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 5\npending_favs   : 12\npending_total  : 82\nvariable_paths : 0\nbitmap_cvg     : 0.67%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499885152\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sensr/input -o /dev/shm/work/Sensr/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sensr/Sensr.dict -- data/linux/processed-challenges/Sensr/bin/Sensr\n'
+p5
+I59
+tp6
+a(I360
+S'start_time     : 1499884928\nlast_update    : 1499885289\nfuzzer_pid     : 2586\ncycles_done    : 0\nexecs_done     : 392776\nexecs_per_sec  : 1102.02\npaths_total    : 104\npaths_favored  : 33\npaths_found    : 103\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 10\npending_favs   : 31\npending_total  : 100\nvariable_paths : 0\nbitmap_cvg     : 0.73%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499885289\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sensr/input -o /dev/shm/work/Sensr/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sensr/Sensr.dict -- data/linux/processed-challenges/Sensr/bin/Sensr\n'
+p7
+I20
+tp8
+a(I480
+S'start_time     : 1499884928\nlast_update    : 1499885409\nfuzzer_pid     : 2586\ncycles_done    : 0\nexecs_done     : 528413\nexecs_per_sec  : 1148.09\npaths_total    : 115\npaths_favored  : 33\npaths_found    : 114\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 10\npending_favs   : 31\npending_total  : 111\nvariable_paths : 0\nbitmap_cvg     : 0.75%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499885395\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sensr/input -o /dev/shm/work/Sensr/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sensr/Sensr.dict -- data/linux/processed-challenges/Sensr/bin/Sensr\n'
+p9
+I10
+tp10
+a(I600
+S'start_time     : 1499884928\nlast_update    : 1499885530\nfuzzer_pid     : 2586\ncycles_done    : 0\nexecs_done     : 657724\nexecs_per_sec  : 1021.50\npaths_total    : 122\npaths_favored  : 45\npaths_found    : 121\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 38\npending_favs   : 37\npending_total  : 112\nvariable_paths : 0\nbitmap_cvg     : 0.76%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499885529\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sensr/input -o /dev/shm/work/Sensr/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sensr/Sensr.dict -- data/linux/processed-challenges/Sensr/bin/Sensr\n'
+p11
+I8
+tp12
+a(I720
+S'start_time     : 1499884928\nlast_update    : 1499885650\nfuzzer_pid     : 2586\ncycles_done    : 0\nexecs_done     : 783811\nexecs_per_sec  : 1062.67\npaths_total    : 126\npaths_favored  : 45\npaths_found    : 125\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 38\npending_favs   : 37\npending_total  : 116\nvariable_paths : 0\nbitmap_cvg     : 0.76%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499885625\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sensr/input -o /dev/shm/work/Sensr/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sensr/Sensr.dict -- data/linux/processed-challenges/Sensr/bin/Sensr\n'
+p13
+I3
+tp14
+a(I840
+S'start_time     : 1499884928\nlast_update    : 1499885770\nfuzzer_pid     : 2586\ncycles_done    : 0\nexecs_done     : 910935\nexecs_per_sec  : 1076.09\npaths_total    : 129\npaths_favored  : 46\npaths_found    : 128\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 57\npending_favs   : 39\npending_total  : 116\nvariable_paths : 0\nbitmap_cvg     : 0.77%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499885749\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sensr/input -o /dev/shm/work/Sensr/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sensr/Sensr.dict -- data/linux/processed-challenges/Sensr/bin/Sensr\n'
+p15
+I3
+tp16
+a(I960
+S'start_time     : 1499884928\nlast_update    : 1499885890\nfuzzer_pid     : 2586\ncycles_done    : 0\nexecs_done     : 1039130\nexecs_per_sec  : 1087.51\npaths_total    : 134\npaths_favored  : 46\npaths_found    : 133\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 71\npending_favs   : 38\npending_total  : 119\nvariable_paths : 0\nbitmap_cvg     : 0.78%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499885879\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sensr/input -o /dev/shm/work/Sensr/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sensr/Sensr.dict -- data/linux/processed-challenges/Sensr/bin/Sensr\n'
+p17
+I5
+tp18
+a(I1080
+S'start_time     : 1499884928\nlast_update    : 1499886010\nfuzzer_pid     : 2586\ncycles_done    : 0\nexecs_done     : 1168200\nexecs_per_sec  : 1083.69\npaths_total    : 135\npaths_favored  : 49\npaths_found    : 134\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 75\npending_favs   : 39\npending_total  : 117\nvariable_paths : 0\nbitmap_cvg     : 0.78%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499885981\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sensr/input -o /dev/shm/work/Sensr/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sensr/Sensr.dict -- data/linux/processed-challenges/Sensr/bin/Sensr\n'
+p19
+I1
+tp20
+a(I1200
+S'start_time     : 1499884928\nlast_update    : 1499886131\nfuzzer_pid     : 2586\ncycles_done    : 0\nexecs_done     : 1296259\nexecs_per_sec  : 1092.34\npaths_total    : 143\npaths_favored  : 53\npaths_found    : 142\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 83\npending_favs   : 40\npending_total  : 122\nvariable_paths : 0\nbitmap_cvg     : 0.79%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499886119\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sensr/input -o /dev/shm/work/Sensr/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sensr/Sensr.dict -- data/linux/processed-challenges/Sensr/bin/Sensr\n'
+p21
+I9
+tp22
+a(I1320
+S'start_time     : 1499884928\nlast_update    : 1499886251\nfuzzer_pid     : 2586\ncycles_done    : 0\nexecs_done     : 1421592\nexecs_per_sec  : 1043.45\npaths_total    : 153\npaths_favored  : 53\npaths_found    : 152\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 87\npending_favs   : 42\npending_total  : 131\nvariable_paths : 0\nbitmap_cvg     : 0.79%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499886221\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sensr/input -o /dev/shm/work/Sensr/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sensr/Sensr.dict -- data/linux/processed-challenges/Sensr/bin/Sensr\n'
+p23
+I10
+tp24
+a(I1440
+S'start_time     : 1499884928\nlast_update    : 1499886371\nfuzzer_pid     : 2586\ncycles_done    : 0\nexecs_done     : 1548522\nexecs_per_sec  : 1113.79\npaths_total    : 167\npaths_favored  : 56\npaths_found    : 166\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 88\npending_favs   : 44\npending_total  : 144\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499886360\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sensr/input -o /dev/shm/work/Sensr/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sensr/Sensr.dict -- data/linux/processed-challenges/Sensr/bin/Sensr\n'
+p25
+I13
+tp26
+a(I1560
+S'start_time     : 1499884928\nlast_update    : 1499886491\nfuzzer_pid     : 2586\ncycles_done    : 0\nexecs_done     : 1673385\nexecs_per_sec  : 1046.96\npaths_total    : 181\npaths_favored  : 58\npaths_found    : 180\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 89\npending_favs   : 46\npending_total  : 157\nvariable_paths : 0\nbitmap_cvg     : 0.81%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499886482\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sensr/input -o /dev/shm/work/Sensr/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sensr/Sensr.dict -- data/linux/processed-challenges/Sensr/bin/Sensr\n'
+p27
+I15
+tp28
+a(I1680
+S'start_time     : 1499884928\nlast_update    : 1499886611\nfuzzer_pid     : 2586\ncycles_done    : 0\nexecs_done     : 1799328\nexecs_per_sec  : 1050.70\npaths_total    : 185\npaths_favored  : 64\npaths_found    : 184\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 97\npending_favs   : 53\npending_total  : 159\nvariable_paths : 0\nbitmap_cvg     : 0.81%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499886549\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sensr/input -o /dev/shm/work/Sensr/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sensr/Sensr.dict -- data/linux/processed-challenges/Sensr/bin/Sensr\n'
+p29
+I3
+tp30
+a(I1800
+S'start_time     : 1499884928\nlast_update    : 1499886731\nfuzzer_pid     : 2586\ncycles_done    : 0\nexecs_done     : 1928681\nexecs_per_sec  : 1141.68\npaths_total    : 186\npaths_favored  : 65\npaths_found    : 185\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 104\npending_favs   : 48\npending_total  : 154\nvariable_paths : 0\nbitmap_cvg     : 0.81%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499886650\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sensr/input -o /dev/shm/work/Sensr/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sensr/Sensr.dict -- data/linux/processed-challenges/Sensr/bin/Sensr\n'
+p31
+I1
+tp32
+a(I1920
+S'start_time     : 1499884928\nlast_update    : 1499886851\nfuzzer_pid     : 2586\ncycles_done    : 0\nexecs_done     : 2056558\nexecs_per_sec  : 1122.58\npaths_total    : 189\npaths_favored  : 65\npaths_found    : 188\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 111\npending_favs   : 44\npending_total  : 153\nvariable_paths : 0\nbitmap_cvg     : 0.81%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499886851\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sensr/input -o /dev/shm/work/Sensr/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sensr/Sensr.dict -- data/linux/processed-challenges/Sensr/bin/Sensr\n'
+p33
+I3
+tp34
+a(I2040
+S'start_time     : 1499884928\nlast_update    : 1499886972\nfuzzer_pid     : 2586\ncycles_done    : 0\nexecs_done     : 2180545\nexecs_per_sec  : 1020.15\npaths_total    : 192\npaths_favored  : 65\npaths_found    : 191\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 116\npending_favs   : 41\npending_total  : 152\nvariable_paths : 0\nbitmap_cvg     : 0.81%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499886959\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sensr/input -o /dev/shm/work/Sensr/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sensr/Sensr.dict -- data/linux/processed-challenges/Sensr/bin/Sensr\n'
+p35
+I3
+tp36
+a(I2160
+S'start_time     : 1499884928\nlast_update    : 1499887092\nfuzzer_pid     : 2586\ncycles_done    : 0\nexecs_done     : 2302587\nexecs_per_sec  : 1027.97\npaths_total    : 195\npaths_favored  : 65\npaths_found    : 194\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 122\npending_favs   : 38\npending_total  : 152\nvariable_paths : 0\nbitmap_cvg     : 0.81%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499887066\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sensr/input -o /dev/shm/work/Sensr/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sensr/Sensr.dict -- data/linux/processed-challenges/Sensr/bin/Sensr\n'
+p37
+I3
+tp38
+a(I2280
+S'start_time     : 1499884928\nlast_update    : 1499887212\nfuzzer_pid     : 2586\ncycles_done    : 0\nexecs_done     : 2428532\nexecs_per_sec  : 1021.37\npaths_total    : 198\npaths_favored  : 66\npaths_found    : 197\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 125\npending_favs   : 38\npending_total  : 153\nvariable_paths : 0\nbitmap_cvg     : 0.82%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499887191\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sensr/input -o /dev/shm/work/Sensr/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sensr/Sensr.dict -- data/linux/processed-challenges/Sensr/bin/Sensr\n'
+p39
+I3
+tp40
+a(I2400
+S'start_time     : 1499884928\nlast_update    : 1499887332\nfuzzer_pid     : 2586\ncycles_done    : 0\nexecs_done     : 2556908\nexecs_per_sec  : 1105.69\npaths_total    : 201\npaths_favored  : 67\npaths_found    : 200\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 131\npending_favs   : 36\npending_total  : 153\nvariable_paths : 0\nbitmap_cvg     : 0.82%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499887324\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sensr/input -o /dev/shm/work/Sensr/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sensr/Sensr.dict -- data/linux/processed-challenges/Sensr/bin/Sensr\n'
+p41
+I3
+tp42
+a(I2520
+S'start_time     : 1499884928\nlast_update    : 1499887452\nfuzzer_pid     : 2586\ncycles_done    : 0\nexecs_done     : 2686905\nexecs_per_sec  : 1060.73\npaths_total    : 204\npaths_favored  : 67\npaths_found    : 203\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 131\npending_favs   : 36\npending_total  : 156\nvariable_paths : 0\nbitmap_cvg     : 0.82%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499887404\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sensr/input -o /dev/shm/work/Sensr/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sensr/Sensr.dict -- data/linux/processed-challenges/Sensr/bin/Sensr\n'
+p43
+I3
+tp44
+a(I2640
+S'start_time     : 1499884928\nlast_update    : 1499887573\nfuzzer_pid     : 2586\ncycles_done    : 0\nexecs_done     : 2812466\nexecs_per_sec  : 1048.60\npaths_total    : 205\npaths_favored  : 70\npaths_found    : 204\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 137\npending_favs   : 37\npending_total  : 154\nvariable_paths : 0\nbitmap_cvg     : 0.82%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499887472\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sensr/input -o /dev/shm/work/Sensr/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sensr/Sensr.dict -- data/linux/processed-challenges/Sensr/bin/Sensr\n'
+p45
+I1
+tp46
+a(I2760
+S'start_time     : 1499884928\nlast_update    : 1499887693\nfuzzer_pid     : 2586\ncycles_done    : 0\nexecs_done     : 2940666\nexecs_per_sec  : 1055.44\npaths_total    : 208\npaths_favored  : 71\npaths_found    : 207\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 139\npending_favs   : 36\npending_total  : 155\nvariable_paths : 0\nbitmap_cvg     : 0.83%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499887658\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sensr/input -o /dev/shm/work/Sensr/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sensr/Sensr.dict -- data/linux/processed-challenges/Sensr/bin/Sensr\n'
+p47
+I3
+tp48
+a(I2880
+S'start_time     : 1499884928\nlast_update    : 1499887813\nfuzzer_pid     : 2586\ncycles_done    : 0\nexecs_done     : 3069232\nexecs_per_sec  : 1064.75\npaths_total    : 210\npaths_favored  : 72\npaths_found    : 209\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 143\npending_favs   : 34\npending_total  : 154\nvariable_paths : 0\nbitmap_cvg     : 0.83%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499887807\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sensr/input -o /dev/shm/work/Sensr/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sensr/Sensr.dict -- data/linux/processed-challenges/Sensr/bin/Sensr\n'
+p49
+I2
+tp50
+a(I3000
+S'start_time     : 1499884928\nlast_update    : 1499887933\nfuzzer_pid     : 2586\ncycles_done    : 0\nexecs_done     : 3195943\nexecs_per_sec  : 1046.97\npaths_total    : 211\npaths_favored  : 72\npaths_found    : 210\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 150\npending_favs   : 32\npending_total  : 153\nvariable_paths : 0\nbitmap_cvg     : 0.83%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499887892\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sensr/input -o /dev/shm/work/Sensr/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sensr/Sensr.dict -- data/linux/processed-challenges/Sensr/bin/Sensr\n'
+p51
+I1
+tp52
+a(I3120
+S'start_time     : 1499884928\nlast_update    : 1499888054\nfuzzer_pid     : 2586\ncycles_done    : 0\nexecs_done     : 3327407\nexecs_per_sec  : 1044.87\npaths_total    : 215\npaths_favored  : 73\npaths_found    : 214\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 152\npending_favs   : 31\npending_total  : 155\nvariable_paths : 0\nbitmap_cvg     : 0.83%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499888051\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sensr/input -o /dev/shm/work/Sensr/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sensr/Sensr.dict -- data/linux/processed-challenges/Sensr/bin/Sensr\n'
+p53
+I4
+tp54
+a(I3240
+S'start_time     : 1499884928\nlast_update    : 1499888174\nfuzzer_pid     : 2586\ncycles_done    : 0\nexecs_done     : 3453935\nexecs_per_sec  : 1053.96\npaths_total    : 219\npaths_favored  : 74\npaths_found    : 218\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 156\npending_favs   : 32\npending_total  : 158\nvariable_paths : 0\nbitmap_cvg     : 0.83%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499888149\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sensr/input -o /dev/shm/work/Sensr/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sensr/Sensr.dict -- data/linux/processed-challenges/Sensr/bin/Sensr\n'
+p55
+I4
+tp56
+a(I3360
+S'start_time     : 1499884928\nlast_update    : 1499888294\nfuzzer_pid     : 2586\ncycles_done    : 0\nexecs_done     : 3579666\nexecs_per_sec  : 1035.82\npaths_total    : 222\npaths_favored  : 74\npaths_found    : 221\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 161\npending_favs   : 32\npending_total  : 160\nvariable_paths : 0\nbitmap_cvg     : 0.84%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499888277\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sensr/input -o /dev/shm/work/Sensr/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sensr/Sensr.dict -- data/linux/processed-challenges/Sensr/bin/Sensr\n'
+p57
+I3
+tp58
+a(I3480
+S'start_time     : 1499884928\nlast_update    : 1499888414\nfuzzer_pid     : 2586\ncycles_done    : 0\nexecs_done     : 3709741\nexecs_per_sec  : 1058.79\npaths_total    : 224\npaths_favored  : 75\npaths_found    : 223\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 163\npending_favs   : 33\npending_total  : 160\nvariable_paths : 0\nbitmap_cvg     : 0.84%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499888318\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sensr/input -o /dev/shm/work/Sensr/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sensr/Sensr.dict -- data/linux/processed-challenges/Sensr/bin/Sensr\n'
+p59
+I2
+tp60
+a(I3600
+S'start_time     : 1499884928\nlast_update    : 1499888534\nfuzzer_pid     : 2586\ncycles_done    : 0\nexecs_done     : 3838260\nexecs_per_sec  : 1077.46\npaths_total    : 226\npaths_favored  : 76\npaths_found    : 225\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 174\npending_favs   : 31\npending_total  : 158\nvariable_paths : 0\nbitmap_cvg     : 0.84%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499888463\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sensr/input -o /dev/shm/work/Sensr/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sensr/Sensr.dict -- data/linux/processed-challenges/Sensr/bin/Sensr\n'
+p61
+I2
+tp62
+a(I3720
+S'start_time     : 1499884928\nlast_update    : 1499888655\nfuzzer_pid     : 2586\ncycles_done    : 0\nexecs_done     : 3966397\nexecs_per_sec  : 1073.79\npaths_total    : 241\npaths_favored  : 76\npaths_found    : 240\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 174\npending_favs   : 31\npending_total  : 173\nvariable_paths : 0\nbitmap_cvg     : 0.84%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499888633\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sensr/input -o /dev/shm/work/Sensr/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sensr/Sensr.dict -- data/linux/processed-challenges/Sensr/bin/Sensr\n'
+p63
+I15
+tp64
+a(I3840
+S'start_time     : 1499884928\nlast_update    : 1499888775\nfuzzer_pid     : 2586\ncycles_done    : 0\nexecs_done     : 4093868\nexecs_per_sec  : 1054.59\npaths_total    : 242\npaths_favored  : 82\npaths_found    : 241\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 177\npending_favs   : 35\npending_total  : 171\nvariable_paths : 0\nbitmap_cvg     : 0.84%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499888659\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sensr/input -o /dev/shm/work/Sensr/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sensr/Sensr.dict -- data/linux/processed-challenges/Sensr/bin/Sensr\n'
+p65
+I1
+tp66
+a(I3960
+S'start_time     : 1499884928\nlast_update    : 1499888895\nfuzzer_pid     : 2586\ncycles_done    : 0\nexecs_done     : 4217611\nexecs_per_sec  : 1010.28\npaths_total    : 245\npaths_favored  : 81\npaths_found    : 244\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 186\npending_favs   : 32\npending_total  : 171\nvariable_paths : 0\nbitmap_cvg     : 0.85%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499888868\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sensr/input -o /dev/shm/work/Sensr/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sensr/Sensr.dict -- data/linux/processed-challenges/Sensr/bin/Sensr\n'
+p67
+I3
+tp68
+a(I4080
+S'start_time     : 1499884928\nlast_update    : 1499889015\nfuzzer_pid     : 2586\ncycles_done    : 0\nexecs_done     : 4341397\nexecs_per_sec  : 1033.68\npaths_total    : 246\npaths_favored  : 81\npaths_found    : 245\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 195\npending_favs   : 29\npending_total  : 169\nvariable_paths : 0\nbitmap_cvg     : 0.85%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499888938\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sensr/input -o /dev/shm/work/Sensr/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sensr/Sensr.dict -- data/linux/processed-challenges/Sensr/bin/Sensr\n'
+p69
+I1
+tp70
+a(I4200
+S'start_time     : 1499884928\nlast_update    : 1499889136\nfuzzer_pid     : 2586\ncycles_done    : 0\nexecs_done     : 4465372\nexecs_per_sec  : 1037.39\npaths_total    : 246\npaths_favored  : 81\npaths_found    : 245\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 198\npending_favs   : 26\npending_total  : 166\nvariable_paths : 0\nbitmap_cvg     : 0.85%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499888938\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sensr/input -o /dev/shm/work/Sensr/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sensr/Sensr.dict -- data/linux/processed-challenges/Sensr/bin/Sensr\n'
+p71
+I0
+tp72
+a(I4320
+S'start_time     : 1499884928\nlast_update    : 1499889256\nfuzzer_pid     : 2586\ncycles_done    : 0\nexecs_done     : 4592473\nexecs_per_sec  : 1044.24\npaths_total    : 246\npaths_favored  : 81\npaths_found    : 245\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 204\npending_favs   : 23\npending_total  : 163\nvariable_paths : 0\nbitmap_cvg     : 0.85%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499888938\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sensr/input -o /dev/shm/work/Sensr/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sensr/Sensr.dict -- data/linux/processed-challenges/Sensr/bin/Sensr\n'
+p73
+I0
+tp74
+a(I4440
+S'start_time     : 1499884928\nlast_update    : 1499889376\nfuzzer_pid     : 2586\ncycles_done    : 0\nexecs_done     : 4717424\nexecs_per_sec  : 1007.35\npaths_total    : 246\npaths_favored  : 81\npaths_found    : 245\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 207\npending_favs   : 21\npending_total  : 161\nvariable_paths : 0\nbitmap_cvg     : 0.85%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499888938\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sensr/input -o /dev/shm/work/Sensr/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sensr/Sensr.dict -- data/linux/processed-challenges/Sensr/bin/Sensr\n'
+p75
+I0
+tp76
+a(I4560
+S'start_time     : 1499884928\nlast_update    : 1499889496\nfuzzer_pid     : 2586\ncycles_done    : 0\nexecs_done     : 4847322\nexecs_per_sec  : 1163.08\npaths_total    : 246\npaths_favored  : 81\npaths_found    : 245\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 212\npending_favs   : 18\npending_total  : 158\nvariable_paths : 0\nbitmap_cvg     : 0.85%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499888938\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sensr/input -o /dev/shm/work/Sensr/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sensr/Sensr.dict -- data/linux/processed-challenges/Sensr/bin/Sensr\n'
+p77
+I0
+tp78
+a(I4680
+S'start_time     : 1499884928\nlast_update    : 1499889616\nfuzzer_pid     : 2586\ncycles_done    : 0\nexecs_done     : 4973883\nexecs_per_sec  : 1024.30\npaths_total    : 246\npaths_favored  : 81\npaths_found    : 245\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 220\npending_favs   : 16\npending_total  : 156\nvariable_paths : 0\nbitmap_cvg     : 0.85%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499888938\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sensr/input -o /dev/shm/work/Sensr/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sensr/Sensr.dict -- data/linux/processed-challenges/Sensr/bin/Sensr\n'
+p79
+I0
+tp80
+a(I4800
+S'start_time     : 1499884928\nlast_update    : 1499889737\nfuzzer_pid     : 2586\ncycles_done    : 0\nexecs_done     : 5104850\nexecs_per_sec  : 1107.48\npaths_total    : 248\npaths_favored  : 81\npaths_found    : 247\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 224\npending_favs   : 14\npending_total  : 156\nvariable_paths : 0\nbitmap_cvg     : 0.85%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499889721\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sensr/input -o /dev/shm/work/Sensr/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sensr/Sensr.dict -- data/linux/processed-challenges/Sensr/bin/Sensr\n'
+p81
+I2
+tp82
+a(I4920
+S'start_time     : 1499884928\nlast_update    : 1499889857\nfuzzer_pid     : 2586\ncycles_done    : 0\nexecs_done     : 5231744\nexecs_per_sec  : 1062.89\npaths_total    : 249\npaths_favored  : 81\npaths_found    : 248\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 228\npending_favs   : 12\npending_total  : 154\nvariable_paths : 0\nbitmap_cvg     : 0.85%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499889789\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sensr/input -o /dev/shm/work/Sensr/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sensr/Sensr.dict -- data/linux/processed-challenges/Sensr/bin/Sensr\n'
+p83
+I1
+tp84
+a(I5040
+S'start_time     : 1499884928\nlast_update    : 1499889977\nfuzzer_pid     : 2586\ncycles_done    : 0\nexecs_done     : 5362178\nexecs_per_sec  : 1083.06\npaths_total    : 252\npaths_favored  : 82\npaths_found    : 251\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 232\npending_favs   : 12\npending_total  : 155\nvariable_paths : 0\nbitmap_cvg     : 0.85%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499889876\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sensr/input -o /dev/shm/work/Sensr/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sensr/Sensr.dict -- data/linux/processed-challenges/Sensr/bin/Sensr\n'
+p85
+I3
+tp86
+a(I5160
+S'start_time     : 1499884928\nlast_update    : 1499890097\nfuzzer_pid     : 2586\ncycles_done    : 0\nexecs_done     : 5484406\nexecs_per_sec  : 1038.08\npaths_total    : 260\npaths_favored  : 82\npaths_found    : 259\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 233\npending_favs   : 11\npending_total  : 162\nvariable_paths : 0\nbitmap_cvg     : 0.85%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499890083\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sensr/input -o /dev/shm/work/Sensr/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sensr/Sensr.dict -- data/linux/processed-challenges/Sensr/bin/Sensr\n'
+p87
+I8
+tp88
+a(I5280
+S'start_time     : 1499884928\nlast_update    : 1499890218\nfuzzer_pid     : 2586\ncycles_done    : 0\nexecs_done     : 5607730\nexecs_per_sec  : 1033.31\npaths_total    : 263\npaths_favored  : 83\npaths_found    : 262\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 238\npending_favs   : 13\npending_total  : 163\nvariable_paths : 0\nbitmap_cvg     : 0.85%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499890139\nlast_crash     : 0\nlast_hang      : 1499890152\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sensr/input -o /dev/shm/work/Sensr/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sensr/Sensr.dict -- data/linux/processed-challenges/Sensr/bin/Sensr\n'
+p89
+I3
+tp90
+a(I5400
+S'start_time     : 1499884928\nlast_update    : 1499890338\nfuzzer_pid     : 2586\ncycles_done    : 0\nexecs_done     : 5735734\nexecs_per_sec  : 1094.70\npaths_total    : 265\npaths_favored  : 83\npaths_found    : 264\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 247\npending_favs   : 11\npending_total  : 163\nvariable_paths : 0\nbitmap_cvg     : 0.85%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499890244\nlast_crash     : 0\nlast_hang      : 1499890152\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sensr/input -o /dev/shm/work/Sensr/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sensr/Sensr.dict -- data/linux/processed-challenges/Sensr/bin/Sensr\n'
+p91
+I2
+tp92
+a(I5520
+S'start_time     : 1499884928\nlast_update    : 1499890458\nfuzzer_pid     : 2586\ncycles_done    : 0\nexecs_done     : 5855786\nexecs_per_sec  : 941.08\npaths_total    : 267\npaths_favored  : 83\npaths_found    : 266\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 256\npending_favs   : 8\npending_total  : 162\nvariable_paths : 0\nbitmap_cvg     : 0.85%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499890453\nlast_crash     : 0\nlast_hang      : 1499890152\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sensr/input -o /dev/shm/work/Sensr/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sensr/Sensr.dict -- data/linux/processed-challenges/Sensr/bin/Sensr\n'
+p93
+I2
+tp94
+a(I5640
+S'start_time     : 1499884928\nlast_update    : 1499890578\nfuzzer_pid     : 2586\ncycles_done    : 0\nexecs_done     : 5978011\nexecs_per_sec  : 1006.14\npaths_total    : 273\npaths_favored  : 83\npaths_found    : 272\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 256\npending_favs   : 8\npending_total  : 168\nvariable_paths : 0\nbitmap_cvg     : 0.85%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499890508\nlast_crash     : 0\nlast_hang      : 1499890152\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sensr/input -o /dev/shm/work/Sensr/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sensr/Sensr.dict -- data/linux/processed-challenges/Sensr/bin/Sensr\n'
+p95
+I6
+tp96
+a(I5760
+S'start_time     : 1499884928\nlast_update    : 1499890698\nfuzzer_pid     : 2586\ncycles_done    : 0\nexecs_done     : 6101101\nexecs_per_sec  : 1078.14\npaths_total    : 273\npaths_favored  : 83\npaths_found    : 272\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 260\npending_favs   : 6\npending_total  : 166\nvariable_paths : 0\nbitmap_cvg     : 0.85%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499890508\nlast_crash     : 0\nlast_hang      : 1499890152\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sensr/input -o /dev/shm/work/Sensr/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sensr/Sensr.dict -- data/linux/processed-challenges/Sensr/bin/Sensr\n'
+p97
+I0
+tp98
+a(I5880
+S'start_time     : 1499884928\nlast_update    : 1499890818\nfuzzer_pid     : 2586\ncycles_done    : 1\nexecs_done     : 6230375\nexecs_per_sec  : 1115.00\npaths_total    : 279\npaths_favored  : 83\npaths_found    : 278\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 12\npending_favs   : 4\npending_total  : 170\nvariable_paths : 0\nbitmap_cvg     : 0.85%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499890779\nlast_crash     : 0\nlast_hang      : 1499890152\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sensr/input -o /dev/shm/work/Sensr/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sensr/Sensr.dict -- data/linux/processed-challenges/Sensr/bin/Sensr\n'
+p99
+I6
+tp100
+a(I6000
+S'start_time     : 1499884928\nlast_update    : 1499890938\nfuzzer_pid     : 2586\ncycles_done    : 1\nexecs_done     : 6360632\nexecs_per_sec  : 1012.29\npaths_total    : 283\npaths_favored  : 83\npaths_found    : 282\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 44\npending_favs   : 2\npending_total  : 172\nvariable_paths : 0\nbitmap_cvg     : 0.85%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499890886\nlast_crash     : 0\nlast_hang      : 1499890152\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sensr/input -o /dev/shm/work/Sensr/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sensr/Sensr.dict -- data/linux/processed-challenges/Sensr/bin/Sensr\n'
+p101
+I4
+tp102
+a(I6120
+S'start_time     : 1499884928\nlast_update    : 1499890998\nfuzzer_pid     : 2586\ncycles_done    : 1\nexecs_done     : 6422166\nexecs_per_sec  : 1036.50\npaths_total    : 283\npaths_favored  : 83\npaths_found    : 282\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 113\npending_favs   : 1\npending_total  : 170\nvariable_paths : 0\nbitmap_cvg     : 0.85%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499890886\nlast_crash     : 0\nlast_hang      : 1499890152\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sensr/input -o /dev/shm/work/Sensr/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sensr/Sensr.dict -- data/linux/processed-challenges/Sensr/bin/Sensr\n'
+p103
+I1
+tp104
+a(I6240
+S'start_time     : 1499884928\nlast_update    : 1499891119\nfuzzer_pid     : 2586\ncycles_done    : 1\nexecs_done     : 6545630\nexecs_per_sec  : 1061.16\npaths_total    : 284\npaths_favored  : 83\npaths_found    : 283\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 130\npending_favs   : 0\npending_total  : 169\nvariable_paths : 0\nbitmap_cvg     : 0.85%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499891005\nlast_crash     : 0\nlast_hang      : 1499890152\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sensr/input -o /dev/shm/work/Sensr/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sensr/Sensr.dict -- data/linux/processed-challenges/Sensr/bin/Sensr\n'
+p105
+I2
+tp106
+a(I6360
+S'start_time     : 1499884928\nlast_update    : 1499891239\nfuzzer_pid     : 2586\ncycles_done    : 1\nexecs_done     : 6673108\nexecs_per_sec  : 1076.21\npaths_total    : 286\npaths_favored  : 84\npaths_found    : 285\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 219\npending_favs   : 1\npending_total  : 171\nvariable_paths : 0\nbitmap_cvg     : 0.86%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499891176\nlast_crash     : 0\nlast_hang      : 1499890152\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sensr/input -o /dev/shm/work/Sensr/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sensr/Sensr.dict -- data/linux/processed-challenges/Sensr/bin/Sensr\n'
+p107
+I9
+tp108
+a(I6480
+S'start_time     : 1499884928\nlast_update    : 1499891359\nfuzzer_pid     : 2586\ncycles_done    : 1\nexecs_done     : 6801421\nexecs_per_sec  : 1075.21\npaths_total    : 295\npaths_favored  : 84\npaths_found    : 294\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 219\npending_favs   : 1\npending_total  : 180\nvariable_paths : 0\nbitmap_cvg     : 0.86%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499891293\nlast_crash     : 0\nlast_hang      : 1499890152\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sensr/input -o /dev/shm/work/Sensr/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sensr/Sensr.dict -- data/linux/processed-challenges/Sensr/bin/Sensr\n'
+p109
+I1
+tp110
+a(I6600
+S'start_time     : 1499884928\nlast_update    : 1499891479\nfuzzer_pid     : 2586\ncycles_done    : 1\nexecs_done     : 6922795\nexecs_per_sec  : 1007.50\npaths_total    : 303\npaths_favored  : 84\npaths_found    : 302\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 270\npending_favs   : 1\npending_total  : 187\nvariable_paths : 0\nbitmap_cvg     : 0.86%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499891468\nlast_crash     : 0\nlast_hang      : 1499890152\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sensr/input -o /dev/shm/work/Sensr/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sensr/Sensr.dict -- data/linux/processed-challenges/Sensr/bin/Sensr\n'
+p111
+I9
+tp112
+a(I6720
+S'start_time     : 1499884928\nlast_update    : 1499891599\nfuzzer_pid     : 2586\ncycles_done    : 1\nexecs_done     : 7045725\nexecs_per_sec  : 1043.54\npaths_total    : 306\npaths_favored  : 84\npaths_found    : 305\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 270\npending_favs   : 1\npending_total  : 190\nvariable_paths : 0\nbitmap_cvg     : 0.86%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499891588\nlast_crash     : 0\nlast_hang      : 1499890152\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sensr/input -o /dev/shm/work/Sensr/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sensr/Sensr.dict -- data/linux/processed-challenges/Sensr/bin/Sensr\n'
+p113
+I1
+tp114
+a(I6840
+S'start_time     : 1499884928\nlast_update    : 1499891720\nfuzzer_pid     : 2586\ncycles_done    : 1\nexecs_done     : 7179266\nexecs_per_sec  : 1067.74\npaths_total    : 306\npaths_favored  : 84\npaths_found    : 305\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 285\npending_favs   : 1\npending_total  : 188\nvariable_paths : 0\nbitmap_cvg     : 0.86%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499891588\nlast_crash     : 0\nlast_hang      : 1499890152\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sensr/input -o /dev/shm/work/Sensr/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sensr/Sensr.dict -- data/linux/processed-challenges/Sensr/bin/Sensr\n'
+p115
+I3
+tp116
+a(I6960
+S'start_time     : 1499884928\nlast_update    : 1499891840\nfuzzer_pid     : 2586\ncycles_done    : 1\nexecs_done     : 7295559\nexecs_per_sec  : 996.60\npaths_total    : 309\npaths_favored  : 84\npaths_found    : 308\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 285\npending_favs   : 1\npending_total  : 191\nvariable_paths : 0\nbitmap_cvg     : 0.87%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499891772\nlast_crash     : 0\nlast_hang      : 1499890152\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sensr/input -o /dev/shm/work/Sensr/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sensr/Sensr.dict -- data/linux/processed-challenges/Sensr/bin/Sensr\n'
+p117
+I0
+tp118
+a(I7080
+S'start_time     : 1499884928\nlast_update    : 1499891960\nfuzzer_pid     : 2586\ncycles_done    : 1\nexecs_done     : 7410212\nexecs_per_sec  : 955.41\npaths_total    : 309\npaths_favored  : 83\npaths_found    : 308\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 308\npending_favs   : 1\npending_total  : 190\nvariable_paths : 0\nbitmap_cvg     : 0.87%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499891772\nlast_crash     : 0\nlast_hang      : 1499890152\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sensr/input -o /dev/shm/work/Sensr/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sensr/Sensr.dict -- data/linux/processed-challenges/Sensr/bin/Sensr\n'
+p119
+I1
+tp120
+a(I7200
+S'start_time     : 1499884928\nlast_update    : 1499892080\nfuzzer_pid     : 2586\ncycles_done    : 1\nexecs_done     : 7525666\nexecs_per_sec  : 972.24\npaths_total    : 310\npaths_favored  : 83\npaths_found    : 309\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 309\npending_favs   : 0\npending_total  : 190\nvariable_paths : 0\nbitmap_cvg     : 0.87%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499891979\nlast_crash     : 0\nlast_hang      : 1499890152\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sensr/input -o /dev/shm/work/Sensr/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sensr/Sensr.dict -- data/linux/processed-challenges/Sensr/bin/Sensr\n'
+p121
+I4
+tp122
+a(I7320
+S'start_time     : 1499884928\nlast_update    : 1499892200\nfuzzer_pid     : 2586\ncycles_done    : 1\nexecs_done     : 7640842\nexecs_per_sec  : 960.51\npaths_total    : 316\npaths_favored  : 83\npaths_found    : 315\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 309\npending_favs   : 0\npending_total  : 196\nvariable_paths : 0\nbitmap_cvg     : 0.87%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499892177\nlast_crash     : 0\nlast_hang      : 1499890152\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sensr/input -o /dev/shm/work/Sensr/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sensr/Sensr.dict -- data/linux/processed-challenges/Sensr/bin/Sensr\n'
+p123
+I2
+tp124
+a(I7440
+S'start_time     : 1499884928\nlast_update    : 1499892321\nfuzzer_pid     : 2586\ncycles_done    : 2\nexecs_done     : 7763821\nexecs_per_sec  : 945.75\npaths_total    : 317\npaths_favored  : 84\npaths_found    : 316\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 298\npending_favs   : 1\npending_total  : 194\nvariable_paths : 0\nbitmap_cvg     : 0.87%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499892296\nlast_crash     : 0\nlast_hang      : 1499890152\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sensr/input -o /dev/shm/work/Sensr/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sensr/Sensr.dict -- data/linux/processed-challenges/Sensr/bin/Sensr\n'
+p125
+I2
+tp126
+a(I7560
+S'start_time     : 1499884928\nlast_update    : 1499892441\nfuzzer_pid     : 2586\ncycles_done    : 2\nexecs_done     : 7883038\nexecs_per_sec  : 1000.38\npaths_total    : 338\npaths_favored  : 84\npaths_found    : 337\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 298\npending_favs   : 1\npending_total  : 215\nvariable_paths : 0\nbitmap_cvg     : 0.87%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499892432\nlast_crash     : 0\nlast_hang      : 1499890152\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sensr/input -o /dev/shm/work/Sensr/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sensr/Sensr.dict -- data/linux/processed-challenges/Sensr/bin/Sensr\n'
+p127
+I25
+tp128
+a(I7680
+S'start_time     : 1499884928\nlast_update    : 1499892561\nfuzzer_pid     : 2586\ncycles_done    : 2\nexecs_done     : 8003659\nexecs_per_sec  : 962.29\npaths_total    : 344\npaths_favored  : 83\npaths_found    : 343\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 310\npending_favs   : 2\npending_total  : 220\nvariable_paths : 0\nbitmap_cvg     : 0.87%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499892533\nlast_crash     : 0\nlast_hang      : 1499890152\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sensr/input -o /dev/shm/work/Sensr/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sensr/Sensr.dict -- data/linux/processed-challenges/Sensr/bin/Sensr\n'
+p129
+I1
+tp130
+a(I7800
+S'start_time     : 1499884928\nlast_update    : 1499892681\nfuzzer_pid     : 2586\ncycles_done    : 2\nexecs_done     : 8118141\nexecs_per_sec  : 962.38\npaths_total    : 344\npaths_favored  : 83\npaths_found    : 343\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 310\npending_favs   : 2\npending_total  : 220\nvariable_paths : 0\nbitmap_cvg     : 0.87%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499892533\nlast_crash     : 0\nlast_hang      : 1499890152\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sensr/input -o /dev/shm/work/Sensr/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sensr/Sensr.dict -- data/linux/processed-challenges/Sensr/bin/Sensr\n'
+p131
+I6
+tp132
+a(I7920
+S'start_time     : 1499884928\nlast_update    : 1499892802\nfuzzer_pid     : 2586\ncycles_done    : 2\nexecs_done     : 8236021\nexecs_per_sec  : 1001.64\npaths_total    : 354\npaths_favored  : 83\npaths_found    : 353\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 310\npending_favs   : 2\npending_total  : 230\nvariable_paths : 0\nbitmap_cvg     : 0.87%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499892759\nlast_crash     : 0\nlast_hang      : 1499890152\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sensr/input -o /dev/shm/work/Sensr/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sensr/Sensr.dict -- data/linux/processed-challenges/Sensr/bin/Sensr\n'
+p133
+I7
+tp134
+a(I8040
+S'start_time     : 1499884928\nlast_update    : 1499892922\nfuzzer_pid     : 2586\ncycles_done    : 2\nexecs_done     : 8356021\nexecs_per_sec  : 989.34\npaths_total    : 357\npaths_favored  : 83\npaths_found    : 356\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 317\npending_favs   : 2\npending_total  : 232\nvariable_paths : 0\nbitmap_cvg     : 0.87%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499892832\nlast_crash     : 0\nlast_hang      : 1499890152\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sensr/input -o /dev/shm/work/Sensr/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sensr/Sensr.dict -- data/linux/processed-challenges/Sensr/bin/Sensr\n'
+p135
+I0
+tp136
+a(I8160
+S'start_time     : 1499884928\nlast_update    : 1499893042\nfuzzer_pid     : 2586\ncycles_done    : 2\nexecs_done     : 8478077\nexecs_per_sec  : 1000.82\npaths_total    : 357\npaths_favored  : 83\npaths_found    : 356\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 317\npending_favs   : 2\npending_total  : 232\nvariable_paths : 0\nbitmap_cvg     : 0.87%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499892832\nlast_crash     : 0\nlast_hang      : 1499890152\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sensr/input -o /dev/shm/work/Sensr/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sensr/Sensr.dict -- data/linux/processed-challenges/Sensr/bin/Sensr\n'
+p137
+I0
+tp138
+a(I8280
+S'start_time     : 1499884928\nlast_update    : 1499893162\nfuzzer_pid     : 2586\ncycles_done    : 2\nexecs_done     : 8594585\nexecs_per_sec  : 869.21\npaths_total    : 361\npaths_favored  : 83\npaths_found    : 360\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 333\npending_favs   : 1\npending_total  : 235\nvariable_paths : 0\nbitmap_cvg     : 0.87%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499893144\nlast_crash     : 0\nlast_hang      : 1499890152\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sensr/input -o /dev/shm/work/Sensr/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sensr/Sensr.dict -- data/linux/processed-challenges/Sensr/bin/Sensr\n'
+p139
+I5
+tp140
+a(I8400
+S'start_time     : 1499884928\nlast_update    : 1499893282\nfuzzer_pid     : 2586\ncycles_done    : 2\nexecs_done     : 8697145\nexecs_per_sec  : 841.31\npaths_total    : 362\npaths_favored  : 83\npaths_found    : 361\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 333\npending_favs   : 1\npending_total  : 236\nvariable_paths : 0\nbitmap_cvg     : 0.87%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499893183\nlast_crash     : 0\nlast_hang      : 1499890152\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sensr/input -o /dev/shm/work/Sensr/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sensr/Sensr.dict -- data/linux/processed-challenges/Sensr/bin/Sensr\n'
+p141
+I0
+tp142
+a(I8520
+S'start_time     : 1499884928\nlast_update    : 1499893402\nfuzzer_pid     : 2586\ncycles_done    : 2\nexecs_done     : 8799567\nexecs_per_sec  : 843.50\npaths_total    : 362\npaths_favored  : 83\npaths_found    : 361\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 333\npending_favs   : 1\npending_total  : 236\nvariable_paths : 0\nbitmap_cvg     : 0.87%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499893183\nlast_crash     : 0\nlast_hang      : 1499890152\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sensr/input -o /dev/shm/work/Sensr/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sensr/Sensr.dict -- data/linux/processed-challenges/Sensr/bin/Sensr\n'
+p143
+I0
+tp144
+a(I8640
+S'start_time     : 1499884928\nlast_update    : 1499893522\nfuzzer_pid     : 2586\ncycles_done    : 2\nexecs_done     : 8902426\nexecs_per_sec  : 866.29\npaths_total    : 362\npaths_favored  : 83\npaths_found    : 361\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 333\npending_favs   : 1\npending_total  : 236\nvariable_paths : 0\nbitmap_cvg     : 0.87%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499893183\nlast_crash     : 0\nlast_hang      : 1499890152\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sensr/input -o /dev/shm/work/Sensr/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sensr/Sensr.dict -- data/linux/processed-challenges/Sensr/bin/Sensr\n'
+p145
+I0
+tp146
+a(I8760
+S'start_time     : 1499884928\nlast_update    : 1499893643\nfuzzer_pid     : 2586\ncycles_done    : 2\nexecs_done     : 9005075\nexecs_per_sec  : 851.72\npaths_total    : 362\npaths_favored  : 83\npaths_found    : 361\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 333\npending_favs   : 1\npending_total  : 236\nvariable_paths : 0\nbitmap_cvg     : 0.87%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499893183\nlast_crash     : 0\nlast_hang      : 1499890152\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sensr/input -o /dev/shm/work/Sensr/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sensr/Sensr.dict -- data/linux/processed-challenges/Sensr/bin/Sensr\n'
+p147
+I1
+tp148
+a(I8880
+S'start_time     : 1499884928\nlast_update    : 1499893763\nfuzzer_pid     : 2586\ncycles_done    : 2\nexecs_done     : 9101150\nexecs_per_sec  : 838.85\npaths_total    : 363\npaths_favored  : 83\npaths_found    : 362\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 333\npending_favs   : 1\npending_total  : 237\nvariable_paths : 0\nbitmap_cvg     : 0.87%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499893694\nlast_crash     : 0\nlast_hang      : 1499890152\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sensr/input -o /dev/shm/work/Sensr/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sensr/Sensr.dict -- data/linux/processed-challenges/Sensr/bin/Sensr\n'
+p149
+I8
+tp150
+a(I9000
+S'start_time     : 1499884928\nlast_update    : 1499893883\nfuzzer_pid     : 2586\ncycles_done    : 2\nexecs_done     : 9205413\nexecs_per_sec  : 883.38\npaths_total    : 374\npaths_favored  : 83\npaths_found    : 373\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 333\npending_favs   : 1\npending_total  : 248\nvariable_paths : 0\nbitmap_cvg     : 0.87%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499893881\nlast_crash     : 0\nlast_hang      : 1499890152\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sensr/input -o /dev/shm/work/Sensr/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sensr/Sensr.dict -- data/linux/processed-challenges/Sensr/bin/Sensr\n'
+p151
+I4
+tp152
+a(I9120
+S'start_time     : 1499884928\nlast_update    : 1499894003\nfuzzer_pid     : 2586\ncycles_done    : 2\nexecs_done     : 9309477\nexecs_per_sec  : 853.79\npaths_total    : 375\npaths_favored  : 83\npaths_found    : 374\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 359\npending_favs   : 1\npending_total  : 248\nvariable_paths : 0\nbitmap_cvg     : 0.87%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499893883\nlast_crash     : 0\nlast_hang      : 1499890152\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sensr/input -o /dev/shm/work/Sensr/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sensr/Sensr.dict -- data/linux/processed-challenges/Sensr/bin/Sensr\n'
+p153
+I0
+tp154
+a(I9240
+S'start_time     : 1499884928\nlast_update    : 1499894123\nfuzzer_pid     : 2586\ncycles_done    : 2\nexecs_done     : 9412984\nexecs_per_sec  : 849.63\npaths_total    : 375\npaths_favored  : 83\npaths_found    : 374\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 359\npending_favs   : 1\npending_total  : 248\nvariable_paths : 0\nbitmap_cvg     : 0.87%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499893883\nlast_crash     : 0\nlast_hang      : 1499890152\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sensr/input -o /dev/shm/work/Sensr/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sensr/Sensr.dict -- data/linux/processed-challenges/Sensr/bin/Sensr\n'
+p155
+I0
+tp156
+a(I9360
+S'start_time     : 1499884928\nlast_update    : 1499894244\nfuzzer_pid     : 2586\ncycles_done    : 2\nexecs_done     : 9515234\nexecs_per_sec  : 859.67\npaths_total    : 375\npaths_favored  : 83\npaths_found    : 374\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 359\npending_favs   : 1\npending_total  : 248\nvariable_paths : 0\nbitmap_cvg     : 0.87%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499893883\nlast_crash     : 0\nlast_hang      : 1499890152\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sensr/input -o /dev/shm/work/Sensr/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sensr/Sensr.dict -- data/linux/processed-challenges/Sensr/bin/Sensr\n'
+p157
+I0
+tp158
+a(I9480
+S'start_time     : 1499884928\nlast_update    : 1499894364\nfuzzer_pid     : 2586\ncycles_done    : 2\nexecs_done     : 9618166\nexecs_per_sec  : 869.58\npaths_total    : 375\npaths_favored  : 83\npaths_found    : 374\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 359\npending_favs   : 1\npending_total  : 248\nvariable_paths : 0\nbitmap_cvg     : 0.87%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499893883\nlast_crash     : 0\nlast_hang      : 1499890152\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sensr/input -o /dev/shm/work/Sensr/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sensr/Sensr.dict -- data/linux/processed-challenges/Sensr/bin/Sensr\n'
+p159
+I0
+tp160
+a(I9600
+S'start_time     : 1499884928\nlast_update    : 1499894484\nfuzzer_pid     : 2586\ncycles_done    : 2\nexecs_done     : 9721907\nexecs_per_sec  : 828.95\npaths_total    : 375\npaths_favored  : 83\npaths_found    : 374\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 359\npending_favs   : 1\npending_total  : 248\nvariable_paths : 0\nbitmap_cvg     : 0.87%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499893883\nlast_crash     : 0\nlast_hang      : 1499890152\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sensr/input -o /dev/shm/work/Sensr/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sensr/Sensr.dict -- data/linux/processed-challenges/Sensr/bin/Sensr\n'
+p161
+I0
+tp162
+a(I9720
+S'start_time     : 1499884928\nlast_update    : 1499894604\nfuzzer_pid     : 2586\ncycles_done    : 2\nexecs_done     : 9816883\nexecs_per_sec  : 830.46\npaths_total    : 375\npaths_favored  : 83\npaths_found    : 374\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 359\npending_favs   : 1\npending_total  : 248\nvariable_paths : 0\nbitmap_cvg     : 0.87%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499893883\nlast_crash     : 0\nlast_hang      : 1499890152\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sensr/input -o /dev/shm/work/Sensr/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sensr/Sensr.dict -- data/linux/processed-challenges/Sensr/bin/Sensr\n'
+p163
+I1
+tp164
+a(I9840
+S'start_time     : 1499884928\nlast_update    : 1499894725\nfuzzer_pid     : 2586\ncycles_done    : 2\nexecs_done     : 9920998\nexecs_per_sec  : 863.03\npaths_total    : 379\npaths_favored  : 83\npaths_found    : 378\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 359\npending_favs   : 1\npending_total  : 252\nvariable_paths : 0\nbitmap_cvg     : 0.87%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499894701\nlast_crash     : 0\nlast_hang      : 1499890152\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sensr/input -o /dev/shm/work/Sensr/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sensr/Sensr.dict -- data/linux/processed-challenges/Sensr/bin/Sensr\n'
+p165
+I3
+tp166
+a(I9960
+S'start_time     : 1499884928\nlast_update    : 1499894845\nfuzzer_pid     : 2586\ncycles_done    : 2\nexecs_done     : 10023692\nexecs_per_sec  : 869.11\npaths_total    : 379\npaths_favored  : 83\npaths_found    : 378\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 361\npending_favs   : 0\npending_total  : 251\nvariable_paths : 0\nbitmap_cvg     : 0.87%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499894701\nlast_crash     : 0\nlast_hang      : 1499890152\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sensr/input -o /dev/shm/work/Sensr/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sensr/Sensr.dict -- data/linux/processed-challenges/Sensr/bin/Sensr\n'
+p167
+I0
+tp168
+a(I10080
+S'start_time     : 1499884928\nlast_update    : 1499894965\nfuzzer_pid     : 2586\ncycles_done    : 2\nexecs_done     : 10127207\nexecs_per_sec  : 858.72\npaths_total    : 379\npaths_favored  : 83\npaths_found    : 378\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 361\npending_favs   : 0\npending_total  : 251\nvariable_paths : 0\nbitmap_cvg     : 0.87%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499894701\nlast_crash     : 0\nlast_hang      : 1499890152\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sensr/input -o /dev/shm/work/Sensr/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sensr/Sensr.dict -- data/linux/processed-challenges/Sensr/bin/Sensr\n'
+p169
+I0
+tp170
+a(I10200
+S'start_time     : 1499884928\nlast_update    : 1499895085\nfuzzer_pid     : 2586\ncycles_done    : 2\nexecs_done     : 10230509\nexecs_per_sec  : 830.27\npaths_total    : 379\npaths_favored  : 83\npaths_found    : 378\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 361\npending_favs   : 0\npending_total  : 251\nvariable_paths : 0\nbitmap_cvg     : 0.87%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499894701\nlast_crash     : 0\nlast_hang      : 1499890152\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sensr/input -o /dev/shm/work/Sensr/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sensr/Sensr.dict -- data/linux/processed-challenges/Sensr/bin/Sensr\n'
+p171
+I0
+tp172
+a(I10320
+S'start_time     : 1499884928\nlast_update    : 1499895205\nfuzzer_pid     : 2586\ncycles_done    : 2\nexecs_done     : 10333405\nexecs_per_sec  : 867.15\npaths_total    : 379\npaths_favored  : 83\npaths_found    : 378\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 361\npending_favs   : 0\npending_total  : 251\nvariable_paths : 0\nbitmap_cvg     : 0.87%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499894701\nlast_crash     : 0\nlast_hang      : 1499890152\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sensr/input -o /dev/shm/work/Sensr/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sensr/Sensr.dict -- data/linux/processed-challenges/Sensr/bin/Sensr\n'
+p173
+I0
+tp174
+a(I10440
+S'start_time     : 1499884928\nlast_update    : 1499895326\nfuzzer_pid     : 2586\ncycles_done    : 2\nexecs_done     : 10436005\nexecs_per_sec  : 821.01\npaths_total    : 379\npaths_favored  : 83\npaths_found    : 378\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 361\npending_favs   : 0\npending_total  : 251\nvariable_paths : 0\nbitmap_cvg     : 0.87%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499894701\nlast_crash     : 0\nlast_hang      : 1499890152\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sensr/input -o /dev/shm/work/Sensr/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sensr/Sensr.dict -- data/linux/processed-challenges/Sensr/bin/Sensr\n'
+p175
+I0
+tp176
+a(I10560
+S'start_time     : 1499884928\nlast_update    : 1499895446\nfuzzer_pid     : 2586\ncycles_done    : 2\nexecs_done     : 10532085\nexecs_per_sec  : 804.13\npaths_total    : 379\npaths_favored  : 83\npaths_found    : 378\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 361\npending_favs   : 0\npending_total  : 251\nvariable_paths : 0\nbitmap_cvg     : 0.87%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499894701\nlast_crash     : 0\nlast_hang      : 1499890152\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sensr/input -o /dev/shm/work/Sensr/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sensr/Sensr.dict -- data/linux/processed-challenges/Sensr/bin/Sensr\n'
+p177
+I1
+tp178
+a(I10680
+S'start_time     : 1499884928\nlast_update    : 1499895566\nfuzzer_pid     : 2586\ncycles_done    : 2\nexecs_done     : 10627979\nexecs_per_sec  : 620.78\npaths_total    : 380\npaths_favored  : 83\npaths_found    : 379\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 363\npending_favs   : 0\npending_total  : 251\nvariable_paths : 0\nbitmap_cvg     : 0.87%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499895454\nlast_crash     : 0\nlast_hang      : 1499890152\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sensr/input -o /dev/shm/work/Sensr/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sensr/Sensr.dict -- data/linux/processed-challenges/Sensr/bin/Sensr\n'
+p179
+I1
+tp180
+a.

@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/libcgc.h
+
+../processed-challenges/Diophantine_Password_Wallet/lib/mylibc.h
+
+/vagrant/driller/data/linux/processed-challenges/Diophantine_Password_Wallet/lib/mylibc.c
+libcgc.h
+-
+mylibc.h
+/vagrant/driller/data/linux/processed-challenges/Diophantine_Password_Wallet/lib/mylibc.h
+
+/vagrant/driller/data/linux/processed-challenges/Diophantine_Password_Wallet/lib/mylibc.h
+
+/vagrant/driller/data/linux/processed-challenges/Diophantine_Password_Wallet/src/main.c
+libcgc.h
+-
+mylibc.h
+/vagrant/driller/data/linux/processed-challenges/Diophantine_Password_Wallet/src/mylibc.h
+

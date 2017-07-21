@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/libcgc.h
+
+../processed-challenges/HIGHCOO/lib/libc.h
+libcgc.h
+-
+
+/vagrant/driller/data/linux/processed-challenges/HIGHCOO/lib/libc.c
+libc.h
+/vagrant/driller/data/linux/processed-challenges/HIGHCOO/lib/libc.h
+
+/vagrant/driller/data/linux/processed-challenges/HIGHCOO/lib/libc.h
+libcgc.h
+-
+
+/vagrant/driller/data/linux/processed-challenges/HIGHCOO/src/operation.c
+libcgc.h
+-
+libc.h
+/vagrant/driller/data/linux/processed-challenges/HIGHCOO/src/libc.h
+operation.h
+/vagrant/driller/data/linux/processed-challenges/HIGHCOO/src/operation.h
+t_operation.h
+/vagrant/driller/data/linux/processed-challenges/HIGHCOO/src/t_operation.h
+
+/vagrant/driller/data/linux/processed-challenges/HIGHCOO/src/operation.h
+
+/vagrant/driller/data/linux/processed-challenges/HIGHCOO/src/service.c
+libcgc.h
+-
+libc.h
+/vagrant/driller/data/linux/processed-challenges/HIGHCOO/src/libc.h
+operation.h
+/vagrant/driller/data/linux/processed-challenges/HIGHCOO/src/operation.h
+service.h
+/vagrant/driller/data/linux/processed-challenges/HIGHCOO/src/service.h
+
+/vagrant/driller/data/linux/processed-challenges/HIGHCOO/src/service.h
+

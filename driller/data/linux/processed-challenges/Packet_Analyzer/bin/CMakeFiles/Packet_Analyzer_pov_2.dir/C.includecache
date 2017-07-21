@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/libcgc.h
+
+../include/libpov/libpov.h
+libcgc.h
+-
+pov/string.h
+-
+pov/stdlib.h
+-
+pov/ctype.h
+-
+pov/pcre.h
+-
+
+../include/libpov/pov/ctype.h
+
+../include/libpov/pov/pcre.h
+pov/stdlib.h
+-
+
+../include/libpov/pov/stdlib.h
+types.h
+../include/libpov/pov/types.h
+
+../include/libpov/pov/string.h
+types.h
+../include/libpov/pov/types.h
+
+../include/libpov/pov/types.h
+libcgc.h
+-
+
+/vagrant/driller/data/linux/processed-challenges/Packet_Analyzer/pov_2/pov.c
+libpov.h
+-
+

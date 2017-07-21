@@ -1,0 +1,452 @@
+(lp0
+(I0
+S'start_time     : 1500306627\nlast_update    : 1500306627\nfuzzer_pid     : 29831\ncycles_done    : 0\nexecs_done     : 10\nexecs_per_sec  : 169.49\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 1\npending_total  : 1\nvariable_paths : 0\nbitmap_cvg     : 0.18%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/middleout/input -o /dev/shm/work/middleout/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/middleout/middleout.dict -- data/linux/processed-challenges/middleout/bin/middleout\n'
+p1
+I15
+tp2
+a(I120
+S'start_time     : 1500306627\nlast_update    : 1500306747\nfuzzer_pid     : 29831\ncycles_done    : 0\nexecs_done     : 120595\nexecs_per_sec  : 998.90\npaths_total    : 24\npaths_favored  : 1\npaths_found    : 23\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 1\npending_total  : 24\nvariable_paths : 0\nbitmap_cvg     : 0.32%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500306745\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/middleout/input -o /dev/shm/work/middleout/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/middleout/middleout.dict -- data/linux/processed-challenges/middleout/bin/middleout\n'
+p3
+I9
+tp4
+a(I240
+S'start_time     : 1500306627\nlast_update    : 1500306867\nfuzzer_pid     : 29831\ncycles_done    : 0\nexecs_done     : 239088\nexecs_per_sec  : 1012.19\npaths_total    : 37\npaths_favored  : 12\npaths_found    : 36\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 17\npending_favs   : 9\npending_total  : 33\nvariable_paths : 0\nbitmap_cvg     : 0.38%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500306838\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/middleout/input -o /dev/shm/work/middleout/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/middleout/middleout.dict -- data/linux/processed-challenges/middleout/bin/middleout\n'
+p5
+I13
+tp6
+a(I360
+S'start_time     : 1500306627\nlast_update    : 1500306987\nfuzzer_pid     : 29831\ncycles_done    : 0\nexecs_done     : 358326\nexecs_per_sec  : 944.44\npaths_total    : 42\npaths_favored  : 17\npaths_found    : 41\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 19\npending_favs   : 13\npending_total  : 36\nvariable_paths : 0\nbitmap_cvg     : 1.04%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500306981\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/middleout/input -o /dev/shm/work/middleout/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/middleout/middleout.dict -- data/linux/processed-challenges/middleout/bin/middleout\n'
+p7
+I5
+tp8
+a(I480
+S'start_time     : 1500306627\nlast_update    : 1500307108\nfuzzer_pid     : 29831\ncycles_done    : 0\nexecs_done     : 471743\nexecs_per_sec  : 969.79\npaths_total    : 83\npaths_favored  : 22\npaths_found    : 82\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 34\npending_favs   : 14\npending_total  : 69\nvariable_paths : 0\nbitmap_cvg     : 1.25%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500307107\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/middleout/input -o /dev/shm/work/middleout/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/middleout/middleout.dict -- data/linux/processed-challenges/middleout/bin/middleout\n'
+p9
+I41
+tp10
+a(I600
+S'start_time     : 1500306627\nlast_update    : 1500307228\nfuzzer_pid     : 29831\ncycles_done    : 0\nexecs_done     : 587971\nexecs_per_sec  : 951.22\npaths_total    : 93\npaths_favored  : 22\npaths_found    : 92\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 34\npending_favs   : 14\npending_total  : 79\nvariable_paths : 0\nbitmap_cvg     : 1.27%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500307201\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/middleout/input -o /dev/shm/work/middleout/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/middleout/middleout.dict -- data/linux/processed-challenges/middleout/bin/middleout\n'
+p11
+I10
+tp12
+a(I720
+S'start_time     : 1500306627\nlast_update    : 1500307348\nfuzzer_pid     : 29831\ncycles_done    : 0\nexecs_done     : 680709\nexecs_per_sec  : 762.25\npaths_total    : 115\npaths_favored  : 32\npaths_found    : 114\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 44\npending_favs   : 23\npending_total  : 97\nvariable_paths : 0\nbitmap_cvg     : 1.28%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500307348\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/middleout/input -o /dev/shm/work/middleout/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/middleout/middleout.dict -- data/linux/processed-challenges/middleout/bin/middleout\n'
+p13
+I23
+tp14
+a(I840
+S'start_time     : 1500306627\nlast_update    : 1500307468\nfuzzer_pid     : 29831\ncycles_done    : 0\nexecs_done     : 795833\nexecs_per_sec  : 955.50\npaths_total    : 125\npaths_favored  : 32\npaths_found    : 124\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 44\npending_favs   : 23\npending_total  : 107\nvariable_paths : 0\nbitmap_cvg     : 1.33%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500307430\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/middleout/input -o /dev/shm/work/middleout/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/middleout/middleout.dict -- data/linux/processed-challenges/middleout/bin/middleout\n'
+p15
+I9
+tp16
+a(I960
+S'start_time     : 1500306627\nlast_update    : 1500307588\nfuzzer_pid     : 29831\ncycles_done    : 0\nexecs_done     : 900751\nexecs_per_sec  : 866.45\npaths_total    : 153\npaths_favored  : 40\npaths_found    : 152\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 68\npending_favs   : 26\npending_total  : 130\nvariable_paths : 0\nbitmap_cvg     : 1.37%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500307585\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/middleout/input -o /dev/shm/work/middleout/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/middleout/middleout.dict -- data/linux/processed-challenges/middleout/bin/middleout\n'
+p17
+I29
+tp18
+a(I1080
+S'start_time     : 1500306627\nlast_update    : 1500307709\nfuzzer_pid     : 29831\ncycles_done    : 0\nexecs_done     : 1006312\nexecs_per_sec  : 895.98\npaths_total    : 166\npaths_favored  : 51\npaths_found    : 165\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 76\npending_favs   : 37\npending_total  : 141\nvariable_paths : 0\nbitmap_cvg     : 1.38%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500307703\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/middleout/input -o /dev/shm/work/middleout/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/middleout/middleout.dict -- data/linux/processed-challenges/middleout/bin/middleout\n'
+p19
+I12
+tp20
+a(I1200
+S'start_time     : 1500306627\nlast_update    : 1500307829\nfuzzer_pid     : 29831\ncycles_done    : 0\nexecs_done     : 1110237\nexecs_per_sec  : 764.39\npaths_total    : 169\npaths_favored  : 50\npaths_found    : 168\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 89\npending_favs   : 33\npending_total  : 140\nvariable_paths : 0\nbitmap_cvg     : 1.39%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500307828\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/middleout/input -o /dev/shm/work/middleout/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/middleout/middleout.dict -- data/linux/processed-challenges/middleout/bin/middleout\n'
+p21
+I6
+tp22
+a(I1320
+S'start_time     : 1500306627\nlast_update    : 1500307949\nfuzzer_pid     : 29831\ncycles_done    : 0\nexecs_done     : 1218467\nexecs_per_sec  : 916.78\npaths_total    : 175\npaths_favored  : 50\npaths_found    : 174\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 89\npending_favs   : 33\npending_total  : 146\nvariable_paths : 0\nbitmap_cvg     : 1.39%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500307849\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/middleout/input -o /dev/shm/work/middleout/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/middleout/middleout.dict -- data/linux/processed-challenges/middleout/bin/middleout\n'
+p23
+I3
+tp24
+a(I1440
+S'start_time     : 1500306627\nlast_update    : 1500308069\nfuzzer_pid     : 29831\ncycles_done    : 0\nexecs_done     : 1317128\nexecs_per_sec  : 690.13\npaths_total    : 178\npaths_favored  : 52\npaths_found    : 177\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 96\npending_favs   : 32\npending_total  : 146\nvariable_paths : 0\nbitmap_cvg     : 1.39%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500308026\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/middleout/input -o /dev/shm/work/middleout/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/middleout/middleout.dict -- data/linux/processed-challenges/middleout/bin/middleout\n'
+p25
+I3
+tp26
+a(I1560
+S'start_time     : 1500306627\nlast_update    : 1500308190\nfuzzer_pid     : 29831\ncycles_done    : 0\nexecs_done     : 1391591\nexecs_per_sec  : 401.23\npaths_total    : 179\npaths_favored  : 52\npaths_found    : 178\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 111\npending_favs   : 29\npending_total  : 144\nvariable_paths : 0\nbitmap_cvg     : 1.39%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500308150\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/middleout/input -o /dev/shm/work/middleout/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/middleout/middleout.dict -- data/linux/processed-challenges/middleout/bin/middleout\n'
+p27
+I1
+tp28
+a(I1680
+S'start_time     : 1500306627\nlast_update    : 1500308310\nfuzzer_pid     : 29831\ncycles_done    : 0\nexecs_done     : 1463670\nexecs_per_sec  : 640.48\npaths_total    : 205\npaths_favored  : 52\npaths_found    : 204\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 111\npending_favs   : 29\npending_total  : 170\nvariable_paths : 0\nbitmap_cvg     : 1.41%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500308301\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/middleout/input -o /dev/shm/work/middleout/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/middleout/middleout.dict -- data/linux/processed-challenges/middleout/bin/middleout\n'
+p29
+I26
+tp30
+a(I1800
+S'start_time     : 1500306627\nlast_update    : 1500308430\nfuzzer_pid     : 29831\ncycles_done    : 0\nexecs_done     : 1529393\nexecs_per_sec  : 832.29\npaths_total    : 206\npaths_favored  : 59\npaths_found    : 205\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 124\npending_favs   : 33\npending_total  : 168\nvariable_paths : 0\nbitmap_cvg     : 1.41%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500308338\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/middleout/input -o /dev/shm/work/middleout/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/middleout/middleout.dict -- data/linux/processed-challenges/middleout/bin/middleout\n'
+p31
+I1
+tp32
+a(I1920
+S'start_time     : 1500306627\nlast_update    : 1500308550\nfuzzer_pid     : 29831\ncycles_done    : 0\nexecs_done     : 1615525\nexecs_per_sec  : 376.52\npaths_total    : 209\npaths_favored  : 61\npaths_found    : 208\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 150\npending_favs   : 31\npending_total  : 167\nvariable_paths : 0\nbitmap_cvg     : 1.42%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500308531\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/middleout/input -o /dev/shm/work/middleout/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/middleout/middleout.dict -- data/linux/processed-challenges/middleout/bin/middleout\n'
+p33
+I3
+tp34
+a(I2040
+S'start_time     : 1500306627\nlast_update    : 1500308671\nfuzzer_pid     : 29831\ncycles_done    : 0\nexecs_done     : 1679622\nexecs_per_sec  : 622.65\npaths_total    : 213\npaths_favored  : 61\npaths_found    : 212\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 150\npending_favs   : 31\npending_total  : 171\nvariable_paths : 0\nbitmap_cvg     : 1.43%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500308639\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/middleout/input -o /dev/shm/work/middleout/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/middleout/middleout.dict -- data/linux/processed-challenges/middleout/bin/middleout\n'
+p35
+I4
+tp36
+a(I2160
+S'start_time     : 1500306627\nlast_update    : 1500308791\nfuzzer_pid     : 29831\ncycles_done    : 0\nexecs_done     : 1755846\nexecs_per_sec  : 627.26\npaths_total    : 213\npaths_favored  : 61\npaths_found    : 212\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 150\npending_favs   : 31\npending_total  : 171\nvariable_paths : 0\nbitmap_cvg     : 1.43%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500308639\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/middleout/input -o /dev/shm/work/middleout/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/middleout/middleout.dict -- data/linux/processed-challenges/middleout/bin/middleout\n'
+p37
+I0
+tp38
+a(I2280
+S'start_time     : 1500306627\nlast_update    : 1500308911\nfuzzer_pid     : 29831\ncycles_done    : 0\nexecs_done     : 1821447\nexecs_per_sec  : 490.36\npaths_total    : 214\npaths_favored  : 64\npaths_found    : 213\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 156\npending_favs   : 31\npending_total  : 169\nvariable_paths : 0\nbitmap_cvg     : 1.43%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500308911\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/middleout/input -o /dev/shm/work/middleout/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/middleout/middleout.dict -- data/linux/processed-challenges/middleout/bin/middleout\n'
+p39
+I2
+tp40
+a(I2400
+S'start_time     : 1500306627\nlast_update    : 1500309031\nfuzzer_pid     : 29831\ncycles_done    : 0\nexecs_done     : 1916797\nexecs_per_sec  : 784.32\npaths_total    : 218\npaths_favored  : 64\npaths_found    : 217\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 156\npending_favs   : 31\npending_total  : 173\nvariable_paths : 0\nbitmap_cvg     : 1.43%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500308936\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/middleout/input -o /dev/shm/work/middleout/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/middleout/middleout.dict -- data/linux/processed-challenges/middleout/bin/middleout\n'
+p41
+I3
+tp42
+a(I2520
+S'start_time     : 1500306627\nlast_update    : 1500309152\nfuzzer_pid     : 29831\ncycles_done    : 0\nexecs_done     : 1990136\nexecs_per_sec  : 718.49\npaths_total    : 219\npaths_favored  : 67\npaths_found    : 218\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 158\npending_favs   : 32\npending_total  : 172\nvariable_paths : 0\nbitmap_cvg     : 1.43%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500309041\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/middleout/input -o /dev/shm/work/middleout/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/middleout/middleout.dict -- data/linux/processed-challenges/middleout/bin/middleout\n'
+p43
+I1
+tp44
+a(I2640
+S'start_time     : 1500306627\nlast_update    : 1500309272\nfuzzer_pid     : 29831\ncycles_done    : 0\nexecs_done     : 2067219\nexecs_per_sec  : 810.71\npaths_total    : 219\npaths_favored  : 67\npaths_found    : 218\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 161\npending_favs   : 29\npending_total  : 169\nvariable_paths : 0\nbitmap_cvg     : 1.43%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500309041\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/middleout/input -o /dev/shm/work/middleout/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/middleout/middleout.dict -- data/linux/processed-challenges/middleout/bin/middleout\n'
+p45
+I0
+tp46
+a(I2760
+S'start_time     : 1500306627\nlast_update    : 1500309392\nfuzzer_pid     : 29831\ncycles_done    : 0\nexecs_done     : 2120274\nexecs_per_sec  : 436.89\npaths_total    : 219\npaths_favored  : 67\npaths_found    : 218\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 163\npending_favs   : 27\npending_total  : 167\nvariable_paths : 0\nbitmap_cvg     : 1.43%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500309041\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/middleout/input -o /dev/shm/work/middleout/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/middleout/middleout.dict -- data/linux/processed-challenges/middleout/bin/middleout\n'
+p47
+I0
+tp48
+a(I2880
+S'start_time     : 1500306627\nlast_update    : 1500309512\nfuzzer_pid     : 29831\ncycles_done    : 0\nexecs_done     : 2202898\nexecs_per_sec  : 824.70\npaths_total    : 223\npaths_favored  : 67\npaths_found    : 222\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 169\npending_favs   : 24\npending_total  : 168\nvariable_paths : 0\nbitmap_cvg     : 1.43%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500309506\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/middleout/input -o /dev/shm/work/middleout/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/middleout/middleout.dict -- data/linux/processed-challenges/middleout/bin/middleout\n'
+p49
+I6
+tp50
+a(I3000
+S'start_time     : 1500306627\nlast_update    : 1500309632\nfuzzer_pid     : 29831\ncycles_done    : 0\nexecs_done     : 2302842\nexecs_per_sec  : 840.34\npaths_total    : 227\npaths_favored  : 67\npaths_found    : 226\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 169\npending_favs   : 24\npending_total  : 172\nvariable_paths : 0\nbitmap_cvg     : 1.44%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500309549\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/middleout/input -o /dev/shm/work/middleout/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/middleout/middleout.dict -- data/linux/processed-challenges/middleout/bin/middleout\n'
+p51
+I2
+tp52
+a(I3120
+S'start_time     : 1500306627\nlast_update    : 1500309753\nfuzzer_pid     : 29831\ncycles_done    : 0\nexecs_done     : 2398549\nexecs_per_sec  : 648.58\npaths_total    : 228\npaths_favored  : 68\npaths_found    : 227\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 176\npending_favs   : 23\npending_total  : 170\nvariable_paths : 0\nbitmap_cvg     : 1.44%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500309655\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/middleout/input -o /dev/shm/work/middleout/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/middleout/middleout.dict -- data/linux/processed-challenges/middleout/bin/middleout\n'
+p53
+I1
+tp54
+a(I3240
+S'start_time     : 1500306627\nlast_update    : 1500309873\nfuzzer_pid     : 29831\ncycles_done    : 0\nexecs_done     : 2453156\nexecs_per_sec  : 394.49\npaths_total    : 228\npaths_favored  : 68\npaths_found    : 227\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 179\npending_favs   : 21\npending_total  : 168\nvariable_paths : 0\nbitmap_cvg     : 1.44%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500309655\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/middleout/input -o /dev/shm/work/middleout/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/middleout/middleout.dict -- data/linux/processed-challenges/middleout/bin/middleout\n'
+p55
+I0
+tp56
+a(I3360
+S'start_time     : 1500306627\nlast_update    : 1500309993\nfuzzer_pid     : 29831\ncycles_done    : 0\nexecs_done     : 2490332\nexecs_per_sec  : 382.08\npaths_total    : 228\npaths_favored  : 68\npaths_found    : 227\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 185\npending_favs   : 20\npending_total  : 167\nvariable_paths : 0\nbitmap_cvg     : 1.44%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500309655\nlast_crash     : 0\nlast_hang      : 1500309990\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/middleout/input -o /dev/shm/work/middleout/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/middleout/middleout.dict -- data/linux/processed-challenges/middleout/bin/middleout\n'
+p57
+I0
+tp58
+a(I3480
+S'start_time     : 1500306627\nlast_update    : 1500310113\nfuzzer_pid     : 29831\ncycles_done    : 0\nexecs_done     : 2534305\nexecs_per_sec  : 460.10\npaths_total    : 231\npaths_favored  : 68\npaths_found    : 230\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 185\npending_favs   : 20\npending_total  : 170\nvariable_paths : 0\nbitmap_cvg     : 1.44%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500310072\nlast_crash     : 0\nlast_hang      : 1500310000\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/middleout/input -o /dev/shm/work/middleout/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/middleout/middleout.dict -- data/linux/processed-challenges/middleout/bin/middleout\n'
+p59
+I3
+tp60
+a(I3600
+S'start_time     : 1500306627\nlast_update    : 1500310234\nfuzzer_pid     : 29831\ncycles_done    : 0\nexecs_done     : 2582308\nexecs_per_sec  : 341.97\npaths_total    : 231\npaths_favored  : 68\npaths_found    : 230\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 190\npending_favs   : 19\npending_total  : 169\nvariable_paths : 0\nbitmap_cvg     : 1.44%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500310072\nlast_crash     : 0\nlast_hang      : 1500310000\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/middleout/input -o /dev/shm/work/middleout/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/middleout/middleout.dict -- data/linux/processed-challenges/middleout/bin/middleout\n'
+p61
+I0
+tp62
+a(I3720
+S'start_time     : 1500306627\nlast_update    : 1500310354\nfuzzer_pid     : 29831\ncycles_done    : 0\nexecs_done     : 2640298\nexecs_per_sec  : 635.90\npaths_total    : 232\npaths_favored  : 68\npaths_found    : 231\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 192\npending_favs   : 18\npending_total  : 169\nvariable_paths : 0\nbitmap_cvg     : 1.44%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500310337\nlast_crash     : 0\nlast_hang      : 1500310000\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/middleout/input -o /dev/shm/work/middleout/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/middleout/middleout.dict -- data/linux/processed-challenges/middleout/bin/middleout\n'
+p63
+I1
+tp64
+a(I3840
+S'start_time     : 1500306627\nlast_update    : 1500310474\nfuzzer_pid     : 29831\ncycles_done    : 0\nexecs_done     : 2685492\nexecs_per_sec  : 333.61\npaths_total    : 232\npaths_favored  : 68\npaths_found    : 231\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 200\npending_favs   : 17\npending_total  : 167\nvariable_paths : 0\nbitmap_cvg     : 1.44%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500310337\nlast_crash     : 0\nlast_hang      : 1500310000\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/middleout/input -o /dev/shm/work/middleout/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/middleout/middleout.dict -- data/linux/processed-challenges/middleout/bin/middleout\n'
+p65
+I0
+tp66
+a(I3960
+S'start_time     : 1500306627\nlast_update    : 1500310594\nfuzzer_pid     : 29831\ncycles_done    : 0\nexecs_done     : 2726316\nexecs_per_sec  : 393.29\npaths_total    : 232\npaths_favored  : 68\npaths_found    : 231\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 202\npending_favs   : 16\npending_total  : 166\nvariable_paths : 0\nbitmap_cvg     : 1.44%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500310337\nlast_crash     : 0\nlast_hang      : 1500310000\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/middleout/input -o /dev/shm/work/middleout/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/middleout/middleout.dict -- data/linux/processed-challenges/middleout/bin/middleout\n'
+p67
+I0
+tp68
+a(I4080
+S'start_time     : 1500306627\nlast_update    : 1500310655\nfuzzer_pid     : 29831\ncycles_done    : 0\nexecs_done     : 2756051\nexecs_per_sec  : 952.56\npaths_total    : 233\npaths_favored  : 68\npaths_found    : 232\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 206\npending_favs   : 15\npending_total  : 166\nvariable_paths : 0\nbitmap_cvg     : 1.44%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500310649\nlast_crash     : 0\nlast_hang      : 1500310625\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/middleout/input -o /dev/shm/work/middleout/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/middleout/middleout.dict -- data/linux/processed-challenges/middleout/bin/middleout\n'
+p69
+I1
+tp70
+a(I4200
+S'start_time     : 1500306627\nlast_update    : 1500310775\nfuzzer_pid     : 29831\ncycles_done    : 0\nexecs_done     : 2819031\nexecs_per_sec  : 619.54\npaths_total    : 234\npaths_favored  : 69\npaths_found    : 233\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 208\npending_favs   : 14\npending_total  : 165\nvariable_paths : 0\nbitmap_cvg     : 1.44%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500310753\nlast_crash     : 0\nlast_hang      : 1500310625\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/middleout/input -o /dev/shm/work/middleout/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/middleout/middleout.dict -- data/linux/processed-challenges/middleout/bin/middleout\n'
+p71
+I1
+tp72
+a(I4320
+S'start_time     : 1500306627\nlast_update    : 1500310895\nfuzzer_pid     : 29831\ncycles_done    : 0\nexecs_done     : 2879041\nexecs_per_sec  : 488.75\npaths_total    : 234\npaths_favored  : 69\npaths_found    : 233\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 210\npending_favs   : 12\npending_total  : 163\nvariable_paths : 0\nbitmap_cvg     : 1.44%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500310753\nlast_crash     : 0\nlast_hang      : 1500310625\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/middleout/input -o /dev/shm/work/middleout/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/middleout/middleout.dict -- data/linux/processed-challenges/middleout/bin/middleout\n'
+p73
+I1
+tp74
+a(I4440
+S'start_time     : 1500306627\nlast_update    : 1500311015\nfuzzer_pid     : 29831\ncycles_done    : 0\nexecs_done     : 2946473\nexecs_per_sec  : 679.62\npaths_total    : 236\npaths_favored  : 69\npaths_found    : 235\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 213\npending_favs   : 10\npending_total  : 163\nvariable_paths : 0\nbitmap_cvg     : 1.44%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500310980\nlast_crash     : 0\nlast_hang      : 1500310625\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/middleout/input -o /dev/shm/work/middleout/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/middleout/middleout.dict -- data/linux/processed-challenges/middleout/bin/middleout\n'
+p75
+I1
+tp76
+a(I4560
+S'start_time     : 1500306627\nlast_update    : 1500311135\nfuzzer_pid     : 29831\ncycles_done    : 0\nexecs_done     : 3005428\nexecs_per_sec  : 378.97\npaths_total    : 236\npaths_favored  : 68\npaths_found    : 235\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 217\npending_favs   : 9\npending_total  : 161\nvariable_paths : 0\nbitmap_cvg     : 1.44%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500310980\nlast_crash     : 0\nlast_hang      : 1500310625\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/middleout/input -o /dev/shm/work/middleout/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/middleout/middleout.dict -- data/linux/processed-challenges/middleout/bin/middleout\n'
+p77
+I0
+tp78
+a(I4680
+S'start_time     : 1500306627\nlast_update    : 1500311256\nfuzzer_pid     : 29831\ncycles_done    : 0\nexecs_done     : 3075590\nexecs_per_sec  : 801.87\npaths_total    : 236\npaths_favored  : 68\npaths_found    : 235\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 226\npending_favs   : 7\npending_total  : 159\nvariable_paths : 0\nbitmap_cvg     : 1.44%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500310980\nlast_crash     : 0\nlast_hang      : 1500310625\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/middleout/input -o /dev/shm/work/middleout/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/middleout/middleout.dict -- data/linux/processed-challenges/middleout/bin/middleout\n'
+p79
+I0
+tp80
+a(I4800
+S'start_time     : 1500306627\nlast_update    : 1500311376\nfuzzer_pid     : 29831\ncycles_done    : 0\nexecs_done     : 3145656\nexecs_per_sec  : 531.52\npaths_total    : 237\npaths_favored  : 67\npaths_found    : 236\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 235\npending_favs   : 4\npending_total  : 157\nvariable_paths : 0\nbitmap_cvg     : 1.44%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500311323\nlast_crash     : 0\nlast_hang      : 1500310625\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/middleout/input -o /dev/shm/work/middleout/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/middleout/middleout.dict -- data/linux/processed-challenges/middleout/bin/middleout\n'
+p81
+I1
+tp82
+a(I4920
+S'start_time     : 1500306627\nlast_update    : 1500311496\nfuzzer_pid     : 29831\ncycles_done    : 1\nexecs_done     : 3237113\nexecs_per_sec  : 798.55\npaths_total    : 241\npaths_favored  : 67\npaths_found    : 240\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 98\npending_favs   : 1\npending_total  : 158\nvariable_paths : 0\nbitmap_cvg     : 1.44%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500311489\nlast_crash     : 0\nlast_hang      : 1500310625\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/middleout/input -o /dev/shm/work/middleout/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/middleout/middleout.dict -- data/linux/processed-challenges/middleout/bin/middleout\n'
+p83
+I6
+tp84
+a(I5040
+S'start_time     : 1500306627\nlast_update    : 1500311616\nfuzzer_pid     : 29831\ncycles_done    : 1\nexecs_done     : 3329178\nexecs_per_sec  : 765.67\npaths_total    : 245\npaths_favored  : 67\npaths_found    : 244\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 98\npending_favs   : 1\npending_total  : 162\nvariable_paths : 0\nbitmap_cvg     : 1.45%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500311589\nlast_crash     : 0\nlast_hang      : 1500310625\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/middleout/input -o /dev/shm/work/middleout/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/middleout/middleout.dict -- data/linux/processed-challenges/middleout/bin/middleout\n'
+p85
+I2
+tp86
+a(I5160
+S'start_time     : 1500306627\nlast_update    : 1500311736\nfuzzer_pid     : 29831\ncycles_done    : 1\nexecs_done     : 3414698\nexecs_per_sec  : 781.32\npaths_total    : 246\npaths_favored  : 69\npaths_found    : 245\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 155\npending_favs   : 3\npending_total  : 161\nvariable_paths : 0\nbitmap_cvg     : 1.45%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500311728\nlast_crash     : 0\nlast_hang      : 1500310625\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/middleout/input -o /dev/shm/work/middleout/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/middleout/middleout.dict -- data/linux/processed-challenges/middleout/bin/middleout\n'
+p87
+I1
+tp88
+a(I5280
+S'start_time     : 1500306627\nlast_update    : 1500311857\nfuzzer_pid     : 29831\ncycles_done    : 1\nexecs_done     : 3480192\nexecs_per_sec  : 533.46\npaths_total    : 249\npaths_favored  : 69\npaths_found    : 248\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 239\npending_favs   : 3\npending_total  : 163\nvariable_paths : 0\nbitmap_cvg     : 1.45%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500311855\nlast_crash     : 0\nlast_hang      : 1500310625\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/middleout/input -o /dev/shm/work/middleout/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/middleout/middleout.dict -- data/linux/processed-challenges/middleout/bin/middleout\n'
+p89
+I5
+tp90
+a(I5400
+S'start_time     : 1500306627\nlast_update    : 1500311977\nfuzzer_pid     : 29831\ncycles_done    : 1\nexecs_done     : 3544652\nexecs_per_sec  : 527.56\npaths_total    : 251\npaths_favored  : 69\npaths_found    : 250\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 239\npending_favs   : 3\npending_total  : 165\nvariable_paths : 0\nbitmap_cvg     : 1.45%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500311909\nlast_crash     : 0\nlast_hang      : 1500310625\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/middleout/input -o /dev/shm/work/middleout/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/middleout/middleout.dict -- data/linux/processed-challenges/middleout/bin/middleout\n'
+p91
+I0
+tp92
+a(I5520
+S'start_time     : 1500306627\nlast_update    : 1500312097\nfuzzer_pid     : 29831\ncycles_done    : 1\nexecs_done     : 3608872\nexecs_per_sec  : 531.53\npaths_total    : 252\npaths_favored  : 69\npaths_found    : 251\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 239\npending_favs   : 3\npending_total  : 166\nvariable_paths : 0\nbitmap_cvg     : 1.45%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500312095\nlast_crash     : 0\nlast_hang      : 1500310625\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/middleout/input -o /dev/shm/work/middleout/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/middleout/middleout.dict -- data/linux/processed-challenges/middleout/bin/middleout\n'
+p93
+I1
+tp94
+a(I5640
+S'start_time     : 1500306627\nlast_update    : 1500312217\nfuzzer_pid     : 29831\ncycles_done    : 1\nexecs_done     : 3668910\nexecs_per_sec  : 488.75\npaths_total    : 252\npaths_favored  : 70\npaths_found    : 251\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 240\npending_favs   : 4\npending_total  : 165\nvariable_paths : 0\nbitmap_cvg     : 1.45%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500312095\nlast_crash     : 0\nlast_hang      : 1500310625\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/middleout/input -o /dev/shm/work/middleout/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/middleout/middleout.dict -- data/linux/processed-challenges/middleout/bin/middleout\n'
+p95
+I0
+tp96
+a(I5760
+S'start_time     : 1500306627\nlast_update    : 1500312337\nfuzzer_pid     : 29831\ncycles_done    : 1\nexecs_done     : 3728771\nexecs_per_sec  : 529.13\npaths_total    : 252\npaths_favored  : 70\npaths_found    : 251\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 243\npending_favs   : 3\npending_total  : 164\nvariable_paths : 0\nbitmap_cvg     : 1.45%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500312095\nlast_crash     : 0\nlast_hang      : 1500310625\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/middleout/input -o /dev/shm/work/middleout/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/middleout/middleout.dict -- data/linux/processed-challenges/middleout/bin/middleout\n'
+p97
+I0
+tp98
+a(I5880
+S'start_time     : 1500306627\nlast_update    : 1500312457\nfuzzer_pid     : 29831\ncycles_done    : 1\nexecs_done     : 3780993\nexecs_per_sec  : 469.75\npaths_total    : 255\npaths_favored  : 70\npaths_found    : 254\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 247\npending_favs   : 2\npending_total  : 166\nvariable_paths : 0\nbitmap_cvg     : 1.45%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500312454\nlast_crash     : 0\nlast_hang      : 1500310625\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/middleout/input -o /dev/shm/work/middleout/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/middleout/middleout.dict -- data/linux/processed-challenges/middleout/bin/middleout\n'
+p99
+I5
+tp100
+a(I6000
+S'start_time     : 1500306627\nlast_update    : 1500312578\nfuzzer_pid     : 29831\ncycles_done    : 1\nexecs_done     : 3838424\nexecs_per_sec  : 492.33\npaths_total    : 257\npaths_favored  : 70\npaths_found    : 256\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 247\npending_favs   : 2\npending_total  : 168\nvariable_paths : 0\nbitmap_cvg     : 1.45%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500312513\nlast_crash     : 0\nlast_hang      : 1500310625\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/middleout/input -o /dev/shm/work/middleout/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/middleout/middleout.dict -- data/linux/processed-challenges/middleout/bin/middleout\n'
+p101
+I0
+tp102
+a(I6120
+S'start_time     : 1500306627\nlast_update    : 1500312698\nfuzzer_pid     : 29831\ncycles_done    : 1\nexecs_done     : 3889730\nexecs_per_sec  : 367.43\npaths_total    : 257\npaths_favored  : 71\npaths_found    : 256\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 250\npending_favs   : 3\npending_total  : 167\nvariable_paths : 0\nbitmap_cvg     : 1.45%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500312513\nlast_crash     : 0\nlast_hang      : 1500310625\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/middleout/input -o /dev/shm/work/middleout/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/middleout/middleout.dict -- data/linux/processed-challenges/middleout/bin/middleout\n'
+p103
+I0
+tp104
+a(I6240
+S'start_time     : 1500306627\nlast_update    : 1500312818\nfuzzer_pid     : 29831\ncycles_done    : 1\nexecs_done     : 3933405\nexecs_per_sec  : 362.38\npaths_total    : 258\npaths_favored  : 71\npaths_found    : 257\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 250\npending_favs   : 3\npending_total  : 168\nvariable_paths : 0\nbitmap_cvg     : 1.45%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500312765\nlast_crash     : 0\nlast_hang      : 1500310625\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/middleout/input -o /dev/shm/work/middleout/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/middleout/middleout.dict -- data/linux/processed-challenges/middleout/bin/middleout\n'
+p105
+I2
+tp106
+a(I6360
+S'start_time     : 1500306627\nlast_update    : 1500312938\nfuzzer_pid     : 29831\ncycles_done    : 1\nexecs_done     : 3977885\nexecs_per_sec  : 382.79\npaths_total    : 260\npaths_favored  : 71\npaths_found    : 259\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 250\npending_favs   : 3\npending_total  : 170\nvariable_paths : 0\nbitmap_cvg     : 1.45%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500312890\nlast_crash     : 0\nlast_hang      : 1500310625\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/middleout/input -o /dev/shm/work/middleout/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/middleout/middleout.dict -- data/linux/processed-challenges/middleout/bin/middleout\n'
+p107
+I1
+tp108
+a(I6480
+S'start_time     : 1500306627\nlast_update    : 1500313059\nfuzzer_pid     : 29831\ncycles_done    : 1\nexecs_done     : 4036600\nexecs_per_sec  : 553.09\npaths_total    : 260\npaths_favored  : 72\npaths_found    : 259\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 255\npending_favs   : 2\npending_total  : 168\nvariable_paths : 0\nbitmap_cvg     : 1.45%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500312890\nlast_crash     : 0\nlast_hang      : 1500310625\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/middleout/input -o /dev/shm/work/middleout/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/middleout/middleout.dict -- data/linux/processed-challenges/middleout/bin/middleout\n'
+p109
+I0
+tp110
+a(I6600
+S'start_time     : 1500306627\nlast_update    : 1500313179\nfuzzer_pid     : 29831\ncycles_done    : 1\nexecs_done     : 4106924\nexecs_per_sec  : 634.55\npaths_total    : 263\npaths_favored  : 72\npaths_found    : 262\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 255\npending_favs   : 2\npending_total  : 171\nvariable_paths : 0\nbitmap_cvg     : 1.46%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500313140\nlast_crash     : 0\nlast_hang      : 1500310625\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/middleout/input -o /dev/shm/work/middleout/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/middleout/middleout.dict -- data/linux/processed-challenges/middleout/bin/middleout\n'
+p111
+I4
+tp112
+a(I6720
+S'start_time     : 1500306627\nlast_update    : 1500313299\nfuzzer_pid     : 29831\ncycles_done    : 1\nexecs_done     : 4181920\nexecs_per_sec  : 612.40\npaths_total    : 265\npaths_favored  : 72\npaths_found    : 264\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 255\npending_favs   : 2\npending_total  : 173\nvariable_paths : 0\nbitmap_cvg     : 1.46%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500313299\nlast_crash     : 0\nlast_hang      : 1500310625\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/middleout/input -o /dev/shm/work/middleout/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/middleout/middleout.dict -- data/linux/processed-challenges/middleout/bin/middleout\n'
+p113
+I2
+tp114
+a(I6840
+S'start_time     : 1500306627\nlast_update    : 1500313419\nfuzzer_pid     : 29831\ncycles_done    : 1\nexecs_done     : 4245706\nexecs_per_sec  : 351.69\npaths_total    : 266\npaths_favored  : 73\npaths_found    : 265\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 257\npending_favs   : 4\npending_total  : 173\nvariable_paths : 0\nbitmap_cvg     : 1.46%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500313307\nlast_crash     : 0\nlast_hang      : 1500310625\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/middleout/input -o /dev/shm/work/middleout/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/middleout/middleout.dict -- data/linux/processed-challenges/middleout/bin/middleout\n'
+p115
+I0
+tp116
+a(I6960
+S'start_time     : 1500306627\nlast_update    : 1500313539\nfuzzer_pid     : 29831\ncycles_done    : 1\nexecs_done     : 4288249\nexecs_per_sec  : 357.29\npaths_total    : 266\npaths_favored  : 73\npaths_found    : 265\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 257\npending_favs   : 4\npending_total  : 173\nvariable_paths : 0\nbitmap_cvg     : 1.46%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500313307\nlast_crash     : 0\nlast_hang      : 1500310625\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/middleout/input -o /dev/shm/work/middleout/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/middleout/middleout.dict -- data/linux/processed-challenges/middleout/bin/middleout\n'
+p117
+I0
+tp118
+a(I7080
+S'start_time     : 1500306627\nlast_update    : 1500313660\nfuzzer_pid     : 29831\ncycles_done    : 1\nexecs_done     : 4331708\nexecs_per_sec  : 377.30\npaths_total    : 268\npaths_favored  : 73\npaths_found    : 267\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 257\npending_favs   : 4\npending_total  : 175\nvariable_paths : 0\nbitmap_cvg     : 1.46%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500313625\nlast_crash     : 0\nlast_hang      : 1500310625\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/middleout/input -o /dev/shm/work/middleout/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/middleout/middleout.dict -- data/linux/processed-challenges/middleout/bin/middleout\n'
+p119
+I2
+tp120
+a(I7200
+S'start_time     : 1500306627\nlast_update    : 1500313780\nfuzzer_pid     : 29831\ncycles_done    : 1\nexecs_done     : 4386406\nexecs_per_sec  : 529.74\npaths_total    : 268\npaths_favored  : 75\npaths_found    : 267\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 260\npending_favs   : 5\npending_total  : 174\nvariable_paths : 0\nbitmap_cvg     : 1.46%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500313625\nlast_crash     : 0\nlast_hang      : 1500310625\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/middleout/input -o /dev/shm/work/middleout/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/middleout/middleout.dict -- data/linux/processed-challenges/middleout/bin/middleout\n'
+p121
+I1
+tp122
+a(I7320
+S'start_time     : 1500306627\nlast_update    : 1500313900\nfuzzer_pid     : 29831\ncycles_done    : 1\nexecs_done     : 4456175\nexecs_per_sec  : 605.18\npaths_total    : 270\npaths_favored  : 75\npaths_found    : 269\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 260\npending_favs   : 5\npending_total  : 176\nvariable_paths : 0\nbitmap_cvg     : 1.46%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500313863\nlast_crash     : 0\nlast_hang      : 1500310625\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/middleout/input -o /dev/shm/work/middleout/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/middleout/middleout.dict -- data/linux/processed-challenges/middleout/bin/middleout\n'
+p123
+I1
+tp124
+a(I7440
+S'start_time     : 1500306627\nlast_update    : 1500314020\nfuzzer_pid     : 29831\ncycles_done    : 1\nexecs_done     : 4527699\nexecs_per_sec  : 598.59\npaths_total    : 270\npaths_favored  : 75\npaths_found    : 269\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 260\npending_favs   : 5\npending_total  : 176\nvariable_paths : 0\nbitmap_cvg     : 1.46%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500313863\nlast_crash     : 0\nlast_hang      : 1500310625\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/middleout/input -o /dev/shm/work/middleout/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/middleout/middleout.dict -- data/linux/processed-challenges/middleout/bin/middleout\n'
+p125
+I0
+tp126
+a(I7560
+S'start_time     : 1500306627\nlast_update    : 1500314140\nfuzzer_pid     : 29831\ncycles_done    : 1\nexecs_done     : 4574986\nexecs_per_sec  : 276.57\npaths_total    : 270\npaths_favored  : 75\npaths_found    : 269\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 261\npending_favs   : 4\npending_total  : 175\nvariable_paths : 0\nbitmap_cvg     : 1.46%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500313863\nlast_crash     : 0\nlast_hang      : 1500310625\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/middleout/input -o /dev/shm/work/middleout/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/middleout/middleout.dict -- data/linux/processed-challenges/middleout/bin/middleout\n'
+p127
+I0
+tp128
+a(I7680
+S'start_time     : 1500306627\nlast_update    : 1500314261\nfuzzer_pid     : 29831\ncycles_done    : 1\nexecs_done     : 4612338\nexecs_per_sec  : 441.46\npaths_total    : 270\npaths_favored  : 75\npaths_found    : 269\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 261\npending_favs   : 4\npending_total  : 175\nvariable_paths : 0\nbitmap_cvg     : 1.46%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500313863\nlast_crash     : 0\nlast_hang      : 1500310625\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/middleout/input -o /dev/shm/work/middleout/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/middleout/middleout.dict -- data/linux/processed-challenges/middleout/bin/middleout\n'
+p129
+I1
+tp130
+a(I7800
+S'start_time     : 1500306627\nlast_update    : 1500314381\nfuzzer_pid     : 29831\ncycles_done    : 1\nexecs_done     : 4668405\nexecs_per_sec  : 455.94\npaths_total    : 271\npaths_favored  : 75\npaths_found    : 270\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 261\npending_favs   : 4\npending_total  : 176\nvariable_paths : 0\nbitmap_cvg     : 1.46%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500314283\nlast_crash     : 0\nlast_hang      : 1500310625\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/middleout/input -o /dev/shm/work/middleout/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/middleout/middleout.dict -- data/linux/processed-challenges/middleout/bin/middleout\n'
+p131
+I0
+tp132
+a(I7920
+S'start_time     : 1500306627\nlast_update    : 1500314501\nfuzzer_pid     : 29831\ncycles_done    : 1\nexecs_done     : 4719522\nexecs_per_sec  : 400.63\npaths_total    : 271\npaths_favored  : 75\npaths_found    : 270\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 264\npending_favs   : 3\npending_total  : 175\nvariable_paths : 0\nbitmap_cvg     : 1.46%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500314283\nlast_crash     : 0\nlast_hang      : 1500310625\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/middleout/input -o /dev/shm/work/middleout/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/middleout/middleout.dict -- data/linux/processed-challenges/middleout/bin/middleout\n'
+p133
+I0
+tp134
+a(I8040
+S'start_time     : 1500306627\nlast_update    : 1500314621\nfuzzer_pid     : 29831\ncycles_done    : 1\nexecs_done     : 4772668\nexecs_per_sec  : 552.70\npaths_total    : 271\npaths_favored  : 75\npaths_found    : 270\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 264\npending_favs   : 3\npending_total  : 175\nvariable_paths : 0\nbitmap_cvg     : 1.46%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500314283\nlast_crash     : 0\nlast_hang      : 1500314542\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/middleout/input -o /dev/shm/work/middleout/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/middleout/middleout.dict -- data/linux/processed-challenges/middleout/bin/middleout\n'
+p135
+I0
+tp136
+a(I8160
+S'start_time     : 1500306627\nlast_update    : 1500314742\nfuzzer_pid     : 29831\ncycles_done    : 1\nexecs_done     : 4820338\nexecs_per_sec  : 342.81\npaths_total    : 271\npaths_favored  : 75\npaths_found    : 270\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 266\npending_favs   : 2\npending_total  : 174\nvariable_paths : 0\nbitmap_cvg     : 1.46%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500314283\nlast_crash     : 0\nlast_hang      : 1500314542\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/middleout/input -o /dev/shm/work/middleout/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/middleout/middleout.dict -- data/linux/processed-challenges/middleout/bin/middleout\n'
+p137
+I0
+tp138
+a(I8280
+S'start_time     : 1500306627\nlast_update    : 1500314862\nfuzzer_pid     : 29831\ncycles_done    : 1\nexecs_done     : 4861393\nexecs_per_sec  : 350.59\npaths_total    : 271\npaths_favored  : 75\npaths_found    : 270\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 266\npending_favs   : 2\npending_total  : 174\nvariable_paths : 0\nbitmap_cvg     : 1.46%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500314283\nlast_crash     : 0\nlast_hang      : 1500314542\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/middleout/input -o /dev/shm/work/middleout/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/middleout/middleout.dict -- data/linux/processed-challenges/middleout/bin/middleout\n'
+p139
+I0
+tp140
+a(I8400
+S'start_time     : 1500306627\nlast_update    : 1500314982\nfuzzer_pid     : 29831\ncycles_done    : 1\nexecs_done     : 4903556\nexecs_per_sec  : 341.20\npaths_total    : 271\npaths_favored  : 75\npaths_found    : 270\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 267\npending_favs   : 1\npending_total  : 173\nvariable_paths : 0\nbitmap_cvg     : 1.46%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500314283\nlast_crash     : 0\nlast_hang      : 1500314542\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/middleout/input -o /dev/shm/work/middleout/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/middleout/middleout.dict -- data/linux/processed-challenges/middleout/bin/middleout\n'
+p141
+I0
+tp142
+a(I8520
+S'start_time     : 1500306627\nlast_update    : 1500315102\nfuzzer_pid     : 29831\ncycles_done    : 1\nexecs_done     : 4944633\nexecs_per_sec  : 346.45\npaths_total    : 271\npaths_favored  : 75\npaths_found    : 270\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 267\npending_favs   : 1\npending_total  : 173\nvariable_paths : 0\nbitmap_cvg     : 1.46%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500314283\nlast_crash     : 0\nlast_hang      : 1500314542\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/middleout/input -o /dev/shm/work/middleout/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/middleout/middleout.dict -- data/linux/processed-challenges/middleout/bin/middleout\n'
+p143
+I1
+tp144
+a(I8640
+S'start_time     : 1500306627\nlast_update    : 1500315223\nfuzzer_pid     : 29831\ncycles_done    : 1\nexecs_done     : 4987329\nexecs_per_sec  : 362.24\npaths_total    : 272\npaths_favored  : 75\npaths_found    : 271\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 267\npending_favs   : 1\npending_total  : 174\nvariable_paths : 0\nbitmap_cvg     : 1.46%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500315156\nlast_crash     : 0\nlast_hang      : 1500314542\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/middleout/input -o /dev/shm/work/middleout/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/middleout/middleout.dict -- data/linux/processed-challenges/middleout/bin/middleout\n'
+p145
+I1
+tp146
+a(I8760
+S'start_time     : 1500306627\nlast_update    : 1500315343\nfuzzer_pid     : 29831\ncycles_done    : 1\nexecs_done     : 5031096\nexecs_per_sec  : 371.20\npaths_total    : 273\npaths_favored  : 75\npaths_found    : 272\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 267\npending_favs   : 1\npending_total  : 175\nvariable_paths : 0\nbitmap_cvg     : 1.46%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500315226\nlast_crash     : 0\nlast_hang      : 1500314542\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/middleout/input -o /dev/shm/work/middleout/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/middleout/middleout.dict -- data/linux/processed-challenges/middleout/bin/middleout\n'
+p147
+I1
+tp148
+a(I8880
+S'start_time     : 1500306627\nlast_update    : 1500315463\nfuzzer_pid     : 29831\ncycles_done    : 1\nexecs_done     : 5073283\nexecs_per_sec  : 336.97\npaths_total    : 274\npaths_favored  : 75\npaths_found    : 273\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 271\npending_favs   : 1\npending_total  : 175\nvariable_paths : 0\nbitmap_cvg     : 1.46%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500315372\nlast_crash     : 0\nlast_hang      : 1500314542\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/middleout/input -o /dev/shm/work/middleout/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/middleout/middleout.dict -- data/linux/processed-challenges/middleout/bin/middleout\n'
+p149
+I0
+tp150
+a(I9000
+S'start_time     : 1500306627\nlast_update    : 1500315583\nfuzzer_pid     : 29831\ncycles_done    : 1\nexecs_done     : 5113848\nexecs_per_sec  : 340.54\npaths_total    : 274\npaths_favored  : 75\npaths_found    : 273\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 271\npending_favs   : 1\npending_total  : 175\nvariable_paths : 0\nbitmap_cvg     : 1.46%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500315372\nlast_crash     : 0\nlast_hang      : 1500314542\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/middleout/input -o /dev/shm/work/middleout/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/middleout/middleout.dict -- data/linux/processed-challenges/middleout/bin/middleout\n'
+p151
+I0
+tp152
+a(I9120
+S'start_time     : 1500306627\nlast_update    : 1500315703\nfuzzer_pid     : 29831\ncycles_done    : 2\nexecs_done     : 5167995\nexecs_per_sec  : 937.36\npaths_total    : 274\npaths_favored  : 75\npaths_found    : 273\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 7\npending_favs   : 0\npending_total  : 171\nvariable_paths : 0\nbitmap_cvg     : 1.46%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500315372\nlast_crash     : 0\nlast_hang      : 1500314542\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/middleout/input -o /dev/shm/work/middleout/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/middleout/middleout.dict -- data/linux/processed-challenges/middleout/bin/middleout\n'
+p153
+I0
+tp154
+a(I9240
+S'start_time     : 1500306627\nlast_update    : 1500315823\nfuzzer_pid     : 29831\ncycles_done    : 2\nexecs_done     : 5276174\nexecs_per_sec  : 928.91\npaths_total    : 274\npaths_favored  : 75\npaths_found    : 273\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 52\npending_favs   : 0\npending_total  : 166\nvariable_paths : 0\nbitmap_cvg     : 1.46%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500315372\nlast_crash     : 0\nlast_hang      : 1500314542\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/middleout/input -o /dev/shm/work/middleout/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/middleout/middleout.dict -- data/linux/processed-challenges/middleout/bin/middleout\n'
+p155
+I1
+tp156
+a(I9360
+S'start_time     : 1500306627\nlast_update    : 1500315944\nfuzzer_pid     : 29831\ncycles_done    : 2\nexecs_done     : 5378045\nexecs_per_sec  : 500.25\npaths_total    : 275\npaths_favored  : 75\npaths_found    : 274\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 70\npending_favs   : 0\npending_total  : 163\nvariable_paths : 0\nbitmap_cvg     : 1.46%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500315876\nlast_crash     : 0\nlast_hang      : 1500314542\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/middleout/input -o /dev/shm/work/middleout/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/middleout/middleout.dict -- data/linux/processed-challenges/middleout/bin/middleout\n'
+p157
+I0
+tp158
+a(I9480
+S'start_time     : 1500306627\nlast_update    : 1500316064\nfuzzer_pid     : 29831\ncycles_done    : 2\nexecs_done     : 5474606\nexecs_per_sec  : 765.34\npaths_total    : 275\npaths_favored  : 75\npaths_found    : 274\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 91\npending_favs   : 0\npending_total  : 161\nvariable_paths : 0\nbitmap_cvg     : 1.46%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500315876\nlast_crash     : 0\nlast_hang      : 1500314542\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/middleout/input -o /dev/shm/work/middleout/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/middleout/middleout.dict -- data/linux/processed-challenges/middleout/bin/middleout\n'
+p159
+I3
+tp160
+a(I9600
+S'start_time     : 1500306627\nlast_update    : 1500316184\nfuzzer_pid     : 29831\ncycles_done    : 2\nexecs_done     : 5573320\nexecs_per_sec  : 833.15\npaths_total    : 279\npaths_favored  : 75\npaths_found    : 278\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 92\npending_favs   : 0\npending_total  : 164\nvariable_paths : 0\nbitmap_cvg     : 1.46%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500316119\nlast_crash     : 0\nlast_hang      : 1500314542\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/middleout/input -o /dev/shm/work/middleout/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/middleout/middleout.dict -- data/linux/processed-challenges/middleout/bin/middleout\n'
+p161
+I1
+tp162
+a(I9720
+S'start_time     : 1500306627\nlast_update    : 1500316304\nfuzzer_pid     : 29831\ncycles_done    : 2\nexecs_done     : 5659904\nexecs_per_sec  : 448.89\npaths_total    : 279\npaths_favored  : 75\npaths_found    : 278\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 109\npending_favs   : 0\npending_total  : 162\nvariable_paths : 0\nbitmap_cvg     : 1.46%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500316119\nlast_crash     : 0\nlast_hang      : 1500314542\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/middleout/input -o /dev/shm/work/middleout/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/middleout/middleout.dict -- data/linux/processed-challenges/middleout/bin/middleout\n'
+p163
+I0
+tp164
+a(I9840
+S'start_time     : 1500306627\nlast_update    : 1500316425\nfuzzer_pid     : 29831\ncycles_done    : 2\nexecs_done     : 5741985\nexecs_per_sec  : 890.15\npaths_total    : 279\npaths_favored  : 75\npaths_found    : 278\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 124\npending_favs   : 0\npending_total  : 160\nvariable_paths : 0\nbitmap_cvg     : 1.46%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500316119\nlast_crash     : 0\nlast_hang      : 1500314542\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/middleout/input -o /dev/shm/work/middleout/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/middleout/middleout.dict -- data/linux/processed-challenges/middleout/bin/middleout\n'
+p165
+I0
+tp166
+a(I9960
+S'start_time     : 1500306627\nlast_update    : 1500316545\nfuzzer_pid     : 29831\ncycles_done    : 2\nexecs_done     : 5802939\nexecs_per_sec  : 289.88\npaths_total    : 279\npaths_favored  : 75\npaths_found    : 278\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 139\npending_favs   : 0\npending_total  : 159\nvariable_paths : 0\nbitmap_cvg     : 1.46%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500316119\nlast_crash     : 0\nlast_hang      : 1500314542\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/middleout/input -o /dev/shm/work/middleout/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/middleout/middleout.dict -- data/linux/processed-challenges/middleout/bin/middleout\n'
+p167
+I0
+tp168
+a(I10080
+S'start_time     : 1500306627\nlast_update    : 1500316665\nfuzzer_pid     : 29831\ncycles_done    : 2\nexecs_done     : 5851263\nexecs_per_sec  : 569.80\npaths_total    : 280\npaths_favored  : 75\npaths_found    : 279\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 141\npending_favs   : 0\npending_total  : 159\nvariable_paths : 0\nbitmap_cvg     : 1.46%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500316663\nlast_crash     : 0\nlast_hang      : 1500314542\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/middleout/input -o /dev/shm/work/middleout/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/middleout/middleout.dict -- data/linux/processed-challenges/middleout/bin/middleout\n'
+p169
+I1
+tp170
+a(I10200
+S'start_time     : 1500306627\nlast_update    : 1500316785\nfuzzer_pid     : 29831\ncycles_done    : 2\nexecs_done     : 5923880\nexecs_per_sec  : 678.77\npaths_total    : 280\npaths_favored  : 75\npaths_found    : 279\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 147\npending_favs   : 0\npending_total  : 157\nvariable_paths : 0\nbitmap_cvg     : 1.46%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500316663\nlast_crash     : 0\nlast_hang      : 1500314542\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/middleout/input -o /dev/shm/work/middleout/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/middleout/middleout.dict -- data/linux/processed-challenges/middleout/bin/middleout\n'
+p171
+I2
+tp172
+a(I10320
+S'start_time     : 1500306627\nlast_update    : 1500316905\nfuzzer_pid     : 29831\ncycles_done    : 2\nexecs_done     : 6019359\nexecs_per_sec  : 816.19\npaths_total    : 282\npaths_favored  : 75\npaths_found    : 281\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 157\npending_favs   : 0\npending_total  : 158\nvariable_paths : 0\nbitmap_cvg     : 1.46%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500316797\nlast_crash     : 0\nlast_hang      : 1500314542\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/middleout/input -o /dev/shm/work/middleout/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/middleout/middleout.dict -- data/linux/processed-challenges/middleout/bin/middleout\n'
+p173
+I0
+tp174
+a(I10440
+S'start_time     : 1500306627\nlast_update    : 1500317026\nfuzzer_pid     : 29831\ncycles_done    : 2\nexecs_done     : 6111601\nexecs_per_sec  : 857.26\npaths_total    : 282\npaths_favored  : 75\npaths_found    : 281\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 167\npending_favs   : 0\npending_total  : 158\nvariable_paths : 0\nbitmap_cvg     : 1.46%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500316797\nlast_crash     : 0\nlast_hang      : 1500314542\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/middleout/input -o /dev/shm/work/middleout/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/middleout/middleout.dict -- data/linux/processed-challenges/middleout/bin/middleout\n'
+p175
+I1
+tp176
+a(I10560
+S'start_time     : 1500306627\nlast_update    : 1500317146\nfuzzer_pid     : 29831\ncycles_done    : 2\nexecs_done     : 6183244\nexecs_per_sec  : 399.95\npaths_total    : 283\npaths_favored  : 75\npaths_found    : 282\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 180\npending_favs   : 0\npending_total  : 159\nvariable_paths : 0\nbitmap_cvg     : 1.46%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500317040\nlast_crash     : 0\nlast_hang      : 1500314542\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/middleout/input -o /dev/shm/work/middleout/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/middleout/middleout.dict -- data/linux/processed-challenges/middleout/bin/middleout\n'
+p177
+I0
+tp178
+a(I10680
+S'start_time     : 1500306627\nlast_update    : 1500317266\nfuzzer_pid     : 29831\ncycles_done    : 2\nexecs_done     : 6219754\nexecs_per_sec  : 314.60\npaths_total    : 283\npaths_favored  : 74\npaths_found    : 282\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 186\npending_favs   : 0\npending_total  : 158\nvariable_paths : 0\nbitmap_cvg     : 1.46%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500317040\nlast_crash     : 0\nlast_hang      : 1500314542\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/middleout/input -o /dev/shm/work/middleout/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/middleout/middleout.dict -- data/linux/processed-challenges/middleout/bin/middleout\n'
+p179
+I0
+tp180
+a.

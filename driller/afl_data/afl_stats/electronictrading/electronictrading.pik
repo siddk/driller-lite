@@ -1,0 +1,452 @@
+(lp0
+(I0
+S'start_time     : 1500306606\nlast_update    : 1500306606\nfuzzer_pid     : 24803\ncycles_done    : 0\nexecs_done     : 10\nexecs_per_sec  : 175.44\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 1\npending_total  : 1\nvariable_paths : 0\nbitmap_cvg     : 0.06%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/electronictrading/input -o /dev/shm/work/electronictrading/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/electronictrading/electronictrading.dict -- data/linux/processed-challenges/electronictrading/bin/electronictrading\n'
+p1
+I4
+tp2
+a(I120
+S'start_time     : 1500306606\nlast_update    : 1500306726\nfuzzer_pid     : 24803\ncycles_done    : 0\nexecs_done     : 162935\nexecs_per_sec  : 1296.41\npaths_total    : 11\npaths_favored  : 7\npaths_found    : 10\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 1\npending_favs   : 6\npending_total  : 10\nvariable_paths : 0\nbitmap_cvg     : 0.16%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500306698\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/electronictrading/input -o /dev/shm/work/electronictrading/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/electronictrading/electronictrading.dict -- data/linux/processed-challenges/electronictrading/bin/electronictrading\n'
+p3
+I9
+tp4
+a(I240
+S'start_time     : 1500306606\nlast_update    : 1500306846\nfuzzer_pid     : 24803\ncycles_done    : 0\nexecs_done     : 308981\nexecs_per_sec  : 1140.36\npaths_total    : 28\npaths_favored  : 16\npaths_found    : 27\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 13\npending_favs   : 9\npending_total  : 19\nvariable_paths : 0\nbitmap_cvg     : 0.46%\nunique_crashes : 7\nunique_hangs   : 0\nlast_path      : 1500306839\nlast_crash     : 1500306845\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/electronictrading/input -o /dev/shm/work/electronictrading/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/electronictrading/electronictrading.dict -- data/linux/processed-challenges/electronictrading/bin/electronictrading\n'
+p5
+I16
+tp6
+a(I360
+S'start_time     : 1500306606\nlast_update    : 1500306966\nfuzzer_pid     : 24803\ncycles_done    : 0\nexecs_done     : 454030\nexecs_per_sec  : 1238.68\npaths_total    : 39\npaths_favored  : 22\npaths_found    : 38\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 18\npending_favs   : 14\npending_total  : 26\nvariable_paths : 0\nbitmap_cvg     : 0.57%\nunique_crashes : 13\nunique_hangs   : 0\nlast_path      : 1500306962\nlast_crash     : 1500306958\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/electronictrading/input -o /dev/shm/work/electronictrading/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/electronictrading/electronictrading.dict -- data/linux/processed-challenges/electronictrading/bin/electronictrading\n'
+p7
+I11
+tp8
+a(I480
+S'start_time     : 1500306606\nlast_update    : 1500307086\nfuzzer_pid     : 24803\ncycles_done    : 0\nexecs_done     : 596493\nexecs_per_sec  : 1199.77\npaths_total    : 47\npaths_favored  : 24\npaths_found    : 46\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 25\npending_favs   : 14\npending_total  : 29\nvariable_paths : 0\nbitmap_cvg     : 0.59%\nunique_crashes : 14\nunique_hangs   : 0\nlast_path      : 1500307074\nlast_crash     : 1500307021\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/electronictrading/input -o /dev/shm/work/electronictrading/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/electronictrading/electronictrading.dict -- data/linux/processed-challenges/electronictrading/bin/electronictrading\n'
+p9
+I7
+tp10
+a(I600
+S'start_time     : 1500306606\nlast_update    : 1500307206\nfuzzer_pid     : 24803\ncycles_done    : 0\nexecs_done     : 740144\nexecs_per_sec  : 1150.91\npaths_total    : 61\npaths_favored  : 25\npaths_found    : 60\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 28\npending_favs   : 16\npending_total  : 42\nvariable_paths : 0\nbitmap_cvg     : 0.88%\nunique_crashes : 17\nunique_hangs   : 0\nlast_path      : 1500307183\nlast_crash     : 1500307170\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/electronictrading/input -o /dev/shm/work/electronictrading/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/electronictrading/electronictrading.dict -- data/linux/processed-challenges/electronictrading/bin/electronictrading\n'
+p11
+I14
+tp12
+a(I720
+S'start_time     : 1500306606\nlast_update    : 1500307327\nfuzzer_pid     : 24803\ncycles_done    : 0\nexecs_done     : 878201\nexecs_per_sec  : 1141.77\npaths_total    : 71\npaths_favored  : 38\npaths_found    : 70\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 30\npending_favs   : 28\npending_total  : 50\nvariable_paths : 0\nbitmap_cvg     : 0.90%\nunique_crashes : 24\nunique_hangs   : 0\nlast_path      : 1500307317\nlast_crash     : 1500307323\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/electronictrading/input -o /dev/shm/work/electronictrading/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/electronictrading/electronictrading.dict -- data/linux/processed-challenges/electronictrading/bin/electronictrading\n'
+p13
+I12
+tp14
+a(I840
+S'start_time     : 1500306606\nlast_update    : 1500307447\nfuzzer_pid     : 24803\ncycles_done    : 0\nexecs_done     : 1016789\nexecs_per_sec  : 1165.67\npaths_total    : 75\npaths_favored  : 38\npaths_found    : 74\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 35\npending_favs   : 26\npending_total  : 51\nvariable_paths : 0\nbitmap_cvg     : 0.91%\nunique_crashes : 24\nunique_hangs   : 0\nlast_path      : 1500307355\nlast_crash     : 1500307323\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/electronictrading/input -o /dev/shm/work/electronictrading/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/electronictrading/electronictrading.dict -- data/linux/processed-challenges/electronictrading/bin/electronictrading\n'
+p15
+I2
+tp16
+a(I960
+S'start_time     : 1500306606\nlast_update    : 1500307567\nfuzzer_pid     : 24803\ncycles_done    : 0\nexecs_done     : 1154135\nexecs_per_sec  : 1120.00\npaths_total    : 89\npaths_favored  : 42\npaths_found    : 88\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 45\npending_favs   : 26\npending_total  : 59\nvariable_paths : 0\nbitmap_cvg     : 0.98%\nunique_crashes : 31\nunique_hangs   : 0\nlast_path      : 1500307547\nlast_crash     : 1500307529\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/electronictrading/input -o /dev/shm/work/electronictrading/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/electronictrading/electronictrading.dict -- data/linux/processed-challenges/electronictrading/bin/electronictrading\n'
+p17
+I14
+tp18
+a(I1080
+S'start_time     : 1500306606\nlast_update    : 1500307687\nfuzzer_pid     : 24803\ncycles_done    : 0\nexecs_done     : 1291818\nexecs_per_sec  : 1167.44\npaths_total    : 99\npaths_favored  : 51\npaths_found    : 98\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 49\npending_favs   : 34\npending_total  : 68\nvariable_paths : 0\nbitmap_cvg     : 1.02%\nunique_crashes : 31\nunique_hangs   : 0\nlast_path      : 1500307669\nlast_crash     : 1500307529\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/electronictrading/input -o /dev/shm/work/electronictrading/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/electronictrading/electronictrading.dict -- data/linux/processed-challenges/electronictrading/bin/electronictrading\n'
+p19
+I10
+tp20
+a(I1200
+S'start_time     : 1500306606\nlast_update    : 1500307808\nfuzzer_pid     : 24803\ncycles_done    : 0\nexecs_done     : 1428578\nexecs_per_sec  : 1168.50\npaths_total    : 103\npaths_favored  : 50\npaths_found    : 102\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 51\npending_favs   : 33\npending_total  : 70\nvariable_paths : 0\nbitmap_cvg     : 1.04%\nunique_crashes : 31\nunique_hangs   : 0\nlast_path      : 1500307794\nlast_crash     : 1500307529\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/electronictrading/input -o /dev/shm/work/electronictrading/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/electronictrading/electronictrading.dict -- data/linux/processed-challenges/electronictrading/bin/electronictrading\n'
+p21
+I4
+tp22
+a(I1320
+S'start_time     : 1500306606\nlast_update    : 1500307928\nfuzzer_pid     : 24803\ncycles_done    : 0\nexecs_done     : 1557723\nexecs_per_sec  : 1115.05\npaths_total    : 111\npaths_favored  : 55\npaths_found    : 110\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 59\npending_favs   : 35\npending_total  : 74\nvariable_paths : 0\nbitmap_cvg     : 1.05%\nunique_crashes : 38\nunique_hangs   : 0\nlast_path      : 1500307923\nlast_crash     : 1500307910\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/electronictrading/input -o /dev/shm/work/electronictrading/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/electronictrading/electronictrading.dict -- data/linux/processed-challenges/electronictrading/bin/electronictrading\n'
+p23
+I8
+tp24
+a(I1440
+S'start_time     : 1500306606\nlast_update    : 1500308048\nfuzzer_pid     : 24803\ncycles_done    : 0\nexecs_done     : 1693657\nexecs_per_sec  : 1129.81\npaths_total    : 115\npaths_favored  : 55\npaths_found    : 114\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 59\npending_favs   : 35\npending_total  : 78\nvariable_paths : 0\nbitmap_cvg     : 1.05%\nunique_crashes : 40\nunique_hangs   : 0\nlast_path      : 1500308007\nlast_crash     : 1500307996\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/electronictrading/input -o /dev/shm/work/electronictrading/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/electronictrading/electronictrading.dict -- data/linux/processed-challenges/electronictrading/bin/electronictrading\n'
+p25
+I4
+tp26
+a(I1560
+S'start_time     : 1500306606\nlast_update    : 1500308168\nfuzzer_pid     : 24803\ncycles_done    : 0\nexecs_done     : 1824108\nexecs_per_sec  : 1009.87\npaths_total    : 118\npaths_favored  : 60\npaths_found    : 117\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 66\npending_favs   : 35\npending_total  : 75\nvariable_paths : 0\nbitmap_cvg     : 1.06%\nunique_crashes : 40\nunique_hangs   : 0\nlast_path      : 1500308093\nlast_crash     : 1500307996\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/electronictrading/input -o /dev/shm/work/electronictrading/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/electronictrading/electronictrading.dict -- data/linux/processed-challenges/electronictrading/bin/electronictrading\n'
+p27
+I3
+tp28
+a(I1680
+S'start_time     : 1500306606\nlast_update    : 1500308288\nfuzzer_pid     : 24803\ncycles_done    : 0\nexecs_done     : 1954475\nexecs_per_sec  : 1097.61\npaths_total    : 126\npaths_favored  : 60\npaths_found    : 125\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 71\npending_favs   : 33\npending_total  : 81\nvariable_paths : 0\nbitmap_cvg     : 1.08%\nunique_crashes : 41\nunique_hangs   : 0\nlast_path      : 1500308276\nlast_crash     : 1500308208\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/electronictrading/input -o /dev/shm/work/electronictrading/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/electronictrading/electronictrading.dict -- data/linux/processed-challenges/electronictrading/bin/electronictrading\n'
+p29
+I8
+tp30
+a(I1800
+S'start_time     : 1500306606\nlast_update    : 1500308409\nfuzzer_pid     : 24803\ncycles_done    : 0\nexecs_done     : 2086291\nexecs_per_sec  : 1078.48\npaths_total    : 131\npaths_favored  : 65\npaths_found    : 130\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 77\npending_favs   : 36\npending_total  : 84\nvariable_paths : 0\nbitmap_cvg     : 1.08%\nunique_crashes : 46\nunique_hangs   : 0\nlast_path      : 1500308379\nlast_crash     : 1500308387\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/electronictrading/input -o /dev/shm/work/electronictrading/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/electronictrading/electronictrading.dict -- data/linux/processed-challenges/electronictrading/bin/electronictrading\n'
+p31
+I5
+tp32
+a(I1920
+S'start_time     : 1500306606\nlast_update    : 1500308529\nfuzzer_pid     : 24803\ncycles_done    : 0\nexecs_done     : 2213992\nexecs_per_sec  : 1026.64\npaths_total    : 134\npaths_favored  : 68\npaths_found    : 133\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 86\npending_favs   : 33\npending_total  : 81\nvariable_paths : 0\nbitmap_cvg     : 1.08%\nunique_crashes : 50\nunique_hangs   : 1\nlast_path      : 1500308506\nlast_crash     : 1500308478\nlast_hang      : 1500308469\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/electronictrading/input -o /dev/shm/work/electronictrading/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/electronictrading/electronictrading.dict -- data/linux/processed-challenges/electronictrading/bin/electronictrading\n'
+p33
+I3
+tp34
+a(I2040
+S'start_time     : 1500306606\nlast_update    : 1500308649\nfuzzer_pid     : 24803\ncycles_done    : 0\nexecs_done     : 2343458\nexecs_per_sec  : 1137.43\npaths_total    : 151\npaths_favored  : 70\npaths_found    : 150\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 90\npending_favs   : 32\npending_total  : 95\nvariable_paths : 0\nbitmap_cvg     : 1.12%\nunique_crashes : 53\nunique_hangs   : 1\nlast_path      : 1500308647\nlast_crash     : 1500308646\nlast_hang      : 1500308469\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/electronictrading/input -o /dev/shm/work/electronictrading/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/electronictrading/electronictrading.dict -- data/linux/processed-challenges/electronictrading/bin/electronictrading\n'
+p35
+I18
+tp36
+a(I2160
+S'start_time     : 1500306606\nlast_update    : 1500308769\nfuzzer_pid     : 24803\ncycles_done    : 0\nexecs_done     : 2476976\nexecs_per_sec  : 1121.55\npaths_total    : 168\npaths_favored  : 81\npaths_found    : 167\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 91\npending_favs   : 45\npending_total  : 111\nvariable_paths : 0\nbitmap_cvg     : 1.15%\nunique_crashes : 57\nunique_hangs   : 1\nlast_path      : 1500308768\nlast_crash     : 1500308760\nlast_hang      : 1500308469\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/electronictrading/input -o /dev/shm/work/electronictrading/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/electronictrading/electronictrading.dict -- data/linux/processed-challenges/electronictrading/bin/electronictrading\n'
+p37
+I17
+tp38
+a(I2280
+S'start_time     : 1500306606\nlast_update    : 1500308889\nfuzzer_pid     : 24803\ncycles_done    : 0\nexecs_done     : 2610080\nexecs_per_sec  : 1107.70\npaths_total    : 175\npaths_favored  : 81\npaths_found    : 174\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 91\npending_favs   : 45\npending_total  : 118\nvariable_paths : 0\nbitmap_cvg     : 1.16%\nunique_crashes : 59\nunique_hangs   : 1\nlast_path      : 1500308816\nlast_crash     : 1500308842\nlast_hang      : 1500308469\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/electronictrading/input -o /dev/shm/work/electronictrading/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/electronictrading/electronictrading.dict -- data/linux/processed-challenges/electronictrading/bin/electronictrading\n'
+p39
+I7
+tp40
+a(I2400
+S'start_time     : 1500306606\nlast_update    : 1500309009\nfuzzer_pid     : 24803\ncycles_done    : 0\nexecs_done     : 2738286\nexecs_per_sec  : 1018.15\npaths_total    : 185\npaths_favored  : 88\npaths_found    : 184\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 96\npending_favs   : 52\npending_total  : 124\nvariable_paths : 0\nbitmap_cvg     : 1.18%\nunique_crashes : 62\nunique_hangs   : 1\nlast_path      : 1500309006\nlast_crash     : 1500308998\nlast_hang      : 1500308469\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/electronictrading/input -o /dev/shm/work/electronictrading/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/electronictrading/electronictrading.dict -- data/linux/processed-challenges/electronictrading/bin/electronictrading\n'
+p41
+I9
+tp42
+a(I2520
+S'start_time     : 1500306606\nlast_update    : 1500309130\nfuzzer_pid     : 24803\ncycles_done    : 0\nexecs_done     : 2864601\nexecs_per_sec  : 1140.73\npaths_total    : 185\npaths_favored  : 88\npaths_found    : 184\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 101\npending_favs   : 48\npending_total  : 119\nvariable_paths : 0\nbitmap_cvg     : 1.18%\nunique_crashes : 62\nunique_hangs   : 1\nlast_path      : 1500309006\nlast_crash     : 1500308998\nlast_hang      : 1500308469\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/electronictrading/input -o /dev/shm/work/electronictrading/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/electronictrading/electronictrading.dict -- data/linux/processed-challenges/electronictrading/bin/electronictrading\n'
+p43
+I0
+tp44
+a(I2640
+S'start_time     : 1500306606\nlast_update    : 1500309250\nfuzzer_pid     : 24803\ncycles_done    : 0\nexecs_done     : 2993637\nexecs_per_sec  : 1106.43\npaths_total    : 190\npaths_favored  : 89\npaths_found    : 189\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 107\npending_favs   : 45\npending_total  : 120\nvariable_paths : 0\nbitmap_cvg     : 1.18%\nunique_crashes : 67\nunique_hangs   : 1\nlast_path      : 1500309233\nlast_crash     : 1500309209\nlast_hang      : 1500308469\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/electronictrading/input -o /dev/shm/work/electronictrading/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/electronictrading/electronictrading.dict -- data/linux/processed-challenges/electronictrading/bin/electronictrading\n'
+p45
+I7
+tp46
+a(I2760
+S'start_time     : 1500306606\nlast_update    : 1500309370\nfuzzer_pid     : 24803\ncycles_done    : 0\nexecs_done     : 3115786\nexecs_per_sec  : 975.60\npaths_total    : 195\npaths_favored  : 92\npaths_found    : 194\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 122\npending_favs   : 44\npending_total  : 120\nvariable_paths : 0\nbitmap_cvg     : 1.19%\nunique_crashes : 73\nunique_hangs   : 2\nlast_path      : 1500309368\nlast_crash     : 1500309354\nlast_hang      : 1500309272\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/electronictrading/input -o /dev/shm/work/electronictrading/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/electronictrading/electronictrading.dict -- data/linux/processed-challenges/electronictrading/bin/electronictrading\n'
+p47
+I3
+tp48
+a(I2880
+S'start_time     : 1500306606\nlast_update    : 1500309490\nfuzzer_pid     : 24803\ncycles_done    : 0\nexecs_done     : 3244066\nexecs_per_sec  : 1120.11\npaths_total    : 197\npaths_favored  : 91\npaths_found    : 196\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 132\npending_favs   : 41\npending_total  : 118\nvariable_paths : 0\nbitmap_cvg     : 1.19%\nunique_crashes : 75\nunique_hangs   : 2\nlast_path      : 1500309480\nlast_crash     : 1500309450\nlast_hang      : 1500309272\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/electronictrading/input -o /dev/shm/work/electronictrading/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/electronictrading/electronictrading.dict -- data/linux/processed-challenges/electronictrading/bin/electronictrading\n'
+p49
+I2
+tp50
+a(I3000
+S'start_time     : 1500306606\nlast_update    : 1500309610\nfuzzer_pid     : 24803\ncycles_done    : 0\nexecs_done     : 3366060\nexecs_per_sec  : 1075.55\npaths_total    : 205\npaths_favored  : 91\npaths_found    : 204\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 135\npending_favs   : 39\npending_total  : 123\nvariable_paths : 0\nbitmap_cvg     : 1.21%\nunique_crashes : 78\nunique_hangs   : 2\nlast_path      : 1500309596\nlast_crash     : 1500309570\nlast_hang      : 1500309272\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/electronictrading/input -o /dev/shm/work/electronictrading/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/electronictrading/electronictrading.dict -- data/linux/processed-challenges/electronictrading/bin/electronictrading\n'
+p51
+I8
+tp52
+a(I3120
+S'start_time     : 1500306606\nlast_update    : 1500309731\nfuzzer_pid     : 24803\ncycles_done    : 0\nexecs_done     : 3491832\nexecs_per_sec  : 956.97\npaths_total    : 207\npaths_favored  : 97\npaths_found    : 206\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 142\npending_favs   : 45\npending_total  : 122\nvariable_paths : 0\nbitmap_cvg     : 1.21%\nunique_crashes : 78\nunique_hangs   : 2\nlast_path      : 1500309648\nlast_crash     : 1500309570\nlast_hang      : 1500309272\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/electronictrading/input -o /dev/shm/work/electronictrading/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/electronictrading/electronictrading.dict -- data/linux/processed-challenges/electronictrading/bin/electronictrading\n'
+p53
+I4
+tp54
+a(I3240
+S'start_time     : 1500306606\nlast_update    : 1500309851\nfuzzer_pid     : 24803\ncycles_done    : 0\nexecs_done     : 3623482\nexecs_per_sec  : 1078.47\npaths_total    : 216\npaths_favored  : 97\npaths_found    : 215\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 142\npending_favs   : 45\npending_total  : 131\nvariable_paths : 0\nbitmap_cvg     : 1.22%\nunique_crashes : 78\nunique_hangs   : 2\nlast_path      : 1500309849\nlast_crash     : 1500309570\nlast_hang      : 1500309272\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/electronictrading/input -o /dev/shm/work/electronictrading/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/electronictrading/electronictrading.dict -- data/linux/processed-challenges/electronictrading/bin/electronictrading\n'
+p55
+I8
+tp56
+a(I3360
+S'start_time     : 1500306606\nlast_update    : 1500309971\nfuzzer_pid     : 24803\ncycles_done    : 0\nexecs_done     : 3749822\nexecs_per_sec  : 1006.25\npaths_total    : 221\npaths_favored  : 104\npaths_found    : 220\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 148\npending_favs   : 51\npending_total  : 133\nvariable_paths : 0\nbitmap_cvg     : 1.23%\nunique_crashes : 79\nunique_hangs   : 2\nlast_path      : 1500309958\nlast_crash     : 1500309953\nlast_hang      : 1500309272\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/electronictrading/input -o /dev/shm/work/electronictrading/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/electronictrading/electronictrading.dict -- data/linux/processed-challenges/electronictrading/bin/electronictrading\n'
+p57
+I4
+tp58
+a(I3480
+S'start_time     : 1500306606\nlast_update    : 1500310091\nfuzzer_pid     : 24803\ncycles_done    : 0\nexecs_done     : 3878644\nexecs_per_sec  : 1051.18\npaths_total    : 239\npaths_favored  : 106\npaths_found    : 238\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 150\npending_favs   : 52\npending_total  : 150\nvariable_paths : 0\nbitmap_cvg     : 1.26%\nunique_crashes : 81\nunique_hangs   : 3\nlast_path      : 1500310057\nlast_crash     : 1500310045\nlast_hang      : 1500310000\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/electronictrading/input -o /dev/shm/work/electronictrading/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/electronictrading/electronictrading.dict -- data/linux/processed-challenges/electronictrading/bin/electronictrading\n'
+p59
+I18
+tp60
+a(I3600
+S'start_time     : 1500306606\nlast_update    : 1500310212\nfuzzer_pid     : 24803\ncycles_done    : 0\nexecs_done     : 4005047\nexecs_per_sec  : 996.04\npaths_total    : 245\npaths_favored  : 120\npaths_found    : 244\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 157\npending_favs   : 67\npending_total  : 153\nvariable_paths : 0\nbitmap_cvg     : 1.27%\nunique_crashes : 83\nunique_hangs   : 3\nlast_path      : 1500310207\nlast_crash     : 1500310129\nlast_hang      : 1500310000\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/electronictrading/input -o /dev/shm/work/electronictrading/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/electronictrading/electronictrading.dict -- data/linux/processed-challenges/electronictrading/bin/electronictrading\n'
+p61
+I6
+tp62
+a(I3720
+S'start_time     : 1500306606\nlast_update    : 1500310332\nfuzzer_pid     : 24803\ncycles_done    : 0\nexecs_done     : 4135351\nexecs_per_sec  : 1073.91\npaths_total    : 261\npaths_favored  : 120\npaths_found    : 260\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 157\npending_favs   : 67\npending_total  : 169\nvariable_paths : 0\nbitmap_cvg     : 1.30%\nunique_crashes : 86\nunique_hangs   : 3\nlast_path      : 1500310327\nlast_crash     : 1500310245\nlast_hang      : 1500310000\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/electronictrading/input -o /dev/shm/work/electronictrading/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/electronictrading/electronictrading.dict -- data/linux/processed-challenges/electronictrading/bin/electronictrading\n'
+p63
+I16
+tp64
+a(I3840
+S'start_time     : 1500306606\nlast_update    : 1500310452\nfuzzer_pid     : 24803\ncycles_done    : 0\nexecs_done     : 4262578\nexecs_per_sec  : 1002.42\npaths_total    : 261\npaths_favored  : 133\npaths_found    : 260\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 164\npending_favs   : 78\npending_total  : 165\nvariable_paths : 0\nbitmap_cvg     : 1.30%\nunique_crashes : 87\nunique_hangs   : 3\nlast_path      : 1500310327\nlast_crash     : 1500310334\nlast_hang      : 1500310000\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/electronictrading/input -o /dev/shm/work/electronictrading/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/electronictrading/electronictrading.dict -- data/linux/processed-challenges/electronictrading/bin/electronictrading\n'
+p65
+I0
+tp66
+a(I3960
+S'start_time     : 1500306606\nlast_update    : 1500310572\nfuzzer_pid     : 24803\ncycles_done    : 0\nexecs_done     : 4385994\nexecs_per_sec  : 1087.63\npaths_total    : 279\npaths_favored  : 133\npaths_found    : 278\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 166\npending_favs   : 77\npending_total  : 181\nvariable_paths : 0\nbitmap_cvg     : 1.33%\nunique_crashes : 89\nunique_hangs   : 3\nlast_path      : 1500310566\nlast_crash     : 1500310530\nlast_hang      : 1500310000\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/electronictrading/input -o /dev/shm/work/electronictrading/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/electronictrading/electronictrading.dict -- data/linux/processed-challenges/electronictrading/bin/electronictrading\n'
+p67
+I18
+tp68
+a(I4080
+S'start_time     : 1500306606\nlast_update    : 1500310693\nfuzzer_pid     : 24803\ncycles_done    : 0\nexecs_done     : 4515820\nexecs_per_sec  : 997.92\npaths_total    : 287\npaths_favored  : 144\npaths_found    : 286\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 168\npending_favs   : 90\npending_total  : 188\nvariable_paths : 0\nbitmap_cvg     : 1.34%\nunique_crashes : 91\nunique_hangs   : 3\nlast_path      : 1500310681\nlast_crash     : 1500310593\nlast_hang      : 1500310000\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/electronictrading/input -o /dev/shm/work/electronictrading/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/electronictrading/electronictrading.dict -- data/linux/processed-challenges/electronictrading/bin/electronictrading\n'
+p69
+I8
+tp70
+a(I4200
+S'start_time     : 1500306606\nlast_update    : 1500310813\nfuzzer_pid     : 24803\ncycles_done    : 0\nexecs_done     : 4639164\nexecs_per_sec  : 1001.99\npaths_total    : 290\npaths_favored  : 145\npaths_found    : 289\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 181\npending_favs   : 88\npending_total  : 187\nvariable_paths : 0\nbitmap_cvg     : 1.34%\nunique_crashes : 91\nunique_hangs   : 3\nlast_path      : 1500310732\nlast_crash     : 1500310593\nlast_hang      : 1500310000\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/electronictrading/input -o /dev/shm/work/electronictrading/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/electronictrading/electronictrading.dict -- data/linux/processed-challenges/electronictrading/bin/electronictrading\n'
+p71
+I3
+tp72
+a(I4320
+S'start_time     : 1500306606\nlast_update    : 1500310933\nfuzzer_pid     : 24803\ncycles_done    : 0\nexecs_done     : 4764484\nexecs_per_sec  : 1009.78\npaths_total    : 293\npaths_favored  : 146\npaths_found    : 292\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 184\npending_favs   : 86\npending_total  : 187\nvariable_paths : 0\nbitmap_cvg     : 1.34%\nunique_crashes : 95\nunique_hangs   : 4\nlast_path      : 1500310900\nlast_crash     : 1500310861\nlast_hang      : 1500310884\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/electronictrading/input -o /dev/shm/work/electronictrading/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/electronictrading/electronictrading.dict -- data/linux/processed-challenges/electronictrading/bin/electronictrading\n'
+p73
+I3
+tp74
+a(I4440
+S'start_time     : 1500306606\nlast_update    : 1500311053\nfuzzer_pid     : 24803\ncycles_done    : 0\nexecs_done     : 4889793\nexecs_per_sec  : 988.85\npaths_total    : 297\npaths_favored  : 146\npaths_found    : 296\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 188\npending_favs   : 86\npending_total  : 189\nvariable_paths : 0\nbitmap_cvg     : 1.34%\nunique_crashes : 98\nunique_hangs   : 4\nlast_path      : 1500310982\nlast_crash     : 1500310961\nlast_hang      : 1500310884\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/electronictrading/input -o /dev/shm/work/electronictrading/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/electronictrading/electronictrading.dict -- data/linux/processed-challenges/electronictrading/bin/electronictrading\n'
+p75
+I4
+tp76
+a(I4560
+S'start_time     : 1500306606\nlast_update    : 1500311173\nfuzzer_pid     : 24803\ncycles_done    : 0\nexecs_done     : 5010214\nexecs_per_sec  : 1015.39\npaths_total    : 302\npaths_favored  : 146\npaths_found    : 301\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 195\npending_favs   : 83\npending_total  : 190\nvariable_paths : 0\nbitmap_cvg     : 1.35%\nunique_crashes : 101\nunique_hangs   : 4\nlast_path      : 1500311123\nlast_crash     : 1500311166\nlast_hang      : 1500310884\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/electronictrading/input -o /dev/shm/work/electronictrading/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/electronictrading/electronictrading.dict -- data/linux/processed-challenges/electronictrading/bin/electronictrading\n'
+p77
+I6
+tp78
+a(I4680
+S'start_time     : 1500306606\nlast_update    : 1500311294\nfuzzer_pid     : 24803\ncycles_done    : 0\nexecs_done     : 5136767\nexecs_per_sec  : 1074.72\npaths_total    : 304\npaths_favored  : 146\npaths_found    : 303\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 198\npending_favs   : 80\npending_total  : 189\nvariable_paths : 0\nbitmap_cvg     : 1.35%\nunique_crashes : 103\nunique_hangs   : 4\nlast_path      : 1500311203\nlast_crash     : 1500311219\nlast_hang      : 1500310884\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/electronictrading/input -o /dev/shm/work/electronictrading/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/electronictrading/electronictrading.dict -- data/linux/processed-challenges/electronictrading/bin/electronictrading\n'
+p79
+I1
+tp80
+a(I4800
+S'start_time     : 1500306606\nlast_update    : 1500311414\nfuzzer_pid     : 24803\ncycles_done    : 0\nexecs_done     : 5256181\nexecs_per_sec  : 846.18\npaths_total    : 308\npaths_favored  : 148\npaths_found    : 307\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 200\npending_favs   : 80\npending_total  : 191\nvariable_paths : 0\nbitmap_cvg     : 1.35%\nunique_crashes : 106\nunique_hangs   : 4\nlast_path      : 1500311345\nlast_crash     : 1500311394\nlast_hang      : 1500310884\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/electronictrading/input -o /dev/shm/work/electronictrading/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/electronictrading/electronictrading.dict -- data/linux/processed-challenges/electronictrading/bin/electronictrading\n'
+p81
+I5
+tp82
+a(I4920
+S'start_time     : 1500306606\nlast_update    : 1500311534\nfuzzer_pid     : 24803\ncycles_done    : 0\nexecs_done     : 5373587\nexecs_per_sec  : 846.29\npaths_total    : 310\npaths_favored  : 149\npaths_found    : 309\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 204\npending_favs   : 78\npending_total  : 190\nvariable_paths : 0\nbitmap_cvg     : 1.35%\nunique_crashes : 111\nunique_hangs   : 4\nlast_path      : 1500311421\nlast_crash     : 1500311498\nlast_hang      : 1500310884\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/electronictrading/input -o /dev/shm/work/electronictrading/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/electronictrading/electronictrading.dict -- data/linux/processed-challenges/electronictrading/bin/electronictrading\n'
+p83
+I1
+tp84
+a(I5040
+S'start_time     : 1500306606\nlast_update    : 1500311654\nfuzzer_pid     : 24803\ncycles_done    : 0\nexecs_done     : 5498467\nexecs_per_sec  : 1074.02\npaths_total    : 314\npaths_favored  : 149\npaths_found    : 313\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 204\npending_favs   : 78\npending_total  : 194\nvariable_paths : 0\nbitmap_cvg     : 1.36%\nunique_crashes : 114\nunique_hangs   : 5\nlast_path      : 1500311575\nlast_crash     : 1500311581\nlast_hang      : 1500311578\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/electronictrading/input -o /dev/shm/work/electronictrading/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/electronictrading/electronictrading.dict -- data/linux/processed-challenges/electronictrading/bin/electronictrading\n'
+p85
+I4
+tp86
+a(I5160
+S'start_time     : 1500306606\nlast_update    : 1500311775\nfuzzer_pid     : 24803\ncycles_done    : 0\nexecs_done     : 5621596\nexecs_per_sec  : 1058.92\npaths_total    : 318\npaths_favored  : 148\npaths_found    : 317\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 205\npending_favs   : 80\npending_total  : 197\nvariable_paths : 0\nbitmap_cvg     : 1.36%\nunique_crashes : 114\nunique_hangs   : 5\nlast_path      : 1500311751\nlast_crash     : 1500311581\nlast_hang      : 1500311578\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/electronictrading/input -o /dev/shm/work/electronictrading/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/electronictrading/electronictrading.dict -- data/linux/processed-challenges/electronictrading/bin/electronictrading\n'
+p87
+I4
+tp88
+a(I5280
+S'start_time     : 1500306606\nlast_update    : 1500311895\nfuzzer_pid     : 24803\ncycles_done    : 0\nexecs_done     : 5744064\nexecs_per_sec  : 974.25\npaths_total    : 320\npaths_favored  : 153\npaths_found    : 319\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 211\npending_favs   : 83\npending_total  : 196\nvariable_paths : 0\nbitmap_cvg     : 1.37%\nunique_crashes : 116\nunique_hangs   : 5\nlast_path      : 1500311842\nlast_crash     : 1500311880\nlast_hang      : 1500311578\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/electronictrading/input -o /dev/shm/work/electronictrading/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/electronictrading/electronictrading.dict -- data/linux/processed-challenges/electronictrading/bin/electronictrading\n'
+p89
+I2
+tp90
+a(I5400
+S'start_time     : 1500306606\nlast_update    : 1500312015\nfuzzer_pid     : 24803\ncycles_done    : 0\nexecs_done     : 5871963\nexecs_per_sec  : 1035.24\npaths_total    : 323\npaths_favored  : 154\npaths_found    : 322\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 214\npending_favs   : 83\npending_total  : 196\nvariable_paths : 0\nbitmap_cvg     : 1.37%\nunique_crashes : 117\nunique_hangs   : 5\nlast_path      : 1500311979\nlast_crash     : 1500311955\nlast_hang      : 1500311578\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/electronictrading/input -o /dev/shm/work/electronictrading/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/electronictrading/electronictrading.dict -- data/linux/processed-challenges/electronictrading/bin/electronictrading\n'
+p91
+I3
+tp92
+a(I5520
+S'start_time     : 1500306606\nlast_update    : 1500312135\nfuzzer_pid     : 24803\ncycles_done    : 0\nexecs_done     : 6001754\nexecs_per_sec  : 1092.56\npaths_total    : 326\npaths_favored  : 154\npaths_found    : 325\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 214\npending_favs   : 83\npending_total  : 199\nvariable_paths : 0\nbitmap_cvg     : 1.38%\nunique_crashes : 121\nunique_hangs   : 5\nlast_path      : 1500312079\nlast_crash     : 1500312120\nlast_hang      : 1500311578\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/electronictrading/input -o /dev/shm/work/electronictrading/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/electronictrading/electronictrading.dict -- data/linux/processed-challenges/electronictrading/bin/electronictrading\n'
+p93
+I3
+tp94
+a(I5640
+S'start_time     : 1500306606\nlast_update    : 1500312255\nfuzzer_pid     : 24803\ncycles_done    : 0\nexecs_done     : 6132409\nexecs_per_sec  : 1122.83\npaths_total    : 332\npaths_favored  : 156\npaths_found    : 331\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 218\npending_favs   : 84\npending_total  : 204\nvariable_paths : 0\nbitmap_cvg     : 1.38%\nunique_crashes : 124\nunique_hangs   : 5\nlast_path      : 1500312227\nlast_crash     : 1500312184\nlast_hang      : 1500311578\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/electronictrading/input -o /dev/shm/work/electronictrading/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/electronictrading/electronictrading.dict -- data/linux/processed-challenges/electronictrading/bin/electronictrading\n'
+p95
+I6
+tp96
+a(I5760
+S'start_time     : 1500306606\nlast_update    : 1500312376\nfuzzer_pid     : 24803\ncycles_done    : 0\nexecs_done     : 6262743\nexecs_per_sec  : 1123.63\npaths_total    : 333\npaths_favored  : 160\npaths_found    : 332\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 219\npending_favs   : 88\npending_total  : 204\nvariable_paths : 0\nbitmap_cvg     : 1.38%\nunique_crashes : 124\nunique_hangs   : 5\nlast_path      : 1500312292\nlast_crash     : 1500312184\nlast_hang      : 1500311578\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/electronictrading/input -o /dev/shm/work/electronictrading/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/electronictrading/electronictrading.dict -- data/linux/processed-challenges/electronictrading/bin/electronictrading\n'
+p97
+I1
+tp98
+a(I5880
+S'start_time     : 1500306606\nlast_update    : 1500312496\nfuzzer_pid     : 24803\ncycles_done    : 0\nexecs_done     : 6385327\nexecs_per_sec  : 1010.00\npaths_total    : 340\npaths_favored  : 160\npaths_found    : 339\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 220\npending_favs   : 87\npending_total  : 210\nvariable_paths : 0\nbitmap_cvg     : 1.39%\nunique_crashes : 127\nunique_hangs   : 6\nlast_path      : 1500312465\nlast_crash     : 1500312496\nlast_hang      : 1500312386\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/electronictrading/input -o /dev/shm/work/electronictrading/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/electronictrading/electronictrading.dict -- data/linux/processed-challenges/electronictrading/bin/electronictrading\n'
+p99
+I7
+tp100
+a(I6000
+S'start_time     : 1500306606\nlast_update    : 1500312616\nfuzzer_pid     : 24803\ncycles_done    : 0\nexecs_done     : 6511555\nexecs_per_sec  : 1115.33\npaths_total    : 342\npaths_favored  : 163\npaths_found    : 341\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 221\npending_favs   : 92\npending_total  : 211\nvariable_paths : 0\nbitmap_cvg     : 1.39%\nunique_crashes : 127\nunique_hangs   : 6\nlast_path      : 1500312596\nlast_crash     : 1500312496\nlast_hang      : 1500312386\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/electronictrading/input -o /dev/shm/work/electronictrading/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/electronictrading/electronictrading.dict -- data/linux/processed-challenges/electronictrading/bin/electronictrading\n'
+p101
+I2
+tp102
+a(I6120
+S'start_time     : 1500306606\nlast_update    : 1500312736\nfuzzer_pid     : 24803\ncycles_done    : 0\nexecs_done     : 6640671\nexecs_per_sec  : 1118.03\npaths_total    : 344\npaths_favored  : 165\npaths_found    : 343\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 223\npending_favs   : 92\npending_total  : 211\nvariable_paths : 0\nbitmap_cvg     : 1.40%\nunique_crashes : 128\nunique_hangs   : 6\nlast_path      : 1500312667\nlast_crash     : 1500312679\nlast_hang      : 1500312386\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/electronictrading/input -o /dev/shm/work/electronictrading/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/electronictrading/electronictrading.dict -- data/linux/processed-challenges/electronictrading/bin/electronictrading\n'
+p103
+I2
+tp104
+a(I6240
+S'start_time     : 1500306606\nlast_update    : 1500312857\nfuzzer_pid     : 24803\ncycles_done    : 0\nexecs_done     : 6771188\nexecs_per_sec  : 1095.92\npaths_total    : 353\npaths_favored  : 165\npaths_found    : 352\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 224\npending_favs   : 91\npending_total  : 219\nvariable_paths : 0\nbitmap_cvg     : 1.41%\nunique_crashes : 131\nunique_hangs   : 6\nlast_path      : 1500312852\nlast_crash     : 1500312763\nlast_hang      : 1500312386\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/electronictrading/input -o /dev/shm/work/electronictrading/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/electronictrading/electronictrading.dict -- data/linux/processed-challenges/electronictrading/bin/electronictrading\n'
+p105
+I9
+tp106
+a(I6360
+S'start_time     : 1500306606\nlast_update    : 1500312977\nfuzzer_pid     : 24803\ncycles_done    : 0\nexecs_done     : 6898683\nexecs_per_sec  : 998.88\npaths_total    : 354\npaths_favored  : 171\npaths_found    : 353\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 227\npending_favs   : 96\npending_total  : 218\nvariable_paths : 0\nbitmap_cvg     : 1.41%\nunique_crashes : 132\nunique_hangs   : 6\nlast_path      : 1500312872\nlast_crash     : 1500312947\nlast_hang      : 1500312386\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/electronictrading/input -o /dev/shm/work/electronictrading/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/electronictrading/electronictrading.dict -- data/linux/processed-challenges/electronictrading/bin/electronictrading\n'
+p107
+I1
+tp108
+a(I6480
+S'start_time     : 1500306606\nlast_update    : 1500313097\nfuzzer_pid     : 24803\ncycles_done    : 0\nexecs_done     : 7027482\nexecs_per_sec  : 1120.92\npaths_total    : 354\npaths_favored  : 171\npaths_found    : 353\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 232\npending_favs   : 93\npending_total  : 215\nvariable_paths : 0\nbitmap_cvg     : 1.41%\nunique_crashes : 132\nunique_hangs   : 6\nlast_path      : 1500312872\nlast_crash     : 1500312947\nlast_hang      : 1500312386\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/electronictrading/input -o /dev/shm/work/electronictrading/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/electronictrading/electronictrading.dict -- data/linux/processed-challenges/electronictrading/bin/electronictrading\n'
+p109
+I0
+tp110
+a(I6600
+S'start_time     : 1500306606\nlast_update    : 1500313157\nfuzzer_pid     : 24803\ncycles_done    : 0\nexecs_done     : 7090554\nexecs_per_sec  : 976.07\npaths_total    : 354\npaths_favored  : 171\npaths_found    : 353\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 234\npending_favs   : 91\npending_total  : 213\nvariable_paths : 0\nbitmap_cvg     : 1.41%\nunique_crashes : 132\nunique_hangs   : 6\nlast_path      : 1500312872\nlast_crash     : 1500312947\nlast_hang      : 1500312386\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/electronictrading/input -o /dev/shm/work/electronictrading/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/electronictrading/electronictrading.dict -- data/linux/processed-challenges/electronictrading/bin/electronictrading\n'
+p111
+I0
+tp112
+a(I6720
+S'start_time     : 1500306606\nlast_update    : 1500313277\nfuzzer_pid     : 24803\ncycles_done    : 0\nexecs_done     : 7215327\nexecs_per_sec  : 953.98\npaths_total    : 354\npaths_favored  : 171\npaths_found    : 353\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 237\npending_favs   : 88\npending_total  : 210\nvariable_paths : 0\nbitmap_cvg     : 1.41%\nunique_crashes : 133\nunique_hangs   : 6\nlast_path      : 1500312872\nlast_crash     : 1500313177\nlast_hang      : 1500312386\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/electronictrading/input -o /dev/shm/work/electronictrading/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/electronictrading/electronictrading.dict -- data/linux/processed-challenges/electronictrading/bin/electronictrading\n'
+p113
+I1
+tp114
+a(I6840
+S'start_time     : 1500306606\nlast_update    : 1500313397\nfuzzer_pid     : 24803\ncycles_done    : 0\nexecs_done     : 7340724\nexecs_per_sec  : 983.31\npaths_total    : 355\npaths_favored  : 172\npaths_found    : 354\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 241\npending_favs   : 86\npending_total  : 208\nvariable_paths : 0\nbitmap_cvg     : 1.41%\nunique_crashes : 133\nunique_hangs   : 6\nlast_path      : 1500313290\nlast_crash     : 1500313177\nlast_hang      : 1500312386\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/electronictrading/input -o /dev/shm/work/electronictrading/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/electronictrading/electronictrading.dict -- data/linux/processed-challenges/electronictrading/bin/electronictrading\n'
+p115
+I0
+tp116
+a(I6960
+S'start_time     : 1500306606\nlast_update    : 1500313518\nfuzzer_pid     : 24803\ncycles_done    : 0\nexecs_done     : 7462039\nexecs_per_sec  : 1027.48\npaths_total    : 355\npaths_favored  : 172\npaths_found    : 354\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 245\npending_favs   : 83\npending_total  : 205\nvariable_paths : 0\nbitmap_cvg     : 1.41%\nunique_crashes : 134\nunique_hangs   : 6\nlast_path      : 1500313290\nlast_crash     : 1500313414\nlast_hang      : 1500312386\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/electronictrading/input -o /dev/shm/work/electronictrading/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/electronictrading/electronictrading.dict -- data/linux/processed-challenges/electronictrading/bin/electronictrading\n'
+p117
+I1
+tp118
+a(I7080
+S'start_time     : 1500306606\nlast_update    : 1500313638\nfuzzer_pid     : 24803\ncycles_done    : 0\nexecs_done     : 7586542\nexecs_per_sec  : 967.13\npaths_total    : 356\npaths_favored  : 173\npaths_found    : 355\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 249\npending_favs   : 81\npending_total  : 203\nvariable_paths : 0\nbitmap_cvg     : 1.41%\nunique_crashes : 135\nunique_hangs   : 6\nlast_path      : 1500313552\nlast_crash     : 1500313614\nlast_hang      : 1500312386\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/electronictrading/input -o /dev/shm/work/electronictrading/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/electronictrading/electronictrading.dict -- data/linux/processed-challenges/electronictrading/bin/electronictrading\n'
+p119
+I0
+tp120
+a(I7200
+S'start_time     : 1500306606\nlast_update    : 1500313758\nfuzzer_pid     : 24803\ncycles_done    : 0\nexecs_done     : 7712680\nexecs_per_sec  : 999.90\npaths_total    : 356\npaths_favored  : 173\npaths_found    : 355\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 253\npending_favs   : 78\npending_total  : 200\nvariable_paths : 0\nbitmap_cvg     : 1.41%\nunique_crashes : 135\nunique_hangs   : 6\nlast_path      : 1500313552\nlast_crash     : 1500313614\nlast_hang      : 1500312386\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/electronictrading/input -o /dev/shm/work/electronictrading/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/electronictrading/electronictrading.dict -- data/linux/processed-challenges/electronictrading/bin/electronictrading\n'
+p121
+I0
+tp122
+a(I7320
+S'start_time     : 1500306606\nlast_update    : 1500313878\nfuzzer_pid     : 24803\ncycles_done    : 0\nexecs_done     : 7839143\nexecs_per_sec  : 1103.48\npaths_total    : 360\npaths_favored  : 173\npaths_found    : 359\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 255\npending_favs   : 76\npending_total  : 202\nvariable_paths : 0\nbitmap_cvg     : 1.42%\nunique_crashes : 135\nunique_hangs   : 6\nlast_path      : 1500313862\nlast_crash     : 1500313614\nlast_hang      : 1500312386\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/electronictrading/input -o /dev/shm/work/electronictrading/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/electronictrading/electronictrading.dict -- data/linux/processed-challenges/electronictrading/bin/electronictrading\n'
+p123
+I5
+tp124
+a(I7440
+S'start_time     : 1500306606\nlast_update    : 1500313998\nfuzzer_pid     : 24803\ncycles_done    : 0\nexecs_done     : 7971402\nexecs_per_sec  : 1039.30\npaths_total    : 362\npaths_favored  : 175\npaths_found    : 361\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 256\npending_favs   : 78\npending_total  : 203\nvariable_paths : 0\nbitmap_cvg     : 1.42%\nunique_crashes : 137\nunique_hangs   : 6\nlast_path      : 1500313969\nlast_crash     : 1500313914\nlast_hang      : 1500312386\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/electronictrading/input -o /dev/shm/work/electronictrading/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/electronictrading/electronictrading.dict -- data/linux/processed-challenges/electronictrading/bin/electronictrading\n'
+p125
+I1
+tp126
+a(I7560
+S'start_time     : 1500306606\nlast_update    : 1500314119\nfuzzer_pid     : 24803\ncycles_done    : 0\nexecs_done     : 8095743\nexecs_per_sec  : 1084.81\npaths_total    : 369\npaths_favored  : 175\npaths_found    : 368\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 258\npending_favs   : 76\npending_total  : 208\nvariable_paths : 0\nbitmap_cvg     : 1.43%\nunique_crashes : 139\nunique_hangs   : 7\nlast_path      : 1500314117\nlast_crash     : 1500314090\nlast_hang      : 1500314090\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/electronictrading/input -o /dev/shm/work/electronictrading/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/electronictrading/electronictrading.dict -- data/linux/processed-challenges/electronictrading/bin/electronictrading\n'
+p127
+I10
+tp128
+a(I7680
+S'start_time     : 1500306606\nlast_update    : 1500314239\nfuzzer_pid     : 24803\ncycles_done    : 0\nexecs_done     : 8228543\nexecs_per_sec  : 1119.57\npaths_total    : 373\npaths_favored  : 175\npaths_found    : 372\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 258\npending_favs   : 76\npending_total  : 212\nvariable_paths : 0\nbitmap_cvg     : 1.43%\nunique_crashes : 139\nunique_hangs   : 7\nlast_path      : 1500314179\nlast_crash     : 1500314090\nlast_hang      : 1500314090\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/electronictrading/input -o /dev/shm/work/electronictrading/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/electronictrading/electronictrading.dict -- data/linux/processed-challenges/electronictrading/bin/electronictrading\n'
+p129
+I3
+tp130
+a(I7800
+S'start_time     : 1500306606\nlast_update    : 1500314359\nfuzzer_pid     : 24803\ncycles_done    : 0\nexecs_done     : 8353553\nexecs_per_sec  : 1064.33\npaths_total    : 378\npaths_favored  : 179\npaths_found    : 377\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 259\npending_favs   : 84\npending_total  : 216\nvariable_paths : 0\nbitmap_cvg     : 1.44%\nunique_crashes : 139\nunique_hangs   : 7\nlast_path      : 1500314347\nlast_crash     : 1500314090\nlast_hang      : 1500314090\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/electronictrading/input -o /dev/shm/work/electronictrading/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/electronictrading/electronictrading.dict -- data/linux/processed-challenges/electronictrading/bin/electronictrading\n'
+p131
+I3
+tp132
+a(I7920
+S'start_time     : 1500306606\nlast_update    : 1500314479\nfuzzer_pid     : 24803\ncycles_done    : 0\nexecs_done     : 8479413\nexecs_per_sec  : 998.95\npaths_total    : 379\npaths_favored  : 183\npaths_found    : 378\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 261\npending_favs   : 87\npending_total  : 215\nvariable_paths : 0\nbitmap_cvg     : 1.44%\nunique_crashes : 140\nunique_hangs   : 7\nlast_path      : 1500314452\nlast_crash     : 1500314434\nlast_hang      : 1500314090\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/electronictrading/input -o /dev/shm/work/electronictrading/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/electronictrading/electronictrading.dict -- data/linux/processed-challenges/electronictrading/bin/electronictrading\n'
+p133
+I1
+tp134
+a(I8040
+S'start_time     : 1500306606\nlast_update    : 1500314600\nfuzzer_pid     : 24803\ncycles_done    : 0\nexecs_done     : 8604514\nexecs_per_sec  : 982.61\npaths_total    : 380\npaths_favored  : 183\npaths_found    : 379\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 266\npending_favs   : 84\npending_total  : 213\nvariable_paths : 0\nbitmap_cvg     : 1.44%\nunique_crashes : 140\nunique_hangs   : 8\nlast_path      : 1500314598\nlast_crash     : 1500314434\nlast_hang      : 1500314542\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/electronictrading/input -o /dev/shm/work/electronictrading/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/electronictrading/electronictrading.dict -- data/linux/processed-challenges/electronictrading/bin/electronictrading\n'
+p135
+I4
+tp136
+a(I8160
+S'start_time     : 1500306606\nlast_update    : 1500314720\nfuzzer_pid     : 24803\ncycles_done    : 0\nexecs_done     : 8730897\nexecs_per_sec  : 943.61\npaths_total    : 384\npaths_favored  : 187\npaths_found    : 383\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 270\npending_favs   : 85\npending_total  : 214\nvariable_paths : 0\nbitmap_cvg     : 1.45%\nunique_crashes : 143\nunique_hangs   : 8\nlast_path      : 1500314697\nlast_crash     : 1500314719\nlast_hang      : 1500314542\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/electronictrading/input -o /dev/shm/work/electronictrading/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/electronictrading/electronictrading.dict -- data/linux/processed-challenges/electronictrading/bin/electronictrading\n'
+p137
+I8
+tp138
+a(I8280
+S'start_time     : 1500306606\nlast_update    : 1500314840\nfuzzer_pid     : 24803\ncycles_done    : 0\nexecs_done     : 8862094\nexecs_per_sec  : 1070.31\npaths_total    : 393\npaths_favored  : 187\npaths_found    : 392\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 270\npending_favs   : 85\npending_total  : 223\nvariable_paths : 0\nbitmap_cvg     : 1.46%\nunique_crashes : 148\nunique_hangs   : 8\nlast_path      : 1500314795\nlast_crash     : 1500314827\nlast_hang      : 1500314542\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/electronictrading/input -o /dev/shm/work/electronictrading/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/electronictrading/electronictrading.dict -- data/linux/processed-challenges/electronictrading/bin/electronictrading\n'
+p139
+I4
+tp140
+a(I8400
+S'start_time     : 1500306606\nlast_update    : 1500314960\nfuzzer_pid     : 24803\ncycles_done    : 0\nexecs_done     : 8988107\nexecs_per_sec  : 984.14\npaths_total    : 395\npaths_favored  : 190\npaths_found    : 394\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 273\npending_favs   : 89\npending_total  : 222\nvariable_paths : 0\nbitmap_cvg     : 1.46%\nunique_crashes : 150\nunique_hangs   : 8\nlast_path      : 1500314850\nlast_crash     : 1500314948\nlast_hang      : 1500314542\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/electronictrading/input -o /dev/shm/work/electronictrading/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/electronictrading/electronictrading.dict -- data/linux/processed-challenges/electronictrading/bin/electronictrading\n'
+p141
+I1
+tp142
+a(I8520
+S'start_time     : 1500306606\nlast_update    : 1500315081\nfuzzer_pid     : 24803\ncycles_done    : 0\nexecs_done     : 9114121\nexecs_per_sec  : 1103.33\npaths_total    : 396\npaths_favored  : 190\npaths_found    : 395\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 275\npending_favs   : 87\npending_total  : 221\nvariable_paths : 0\nbitmap_cvg     : 1.46%\nunique_crashes : 151\nunique_hangs   : 8\nlast_path      : 1500315008\nlast_crash     : 1500315044\nlast_hang      : 1500314542\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/electronictrading/input -o /dev/shm/work/electronictrading/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/electronictrading/electronictrading.dict -- data/linux/processed-challenges/electronictrading/bin/electronictrading\n'
+p143
+I0
+tp144
+a(I8640
+S'start_time     : 1500306606\nlast_update    : 1500315201\nfuzzer_pid     : 24803\ncycles_done    : 0\nexecs_done     : 9239098\nexecs_per_sec  : 1073.93\npaths_total    : 396\npaths_favored  : 190\npaths_found    : 395\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 279\npending_favs   : 83\npending_total  : 217\nvariable_paths : 0\nbitmap_cvg     : 1.46%\nunique_crashes : 151\nunique_hangs   : 8\nlast_path      : 1500315008\nlast_crash     : 1500315044\nlast_hang      : 1500314542\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/electronictrading/input -o /dev/shm/work/electronictrading/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/electronictrading/electronictrading.dict -- data/linux/processed-challenges/electronictrading/bin/electronictrading\n'
+p145
+I0
+tp146
+a(I8760
+S'start_time     : 1500306606\nlast_update    : 1500315321\nfuzzer_pid     : 24803\ncycles_done    : 0\nexecs_done     : 9359142\nexecs_per_sec  : 1095.39\npaths_total    : 396\npaths_favored  : 190\npaths_found    : 395\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 282\npending_favs   : 81\npending_total  : 215\nvariable_paths : 0\nbitmap_cvg     : 1.46%\nunique_crashes : 153\nunique_hangs   : 8\nlast_path      : 1500315008\nlast_crash     : 1500315281\nlast_hang      : 1500314542\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/electronictrading/input -o /dev/shm/work/electronictrading/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/electronictrading/electronictrading.dict -- data/linux/processed-challenges/electronictrading/bin/electronictrading\n'
+p147
+I1
+tp148
+a(I8880
+S'start_time     : 1500306606\nlast_update    : 1500315441\nfuzzer_pid     : 24803\ncycles_done    : 0\nexecs_done     : 9482820\nexecs_per_sec  : 862.65\npaths_total    : 397\npaths_favored  : 190\npaths_found    : 396\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 286\npending_favs   : 78\npending_total  : 213\nvariable_paths : 0\nbitmap_cvg     : 1.46%\nunique_crashes : 156\nunique_hangs   : 8\nlast_path      : 1500315354\nlast_crash     : 1500315381\nlast_hang      : 1500314542\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/electronictrading/input -o /dev/shm/work/electronictrading/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/electronictrading/electronictrading.dict -- data/linux/processed-challenges/electronictrading/bin/electronictrading\n'
+p149
+I1
+tp150
+a(I9000
+S'start_time     : 1500306606\nlast_update    : 1500315561\nfuzzer_pid     : 24803\ncycles_done    : 0\nexecs_done     : 9608673\nexecs_per_sec  : 1087.67\npaths_total    : 398\npaths_favored  : 191\npaths_found    : 397\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 299\npending_favs   : 76\npending_total  : 211\nvariable_paths : 0\nbitmap_cvg     : 1.46%\nunique_crashes : 158\nunique_hangs   : 8\nlast_path      : 1500315448\nlast_crash     : 1500315445\nlast_hang      : 1500314542\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/electronictrading/input -o /dev/shm/work/electronictrading/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/electronictrading/electronictrading.dict -- data/linux/processed-challenges/electronictrading/bin/electronictrading\n'
+p151
+I0
+tp152
+a(I9120
+S'start_time     : 1500306606\nlast_update    : 1500315681\nfuzzer_pid     : 24803\ncycles_done    : 0\nexecs_done     : 9732169\nexecs_per_sec  : 993.11\npaths_total    : 398\npaths_favored  : 191\npaths_found    : 397\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 305\npending_favs   : 73\npending_total  : 208\nvariable_paths : 0\nbitmap_cvg     : 1.46%\nunique_crashes : 160\nunique_hangs   : 8\nlast_path      : 1500315448\nlast_crash     : 1500315604\nlast_hang      : 1500314542\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/electronictrading/input -o /dev/shm/work/electronictrading/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/electronictrading/electronictrading.dict -- data/linux/processed-challenges/electronictrading/bin/electronictrading\n'
+p153
+I0
+tp154
+a(I9240
+S'start_time     : 1500306606\nlast_update    : 1500315802\nfuzzer_pid     : 24803\ncycles_done    : 0\nexecs_done     : 9846051\nexecs_per_sec  : 1069.40\npaths_total    : 398\npaths_favored  : 191\npaths_found    : 397\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 307\npending_favs   : 71\npending_total  : 206\nvariable_paths : 0\nbitmap_cvg     : 1.46%\nunique_crashes : 160\nunique_hangs   : 8\nlast_path      : 1500315448\nlast_crash     : 1500315604\nlast_hang      : 1500314542\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/electronictrading/input -o /dev/shm/work/electronictrading/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/electronictrading/electronictrading.dict -- data/linux/processed-challenges/electronictrading/bin/electronictrading\n'
+p155
+I2
+tp156
+a(I9360
+S'start_time     : 1500306606\nlast_update    : 1500315922\nfuzzer_pid     : 24803\ncycles_done    : 0\nexecs_done     : 9965473\nexecs_per_sec  : 1040.19\npaths_total    : 400\npaths_favored  : 191\npaths_found    : 399\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 308\npending_favs   : 70\npending_total  : 207\nvariable_paths : 0\nbitmap_cvg     : 1.47%\nunique_crashes : 166\nunique_hangs   : 8\nlast_path      : 1500315847\nlast_crash     : 1500315908\nlast_hang      : 1500314542\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/electronictrading/input -o /dev/shm/work/electronictrading/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/electronictrading/electronictrading.dict -- data/linux/processed-challenges/electronictrading/bin/electronictrading\n'
+p157
+I0
+tp158
+a(I9480
+S'start_time     : 1500306606\nlast_update    : 1500316042\nfuzzer_pid     : 24803\ncycles_done    : 0\nexecs_done     : 10078737\nexecs_per_sec  : 964.59\npaths_total    : 400\npaths_favored  : 192\npaths_found    : 399\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 313\npending_favs   : 68\npending_total  : 204\nvariable_paths : 0\nbitmap_cvg     : 1.47%\nunique_crashes : 169\nunique_hangs   : 8\nlast_path      : 1500315847\nlast_crash     : 1500316027\nlast_hang      : 1500314542\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/electronictrading/input -o /dev/shm/work/electronictrading/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/electronictrading/electronictrading.dict -- data/linux/processed-challenges/electronictrading/bin/electronictrading\n'
+p159
+I0
+tp160
+a(I9600
+S'start_time     : 1500306606\nlast_update    : 1500316162\nfuzzer_pid     : 24803\ncycles_done    : 0\nexecs_done     : 10191385\nexecs_per_sec  : 841.79\npaths_total    : 402\npaths_favored  : 194\npaths_found    : 401\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 315\npending_favs   : 68\npending_total  : 204\nvariable_paths : 0\nbitmap_cvg     : 1.47%\nunique_crashes : 170\nunique_hangs   : 8\nlast_path      : 1500316119\nlast_crash     : 1500316044\nlast_hang      : 1500314542\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/electronictrading/input -o /dev/shm/work/electronictrading/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/electronictrading/electronictrading.dict -- data/linux/processed-challenges/electronictrading/bin/electronictrading\n'
+p161
+I3
+tp162
+a(I9720
+S'start_time     : 1500306606\nlast_update    : 1500316282\nfuzzer_pid     : 24803\ncycles_done    : 0\nexecs_done     : 10300917\nexecs_per_sec  : 812.96\npaths_total    : 406\npaths_favored  : 194\npaths_found    : 405\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 317\npending_favs   : 67\npending_total  : 206\nvariable_paths : 0\nbitmap_cvg     : 1.47%\nunique_crashes : 172\nunique_hangs   : 8\nlast_path      : 1500316281\nlast_crash     : 1500316196\nlast_hang      : 1500314542\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/electronictrading/input -o /dev/shm/work/electronictrading/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/electronictrading/electronictrading.dict -- data/linux/processed-challenges/electronictrading/bin/electronictrading\n'
+p163
+I3
+tp164
+a(I9840
+S'start_time     : 1500306606\nlast_update    : 1500316403\nfuzzer_pid     : 24803\ncycles_done    : 0\nexecs_done     : 10416668\nexecs_per_sec  : 938.43\npaths_total    : 406\npaths_favored  : 195\npaths_found    : 405\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 320\npending_favs   : 65\npending_total  : 203\nvariable_paths : 0\nbitmap_cvg     : 1.47%\nunique_crashes : 172\nunique_hangs   : 8\nlast_path      : 1500316281\nlast_crash     : 1500316196\nlast_hang      : 1500314542\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/electronictrading/input -o /dev/shm/work/electronictrading/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/electronictrading/electronictrading.dict -- data/linux/processed-challenges/electronictrading/bin/electronictrading\n'
+p165
+I1
+tp166
+a(I9960
+S'start_time     : 1500306606\nlast_update    : 1500316523\nfuzzer_pid     : 24803\ncycles_done    : 0\nexecs_done     : 10537729\nexecs_per_sec  : 933.08\npaths_total    : 408\npaths_favored  : 194\npaths_found    : 407\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 324\npending_favs   : 64\npending_total  : 203\nvariable_paths : 0\nbitmap_cvg     : 1.48%\nunique_crashes : 173\nunique_hangs   : 8\nlast_path      : 1500316500\nlast_crash     : 1500316501\nlast_hang      : 1500314542\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/electronictrading/input -o /dev/shm/work/electronictrading/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/electronictrading/electronictrading.dict -- data/linux/processed-challenges/electronictrading/bin/electronictrading\n'
+p167
+I2
+tp168
+a(I10080
+S'start_time     : 1500306606\nlast_update    : 1500316643\nfuzzer_pid     : 24803\ncycles_done    : 0\nexecs_done     : 10654171\nexecs_per_sec  : 879.51\npaths_total    : 409\npaths_favored  : 194\npaths_found    : 408\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 327\npending_favs   : 63\npending_total  : 202\nvariable_paths : 0\nbitmap_cvg     : 1.48%\nunique_crashes : 176\nunique_hangs   : 8\nlast_path      : 1500316537\nlast_crash     : 1500316608\nlast_hang      : 1500314542\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/electronictrading/input -o /dev/shm/work/electronictrading/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/electronictrading/electronictrading.dict -- data/linux/processed-challenges/electronictrading/bin/electronictrading\n'
+p169
+I0
+tp170
+a(I10200
+S'start_time     : 1500306606\nlast_update    : 1500316763\nfuzzer_pid     : 24803\ncycles_done    : 0\nexecs_done     : 10769517\nexecs_per_sec  : 946.03\npaths_total    : 409\npaths_favored  : 194\npaths_found    : 408\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 331\npending_favs   : 60\npending_total  : 199\nvariable_paths : 0\nbitmap_cvg     : 1.48%\nunique_crashes : 176\nunique_hangs   : 8\nlast_path      : 1500316537\nlast_crash     : 1500316608\nlast_hang      : 1500314542\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/electronictrading/input -o /dev/shm/work/electronictrading/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/electronictrading/electronictrading.dict -- data/linux/processed-challenges/electronictrading/bin/electronictrading\n'
+p171
+I0
+tp172
+a(I10320
+S'start_time     : 1500306606\nlast_update    : 1500316883\nfuzzer_pid     : 24803\ncycles_done    : 0\nexecs_done     : 10883941\nexecs_per_sec  : 856.65\npaths_total    : 409\npaths_favored  : 194\npaths_found    : 408\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 335\npending_favs   : 57\npending_total  : 196\nvariable_paths : 0\nbitmap_cvg     : 1.48%\nunique_crashes : 176\nunique_hangs   : 8\nlast_path      : 1500316537\nlast_crash     : 1500316608\nlast_hang      : 1500314542\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/electronictrading/input -o /dev/shm/work/electronictrading/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/electronictrading/electronictrading.dict -- data/linux/processed-challenges/electronictrading/bin/electronictrading\n'
+p173
+I0
+tp174
+a(I10440
+S'start_time     : 1500306606\nlast_update    : 1500317003\nfuzzer_pid     : 24803\ncycles_done    : 0\nexecs_done     : 10994700\nexecs_per_sec  : 1037.13\npaths_total    : 410\npaths_favored  : 195\npaths_found    : 409\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 337\npending_favs   : 56\npending_total  : 195\nvariable_paths : 0\nbitmap_cvg     : 1.48%\nunique_crashes : 178\nunique_hangs   : 8\nlast_path      : 1500316945\nlast_crash     : 1500316939\nlast_hang      : 1500314542\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/electronictrading/input -o /dev/shm/work/electronictrading/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/electronictrading/electronictrading.dict -- data/linux/processed-challenges/electronictrading/bin/electronictrading\n'
+p175
+I2
+tp176
+a(I10560
+S'start_time     : 1500306606\nlast_update    : 1500317124\nfuzzer_pid     : 24803\ncycles_done    : 0\nexecs_done     : 11110486\nexecs_per_sec  : 947.93\npaths_total    : 411\npaths_favored  : 195\npaths_found    : 410\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 342\npending_favs   : 53\npending_total  : 193\nvariable_paths : 0\nbitmap_cvg     : 1.48%\nunique_crashes : 178\nunique_hangs   : 8\nlast_path      : 1500317055\nlast_crash     : 1500316939\nlast_hang      : 1500314542\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/electronictrading/input -o /dev/shm/work/electronictrading/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/electronictrading/electronictrading.dict -- data/linux/processed-challenges/electronictrading/bin/electronictrading\n'
+p177
+I0
+tp178
+a(I10680
+S'start_time     : 1500306606\nlast_update    : 1500317244\nfuzzer_pid     : 24803\ncycles_done    : 0\nexecs_done     : 11230852\nexecs_per_sec  : 962.63\npaths_total    : 411\npaths_favored  : 195\npaths_found    : 410\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 345\npending_favs   : 50\npending_total  : 190\nvariable_paths : 0\nbitmap_cvg     : 1.48%\nunique_crashes : 178\nunique_hangs   : 8\nlast_path      : 1500317055\nlast_crash     : 1500316939\nlast_hang      : 1500314542\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/electronictrading/input -o /dev/shm/work/electronictrading/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/electronictrading/electronictrading.dict -- data/linux/processed-challenges/electronictrading/bin/electronictrading\n'
+p179
+I2
+tp180
+a.

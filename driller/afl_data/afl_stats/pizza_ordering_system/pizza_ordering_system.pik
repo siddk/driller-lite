@@ -1,0 +1,452 @@
+(lp0
+(I0
+S'start_time     : 1500176812\nlast_update    : 1500176812\nfuzzer_pid     : 19067\ncycles_done    : 0\nexecs_done     : 10\nexecs_per_sec  : 138.89\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 1\npending_total  : 1\nvariable_paths : 0\nbitmap_cvg     : 0.17%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/pizza_ordering_system/input -o /dev/shm/work/pizza_ordering_system/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/pizza_ordering_system/pizza_ordering_system.dict -- data/linux/processed-challenges/pizza_ordering_system/bin/pizza_ordering_system\n'
+p1
+I4
+tp2
+a(I120
+S'start_time     : 1500176812\nlast_update    : 1500176932\nfuzzer_pid     : 19067\ncycles_done    : 0\nexecs_done     : 57808\nexecs_per_sec  : 466.56\npaths_total    : 31\npaths_favored  : 1\npaths_found    : 30\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 1\npending_total  : 31\nvariable_paths : 0\nbitmap_cvg     : 0.38%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500176906\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/pizza_ordering_system/input -o /dev/shm/work/pizza_ordering_system/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/pizza_ordering_system/pizza_ordering_system.dict -- data/linux/processed-challenges/pizza_ordering_system/bin/pizza_ordering_system\n'
+p3
+I27
+tp4
+a(I240
+S'start_time     : 1500176812\nlast_update    : 1500177053\nfuzzer_pid     : 19067\ncycles_done    : 0\nexecs_done     : 116813\nexecs_per_sec  : 464.09\npaths_total    : 32\npaths_favored  : 1\npaths_found    : 31\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 1\npending_total  : 32\nvariable_paths : 0\nbitmap_cvg     : 0.38%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500177002\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/pizza_ordering_system/input -o /dev/shm/work/pizza_ordering_system/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/pizza_ordering_system/pizza_ordering_system.dict -- data/linux/processed-challenges/pizza_ordering_system/bin/pizza_ordering_system\n'
+p5
+I1
+tp6
+a(I360
+S'start_time     : 1500176812\nlast_update    : 1500177173\nfuzzer_pid     : 19067\ncycles_done    : 0\nexecs_done     : 172257\nexecs_per_sec  : 464.93\npaths_total    : 34\npaths_favored  : 11\npaths_found    : 33\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 2\npending_favs   : 10\npending_total  : 32\nvariable_paths : 0\nbitmap_cvg     : 0.39%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500177153\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/pizza_ordering_system/input -o /dev/shm/work/pizza_ordering_system/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/pizza_ordering_system/pizza_ordering_system.dict -- data/linux/processed-challenges/pizza_ordering_system/bin/pizza_ordering_system\n'
+p7
+I2
+tp8
+a(I480
+S'start_time     : 1500176812\nlast_update    : 1500177293\nfuzzer_pid     : 19067\ncycles_done    : 0\nexecs_done     : 226965\nexecs_per_sec  : 471.49\npaths_total    : 52\npaths_favored  : 13\npaths_found    : 51\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 28\npending_favs   : 8\npending_total  : 45\nvariable_paths : 0\nbitmap_cvg     : 0.44%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500177283\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/pizza_ordering_system/input -o /dev/shm/work/pizza_ordering_system/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/pizza_ordering_system/pizza_ordering_system.dict -- data/linux/processed-challenges/pizza_ordering_system/bin/pizza_ordering_system\n'
+p9
+I18
+tp10
+a(I600
+S'start_time     : 1500176812\nlast_update    : 1500177413\nfuzzer_pid     : 19067\ncycles_done    : 0\nexecs_done     : 282164\nexecs_per_sec  : 460.46\npaths_total    : 54\npaths_favored  : 13\npaths_found    : 53\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 28\npending_favs   : 8\npending_total  : 47\nvariable_paths : 0\nbitmap_cvg     : 0.44%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500177402\nlast_crash     : 0\nlast_hang      : 1500177331\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/pizza_ordering_system/input -o /dev/shm/work/pizza_ordering_system/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/pizza_ordering_system/pizza_ordering_system.dict -- data/linux/processed-challenges/pizza_ordering_system/bin/pizza_ordering_system\n'
+p11
+I2
+tp12
+a(I720
+S'start_time     : 1500176812\nlast_update    : 1500177473\nfuzzer_pid     : 19067\ncycles_done    : 0\nexecs_done     : 309488\nexecs_per_sec  : 453.09\npaths_total    : 54\npaths_favored  : 13\npaths_found    : 53\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 28\npending_favs   : 8\npending_total  : 47\nvariable_paths : 0\nbitmap_cvg     : 0.44%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500177402\nlast_crash     : 0\nlast_hang      : 1500177463\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/pizza_ordering_system/input -o /dev/shm/work/pizza_ordering_system/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/pizza_ordering_system/pizza_ordering_system.dict -- data/linux/processed-challenges/pizza_ordering_system/bin/pizza_ordering_system\n'
+p13
+I0
+tp14
+a(I840
+S'start_time     : 1500176812\nlast_update    : 1500177594\nfuzzer_pid     : 19067\ncycles_done    : 0\nexecs_done     : 364973\nexecs_per_sec  : 457.19\npaths_total    : 54\npaths_favored  : 13\npaths_found    : 53\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 28\npending_favs   : 8\npending_total  : 47\nvariable_paths : 0\nbitmap_cvg     : 0.44%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500177402\nlast_crash     : 0\nlast_hang      : 1500177463\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/pizza_ordering_system/input -o /dev/shm/work/pizza_ordering_system/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/pizza_ordering_system/pizza_ordering_system.dict -- data/linux/processed-challenges/pizza_ordering_system/bin/pizza_ordering_system\n'
+p15
+I3
+tp16
+a(I960
+S'start_time     : 1500176812\nlast_update    : 1500177714\nfuzzer_pid     : 19067\ncycles_done    : 0\nexecs_done     : 409213\nexecs_per_sec  : 400.46\npaths_total    : 59\npaths_favored  : 14\npaths_found    : 58\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 32\npending_favs   : 8\npending_total  : 51\nvariable_paths : 0\nbitmap_cvg     : 0.44%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500177690\nlast_crash     : 0\nlast_hang      : 1500177463\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/pizza_ordering_system/input -o /dev/shm/work/pizza_ordering_system/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/pizza_ordering_system/pizza_ordering_system.dict -- data/linux/processed-challenges/pizza_ordering_system/bin/pizza_ordering_system\n'
+p17
+I15
+tp18
+a(I1080
+S'start_time     : 1500176812\nlast_update    : 1500177834\nfuzzer_pid     : 19067\ncycles_done    : 0\nexecs_done     : 462877\nexecs_per_sec  : 454.19\npaths_total    : 79\npaths_favored  : 24\npaths_found    : 78\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 39\npending_favs   : 15\npending_total  : 67\nvariable_paths : 0\nbitmap_cvg     : 0.77%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500177792\nlast_crash     : 0\nlast_hang      : 1500177463\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/pizza_ordering_system/input -o /dev/shm/work/pizza_ordering_system/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/pizza_ordering_system/pizza_ordering_system.dict -- data/linux/processed-challenges/pizza_ordering_system/bin/pizza_ordering_system\n'
+p19
+I9
+tp20
+a(I1200
+S'start_time     : 1500176812\nlast_update    : 1500177954\nfuzzer_pid     : 19067\ncycles_done    : 0\nexecs_done     : 517295\nexecs_per_sec  : 466.60\npaths_total    : 92\npaths_favored  : 24\npaths_found    : 91\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 60\npending_favs   : 13\npending_total  : 78\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500177928\nlast_crash     : 0\nlast_hang      : 1500177463\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/pizza_ordering_system/input -o /dev/shm/work/pizza_ordering_system/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/pizza_ordering_system/pizza_ordering_system.dict -- data/linux/processed-challenges/pizza_ordering_system/bin/pizza_ordering_system\n'
+p21
+I12
+tp22
+a(I1320
+S'start_time     : 1500176812\nlast_update    : 1500178075\nfuzzer_pid     : 19067\ncycles_done    : 0\nexecs_done     : 574222\nexecs_per_sec  : 497.83\npaths_total    : 94\npaths_favored  : 24\npaths_found    : 93\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 60\npending_favs   : 13\npending_total  : 80\nvariable_paths : 0\nbitmap_cvg     : 0.81%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500178050\nlast_crash     : 0\nlast_hang      : 1500177463\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/pizza_ordering_system/input -o /dev/shm/work/pizza_ordering_system/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/pizza_ordering_system/pizza_ordering_system.dict -- data/linux/processed-challenges/pizza_ordering_system/bin/pizza_ordering_system\n'
+p23
+I2
+tp24
+a(I1440
+S'start_time     : 1500176812\nlast_update    : 1500178195\nfuzzer_pid     : 19067\ncycles_done    : 0\nexecs_done     : 629627\nexecs_per_sec  : 463.47\npaths_total    : 100\npaths_favored  : 30\npaths_found    : 99\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 61\npending_favs   : 18\npending_total  : 85\nvariable_paths : 0\nbitmap_cvg     : 0.85%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500178178\nlast_crash     : 0\nlast_hang      : 1500177463\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/pizza_ordering_system/input -o /dev/shm/work/pizza_ordering_system/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/pizza_ordering_system/pizza_ordering_system.dict -- data/linux/processed-challenges/pizza_ordering_system/bin/pizza_ordering_system\n'
+p25
+I10
+tp26
+a(I1560
+S'start_time     : 1500176812\nlast_update    : 1500178315\nfuzzer_pid     : 19067\ncycles_done    : 0\nexecs_done     : 683876\nexecs_per_sec  : 468.67\npaths_total    : 107\npaths_favored  : 33\npaths_found    : 106\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 64\npending_favs   : 23\npending_total  : 90\nvariable_paths : 0\nbitmap_cvg     : 0.87%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500178288\nlast_crash     : 0\nlast_hang      : 1500177463\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/pizza_ordering_system/input -o /dev/shm/work/pizza_ordering_system/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/pizza_ordering_system/pizza_ordering_system.dict -- data/linux/processed-challenges/pizza_ordering_system/bin/pizza_ordering_system\n'
+p27
+I2
+tp28
+a(I1680
+S'start_time     : 1500176812\nlast_update    : 1500178435\nfuzzer_pid     : 19067\ncycles_done    : 0\nexecs_done     : 736767\nexecs_per_sec  : 468.95\npaths_total    : 112\npaths_favored  : 33\npaths_found    : 111\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 66\npending_favs   : 21\npending_total  : 93\nvariable_paths : 0\nbitmap_cvg     : 0.92%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500178418\nlast_crash     : 0\nlast_hang      : 1500177463\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/pizza_ordering_system/input -o /dev/shm/work/pizza_ordering_system/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/pizza_ordering_system/pizza_ordering_system.dict -- data/linux/processed-challenges/pizza_ordering_system/bin/pizza_ordering_system\n'
+p29
+I7
+tp30
+a(I1800
+S'start_time     : 1500176812\nlast_update    : 1500178555\nfuzzer_pid     : 19067\ncycles_done    : 0\nexecs_done     : 792264\nexecs_per_sec  : 469.10\npaths_total    : 115\npaths_favored  : 33\npaths_found    : 114\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 66\npending_favs   : 21\npending_total  : 96\nvariable_paths : 0\nbitmap_cvg     : 1.03%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500178511\nlast_crash     : 0\nlast_hang      : 1500177463\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/pizza_ordering_system/input -o /dev/shm/work/pizza_ordering_system/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/pizza_ordering_system/pizza_ordering_system.dict -- data/linux/processed-challenges/pizza_ordering_system/bin/pizza_ordering_system\n'
+p31
+I1
+tp32
+a(I1920
+S'start_time     : 1500176812\nlast_update    : 1500178675\nfuzzer_pid     : 19067\ncycles_done    : 0\nexecs_done     : 848309\nexecs_per_sec  : 491.97\npaths_total    : 117\npaths_favored  : 33\npaths_found    : 116\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 66\npending_favs   : 21\npending_total  : 98\nvariable_paths : 0\nbitmap_cvg     : 1.03%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500178662\nlast_crash     : 0\nlast_hang      : 1500177463\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/pizza_ordering_system/input -o /dev/shm/work/pizza_ordering_system/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/pizza_ordering_system/pizza_ordering_system.dict -- data/linux/processed-challenges/pizza_ordering_system/bin/pizza_ordering_system\n'
+p33
+I3
+tp34
+a(I2040
+S'start_time     : 1500176812\nlast_update    : 1500178795\nfuzzer_pid     : 19067\ncycles_done    : 0\nexecs_done     : 901390\nexecs_per_sec  : 435.09\npaths_total    : 121\npaths_favored  : 35\npaths_found    : 120\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 69\npending_favs   : 23\npending_total  : 100\nvariable_paths : 0\nbitmap_cvg     : 1.25%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500178756\nlast_crash     : 0\nlast_hang      : 1500177463\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/pizza_ordering_system/input -o /dev/shm/work/pizza_ordering_system/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/pizza_ordering_system/pizza_ordering_system.dict -- data/linux/processed-challenges/pizza_ordering_system/bin/pizza_ordering_system\n'
+p35
+I7
+tp36
+a(I2160
+S'start_time     : 1500176812\nlast_update    : 1500178916\nfuzzer_pid     : 19067\ncycles_done    : 0\nexecs_done     : 955361\nexecs_per_sec  : 450.35\npaths_total    : 127\npaths_favored  : 35\npaths_found    : 126\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 69\npending_favs   : 23\npending_total  : 106\nvariable_paths : 0\nbitmap_cvg     : 1.25%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500178904\nlast_crash     : 0\nlast_hang      : 1500177463\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/pizza_ordering_system/input -o /dev/shm/work/pizza_ordering_system/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/pizza_ordering_system/pizza_ordering_system.dict -- data/linux/processed-challenges/pizza_ordering_system/bin/pizza_ordering_system\n'
+p37
+I2
+tp38
+a(I2280
+S'start_time     : 1500176812\nlast_update    : 1500179036\nfuzzer_pid     : 19067\ncycles_done    : 0\nexecs_done     : 1009387\nexecs_per_sec  : 448.66\npaths_total    : 128\npaths_favored  : 35\npaths_found    : 127\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 69\npending_favs   : 23\npending_total  : 107\nvariable_paths : 0\nbitmap_cvg     : 1.25%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500178978\nlast_crash     : 0\nlast_hang      : 1500177463\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/pizza_ordering_system/input -o /dev/shm/work/pizza_ordering_system/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/pizza_ordering_system/pizza_ordering_system.dict -- data/linux/processed-challenges/pizza_ordering_system/bin/pizza_ordering_system\n'
+p39
+I1
+tp40
+a(I2400
+S'start_time     : 1500176812\nlast_update    : 1500179156\nfuzzer_pid     : 19067\ncycles_done    : 0\nexecs_done     : 1064128\nexecs_per_sec  : 465.43\npaths_total    : 129\npaths_favored  : 35\npaths_found    : 128\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 69\npending_favs   : 23\npending_total  : 108\nvariable_paths : 0\nbitmap_cvg     : 1.26%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500179135\nlast_crash     : 0\nlast_hang      : 1500177463\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/pizza_ordering_system/input -o /dev/shm/work/pizza_ordering_system/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/pizza_ordering_system/pizza_ordering_system.dict -- data/linux/processed-challenges/pizza_ordering_system/bin/pizza_ordering_system\n'
+p41
+I2
+tp42
+a(I2520
+S'start_time     : 1500176812\nlast_update    : 1500179276\nfuzzer_pid     : 19067\ncycles_done    : 0\nexecs_done     : 1114695\nexecs_per_sec  : 423.33\npaths_total    : 132\npaths_favored  : 35\npaths_found    : 131\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 80\npending_favs   : 22\npending_total  : 108\nvariable_paths : 0\nbitmap_cvg     : 1.26%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500179276\nlast_crash     : 0\nlast_hang      : 1500177463\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/pizza_ordering_system/input -o /dev/shm/work/pizza_ordering_system/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/pizza_ordering_system/pizza_ordering_system.dict -- data/linux/processed-challenges/pizza_ordering_system/bin/pizza_ordering_system\n'
+p43
+I3
+tp44
+a(I2640
+S'start_time     : 1500176812\nlast_update    : 1500179396\nfuzzer_pid     : 19067\ncycles_done    : 0\nexecs_done     : 1170097\nexecs_per_sec  : 457.94\npaths_total    : 135\npaths_favored  : 35\npaths_found    : 134\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 80\npending_favs   : 22\npending_total  : 111\nvariable_paths : 0\nbitmap_cvg     : 1.26%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500179395\nlast_crash     : 0\nlast_hang      : 1500177463\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/pizza_ordering_system/input -o /dev/shm/work/pizza_ordering_system/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/pizza_ordering_system/pizza_ordering_system.dict -- data/linux/processed-challenges/pizza_ordering_system/bin/pizza_ordering_system\n'
+p45
+I2
+tp46
+a(I2760
+S'start_time     : 1500176812\nlast_update    : 1500179517\nfuzzer_pid     : 19067\ncycles_done    : 0\nexecs_done     : 1225304\nexecs_per_sec  : 472.96\npaths_total    : 136\npaths_favored  : 35\npaths_found    : 135\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 80\npending_favs   : 22\npending_total  : 112\nvariable_paths : 0\nbitmap_cvg     : 1.26%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500179474\nlast_crash     : 0\nlast_hang      : 1500177463\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/pizza_ordering_system/input -o /dev/shm/work/pizza_ordering_system/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/pizza_ordering_system/pizza_ordering_system.dict -- data/linux/processed-challenges/pizza_ordering_system/bin/pizza_ordering_system\n'
+p47
+I1
+tp48
+a(I2880
+S'start_time     : 1500176812\nlast_update    : 1500179637\nfuzzer_pid     : 19067\ncycles_done    : 0\nexecs_done     : 1280330\nexecs_per_sec  : 458.05\npaths_total    : 136\npaths_favored  : 36\npaths_found    : 135\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 87\npending_favs   : 22\npending_total  : 111\nvariable_paths : 0\nbitmap_cvg     : 1.26%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500179474\nlast_crash     : 0\nlast_hang      : 1500177463\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/pizza_ordering_system/input -o /dev/shm/work/pizza_ordering_system/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/pizza_ordering_system/pizza_ordering_system.dict -- data/linux/processed-challenges/pizza_ordering_system/bin/pizza_ordering_system\n'
+p49
+I1
+tp50
+a(I3000
+S'start_time     : 1500176812\nlast_update    : 1500179757\nfuzzer_pid     : 19067\ncycles_done    : 0\nexecs_done     : 1325988\nexecs_per_sec  : 435.70\npaths_total    : 144\npaths_favored  : 36\npaths_found    : 143\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 90\npending_favs   : 21\npending_total  : 118\nvariable_paths : 0\nbitmap_cvg     : 1.26%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500179750\nlast_crash     : 0\nlast_hang      : 1500177463\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/pizza_ordering_system/input -o /dev/shm/work/pizza_ordering_system/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/pizza_ordering_system/pizza_ordering_system.dict -- data/linux/processed-challenges/pizza_ordering_system/bin/pizza_ordering_system\n'
+p51
+I9
+tp52
+a(I3120
+S'start_time     : 1500176812\nlast_update    : 1500179877\nfuzzer_pid     : 19067\ncycles_done    : 0\nexecs_done     : 1378522\nexecs_per_sec  : 441.73\npaths_total    : 147\npaths_favored  : 36\npaths_found    : 146\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 90\npending_favs   : 21\npending_total  : 121\nvariable_paths : 0\nbitmap_cvg     : 1.27%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500179846\nlast_crash     : 0\nlast_hang      : 1500177463\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/pizza_ordering_system/input -o /dev/shm/work/pizza_ordering_system/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/pizza_ordering_system/pizza_ordering_system.dict -- data/linux/processed-challenges/pizza_ordering_system/bin/pizza_ordering_system\n'
+p53
+I1
+tp54
+a(I3240
+S'start_time     : 1500176812\nlast_update    : 1500179997\nfuzzer_pid     : 19067\ncycles_done    : 0\nexecs_done     : 1431826\nexecs_per_sec  : 431.28\npaths_total    : 147\npaths_favored  : 36\npaths_found    : 146\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 90\npending_favs   : 21\npending_total  : 121\nvariable_paths : 0\nbitmap_cvg     : 1.27%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500179846\nlast_crash     : 0\nlast_hang      : 1500177463\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/pizza_ordering_system/input -o /dev/shm/work/pizza_ordering_system/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/pizza_ordering_system/pizza_ordering_system.dict -- data/linux/processed-challenges/pizza_ordering_system/bin/pizza_ordering_system\n'
+p55
+I1
+tp56
+a(I3360
+S'start_time     : 1500176812\nlast_update    : 1500180118\nfuzzer_pid     : 19067\ncycles_done    : 0\nexecs_done     : 1482651\nexecs_per_sec  : 332.35\npaths_total    : 183\npaths_favored  : 36\npaths_found    : 182\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 95\npending_favs   : 21\npending_total  : 156\nvariable_paths : 0\nbitmap_cvg     : 1.34%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500180117\nlast_crash     : 0\nlast_hang      : 1500177463\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/pizza_ordering_system/input -o /dev/shm/work/pizza_ordering_system/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/pizza_ordering_system/pizza_ordering_system.dict -- data/linux/processed-challenges/pizza_ordering_system/bin/pizza_ordering_system\n'
+p57
+I45
+tp58
+a(I3480
+S'start_time     : 1500176812\nlast_update    : 1500180238\nfuzzer_pid     : 19067\ncycles_done    : 0\nexecs_done     : 1536909\nexecs_per_sec  : 457.28\npaths_total    : 195\npaths_favored  : 36\npaths_found    : 194\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 95\npending_favs   : 21\npending_total  : 168\nvariable_paths : 0\nbitmap_cvg     : 1.51%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500180228\nlast_crash     : 0\nlast_hang      : 1500177463\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/pizza_ordering_system/input -o /dev/shm/work/pizza_ordering_system/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/pizza_ordering_system/pizza_ordering_system.dict -- data/linux/processed-challenges/pizza_ordering_system/bin/pizza_ordering_system\n'
+p59
+I3
+tp60
+a(I3600
+S'start_time     : 1500176812\nlast_update    : 1500180358\nfuzzer_pid     : 19067\ncycles_done    : 0\nexecs_done     : 1590793\nexecs_per_sec  : 437.38\npaths_total    : 198\npaths_favored  : 36\npaths_found    : 197\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 95\npending_favs   : 21\npending_total  : 171\nvariable_paths : 0\nbitmap_cvg     : 1.52%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500180341\nlast_crash     : 0\nlast_hang      : 1500177463\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/pizza_ordering_system/input -o /dev/shm/work/pizza_ordering_system/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/pizza_ordering_system/pizza_ordering_system.dict -- data/linux/processed-challenges/pizza_ordering_system/bin/pizza_ordering_system\n'
+p61
+I9
+tp62
+a(I3720
+S'start_time     : 1500176812\nlast_update    : 1500180479\nfuzzer_pid     : 19067\ncycles_done    : 0\nexecs_done     : 1644108\nexecs_per_sec  : 420.30\npaths_total    : 206\npaths_favored  : 54\npaths_found    : 205\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 97\npending_favs   : 39\npending_total  : 178\nvariable_paths : 0\nbitmap_cvg     : 1.58%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500180459\nlast_crash     : 0\nlast_hang      : 1500177463\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/pizza_ordering_system/input -o /dev/shm/work/pizza_ordering_system/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/pizza_ordering_system/pizza_ordering_system.dict -- data/linux/processed-challenges/pizza_ordering_system/bin/pizza_ordering_system\n'
+p63
+I3
+tp64
+a(I3840
+S'start_time     : 1500176812\nlast_update    : 1500180599\nfuzzer_pid     : 19067\ncycles_done    : 0\nexecs_done     : 1696407\nexecs_per_sec  : 448.49\npaths_total    : 208\npaths_favored  : 54\npaths_found    : 207\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 98\npending_favs   : 38\npending_total  : 179\nvariable_paths : 0\nbitmap_cvg     : 1.58%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500180513\nlast_crash     : 0\nlast_hang      : 1500177463\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/pizza_ordering_system/input -o /dev/shm/work/pizza_ordering_system/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/pizza_ordering_system/pizza_ordering_system.dict -- data/linux/processed-challenges/pizza_ordering_system/bin/pizza_ordering_system\n'
+p65
+I1
+tp66
+a(I3960
+S'start_time     : 1500176812\nlast_update    : 1500180719\nfuzzer_pid     : 19067\ncycles_done    : 0\nexecs_done     : 1748306\nexecs_per_sec  : 418.44\npaths_total    : 209\npaths_favored  : 55\npaths_found    : 208\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 101\npending_favs   : 37\npending_total  : 178\nvariable_paths : 0\nbitmap_cvg     : 1.59%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500180620\nlast_crash     : 0\nlast_hang      : 1500177463\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/pizza_ordering_system/input -o /dev/shm/work/pizza_ordering_system/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/pizza_ordering_system/pizza_ordering_system.dict -- data/linux/processed-challenges/pizza_ordering_system/bin/pizza_ordering_system\n'
+p67
+I0
+tp68
+a(I4080
+S'start_time     : 1500176812\nlast_update    : 1500180839\nfuzzer_pid     : 19067\ncycles_done    : 0\nexecs_done     : 1797056\nexecs_per_sec  : 405.68\npaths_total    : 209\npaths_favored  : 55\npaths_found    : 208\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 103\npending_favs   : 36\npending_total  : 176\nvariable_paths : 0\nbitmap_cvg     : 1.59%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500180620\nlast_crash     : 0\nlast_hang      : 1500177463\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/pizza_ordering_system/input -o /dev/shm/work/pizza_ordering_system/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/pizza_ordering_system/pizza_ordering_system.dict -- data/linux/processed-challenges/pizza_ordering_system/bin/pizza_ordering_system\n'
+p69
+I2
+tp70
+a(I4200
+S'start_time     : 1500176812\nlast_update    : 1500180960\nfuzzer_pid     : 19067\ncycles_done    : 0\nexecs_done     : 1849027\nexecs_per_sec  : 463.65\npaths_total    : 214\npaths_favored  : 55\npaths_found    : 213\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 104\npending_favs   : 35\npending_total  : 180\nvariable_paths : 0\nbitmap_cvg     : 1.59%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500180948\nlast_crash     : 0\nlast_hang      : 1500177463\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/pizza_ordering_system/input -o /dev/shm/work/pizza_ordering_system/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/pizza_ordering_system/pizza_ordering_system.dict -- data/linux/processed-challenges/pizza_ordering_system/bin/pizza_ordering_system\n'
+p71
+I3
+tp72
+a(I4320
+S'start_time     : 1500176812\nlast_update    : 1500181080\nfuzzer_pid     : 19067\ncycles_done    : 0\nexecs_done     : 1902660\nexecs_per_sec  : 457.41\npaths_total    : 216\npaths_favored  : 55\npaths_found    : 215\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 105\npending_favs   : 34\npending_total  : 181\nvariable_paths : 0\nbitmap_cvg     : 1.59%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500181038\nlast_crash     : 0\nlast_hang      : 1500177463\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/pizza_ordering_system/input -o /dev/shm/work/pizza_ordering_system/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/pizza_ordering_system/pizza_ordering_system.dict -- data/linux/processed-challenges/pizza_ordering_system/bin/pizza_ordering_system\n'
+p73
+I3
+tp74
+a(I4440
+S'start_time     : 1500176812\nlast_update    : 1500181200\nfuzzer_pid     : 19067\ncycles_done    : 0\nexecs_done     : 1958155\nexecs_per_sec  : 374.24\npaths_total    : 218\npaths_favored  : 55\npaths_found    : 217\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 109\npending_favs   : 33\npending_total  : 182\nvariable_paths : 0\nbitmap_cvg     : 1.59%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500181197\nlast_crash     : 0\nlast_hang      : 1500177463\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/pizza_ordering_system/input -o /dev/shm/work/pizza_ordering_system/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/pizza_ordering_system/pizza_ordering_system.dict -- data/linux/processed-challenges/pizza_ordering_system/bin/pizza_ordering_system\n'
+p75
+I1
+tp76
+a(I4560
+S'start_time     : 1500176812\nlast_update    : 1500181320\nfuzzer_pid     : 19067\ncycles_done    : 0\nexecs_done     : 2000349\nexecs_per_sec  : 430.39\npaths_total    : 221\npaths_favored  : 55\npaths_found    : 220\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 109\npending_favs   : 33\npending_total  : 185\nvariable_paths : 0\nbitmap_cvg     : 1.59%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500181294\nlast_crash     : 0\nlast_hang      : 1500177463\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/pizza_ordering_system/input -o /dev/shm/work/pizza_ordering_system/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/pizza_ordering_system/pizza_ordering_system.dict -- data/linux/processed-challenges/pizza_ordering_system/bin/pizza_ordering_system\n'
+p77
+I5
+tp78
+a(I4680
+S'start_time     : 1500176812\nlast_update    : 1500181440\nfuzzer_pid     : 19067\ncycles_done    : 0\nexecs_done     : 2051019\nexecs_per_sec  : 421.59\npaths_total    : 228\npaths_favored  : 55\npaths_found    : 227\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 109\npending_favs   : 33\npending_total  : 192\nvariable_paths : 0\nbitmap_cvg     : 1.72%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500181431\nlast_crash     : 0\nlast_hang      : 1500177463\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/pizza_ordering_system/input -o /dev/shm/work/pizza_ordering_system/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/pizza_ordering_system/pizza_ordering_system.dict -- data/linux/processed-challenges/pizza_ordering_system/bin/pizza_ordering_system\n'
+p79
+I7
+tp80
+a(I4800
+S'start_time     : 1500176812\nlast_update    : 1500181560\nfuzzer_pid     : 19067\ncycles_done    : 0\nexecs_done     : 2101489\nexecs_per_sec  : 414.18\npaths_total    : 231\npaths_favored  : 55\npaths_found    : 230\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 109\npending_favs   : 33\npending_total  : 195\nvariable_paths : 0\nbitmap_cvg     : 1.72%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500181517\nlast_crash     : 0\nlast_hang      : 1500177463\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/pizza_ordering_system/input -o /dev/shm/work/pizza_ordering_system/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/pizza_ordering_system/pizza_ordering_system.dict -- data/linux/processed-challenges/pizza_ordering_system/bin/pizza_ordering_system\n'
+p81
+I2
+tp82
+a(I4920
+S'start_time     : 1500176812\nlast_update    : 1500181681\nfuzzer_pid     : 19067\ncycles_done    : 0\nexecs_done     : 2150536\nexecs_per_sec  : 286.72\npaths_total    : 236\npaths_favored  : 59\npaths_found    : 235\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 112\npending_favs   : 35\npending_total  : 199\nvariable_paths : 0\nbitmap_cvg     : 1.72%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500181680\nlast_crash     : 0\nlast_hang      : 1500177463\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/pizza_ordering_system/input -o /dev/shm/work/pizza_ordering_system/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/pizza_ordering_system/pizza_ordering_system.dict -- data/linux/processed-challenges/pizza_ordering_system/bin/pizza_ordering_system\n'
+p83
+I5
+tp84
+a(I5040
+S'start_time     : 1500176812\nlast_update    : 1500181801\nfuzzer_pid     : 19067\ncycles_done    : 0\nexecs_done     : 2191916\nexecs_per_sec  : 432.37\npaths_total    : 248\npaths_favored  : 59\npaths_found    : 247\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 112\npending_favs   : 35\npending_total  : 211\nvariable_paths : 0\nbitmap_cvg     : 1.72%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500181801\nlast_crash     : 0\nlast_hang      : 1500177463\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/pizza_ordering_system/input -o /dev/shm/work/pizza_ordering_system/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/pizza_ordering_system/pizza_ordering_system.dict -- data/linux/processed-challenges/pizza_ordering_system/bin/pizza_ordering_system\n'
+p85
+I13
+tp86
+a(I5160
+S'start_time     : 1500176812\nlast_update    : 1500181921\nfuzzer_pid     : 19067\ncycles_done    : 0\nexecs_done     : 2243324\nexecs_per_sec  : 427.51\npaths_total    : 252\npaths_favored  : 59\npaths_found    : 251\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 112\npending_favs   : 35\npending_total  : 215\nvariable_paths : 0\nbitmap_cvg     : 1.74%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500181902\nlast_crash     : 0\nlast_hang      : 1500177463\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/pizza_ordering_system/input -o /dev/shm/work/pizza_ordering_system/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/pizza_ordering_system/pizza_ordering_system.dict -- data/linux/processed-challenges/pizza_ordering_system/bin/pizza_ordering_system\n'
+p87
+I5
+tp88
+a(I5280
+S'start_time     : 1500176812\nlast_update    : 1500182041\nfuzzer_pid     : 19067\ncycles_done    : 0\nexecs_done     : 2295424\nexecs_per_sec  : 453.48\npaths_total    : 256\npaths_favored  : 66\npaths_found    : 255\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 119\npending_favs   : 42\npending_total  : 218\nvariable_paths : 0\nbitmap_cvg     : 1.75%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500181983\nlast_crash     : 0\nlast_hang      : 1500177463\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/pizza_ordering_system/input -o /dev/shm/work/pizza_ordering_system/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/pizza_ordering_system/pizza_ordering_system.dict -- data/linux/processed-challenges/pizza_ordering_system/bin/pizza_ordering_system\n'
+p89
+I2
+tp90
+a(I5400
+S'start_time     : 1500176812\nlast_update    : 1500182162\nfuzzer_pid     : 19067\ncycles_done    : 0\nexecs_done     : 2346666\nexecs_per_sec  : 332.40\npaths_total    : 257\npaths_favored  : 66\npaths_found    : 256\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 128\npending_favs   : 40\npending_total  : 217\nvariable_paths : 0\nbitmap_cvg     : 1.75%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500182062\nlast_crash     : 0\nlast_hang      : 1500177463\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/pizza_ordering_system/input -o /dev/shm/work/pizza_ordering_system/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/pizza_ordering_system/pizza_ordering_system.dict -- data/linux/processed-challenges/pizza_ordering_system/bin/pizza_ordering_system\n'
+p91
+I2
+tp92
+a(I5520
+S'start_time     : 1500176812\nlast_update    : 1500182282\nfuzzer_pid     : 19067\ncycles_done    : 0\nexecs_done     : 2389745\nexecs_per_sec  : 301.41\npaths_total    : 266\npaths_favored  : 66\npaths_found    : 265\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 129\npending_favs   : 42\npending_total  : 225\nvariable_paths : 0\nbitmap_cvg     : 1.75%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500182277\nlast_crash     : 0\nlast_hang      : 1500177463\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/pizza_ordering_system/input -o /dev/shm/work/pizza_ordering_system/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/pizza_ordering_system/pizza_ordering_system.dict -- data/linux/processed-challenges/pizza_ordering_system/bin/pizza_ordering_system\n'
+p93
+I9
+tp94
+a(I5640
+S'start_time     : 1500176812\nlast_update    : 1500182402\nfuzzer_pid     : 19067\ncycles_done    : 0\nexecs_done     : 2445595\nexecs_per_sec  : 455.01\npaths_total    : 269\npaths_favored  : 66\npaths_found    : 268\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 129\npending_favs   : 42\npending_total  : 228\nvariable_paths : 0\nbitmap_cvg     : 1.75%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500182366\nlast_crash     : 0\nlast_hang      : 1500177463\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/pizza_ordering_system/input -o /dev/shm/work/pizza_ordering_system/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/pizza_ordering_system/pizza_ordering_system.dict -- data/linux/processed-challenges/pizza_ordering_system/bin/pizza_ordering_system\n'
+p95
+I1
+tp96
+a(I5760
+S'start_time     : 1500176812\nlast_update    : 1500182522\nfuzzer_pid     : 19067\ncycles_done    : 0\nexecs_done     : 2483643\nexecs_per_sec  : 165.07\npaths_total    : 271\npaths_favored  : 66\npaths_found    : 270\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 131\npending_favs   : 41\npending_total  : 229\nvariable_paths : 0\nbitmap_cvg     : 1.75%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500182475\nlast_crash     : 0\nlast_hang      : 1500177463\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/pizza_ordering_system/input -o /dev/shm/work/pizza_ordering_system/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/pizza_ordering_system/pizza_ordering_system.dict -- data/linux/processed-challenges/pizza_ordering_system/bin/pizza_ordering_system\n'
+p97
+I2
+tp98
+a(I5880
+S'start_time     : 1500176812\nlast_update    : 1500182642\nfuzzer_pid     : 19067\ncycles_done    : 0\nexecs_done     : 2505727\nexecs_per_sec  : 358.10\npaths_total    : 272\npaths_favored  : 66\npaths_found    : 271\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 131\npending_favs   : 41\npending_total  : 230\nvariable_paths : 0\nbitmap_cvg     : 1.75%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500182635\nlast_crash     : 0\nlast_hang      : 1500177463\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/pizza_ordering_system/input -o /dev/shm/work/pizza_ordering_system/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/pizza_ordering_system/pizza_ordering_system.dict -- data/linux/processed-challenges/pizza_ordering_system/bin/pizza_ordering_system\n'
+p99
+I1
+tp100
+a(I6000
+S'start_time     : 1500176812\nlast_update    : 1500182762\nfuzzer_pid     : 19067\ncycles_done    : 0\nexecs_done     : 2551176\nexecs_per_sec  : 284.78\npaths_total    : 272\npaths_favored  : 68\npaths_found    : 271\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 143\npending_favs   : 41\npending_total  : 228\nvariable_paths : 0\nbitmap_cvg     : 1.75%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500182635\nlast_crash     : 0\nlast_hang      : 1500182662\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/pizza_ordering_system/input -o /dev/shm/work/pizza_ordering_system/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/pizza_ordering_system/pizza_ordering_system.dict -- data/linux/processed-challenges/pizza_ordering_system/bin/pizza_ordering_system\n'
+p101
+I1
+tp102
+a(I6120
+S'start_time     : 1500176812\nlast_update    : 1500182883\nfuzzer_pid     : 19067\ncycles_done    : 0\nexecs_done     : 2594720\nexecs_per_sec  : 438.31\npaths_total    : 274\npaths_favored  : 68\npaths_found    : 273\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 143\npending_favs   : 41\npending_total  : 230\nvariable_paths : 0\nbitmap_cvg     : 1.75%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500182832\nlast_crash     : 0\nlast_hang      : 1500182662\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/pizza_ordering_system/input -o /dev/shm/work/pizza_ordering_system/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/pizza_ordering_system/pizza_ordering_system.dict -- data/linux/processed-challenges/pizza_ordering_system/bin/pizza_ordering_system\n'
+p103
+I1
+tp104
+a(I6240
+S'start_time     : 1500176812\nlast_update    : 1500183003\nfuzzer_pid     : 19067\ncycles_done    : 0\nexecs_done     : 2637718\nexecs_per_sec  : 447.46\npaths_total    : 277\npaths_favored  : 68\npaths_found    : 276\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 145\npending_favs   : 40\npending_total  : 232\nvariable_paths : 0\nbitmap_cvg     : 1.75%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500182985\nlast_crash     : 0\nlast_hang      : 1500182662\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/pizza_ordering_system/input -o /dev/shm/work/pizza_ordering_system/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/pizza_ordering_system/pizza_ordering_system.dict -- data/linux/processed-challenges/pizza_ordering_system/bin/pizza_ordering_system\n'
+p105
+I3
+tp106
+a(I6360
+S'start_time     : 1500176812\nlast_update    : 1500183123\nfuzzer_pid     : 19067\ncycles_done    : 0\nexecs_done     : 2688120\nexecs_per_sec  : 450.64\npaths_total    : 277\npaths_favored  : 69\npaths_found    : 276\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 152\npending_favs   : 39\npending_total  : 230\nvariable_paths : 0\nbitmap_cvg     : 1.75%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500182985\nlast_crash     : 0\nlast_hang      : 1500182662\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/pizza_ordering_system/input -o /dev/shm/work/pizza_ordering_system/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/pizza_ordering_system/pizza_ordering_system.dict -- data/linux/processed-challenges/pizza_ordering_system/bin/pizza_ordering_system\n'
+p107
+I4
+tp108
+a(I6480
+S'start_time     : 1500176812\nlast_update    : 1500183243\nfuzzer_pid     : 19067\ncycles_done    : 0\nexecs_done     : 2738549\nexecs_per_sec  : 433.17\npaths_total    : 289\npaths_favored  : 69\npaths_found    : 288\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 155\npending_favs   : 38\npending_total  : 241\nvariable_paths : 0\nbitmap_cvg     : 1.83%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500183213\nlast_crash     : 0\nlast_hang      : 1500182662\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/pizza_ordering_system/input -o /dev/shm/work/pizza_ordering_system/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/pizza_ordering_system/pizza_ordering_system.dict -- data/linux/processed-challenges/pizza_ordering_system/bin/pizza_ordering_system\n'
+p109
+I9
+tp110
+a(I6600
+S'start_time     : 1500176812\nlast_update    : 1500183364\nfuzzer_pid     : 19067\ncycles_done    : 0\nexecs_done     : 2792069\nexecs_per_sec  : 430.13\npaths_total    : 293\npaths_favored  : 69\npaths_found    : 292\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 155\npending_favs   : 38\npending_total  : 245\nvariable_paths : 0\nbitmap_cvg     : 1.83%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500183357\nlast_crash     : 0\nlast_hang      : 1500182662\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/pizza_ordering_system/input -o /dev/shm/work/pizza_ordering_system/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/pizza_ordering_system/pizza_ordering_system.dict -- data/linux/processed-challenges/pizza_ordering_system/bin/pizza_ordering_system\n'
+p111
+I5
+tp112
+a(I6720
+S'start_time     : 1500176812\nlast_update    : 1500183484\nfuzzer_pid     : 19067\ncycles_done    : 0\nexecs_done     : 2846023\nexecs_per_sec  : 449.38\npaths_total    : 297\npaths_favored  : 69\npaths_found    : 296\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 155\npending_favs   : 38\npending_total  : 249\nvariable_paths : 0\nbitmap_cvg     : 1.92%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500183449\nlast_crash     : 0\nlast_hang      : 1500182662\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/pizza_ordering_system/input -o /dev/shm/work/pizza_ordering_system/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/pizza_ordering_system/pizza_ordering_system.dict -- data/linux/processed-challenges/pizza_ordering_system/bin/pizza_ordering_system\n'
+p113
+I4
+tp114
+a(I6840
+S'start_time     : 1500176812\nlast_update    : 1500183604\nfuzzer_pid     : 19067\ncycles_done    : 0\nexecs_done     : 2898328\nexecs_per_sec  : 467.63\npaths_total    : 301\npaths_favored  : 74\npaths_found    : 300\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 156\npending_favs   : 44\npending_total  : 252\nvariable_paths : 0\nbitmap_cvg     : 1.92%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500183577\nlast_crash     : 0\nlast_hang      : 1500182662\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/pizza_ordering_system/input -o /dev/shm/work/pizza_ordering_system/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/pizza_ordering_system/pizza_ordering_system.dict -- data/linux/processed-challenges/pizza_ordering_system/bin/pizza_ordering_system\n'
+p115
+I2
+tp116
+a(I6960
+S'start_time     : 1500176812\nlast_update    : 1500183724\nfuzzer_pid     : 19067\ncycles_done    : 0\nexecs_done     : 2940165\nexecs_per_sec  : 344.75\npaths_total    : 301\npaths_favored  : 72\npaths_found    : 300\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 162\npending_favs   : 40\npending_total  : 250\nvariable_paths : 0\nbitmap_cvg     : 1.92%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500183577\nlast_crash     : 0\nlast_hang      : 1500182662\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/pizza_ordering_system/input -o /dev/shm/work/pizza_ordering_system/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/pizza_ordering_system/pizza_ordering_system.dict -- data/linux/processed-challenges/pizza_ordering_system/bin/pizza_ordering_system\n'
+p117
+I3
+tp118
+a(I7080
+S'start_time     : 1500176812\nlast_update    : 1500183845\nfuzzer_pid     : 19067\ncycles_done    : 0\nexecs_done     : 2987433\nexecs_per_sec  : 440.04\npaths_total    : 306\npaths_favored  : 72\npaths_found    : 305\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 162\npending_favs   : 40\npending_total  : 255\nvariable_paths : 0\nbitmap_cvg     : 1.92%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500183844\nlast_crash     : 0\nlast_hang      : 1500182662\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/pizza_ordering_system/input -o /dev/shm/work/pizza_ordering_system/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/pizza_ordering_system/pizza_ordering_system.dict -- data/linux/processed-challenges/pizza_ordering_system/bin/pizza_ordering_system\n'
+p119
+I2
+tp120
+a(I7200
+S'start_time     : 1500176812\nlast_update    : 1500183965\nfuzzer_pid     : 19067\ncycles_done    : 0\nexecs_done     : 3040635\nexecs_per_sec  : 421.16\npaths_total    : 307\npaths_favored  : 72\npaths_found    : 306\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 162\npending_favs   : 40\npending_total  : 256\nvariable_paths : 0\nbitmap_cvg     : 1.92%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500183932\nlast_crash     : 0\nlast_hang      : 1500182662\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/pizza_ordering_system/input -o /dev/shm/work/pizza_ordering_system/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/pizza_ordering_system/pizza_ordering_system.dict -- data/linux/processed-challenges/pizza_ordering_system/bin/pizza_ordering_system\n'
+p121
+I4
+tp122
+a(I7320
+S'start_time     : 1500176812\nlast_update    : 1500184085\nfuzzer_pid     : 19067\ncycles_done    : 0\nexecs_done     : 3093583\nexecs_per_sec  : 445.24\npaths_total    : 313\npaths_favored  : 72\npaths_found    : 312\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 162\npending_favs   : 40\npending_total  : 262\nvariable_paths : 0\nbitmap_cvg     : 1.93%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500184042\nlast_crash     : 0\nlast_hang      : 1500182662\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/pizza_ordering_system/input -o /dev/shm/work/pizza_ordering_system/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/pizza_ordering_system/pizza_ordering_system.dict -- data/linux/processed-challenges/pizza_ordering_system/bin/pizza_ordering_system\n'
+p123
+I4
+tp124
+a(I7440
+S'start_time     : 1500176812\nlast_update    : 1500184205\nfuzzer_pid     : 19067\ncycles_done    : 0\nexecs_done     : 3142565\nexecs_per_sec  : 345.18\npaths_total    : 314\npaths_favored  : 75\npaths_found    : 313\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 183\npending_favs   : 41\npending_total  : 261\nvariable_paths : 0\nbitmap_cvg     : 1.93%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500184094\nlast_crash     : 0\nlast_hang      : 1500182662\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/pizza_ordering_system/input -o /dev/shm/work/pizza_ordering_system/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/pizza_ordering_system/pizza_ordering_system.dict -- data/linux/processed-challenges/pizza_ordering_system/bin/pizza_ordering_system\n'
+p125
+I0
+tp126
+a(I7560
+S'start_time     : 1500176812\nlast_update    : 1500184325\nfuzzer_pid     : 19067\ncycles_done    : 0\nexecs_done     : 3180063\nexecs_per_sec  : 429.13\npaths_total    : 317\npaths_favored  : 75\npaths_found    : 316\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 183\npending_favs   : 41\npending_total  : 264\nvariable_paths : 0\nbitmap_cvg     : 1.93%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500184302\nlast_crash     : 0\nlast_hang      : 1500182662\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/pizza_ordering_system/input -o /dev/shm/work/pizza_ordering_system/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/pizza_ordering_system/pizza_ordering_system.dict -- data/linux/processed-challenges/pizza_ordering_system/bin/pizza_ordering_system\n'
+p127
+I4
+tp128
+a(I7680
+S'start_time     : 1500176812\nlast_update    : 1500184446\nfuzzer_pid     : 19067\ncycles_done    : 0\nexecs_done     : 3231013\nexecs_per_sec  : 424.34\npaths_total    : 320\npaths_favored  : 75\npaths_found    : 319\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 183\npending_favs   : 41\npending_total  : 267\nvariable_paths : 0\nbitmap_cvg     : 1.93%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500184431\nlast_crash     : 0\nlast_hang      : 1500182662\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/pizza_ordering_system/input -o /dev/shm/work/pizza_ordering_system/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/pizza_ordering_system/pizza_ordering_system.dict -- data/linux/processed-challenges/pizza_ordering_system/bin/pizza_ordering_system\n'
+p129
+I4
+tp130
+a(I7800
+S'start_time     : 1500176812\nlast_update    : 1500184566\nfuzzer_pid     : 19067\ncycles_done    : 0\nexecs_done     : 3282797\nexecs_per_sec  : 431.70\npaths_total    : 324\npaths_favored  : 75\npaths_found    : 323\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 183\npending_favs   : 41\npending_total  : 271\nvariable_paths : 0\nbitmap_cvg     : 1.94%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500184531\nlast_crash     : 0\nlast_hang      : 1500182662\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/pizza_ordering_system/input -o /dev/shm/work/pizza_ordering_system/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/pizza_ordering_system/pizza_ordering_system.dict -- data/linux/processed-challenges/pizza_ordering_system/bin/pizza_ordering_system\n'
+p131
+I3
+tp132
+a(I7920
+S'start_time     : 1500176812\nlast_update    : 1500184686\nfuzzer_pid     : 19067\ncycles_done    : 0\nexecs_done     : 3331348\nexecs_per_sec  : 258.55\npaths_total    : 326\npaths_favored  : 78\npaths_found    : 325\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 189\npending_favs   : 43\npending_total  : 272\nvariable_paths : 0\nbitmap_cvg     : 1.95%\nunique_crashes : 0\nunique_hangs   : 6\nlast_path      : 1500184645\nlast_crash     : 0\nlast_hang      : 1500184673\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/pizza_ordering_system/input -o /dev/shm/work/pizza_ordering_system/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/pizza_ordering_system/pizza_ordering_system.dict -- data/linux/processed-challenges/pizza_ordering_system/bin/pizza_ordering_system\n'
+p133
+I1
+tp134
+a(I8040
+S'start_time     : 1500176812\nlast_update    : 1500184806\nfuzzer_pid     : 19067\ncycles_done    : 0\nexecs_done     : 3364484\nexecs_per_sec  : 412.66\npaths_total    : 326\npaths_favored  : 78\npaths_found    : 325\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 189\npending_favs   : 43\npending_total  : 272\nvariable_paths : 0\nbitmap_cvg     : 1.95%\nunique_crashes : 0\nunique_hangs   : 6\nlast_path      : 1500184645\nlast_crash     : 0\nlast_hang      : 1500184673\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/pizza_ordering_system/input -o /dev/shm/work/pizza_ordering_system/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/pizza_ordering_system/pizza_ordering_system.dict -- data/linux/processed-challenges/pizza_ordering_system/bin/pizza_ordering_system\n'
+p135
+I1
+tp136
+a(I8160
+S'start_time     : 1500176812\nlast_update    : 1500184926\nfuzzer_pid     : 19067\ncycles_done    : 0\nexecs_done     : 3392898\nexecs_per_sec  : 189.87\npaths_total    : 327\npaths_favored  : 78\npaths_found    : 326\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 191\npending_favs   : 42\npending_total  : 272\nvariable_paths : 0\nbitmap_cvg     : 1.95%\nunique_crashes : 0\nunique_hangs   : 6\nlast_path      : 1500184811\nlast_crash     : 0\nlast_hang      : 1500184673\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/pizza_ordering_system/input -o /dev/shm/work/pizza_ordering_system/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/pizza_ordering_system/pizza_ordering_system.dict -- data/linux/processed-challenges/pizza_ordering_system/bin/pizza_ordering_system\n'
+p137
+I9
+tp138
+a(I8280
+S'start_time     : 1500176812\nlast_update    : 1500185047\nfuzzer_pid     : 19067\ncycles_done    : 0\nexecs_done     : 3428269\nexecs_per_sec  : 363.58\npaths_total    : 339\npaths_favored  : 78\npaths_found    : 338\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 191\npending_favs   : 42\npending_total  : 284\nvariable_paths : 0\nbitmap_cvg     : 2.00%\nunique_crashes : 0\nunique_hangs   : 6\nlast_path      : 1500185044\nlast_crash     : 0\nlast_hang      : 1500184673\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/pizza_ordering_system/input -o /dev/shm/work/pizza_ordering_system/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/pizza_ordering_system/pizza_ordering_system.dict -- data/linux/processed-challenges/pizza_ordering_system/bin/pizza_ordering_system\n'
+p139
+I5
+tp140
+a(I8400
+S'start_time     : 1500176812\nlast_update    : 1500185167\nfuzzer_pid     : 19067\ncycles_done    : 0\nexecs_done     : 3474163\nexecs_per_sec  : 394.68\npaths_total    : 342\npaths_favored  : 78\npaths_found    : 341\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 191\npending_favs   : 42\npending_total  : 287\nvariable_paths : 0\nbitmap_cvg     : 2.02%\nunique_crashes : 0\nunique_hangs   : 6\nlast_path      : 1500185134\nlast_crash     : 0\nlast_hang      : 1500184673\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/pizza_ordering_system/input -o /dev/shm/work/pizza_ordering_system/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/pizza_ordering_system/pizza_ordering_system.dict -- data/linux/processed-challenges/pizza_ordering_system/bin/pizza_ordering_system\n'
+p141
+I3
+tp142
+a(I8520
+S'start_time     : 1500176812\nlast_update    : 1500185287\nfuzzer_pid     : 19067\ncycles_done    : 0\nexecs_done     : 3519592\nexecs_per_sec  : 373.66\npaths_total    : 344\npaths_favored  : 78\npaths_found    : 343\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 191\npending_favs   : 42\npending_total  : 289\nvariable_paths : 0\nbitmap_cvg     : 2.02%\nunique_crashes : 0\nunique_hangs   : 6\nlast_path      : 1500185183\nlast_crash     : 0\nlast_hang      : 1500184673\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/pizza_ordering_system/input -o /dev/shm/work/pizza_ordering_system/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/pizza_ordering_system/pizza_ordering_system.dict -- data/linux/processed-challenges/pizza_ordering_system/bin/pizza_ordering_system\n'
+p143
+I0
+tp144
+a(I8640
+S'start_time     : 1500176812\nlast_update    : 1500185407\nfuzzer_pid     : 19067\ncycles_done    : 0\nexecs_done     : 3559156\nexecs_per_sec  : 428.75\npaths_total    : 347\npaths_favored  : 82\npaths_found    : 346\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 194\npending_favs   : 47\npending_total  : 291\nvariable_paths : 0\nbitmap_cvg     : 2.02%\nunique_crashes : 0\nunique_hangs   : 6\nlast_path      : 1500185404\nlast_crash     : 0\nlast_hang      : 1500184673\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/pizza_ordering_system/input -o /dev/shm/work/pizza_ordering_system/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/pizza_ordering_system/pizza_ordering_system.dict -- data/linux/processed-challenges/pizza_ordering_system/bin/pizza_ordering_system\n'
+p145
+I6
+tp146
+a(I8760
+S'start_time     : 1500176812\nlast_update    : 1500185527\nfuzzer_pid     : 19067\ncycles_done    : 0\nexecs_done     : 3610738\nexecs_per_sec  : 435.17\npaths_total    : 350\npaths_favored  : 82\npaths_found    : 349\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 194\npending_favs   : 47\npending_total  : 294\nvariable_paths : 0\nbitmap_cvg     : 2.23%\nunique_crashes : 0\nunique_hangs   : 6\nlast_path      : 1500185429\nlast_crash     : 0\nlast_hang      : 1500184673\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/pizza_ordering_system/input -o /dev/shm/work/pizza_ordering_system/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/pizza_ordering_system/pizza_ordering_system.dict -- data/linux/processed-challenges/pizza_ordering_system/bin/pizza_ordering_system\n'
+p147
+I0
+tp148
+a(I8880
+S'start_time     : 1500176812\nlast_update    : 1500185648\nfuzzer_pid     : 19067\ncycles_done    : 0\nexecs_done     : 3662330\nexecs_per_sec  : 430.91\npaths_total    : 350\npaths_favored  : 82\npaths_found    : 349\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 194\npending_favs   : 47\npending_total  : 294\nvariable_paths : 0\nbitmap_cvg     : 2.23%\nunique_crashes : 0\nunique_hangs   : 6\nlast_path      : 1500185429\nlast_crash     : 0\nlast_hang      : 1500184673\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/pizza_ordering_system/input -o /dev/shm/work/pizza_ordering_system/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/pizza_ordering_system/pizza_ordering_system.dict -- data/linux/processed-challenges/pizza_ordering_system/bin/pizza_ordering_system\n'
+p149
+I1
+tp150
+a(I9000
+S'start_time     : 1500176812\nlast_update    : 1500185768\nfuzzer_pid     : 19067\ncycles_done    : 0\nexecs_done     : 3711989\nexecs_per_sec  : 251.09\npaths_total    : 352\npaths_favored  : 84\npaths_found    : 351\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 196\npending_favs   : 49\npending_total  : 295\nvariable_paths : 0\nbitmap_cvg     : 2.26%\nunique_crashes : 0\nunique_hangs   : 6\nlast_path      : 1500185721\nlast_crash     : 0\nlast_hang      : 1500184673\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/pizza_ordering_system/input -o /dev/shm/work/pizza_ordering_system/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/pizza_ordering_system/pizza_ordering_system.dict -- data/linux/processed-challenges/pizza_ordering_system/bin/pizza_ordering_system\n'
+p151
+I1
+tp152
+a(I9120
+S'start_time     : 1500176812\nlast_update    : 1500185888\nfuzzer_pid     : 19067\ncycles_done    : 0\nexecs_done     : 3742261\nexecs_per_sec  : 214.74\npaths_total    : 357\npaths_favored  : 84\npaths_found    : 356\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 196\npending_favs   : 49\npending_total  : 300\nvariable_paths : 0\nbitmap_cvg     : 2.28%\nunique_crashes : 0\nunique_hangs   : 6\nlast_path      : 1500185829\nlast_crash     : 0\nlast_hang      : 1500184673\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/pizza_ordering_system/input -o /dev/shm/work/pizza_ordering_system/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/pizza_ordering_system/pizza_ordering_system.dict -- data/linux/processed-challenges/pizza_ordering_system/bin/pizza_ordering_system\n'
+p153
+I11
+tp154
+a(I9240
+S'start_time     : 1500176812\nlast_update    : 1500186008\nfuzzer_pid     : 19067\ncycles_done    : 0\nexecs_done     : 3783308\nexecs_per_sec  : 391.29\npaths_total    : 367\npaths_favored  : 84\npaths_found    : 366\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 196\npending_favs   : 49\npending_total  : 310\nvariable_paths : 0\nbitmap_cvg     : 2.30%\nunique_crashes : 0\nunique_hangs   : 6\nlast_path      : 1500185998\nlast_crash     : 0\nlast_hang      : 1500184673\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/pizza_ordering_system/input -o /dev/shm/work/pizza_ordering_system/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/pizza_ordering_system/pizza_ordering_system.dict -- data/linux/processed-challenges/pizza_ordering_system/bin/pizza_ordering_system\n'
+p155
+I4
+tp156
+a(I9360
+S'start_time     : 1500176812\nlast_update    : 1500186128\nfuzzer_pid     : 19067\ncycles_done    : 0\nexecs_done     : 3829441\nexecs_per_sec  : 390.11\npaths_total    : 368\npaths_favored  : 84\npaths_found    : 367\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 196\npending_favs   : 49\npending_total  : 311\nvariable_paths : 0\nbitmap_cvg     : 2.31%\nunique_crashes : 0\nunique_hangs   : 6\nlast_path      : 1500186117\nlast_crash     : 0\nlast_hang      : 1500184673\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/pizza_ordering_system/input -o /dev/shm/work/pizza_ordering_system/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/pizza_ordering_system/pizza_ordering_system.dict -- data/linux/processed-challenges/pizza_ordering_system/bin/pizza_ordering_system\n'
+p157
+I2
+tp158
+a(I9480
+S'start_time     : 1500176812\nlast_update    : 1500186249\nfuzzer_pid     : 19067\ncycles_done    : 0\nexecs_done     : 3874386\nexecs_per_sec  : 283.96\npaths_total    : 372\npaths_favored  : 89\npaths_found    : 371\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 200\npending_favs   : 54\npending_total  : 314\nvariable_paths : 0\nbitmap_cvg     : 2.33%\nunique_crashes : 0\nunique_hangs   : 6\nlast_path      : 1500186222\nlast_crash     : 0\nlast_hang      : 1500184673\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/pizza_ordering_system/input -o /dev/shm/work/pizza_ordering_system/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/pizza_ordering_system/pizza_ordering_system.dict -- data/linux/processed-challenges/pizza_ordering_system/bin/pizza_ordering_system\n'
+p159
+I3
+tp160
+a(I9600
+S'start_time     : 1500176812\nlast_update    : 1500186369\nfuzzer_pid     : 19067\ncycles_done    : 0\nexecs_done     : 3909723\nexecs_per_sec  : 412.11\npaths_total    : 373\npaths_favored  : 89\npaths_found    : 372\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 200\npending_favs   : 54\npending_total  : 315\nvariable_paths : 0\nbitmap_cvg     : 2.33%\nunique_crashes : 0\nunique_hangs   : 6\nlast_path      : 1500186349\nlast_crash     : 0\nlast_hang      : 1500184673\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/pizza_ordering_system/input -o /dev/shm/work/pizza_ordering_system/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/pizza_ordering_system/pizza_ordering_system.dict -- data/linux/processed-challenges/pizza_ordering_system/bin/pizza_ordering_system\n'
+p161
+I2
+tp162
+a(I9720
+S'start_time     : 1500176812\nlast_update    : 1500186489\nfuzzer_pid     : 19067\ncycles_done    : 0\nexecs_done     : 3944246\nexecs_per_sec  : 186.08\npaths_total    : 375\npaths_favored  : 89\npaths_found    : 374\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 204\npending_favs   : 53\npending_total  : 316\nvariable_paths : 0\nbitmap_cvg     : 2.33%\nunique_crashes : 0\nunique_hangs   : 6\nlast_path      : 1500186434\nlast_crash     : 0\nlast_hang      : 1500184673\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/pizza_ordering_system/input -o /dev/shm/work/pizza_ordering_system/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/pizza_ordering_system/pizza_ordering_system.dict -- data/linux/processed-challenges/pizza_ordering_system/bin/pizza_ordering_system\n'
+p163
+I5
+tp164
+a(I9840
+S'start_time     : 1500176812\nlast_update    : 1500186609\nfuzzer_pid     : 19067\ncycles_done    : 0\nexecs_done     : 3991050\nexecs_per_sec  : 439.93\npaths_total    : 381\npaths_favored  : 89\npaths_found    : 380\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 204\npending_favs   : 53\npending_total  : 322\nvariable_paths : 0\nbitmap_cvg     : 2.33%\nunique_crashes : 0\nunique_hangs   : 7\nlast_path      : 1500186584\nlast_crash     : 0\nlast_hang      : 1500186574\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/pizza_ordering_system/input -o /dev/shm/work/pizza_ordering_system/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/pizza_ordering_system/pizza_ordering_system.dict -- data/linux/processed-challenges/pizza_ordering_system/bin/pizza_ordering_system\n'
+p165
+I4
+tp166
+a(I9960
+S'start_time     : 1500176812\nlast_update    : 1500186729\nfuzzer_pid     : 19067\ncycles_done    : 0\nexecs_done     : 4041526\nexecs_per_sec  : 417.80\npaths_total    : 383\npaths_favored  : 89\npaths_found    : 382\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 204\npending_favs   : 53\npending_total  : 324\nvariable_paths : 0\nbitmap_cvg     : 2.33%\nunique_crashes : 0\nunique_hangs   : 7\nlast_path      : 1500186618\nlast_crash     : 0\nlast_hang      : 1500186574\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/pizza_ordering_system/input -o /dev/shm/work/pizza_ordering_system/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/pizza_ordering_system/pizza_ordering_system.dict -- data/linux/processed-challenges/pizza_ordering_system/bin/pizza_ordering_system\n'
+p167
+I1
+tp168
+a(I10080
+S'start_time     : 1500176812\nlast_update    : 1500186850\nfuzzer_pid     : 19067\ncycles_done    : 0\nexecs_done     : 4091553\nexecs_per_sec  : 414.03\npaths_total    : 387\npaths_favored  : 89\npaths_found    : 385\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 204\npending_favs   : 53\npending_total  : 328\nvariable_paths : 0\nbitmap_cvg     : 2.34%\nunique_crashes : 0\nunique_hangs   : 8\nlast_path      : 1500186850\nlast_crash     : 0\nlast_hang      : 1500186795\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/pizza_ordering_system/input -o /dev/shm/work/pizza_ordering_system/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/pizza_ordering_system/pizza_ordering_system.dict -- data/linux/processed-challenges/pizza_ordering_system/bin/pizza_ordering_system\n'
+p169
+I4
+tp170
+a(I10200
+S'start_time     : 1500176812\nlast_update    : 1500186970\nfuzzer_pid     : 19067\ncycles_done    : 0\nexecs_done     : 4132829\nexecs_per_sec  : 395.47\npaths_total    : 389\npaths_favored  : 91\npaths_found    : 388\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 205\npending_favs   : 53\npending_total  : 329\nvariable_paths : 0\nbitmap_cvg     : 2.36%\nunique_crashes : 0\nunique_hangs   : 9\nlast_path      : 1500186951\nlast_crash     : 0\nlast_hang      : 1500186853\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/pizza_ordering_system/input -o /dev/shm/work/pizza_ordering_system/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/pizza_ordering_system/pizza_ordering_system.dict -- data/linux/processed-challenges/pizza_ordering_system/bin/pizza_ordering_system\n'
+p171
+I4
+tp172
+a(I10320
+S'start_time     : 1500176812\nlast_update    : 1500187090\nfuzzer_pid     : 19067\ncycles_done    : 0\nexecs_done     : 4185992\nexecs_per_sec  : 432.04\npaths_total    : 393\npaths_favored  : 91\npaths_found    : 392\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 205\npending_favs   : 53\npending_total  : 333\nvariable_paths : 0\nbitmap_cvg     : 2.36%\nunique_crashes : 0\nunique_hangs   : 10\nlast_path      : 1500187074\nlast_crash     : 0\nlast_hang      : 1500187009\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/pizza_ordering_system/input -o /dev/shm/work/pizza_ordering_system/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/pizza_ordering_system/pizza_ordering_system.dict -- data/linux/processed-challenges/pizza_ordering_system/bin/pizza_ordering_system\n'
+p173
+I2
+tp174
+a(I10440
+S'start_time     : 1500176812\nlast_update    : 1500187211\nfuzzer_pid     : 19067\ncycles_done    : 0\nexecs_done     : 4240178\nexecs_per_sec  : 445.24\npaths_total    : 394\npaths_favored  : 91\npaths_found    : 393\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 205\npending_favs   : 53\npending_total  : 334\nvariable_paths : 0\nbitmap_cvg     : 2.36%\nunique_crashes : 0\nunique_hangs   : 10\nlast_path      : 1500187129\nlast_crash     : 0\nlast_hang      : 1500187009\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/pizza_ordering_system/input -o /dev/shm/work/pizza_ordering_system/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/pizza_ordering_system/pizza_ordering_system.dict -- data/linux/processed-challenges/pizza_ordering_system/bin/pizza_ordering_system\n'
+p175
+I1
+tp176
+a(I10560
+S'start_time     : 1500176812\nlast_update    : 1500187331\nfuzzer_pid     : 19067\ncycles_done    : 0\nexecs_done     : 4293125\nexecs_per_sec  : 314.39\npaths_total    : 395\npaths_favored  : 93\npaths_found    : 394\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 206\npending_favs   : 53\npending_total  : 334\nvariable_paths : 0\nbitmap_cvg     : 2.36%\nunique_crashes : 0\nunique_hangs   : 10\nlast_path      : 1500187252\nlast_crash     : 0\nlast_hang      : 1500187009\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/pizza_ordering_system/input -o /dev/shm/work/pizza_ordering_system/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/pizza_ordering_system/pizza_ordering_system.dict -- data/linux/processed-challenges/pizza_ordering_system/bin/pizza_ordering_system\n'
+p177
+I0
+tp178
+a(I10680
+S'start_time     : 1500176812\nlast_update    : 1500187451\nfuzzer_pid     : 19067\ncycles_done    : 0\nexecs_done     : 4325150\nexecs_per_sec  : 208.29\npaths_total    : 395\npaths_favored  : 93\npaths_found    : 394\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 206\npending_favs   : 53\npending_total  : 334\nvariable_paths : 0\nbitmap_cvg     : 2.36%\nunique_crashes : 0\nunique_hangs   : 11\nlast_path      : 1500187252\nlast_crash     : 0\nlast_hang      : 1500187396\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/pizza_ordering_system/input -o /dev/shm/work/pizza_ordering_system/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/pizza_ordering_system/pizza_ordering_system.dict -- data/linux/processed-challenges/pizza_ordering_system/bin/pizza_ordering_system\n'
+p179
+I3
+tp180
+a.

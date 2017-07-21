@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/libcgc.h
+
+../processed-challenges/Sample_Shipgame/include/sample_shipgame.h
+
+../processed-challenges/Sample_Shipgame/lib/mylibc.h
+
+/vagrant/driller/data/linux/processed-challenges/Sample_Shipgame/lib/mylibc.c
+libcgc.h
+-
+mylibc.h
+/vagrant/driller/data/linux/processed-challenges/Sample_Shipgame/lib/mylibc.h
+
+/vagrant/driller/data/linux/processed-challenges/Sample_Shipgame/lib/mylibc.h
+
+/vagrant/driller/data/linux/processed-challenges/Sample_Shipgame/src/sample_shipgame.c
+libcgc.h
+-
+mylibc.h
+/vagrant/driller/data/linux/processed-challenges/Sample_Shipgame/src/mylibc.h
+sample_shipgame.h
+/vagrant/driller/data/linux/processed-challenges/Sample_Shipgame/src/sample_shipgame.h
+

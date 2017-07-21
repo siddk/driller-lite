@@ -1,0 +1,452 @@
+(lp0
+(I0
+S'start_time     : 1500144341\nlast_update    : 1500144341\nfuzzer_pid     : 4807\ncycles_done    : 0\nexecs_done     : 10\nexecs_per_sec  : 158.73\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 1\npending_total  : 1\nvariable_paths : 0\nbitmap_cvg     : 0.14%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/payroll/input -o /dev/shm/work/payroll/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/payroll/payroll.dict -- data/linux/processed-challenges/payroll/bin/payroll\n'
+p1
+I10
+tp2
+a(I120
+S'start_time     : 1500144341\nlast_update    : 1500144461\nfuzzer_pid     : 4807\ncycles_done    : 0\nexecs_done     : 69086\nexecs_per_sec  : 556.39\npaths_total    : 15\npaths_favored  : 1\npaths_found    : 14\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 1\npending_total  : 15\nvariable_paths : 0\nbitmap_cvg     : 0.28%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500144441\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/payroll/input -o /dev/shm/work/payroll/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/payroll/payroll.dict -- data/linux/processed-challenges/payroll/bin/payroll\n'
+p3
+I5
+tp4
+a(I240
+S'start_time     : 1500144341\nlast_update    : 1500144581\nfuzzer_pid     : 4807\ncycles_done    : 0\nexecs_done     : 137737\nexecs_per_sec  : 571.72\npaths_total    : 15\npaths_favored  : 1\npaths_found    : 14\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 1\npending_total  : 15\nvariable_paths : 0\nbitmap_cvg     : 0.28%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500144441\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/payroll/input -o /dev/shm/work/payroll/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/payroll/payroll.dict -- data/linux/processed-challenges/payroll/bin/payroll\n'
+p5
+I0
+tp6
+a(I360
+S'start_time     : 1500144341\nlast_update    : 1500144701\nfuzzer_pid     : 4807\ncycles_done    : 0\nexecs_done     : 205265\nexecs_per_sec  : 545.53\npaths_total    : 35\npaths_favored  : 25\npaths_found    : 34\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 11\npending_favs   : 21\npending_total  : 29\nvariable_paths : 0\nbitmap_cvg     : 0.51%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500144672\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/payroll/input -o /dev/shm/work/payroll/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/payroll/payroll.dict -- data/linux/processed-challenges/payroll/bin/payroll\n'
+p7
+I20
+tp8
+a(I480
+S'start_time     : 1500144341\nlast_update    : 1500144822\nfuzzer_pid     : 4807\ncycles_done    : 0\nexecs_done     : 272160\nexecs_per_sec  : 560.28\npaths_total    : 43\npaths_favored  : 25\npaths_found    : 42\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 11\npending_favs   : 21\npending_total  : 37\nvariable_paths : 0\nbitmap_cvg     : 0.52%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500144808\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/payroll/input -o /dev/shm/work/payroll/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/payroll/payroll.dict -- data/linux/processed-challenges/payroll/bin/payroll\n'
+p9
+I8
+tp10
+a(I600
+S'start_time     : 1500144341\nlast_update    : 1500144942\nfuzzer_pid     : 4807\ncycles_done    : 0\nexecs_done     : 338605\nexecs_per_sec  : 573.66\npaths_total    : 47\npaths_favored  : 27\npaths_found    : 46\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 13\npending_favs   : 22\npending_total  : 40\nvariable_paths : 0\nbitmap_cvg     : 0.52%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500144937\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/payroll/input -o /dev/shm/work/payroll/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/payroll/payroll.dict -- data/linux/processed-challenges/payroll/bin/payroll\n'
+p11
+I4
+tp12
+a(I720
+S'start_time     : 1500144341\nlast_update    : 1500145062\nfuzzer_pid     : 4807\ncycles_done    : 0\nexecs_done     : 397182\nexecs_per_sec  : 550.30\npaths_total    : 58\npaths_favored  : 32\npaths_found    : 57\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 20\npending_favs   : 25\npending_total  : 47\nvariable_paths : 0\nbitmap_cvg     : 0.56%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500145052\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/payroll/input -o /dev/shm/work/payroll/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/payroll/payroll.dict -- data/linux/processed-challenges/payroll/bin/payroll\n'
+p13
+I11
+tp14
+a(I840
+S'start_time     : 1500144341\nlast_update    : 1500145182\nfuzzer_pid     : 4807\ncycles_done    : 0\nexecs_done     : 462957\nexecs_per_sec  : 551.12\npaths_total    : 63\npaths_favored  : 32\npaths_found    : 62\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 20\npending_favs   : 25\npending_total  : 52\nvariable_paths : 0\nbitmap_cvg     : 0.56%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500145181\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/payroll/input -o /dev/shm/work/payroll/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/payroll/payroll.dict -- data/linux/processed-challenges/payroll/bin/payroll\n'
+p15
+I5
+tp16
+a(I960
+S'start_time     : 1500144341\nlast_update    : 1500145302\nfuzzer_pid     : 4807\ncycles_done    : 0\nexecs_done     : 529111\nexecs_per_sec  : 558.23\npaths_total    : 63\npaths_favored  : 32\npaths_found    : 62\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 20\npending_favs   : 25\npending_total  : 52\nvariable_paths : 0\nbitmap_cvg     : 0.56%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500145181\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/payroll/input -o /dev/shm/work/payroll/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/payroll/payroll.dict -- data/linux/processed-challenges/payroll/bin/payroll\n'
+p17
+I0
+tp18
+a(I1080
+S'start_time     : 1500144341\nlast_update    : 1500145423\nfuzzer_pid     : 4807\ncycles_done    : 0\nexecs_done     : 592212\nexecs_per_sec  : 492.90\npaths_total    : 76\npaths_favored  : 43\npaths_found    : 75\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 27\npending_favs   : 31\npending_total  : 58\nvariable_paths : 0\nbitmap_cvg     : 0.59%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500145398\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/payroll/input -o /dev/shm/work/payroll/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/payroll/payroll.dict -- data/linux/processed-challenges/payroll/bin/payroll\n'
+p19
+I14
+tp20
+a(I1200
+S'start_time     : 1500144341\nlast_update    : 1500145543\nfuzzer_pid     : 4807\ncycles_done    : 0\nexecs_done     : 654926\nexecs_per_sec  : 535.02\npaths_total    : 82\npaths_favored  : 43\npaths_found    : 81\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 33\npending_favs   : 30\npending_total  : 59\nvariable_paths : 0\nbitmap_cvg     : 0.62%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500145541\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/payroll/input -o /dev/shm/work/payroll/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/payroll/payroll.dict -- data/linux/processed-challenges/payroll/bin/payroll\n'
+p21
+I5
+tp22
+a(I1320
+S'start_time     : 1500144341\nlast_update    : 1500145663\nfuzzer_pid     : 4807\ncycles_done    : 0\nexecs_done     : 717728\nexecs_per_sec  : 514.09\npaths_total    : 88\npaths_favored  : 44\npaths_found    : 87\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 46\npending_favs   : 29\npending_total  : 63\nvariable_paths : 0\nbitmap_cvg     : 0.62%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500145607\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/payroll/input -o /dev/shm/work/payroll/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/payroll/payroll.dict -- data/linux/processed-challenges/payroll/bin/payroll\n'
+p23
+I6
+tp24
+a(I1440
+S'start_time     : 1500144341\nlast_update    : 1500145783\nfuzzer_pid     : 4807\ncycles_done    : 0\nexecs_done     : 780078\nexecs_per_sec  : 528.80\npaths_total    : 88\npaths_favored  : 44\npaths_found    : 87\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 46\npending_favs   : 29\npending_total  : 63\nvariable_paths : 0\nbitmap_cvg     : 0.62%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500145607\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/payroll/input -o /dev/shm/work/payroll/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/payroll/payroll.dict -- data/linux/processed-challenges/payroll/bin/payroll\n'
+p25
+I0
+tp26
+a(I1560
+S'start_time     : 1500144341\nlast_update    : 1500145903\nfuzzer_pid     : 4807\ncycles_done    : 0\nexecs_done     : 840453\nexecs_per_sec  : 451.68\npaths_total    : 88\npaths_favored  : 44\npaths_found    : 87\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 47\npending_favs   : 28\npending_total  : 62\nvariable_paths : 0\nbitmap_cvg     : 0.62%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500145607\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/payroll/input -o /dev/shm/work/payroll/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/payroll/payroll.dict -- data/linux/processed-challenges/payroll/bin/payroll\n'
+p27
+I0
+tp28
+a(I1680
+S'start_time     : 1500144341\nlast_update    : 1500146023\nfuzzer_pid     : 4807\ncycles_done    : 0\nexecs_done     : 902246\nexecs_per_sec  : 547.03\npaths_total    : 92\npaths_favored  : 46\npaths_found    : 91\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 50\npending_favs   : 27\npending_total  : 63\nvariable_paths : 0\nbitmap_cvg     : 0.63%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500146003\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/payroll/input -o /dev/shm/work/payroll/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/payroll/payroll.dict -- data/linux/processed-challenges/payroll/bin/payroll\n'
+p29
+I5
+tp30
+a(I1800
+S'start_time     : 1500144341\nlast_update    : 1500146144\nfuzzer_pid     : 4807\ncycles_done    : 0\nexecs_done     : 964432\nexecs_per_sec  : 467.18\npaths_total    : 98\npaths_favored  : 49\npaths_found    : 97\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 54\npending_favs   : 28\npending_total  : 66\nvariable_paths : 0\nbitmap_cvg     : 0.64%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500146108\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/payroll/input -o /dev/shm/work/payroll/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/payroll/payroll.dict -- data/linux/processed-challenges/payroll/bin/payroll\n'
+p31
+I5
+tp32
+a(I1920
+S'start_time     : 1500144341\nlast_update    : 1500146264\nfuzzer_pid     : 4807\ncycles_done    : 0\nexecs_done     : 1027285\nexecs_per_sec  : 523.11\npaths_total    : 103\npaths_favored  : 49\npaths_found    : 102\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 54\npending_favs   : 28\npending_total  : 71\nvariable_paths : 0\nbitmap_cvg     : 0.64%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500146227\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/payroll/input -o /dev/shm/work/payroll/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/payroll/payroll.dict -- data/linux/processed-challenges/payroll/bin/payroll\n'
+p33
+I5
+tp34
+a(I2040
+S'start_time     : 1500144341\nlast_update    : 1500146384\nfuzzer_pid     : 4807\ncycles_done    : 0\nexecs_done     : 1091135\nexecs_per_sec  : 536.15\npaths_total    : 104\npaths_favored  : 49\npaths_found    : 103\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 54\npending_favs   : 28\npending_total  : 72\nvariable_paths : 0\nbitmap_cvg     : 0.64%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500146371\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/payroll/input -o /dev/shm/work/payroll/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/payroll/payroll.dict -- data/linux/processed-challenges/payroll/bin/payroll\n'
+p35
+I1
+tp36
+a(I2160
+S'start_time     : 1500144341\nlast_update    : 1500146505\nfuzzer_pid     : 4807\ncycles_done    : 0\nexecs_done     : 1153734\nexecs_per_sec  : 524.90\npaths_total    : 108\npaths_favored  : 53\npaths_found    : 107\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 58\npending_favs   : 29\npending_total  : 73\nvariable_paths : 0\nbitmap_cvg     : 0.65%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500146493\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/payroll/input -o /dev/shm/work/payroll/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/payroll/payroll.dict -- data/linux/processed-challenges/payroll/bin/payroll\n'
+p37
+I4
+tp38
+a(I2280
+S'start_time     : 1500144341\nlast_update    : 1500146625\nfuzzer_pid     : 4807\ncycles_done    : 0\nexecs_done     : 1216698\nexecs_per_sec  : 546.32\npaths_total    : 114\npaths_favored  : 54\npaths_found    : 113\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 60\npending_favs   : 28\npending_total  : 77\nvariable_paths : 0\nbitmap_cvg     : 0.66%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500146597\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/payroll/input -o /dev/shm/work/payroll/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/payroll/payroll.dict -- data/linux/processed-challenges/payroll/bin/payroll\n'
+p39
+I6
+tp40
+a(I2400
+S'start_time     : 1500144341\nlast_update    : 1500146745\nfuzzer_pid     : 4807\ncycles_done    : 0\nexecs_done     : 1280638\nexecs_per_sec  : 526.73\npaths_total    : 115\npaths_favored  : 54\npaths_found    : 114\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 60\npending_favs   : 28\npending_total  : 78\nvariable_paths : 0\nbitmap_cvg     : 0.66%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500146695\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/payroll/input -o /dev/shm/work/payroll/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/payroll/payroll.dict -- data/linux/processed-challenges/payroll/bin/payroll\n'
+p41
+I1
+tp42
+a(I2520
+S'start_time     : 1500144341\nlast_update    : 1500146865\nfuzzer_pid     : 4807\ncycles_done    : 0\nexecs_done     : 1345228\nexecs_per_sec  : 532.56\npaths_total    : 115\npaths_favored  : 54\npaths_found    : 114\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 60\npending_favs   : 28\npending_total  : 78\nvariable_paths : 0\nbitmap_cvg     : 0.66%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500146695\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/payroll/input -o /dev/shm/work/payroll/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/payroll/payroll.dict -- data/linux/processed-challenges/payroll/bin/payroll\n'
+p43
+I0
+tp44
+a(I2640
+S'start_time     : 1500144341\nlast_update    : 1500146985\nfuzzer_pid     : 4807\ncycles_done    : 0\nexecs_done     : 1407318\nexecs_per_sec  : 537.71\npaths_total    : 119\npaths_favored  : 57\npaths_found    : 118\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 68\npending_favs   : 27\npending_total  : 77\nvariable_paths : 0\nbitmap_cvg     : 0.69%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500146945\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/payroll/input -o /dev/shm/work/payroll/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/payroll/payroll.dict -- data/linux/processed-challenges/payroll/bin/payroll\n'
+p45
+I4
+tp46
+a(I2760
+S'start_time     : 1500144341\nlast_update    : 1500147106\nfuzzer_pid     : 4807\ncycles_done    : 0\nexecs_done     : 1468787\nexecs_per_sec  : 532.86\npaths_total    : 121\npaths_favored  : 57\npaths_found    : 120\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 74\npending_favs   : 24\npending_total  : 75\nvariable_paths : 0\nbitmap_cvg     : 0.69%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500147103\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/payroll/input -o /dev/shm/work/payroll/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/payroll/payroll.dict -- data/linux/processed-challenges/payroll/bin/payroll\n'
+p47
+I2
+tp48
+a(I2880
+S'start_time     : 1500144341\nlast_update    : 1500147226\nfuzzer_pid     : 4807\ncycles_done    : 0\nexecs_done     : 1526544\nexecs_per_sec  : 504.65\npaths_total    : 129\npaths_favored  : 60\npaths_found    : 128\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 78\npending_favs   : 26\npending_total  : 80\nvariable_paths : 0\nbitmap_cvg     : 0.70%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500147186\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/payroll/input -o /dev/shm/work/payroll/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/payroll/payroll.dict -- data/linux/processed-challenges/payroll/bin/payroll\n'
+p49
+I8
+tp50
+a(I3000
+S'start_time     : 1500144341\nlast_update    : 1500147346\nfuzzer_pid     : 4807\ncycles_done    : 0\nexecs_done     : 1586176\nexecs_per_sec  : 544.67\npaths_total    : 136\npaths_favored  : 61\npaths_found    : 135\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 79\npending_favs   : 26\npending_total  : 86\nvariable_paths : 0\nbitmap_cvg     : 0.71%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500147335\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/payroll/input -o /dev/shm/work/payroll/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/payroll/payroll.dict -- data/linux/processed-challenges/payroll/bin/payroll\n'
+p51
+I7
+tp52
+a(I3120
+S'start_time     : 1500144341\nlast_update    : 1500147466\nfuzzer_pid     : 4807\ncycles_done    : 0\nexecs_done     : 1648128\nexecs_per_sec  : 548.16\npaths_total    : 141\npaths_favored  : 64\npaths_found    : 140\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 91\npending_favs   : 27\npending_total  : 88\nvariable_paths : 0\nbitmap_cvg     : 0.71%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500147463\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/payroll/input -o /dev/shm/work/payroll/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/payroll/payroll.dict -- data/linux/processed-challenges/payroll/bin/payroll\n'
+p53
+I5
+tp54
+a(I3240
+S'start_time     : 1500144341\nlast_update    : 1500147586\nfuzzer_pid     : 4807\ncycles_done    : 0\nexecs_done     : 1709682\nexecs_per_sec  : 503.34\npaths_total    : 143\npaths_favored  : 65\npaths_found    : 142\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 94\npending_favs   : 27\npending_total  : 88\nvariable_paths : 0\nbitmap_cvg     : 0.71%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500147560\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/payroll/input -o /dev/shm/work/payroll/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/payroll/payroll.dict -- data/linux/processed-challenges/payroll/bin/payroll\n'
+p55
+I2
+tp56
+a(I3360
+S'start_time     : 1500144341\nlast_update    : 1500147706\nfuzzer_pid     : 4807\ncycles_done    : 0\nexecs_done     : 1771450\nexecs_per_sec  : 528.77\npaths_total    : 147\npaths_favored  : 65\npaths_found    : 146\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 97\npending_favs   : 26\npending_total  : 91\nvariable_paths : 0\nbitmap_cvg     : 0.71%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500147651\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/payroll/input -o /dev/shm/work/payroll/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/payroll/payroll.dict -- data/linux/processed-challenges/payroll/bin/payroll\n'
+p57
+I4
+tp58
+a(I3480
+S'start_time     : 1500144341\nlast_update    : 1500147827\nfuzzer_pid     : 4807\ncycles_done    : 0\nexecs_done     : 1834780\nexecs_per_sec  : 522.84\npaths_total    : 149\npaths_favored  : 65\npaths_found    : 148\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 97\npending_favs   : 26\npending_total  : 93\nvariable_paths : 0\nbitmap_cvg     : 0.72%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500147736\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/payroll/input -o /dev/shm/work/payroll/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/payroll/payroll.dict -- data/linux/processed-challenges/payroll/bin/payroll\n'
+p59
+I3
+tp60
+a(I3600
+S'start_time     : 1500144341\nlast_update    : 1500147947\nfuzzer_pid     : 4807\ncycles_done    : 0\nexecs_done     : 1896629\nexecs_per_sec  : 459.12\npaths_total    : 150\npaths_favored  : 64\npaths_found    : 149\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 105\npending_favs   : 28\npending_total  : 92\nvariable_paths : 0\nbitmap_cvg     : 0.72%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500147829\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/payroll/input -o /dev/shm/work/payroll/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/payroll/payroll.dict -- data/linux/processed-challenges/payroll/bin/payroll\n'
+p61
+I2
+tp62
+a(I3720
+S'start_time     : 1500144341\nlast_update    : 1500148067\nfuzzer_pid     : 4807\ncycles_done    : 0\nexecs_done     : 1957813\nexecs_per_sec  : 516.55\npaths_total    : 157\npaths_favored  : 64\npaths_found    : 156\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 105\npending_favs   : 28\npending_total  : 99\nvariable_paths : 0\nbitmap_cvg     : 0.72%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500148053\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/payroll/input -o /dev/shm/work/payroll/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/payroll/payroll.dict -- data/linux/processed-challenges/payroll/bin/payroll\n'
+p63
+I5
+tp64
+a(I3840
+S'start_time     : 1500144341\nlast_update    : 1500148187\nfuzzer_pid     : 4807\ncycles_done    : 0\nexecs_done     : 2020403\nexecs_per_sec  : 507.11\npaths_total    : 157\npaths_favored  : 64\npaths_found    : 156\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 105\npending_favs   : 28\npending_total  : 99\nvariable_paths : 0\nbitmap_cvg     : 0.72%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500148053\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/payroll/input -o /dev/shm/work/payroll/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/payroll/payroll.dict -- data/linux/processed-challenges/payroll/bin/payroll\n'
+p65
+I0
+tp66
+a(I3960
+S'start_time     : 1500144341\nlast_update    : 1500148307\nfuzzer_pid     : 4807\ncycles_done    : 0\nexecs_done     : 2081278\nexecs_per_sec  : 520.49\npaths_total    : 157\npaths_favored  : 65\npaths_found    : 156\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 107\npending_favs   : 27\npending_total  : 97\nvariable_paths : 0\nbitmap_cvg     : 0.72%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500148053\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/payroll/input -o /dev/shm/work/payroll/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/payroll/payroll.dict -- data/linux/processed-challenges/payroll/bin/payroll\n'
+p67
+I0
+tp68
+a(I4080
+S'start_time     : 1500144341\nlast_update    : 1500148427\nfuzzer_pid     : 4807\ncycles_done    : 0\nexecs_done     : 2142694\nexecs_per_sec  : 520.40\npaths_total    : 164\npaths_favored  : 65\npaths_found    : 163\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 110\npending_favs   : 24\npending_total  : 101\nvariable_paths : 0\nbitmap_cvg     : 0.73%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500148398\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/payroll/input -o /dev/shm/work/payroll/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/payroll/payroll.dict -- data/linux/processed-challenges/payroll/bin/payroll\n'
+p69
+I7
+tp70
+a(I4200
+S'start_time     : 1500144341\nlast_update    : 1500148548\nfuzzer_pid     : 4807\ncycles_done    : 0\nexecs_done     : 2205544\nexecs_per_sec  : 533.89\npaths_total    : 165\npaths_favored  : 65\npaths_found    : 164\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 110\npending_favs   : 24\npending_total  : 102\nvariable_paths : 0\nbitmap_cvg     : 0.73%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500148441\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/payroll/input -o /dev/shm/work/payroll/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/payroll/payroll.dict -- data/linux/processed-challenges/payroll/bin/payroll\n'
+p71
+I1
+tp72
+a(I4320
+S'start_time     : 1500144341\nlast_update    : 1500148668\nfuzzer_pid     : 4807\ncycles_done    : 0\nexecs_done     : 2268754\nexecs_per_sec  : 520.64\npaths_total    : 165\npaths_favored  : 65\npaths_found    : 164\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 110\npending_favs   : 24\npending_total  : 102\nvariable_paths : 0\nbitmap_cvg     : 0.73%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500148441\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/payroll/input -o /dev/shm/work/payroll/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/payroll/payroll.dict -- data/linux/processed-challenges/payroll/bin/payroll\n'
+p73
+I0
+tp74
+a(I4440
+S'start_time     : 1500144341\nlast_update    : 1500148788\nfuzzer_pid     : 4807\ncycles_done    : 0\nexecs_done     : 2332562\nexecs_per_sec  : 552.67\npaths_total    : 169\npaths_favored  : 70\npaths_found    : 168\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 118\npending_favs   : 27\npending_total  : 103\nvariable_paths : 0\nbitmap_cvg     : 0.76%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500148782\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/payroll/input -o /dev/shm/work/payroll/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/payroll/payroll.dict -- data/linux/processed-challenges/payroll/bin/payroll\n'
+p75
+I4
+tp76
+a(I4560
+S'start_time     : 1500144341\nlast_update    : 1500148908\nfuzzer_pid     : 4807\ncycles_done    : 0\nexecs_done     : 2394896\nexecs_per_sec  : 522.01\npaths_total    : 172\npaths_favored  : 70\npaths_found    : 171\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 119\npending_favs   : 28\npending_total  : 105\nvariable_paths : 0\nbitmap_cvg     : 0.76%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500148865\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/payroll/input -o /dev/shm/work/payroll/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/payroll/payroll.dict -- data/linux/processed-challenges/payroll/bin/payroll\n'
+p77
+I3
+tp78
+a(I4680
+S'start_time     : 1500144341\nlast_update    : 1500149028\nfuzzer_pid     : 4807\ncycles_done    : 0\nexecs_done     : 2456546\nexecs_per_sec  : 519.77\npaths_total    : 174\npaths_favored  : 70\npaths_found    : 173\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 119\npending_favs   : 28\npending_total  : 107\nvariable_paths : 0\nbitmap_cvg     : 0.76%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500148973\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/payroll/input -o /dev/shm/work/payroll/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/payroll/payroll.dict -- data/linux/processed-challenges/payroll/bin/payroll\n'
+p79
+I2
+tp80
+a(I4800
+S'start_time     : 1500144341\nlast_update    : 1500149149\nfuzzer_pid     : 4807\ncycles_done    : 0\nexecs_done     : 2518416\nexecs_per_sec  : 528.75\npaths_total    : 174\npaths_favored  : 70\npaths_found    : 173\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 119\npending_favs   : 28\npending_total  : 107\nvariable_paths : 0\nbitmap_cvg     : 0.76%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500148973\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/payroll/input -o /dev/shm/work/payroll/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/payroll/payroll.dict -- data/linux/processed-challenges/payroll/bin/payroll\n'
+p81
+I0
+tp82
+a(I4920
+S'start_time     : 1500144341\nlast_update    : 1500149269\nfuzzer_pid     : 4807\ncycles_done    : 0\nexecs_done     : 2577490\nexecs_per_sec  : 523.69\npaths_total    : 175\npaths_favored  : 71\npaths_found    : 174\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 124\npending_favs   : 26\npending_total  : 105\nvariable_paths : 0\nbitmap_cvg     : 0.76%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500149216\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/payroll/input -o /dev/shm/work/payroll/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/payroll/payroll.dict -- data/linux/processed-challenges/payroll/bin/payroll\n'
+p83
+I1
+tp84
+a(I5040
+S'start_time     : 1500144341\nlast_update    : 1500149389\nfuzzer_pid     : 4807\ncycles_done    : 0\nexecs_done     : 2635476\nexecs_per_sec  : 503.82\npaths_total    : 176\npaths_favored  : 69\npaths_found    : 175\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 136\npending_favs   : 21\npending_total  : 102\nvariable_paths : 0\nbitmap_cvg     : 0.76%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500149349\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/payroll/input -o /dev/shm/work/payroll/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/payroll/payroll.dict -- data/linux/processed-challenges/payroll/bin/payroll\n'
+p85
+I1
+tp86
+a(I5160
+S'start_time     : 1500144341\nlast_update    : 1500149510\nfuzzer_pid     : 4807\ncycles_done    : 0\nexecs_done     : 2695837\nexecs_per_sec  : 452.91\npaths_total    : 176\npaths_favored  : 69\npaths_found    : 175\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 147\npending_favs   : 16\npending_total  : 97\nvariable_paths : 0\nbitmap_cvg     : 0.76%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500149349\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/payroll/input -o /dev/shm/work/payroll/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/payroll/payroll.dict -- data/linux/processed-challenges/payroll/bin/payroll\n'
+p87
+I1
+tp88
+a(I5280
+S'start_time     : 1500144341\nlast_update    : 1500149630\nfuzzer_pid     : 4807\ncycles_done    : 0\nexecs_done     : 2753976\nexecs_per_sec  : 431.32\npaths_total    : 181\npaths_favored  : 70\npaths_found    : 180\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 152\npending_favs   : 15\npending_total  : 100\nvariable_paths : 0\nbitmap_cvg     : 0.76%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500149629\nlast_crash     : 0\nlast_hang      : 1500149624\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/payroll/input -o /dev/shm/work/payroll/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/payroll/payroll.dict -- data/linux/processed-challenges/payroll/bin/payroll\n'
+p89
+I4
+tp90
+a(I5400
+S'start_time     : 1500144341\nlast_update    : 1500149750\nfuzzer_pid     : 4807\ncycles_done    : 0\nexecs_done     : 2813688\nexecs_per_sec  : 506.30\npaths_total    : 183\npaths_favored  : 70\npaths_found    : 182\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 160\npending_favs   : 15\npending_total  : 99\nvariable_paths : 0\nbitmap_cvg     : 0.77%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500149703\nlast_crash     : 0\nlast_hang      : 1500149624\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/payroll/input -o /dev/shm/work/payroll/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/payroll/payroll.dict -- data/linux/processed-challenges/payroll/bin/payroll\n'
+p91
+I2
+tp92
+a(I5520
+S'start_time     : 1500144341\nlast_update    : 1500149870\nfuzzer_pid     : 4807\ncycles_done    : 0\nexecs_done     : 2874692\nexecs_per_sec  : 514.13\npaths_total    : 185\npaths_favored  : 70\npaths_found    : 184\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 166\npending_favs   : 12\npending_total  : 98\nvariable_paths : 0\nbitmap_cvg     : 0.77%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500149836\nlast_crash     : 0\nlast_hang      : 1500149824\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/payroll/input -o /dev/shm/work/payroll/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/payroll/payroll.dict -- data/linux/processed-challenges/payroll/bin/payroll\n'
+p93
+I2
+tp94
+a(I5640
+S'start_time     : 1500144341\nlast_update    : 1500149990\nfuzzer_pid     : 4807\ncycles_done    : 0\nexecs_done     : 2935631\nexecs_per_sec  : 494.88\npaths_total    : 188\npaths_favored  : 74\npaths_found    : 187\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 173\npending_favs   : 12\npending_total  : 97\nvariable_paths : 0\nbitmap_cvg     : 0.78%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500149930\nlast_crash     : 0\nlast_hang      : 1500149824\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/payroll/input -o /dev/shm/work/payroll/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/payroll/payroll.dict -- data/linux/processed-challenges/payroll/bin/payroll\n'
+p95
+I3
+tp96
+a(I5760
+S'start_time     : 1500144341\nlast_update    : 1500150111\nfuzzer_pid     : 4807\ncycles_done    : 0\nexecs_done     : 2991550\nexecs_per_sec  : 433.09\npaths_total    : 189\npaths_favored  : 74\npaths_found    : 188\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 175\npending_favs   : 11\npending_total  : 96\nvariable_paths : 0\nbitmap_cvg     : 0.78%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500150058\nlast_crash     : 0\nlast_hang      : 1500149824\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/payroll/input -o /dev/shm/work/payroll/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/payroll/payroll.dict -- data/linux/processed-challenges/payroll/bin/payroll\n'
+p97
+I1
+tp98
+a(I5880
+S'start_time     : 1500144341\nlast_update    : 1500150231\nfuzzer_pid     : 4807\ncycles_done    : 0\nexecs_done     : 3052752\nexecs_per_sec  : 497.42\npaths_total    : 193\npaths_favored  : 74\npaths_found    : 192\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 175\npending_favs   : 11\npending_total  : 100\nvariable_paths : 0\nbitmap_cvg     : 0.78%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500150182\nlast_crash     : 0\nlast_hang      : 1500150137\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/payroll/input -o /dev/shm/work/payroll/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/payroll/payroll.dict -- data/linux/processed-challenges/payroll/bin/payroll\n'
+p99
+I4
+tp100
+a(I6000
+S'start_time     : 1500144341\nlast_update    : 1500150351\nfuzzer_pid     : 4807\ncycles_done    : 0\nexecs_done     : 3114413\nexecs_per_sec  : 506.75\npaths_total    : 193\npaths_favored  : 74\npaths_found    : 192\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 175\npending_favs   : 11\npending_total  : 100\nvariable_paths : 0\nbitmap_cvg     : 0.78%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500150182\nlast_crash     : 0\nlast_hang      : 1500150137\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/payroll/input -o /dev/shm/work/payroll/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/payroll/payroll.dict -- data/linux/processed-challenges/payroll/bin/payroll\n'
+p101
+I0
+tp102
+a(I6120
+S'start_time     : 1500144341\nlast_update    : 1500150471\nfuzzer_pid     : 4807\ncycles_done    : 0\nexecs_done     : 3175002\nexecs_per_sec  : 523.06\npaths_total    : 195\npaths_favored  : 75\npaths_found    : 194\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 177\npending_favs   : 11\npending_total  : 101\nvariable_paths : 0\nbitmap_cvg     : 0.78%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500150451\nlast_crash     : 0\nlast_hang      : 1500150137\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/payroll/input -o /dev/shm/work/payroll/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/payroll/payroll.dict -- data/linux/processed-challenges/payroll/bin/payroll\n'
+p103
+I2
+tp104
+a(I6240
+S'start_time     : 1500144341\nlast_update    : 1500150592\nfuzzer_pid     : 4807\ncycles_done    : 0\nexecs_done     : 3232867\nexecs_per_sec  : 506.00\npaths_total    : 198\npaths_favored  : 75\npaths_found    : 197\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 182\npending_favs   : 9\npending_total  : 101\nvariable_paths : 0\nbitmap_cvg     : 0.78%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500150589\nlast_crash     : 0\nlast_hang      : 1500150137\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/payroll/input -o /dev/shm/work/payroll/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/payroll/payroll.dict -- data/linux/processed-challenges/payroll/bin/payroll\n'
+p105
+I3
+tp106
+a(I6360
+S'start_time     : 1500144341\nlast_update    : 1500150712\nfuzzer_pid     : 4807\ncycles_done    : 0\nexecs_done     : 3292034\nexecs_per_sec  : 505.46\npaths_total    : 201\npaths_favored  : 75\npaths_found    : 200\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 184\npending_favs   : 9\npending_total  : 102\nvariable_paths : 0\nbitmap_cvg     : 0.78%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500150698\nlast_crash     : 0\nlast_hang      : 1500150137\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/payroll/input -o /dev/shm/work/payroll/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/payroll/payroll.dict -- data/linux/processed-challenges/payroll/bin/payroll\n'
+p107
+I3
+tp108
+a(I6480
+S'start_time     : 1500144341\nlast_update    : 1500150832\nfuzzer_pid     : 4807\ncycles_done    : 0\nexecs_done     : 3353066\nexecs_per_sec  : 499.63\npaths_total    : 203\npaths_favored  : 75\npaths_found    : 202\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 186\npending_favs   : 7\npending_total  : 102\nvariable_paths : 0\nbitmap_cvg     : 0.78%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500150805\nlast_crash     : 0\nlast_hang      : 1500150137\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/payroll/input -o /dev/shm/work/payroll/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/payroll/payroll.dict -- data/linux/processed-challenges/payroll/bin/payroll\n'
+p109
+I2
+tp110
+a(I6600
+S'start_time     : 1500144341\nlast_update    : 1500150952\nfuzzer_pid     : 4807\ncycles_done    : 0\nexecs_done     : 3412321\nexecs_per_sec  : 526.32\npaths_total    : 207\npaths_favored  : 75\npaths_found    : 206\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 195\npending_favs   : 5\npending_total  : 104\nvariable_paths : 0\nbitmap_cvg     : 0.78%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500150939\nlast_crash     : 0\nlast_hang      : 1500150137\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/payroll/input -o /dev/shm/work/payroll/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/payroll/payroll.dict -- data/linux/processed-challenges/payroll/bin/payroll\n'
+p111
+I4
+tp112
+a(I6720
+S'start_time     : 1500144341\nlast_update    : 1500151072\nfuzzer_pid     : 4807\ncycles_done    : 0\nexecs_done     : 3473370\nexecs_per_sec  : 508.45\npaths_total    : 208\npaths_favored  : 75\npaths_found    : 207\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 196\npending_favs   : 5\npending_total  : 104\nvariable_paths : 0\nbitmap_cvg     : 0.78%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500151031\nlast_crash     : 0\nlast_hang      : 1500150137\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/payroll/input -o /dev/shm/work/payroll/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/payroll/payroll.dict -- data/linux/processed-challenges/payroll/bin/payroll\n'
+p113
+I1
+tp114
+a(I6840
+S'start_time     : 1500144341\nlast_update    : 1500151193\nfuzzer_pid     : 4807\ncycles_done    : 0\nexecs_done     : 3532241\nexecs_per_sec  : 446.98\npaths_total    : 209\npaths_favored  : 75\npaths_found    : 208\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 206\npending_favs   : 3\npending_total  : 103\nvariable_paths : 0\nbitmap_cvg     : 0.78%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500151173\nlast_crash     : 0\nlast_hang      : 1500150137\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/payroll/input -o /dev/shm/work/payroll/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/payroll/payroll.dict -- data/linux/processed-challenges/payroll/bin/payroll\n'
+p115
+I1
+tp116
+a(I6960
+S'start_time     : 1500144341\nlast_update    : 1500151313\nfuzzer_pid     : 4807\ncycles_done    : 0\nexecs_done     : 3593414\nexecs_per_sec  : 514.30\npaths_total    : 212\npaths_favored  : 75\npaths_found    : 211\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 206\npending_favs   : 3\npending_total  : 106\nvariable_paths : 0\nbitmap_cvg     : 0.78%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500151263\nlast_crash     : 0\nlast_hang      : 1500150137\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/payroll/input -o /dev/shm/work/payroll/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/payroll/payroll.dict -- data/linux/processed-challenges/payroll/bin/payroll\n'
+p117
+I3
+tp118
+a(I7080
+S'start_time     : 1500144341\nlast_update    : 1500151433\nfuzzer_pid     : 4807\ncycles_done    : 0\nexecs_done     : 3654245\nexecs_per_sec  : 485.67\npaths_total    : 212\npaths_favored  : 75\npaths_found    : 211\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 206\npending_favs   : 3\npending_total  : 106\nvariable_paths : 0\nbitmap_cvg     : 0.78%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500151263\nlast_crash     : 0\nlast_hang      : 1500150137\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/payroll/input -o /dev/shm/work/payroll/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/payroll/payroll.dict -- data/linux/processed-challenges/payroll/bin/payroll\n'
+p119
+I0
+tp120
+a(I7200
+S'start_time     : 1500144341\nlast_update    : 1500151493\nfuzzer_pid     : 4807\ncycles_done    : 0\nexecs_done     : 3684116\nexecs_per_sec  : 492.78\npaths_total    : 212\npaths_favored  : 75\npaths_found    : 211\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 206\npending_favs   : 3\npending_total  : 106\nvariable_paths : 0\nbitmap_cvg     : 0.78%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500151263\nlast_crash     : 0\nlast_hang      : 1500150137\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/payroll/input -o /dev/shm/work/payroll/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/payroll/payroll.dict -- data/linux/processed-challenges/payroll/bin/payroll\n'
+p121
+I0
+tp122
+a(I7320
+S'start_time     : 1500144341\nlast_update    : 1500151613\nfuzzer_pid     : 4807\ncycles_done    : 1\nexecs_done     : 3747475\nexecs_per_sec  : 524.20\npaths_total    : 214\npaths_favored  : 75\npaths_found    : 213\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 57\npending_favs   : 0\npending_total  : 105\nvariable_paths : 0\nbitmap_cvg     : 0.78%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500151590\nlast_crash     : 0\nlast_hang      : 1500150137\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/payroll/input -o /dev/shm/work/payroll/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/payroll/payroll.dict -- data/linux/processed-challenges/payroll/bin/payroll\n'
+p123
+I2
+tp124
+a(I7440
+S'start_time     : 1500144341\nlast_update    : 1500151733\nfuzzer_pid     : 4807\ncycles_done    : 1\nexecs_done     : 3808760\nexecs_per_sec  : 498.96\npaths_total    : 217\npaths_favored  : 75\npaths_found    : 216\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 62\npending_favs   : 0\npending_total  : 108\nvariable_paths : 0\nbitmap_cvg     : 0.78%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500151720\nlast_crash     : 0\nlast_hang      : 1500150137\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/payroll/input -o /dev/shm/work/payroll/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/payroll/payroll.dict -- data/linux/processed-challenges/payroll/bin/payroll\n'
+p125
+I4
+tp126
+a(I7560
+S'start_time     : 1500144341\nlast_update    : 1500151854\nfuzzer_pid     : 4807\ncycles_done    : 1\nexecs_done     : 3869070\nexecs_per_sec  : 509.38\npaths_total    : 218\npaths_favored  : 75\npaths_found    : 217\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 62\npending_favs   : 0\npending_total  : 109\nvariable_paths : 0\nbitmap_cvg     : 0.79%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500151754\nlast_crash     : 0\nlast_hang      : 1500150137\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/payroll/input -o /dev/shm/work/payroll/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/payroll/payroll.dict -- data/linux/processed-challenges/payroll/bin/payroll\n'
+p127
+I0
+tp128
+a(I7680
+S'start_time     : 1500144341\nlast_update    : 1500151974\nfuzzer_pid     : 4807\ncycles_done    : 1\nexecs_done     : 3928635\nexecs_per_sec  : 499.15\npaths_total    : 218\npaths_favored  : 75\npaths_found    : 217\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 62\npending_favs   : 0\npending_total  : 109\nvariable_paths : 0\nbitmap_cvg     : 0.79%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500151754\nlast_crash     : 0\nlast_hang      : 1500150137\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/payroll/input -o /dev/shm/work/payroll/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/payroll/payroll.dict -- data/linux/processed-challenges/payroll/bin/payroll\n'
+p129
+I1
+tp130
+a(I7800
+S'start_time     : 1500144341\nlast_update    : 1500152094\nfuzzer_pid     : 4807\ncycles_done    : 1\nexecs_done     : 3988236\nexecs_per_sec  : 516.97\npaths_total    : 220\npaths_favored  : 76\npaths_found    : 219\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 146\npending_favs   : 1\npending_total  : 110\nvariable_paths : 0\nbitmap_cvg     : 0.79%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500152053\nlast_crash     : 0\nlast_hang      : 1500150137\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/payroll/input -o /dev/shm/work/payroll/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/payroll/payroll.dict -- data/linux/processed-challenges/payroll/bin/payroll\n'
+p131
+I4
+tp132
+a(I7920
+S'start_time     : 1500144341\nlast_update    : 1500152214\nfuzzer_pid     : 4807\ncycles_done    : 1\nexecs_done     : 4044275\nexecs_per_sec  : 488.97\npaths_total    : 225\npaths_favored  : 76\npaths_found    : 224\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 217\npending_favs   : 1\npending_total  : 114\nvariable_paths : 0\nbitmap_cvg     : 0.79%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500152183\nlast_crash     : 0\nlast_hang      : 1500150137\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/payroll/input -o /dev/shm/work/payroll/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/payroll/payroll.dict -- data/linux/processed-challenges/payroll/bin/payroll\n'
+p133
+I4
+tp134
+a(I8040
+S'start_time     : 1500144341\nlast_update    : 1500152335\nfuzzer_pid     : 4807\ncycles_done    : 1\nexecs_done     : 4103722\nexecs_per_sec  : 490.02\npaths_total    : 227\npaths_favored  : 76\npaths_found    : 226\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 217\npending_favs   : 1\npending_total  : 116\nvariable_paths : 0\nbitmap_cvg     : 0.79%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500152270\nlast_crash     : 0\nlast_hang      : 1500150137\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/payroll/input -o /dev/shm/work/payroll/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/payroll/payroll.dict -- data/linux/processed-challenges/payroll/bin/payroll\n'
+p135
+I0
+tp136
+a(I8160
+S'start_time     : 1500144341\nlast_update    : 1500152455\nfuzzer_pid     : 4807\ncycles_done    : 1\nexecs_done     : 4162312\nexecs_per_sec  : 482.08\npaths_total    : 227\npaths_favored  : 76\npaths_found    : 226\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 217\npending_favs   : 1\npending_total  : 116\nvariable_paths : 0\nbitmap_cvg     : 0.79%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500152270\nlast_crash     : 0\nlast_hang      : 1500150137\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/payroll/input -o /dev/shm/work/payroll/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/payroll/payroll.dict -- data/linux/processed-challenges/payroll/bin/payroll\n'
+p137
+I0
+tp138
+a(I8280
+S'start_time     : 1500144341\nlast_update    : 1500152575\nfuzzer_pid     : 4807\ncycles_done    : 1\nexecs_done     : 4217678\nexecs_per_sec  : 431.92\npaths_total    : 227\npaths_favored  : 76\npaths_found    : 226\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 221\npending_favs   : 2\npending_total  : 114\nvariable_paths : 0\nbitmap_cvg     : 0.79%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500152270\nlast_crash     : 0\nlast_hang      : 1500150137\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/payroll/input -o /dev/shm/work/payroll/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/payroll/payroll.dict -- data/linux/processed-challenges/payroll/bin/payroll\n'
+p139
+I0
+tp140
+a(I8400
+S'start_time     : 1500144341\nlast_update    : 1500152695\nfuzzer_pid     : 4807\ncycles_done    : 1\nexecs_done     : 4272583\nexecs_per_sec  : 502.02\npaths_total    : 229\npaths_favored  : 76\npaths_found    : 228\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 226\npending_favs   : 1\npending_total  : 115\nvariable_paths : 0\nbitmap_cvg     : 0.79%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500152673\nlast_crash     : 0\nlast_hang      : 1500150137\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/payroll/input -o /dev/shm/work/payroll/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/payroll/payroll.dict -- data/linux/processed-challenges/payroll/bin/payroll\n'
+p141
+I3
+tp142
+a(I8520
+S'start_time     : 1500144341\nlast_update    : 1500152815\nfuzzer_pid     : 4807\ncycles_done    : 1\nexecs_done     : 4331422\nexecs_per_sec  : 446.87\npaths_total    : 230\npaths_favored  : 76\npaths_found    : 229\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 226\npending_favs   : 1\npending_total  : 116\nvariable_paths : 0\nbitmap_cvg     : 0.79%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500152697\nlast_crash     : 0\nlast_hang      : 1500150137\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/payroll/input -o /dev/shm/work/payroll/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/payroll/payroll.dict -- data/linux/processed-challenges/payroll/bin/payroll\n'
+p143
+I0
+tp144
+a(I8640
+S'start_time     : 1500144341\nlast_update    : 1500152935\nfuzzer_pid     : 4807\ncycles_done    : 1\nexecs_done     : 4380513\nexecs_per_sec  : 408.49\npaths_total    : 230\npaths_favored  : 76\npaths_found    : 229\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 229\npending_favs   : 0\npending_total  : 115\nvariable_paths : 0\nbitmap_cvg     : 0.79%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500152697\nlast_crash     : 0\nlast_hang      : 1500150137\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/payroll/input -o /dev/shm/work/payroll/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/payroll/payroll.dict -- data/linux/processed-challenges/payroll/bin/payroll\n'
+p145
+I3
+tp146
+a(I8760
+S'start_time     : 1500144341\nlast_update    : 1500153056\nfuzzer_pid     : 4807\ncycles_done    : 1\nexecs_done     : 4435278\nexecs_per_sec  : 470.81\npaths_total    : 234\npaths_favored  : 76\npaths_found    : 233\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 229\npending_favs   : 0\npending_total  : 119\nvariable_paths : 0\nbitmap_cvg     : 0.79%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500153003\nlast_crash     : 0\nlast_hang      : 1500150137\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/payroll/input -o /dev/shm/work/payroll/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/payroll/payroll.dict -- data/linux/processed-challenges/payroll/bin/payroll\n'
+p147
+I1
+tp148
+a(I8880
+S'start_time     : 1500144341\nlast_update    : 1500153176\nfuzzer_pid     : 4807\ncycles_done    : 1\nexecs_done     : 4490358\nexecs_per_sec  : 470.91\npaths_total    : 234\npaths_favored  : 76\npaths_found    : 233\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 229\npending_favs   : 0\npending_total  : 119\nvariable_paths : 0\nbitmap_cvg     : 0.79%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500153003\nlast_crash     : 0\nlast_hang      : 1500150137\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/payroll/input -o /dev/shm/work/payroll/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/payroll/payroll.dict -- data/linux/processed-challenges/payroll/bin/payroll\n'
+p149
+I0
+tp150
+a(I9000
+S'start_time     : 1500144341\nlast_update    : 1500153296\nfuzzer_pid     : 4807\ncycles_done    : 1\nexecs_done     : 4545605\nexecs_per_sec  : 428.67\npaths_total    : 234\npaths_favored  : 75\npaths_found    : 233\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 233\npending_favs   : 1\npending_total  : 118\nvariable_paths : 0\nbitmap_cvg     : 0.79%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500153003\nlast_crash     : 0\nlast_hang      : 1500153252\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/payroll/input -o /dev/shm/work/payroll/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/payroll/payroll.dict -- data/linux/processed-challenges/payroll/bin/payroll\n'
+p151
+I2
+tp152
+a(I9120
+S'start_time     : 1500144341\nlast_update    : 1500153416\nfuzzer_pid     : 4807\ncycles_done    : 1\nexecs_done     : 4603668\nexecs_per_sec  : 496.40\npaths_total    : 237\npaths_favored  : 75\npaths_found    : 236\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 233\npending_favs   : 1\npending_total  : 121\nvariable_paths : 0\nbitmap_cvg     : 0.79%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500153368\nlast_crash     : 0\nlast_hang      : 1500153366\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/payroll/input -o /dev/shm/work/payroll/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/payroll/payroll.dict -- data/linux/processed-challenges/payroll/bin/payroll\n'
+p153
+I1
+tp154
+a(I9240
+S'start_time     : 1500144341\nlast_update    : 1500153537\nfuzzer_pid     : 4807\ncycles_done    : 1\nexecs_done     : 4663257\nexecs_per_sec  : 487.89\npaths_total    : 237\npaths_favored  : 75\npaths_found    : 236\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 233\npending_favs   : 1\npending_total  : 121\nvariable_paths : 0\nbitmap_cvg     : 0.79%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500153368\nlast_crash     : 0\nlast_hang      : 1500153366\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/payroll/input -o /dev/shm/work/payroll/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/payroll/payroll.dict -- data/linux/processed-challenges/payroll/bin/payroll\n'
+p155
+I0
+tp156
+a(I9360
+S'start_time     : 1500144341\nlast_update    : 1500153657\nfuzzer_pid     : 4807\ncycles_done    : 1\nexecs_done     : 4723349\nexecs_per_sec  : 439.46\npaths_total    : 237\npaths_favored  : 75\npaths_found    : 236\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 234\npending_favs   : 1\npending_total  : 120\nvariable_paths : 0\nbitmap_cvg     : 0.79%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500153368\nlast_crash     : 0\nlast_hang      : 1500153366\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/payroll/input -o /dev/shm/work/payroll/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/payroll/payroll.dict -- data/linux/processed-challenges/payroll/bin/payroll\n'
+p157
+I0
+tp158
+a(I9480
+S'start_time     : 1500144341\nlast_update    : 1500153777\nfuzzer_pid     : 4807\ncycles_done    : 2\nexecs_done     : 4781158\nexecs_per_sec  : 569.97\npaths_total    : 237\npaths_favored  : 75\npaths_found    : 236\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 2\npending_favs   : 0\npending_total  : 119\nvariable_paths : 0\nbitmap_cvg     : 0.79%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500153368\nlast_crash     : 0\nlast_hang      : 1500153366\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/payroll/input -o /dev/shm/work/payroll/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/payroll/payroll.dict -- data/linux/processed-challenges/payroll/bin/payroll\n'
+p159
+I0
+tp160
+a(I9600
+S'start_time     : 1500144341\nlast_update    : 1500153897\nfuzzer_pid     : 4807\ncycles_done    : 2\nexecs_done     : 4842683\nexecs_per_sec  : 471.36\npaths_total    : 237\npaths_favored  : 75\npaths_found    : 236\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 35\npending_favs   : 0\npending_total  : 118\nvariable_paths : 0\nbitmap_cvg     : 0.79%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500153368\nlast_crash     : 0\nlast_hang      : 1500153366\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/payroll/input -o /dev/shm/work/payroll/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/payroll/payroll.dict -- data/linux/processed-challenges/payroll/bin/payroll\n'
+p161
+I0
+tp162
+a(I9720
+S'start_time     : 1500144341\nlast_update    : 1500154017\nfuzzer_pid     : 4807\ncycles_done    : 2\nexecs_done     : 4899008\nexecs_per_sec  : 533.92\npaths_total    : 237\npaths_favored  : 75\npaths_found    : 236\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 48\npending_favs   : 0\npending_total  : 114\nvariable_paths : 0\nbitmap_cvg     : 0.79%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500153368\nlast_crash     : 0\nlast_hang      : 1500153366\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/payroll/input -o /dev/shm/work/payroll/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/payroll/payroll.dict -- data/linux/processed-challenges/payroll/bin/payroll\n'
+p163
+I0
+tp164
+a(I9840
+S'start_time     : 1500144341\nlast_update    : 1500154138\nfuzzer_pid     : 4807\ncycles_done    : 2\nexecs_done     : 4961244\nexecs_per_sec  : 477.03\npaths_total    : 237\npaths_favored  : 75\npaths_found    : 236\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 55\npending_favs   : 0\npending_total  : 114\nvariable_paths : 0\nbitmap_cvg     : 0.79%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500153368\nlast_crash     : 0\nlast_hang      : 1500153366\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/payroll/input -o /dev/shm/work/payroll/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/payroll/payroll.dict -- data/linux/processed-challenges/payroll/bin/payroll\n'
+p165
+I0
+tp166
+a(I9960
+S'start_time     : 1500144341\nlast_update    : 1500154258\nfuzzer_pid     : 4807\ncycles_done    : 2\nexecs_done     : 5027183\nexecs_per_sec  : 568.99\npaths_total    : 237\npaths_favored  : 75\npaths_found    : 236\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 69\npending_favs   : 0\npending_total  : 113\nvariable_paths : 0\nbitmap_cvg     : 0.79%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500153368\nlast_crash     : 0\nlast_hang      : 1500153366\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/payroll/input -o /dev/shm/work/payroll/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/payroll/payroll.dict -- data/linux/processed-challenges/payroll/bin/payroll\n'
+p167
+I0
+tp168
+a(I10080
+S'start_time     : 1500144341\nlast_update    : 1500154378\nfuzzer_pid     : 4807\ncycles_done    : 2\nexecs_done     : 5092307\nexecs_per_sec  : 552.19\npaths_total    : 237\npaths_favored  : 75\npaths_found    : 236\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 79\npending_favs   : 0\npending_total  : 113\nvariable_paths : 0\nbitmap_cvg     : 0.79%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500153368\nlast_crash     : 0\nlast_hang      : 1500153366\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/payroll/input -o /dev/shm/work/payroll/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/payroll/payroll.dict -- data/linux/processed-challenges/payroll/bin/payroll\n'
+p169
+I0
+tp170
+a(I10200
+S'start_time     : 1500144341\nlast_update    : 1500154498\nfuzzer_pid     : 4807\ncycles_done    : 2\nexecs_done     : 5153889\nexecs_per_sec  : 521.67\npaths_total    : 237\npaths_favored  : 75\npaths_found    : 236\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 99\npending_favs   : 0\npending_total  : 111\nvariable_paths : 0\nbitmap_cvg     : 0.79%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500153368\nlast_crash     : 0\nlast_hang      : 1500153366\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/payroll/input -o /dev/shm/work/payroll/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/payroll/payroll.dict -- data/linux/processed-challenges/payroll/bin/payroll\n'
+p171
+I0
+tp172
+a(I10320
+S'start_time     : 1500144341\nlast_update    : 1500154618\nfuzzer_pid     : 4807\ncycles_done    : 2\nexecs_done     : 5215988\nexecs_per_sec  : 559.23\npaths_total    : 237\npaths_favored  : 75\npaths_found    : 236\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 106\npending_favs   : 0\npending_total  : 108\nvariable_paths : 0\nbitmap_cvg     : 0.79%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500153368\nlast_crash     : 0\nlast_hang      : 1500153366\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/payroll/input -o /dev/shm/work/payroll/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/payroll/payroll.dict -- data/linux/processed-challenges/payroll/bin/payroll\n'
+p173
+I0
+tp174
+a(I10440
+S'start_time     : 1500144341\nlast_update    : 1500154738\nfuzzer_pid     : 4807\ncycles_done    : 2\nexecs_done     : 5277636\nexecs_per_sec  : 439.65\npaths_total    : 237\npaths_favored  : 75\npaths_found    : 236\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 113\npending_favs   : 0\npending_total  : 107\nvariable_paths : 0\nbitmap_cvg     : 0.79%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500153368\nlast_crash     : 0\nlast_hang      : 1500153366\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/payroll/input -o /dev/shm/work/payroll/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/payroll/payroll.dict -- data/linux/processed-challenges/payroll/bin/payroll\n'
+p175
+I1
+tp176
+a(I10560
+S'start_time     : 1500144341\nlast_update    : 1500154859\nfuzzer_pid     : 4807\ncycles_done    : 2\nexecs_done     : 5341141\nexecs_per_sec  : 543.55\npaths_total    : 238\npaths_favored  : 75\npaths_found    : 237\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 120\npending_favs   : 0\npending_total  : 107\nvariable_paths : 0\nbitmap_cvg     : 0.79%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500154764\nlast_crash     : 0\nlast_hang      : 1500153366\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/payroll/input -o /dev/shm/work/payroll/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/payroll/payroll.dict -- data/linux/processed-challenges/payroll/bin/payroll\n'
+p177
+I1
+tp178
+a(I10680
+S'start_time     : 1500144341\nlast_update    : 1500154979\nfuzzer_pid     : 4807\ncycles_done    : 2\nexecs_done     : 5405231\nexecs_per_sec  : 527.82\npaths_total    : 241\npaths_favored  : 75\npaths_found    : 240\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 124\npending_favs   : 0\npending_total  : 109\nvariable_paths : 0\nbitmap_cvg     : 0.79%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500154949\nlast_crash     : 0\nlast_hang      : 1500153366\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/payroll/input -o /dev/shm/work/payroll/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/payroll/payroll.dict -- data/linux/processed-challenges/payroll/bin/payroll\n'
+p179
+I2
+tp180
+a.

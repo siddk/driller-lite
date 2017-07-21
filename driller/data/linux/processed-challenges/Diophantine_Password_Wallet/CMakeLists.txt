@@ -1,0 +1,6 @@
+set( SERVICE_ID "00007" )
+set( POLLS_RELEASE_SEED "-1897487206" )
+set( AUTHOR_ID "YAN01" )
+add_compile_options( -O0 -g -Wno-overlength-strings -Wno-packed -fno-rtti )
+set( POLLS_TESTING_SEED "2112505907" )
+buildCB()

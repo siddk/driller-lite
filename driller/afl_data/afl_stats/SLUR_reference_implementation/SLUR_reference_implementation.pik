@@ -1,0 +1,452 @@
+(lp0
+(I0
+S'start_time     : 1499993120\nlast_update    : 1499993120\nfuzzer_pid     : 14372\ncycles_done    : 0\nexecs_done     : 10\nexecs_per_sec  : 192.31\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 1\npending_total  : 1\nvariable_paths : 0\nbitmap_cvg     : 0.12%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SLUR_reference_implementation/input -o /dev/shm/work/SLUR_reference_implementation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SLUR_reference_implementation/SLUR_reference_implementation.dict -- data/linux/processed-challenges/SLUR_reference_implementation/bin/SLUR_reference_implementation\n'
+p1
+I22
+tp2
+a(I120
+S'start_time     : 1499993120\nlast_update    : 1499993240\nfuzzer_pid     : 14372\ncycles_done    : 0\nexecs_done     : 131820\nexecs_per_sec  : 1090.19\npaths_total    : 31\npaths_favored  : 1\npaths_found    : 30\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 1\npending_total  : 31\nvariable_paths : 0\nbitmap_cvg     : 0.64%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499993201\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SLUR_reference_implementation/input -o /dev/shm/work/SLUR_reference_implementation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SLUR_reference_implementation/SLUR_reference_implementation.dict -- data/linux/processed-challenges/SLUR_reference_implementation/bin/SLUR_reference_implementation\n'
+p3
+I9
+tp4
+a(I240
+S'start_time     : 1499993120\nlast_update    : 1499993360\nfuzzer_pid     : 14372\ncycles_done    : 0\nexecs_done     : 264724\nexecs_per_sec  : 1112.66\npaths_total    : 43\npaths_favored  : 11\npaths_found    : 42\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 23\npending_favs   : 8\npending_total  : 39\nvariable_paths : 0\nbitmap_cvg     : 0.69%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499993357\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SLUR_reference_implementation/input -o /dev/shm/work/SLUR_reference_implementation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SLUR_reference_implementation/SLUR_reference_implementation.dict -- data/linux/processed-challenges/SLUR_reference_implementation/bin/SLUR_reference_implementation\n'
+p5
+I13
+tp6
+a(I360
+S'start_time     : 1499993120\nlast_update    : 1499993480\nfuzzer_pid     : 14372\ncycles_done    : 0\nexecs_done     : 397041\nexecs_per_sec  : 1029.16\npaths_total    : 88\npaths_favored  : 14\npaths_found    : 87\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 28\npending_favs   : 12\npending_total  : 83\nvariable_paths : 0\nbitmap_cvg     : 0.89%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499993480\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SLUR_reference_implementation/input -o /dev/shm/work/SLUR_reference_implementation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SLUR_reference_implementation/SLUR_reference_implementation.dict -- data/linux/processed-challenges/SLUR_reference_implementation/bin/SLUR_reference_implementation\n'
+p7
+I44
+tp8
+a(I480
+S'start_time     : 1499993120\nlast_update    : 1499993600\nfuzzer_pid     : 14372\ncycles_done    : 0\nexecs_done     : 519470\nexecs_per_sec  : 983.23\npaths_total    : 94\npaths_favored  : 14\npaths_found    : 93\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 28\npending_favs   : 12\npending_total  : 89\nvariable_paths : 0\nbitmap_cvg     : 0.90%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499993574\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SLUR_reference_implementation/input -o /dev/shm/work/SLUR_reference_implementation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SLUR_reference_implementation/SLUR_reference_implementation.dict -- data/linux/processed-challenges/SLUR_reference_implementation/bin/SLUR_reference_implementation\n'
+p9
+I6
+tp10
+a(I600
+S'start_time     : 1499993120\nlast_update    : 1499993720\nfuzzer_pid     : 14372\ncycles_done    : 0\nexecs_done     : 626741\nexecs_per_sec  : 969.79\npaths_total    : 100\npaths_favored  : 32\npaths_found    : 99\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 46\npending_favs   : 25\npending_total  : 89\nvariable_paths : 0\nbitmap_cvg     : 0.90%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499993687\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SLUR_reference_implementation/input -o /dev/shm/work/SLUR_reference_implementation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SLUR_reference_implementation/SLUR_reference_implementation.dict -- data/linux/processed-challenges/SLUR_reference_implementation/bin/SLUR_reference_implementation\n'
+p11
+I6
+tp12
+a(I720
+S'start_time     : 1499993120\nlast_update    : 1499993841\nfuzzer_pid     : 14372\ncycles_done    : 0\nexecs_done     : 745446\nexecs_per_sec  : 982.60\npaths_total    : 109\npaths_favored  : 34\npaths_found    : 108\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 49\npending_favs   : 26\npending_total  : 96\nvariable_paths : 0\nbitmap_cvg     : 0.91%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499993841\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SLUR_reference_implementation/input -o /dev/shm/work/SLUR_reference_implementation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SLUR_reference_implementation/SLUR_reference_implementation.dict -- data/linux/processed-challenges/SLUR_reference_implementation/bin/SLUR_reference_implementation\n'
+p13
+I9
+tp14
+a(I840
+S'start_time     : 1499993120\nlast_update    : 1499993961\nfuzzer_pid     : 14372\ncycles_done    : 0\nexecs_done     : 867555\nexecs_per_sec  : 1013.44\npaths_total    : 117\npaths_favored  : 36\npaths_found    : 116\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 53\npending_favs   : 28\npending_total  : 103\nvariable_paths : 0\nbitmap_cvg     : 0.92%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499993958\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SLUR_reference_implementation/input -o /dev/shm/work/SLUR_reference_implementation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SLUR_reference_implementation/SLUR_reference_implementation.dict -- data/linux/processed-challenges/SLUR_reference_implementation/bin/SLUR_reference_implementation\n'
+p15
+I9
+tp16
+a(I960
+S'start_time     : 1499993120\nlast_update    : 1499994081\nfuzzer_pid     : 14372\ncycles_done    : 0\nexecs_done     : 988895\nexecs_per_sec  : 990.63\npaths_total    : 123\npaths_favored  : 33\npaths_found    : 122\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 58\npending_favs   : 25\npending_total  : 108\nvariable_paths : 0\nbitmap_cvg     : 0.93%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499994069\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SLUR_reference_implementation/input -o /dev/shm/work/SLUR_reference_implementation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SLUR_reference_implementation/SLUR_reference_implementation.dict -- data/linux/processed-challenges/SLUR_reference_implementation/bin/SLUR_reference_implementation\n'
+p17
+I5
+tp18
+a(I1080
+S'start_time     : 1499993120\nlast_update    : 1499994201\nfuzzer_pid     : 14372\ncycles_done    : 0\nexecs_done     : 1110111\nexecs_per_sec  : 1005.02\npaths_total    : 129\npaths_favored  : 35\npaths_found    : 128\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 59\npending_favs   : 27\npending_total  : 113\nvariable_paths : 0\nbitmap_cvg     : 0.94%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499994193\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SLUR_reference_implementation/input -o /dev/shm/work/SLUR_reference_implementation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SLUR_reference_implementation/SLUR_reference_implementation.dict -- data/linux/processed-challenges/SLUR_reference_implementation/bin/SLUR_reference_implementation\n'
+p19
+I6
+tp20
+a(I1200
+S'start_time     : 1499993120\nlast_update    : 1499994321\nfuzzer_pid     : 14372\ncycles_done    : 0\nexecs_done     : 1223137\nexecs_per_sec  : 939.21\npaths_total    : 140\npaths_favored  : 37\npaths_found    : 139\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 64\npending_favs   : 28\npending_total  : 123\nvariable_paths : 0\nbitmap_cvg     : 1.01%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499994310\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SLUR_reference_implementation/input -o /dev/shm/work/SLUR_reference_implementation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SLUR_reference_implementation/SLUR_reference_implementation.dict -- data/linux/processed-challenges/SLUR_reference_implementation/bin/SLUR_reference_implementation\n'
+p21
+I11
+tp22
+a(I1320
+S'start_time     : 1499993120\nlast_update    : 1499994441\nfuzzer_pid     : 14372\ncycles_done    : 0\nexecs_done     : 1327069\nexecs_per_sec  : 872.53\npaths_total    : 152\npaths_favored  : 46\npaths_found    : 151\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 71\npending_favs   : 33\npending_total  : 130\nvariable_paths : 0\nbitmap_cvg     : 1.06%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499994428\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SLUR_reference_implementation/input -o /dev/shm/work/SLUR_reference_implementation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SLUR_reference_implementation/SLUR_reference_implementation.dict -- data/linux/processed-challenges/SLUR_reference_implementation/bin/SLUR_reference_implementation\n'
+p23
+I13
+tp24
+a(I1440
+S'start_time     : 1499993120\nlast_update    : 1499994562\nfuzzer_pid     : 14372\ncycles_done    : 0\nexecs_done     : 1434906\nexecs_per_sec  : 909.66\npaths_total    : 155\npaths_favored  : 46\npaths_found    : 154\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 71\npending_favs   : 33\npending_total  : 133\nvariable_paths : 0\nbitmap_cvg     : 1.06%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499994486\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SLUR_reference_implementation/input -o /dev/shm/work/SLUR_reference_implementation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SLUR_reference_implementation/SLUR_reference_implementation.dict -- data/linux/processed-challenges/SLUR_reference_implementation/bin/SLUR_reference_implementation\n'
+p25
+I2
+tp26
+a(I1560
+S'start_time     : 1499993120\nlast_update    : 1499994682\nfuzzer_pid     : 14372\ncycles_done    : 0\nexecs_done     : 1559092\nexecs_per_sec  : 1098.91\npaths_total    : 165\npaths_favored  : 52\npaths_found    : 164\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 81\npending_favs   : 36\npending_total  : 140\nvariable_paths : 0\nbitmap_cvg     : 1.07%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499994670\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SLUR_reference_implementation/input -o /dev/shm/work/SLUR_reference_implementation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SLUR_reference_implementation/SLUR_reference_implementation.dict -- data/linux/processed-challenges/SLUR_reference_implementation/bin/SLUR_reference_implementation\n'
+p27
+I11
+tp28
+a(I1680
+S'start_time     : 1499993120\nlast_update    : 1499994802\nfuzzer_pid     : 14372\ncycles_done    : 0\nexecs_done     : 1687442\nexecs_per_sec  : 1056.31\npaths_total    : 176\npaths_favored  : 55\npaths_found    : 175\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 84\npending_favs   : 38\npending_total  : 150\nvariable_paths : 0\nbitmap_cvg     : 1.08%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499994788\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SLUR_reference_implementation/input -o /dev/shm/work/SLUR_reference_implementation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SLUR_reference_implementation/SLUR_reference_implementation.dict -- data/linux/processed-challenges/SLUR_reference_implementation/bin/SLUR_reference_implementation\n'
+p29
+I12
+tp30
+a(I1800
+S'start_time     : 1499993120\nlast_update    : 1499994923\nfuzzer_pid     : 14372\ncycles_done    : 0\nexecs_done     : 1803274\nexecs_per_sec  : 821.84\npaths_total    : 185\npaths_favored  : 57\npaths_found    : 184\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 101\npending_favs   : 38\npending_total  : 157\nvariable_paths : 0\nbitmap_cvg     : 1.08%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499994913\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SLUR_reference_implementation/input -o /dev/shm/work/SLUR_reference_implementation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SLUR_reference_implementation/SLUR_reference_implementation.dict -- data/linux/processed-challenges/SLUR_reference_implementation/bin/SLUR_reference_implementation\n'
+p31
+I7
+tp32
+a(I1920
+S'start_time     : 1499993120\nlast_update    : 1499995043\nfuzzer_pid     : 14372\ncycles_done    : 0\nexecs_done     : 1911318\nexecs_per_sec  : 926.42\npaths_total    : 197\npaths_favored  : 57\npaths_found    : 196\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 104\npending_favs   : 37\npending_total  : 168\nvariable_paths : 0\nbitmap_cvg     : 1.09%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499995028\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SLUR_reference_implementation/input -o /dev/shm/work/SLUR_reference_implementation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SLUR_reference_implementation/SLUR_reference_implementation.dict -- data/linux/processed-challenges/SLUR_reference_implementation/bin/SLUR_reference_implementation\n'
+p33
+I12
+tp34
+a(I2040
+S'start_time     : 1499993120\nlast_update    : 1499995163\nfuzzer_pid     : 14372\ncycles_done    : 0\nexecs_done     : 2025481\nexecs_per_sec  : 945.01\npaths_total    : 211\npaths_favored  : 62\npaths_found    : 210\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 109\npending_favs   : 44\npending_total  : 181\nvariable_paths : 0\nbitmap_cvg     : 1.11%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499995156\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SLUR_reference_implementation/input -o /dev/shm/work/SLUR_reference_implementation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SLUR_reference_implementation/SLUR_reference_implementation.dict -- data/linux/processed-challenges/SLUR_reference_implementation/bin/SLUR_reference_implementation\n'
+p35
+I14
+tp36
+a(I2160
+S'start_time     : 1499993120\nlast_update    : 1499995283\nfuzzer_pid     : 14372\ncycles_done    : 0\nexecs_done     : 2139974\nexecs_per_sec  : 982.96\npaths_total    : 223\npaths_favored  : 66\npaths_found    : 222\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 118\npending_favs   : 48\npending_total  : 191\nvariable_paths : 0\nbitmap_cvg     : 1.13%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499995242\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SLUR_reference_implementation/input -o /dev/shm/work/SLUR_reference_implementation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SLUR_reference_implementation/SLUR_reference_implementation.dict -- data/linux/processed-challenges/SLUR_reference_implementation/bin/SLUR_reference_implementation\n'
+p37
+I12
+tp38
+a(I2280
+S'start_time     : 1499993120\nlast_update    : 1499995403\nfuzzer_pid     : 14372\ncycles_done    : 0\nexecs_done     : 2254878\nexecs_per_sec  : 918.31\npaths_total    : 224\npaths_favored  : 67\npaths_found    : 223\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 123\npending_favs   : 48\npending_total  : 190\nvariable_paths : 0\nbitmap_cvg     : 1.13%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499995396\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SLUR_reference_implementation/input -o /dev/shm/work/SLUR_reference_implementation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SLUR_reference_implementation/SLUR_reference_implementation.dict -- data/linux/processed-challenges/SLUR_reference_implementation/bin/SLUR_reference_implementation\n'
+p39
+I2
+tp40
+a(I2400
+S'start_time     : 1499993120\nlast_update    : 1499995524\nfuzzer_pid     : 14372\ncycles_done    : 0\nexecs_done     : 2370097\nexecs_per_sec  : 975.42\npaths_total    : 230\npaths_favored  : 67\npaths_found    : 229\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 123\npending_favs   : 48\npending_total  : 196\nvariable_paths : 0\nbitmap_cvg     : 1.14%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499995495\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SLUR_reference_implementation/input -o /dev/shm/work/SLUR_reference_implementation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SLUR_reference_implementation/SLUR_reference_implementation.dict -- data/linux/processed-challenges/SLUR_reference_implementation/bin/SLUR_reference_implementation\n'
+p41
+I5
+tp42
+a(I2520
+S'start_time     : 1499993120\nlast_update    : 1499995644\nfuzzer_pid     : 14372\ncycles_done    : 0\nexecs_done     : 2491964\nexecs_per_sec  : 1020.35\npaths_total    : 238\npaths_favored  : 70\npaths_found    : 237\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 125\npending_favs   : 51\npending_total  : 202\nvariable_paths : 0\nbitmap_cvg     : 1.14%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499995596\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SLUR_reference_implementation/input -o /dev/shm/work/SLUR_reference_implementation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SLUR_reference_implementation/SLUR_reference_implementation.dict -- data/linux/processed-challenges/SLUR_reference_implementation/bin/SLUR_reference_implementation\n'
+p43
+I8
+tp44
+a(I2640
+S'start_time     : 1499993120\nlast_update    : 1499995764\nfuzzer_pid     : 14372\ncycles_done    : 0\nexecs_done     : 2599013\nexecs_per_sec  : 911.96\npaths_total    : 247\npaths_favored  : 73\npaths_found    : 246\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 133\npending_favs   : 50\npending_total  : 208\nvariable_paths : 0\nbitmap_cvg     : 1.15%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499995761\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SLUR_reference_implementation/input -o /dev/shm/work/SLUR_reference_implementation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SLUR_reference_implementation/SLUR_reference_implementation.dict -- data/linux/processed-challenges/SLUR_reference_implementation/bin/SLUR_reference_implementation\n'
+p45
+I9
+tp46
+a(I2760
+S'start_time     : 1499993120\nlast_update    : 1499995884\nfuzzer_pid     : 14372\ncycles_done    : 0\nexecs_done     : 2704991\nexecs_per_sec  : 771.59\npaths_total    : 248\npaths_favored  : 76\npaths_found    : 247\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 134\npending_favs   : 53\npending_total  : 208\nvariable_paths : 0\nbitmap_cvg     : 1.15%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499995838\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SLUR_reference_implementation/input -o /dev/shm/work/SLUR_reference_implementation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SLUR_reference_implementation/SLUR_reference_implementation.dict -- data/linux/processed-challenges/SLUR_reference_implementation/bin/SLUR_reference_implementation\n'
+p47
+I1
+tp48
+a(I2880
+S'start_time     : 1499993120\nlast_update    : 1499996005\nfuzzer_pid     : 14372\ncycles_done    : 0\nexecs_done     : 2808773\nexecs_per_sec  : 877.50\npaths_total    : 253\npaths_favored  : 76\npaths_found    : 252\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 134\npending_favs   : 53\npending_total  : 213\nvariable_paths : 0\nbitmap_cvg     : 1.15%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499995930\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SLUR_reference_implementation/input -o /dev/shm/work/SLUR_reference_implementation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SLUR_reference_implementation/SLUR_reference_implementation.dict -- data/linux/processed-challenges/SLUR_reference_implementation/bin/SLUR_reference_implementation\n'
+p49
+I5
+tp50
+a(I3000
+S'start_time     : 1499993120\nlast_update    : 1499996125\nfuzzer_pid     : 14372\ncycles_done    : 0\nexecs_done     : 2902125\nexecs_per_sec  : 762.14\npaths_total    : 259\npaths_favored  : 76\npaths_found    : 258\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 142\npending_favs   : 53\npending_total  : 216\nvariable_paths : 0\nbitmap_cvg     : 1.16%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499996122\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SLUR_reference_implementation/input -o /dev/shm/work/SLUR_reference_implementation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SLUR_reference_implementation/SLUR_reference_implementation.dict -- data/linux/processed-challenges/SLUR_reference_implementation/bin/SLUR_reference_implementation\n'
+p51
+I6
+tp52
+a(I3120
+S'start_time     : 1499993120\nlast_update    : 1499996245\nfuzzer_pid     : 14372\ncycles_done    : 0\nexecs_done     : 3011260\nexecs_per_sec  : 922.28\npaths_total    : 269\npaths_favored  : 79\npaths_found    : 268\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 144\npending_favs   : 54\npending_total  : 224\nvariable_paths : 0\nbitmap_cvg     : 1.25%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499996215\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SLUR_reference_implementation/input -o /dev/shm/work/SLUR_reference_implementation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SLUR_reference_implementation/SLUR_reference_implementation.dict -- data/linux/processed-challenges/SLUR_reference_implementation/bin/SLUR_reference_implementation\n'
+p53
+I10
+tp54
+a(I3240
+S'start_time     : 1499993120\nlast_update    : 1499996365\nfuzzer_pid     : 14372\ncycles_done    : 0\nexecs_done     : 3121064\nexecs_per_sec  : 795.32\npaths_total    : 271\npaths_favored  : 84\npaths_found    : 270\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 145\npending_favs   : 59\npending_total  : 225\nvariable_paths : 0\nbitmap_cvg     : 1.25%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499996353\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SLUR_reference_implementation/input -o /dev/shm/work/SLUR_reference_implementation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SLUR_reference_implementation/SLUR_reference_implementation.dict -- data/linux/processed-challenges/SLUR_reference_implementation/bin/SLUR_reference_implementation\n'
+p55
+I2
+tp56
+a(I3360
+S'start_time     : 1499993120\nlast_update    : 1499996486\nfuzzer_pid     : 14372\ncycles_done    : 0\nexecs_done     : 3226630\nexecs_per_sec  : 888.87\npaths_total    : 277\npaths_favored  : 84\npaths_found    : 276\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 149\npending_favs   : 57\npending_total  : 227\nvariable_paths : 0\nbitmap_cvg     : 1.26%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499996485\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SLUR_reference_implementation/input -o /dev/shm/work/SLUR_reference_implementation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SLUR_reference_implementation/SLUR_reference_implementation.dict -- data/linux/processed-challenges/SLUR_reference_implementation/bin/SLUR_reference_implementation\n'
+p57
+I6
+tp58
+a(I3480
+S'start_time     : 1499993120\nlast_update    : 1499996606\nfuzzer_pid     : 14372\ncycles_done    : 0\nexecs_done     : 3337830\nexecs_per_sec  : 1016.06\npaths_total    : 280\npaths_favored  : 86\npaths_found    : 279\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 159\npending_favs   : 56\npending_total  : 226\nvariable_paths : 0\nbitmap_cvg     : 1.26%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499996561\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SLUR_reference_implementation/input -o /dev/shm/work/SLUR_reference_implementation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SLUR_reference_implementation/SLUR_reference_implementation.dict -- data/linux/processed-challenges/SLUR_reference_implementation/bin/SLUR_reference_implementation\n'
+p59
+I3
+tp60
+a(I3600
+S'start_time     : 1499993120\nlast_update    : 1499996726\nfuzzer_pid     : 14372\ncycles_done    : 0\nexecs_done     : 3457232\nexecs_per_sec  : 996.86\npaths_total    : 286\npaths_favored  : 87\npaths_found    : 285\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 173\npending_favs   : 53\npending_total  : 228\nvariable_paths : 0\nbitmap_cvg     : 1.26%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499996706\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SLUR_reference_implementation/input -o /dev/shm/work/SLUR_reference_implementation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SLUR_reference_implementation/SLUR_reference_implementation.dict -- data/linux/processed-challenges/SLUR_reference_implementation/bin/SLUR_reference_implementation\n'
+p61
+I6
+tp62
+a(I3720
+S'start_time     : 1499993120\nlast_update    : 1499996846\nfuzzer_pid     : 14372\ncycles_done    : 0\nexecs_done     : 3573850\nexecs_per_sec  : 927.54\npaths_total    : 290\npaths_favored  : 87\npaths_found    : 289\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 176\npending_favs   : 52\npending_total  : 231\nvariable_paths : 0\nbitmap_cvg     : 1.27%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499996823\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SLUR_reference_implementation/input -o /dev/shm/work/SLUR_reference_implementation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SLUR_reference_implementation/SLUR_reference_implementation.dict -- data/linux/processed-challenges/SLUR_reference_implementation/bin/SLUR_reference_implementation\n'
+p63
+I5
+tp64
+a(I3840
+S'start_time     : 1499993120\nlast_update    : 1499996967\nfuzzer_pid     : 14372\ncycles_done    : 0\nexecs_done     : 3685257\nexecs_per_sec  : 882.21\npaths_total    : 298\npaths_favored  : 88\npaths_found    : 297\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 187\npending_favs   : 52\npending_total  : 237\nvariable_paths : 0\nbitmap_cvg     : 1.27%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499996950\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SLUR_reference_implementation/input -o /dev/shm/work/SLUR_reference_implementation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SLUR_reference_implementation/SLUR_reference_implementation.dict -- data/linux/processed-challenges/SLUR_reference_implementation/bin/SLUR_reference_implementation\n'
+p65
+I7
+tp66
+a(I3960
+S'start_time     : 1499993120\nlast_update    : 1499997087\nfuzzer_pid     : 14372\ncycles_done    : 0\nexecs_done     : 3783450\nexecs_per_sec  : 761.10\npaths_total    : 299\npaths_favored  : 88\npaths_found    : 298\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 196\npending_favs   : 46\npending_total  : 232\nvariable_paths : 0\nbitmap_cvg     : 1.27%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499997002\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SLUR_reference_implementation/input -o /dev/shm/work/SLUR_reference_implementation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SLUR_reference_implementation/SLUR_reference_implementation.dict -- data/linux/processed-challenges/SLUR_reference_implementation/bin/SLUR_reference_implementation\n'
+p67
+I1
+tp68
+a(I4080
+S'start_time     : 1499993120\nlast_update    : 1499997207\nfuzzer_pid     : 14372\ncycles_done    : 0\nexecs_done     : 3891778\nexecs_per_sec  : 950.95\npaths_total    : 304\npaths_favored  : 88\npaths_found    : 303\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 211\npending_favs   : 41\npending_total  : 232\nvariable_paths : 0\nbitmap_cvg     : 1.27%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499997202\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SLUR_reference_implementation/input -o /dev/shm/work/SLUR_reference_implementation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SLUR_reference_implementation/SLUR_reference_implementation.dict -- data/linux/processed-challenges/SLUR_reference_implementation/bin/SLUR_reference_implementation\n'
+p69
+I5
+tp70
+a(I4200
+S'start_time     : 1499993120\nlast_update    : 1499997327\nfuzzer_pid     : 14372\ncycles_done    : 0\nexecs_done     : 4009979\nexecs_per_sec  : 976.10\npaths_total    : 308\npaths_favored  : 88\npaths_found    : 307\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 211\npending_favs   : 41\npending_total  : 236\nvariable_paths : 0\nbitmap_cvg     : 1.27%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499997314\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SLUR_reference_implementation/input -o /dev/shm/work/SLUR_reference_implementation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SLUR_reference_implementation/SLUR_reference_implementation.dict -- data/linux/processed-challenges/SLUR_reference_implementation/bin/SLUR_reference_implementation\n'
+p71
+I4
+tp72
+a(I4320
+S'start_time     : 1499993120\nlast_update    : 1499997447\nfuzzer_pid     : 14372\ncycles_done    : 0\nexecs_done     : 4119847\nexecs_per_sec  : 905.33\npaths_total    : 312\npaths_favored  : 90\npaths_found    : 311\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 221\npending_favs   : 40\npending_total  : 237\nvariable_paths : 0\nbitmap_cvg     : 1.28%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499997413\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SLUR_reference_implementation/input -o /dev/shm/work/SLUR_reference_implementation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SLUR_reference_implementation/SLUR_reference_implementation.dict -- data/linux/processed-challenges/SLUR_reference_implementation/bin/SLUR_reference_implementation\n'
+p73
+I4
+tp74
+a(I4440
+S'start_time     : 1499993120\nlast_update    : 1499997567\nfuzzer_pid     : 14372\ncycles_done    : 0\nexecs_done     : 4231143\nexecs_per_sec  : 902.32\npaths_total    : 314\npaths_favored  : 90\npaths_found    : 313\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 221\npending_favs   : 40\npending_total  : 239\nvariable_paths : 0\nbitmap_cvg     : 1.28%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499997475\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SLUR_reference_implementation/input -o /dev/shm/work/SLUR_reference_implementation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SLUR_reference_implementation/SLUR_reference_implementation.dict -- data/linux/processed-challenges/SLUR_reference_implementation/bin/SLUR_reference_implementation\n'
+p75
+I2
+tp76
+a(I4560
+S'start_time     : 1499993120\nlast_update    : 1499997688\nfuzzer_pid     : 14372\ncycles_done    : 0\nexecs_done     : 4338593\nexecs_per_sec  : 932.08\npaths_total    : 318\npaths_favored  : 91\npaths_found    : 317\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 224\npending_favs   : 41\npending_total  : 241\nvariable_paths : 0\nbitmap_cvg     : 1.28%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499997626\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SLUR_reference_implementation/input -o /dev/shm/work/SLUR_reference_implementation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SLUR_reference_implementation/SLUR_reference_implementation.dict -- data/linux/processed-challenges/SLUR_reference_implementation/bin/SLUR_reference_implementation\n'
+p77
+I4
+tp78
+a(I4680
+S'start_time     : 1499993120\nlast_update    : 1499997808\nfuzzer_pid     : 14372\ncycles_done    : 0\nexecs_done     : 4445824\nexecs_per_sec  : 919.89\npaths_total    : 323\npaths_favored  : 91\npaths_found    : 322\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 229\npending_favs   : 41\npending_total  : 243\nvariable_paths : 0\nbitmap_cvg     : 1.28%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499997796\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SLUR_reference_implementation/input -o /dev/shm/work/SLUR_reference_implementation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SLUR_reference_implementation/SLUR_reference_implementation.dict -- data/linux/processed-challenges/SLUR_reference_implementation/bin/SLUR_reference_implementation\n'
+p79
+I5
+tp80
+a(I4800
+S'start_time     : 1499993120\nlast_update    : 1499997928\nfuzzer_pid     : 14372\ncycles_done    : 0\nexecs_done     : 4553719\nexecs_per_sec  : 889.31\npaths_total    : 324\npaths_favored  : 91\npaths_found    : 323\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 229\npending_favs   : 41\npending_total  : 244\nvariable_paths : 0\nbitmap_cvg     : 1.28%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499997912\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SLUR_reference_implementation/input -o /dev/shm/work/SLUR_reference_implementation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SLUR_reference_implementation/SLUR_reference_implementation.dict -- data/linux/processed-challenges/SLUR_reference_implementation/bin/SLUR_reference_implementation\n'
+p81
+I1
+tp82
+a(I4920
+S'start_time     : 1499993120\nlast_update    : 1499998048\nfuzzer_pid     : 14372\ncycles_done    : 0\nexecs_done     : 4669275\nexecs_per_sec  : 1019.73\npaths_total    : 336\npaths_favored  : 92\npaths_found    : 335\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 234\npending_favs   : 41\npending_total  : 253\nvariable_paths : 0\nbitmap_cvg     : 1.29%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499998042\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SLUR_reference_implementation/input -o /dev/shm/work/SLUR_reference_implementation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SLUR_reference_implementation/SLUR_reference_implementation.dict -- data/linux/processed-challenges/SLUR_reference_implementation/bin/SLUR_reference_implementation\n'
+p83
+I12
+tp84
+a(I5040
+S'start_time     : 1499993120\nlast_update    : 1499998169\nfuzzer_pid     : 14372\ncycles_done    : 0\nexecs_done     : 4787502\nexecs_per_sec  : 907.23\npaths_total    : 337\npaths_favored  : 95\npaths_found    : 336\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 235\npending_favs   : 44\npending_total  : 253\nvariable_paths : 0\nbitmap_cvg     : 1.29%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499998059\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SLUR_reference_implementation/input -o /dev/shm/work/SLUR_reference_implementation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SLUR_reference_implementation/SLUR_reference_implementation.dict -- data/linux/processed-challenges/SLUR_reference_implementation/bin/SLUR_reference_implementation\n'
+p85
+I1
+tp86
+a(I5160
+S'start_time     : 1499993120\nlast_update    : 1499998289\nfuzzer_pid     : 14372\ncycles_done    : 0\nexecs_done     : 4903933\nexecs_per_sec  : 984.11\npaths_total    : 349\npaths_favored  : 95\npaths_found    : 348\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 236\npending_favs   : 43\npending_total  : 264\nvariable_paths : 0\nbitmap_cvg     : 1.33%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499998288\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SLUR_reference_implementation/input -o /dev/shm/work/SLUR_reference_implementation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SLUR_reference_implementation/SLUR_reference_implementation.dict -- data/linux/processed-challenges/SLUR_reference_implementation/bin/SLUR_reference_implementation\n'
+p87
+I12
+tp88
+a(I5280
+S'start_time     : 1499993120\nlast_update    : 1499998409\nfuzzer_pid     : 14372\ncycles_done    : 0\nexecs_done     : 5016116\nexecs_per_sec  : 841.18\npaths_total    : 354\npaths_favored  : 101\npaths_found    : 353\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 245\npending_favs   : 47\npending_total  : 267\nvariable_paths : 0\nbitmap_cvg     : 1.33%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499998382\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SLUR_reference_implementation/input -o /dev/shm/work/SLUR_reference_implementation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SLUR_reference_implementation/SLUR_reference_implementation.dict -- data/linux/processed-challenges/SLUR_reference_implementation/bin/SLUR_reference_implementation\n'
+p89
+I5
+tp90
+a(I5400
+S'start_time     : 1499993120\nlast_update    : 1499998529\nfuzzer_pid     : 14372\ncycles_done    : 0\nexecs_done     : 5113710\nexecs_per_sec  : 801.65\npaths_total    : 357\npaths_favored  : 101\npaths_found    : 356\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 248\npending_favs   : 44\npending_total  : 267\nvariable_paths : 0\nbitmap_cvg     : 1.34%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499998491\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SLUR_reference_implementation/input -o /dev/shm/work/SLUR_reference_implementation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SLUR_reference_implementation/SLUR_reference_implementation.dict -- data/linux/processed-challenges/SLUR_reference_implementation/bin/SLUR_reference_implementation\n'
+p91
+I3
+tp92
+a(I5520
+S'start_time     : 1499993120\nlast_update    : 1499998649\nfuzzer_pid     : 14372\ncycles_done    : 0\nexecs_done     : 5214455\nexecs_per_sec  : 844.97\npaths_total    : 360\npaths_favored  : 102\npaths_found    : 359\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 260\npending_favs   : 42\npending_total  : 265\nvariable_paths : 0\nbitmap_cvg     : 1.34%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499998648\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SLUR_reference_implementation/input -o /dev/shm/work/SLUR_reference_implementation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SLUR_reference_implementation/SLUR_reference_implementation.dict -- data/linux/processed-challenges/SLUR_reference_implementation/bin/SLUR_reference_implementation\n'
+p93
+I3
+tp94
+a(I5640
+S'start_time     : 1499993120\nlast_update    : 1499998710\nfuzzer_pid     : 14372\ncycles_done    : 0\nexecs_done     : 5266670\nexecs_per_sec  : 898.20\npaths_total    : 367\npaths_favored  : 102\npaths_found    : 366\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 261\npending_favs   : 42\npending_total  : 271\nvariable_paths : 0\nbitmap_cvg     : 1.35%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499998705\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SLUR_reference_implementation/input -o /dev/shm/work/SLUR_reference_implementation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SLUR_reference_implementation/SLUR_reference_implementation.dict -- data/linux/processed-challenges/SLUR_reference_implementation/bin/SLUR_reference_implementation\n'
+p95
+I9
+tp96
+a(I5760
+S'start_time     : 1499993120\nlast_update    : 1499998830\nfuzzer_pid     : 14372\ncycles_done    : 0\nexecs_done     : 5374902\nexecs_per_sec  : 890.01\npaths_total    : 372\npaths_favored  : 102\npaths_found    : 371\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 261\npending_favs   : 42\npending_total  : 276\nvariable_paths : 0\nbitmap_cvg     : 1.35%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499998827\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SLUR_reference_implementation/input -o /dev/shm/work/SLUR_reference_implementation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SLUR_reference_implementation/SLUR_reference_implementation.dict -- data/linux/processed-challenges/SLUR_reference_implementation/bin/SLUR_reference_implementation\n'
+p97
+I3
+tp98
+a(I5880
+S'start_time     : 1499993120\nlast_update    : 1499998950\nfuzzer_pid     : 14372\ncycles_done    : 0\nexecs_done     : 5473367\nexecs_per_sec  : 823.54\npaths_total    : 375\npaths_favored  : 102\npaths_found    : 374\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 266\npending_favs   : 40\npending_total  : 275\nvariable_paths : 0\nbitmap_cvg     : 1.35%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499998936\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SLUR_reference_implementation/input -o /dev/shm/work/SLUR_reference_implementation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SLUR_reference_implementation/SLUR_reference_implementation.dict -- data/linux/processed-challenges/SLUR_reference_implementation/bin/SLUR_reference_implementation\n'
+p99
+I7
+tp100
+a(I6000
+S'start_time     : 1499993120\nlast_update    : 1499999070\nfuzzer_pid     : 14372\ncycles_done    : 0\nexecs_done     : 5575780\nexecs_per_sec  : 862.50\npaths_total    : 381\npaths_favored  : 103\npaths_found    : 380\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 268\npending_favs   : 39\npending_total  : 279\nvariable_paths : 0\nbitmap_cvg     : 1.35%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499999049\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SLUR_reference_implementation/input -o /dev/shm/work/SLUR_reference_implementation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SLUR_reference_implementation/SLUR_reference_implementation.dict -- data/linux/processed-challenges/SLUR_reference_implementation/bin/SLUR_reference_implementation\n'
+p101
+I3
+tp102
+a(I6120
+S'start_time     : 1499993120\nlast_update    : 1499999190\nfuzzer_pid     : 14372\ncycles_done    : 0\nexecs_done     : 5679326\nexecs_per_sec  : 705.77\npaths_total    : 382\npaths_favored  : 105\npaths_found    : 381\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 273\npending_favs   : 41\npending_total  : 279\nvariable_paths : 0\nbitmap_cvg     : 1.35%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499999122\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SLUR_reference_implementation/input -o /dev/shm/work/SLUR_reference_implementation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SLUR_reference_implementation/SLUR_reference_implementation.dict -- data/linux/processed-challenges/SLUR_reference_implementation/bin/SLUR_reference_implementation\n'
+p103
+I3
+tp104
+a(I6240
+S'start_time     : 1499993120\nlast_update    : 1499999311\nfuzzer_pid     : 14372\ncycles_done    : 0\nexecs_done     : 5788083\nexecs_per_sec  : 948.96\npaths_total    : 391\npaths_favored  : 105\npaths_found    : 390\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 280\npending_favs   : 37\npending_total  : 284\nvariable_paths : 0\nbitmap_cvg     : 1.36%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499999276\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SLUR_reference_implementation/input -o /dev/shm/work/SLUR_reference_implementation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SLUR_reference_implementation/SLUR_reference_implementation.dict -- data/linux/processed-challenges/SLUR_reference_implementation/bin/SLUR_reference_implementation\n'
+p105
+I7
+tp106
+a(I6360
+S'start_time     : 1499993120\nlast_update    : 1499999431\nfuzzer_pid     : 14372\ncycles_done    : 0\nexecs_done     : 5902897\nexecs_per_sec  : 940.68\npaths_total    : 392\npaths_favored  : 105\npaths_found    : 391\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 280\npending_favs   : 37\npending_total  : 285\nvariable_paths : 0\nbitmap_cvg     : 1.36%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499999359\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SLUR_reference_implementation/input -o /dev/shm/work/SLUR_reference_implementation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SLUR_reference_implementation/SLUR_reference_implementation.dict -- data/linux/processed-challenges/SLUR_reference_implementation/bin/SLUR_reference_implementation\n'
+p107
+I1
+tp108
+a(I6480
+S'start_time     : 1499993120\nlast_update    : 1499999551\nfuzzer_pid     : 14372\ncycles_done    : 0\nexecs_done     : 6004968\nexecs_per_sec  : 878.52\npaths_total    : 398\npaths_favored  : 109\npaths_found    : 397\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 306\npending_favs   : 38\npending_total  : 286\nvariable_paths : 0\nbitmap_cvg     : 1.36%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499999541\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SLUR_reference_implementation/input -o /dev/shm/work/SLUR_reference_implementation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SLUR_reference_implementation/SLUR_reference_implementation.dict -- data/linux/processed-challenges/SLUR_reference_implementation/bin/SLUR_reference_implementation\n'
+p109
+I6
+tp110
+a(I6600
+S'start_time     : 1499993120\nlast_update    : 1499999671\nfuzzer_pid     : 14372\ncycles_done    : 0\nexecs_done     : 6111367\nexecs_per_sec  : 874.77\npaths_total    : 401\npaths_favored  : 109\npaths_found    : 400\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 306\npending_favs   : 38\npending_total  : 289\nvariable_paths : 0\nbitmap_cvg     : 1.37%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499999639\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SLUR_reference_implementation/input -o /dev/shm/work/SLUR_reference_implementation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SLUR_reference_implementation/SLUR_reference_implementation.dict -- data/linux/processed-challenges/SLUR_reference_implementation/bin/SLUR_reference_implementation\n'
+p111
+I7
+tp112
+a(I6720
+S'start_time     : 1499993120\nlast_update    : 1499999791\nfuzzer_pid     : 14372\ncycles_done    : 0\nexecs_done     : 6214703\nexecs_per_sec  : 899.02\npaths_total    : 406\npaths_favored  : 110\npaths_found    : 405\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 312\npending_favs   : 37\npending_total  : 290\nvariable_paths : 0\nbitmap_cvg     : 1.37%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499999713\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SLUR_reference_implementation/input -o /dev/shm/work/SLUR_reference_implementation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SLUR_reference_implementation/SLUR_reference_implementation.dict -- data/linux/processed-challenges/SLUR_reference_implementation/bin/SLUR_reference_implementation\n'
+p113
+I2
+tp114
+a(I6840
+S'start_time     : 1499993120\nlast_update    : 1499999912\nfuzzer_pid     : 14372\ncycles_done    : 0\nexecs_done     : 6324612\nexecs_per_sec  : 975.59\npaths_total    : 413\npaths_favored  : 110\npaths_found    : 412\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 326\npending_favs   : 33\npending_total  : 293\nvariable_paths : 0\nbitmap_cvg     : 1.37%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499999908\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SLUR_reference_implementation/input -o /dev/shm/work/SLUR_reference_implementation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SLUR_reference_implementation/SLUR_reference_implementation.dict -- data/linux/processed-challenges/SLUR_reference_implementation/bin/SLUR_reference_implementation\n'
+p115
+I5
+tp116
+a(I6960
+S'start_time     : 1499993120\nlast_update    : 1500000032\nfuzzer_pid     : 14372\ncycles_done    : 0\nexecs_done     : 6443172\nexecs_per_sec  : 997.77\npaths_total    : 413\npaths_favored  : 110\npaths_found    : 412\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 326\npending_favs   : 33\npending_total  : 293\nvariable_paths : 0\nbitmap_cvg     : 1.37%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499999908\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SLUR_reference_implementation/input -o /dev/shm/work/SLUR_reference_implementation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SLUR_reference_implementation/SLUR_reference_implementation.dict -- data/linux/processed-challenges/SLUR_reference_implementation/bin/SLUR_reference_implementation\n'
+p117
+I0
+tp118
+a(I7080
+S'start_time     : 1499993120\nlast_update    : 1500000152\nfuzzer_pid     : 14372\ncycles_done    : 0\nexecs_done     : 6552614\nexecs_per_sec  : 901.71\npaths_total    : 415\npaths_favored  : 112\npaths_found    : 414\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 338\npending_favs   : 29\npending_total  : 289\nvariable_paths : 0\nbitmap_cvg     : 1.37%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500000138\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SLUR_reference_implementation/input -o /dev/shm/work/SLUR_reference_implementation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SLUR_reference_implementation/SLUR_reference_implementation.dict -- data/linux/processed-challenges/SLUR_reference_implementation/bin/SLUR_reference_implementation\n'
+p119
+I6
+tp120
+a(I7200
+S'start_time     : 1499993120\nlast_update    : 1500000272\nfuzzer_pid     : 14372\ncycles_done    : 0\nexecs_done     : 6665163\nexecs_per_sec  : 959.25\npaths_total    : 423\npaths_favored  : 113\npaths_found    : 422\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 340\npending_favs   : 29\npending_total  : 295\nvariable_paths : 0\nbitmap_cvg     : 1.38%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500000270\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SLUR_reference_implementation/input -o /dev/shm/work/SLUR_reference_implementation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SLUR_reference_implementation/SLUR_reference_implementation.dict -- data/linux/processed-challenges/SLUR_reference_implementation/bin/SLUR_reference_implementation\n'
+p121
+I7
+tp122
+a(I7320
+S'start_time     : 1499993120\nlast_update    : 1500000392\nfuzzer_pid     : 14372\ncycles_done    : 0\nexecs_done     : 6777819\nexecs_per_sec  : 959.21\npaths_total    : 429\npaths_favored  : 115\npaths_found    : 428\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 343\npending_favs   : 31\npending_total  : 300\nvariable_paths : 0\nbitmap_cvg     : 1.39%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500000381\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SLUR_reference_implementation/input -o /dev/shm/work/SLUR_reference_implementation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SLUR_reference_implementation/SLUR_reference_implementation.dict -- data/linux/processed-challenges/SLUR_reference_implementation/bin/SLUR_reference_implementation\n'
+p123
+I6
+tp124
+a(I7440
+S'start_time     : 1499993120\nlast_update    : 1500000513\nfuzzer_pid     : 14372\ncycles_done    : 0\nexecs_done     : 6889095\nexecs_per_sec  : 818.31\npaths_total    : 432\npaths_favored  : 115\npaths_found    : 431\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 348\npending_favs   : 30\npending_total  : 301\nvariable_paths : 0\nbitmap_cvg     : 1.39%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500000451\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SLUR_reference_implementation/input -o /dev/shm/work/SLUR_reference_implementation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SLUR_reference_implementation/SLUR_reference_implementation.dict -- data/linux/processed-challenges/SLUR_reference_implementation/bin/SLUR_reference_implementation\n'
+p125
+I2
+tp126
+a(I7560
+S'start_time     : 1499993120\nlast_update    : 1500000633\nfuzzer_pid     : 14372\ncycles_done    : 0\nexecs_done     : 6992141\nexecs_per_sec  : 898.83\npaths_total    : 438\npaths_favored  : 115\npaths_found    : 437\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 357\npending_favs   : 27\npending_total  : 304\nvariable_paths : 0\nbitmap_cvg     : 1.39%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500000611\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SLUR_reference_implementation/input -o /dev/shm/work/SLUR_reference_implementation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SLUR_reference_implementation/SLUR_reference_implementation.dict -- data/linux/processed-challenges/SLUR_reference_implementation/bin/SLUR_reference_implementation\n'
+p127
+I6
+tp128
+a(I7680
+S'start_time     : 1499993120\nlast_update    : 1500000753\nfuzzer_pid     : 14372\ncycles_done    : 0\nexecs_done     : 7099351\nexecs_per_sec  : 913.88\npaths_total    : 440\npaths_favored  : 115\npaths_found    : 439\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 357\npending_favs   : 27\npending_total  : 306\nvariable_paths : 0\nbitmap_cvg     : 1.39%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500000642\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SLUR_reference_implementation/input -o /dev/shm/work/SLUR_reference_implementation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SLUR_reference_implementation/SLUR_reference_implementation.dict -- data/linux/processed-challenges/SLUR_reference_implementation/bin/SLUR_reference_implementation\n'
+p129
+I1
+tp130
+a(I7800
+S'start_time     : 1499993120\nlast_update    : 1500000873\nfuzzer_pid     : 14372\ncycles_done    : 0\nexecs_done     : 7196248\nexecs_per_sec  : 690.33\npaths_total    : 443\npaths_favored  : 116\npaths_found    : 442\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 380\npending_favs   : 23\npending_total  : 304\nvariable_paths : 0\nbitmap_cvg     : 1.39%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500000820\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SLUR_reference_implementation/input -o /dev/shm/work/SLUR_reference_implementation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SLUR_reference_implementation/SLUR_reference_implementation.dict -- data/linux/processed-challenges/SLUR_reference_implementation/bin/SLUR_reference_implementation\n'
+p131
+I4
+tp132
+a(I7920
+S'start_time     : 1499993120\nlast_update    : 1500000993\nfuzzer_pid     : 14372\ncycles_done    : 0\nexecs_done     : 7296012\nexecs_per_sec  : 810.52\npaths_total    : 445\npaths_favored  : 116\npaths_found    : 444\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 391\npending_favs   : 18\npending_total  : 301\nvariable_paths : 0\nbitmap_cvg     : 1.39%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500000919\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SLUR_reference_implementation/input -o /dev/shm/work/SLUR_reference_implementation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SLUR_reference_implementation/SLUR_reference_implementation.dict -- data/linux/processed-challenges/SLUR_reference_implementation/bin/SLUR_reference_implementation\n'
+p133
+I0
+tp134
+a(I8040
+S'start_time     : 1499993120\nlast_update    : 1500001113\nfuzzer_pid     : 14372\ncycles_done    : 0\nexecs_done     : 7397476\nexecs_per_sec  : 948.38\npaths_total    : 446\npaths_favored  : 116\npaths_found    : 445\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 406\npending_favs   : 13\npending_total  : 297\nvariable_paths : 0\nbitmap_cvg     : 1.39%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500001108\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SLUR_reference_implementation/input -o /dev/shm/work/SLUR_reference_implementation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SLUR_reference_implementation/SLUR_reference_implementation.dict -- data/linux/processed-challenges/SLUR_reference_implementation/bin/SLUR_reference_implementation\n'
+p135
+I7
+tp136
+a(I8160
+S'start_time     : 1499993120\nlast_update    : 1500001234\nfuzzer_pid     : 14372\ncycles_done    : 0\nexecs_done     : 7506993\nexecs_per_sec  : 911.69\npaths_total    : 455\npaths_favored  : 116\npaths_found    : 454\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 413\npending_favs   : 12\npending_total  : 303\nvariable_paths : 0\nbitmap_cvg     : 1.39%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500001181\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SLUR_reference_implementation/input -o /dev/shm/work/SLUR_reference_implementation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SLUR_reference_implementation/SLUR_reference_implementation.dict -- data/linux/processed-challenges/SLUR_reference_implementation/bin/SLUR_reference_implementation\n'
+p137
+I5
+tp138
+a(I8280
+S'start_time     : 1499993120\nlast_update    : 1500001354\nfuzzer_pid     : 14372\ncycles_done    : 0\nexecs_done     : 7611354\nexecs_per_sec  : 807.12\npaths_total    : 460\npaths_favored  : 116\npaths_found    : 459\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 424\npending_favs   : 11\npending_total  : 304\nvariable_paths : 0\nbitmap_cvg     : 1.40%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500001316\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SLUR_reference_implementation/input -o /dev/shm/work/SLUR_reference_implementation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SLUR_reference_implementation/SLUR_reference_implementation.dict -- data/linux/processed-challenges/SLUR_reference_implementation/bin/SLUR_reference_implementation\n'
+p139
+I5
+tp140
+a(I8400
+S'start_time     : 1499993120\nlast_update    : 1500001474\nfuzzer_pid     : 14372\ncycles_done    : 0\nexecs_done     : 7712739\nexecs_per_sec  : 896.41\npaths_total    : 465\npaths_favored  : 116\npaths_found    : 464\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 445\npending_favs   : 7\npending_total  : 305\nvariable_paths : 0\nbitmap_cvg     : 1.40%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500001465\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SLUR_reference_implementation/input -o /dev/shm/work/SLUR_reference_implementation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SLUR_reference_implementation/SLUR_reference_implementation.dict -- data/linux/processed-challenges/SLUR_reference_implementation/bin/SLUR_reference_implementation\n'
+p141
+I4
+tp142
+a(I8520
+S'start_time     : 1499993120\nlast_update    : 1500001594\nfuzzer_pid     : 14372\ncycles_done    : 0\nexecs_done     : 7820965\nexecs_per_sec  : 906.99\npaths_total    : 466\npaths_favored  : 116\npaths_found    : 465\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 445\npending_favs   : 7\npending_total  : 306\nvariable_paths : 0\nbitmap_cvg     : 1.40%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500001498\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SLUR_reference_implementation/input -o /dev/shm/work/SLUR_reference_implementation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SLUR_reference_implementation/SLUR_reference_implementation.dict -- data/linux/processed-challenges/SLUR_reference_implementation/bin/SLUR_reference_implementation\n'
+p143
+I2
+tp144
+a(I8640
+S'start_time     : 1499993120\nlast_update    : 1500001714\nfuzzer_pid     : 14372\ncycles_done    : 0\nexecs_done     : 7930529\nexecs_per_sec  : 923.70\npaths_total    : 470\npaths_favored  : 117\npaths_found    : 469\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 449\npending_favs   : 7\npending_total  : 308\nvariable_paths : 0\nbitmap_cvg     : 1.40%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500001707\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SLUR_reference_implementation/input -o /dev/shm/work/SLUR_reference_implementation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SLUR_reference_implementation/SLUR_reference_implementation.dict -- data/linux/processed-challenges/SLUR_reference_implementation/bin/SLUR_reference_implementation\n'
+p145
+I3
+tp146
+a(I8760
+S'start_time     : 1499993120\nlast_update    : 1500001835\nfuzzer_pid     : 14372\ncycles_done    : 0\nexecs_done     : 8041475\nexecs_per_sec  : 897.58\npaths_total    : 472\npaths_favored  : 117\npaths_found    : 471\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 449\npending_favs   : 7\npending_total  : 310\nvariable_paths : 0\nbitmap_cvg     : 1.40%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500001780\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SLUR_reference_implementation/input -o /dev/shm/work/SLUR_reference_implementation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SLUR_reference_implementation/SLUR_reference_implementation.dict -- data/linux/processed-challenges/SLUR_reference_implementation/bin/SLUR_reference_implementation\n'
+p147
+I2
+tp148
+a(I8880
+S'start_time     : 1499993120\nlast_update    : 1500001955\nfuzzer_pid     : 14372\ncycles_done    : 0\nexecs_done     : 8153421\nexecs_per_sec  : 985.57\npaths_total    : 477\npaths_favored  : 117\npaths_found    : 476\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 455\npending_favs   : 5\npending_total  : 313\nvariable_paths : 0\nbitmap_cvg     : 1.40%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500001945\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SLUR_reference_implementation/input -o /dev/shm/work/SLUR_reference_implementation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SLUR_reference_implementation/SLUR_reference_implementation.dict -- data/linux/processed-challenges/SLUR_reference_implementation/bin/SLUR_reference_implementation\n'
+p149
+I5
+tp150
+a(I9000
+S'start_time     : 1499993120\nlast_update    : 1500002075\nfuzzer_pid     : 14372\ncycles_done    : 0\nexecs_done     : 8265659\nexecs_per_sec  : 847.47\npaths_total    : 478\npaths_favored  : 119\npaths_found    : 477\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 462\npending_favs   : 8\npending_total  : 313\nvariable_paths : 0\nbitmap_cvg     : 1.40%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500002005\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SLUR_reference_implementation/input -o /dev/shm/work/SLUR_reference_implementation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SLUR_reference_implementation/SLUR_reference_implementation.dict -- data/linux/processed-challenges/SLUR_reference_implementation/bin/SLUR_reference_implementation\n'
+p151
+I1
+tp152
+a(I9120
+S'start_time     : 1499993120\nlast_update    : 1500002195\nfuzzer_pid     : 14372\ncycles_done    : 0\nexecs_done     : 8372483\nexecs_per_sec  : 876.24\npaths_total    : 486\npaths_favored  : 119\npaths_found    : 485\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 472\npending_favs   : 6\npending_total  : 319\nvariable_paths : 0\nbitmap_cvg     : 1.41%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500002174\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SLUR_reference_implementation/input -o /dev/shm/work/SLUR_reference_implementation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SLUR_reference_implementation/SLUR_reference_implementation.dict -- data/linux/processed-challenges/SLUR_reference_implementation/bin/SLUR_reference_implementation\n'
+p153
+I9
+tp154
+a(I9240
+S'start_time     : 1499993120\nlast_update    : 1500002316\nfuzzer_pid     : 14372\ncycles_done    : 0\nexecs_done     : 8476981\nexecs_per_sec  : 874.57\npaths_total    : 491\npaths_favored  : 119\npaths_found    : 490\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 472\npending_favs   : 6\npending_total  : 324\nvariable_paths : 0\nbitmap_cvg     : 1.41%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500002313\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SLUR_reference_implementation/input -o /dev/shm/work/SLUR_reference_implementation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SLUR_reference_implementation/SLUR_reference_implementation.dict -- data/linux/processed-challenges/SLUR_reference_implementation/bin/SLUR_reference_implementation\n'
+p155
+I7
+tp156
+a(I9360
+S'start_time     : 1499993120\nlast_update    : 1500002436\nfuzzer_pid     : 14372\ncycles_done    : 0\nexecs_done     : 8588453\nexecs_per_sec  : 934.96\npaths_total    : 496\npaths_favored  : 122\npaths_found    : 495\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 473\npending_favs   : 9\npending_total  : 328\nvariable_paths : 0\nbitmap_cvg     : 1.42%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500002390\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SLUR_reference_implementation/input -o /dev/shm/work/SLUR_reference_implementation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SLUR_reference_implementation/SLUR_reference_implementation.dict -- data/linux/processed-challenges/SLUR_reference_implementation/bin/SLUR_reference_implementation\n'
+p157
+I1
+tp158
+a(I9480
+S'start_time     : 1499993120\nlast_update    : 1500002556\nfuzzer_pid     : 14372\ncycles_done    : 0\nexecs_done     : 8699407\nexecs_per_sec  : 918.88\npaths_total    : 498\npaths_favored  : 126\npaths_found    : 497\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 477\npending_favs   : 12\npending_total  : 328\nvariable_paths : 0\nbitmap_cvg     : 1.42%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500002548\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SLUR_reference_implementation/input -o /dev/shm/work/SLUR_reference_implementation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SLUR_reference_implementation/SLUR_reference_implementation.dict -- data/linux/processed-challenges/SLUR_reference_implementation/bin/SLUR_reference_implementation\n'
+p159
+I2
+tp160
+a(I9600
+S'start_time     : 1499993120\nlast_update    : 1500002676\nfuzzer_pid     : 14372\ncycles_done    : 0\nexecs_done     : 8802222\nexecs_per_sec  : 865.94\npaths_total    : 498\npaths_favored  : 126\npaths_found    : 497\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 481\npending_favs   : 9\npending_total  : 325\nvariable_paths : 0\nbitmap_cvg     : 1.42%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500002548\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SLUR_reference_implementation/input -o /dev/shm/work/SLUR_reference_implementation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SLUR_reference_implementation/SLUR_reference_implementation.dict -- data/linux/processed-challenges/SLUR_reference_implementation/bin/SLUR_reference_implementation\n'
+p161
+I1
+tp162
+a(I9720
+S'start_time     : 1499993120\nlast_update    : 1500002797\nfuzzer_pid     : 14372\ncycles_done    : 0\nexecs_done     : 8901650\nexecs_per_sec  : 928.09\npaths_total    : 502\npaths_favored  : 126\npaths_found    : 501\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 491\npending_favs   : 7\npending_total  : 327\nvariable_paths : 0\nbitmap_cvg     : 1.42%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500002780\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SLUR_reference_implementation/input -o /dev/shm/work/SLUR_reference_implementation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SLUR_reference_implementation/SLUR_reference_implementation.dict -- data/linux/processed-challenges/SLUR_reference_implementation/bin/SLUR_reference_implementation\n'
+p163
+I3
+tp164
+a(I9840
+S'start_time     : 1499993120\nlast_update    : 1500002917\nfuzzer_pid     : 14372\ncycles_done    : 0\nexecs_done     : 9003860\nexecs_per_sec  : 784.94\npaths_total    : 502\npaths_favored  : 127\npaths_found    : 501\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 493\npending_favs   : 7\npending_total  : 325\nvariable_paths : 0\nbitmap_cvg     : 1.42%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500002780\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SLUR_reference_implementation/input -o /dev/shm/work/SLUR_reference_implementation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SLUR_reference_implementation/SLUR_reference_implementation.dict -- data/linux/processed-challenges/SLUR_reference_implementation/bin/SLUR_reference_implementation\n'
+p165
+I2
+tp166
+a(I9960
+S'start_time     : 1499993120\nlast_update    : 1500003037\nfuzzer_pid     : 14372\ncycles_done    : 0\nexecs_done     : 9110564\nexecs_per_sec  : 932.46\npaths_total    : 505\npaths_favored  : 128\npaths_found    : 504\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 496\npending_favs   : 6\npending_total  : 325\nvariable_paths : 0\nbitmap_cvg     : 1.43%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500003022\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SLUR_reference_implementation/input -o /dev/shm/work/SLUR_reference_implementation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SLUR_reference_implementation/SLUR_reference_implementation.dict -- data/linux/processed-challenges/SLUR_reference_implementation/bin/SLUR_reference_implementation\n'
+p167
+I2
+tp168
+a(I10080
+S'start_time     : 1499993120\nlast_update    : 1500003158\nfuzzer_pid     : 14372\ncycles_done    : 0\nexecs_done     : 9218606\nexecs_per_sec  : 888.87\npaths_total    : 507\npaths_favored  : 128\npaths_found    : 506\npaths_imported : 0\nmax_depth      : 12\ncur_path       : 502\npending_favs   : 4\npending_total  : 325\nvariable_paths : 0\nbitmap_cvg     : 1.43%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500003151\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SLUR_reference_implementation/input -o /dev/shm/work/SLUR_reference_implementation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SLUR_reference_implementation/SLUR_reference_implementation.dict -- data/linux/processed-challenges/SLUR_reference_implementation/bin/SLUR_reference_implementation\n'
+p169
+I5
+tp170
+a(I10200
+S'start_time     : 1499993120\nlast_update    : 1500003278\nfuzzer_pid     : 14372\ncycles_done    : 0\nexecs_done     : 9316588\nexecs_per_sec  : 802.57\npaths_total    : 511\npaths_favored  : 128\npaths_found    : 510\npaths_imported : 0\nmax_depth      : 12\ncur_path       : 503\npending_favs   : 4\npending_total  : 328\nvariable_paths : 0\nbitmap_cvg     : 1.43%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500003205\nlast_crash     : 0\nlast_hang      : 1500003211\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SLUR_reference_implementation/input -o /dev/shm/work/SLUR_reference_implementation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SLUR_reference_implementation/SLUR_reference_implementation.dict -- data/linux/processed-challenges/SLUR_reference_implementation/bin/SLUR_reference_implementation\n'
+p171
+I3
+tp172
+a(I10320
+S'start_time     : 1499993120\nlast_update    : 1500003398\nfuzzer_pid     : 14372\ncycles_done    : 0\nexecs_done     : 9414373\nexecs_per_sec  : 709.17\npaths_total    : 514\npaths_favored  : 129\npaths_found    : 513\npaths_imported : 0\nmax_depth      : 12\ncur_path       : 506\npending_favs   : 5\npending_total  : 330\nvariable_paths : 0\nbitmap_cvg     : 1.43%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500003286\nlast_crash     : 0\nlast_hang      : 1500003211\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SLUR_reference_implementation/input -o /dev/shm/work/SLUR_reference_implementation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SLUR_reference_implementation/SLUR_reference_implementation.dict -- data/linux/processed-challenges/SLUR_reference_implementation/bin/SLUR_reference_implementation\n'
+p173
+I0
+tp174
+a(I10440
+S'start_time     : 1499993120\nlast_update    : 1500003518\nfuzzer_pid     : 14372\ncycles_done    : 0\nexecs_done     : 9509828\nexecs_per_sec  : 888.18\npaths_total    : 515\npaths_favored  : 130\npaths_found    : 514\npaths_imported : 0\nmax_depth      : 13\ncur_path       : 513\npending_favs   : 4\npending_total  : 329\nvariable_paths : 0\nbitmap_cvg     : 1.43%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500003467\nlast_crash     : 0\nlast_hang      : 1500003211\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SLUR_reference_implementation/input -o /dev/shm/work/SLUR_reference_implementation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SLUR_reference_implementation/SLUR_reference_implementation.dict -- data/linux/processed-challenges/SLUR_reference_implementation/bin/SLUR_reference_implementation\n'
+p175
+I4
+tp176
+a(I10560
+S'start_time     : 1499993120\nlast_update    : 1500003639\nfuzzer_pid     : 14372\ncycles_done    : 0\nexecs_done     : 9611726\nexecs_per_sec  : 888.82\npaths_total    : 520\npaths_favored  : 130\npaths_found    : 519\npaths_imported : 0\nmax_depth      : 14\ncur_path       : 514\npending_favs   : 3\npending_total  : 333\nvariable_paths : 0\nbitmap_cvg     : 1.43%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500003633\nlast_crash     : 0\nlast_hang      : 1500003211\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SLUR_reference_implementation/input -o /dev/shm/work/SLUR_reference_implementation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SLUR_reference_implementation/SLUR_reference_implementation.dict -- data/linux/processed-challenges/SLUR_reference_implementation/bin/SLUR_reference_implementation\n'
+p177
+I2
+tp178
+a(I10680
+S'start_time     : 1499993120\nlast_update    : 1500003759\nfuzzer_pid     : 14372\ncycles_done    : 0\nexecs_done     : 9717663\nexecs_per_sec  : 911.21\npaths_total    : 520\npaths_favored  : 131\npaths_found    : 519\npaths_imported : 0\nmax_depth      : 14\ncur_path       : 517\npending_favs   : 3\npending_total  : 332\nvariable_paths : 0\nbitmap_cvg     : 1.43%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500003633\nlast_crash     : 0\nlast_hang      : 1500003211\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/SLUR_reference_implementation/input -o /dev/shm/work/SLUR_reference_implementation/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/SLUR_reference_implementation/SLUR_reference_implementation.dict -- data/linux/processed-challenges/SLUR_reference_implementation/bin/SLUR_reference_implementation\n'
+p179
+I0
+tp180
+a.

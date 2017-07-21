@@ -1,0 +1,452 @@
+(lp0
+(I0
+S'start_time     : 1499852185\nlast_update    : 1499852185\nfuzzer_pid     : 12572\ncycles_done    : 0\nexecs_done     : 10\nexecs_per_sec  : 161.29\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 1\npending_total  : 1\nvariable_paths : 0\nbitmap_cvg     : 0.14%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FASTLANE/input -o /dev/shm/work/FASTLANE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FASTLANE/FASTLANE.dict -- data/linux/processed-challenges/FASTLANE/bin/FASTLANE\n'
+p1
+I19
+tp2
+a(I120
+S'start_time     : 1499852185\nlast_update    : 1499852305\nfuzzer_pid     : 12572\ncycles_done    : 0\nexecs_done     : 57906\nexecs_per_sec  : 478.91\npaths_total    : 29\npaths_favored  : 1\npaths_found    : 28\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 1\npending_total  : 29\nvariable_paths : 0\nbitmap_cvg     : 0.30%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499852292\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FASTLANE/input -o /dev/shm/work/FASTLANE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FASTLANE/FASTLANE.dict -- data/linux/processed-challenges/FASTLANE/bin/FASTLANE\n'
+p3
+I11
+tp4
+a(I240
+S'start_time     : 1499852185\nlast_update    : 1499852426\nfuzzer_pid     : 12572\ncycles_done    : 0\nexecs_done     : 115651\nexecs_per_sec  : 480.00\npaths_total    : 30\npaths_favored  : 1\npaths_found    : 29\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 1\npending_total  : 30\nvariable_paths : 0\nbitmap_cvg     : 0.30%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499852311\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FASTLANE/input -o /dev/shm/work/FASTLANE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FASTLANE/FASTLANE.dict -- data/linux/processed-challenges/FASTLANE/bin/FASTLANE\n'
+p5
+I0
+tp6
+a(I360
+S'start_time     : 1499852185\nlast_update    : 1499852546\nfuzzer_pid     : 12572\ncycles_done    : 0\nexecs_done     : 172719\nexecs_per_sec  : 464.09\npaths_total    : 46\npaths_favored  : 22\npaths_found    : 45\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 12\npending_favs   : 21\npending_total  : 44\nvariable_paths : 0\nbitmap_cvg     : 0.46%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499852546\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FASTLANE/input -o /dev/shm/work/FASTLANE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FASTLANE/FASTLANE.dict -- data/linux/processed-challenges/FASTLANE/bin/FASTLANE\n'
+p7
+I16
+tp8
+a(I480
+S'start_time     : 1499852185\nlast_update    : 1499852666\nfuzzer_pid     : 12572\ncycles_done    : 0\nexecs_done     : 228355\nexecs_per_sec  : 452.81\npaths_total    : 50\npaths_favored  : 22\npaths_found    : 49\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 12\npending_favs   : 21\npending_total  : 48\nvariable_paths : 0\nbitmap_cvg     : 0.46%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499852579\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FASTLANE/input -o /dev/shm/work/FASTLANE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FASTLANE/FASTLANE.dict -- data/linux/processed-challenges/FASTLANE/bin/FASTLANE\n'
+p9
+I4
+tp10
+a(I600
+S'start_time     : 1499852185\nlast_update    : 1499852786\nfuzzer_pid     : 12572\ncycles_done    : 0\nexecs_done     : 283510\nexecs_per_sec  : 454.40\npaths_total    : 50\npaths_favored  : 27\npaths_found    : 49\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 14\npending_favs   : 25\npending_total  : 46\nvariable_paths : 0\nbitmap_cvg     : 0.46%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499852579\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FASTLANE/input -o /dev/shm/work/FASTLANE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FASTLANE/FASTLANE.dict -- data/linux/processed-challenges/FASTLANE/bin/FASTLANE\n'
+p11
+I0
+tp12
+a(I720
+S'start_time     : 1499852185\nlast_update    : 1499852907\nfuzzer_pid     : 12572\ncycles_done    : 0\nexecs_done     : 339339\nexecs_per_sec  : 474.28\npaths_total    : 50\npaths_favored  : 27\npaths_found    : 49\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 24\npending_favs   : 20\npending_total  : 41\nvariable_paths : 0\nbitmap_cvg     : 0.46%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499852579\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FASTLANE/input -o /dev/shm/work/FASTLANE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FASTLANE/FASTLANE.dict -- data/linux/processed-challenges/FASTLANE/bin/FASTLANE\n'
+p13
+I0
+tp14
+a(I840
+S'start_time     : 1499852185\nlast_update    : 1499853027\nfuzzer_pid     : 12572\ncycles_done    : 0\nexecs_done     : 395521\nexecs_per_sec  : 470.02\npaths_total    : 52\npaths_favored  : 27\npaths_found    : 51\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 31\npending_favs   : 15\npending_total  : 37\nvariable_paths : 0\nbitmap_cvg     : 0.48%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499853018\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FASTLANE/input -o /dev/shm/work/FASTLANE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FASTLANE/FASTLANE.dict -- data/linux/processed-challenges/FASTLANE/bin/FASTLANE\n'
+p15
+I2
+tp16
+a(I960
+S'start_time     : 1499852185\nlast_update    : 1499853147\nfuzzer_pid     : 12572\ncycles_done    : 0\nexecs_done     : 451888\nexecs_per_sec  : 468.13\npaths_total    : 57\npaths_favored  : 27\npaths_found    : 56\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 36\npending_favs   : 12\npending_total  : 37\nvariable_paths : 0\nbitmap_cvg     : 0.54%\nunique_crashes : 0\nunique_hangs   : 6\nlast_path      : 1499853135\nlast_crash     : 0\nlast_hang      : 1499853070\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FASTLANE/input -o /dev/shm/work/FASTLANE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FASTLANE/FASTLANE.dict -- data/linux/processed-challenges/FASTLANE/bin/FASTLANE\n'
+p17
+I6
+tp18
+a(I1080
+S'start_time     : 1499852185\nlast_update    : 1499853267\nfuzzer_pid     : 12572\ncycles_done    : 0\nexecs_done     : 507507\nexecs_per_sec  : 459.07\npaths_total    : 62\npaths_favored  : 31\npaths_found    : 61\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 50\npending_favs   : 11\npending_total  : 37\nvariable_paths : 0\nbitmap_cvg     : 0.64%\nunique_crashes : 0\nunique_hangs   : 6\nlast_path      : 1499853206\nlast_crash     : 0\nlast_hang      : 1499853070\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FASTLANE/input -o /dev/shm/work/FASTLANE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FASTLANE/FASTLANE.dict -- data/linux/processed-challenges/FASTLANE/bin/FASTLANE\n'
+p19
+I4
+tp20
+a(I1200
+S'start_time     : 1499852185\nlast_update    : 1499853387\nfuzzer_pid     : 12572\ncycles_done    : 0\nexecs_done     : 563546\nexecs_per_sec  : 457.73\npaths_total    : 67\npaths_favored  : 31\npaths_found    : 66\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 50\npending_favs   : 11\npending_total  : 42\nvariable_paths : 0\nbitmap_cvg     : 0.64%\nunique_crashes : 0\nunique_hangs   : 6\nlast_path      : 1499853310\nlast_crash     : 0\nlast_hang      : 1499853070\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FASTLANE/input -o /dev/shm/work/FASTLANE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FASTLANE/FASTLANE.dict -- data/linux/processed-challenges/FASTLANE/bin/FASTLANE\n'
+p21
+I5
+tp22
+a(I1320
+S'start_time     : 1499852185\nlast_update    : 1499853507\nfuzzer_pid     : 12572\ncycles_done    : 0\nexecs_done     : 618554\nexecs_per_sec  : 461.28\npaths_total    : 67\npaths_favored  : 31\npaths_found    : 66\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 50\npending_favs   : 11\npending_total  : 42\nvariable_paths : 0\nbitmap_cvg     : 0.64%\nunique_crashes : 0\nunique_hangs   : 6\nlast_path      : 1499853310\nlast_crash     : 0\nlast_hang      : 1499853070\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FASTLANE/input -o /dev/shm/work/FASTLANE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FASTLANE/FASTLANE.dict -- data/linux/processed-challenges/FASTLANE/bin/FASTLANE\n'
+p23
+I0
+tp24
+a(I1440
+S'start_time     : 1499852185\nlast_update    : 1499853628\nfuzzer_pid     : 12572\ncycles_done    : 0\nexecs_done     : 674162\nexecs_per_sec  : 467.06\npaths_total    : 68\npaths_favored  : 32\npaths_found    : 67\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 51\npending_favs   : 12\npending_total  : 42\nvariable_paths : 0\nbitmap_cvg     : 0.64%\nunique_crashes : 0\nunique_hangs   : 6\nlast_path      : 1499853549\nlast_crash     : 0\nlast_hang      : 1499853070\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FASTLANE/input -o /dev/shm/work/FASTLANE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FASTLANE/FASTLANE.dict -- data/linux/processed-challenges/FASTLANE/bin/FASTLANE\n'
+p25
+I5
+tp26
+a(I1560
+S'start_time     : 1499852185\nlast_update    : 1499853748\nfuzzer_pid     : 12572\ncycles_done    : 0\nexecs_done     : 730024\nexecs_per_sec  : 471.10\npaths_total    : 77\npaths_favored  : 32\npaths_found    : 76\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 51\npending_favs   : 12\npending_total  : 51\nvariable_paths : 0\nbitmap_cvg     : 0.65%\nunique_crashes : 0\nunique_hangs   : 6\nlast_path      : 1499853644\nlast_crash     : 0\nlast_hang      : 1499853070\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FASTLANE/input -o /dev/shm/work/FASTLANE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FASTLANE/FASTLANE.dict -- data/linux/processed-challenges/FASTLANE/bin/FASTLANE\n'
+p27
+I5
+tp28
+a(I1680
+S'start_time     : 1499852185\nlast_update    : 1499853868\nfuzzer_pid     : 12572\ncycles_done    : 0\nexecs_done     : 785833\nexecs_per_sec  : 452.74\npaths_total    : 77\npaths_favored  : 32\npaths_found    : 76\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 51\npending_favs   : 12\npending_total  : 51\nvariable_paths : 0\nbitmap_cvg     : 0.65%\nunique_crashes : 0\nunique_hangs   : 6\nlast_path      : 1499853644\nlast_crash     : 0\nlast_hang      : 1499853070\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FASTLANE/input -o /dev/shm/work/FASTLANE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FASTLANE/FASTLANE.dict -- data/linux/processed-challenges/FASTLANE/bin/FASTLANE\n'
+p29
+I0
+tp30
+a(I1800
+S'start_time     : 1499852185\nlast_update    : 1499853988\nfuzzer_pid     : 12572\ncycles_done    : 0\nexecs_done     : 841720\nexecs_per_sec  : 455.31\npaths_total    : 77\npaths_favored  : 36\npaths_found    : 76\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 52\npending_favs   : 15\npending_total  : 50\nvariable_paths : 0\nbitmap_cvg     : 0.65%\nunique_crashes : 0\nunique_hangs   : 6\nlast_path      : 1499853644\nlast_crash     : 0\nlast_hang      : 1499853070\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FASTLANE/input -o /dev/shm/work/FASTLANE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FASTLANE/FASTLANE.dict -- data/linux/processed-challenges/FASTLANE/bin/FASTLANE\n'
+p31
+I2
+tp32
+a(I1920
+S'start_time     : 1499852185\nlast_update    : 1499854108\nfuzzer_pid     : 12572\ncycles_done    : 0\nexecs_done     : 897580\nexecs_per_sec  : 472.54\npaths_total    : 81\npaths_favored  : 36\npaths_found    : 80\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 52\npending_favs   : 15\npending_total  : 54\nvariable_paths : 0\nbitmap_cvg     : 0.65%\nunique_crashes : 0\nunique_hangs   : 6\nlast_path      : 1499854036\nlast_crash     : 0\nlast_hang      : 1499853070\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FASTLANE/input -o /dev/shm/work/FASTLANE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FASTLANE/FASTLANE.dict -- data/linux/processed-challenges/FASTLANE/bin/FASTLANE\n'
+p33
+I2
+tp34
+a(I2040
+S'start_time     : 1499852185\nlast_update    : 1499854229\nfuzzer_pid     : 12572\ncycles_done    : 0\nexecs_done     : 953821\nexecs_per_sec  : 461.97\npaths_total    : 81\npaths_favored  : 36\npaths_found    : 80\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 52\npending_favs   : 15\npending_total  : 54\nvariable_paths : 0\nbitmap_cvg     : 0.65%\nunique_crashes : 0\nunique_hangs   : 6\nlast_path      : 1499854036\nlast_crash     : 0\nlast_hang      : 1499853070\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FASTLANE/input -o /dev/shm/work/FASTLANE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FASTLANE/FASTLANE.dict -- data/linux/processed-challenges/FASTLANE/bin/FASTLANE\n'
+p35
+I0
+tp36
+a(I2160
+S'start_time     : 1499852185\nlast_update    : 1499854349\nfuzzer_pid     : 12572\ncycles_done    : 0\nexecs_done     : 1009025\nexecs_per_sec  : 458.36\npaths_total    : 83\npaths_favored  : 36\npaths_found    : 82\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 53\npending_favs   : 14\npending_total  : 55\nvariable_paths : 0\nbitmap_cvg     : 0.71%\nunique_crashes : 0\nunique_hangs   : 10\nlast_path      : 1499854337\nlast_crash     : 0\nlast_hang      : 1499854338\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FASTLANE/input -o /dev/shm/work/FASTLANE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FASTLANE/FASTLANE.dict -- data/linux/processed-challenges/FASTLANE/bin/FASTLANE\n'
+p37
+I2
+tp38
+a(I2280
+S'start_time     : 1499852185\nlast_update    : 1499854469\nfuzzer_pid     : 12572\ncycles_done    : 0\nexecs_done     : 1064176\nexecs_per_sec  : 455.16\npaths_total    : 92\npaths_favored  : 38\npaths_found    : 91\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 54\npending_favs   : 15\npending_total  : 63\nvariable_paths : 0\nbitmap_cvg     : 0.72%\nunique_crashes : 0\nunique_hangs   : 13\nlast_path      : 1499854432\nlast_crash     : 0\nlast_hang      : 1499854402\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FASTLANE/input -o /dev/shm/work/FASTLANE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FASTLANE/FASTLANE.dict -- data/linux/processed-challenges/FASTLANE/bin/FASTLANE\n'
+p39
+I9
+tp40
+a(I2400
+S'start_time     : 1499852185\nlast_update    : 1499854589\nfuzzer_pid     : 12572\ncycles_done    : 0\nexecs_done     : 1119733\nexecs_per_sec  : 454.58\npaths_total    : 92\npaths_favored  : 38\npaths_found    : 91\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 54\npending_favs   : 15\npending_total  : 63\nvariable_paths : 0\nbitmap_cvg     : 0.72%\nunique_crashes : 0\nunique_hangs   : 16\nlast_path      : 1499854432\nlast_crash     : 0\nlast_hang      : 1499854554\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FASTLANE/input -o /dev/shm/work/FASTLANE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FASTLANE/FASTLANE.dict -- data/linux/processed-challenges/FASTLANE/bin/FASTLANE\n'
+p41
+I0
+tp42
+a(I2520
+S'start_time     : 1499852185\nlast_update    : 1499854710\nfuzzer_pid     : 12572\ncycles_done    : 0\nexecs_done     : 1176046\nexecs_per_sec  : 475.03\npaths_total    : 92\npaths_favored  : 38\npaths_found    : 91\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 54\npending_favs   : 15\npending_total  : 63\nvariable_paths : 0\nbitmap_cvg     : 0.72%\nunique_crashes : 0\nunique_hangs   : 16\nlast_path      : 1499854432\nlast_crash     : 0\nlast_hang      : 1499854554\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FASTLANE/input -o /dev/shm/work/FASTLANE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FASTLANE/FASTLANE.dict -- data/linux/processed-challenges/FASTLANE/bin/FASTLANE\n'
+p43
+I0
+tp44
+a(I2640
+S'start_time     : 1499852185\nlast_update    : 1499854830\nfuzzer_pid     : 12572\ncycles_done    : 0\nexecs_done     : 1232181\nexecs_per_sec  : 460.32\npaths_total    : 94\npaths_favored  : 40\npaths_found    : 93\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 56\npending_favs   : 17\npending_total  : 63\nvariable_paths : 0\nbitmap_cvg     : 0.72%\nunique_crashes : 0\nunique_hangs   : 16\nlast_path      : 1499854749\nlast_crash     : 0\nlast_hang      : 1499854554\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FASTLANE/input -o /dev/shm/work/FASTLANE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FASTLANE/FASTLANE.dict -- data/linux/processed-challenges/FASTLANE/bin/FASTLANE\n'
+p45
+I2
+tp46
+a(I2760
+S'start_time     : 1499852185\nlast_update    : 1499854950\nfuzzer_pid     : 12572\ncycles_done    : 0\nexecs_done     : 1288225\nexecs_per_sec  : 462.35\npaths_total    : 97\npaths_favored  : 40\npaths_found    : 96\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 56\npending_favs   : 17\npending_total  : 66\nvariable_paths : 0\nbitmap_cvg     : 0.72%\nunique_crashes : 0\nunique_hangs   : 16\nlast_path      : 1499854868\nlast_crash     : 0\nlast_hang      : 1499854554\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FASTLANE/input -o /dev/shm/work/FASTLANE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FASTLANE/FASTLANE.dict -- data/linux/processed-challenges/FASTLANE/bin/FASTLANE\n'
+p47
+I4
+tp48
+a(I2880
+S'start_time     : 1499852185\nlast_update    : 1499855070\nfuzzer_pid     : 12572\ncycles_done    : 0\nexecs_done     : 1344233\nexecs_per_sec  : 463.86\npaths_total    : 98\npaths_favored  : 40\npaths_found    : 97\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 56\npending_favs   : 17\npending_total  : 67\nvariable_paths : 0\nbitmap_cvg     : 0.72%\nunique_crashes : 0\nunique_hangs   : 16\nlast_path      : 1499854953\nlast_crash     : 0\nlast_hang      : 1499854554\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FASTLANE/input -o /dev/shm/work/FASTLANE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FASTLANE/FASTLANE.dict -- data/linux/processed-challenges/FASTLANE/bin/FASTLANE\n'
+p49
+I0
+tp50
+a(I3000
+S'start_time     : 1499852185\nlast_update    : 1499855191\nfuzzer_pid     : 12572\ncycles_done    : 0\nexecs_done     : 1400942\nexecs_per_sec  : 476.87\npaths_total    : 98\npaths_favored  : 40\npaths_found    : 97\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 57\npending_favs   : 16\npending_total  : 66\nvariable_paths : 0\nbitmap_cvg     : 0.72%\nunique_crashes : 0\nunique_hangs   : 16\nlast_path      : 1499854953\nlast_crash     : 0\nlast_hang      : 1499854554\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FASTLANE/input -o /dev/shm/work/FASTLANE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FASTLANE/FASTLANE.dict -- data/linux/processed-challenges/FASTLANE/bin/FASTLANE\n'
+p51
+I0
+tp52
+a(I3120
+S'start_time     : 1499852185\nlast_update    : 1499855311\nfuzzer_pid     : 12572\ncycles_done    : 0\nexecs_done     : 1457479\nexecs_per_sec  : 475.80\npaths_total    : 102\npaths_favored  : 40\npaths_found    : 101\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 58\npending_favs   : 15\npending_total  : 69\nvariable_paths : 0\nbitmap_cvg     : 0.72%\nunique_crashes : 0\nunique_hangs   : 16\nlast_path      : 1499855236\nlast_crash     : 0\nlast_hang      : 1499854554\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FASTLANE/input -o /dev/shm/work/FASTLANE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FASTLANE/FASTLANE.dict -- data/linux/processed-challenges/FASTLANE/bin/FASTLANE\n'
+p53
+I4
+tp54
+a(I3240
+S'start_time     : 1499852185\nlast_update    : 1499855431\nfuzzer_pid     : 12572\ncycles_done    : 0\nexecs_done     : 1513441\nexecs_per_sec  : 461.89\npaths_total    : 102\npaths_favored  : 40\npaths_found    : 101\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 58\npending_favs   : 15\npending_total  : 69\nvariable_paths : 0\nbitmap_cvg     : 0.72%\nunique_crashes : 0\nunique_hangs   : 16\nlast_path      : 1499855236\nlast_crash     : 0\nlast_hang      : 1499854554\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FASTLANE/input -o /dev/shm/work/FASTLANE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FASTLANE/FASTLANE.dict -- data/linux/processed-challenges/FASTLANE/bin/FASTLANE\n'
+p55
+I0
+tp56
+a(I3360
+S'start_time     : 1499852185\nlast_update    : 1499855551\nfuzzer_pid     : 12572\ncycles_done    : 0\nexecs_done     : 1570006\nexecs_per_sec  : 472.68\npaths_total    : 102\npaths_favored  : 40\npaths_found    : 101\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 58\npending_favs   : 15\npending_total  : 69\nvariable_paths : 0\nbitmap_cvg     : 0.72%\nunique_crashes : 0\nunique_hangs   : 16\nlast_path      : 1499855236\nlast_crash     : 0\nlast_hang      : 1499854554\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FASTLANE/input -o /dev/shm/work/FASTLANE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FASTLANE/FASTLANE.dict -- data/linux/processed-challenges/FASTLANE/bin/FASTLANE\n'
+p57
+I0
+tp58
+a(I3480
+S'start_time     : 1499852185\nlast_update    : 1499855672\nfuzzer_pid     : 12572\ncycles_done    : 0\nexecs_done     : 1626113\nexecs_per_sec  : 463.40\npaths_total    : 105\npaths_favored  : 41\npaths_found    : 104\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 61\npending_favs   : 14\npending_total  : 70\nvariable_paths : 0\nbitmap_cvg     : 0.74%\nunique_crashes : 0\nunique_hangs   : 16\nlast_path      : 1499855665\nlast_crash     : 0\nlast_hang      : 1499854554\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FASTLANE/input -o /dev/shm/work/FASTLANE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FASTLANE/FASTLANE.dict -- data/linux/processed-challenges/FASTLANE/bin/FASTLANE\n'
+p59
+I3
+tp60
+a(I3600
+S'start_time     : 1499852185\nlast_update    : 1499855792\nfuzzer_pid     : 12572\ncycles_done    : 0\nexecs_done     : 1682509\nexecs_per_sec  : 465.97\npaths_total    : 107\npaths_favored  : 41\npaths_found    : 106\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 61\npending_favs   : 14\npending_total  : 72\nvariable_paths : 0\nbitmap_cvg     : 0.74%\nunique_crashes : 0\nunique_hangs   : 16\nlast_path      : 1499855729\nlast_crash     : 0\nlast_hang      : 1499854554\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FASTLANE/input -o /dev/shm/work/FASTLANE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FASTLANE/FASTLANE.dict -- data/linux/processed-challenges/FASTLANE/bin/FASTLANE\n'
+p61
+I2
+tp62
+a(I3720
+S'start_time     : 1499852185\nlast_update    : 1499855912\nfuzzer_pid     : 12572\ncycles_done    : 0\nexecs_done     : 1738110\nexecs_per_sec  : 460.35\npaths_total    : 107\npaths_favored  : 41\npaths_found    : 106\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 69\npending_favs   : 11\npending_total  : 69\nvariable_paths : 0\nbitmap_cvg     : 0.74%\nunique_crashes : 0\nunique_hangs   : 16\nlast_path      : 1499855729\nlast_crash     : 0\nlast_hang      : 1499854554\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FASTLANE/input -o /dev/shm/work/FASTLANE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FASTLANE/FASTLANE.dict -- data/linux/processed-challenges/FASTLANE/bin/FASTLANE\n'
+p63
+I0
+tp64
+a(I3840
+S'start_time     : 1499852185\nlast_update    : 1499856032\nfuzzer_pid     : 12572\ncycles_done    : 0\nexecs_done     : 1791586\nexecs_per_sec  : 449.50\npaths_total    : 111\npaths_favored  : 41\npaths_found    : 110\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 81\npending_favs   : 8\npending_total  : 70\nvariable_paths : 0\nbitmap_cvg     : 0.75%\nunique_crashes : 0\nunique_hangs   : 20\nlast_path      : 1499856025\nlast_crash     : 0\nlast_hang      : 1499856028\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FASTLANE/input -o /dev/shm/work/FASTLANE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FASTLANE/FASTLANE.dict -- data/linux/processed-challenges/FASTLANE/bin/FASTLANE\n'
+p65
+I4
+tp66
+a(I3960
+S'start_time     : 1499852185\nlast_update    : 1499856152\nfuzzer_pid     : 12572\ncycles_done    : 0\nexecs_done     : 1846050\nexecs_per_sec  : 450.24\npaths_total    : 115\npaths_favored  : 41\npaths_found    : 114\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 81\npending_favs   : 8\npending_total  : 74\nvariable_paths : 0\nbitmap_cvg     : 0.76%\nunique_crashes : 0\nunique_hangs   : 20\nlast_path      : 1499856132\nlast_crash     : 0\nlast_hang      : 1499856028\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FASTLANE/input -o /dev/shm/work/FASTLANE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FASTLANE/FASTLANE.dict -- data/linux/processed-challenges/FASTLANE/bin/FASTLANE\n'
+p67
+I4
+tp68
+a(I4080
+S'start_time     : 1499852185\nlast_update    : 1499856272\nfuzzer_pid     : 12572\ncycles_done    : 0\nexecs_done     : 1900122\nexecs_per_sec  : 454.14\npaths_total    : 116\npaths_favored  : 41\npaths_found    : 115\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 81\npending_favs   : 8\npending_total  : 75\nvariable_paths : 0\nbitmap_cvg     : 0.76%\nunique_crashes : 0\nunique_hangs   : 24\nlast_path      : 1499856258\nlast_crash     : 0\nlast_hang      : 1499856226\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FASTLANE/input -o /dev/shm/work/FASTLANE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FASTLANE/FASTLANE.dict -- data/linux/processed-challenges/FASTLANE/bin/FASTLANE\n'
+p69
+I1
+tp70
+a(I4200
+S'start_time     : 1499852185\nlast_update    : 1499856393\nfuzzer_pid     : 12572\ncycles_done    : 0\nexecs_done     : 1951878\nexecs_per_sec  : 443.60\npaths_total    : 120\npaths_favored  : 49\npaths_found    : 119\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 82\npending_favs   : 15\npending_total  : 78\nvariable_paths : 0\nbitmap_cvg     : 0.77%\nunique_crashes : 0\nunique_hangs   : 28\nlast_path      : 1499856385\nlast_crash     : 0\nlast_hang      : 1499856391\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FASTLANE/input -o /dev/shm/work/FASTLANE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FASTLANE/FASTLANE.dict -- data/linux/processed-challenges/FASTLANE/bin/FASTLANE\n'
+p71
+I4
+tp72
+a(I4320
+S'start_time     : 1499852185\nlast_update    : 1499856513\nfuzzer_pid     : 12572\ncycles_done    : 0\nexecs_done     : 1996955\nexecs_per_sec  : 386.00\npaths_total    : 125\npaths_favored  : 49\npaths_found    : 124\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 82\npending_favs   : 15\npending_total  : 83\nvariable_paths : 0\nbitmap_cvg     : 0.78%\nunique_crashes : 0\nunique_hangs   : 34\nlast_path      : 1499856464\nlast_crash     : 0\nlast_hang      : 1499856506\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FASTLANE/input -o /dev/shm/work/FASTLANE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FASTLANE/FASTLANE.dict -- data/linux/processed-challenges/FASTLANE/bin/FASTLANE\n'
+p73
+I5
+tp74
+a(I4440
+S'start_time     : 1499852185\nlast_update    : 1499856633\nfuzzer_pid     : 12572\ncycles_done    : 0\nexecs_done     : 2045467\nexecs_per_sec  : 398.00\npaths_total    : 128\npaths_favored  : 49\npaths_found    : 127\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 82\npending_favs   : 15\npending_total  : 86\nvariable_paths : 0\nbitmap_cvg     : 0.78%\nunique_crashes : 0\nunique_hangs   : 37\nlast_path      : 1499856583\nlast_crash     : 0\nlast_hang      : 1499856574\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FASTLANE/input -o /dev/shm/work/FASTLANE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FASTLANE/FASTLANE.dict -- data/linux/processed-challenges/FASTLANE/bin/FASTLANE\n'
+p75
+I3
+tp76
+a(I4560
+S'start_time     : 1499852185\nlast_update    : 1499856753\nfuzzer_pid     : 12572\ncycles_done    : 0\nexecs_done     : 2093840\nexecs_per_sec  : 393.01\npaths_total    : 129\npaths_favored  : 49\npaths_found    : 128\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 82\npending_favs   : 15\npending_total  : 87\nvariable_paths : 0\nbitmap_cvg     : 0.78%\nunique_crashes : 0\nunique_hangs   : 38\nlast_path      : 1499856741\nlast_crash     : 0\nlast_hang      : 1499856667\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FASTLANE/input -o /dev/shm/work/FASTLANE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FASTLANE/FASTLANE.dict -- data/linux/processed-challenges/FASTLANE/bin/FASTLANE\n'
+p77
+I1
+tp78
+a(I4680
+S'start_time     : 1499852185\nlast_update    : 1499856874\nfuzzer_pid     : 12572\ncycles_done    : 0\nexecs_done     : 2140833\nexecs_per_sec  : 453.07\npaths_total    : 131\npaths_favored  : 55\npaths_found    : 130\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 84\npending_favs   : 20\npending_total  : 87\nvariable_paths : 0\nbitmap_cvg     : 0.78%\nunique_crashes : 0\nunique_hangs   : 41\nlast_path      : 1499856863\nlast_crash     : 0\nlast_hang      : 1499856829\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FASTLANE/input -o /dev/shm/work/FASTLANE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FASTLANE/FASTLANE.dict -- data/linux/processed-challenges/FASTLANE/bin/FASTLANE\n'
+p79
+I2
+tp80
+a(I4800
+S'start_time     : 1499852185\nlast_update    : 1499856994\nfuzzer_pid     : 12572\ncycles_done    : 0\nexecs_done     : 2195338\nexecs_per_sec  : 455.00\npaths_total    : 132\npaths_favored  : 55\npaths_found    : 131\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 84\npending_favs   : 20\npending_total  : 88\nvariable_paths : 0\nbitmap_cvg     : 0.78%\nunique_crashes : 0\nunique_hangs   : 44\nlast_path      : 1499856890\nlast_crash     : 0\nlast_hang      : 1499856969\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FASTLANE/input -o /dev/shm/work/FASTLANE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FASTLANE/FASTLANE.dict -- data/linux/processed-challenges/FASTLANE/bin/FASTLANE\n'
+p81
+I1
+tp82
+a(I4920
+S'start_time     : 1499852185\nlast_update    : 1499857114\nfuzzer_pid     : 12572\ncycles_done    : 0\nexecs_done     : 2249951\nexecs_per_sec  : 462.99\npaths_total    : 133\npaths_favored  : 55\npaths_found    : 132\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 84\npending_favs   : 20\npending_total  : 89\nvariable_paths : 0\nbitmap_cvg     : 0.78%\nunique_crashes : 0\nunique_hangs   : 44\nlast_path      : 1499857011\nlast_crash     : 0\nlast_hang      : 1499856969\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FASTLANE/input -o /dev/shm/work/FASTLANE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FASTLANE/FASTLANE.dict -- data/linux/processed-challenges/FASTLANE/bin/FASTLANE\n'
+p83
+I1
+tp84
+a(I5040
+S'start_time     : 1499852185\nlast_update    : 1499857234\nfuzzer_pid     : 12572\ncycles_done    : 0\nexecs_done     : 2304520\nexecs_per_sec  : 466.94\npaths_total    : 135\npaths_favored  : 54\npaths_found    : 134\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 87\npending_favs   : 20\npending_total  : 90\nvariable_paths : 0\nbitmap_cvg     : 0.78%\nunique_crashes : 0\nunique_hangs   : 46\nlast_path      : 1499857230\nlast_crash     : 0\nlast_hang      : 1499857193\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FASTLANE/input -o /dev/shm/work/FASTLANE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FASTLANE/FASTLANE.dict -- data/linux/processed-challenges/FASTLANE/bin/FASTLANE\n'
+p85
+I2
+tp86
+a(I5160
+S'start_time     : 1499852185\nlast_update    : 1499857354\nfuzzer_pid     : 12572\ncycles_done    : 0\nexecs_done     : 2360208\nexecs_per_sec  : 461.35\npaths_total    : 140\npaths_favored  : 54\npaths_found    : 139\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 87\npending_favs   : 20\npending_total  : 95\nvariable_paths : 0\nbitmap_cvg     : 0.78%\nunique_crashes : 0\nunique_hangs   : 46\nlast_path      : 1499857312\nlast_crash     : 0\nlast_hang      : 1499857193\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FASTLANE/input -o /dev/shm/work/FASTLANE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FASTLANE/FASTLANE.dict -- data/linux/processed-challenges/FASTLANE/bin/FASTLANE\n'
+p87
+I5
+tp88
+a(I5280
+S'start_time     : 1499852185\nlast_update    : 1499857475\nfuzzer_pid     : 12572\ncycles_done    : 0\nexecs_done     : 2416288\nexecs_per_sec  : 467.72\npaths_total    : 141\npaths_favored  : 54\npaths_found    : 140\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 87\npending_favs   : 20\npending_total  : 96\nvariable_paths : 0\nbitmap_cvg     : 0.78%\nunique_crashes : 0\nunique_hangs   : 46\nlast_path      : 1499857396\nlast_crash     : 0\nlast_hang      : 1499857193\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FASTLANE/input -o /dev/shm/work/FASTLANE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FASTLANE/FASTLANE.dict -- data/linux/processed-challenges/FASTLANE/bin/FASTLANE\n'
+p89
+I1
+tp90
+a(I5400
+S'start_time     : 1499852185\nlast_update    : 1499857595\nfuzzer_pid     : 12572\ncycles_done    : 0\nexecs_done     : 2472533\nexecs_per_sec  : 472.26\npaths_total    : 142\npaths_favored  : 53\npaths_found    : 141\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 98\npending_favs   : 20\npending_total  : 96\nvariable_paths : 0\nbitmap_cvg     : 0.78%\nunique_crashes : 0\nunique_hangs   : 46\nlast_path      : 1499857586\nlast_crash     : 0\nlast_hang      : 1499857193\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FASTLANE/input -o /dev/shm/work/FASTLANE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FASTLANE/FASTLANE.dict -- data/linux/processed-challenges/FASTLANE/bin/FASTLANE\n'
+p91
+I1
+tp92
+a(I5520
+S'start_time     : 1499852185\nlast_update    : 1499857715\nfuzzer_pid     : 12572\ncycles_done    : 0\nexecs_done     : 2528149\nexecs_per_sec  : 467.83\npaths_total    : 147\npaths_favored  : 53\npaths_found    : 146\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 103\npending_favs   : 19\npending_total  : 100\nvariable_paths : 0\nbitmap_cvg     : 0.79%\nunique_crashes : 0\nunique_hangs   : 46\nlast_path      : 1499857650\nlast_crash     : 0\nlast_hang      : 1499857193\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FASTLANE/input -o /dev/shm/work/FASTLANE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FASTLANE/FASTLANE.dict -- data/linux/processed-challenges/FASTLANE/bin/FASTLANE\n'
+p93
+I5
+tp94
+a(I5640
+S'start_time     : 1499852185\nlast_update    : 1499857835\nfuzzer_pid     : 12572\ncycles_done    : 0\nexecs_done     : 2584219\nexecs_per_sec  : 460.86\npaths_total    : 147\npaths_favored  : 53\npaths_found    : 146\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 103\npending_favs   : 19\npending_total  : 100\nvariable_paths : 0\nbitmap_cvg     : 0.79%\nunique_crashes : 0\nunique_hangs   : 46\nlast_path      : 1499857650\nlast_crash     : 0\nlast_hang      : 1499857193\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FASTLANE/input -o /dev/shm/work/FASTLANE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FASTLANE/FASTLANE.dict -- data/linux/processed-challenges/FASTLANE/bin/FASTLANE\n'
+p95
+I0
+tp96
+a(I5760
+S'start_time     : 1499852185\nlast_update    : 1499857955\nfuzzer_pid     : 12572\ncycles_done    : 0\nexecs_done     : 2640226\nexecs_per_sec  : 474.87\npaths_total    : 147\npaths_favored  : 53\npaths_found    : 146\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 103\npending_favs   : 19\npending_total  : 100\nvariable_paths : 0\nbitmap_cvg     : 0.79%\nunique_crashes : 0\nunique_hangs   : 46\nlast_path      : 1499857650\nlast_crash     : 0\nlast_hang      : 1499857193\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FASTLANE/input -o /dev/shm/work/FASTLANE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FASTLANE/FASTLANE.dict -- data/linux/processed-challenges/FASTLANE/bin/FASTLANE\n'
+p97
+I0
+tp98
+a(I5880
+S'start_time     : 1499852185\nlast_update    : 1499858076\nfuzzer_pid     : 12572\ncycles_done    : 0\nexecs_done     : 2686151\nexecs_per_sec  : 458.67\npaths_total    : 150\npaths_favored  : 53\npaths_found    : 149\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 112\npending_favs   : 18\npending_total  : 100\nvariable_paths : 0\nbitmap_cvg     : 0.79%\nunique_crashes : 0\nunique_hangs   : 47\nlast_path      : 1499858063\nlast_crash     : 0\nlast_hang      : 1499857999\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FASTLANE/input -o /dev/shm/work/FASTLANE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FASTLANE/FASTLANE.dict -- data/linux/processed-challenges/FASTLANE/bin/FASTLANE\n'
+p99
+I3
+tp100
+a(I6000
+S'start_time     : 1499852185\nlast_update    : 1499858196\nfuzzer_pid     : 12572\ncycles_done    : 0\nexecs_done     : 2722503\nexecs_per_sec  : 356.45\npaths_total    : 165\npaths_favored  : 56\npaths_found    : 164\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 116\npending_favs   : 19\npending_total  : 113\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 57\nlast_path      : 1499858184\nlast_crash     : 0\nlast_hang      : 1499858193\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FASTLANE/input -o /dev/shm/work/FASTLANE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FASTLANE/FASTLANE.dict -- data/linux/processed-challenges/FASTLANE/bin/FASTLANE\n'
+p101
+I15
+tp102
+a(I6120
+S'start_time     : 1499852185\nlast_update    : 1499858316\nfuzzer_pid     : 12572\ncycles_done    : 0\nexecs_done     : 2765773\nexecs_per_sec  : 360.74\npaths_total    : 166\npaths_favored  : 56\npaths_found    : 165\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 116\npending_favs   : 19\npending_total  : 114\nvariable_paths : 0\nbitmap_cvg     : 0.81%\nunique_crashes : 0\nunique_hangs   : 63\nlast_path      : 1499858304\nlast_crash     : 0\nlast_hang      : 1499858307\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FASTLANE/input -o /dev/shm/work/FASTLANE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FASTLANE/FASTLANE.dict -- data/linux/processed-challenges/FASTLANE/bin/FASTLANE\n'
+p103
+I1
+tp104
+a(I6240
+S'start_time     : 1499852185\nlast_update    : 1499858436\nfuzzer_pid     : 12572\ncycles_done    : 0\nexecs_done     : 2808861\nexecs_per_sec  : 349.99\npaths_total    : 168\npaths_favored  : 56\npaths_found    : 167\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 116\npending_favs   : 19\npending_total  : 116\nvariable_paths : 0\nbitmap_cvg     : 0.81%\nunique_crashes : 0\nunique_hangs   : 66\nlast_path      : 1499858397\nlast_crash     : 0\nlast_hang      : 1499858404\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FASTLANE/input -o /dev/shm/work/FASTLANE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FASTLANE/FASTLANE.dict -- data/linux/processed-challenges/FASTLANE/bin/FASTLANE\n'
+p105
+I2
+tp106
+a(I6360
+S'start_time     : 1499852185\nlast_update    : 1499858557\nfuzzer_pid     : 12572\ncycles_done    : 0\nexecs_done     : 2851844\nexecs_per_sec  : 357.11\npaths_total    : 168\npaths_favored  : 56\npaths_found    : 167\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 116\npending_favs   : 19\npending_total  : 116\nvariable_paths : 0\nbitmap_cvg     : 0.81%\nunique_crashes : 0\nunique_hangs   : 67\nlast_path      : 1499858397\nlast_crash     : 0\nlast_hang      : 1499858465\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FASTLANE/input -o /dev/shm/work/FASTLANE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FASTLANE/FASTLANE.dict -- data/linux/processed-challenges/FASTLANE/bin/FASTLANE\n'
+p107
+I0
+tp108
+a(I6480
+S'start_time     : 1499852185\nlast_update    : 1499858617\nfuzzer_pid     : 12572\ncycles_done    : 0\nexecs_done     : 2872305\nexecs_per_sec  : 204.19\npaths_total    : 168\npaths_favored  : 59\npaths_found    : 167\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 117\npending_favs   : 23\npending_total  : 115\nvariable_paths : 0\nbitmap_cvg     : 0.81%\nunique_crashes : 0\nunique_hangs   : 68\nlast_path      : 1499858397\nlast_crash     : 0\nlast_hang      : 1499858612\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FASTLANE/input -o /dev/shm/work/FASTLANE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FASTLANE/FASTLANE.dict -- data/linux/processed-challenges/FASTLANE/bin/FASTLANE\n'
+p109
+I0
+tp110
+a(I6600
+S'start_time     : 1499852185\nlast_update    : 1499858737\nfuzzer_pid     : 12572\ncycles_done    : 0\nexecs_done     : 2908245\nexecs_per_sec  : 400.75\npaths_total    : 168\npaths_favored  : 59\npaths_found    : 167\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 120\npending_favs   : 21\npending_total  : 113\nvariable_paths : 0\nbitmap_cvg     : 0.81%\nunique_crashes : 0\nunique_hangs   : 70\nlast_path      : 1499858397\nlast_crash     : 0\nlast_hang      : 1499858708\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FASTLANE/input -o /dev/shm/work/FASTLANE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FASTLANE/FASTLANE.dict -- data/linux/processed-challenges/FASTLANE/bin/FASTLANE\n'
+p111
+I0
+tp112
+a(I6720
+S'start_time     : 1499852185\nlast_update    : 1499858857\nfuzzer_pid     : 12572\ncycles_done    : 0\nexecs_done     : 2934840\nexecs_per_sec  : 270.88\npaths_total    : 169\npaths_favored  : 59\npaths_found    : 168\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 125\npending_favs   : 19\npending_total  : 112\nvariable_paths : 0\nbitmap_cvg     : 0.81%\nunique_crashes : 0\nunique_hangs   : 71\nlast_path      : 1499858851\nlast_crash     : 0\nlast_hang      : 1499858831\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FASTLANE/input -o /dev/shm/work/FASTLANE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FASTLANE/FASTLANE.dict -- data/linux/processed-challenges/FASTLANE/bin/FASTLANE\n'
+p113
+I2
+tp114
+a(I6840
+S'start_time     : 1499852185\nlast_update    : 1499858978\nfuzzer_pid     : 12572\ncycles_done    : 0\nexecs_done     : 2969215\nexecs_per_sec  : 289.26\npaths_total    : 171\npaths_favored  : 59\npaths_found    : 170\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 125\npending_favs   : 19\npending_total  : 114\nvariable_paths : 0\nbitmap_cvg     : 0.81%\nunique_crashes : 0\nunique_hangs   : 74\nlast_path      : 1499858930\nlast_crash     : 0\nlast_hang      : 1499858946\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FASTLANE/input -o /dev/shm/work/FASTLANE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FASTLANE/FASTLANE.dict -- data/linux/processed-challenges/FASTLANE/bin/FASTLANE\n'
+p115
+I1
+tp116
+a(I6960
+S'start_time     : 1499852185\nlast_update    : 1499859098\nfuzzer_pid     : 12572\ncycles_done    : 0\nexecs_done     : 3003480\nexecs_per_sec  : 286.61\npaths_total    : 171\npaths_favored  : 59\npaths_found    : 170\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 125\npending_favs   : 19\npending_total  : 114\nvariable_paths : 0\nbitmap_cvg     : 0.81%\nunique_crashes : 0\nunique_hangs   : 75\nlast_path      : 1499858930\nlast_crash     : 0\nlast_hang      : 1499859057\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FASTLANE/input -o /dev/shm/work/FASTLANE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FASTLANE/FASTLANE.dict -- data/linux/processed-challenges/FASTLANE/bin/FASTLANE\n'
+p117
+I1
+tp118
+a(I7080
+S'start_time     : 1499852185\nlast_update    : 1499859218\nfuzzer_pid     : 12572\ncycles_done    : 0\nexecs_done     : 3037425\nexecs_per_sec  : 289.35\npaths_total    : 172\npaths_favored  : 59\npaths_found    : 171\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 125\npending_favs   : 19\npending_total  : 115\nvariable_paths : 0\nbitmap_cvg     : 0.81%\nunique_crashes : 0\nunique_hangs   : 76\nlast_path      : 1499859103\nlast_crash     : 0\nlast_hang      : 1499859098\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FASTLANE/input -o /dev/shm/work/FASTLANE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FASTLANE/FASTLANE.dict -- data/linux/processed-challenges/FASTLANE/bin/FASTLANE\n'
+p119
+I0
+tp120
+a(I7200
+S'start_time     : 1499852185\nlast_update    : 1499859338\nfuzzer_pid     : 12572\ncycles_done    : 0\nexecs_done     : 3071735\nexecs_per_sec  : 291.92\npaths_total    : 173\npaths_favored  : 59\npaths_found    : 172\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 125\npending_favs   : 19\npending_total  : 116\nvariable_paths : 0\nbitmap_cvg     : 0.81%\nunique_crashes : 0\nunique_hangs   : 78\nlast_path      : 1499859299\nlast_crash     : 0\nlast_hang      : 1499859314\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FASTLANE/input -o /dev/shm/work/FASTLANE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FASTLANE/FASTLANE.dict -- data/linux/processed-challenges/FASTLANE/bin/FASTLANE\n'
+p121
+I2
+tp122
+a(I7320
+S'start_time     : 1499852185\nlast_update    : 1499859458\nfuzzer_pid     : 12572\ncycles_done    : 0\nexecs_done     : 3110997\nexecs_per_sec  : 358.54\npaths_total    : 174\npaths_favored  : 61\npaths_found    : 173\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 132\npending_favs   : 19\npending_total  : 115\nvariable_paths : 0\nbitmap_cvg     : 0.81%\nunique_crashes : 0\nunique_hangs   : 78\nlast_path      : 1499859352\nlast_crash     : 0\nlast_hang      : 1499859314\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FASTLANE/input -o /dev/shm/work/FASTLANE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FASTLANE/FASTLANE.dict -- data/linux/processed-challenges/FASTLANE/bin/FASTLANE\n'
+p123
+I1
+tp124
+a(I7440
+S'start_time     : 1499852185\nlast_update    : 1499859578\nfuzzer_pid     : 12572\ncycles_done    : 0\nexecs_done     : 3151501\nexecs_per_sec  : 452.80\npaths_total    : 175\npaths_favored  : 61\npaths_found    : 174\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 133\npending_favs   : 18\npending_total  : 115\nvariable_paths : 0\nbitmap_cvg     : 0.81%\nunique_crashes : 0\nunique_hangs   : 80\nlast_path      : 1499859488\nlast_crash     : 0\nlast_hang      : 1499859529\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FASTLANE/input -o /dev/shm/work/FASTLANE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FASTLANE/FASTLANE.dict -- data/linux/processed-challenges/FASTLANE/bin/FASTLANE\n'
+p125
+I0
+tp126
+a(I7560
+S'start_time     : 1499852185\nlast_update    : 1499859699\nfuzzer_pid     : 12572\ncycles_done    : 0\nexecs_done     : 3197847\nexecs_per_sec  : 51.88\npaths_total    : 175\npaths_favored  : 61\npaths_found    : 174\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 150\npending_favs   : 15\npending_total  : 112\nvariable_paths : 0\nbitmap_cvg     : 0.81%\nunique_crashes : 0\nunique_hangs   : 80\nlast_path      : 1499859488\nlast_crash     : 0\nlast_hang      : 1499859529\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FASTLANE/input -o /dev/shm/work/FASTLANE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FASTLANE/FASTLANE.dict -- data/linux/processed-challenges/FASTLANE/bin/FASTLANE\n'
+p127
+I0
+tp128
+a(I7680
+S'start_time     : 1499852185\nlast_update    : 1499859819\nfuzzer_pid     : 12572\ncycles_done    : 0\nexecs_done     : 3235909\nexecs_per_sec  : 61.44\npaths_total    : 176\npaths_favored  : 62\npaths_found    : 175\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 153\npending_favs   : 14\npending_total  : 111\nvariable_paths : 0\nbitmap_cvg     : 0.81%\nunique_crashes : 0\nunique_hangs   : 80\nlast_path      : 1499859771\nlast_crash     : 0\nlast_hang      : 1499859529\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FASTLANE/input -o /dev/shm/work/FASTLANE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FASTLANE/FASTLANE.dict -- data/linux/processed-challenges/FASTLANE/bin/FASTLANE\n'
+p129
+I2
+tp130
+a(I7800
+S'start_time     : 1499852185\nlast_update    : 1499859939\nfuzzer_pid     : 12572\ncycles_done    : 0\nexecs_done     : 3266999\nexecs_per_sec  : 395.65\npaths_total    : 177\npaths_favored  : 64\npaths_found    : 176\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 155\npending_favs   : 13\npending_total  : 110\nvariable_paths : 0\nbitmap_cvg     : 0.81%\nunique_crashes : 0\nunique_hangs   : 80\nlast_path      : 1499859821\nlast_crash     : 0\nlast_hang      : 1499859529\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FASTLANE/input -o /dev/shm/work/FASTLANE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FASTLANE/FASTLANE.dict -- data/linux/processed-challenges/FASTLANE/bin/FASTLANE\n'
+p131
+I1
+tp132
+a(I7920
+S'start_time     : 1499852185\nlast_update    : 1499860059\nfuzzer_pid     : 12572\ncycles_done    : 0\nexecs_done     : 3303419\nexecs_per_sec  : 416.41\npaths_total    : 180\npaths_favored  : 64\npaths_found    : 179\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 157\npending_favs   : 11\npending_total  : 111\nvariable_paths : 0\nbitmap_cvg     : 0.81%\nunique_crashes : 0\nunique_hangs   : 81\nlast_path      : 1499860055\nlast_crash     : 0\nlast_hang      : 1499860050\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FASTLANE/input -o /dev/shm/work/FASTLANE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FASTLANE/FASTLANE.dict -- data/linux/processed-challenges/FASTLANE/bin/FASTLANE\n'
+p133
+I2
+tp134
+a(I8040
+S'start_time     : 1499852185\nlast_update    : 1499860180\nfuzzer_pid     : 12572\ncycles_done    : 0\nexecs_done     : 3337500\nexecs_per_sec  : 335.70\npaths_total    : 181\npaths_favored  : 63\npaths_found    : 180\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 158\npending_favs   : 11\npending_total  : 111\nvariable_paths : 0\nbitmap_cvg     : 0.81%\nunique_crashes : 0\nunique_hangs   : 81\nlast_path      : 1499860142\nlast_crash     : 0\nlast_hang      : 1499860050\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FASTLANE/input -o /dev/shm/work/FASTLANE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FASTLANE/FASTLANE.dict -- data/linux/processed-challenges/FASTLANE/bin/FASTLANE\n'
+p135
+I1
+tp136
+a(I8160
+S'start_time     : 1499852185\nlast_update    : 1499860300\nfuzzer_pid     : 12572\ncycles_done    : 0\nexecs_done     : 3368317\nexecs_per_sec  : 345.16\npaths_total    : 183\npaths_favored  : 63\npaths_found    : 182\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 165\npending_favs   : 9\npending_total  : 111\nvariable_paths : 0\nbitmap_cvg     : 0.81%\nunique_crashes : 0\nunique_hangs   : 81\nlast_path      : 1499860295\nlast_crash     : 0\nlast_hang      : 1499860050\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FASTLANE/input -o /dev/shm/work/FASTLANE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FASTLANE/FASTLANE.dict -- data/linux/processed-challenges/FASTLANE/bin/FASTLANE\n'
+p137
+I3
+tp138
+a(I8280
+S'start_time     : 1499852185\nlast_update    : 1499860420\nfuzzer_pid     : 12572\ncycles_done    : 0\nexecs_done     : 3407049\nexecs_per_sec  : 121.72\npaths_total    : 185\npaths_favored  : 63\npaths_found    : 184\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 166\npending_favs   : 8\npending_total  : 112\nvariable_paths : 0\nbitmap_cvg     : 0.81%\nunique_crashes : 0\nunique_hangs   : 82\nlast_path      : 1499860417\nlast_crash     : 0\nlast_hang      : 1499860314\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FASTLANE/input -o /dev/shm/work/FASTLANE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FASTLANE/FASTLANE.dict -- data/linux/processed-challenges/FASTLANE/bin/FASTLANE\n'
+p139
+I1
+tp140
+a(I8400
+S'start_time     : 1499852185\nlast_update    : 1499860540\nfuzzer_pid     : 12572\ncycles_done    : 0\nexecs_done     : 3431575\nexecs_per_sec  : 333.35\npaths_total    : 185\npaths_favored  : 63\npaths_found    : 184\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 167\npending_favs   : 7\npending_total  : 111\nvariable_paths : 0\nbitmap_cvg     : 0.81%\nunique_crashes : 0\nunique_hangs   : 82\nlast_path      : 1499860417\nlast_crash     : 0\nlast_hang      : 1499860314\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FASTLANE/input -o /dev/shm/work/FASTLANE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FASTLANE/FASTLANE.dict -- data/linux/processed-challenges/FASTLANE/bin/FASTLANE\n'
+p141
+I0
+tp142
+a(I8520
+S'start_time     : 1499852185\nlast_update    : 1499860661\nfuzzer_pid     : 12572\ncycles_done    : 0\nexecs_done     : 3455012\nexecs_per_sec  : 84.55\npaths_total    : 185\npaths_favored  : 63\npaths_found    : 184\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 175\npending_favs   : 5\npending_total  : 109\nvariable_paths : 0\nbitmap_cvg     : 0.81%\nunique_crashes : 0\nunique_hangs   : 83\nlast_path      : 1499860417\nlast_crash     : 0\nlast_hang      : 1499860658\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FASTLANE/input -o /dev/shm/work/FASTLANE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FASTLANE/FASTLANE.dict -- data/linux/processed-challenges/FASTLANE/bin/FASTLANE\n'
+p143
+I0
+tp144
+a(I8640
+S'start_time     : 1499852185\nlast_update    : 1499860781\nfuzzer_pid     : 12572\ncycles_done    : 0\nexecs_done     : 3485984\nexecs_per_sec  : 333.78\npaths_total    : 185\npaths_favored  : 63\npaths_found    : 184\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 176\npending_favs   : 4\npending_total  : 108\nvariable_paths : 0\nbitmap_cvg     : 0.81%\nunique_crashes : 0\nunique_hangs   : 83\nlast_path      : 1499860417\nlast_crash     : 0\nlast_hang      : 1499860658\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FASTLANE/input -o /dev/shm/work/FASTLANE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FASTLANE/FASTLANE.dict -- data/linux/processed-challenges/FASTLANE/bin/FASTLANE\n'
+p145
+I0
+tp146
+a(I8760
+S'start_time     : 1499852185\nlast_update    : 1499860901\nfuzzer_pid     : 12572\ncycles_done    : 0\nexecs_done     : 3520727\nexecs_per_sec  : 351.24\npaths_total    : 186\npaths_favored  : 63\npaths_found    : 185\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 177\npending_favs   : 3\npending_total  : 108\nvariable_paths : 0\nbitmap_cvg     : 0.82%\nunique_crashes : 0\nunique_hangs   : 83\nlast_path      : 1499860841\nlast_crash     : 0\nlast_hang      : 1499860658\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FASTLANE/input -o /dev/shm/work/FASTLANE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FASTLANE/FASTLANE.dict -- data/linux/processed-challenges/FASTLANE/bin/FASTLANE\n'
+p147
+I1
+tp148
+a(I8880
+S'start_time     : 1499852185\nlast_update    : 1499861021\nfuzzer_pid     : 12572\ncycles_done    : 0\nexecs_done     : 3560559\nexecs_per_sec  : 383.27\npaths_total    : 186\npaths_favored  : 64\npaths_found    : 185\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 179\npending_favs   : 3\npending_total  : 107\nvariable_paths : 0\nbitmap_cvg     : 0.82%\nunique_crashes : 0\nunique_hangs   : 84\nlast_path      : 1499860841\nlast_crash     : 0\nlast_hang      : 1499861009\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FASTLANE/input -o /dev/shm/work/FASTLANE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FASTLANE/FASTLANE.dict -- data/linux/processed-challenges/FASTLANE/bin/FASTLANE\n'
+p149
+I0
+tp150
+a(I9000
+S'start_time     : 1499852185\nlast_update    : 1499861141\nfuzzer_pid     : 12572\ncycles_done    : 0\nexecs_done     : 3588568\nexecs_per_sec  : 287.49\npaths_total    : 187\npaths_favored  : 64\npaths_found    : 186\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 185\npending_favs   : 2\npending_total  : 107\nvariable_paths : 0\nbitmap_cvg     : 0.82%\nunique_crashes : 0\nunique_hangs   : 84\nlast_path      : 1499861125\nlast_crash     : 0\nlast_hang      : 1499861009\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FASTLANE/input -o /dev/shm/work/FASTLANE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FASTLANE/FASTLANE.dict -- data/linux/processed-challenges/FASTLANE/bin/FASTLANE\n'
+p151
+I1
+tp152
+a(I9120
+S'start_time     : 1499852185\nlast_update    : 1499861261\nfuzzer_pid     : 12572\ncycles_done    : 0\nexecs_done     : 3623836\nexecs_per_sec  : 303.03\npaths_total    : 187\npaths_favored  : 64\npaths_found    : 186\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 185\npending_favs   : 2\npending_total  : 107\nvariable_paths : 0\nbitmap_cvg     : 0.82%\nunique_crashes : 0\nunique_hangs   : 84\nlast_path      : 1499861125\nlast_crash     : 0\nlast_hang      : 1499861009\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FASTLANE/input -o /dev/shm/work/FASTLANE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FASTLANE/FASTLANE.dict -- data/linux/processed-challenges/FASTLANE/bin/FASTLANE\n'
+p153
+I0
+tp154
+a(I9240
+S'start_time     : 1499852185\nlast_update    : 1499861382\nfuzzer_pid     : 12572\ncycles_done    : 1\nexecs_done     : 3674042\nexecs_per_sec  : 467.02\npaths_total    : 188\npaths_favored  : 64\npaths_found    : 187\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 101\npending_favs   : 1\npending_total  : 106\nvariable_paths : 0\nbitmap_cvg     : 0.82%\nunique_crashes : 0\nunique_hangs   : 85\nlast_path      : 1499861358\nlast_crash     : 0\nlast_hang      : 1499861283\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FASTLANE/input -o /dev/shm/work/FASTLANE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FASTLANE/FASTLANE.dict -- data/linux/processed-challenges/FASTLANE/bin/FASTLANE\n'
+p155
+I1
+tp156
+a(I9360
+S'start_time     : 1499852185\nlast_update    : 1499861502\nfuzzer_pid     : 12572\ncycles_done    : 1\nexecs_done     : 3729302\nexecs_per_sec  : 474.42\npaths_total    : 190\npaths_favored  : 64\npaths_found    : 189\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 105\npending_favs   : 0\npending_total  : 106\nvariable_paths : 0\nbitmap_cvg     : 0.82%\nunique_crashes : 0\nunique_hangs   : 86\nlast_path      : 1499861494\nlast_crash     : 0\nlast_hang      : 1499861399\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FASTLANE/input -o /dev/shm/work/FASTLANE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FASTLANE/FASTLANE.dict -- data/linux/processed-challenges/FASTLANE/bin/FASTLANE\n'
+p157
+I5
+tp158
+a(I9480
+S'start_time     : 1499852185\nlast_update    : 1499861622\nfuzzer_pid     : 12572\ncycles_done    : 1\nexecs_done     : 3785205\nexecs_per_sec  : 468.38\npaths_total    : 194\npaths_favored  : 64\npaths_found    : 193\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 105\npending_favs   : 0\npending_total  : 110\nvariable_paths : 0\nbitmap_cvg     : 0.82%\nunique_crashes : 0\nunique_hangs   : 87\nlast_path      : 1499861596\nlast_crash     : 0\nlast_hang      : 1499861613\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FASTLANE/input -o /dev/shm/work/FASTLANE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FASTLANE/FASTLANE.dict -- data/linux/processed-challenges/FASTLANE/bin/FASTLANE\n'
+p159
+I1
+tp160
+a(I9600
+S'start_time     : 1499852185\nlast_update    : 1499861742\nfuzzer_pid     : 12572\ncycles_done    : 1\nexecs_done     : 3840943\nexecs_per_sec  : 472.37\npaths_total    : 195\npaths_favored  : 64\npaths_found    : 194\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 105\npending_favs   : 0\npending_total  : 111\nvariable_paths : 0\nbitmap_cvg     : 0.82%\nunique_crashes : 0\nunique_hangs   : 87\nlast_path      : 1499861686\nlast_crash     : 0\nlast_hang      : 1499861613\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FASTLANE/input -o /dev/shm/work/FASTLANE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FASTLANE/FASTLANE.dict -- data/linux/processed-challenges/FASTLANE/bin/FASTLANE\n'
+p161
+I1
+tp162
+a(I9720
+S'start_time     : 1499852185\nlast_update    : 1499861862\nfuzzer_pid     : 12572\ncycles_done    : 1\nexecs_done     : 3896535\nexecs_per_sec  : 453.78\npaths_total    : 195\npaths_favored  : 64\npaths_found    : 194\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 106\npending_favs   : 0\npending_total  : 110\nvariable_paths : 0\nbitmap_cvg     : 0.82%\nunique_crashes : 0\nunique_hangs   : 87\nlast_path      : 1499861686\nlast_crash     : 0\nlast_hang      : 1499861613\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FASTLANE/input -o /dev/shm/work/FASTLANE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FASTLANE/FASTLANE.dict -- data/linux/processed-challenges/FASTLANE/bin/FASTLANE\n'
+p163
+I0
+tp164
+a(I9840
+S'start_time     : 1499852185\nlast_update    : 1499861983\nfuzzer_pid     : 12572\ncycles_done    : 1\nexecs_done     : 3942952\nexecs_per_sec  : 397.54\npaths_total    : 195\npaths_favored  : 64\npaths_found    : 194\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 114\npending_favs   : 0\npending_total  : 109\nvariable_paths : 0\nbitmap_cvg     : 0.82%\nunique_crashes : 0\nunique_hangs   : 87\nlast_path      : 1499861686\nlast_crash     : 0\nlast_hang      : 1499861613\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FASTLANE/input -o /dev/shm/work/FASTLANE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FASTLANE/FASTLANE.dict -- data/linux/processed-challenges/FASTLANE/bin/FASTLANE\n'
+p165
+I0
+tp166
+a(I9960
+S'start_time     : 1499852185\nlast_update    : 1499862103\nfuzzer_pid     : 12572\ncycles_done    : 1\nexecs_done     : 3991496\nexecs_per_sec  : 398.63\npaths_total    : 195\npaths_favored  : 64\npaths_found    : 194\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 121\npending_favs   : 0\npending_total  : 108\nvariable_paths : 0\nbitmap_cvg     : 0.82%\nunique_crashes : 0\nunique_hangs   : 87\nlast_path      : 1499861686\nlast_crash     : 0\nlast_hang      : 1499861613\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FASTLANE/input -o /dev/shm/work/FASTLANE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FASTLANE/FASTLANE.dict -- data/linux/processed-challenges/FASTLANE/bin/FASTLANE\n'
+p167
+I0
+tp168
+a(I10080
+S'start_time     : 1499852185\nlast_update    : 1499862223\nfuzzer_pid     : 12572\ncycles_done    : 1\nexecs_done     : 4009507\nexecs_per_sec  : 279.05\npaths_total    : 195\npaths_favored  : 64\npaths_found    : 194\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 122\npending_favs   : 0\npending_total  : 108\nvariable_paths : 0\nbitmap_cvg     : 0.82%\nunique_crashes : 0\nunique_hangs   : 87\nlast_path      : 1499861686\nlast_crash     : 0\nlast_hang      : 1499861613\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FASTLANE/input -o /dev/shm/work/FASTLANE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FASTLANE/FASTLANE.dict -- data/linux/processed-challenges/FASTLANE/bin/FASTLANE\n'
+p169
+I3
+tp170
+a(I10200
+S'start_time     : 1499852185\nlast_update    : 1499862343\nfuzzer_pid     : 12572\ncycles_done    : 1\nexecs_done     : 4035150\nexecs_per_sec  : 218.88\npaths_total    : 199\npaths_favored  : 64\npaths_found    : 198\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 122\npending_favs   : 0\npending_total  : 112\nvariable_paths : 0\nbitmap_cvg     : 0.82%\nunique_crashes : 0\nunique_hangs   : 88\nlast_path      : 1499862333\nlast_crash     : 0\nlast_hang      : 1499862302\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FASTLANE/input -o /dev/shm/work/FASTLANE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FASTLANE/FASTLANE.dict -- data/linux/processed-challenges/FASTLANE/bin/FASTLANE\n'
+p171
+I1
+tp172
+a(I10320
+S'start_time     : 1499852185\nlast_update    : 1499862463\nfuzzer_pid     : 12572\ncycles_done    : 1\nexecs_done     : 4060582\nexecs_per_sec  : 211.58\npaths_total    : 199\npaths_favored  : 64\npaths_found    : 198\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 122\npending_favs   : 0\npending_total  : 112\nvariable_paths : 0\nbitmap_cvg     : 0.82%\nunique_crashes : 0\nunique_hangs   : 89\nlast_path      : 1499862333\nlast_crash     : 0\nlast_hang      : 1499862353\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FASTLANE/input -o /dev/shm/work/FASTLANE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FASTLANE/FASTLANE.dict -- data/linux/processed-challenges/FASTLANE/bin/FASTLANE\n'
+p173
+I0
+tp174
+a(I10440
+S'start_time     : 1499852185\nlast_update    : 1499862584\nfuzzer_pid     : 12572\ncycles_done    : 1\nexecs_done     : 4086998\nexecs_per_sec  : 218.03\npaths_total    : 199\npaths_favored  : 64\npaths_found    : 198\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 122\npending_favs   : 0\npending_total  : 112\nvariable_paths : 0\nbitmap_cvg     : 0.82%\nunique_crashes : 0\nunique_hangs   : 90\nlast_path      : 1499862333\nlast_crash     : 0\nlast_hang      : 1499862531\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FASTLANE/input -o /dev/shm/work/FASTLANE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FASTLANE/FASTLANE.dict -- data/linux/processed-challenges/FASTLANE/bin/FASTLANE\n'
+p175
+I0
+tp176
+a(I10560
+S'start_time     : 1499852185\nlast_update    : 1499862704\nfuzzer_pid     : 12572\ncycles_done    : 1\nexecs_done     : 4112946\nexecs_per_sec  : 218.52\npaths_total    : 199\npaths_favored  : 64\npaths_found    : 198\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 122\npending_favs   : 0\npending_total  : 112\nvariable_paths : 0\nbitmap_cvg     : 0.82%\nunique_crashes : 0\nunique_hangs   : 90\nlast_path      : 1499862333\nlast_crash     : 0\nlast_hang      : 1499862531\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FASTLANE/input -o /dev/shm/work/FASTLANE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FASTLANE/FASTLANE.dict -- data/linux/processed-challenges/FASTLANE/bin/FASTLANE\n'
+p177
+I0
+tp178
+a(I10680
+S'start_time     : 1499852185\nlast_update    : 1499862824\nfuzzer_pid     : 12572\ncycles_done    : 1\nexecs_done     : 4141331\nexecs_per_sec  : 50.11\npaths_total    : 199\npaths_favored  : 64\npaths_found    : 198\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 126\npending_favs   : 0\npending_total  : 111\nvariable_paths : 0\nbitmap_cvg     : 0.82%\nunique_crashes : 0\nunique_hangs   : 91\nlast_path      : 1499862333\nlast_crash     : 0\nlast_hang      : 1499862726\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FASTLANE/input -o /dev/shm/work/FASTLANE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FASTLANE/FASTLANE.dict -- data/linux/processed-challenges/FASTLANE/bin/FASTLANE\n'
+p179
+I0
+tp180
+a.

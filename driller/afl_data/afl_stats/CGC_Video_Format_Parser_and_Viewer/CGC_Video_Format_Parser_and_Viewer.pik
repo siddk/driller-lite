@@ -1,0 +1,452 @@
+(lp0
+(I0
+S'start_time     : 1500057751\nlast_update    : 1500057751\nfuzzer_pid     : 24226\ncycles_done    : 0\nexecs_done     : 10\nexecs_per_sec  : 208.33\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 1\npending_total  : 1\nvariable_paths : 0\nbitmap_cvg     : 0.10%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/input -o /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/CGC_Video_Format_Parser_and_Viewer.dict -- data/linux/processed-challenges/CGC_Video_Format_Parser_and_Viewer/bin/CGC_Video_Format_Parser_and_Viewer\n'
+p1
+I8
+tp2
+a(I120
+S'start_time     : 1500057751\nlast_update    : 1500057871\nfuzzer_pid     : 24226\ncycles_done    : 0\nexecs_done     : 157136\nexecs_per_sec  : 1281.20\npaths_total    : 11\npaths_favored  : 1\npaths_found    : 10\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 1\npending_total  : 11\nvariable_paths : 0\nbitmap_cvg     : 0.32%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500057839\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/input -o /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/CGC_Video_Format_Parser_and_Viewer.dict -- data/linux/processed-challenges/CGC_Video_Format_Parser_and_Viewer/bin/CGC_Video_Format_Parser_and_Viewer\n'
+p3
+I3
+tp4
+a(I240
+S'start_time     : 1500057751\nlast_update    : 1500057991\nfuzzer_pid     : 24226\ncycles_done    : 1\nexecs_done     : 299858\nexecs_per_sec  : 1293.29\npaths_total    : 19\npaths_favored  : 11\npaths_found    : 18\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 4\npending_favs   : 0\npending_total  : 6\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500057908\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/input -o /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/CGC_Video_Format_Parser_and_Viewer.dict -- data/linux/processed-challenges/CGC_Video_Format_Parser_and_Viewer/bin/CGC_Video_Format_Parser_and_Viewer\n'
+p5
+I8
+tp6
+a(I360
+S'start_time     : 1500057751\nlast_update    : 1500058111\nfuzzer_pid     : 24226\ncycles_done    : 2\nexecs_done     : 449177\nexecs_per_sec  : 1241.87\npaths_total    : 19\npaths_favored  : 11\npaths_found    : 18\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 12\npending_favs   : 0\npending_total  : 3\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500057908\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/input -o /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/CGC_Video_Format_Parser_and_Viewer.dict -- data/linux/processed-challenges/CGC_Video_Format_Parser_and_Viewer/bin/CGC_Video_Format_Parser_and_Viewer\n'
+p7
+I0
+tp8
+a(I480
+S'start_time     : 1500057751\nlast_update    : 1500058231\nfuzzer_pid     : 24226\ncycles_done    : 4\nexecs_done     : 599733\nexecs_per_sec  : 1258.34\npaths_total    : 19\npaths_favored  : 11\npaths_found    : 18\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 0\npending_favs   : 0\npending_total  : 3\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500057908\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/input -o /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/CGC_Video_Format_Parser_and_Viewer.dict -- data/linux/processed-challenges/CGC_Video_Format_Parser_and_Viewer/bin/CGC_Video_Format_Parser_and_Viewer\n'
+p9
+I0
+tp10
+a(I600
+S'start_time     : 1500057751\nlast_update    : 1500058352\nfuzzer_pid     : 24226\ncycles_done    : 5\nexecs_done     : 749195\nexecs_per_sec  : 1257.88\npaths_total    : 19\npaths_favored  : 11\npaths_found    : 18\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 3\npending_favs   : 0\npending_total  : 2\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500057908\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/input -o /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/CGC_Video_Format_Parser_and_Viewer.dict -- data/linux/processed-challenges/CGC_Video_Format_Parser_and_Viewer/bin/CGC_Video_Format_Parser_and_Viewer\n'
+p11
+I0
+tp12
+a(I720
+S'start_time     : 1500057751\nlast_update    : 1500058472\nfuzzer_pid     : 24226\ncycles_done    : 6\nexecs_done     : 903320\nexecs_per_sec  : 1265.92\npaths_total    : 19\npaths_favored  : 11\npaths_found    : 18\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 11\npending_favs   : 0\npending_total  : 2\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500057908\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/input -o /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/CGC_Video_Format_Parser_and_Viewer.dict -- data/linux/processed-challenges/CGC_Video_Format_Parser_and_Viewer/bin/CGC_Video_Format_Parser_and_Viewer\n'
+p13
+I0
+tp14
+a(I840
+S'start_time     : 1500057751\nlast_update    : 1500058592\nfuzzer_pid     : 24226\ncycles_done    : 7\nexecs_done     : 1054460\nexecs_per_sec  : 1230.48\npaths_total    : 19\npaths_favored  : 11\npaths_found    : 18\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 12\npending_favs   : 0\npending_total  : 1\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500057908\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/input -o /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/CGC_Video_Format_Parser_and_Viewer.dict -- data/linux/processed-challenges/CGC_Video_Format_Parser_and_Viewer/bin/CGC_Video_Format_Parser_and_Viewer\n'
+p15
+I0
+tp16
+a(I960
+S'start_time     : 1500057751\nlast_update    : 1500058712\nfuzzer_pid     : 24226\ncycles_done    : 9\nexecs_done     : 1207524\nexecs_per_sec  : 1338.29\npaths_total    : 19\npaths_favored  : 11\npaths_found    : 18\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 0\npending_favs   : 0\npending_total  : 1\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500057908\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/input -o /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/CGC_Video_Format_Parser_and_Viewer.dict -- data/linux/processed-challenges/CGC_Video_Format_Parser_and_Viewer/bin/CGC_Video_Format_Parser_and_Viewer\n'
+p17
+I0
+tp18
+a(I1080
+S'start_time     : 1500057751\nlast_update    : 1500058833\nfuzzer_pid     : 24226\ncycles_done    : 10\nexecs_done     : 1361295\nexecs_per_sec  : 1311.45\npaths_total    : 19\npaths_favored  : 11\npaths_found    : 18\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 6\npending_favs   : 0\npending_total  : 1\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500057908\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/input -o /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/CGC_Video_Format_Parser_and_Viewer.dict -- data/linux/processed-challenges/CGC_Video_Format_Parser_and_Viewer/bin/CGC_Video_Format_Parser_and_Viewer\n'
+p19
+I0
+tp20
+a(I1200
+S'start_time     : 1500057751\nlast_update    : 1500058953\nfuzzer_pid     : 24226\ncycles_done    : 11\nexecs_done     : 1513064\nexecs_per_sec  : 1269.48\npaths_total    : 19\npaths_favored  : 11\npaths_found    : 18\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 11\npending_favs   : 0\npending_total  : 1\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500057908\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/input -o /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/CGC_Video_Format_Parser_and_Viewer.dict -- data/linux/processed-challenges/CGC_Video_Format_Parser_and_Viewer/bin/CGC_Video_Format_Parser_and_Viewer\n'
+p21
+I0
+tp22
+a(I1320
+S'start_time     : 1500057751\nlast_update    : 1500059073\nfuzzer_pid     : 24226\ncycles_done    : 12\nexecs_done     : 1665739\nexecs_per_sec  : 1251.35\npaths_total    : 19\npaths_favored  : 11\npaths_found    : 18\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 13\npending_favs   : 0\npending_total  : 1\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500057908\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/input -o /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/CGC_Video_Format_Parser_and_Viewer.dict -- data/linux/processed-challenges/CGC_Video_Format_Parser_and_Viewer/bin/CGC_Video_Format_Parser_and_Viewer\n'
+p23
+I0
+tp24
+a(I1440
+S'start_time     : 1500057751\nlast_update    : 1500059194\nfuzzer_pid     : 24226\ncycles_done    : 14\nexecs_done     : 1820423\nexecs_per_sec  : 1343.65\npaths_total    : 19\npaths_favored  : 11\npaths_found    : 18\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 5\npending_favs   : 0\npending_total  : 1\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500057908\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/input -o /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/CGC_Video_Format_Parser_and_Viewer.dict -- data/linux/processed-challenges/CGC_Video_Format_Parser_and_Viewer/bin/CGC_Video_Format_Parser_and_Viewer\n'
+p25
+I0
+tp26
+a(I1560
+S'start_time     : 1500057751\nlast_update    : 1500059314\nfuzzer_pid     : 24226\ncycles_done    : 15\nexecs_done     : 1971140\nexecs_per_sec  : 1246.49\npaths_total    : 19\npaths_favored  : 11\npaths_found    : 18\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 11\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500057908\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/input -o /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/CGC_Video_Format_Parser_and_Viewer.dict -- data/linux/processed-challenges/CGC_Video_Format_Parser_and_Viewer/bin/CGC_Video_Format_Parser_and_Viewer\n'
+p27
+I0
+tp28
+a(I1680
+S'start_time     : 1500057751\nlast_update    : 1500059434\nfuzzer_pid     : 24226\ncycles_done    : 16\nexecs_done     : 2121763\nexecs_per_sec  : 1247.54\npaths_total    : 19\npaths_favored  : 11\npaths_found    : 18\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 13\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500057908\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/input -o /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/CGC_Video_Format_Parser_and_Viewer.dict -- data/linux/processed-challenges/CGC_Video_Format_Parser_and_Viewer/bin/CGC_Video_Format_Parser_and_Viewer\n'
+p29
+I0
+tp30
+a(I1800
+S'start_time     : 1500057751\nlast_update    : 1500059554\nfuzzer_pid     : 24226\ncycles_done    : 17\nexecs_done     : 2274627\nexecs_per_sec  : 1242.24\npaths_total    : 19\npaths_favored  : 11\npaths_found    : 18\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 14\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500057908\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/input -o /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/CGC_Video_Format_Parser_and_Viewer.dict -- data/linux/processed-challenges/CGC_Video_Format_Parser_and_Viewer/bin/CGC_Video_Format_Parser_and_Viewer\n'
+p31
+I0
+tp32
+a(I1920
+S'start_time     : 1500057751\nlast_update    : 1500059675\nfuzzer_pid     : 24226\ncycles_done    : 19\nexecs_done     : 2427239\nexecs_per_sec  : 1273.25\npaths_total    : 19\npaths_favored  : 11\npaths_found    : 18\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500057908\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/input -o /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/CGC_Video_Format_Parser_and_Viewer.dict -- data/linux/processed-challenges/CGC_Video_Format_Parser_and_Viewer/bin/CGC_Video_Format_Parser_and_Viewer\n'
+p33
+I0
+tp34
+a(I2040
+S'start_time     : 1500057751\nlast_update    : 1500059795\nfuzzer_pid     : 24226\ncycles_done    : 20\nexecs_done     : 2580939\nexecs_per_sec  : 1292.58\npaths_total    : 19\npaths_favored  : 11\npaths_found    : 18\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 11\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500057908\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/input -o /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/CGC_Video_Format_Parser_and_Viewer.dict -- data/linux/processed-challenges/CGC_Video_Format_Parser_and_Viewer/bin/CGC_Video_Format_Parser_and_Viewer\n'
+p35
+I0
+tp36
+a(I2160
+S'start_time     : 1500057751\nlast_update    : 1500059915\nfuzzer_pid     : 24226\ncycles_done    : 21\nexecs_done     : 2734516\nexecs_per_sec  : 1248.78\npaths_total    : 19\npaths_favored  : 11\npaths_found    : 18\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 13\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500057908\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/input -o /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/CGC_Video_Format_Parser_and_Viewer.dict -- data/linux/processed-challenges/CGC_Video_Format_Parser_and_Viewer/bin/CGC_Video_Format_Parser_and_Viewer\n'
+p37
+I0
+tp38
+a(I2280
+S'start_time     : 1500057751\nlast_update    : 1500060035\nfuzzer_pid     : 24226\ncycles_done    : 23\nexecs_done     : 2886174\nexecs_per_sec  : 1261.86\npaths_total    : 19\npaths_favored  : 11\npaths_found    : 18\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500057908\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/input -o /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/CGC_Video_Format_Parser_and_Viewer.dict -- data/linux/processed-challenges/CGC_Video_Format_Parser_and_Viewer/bin/CGC_Video_Format_Parser_and_Viewer\n'
+p39
+I0
+tp40
+a(I2400
+S'start_time     : 1500057751\nlast_update    : 1500060156\nfuzzer_pid     : 24226\ncycles_done    : 24\nexecs_done     : 3036772\nexecs_per_sec  : 1238.94\npaths_total    : 19\npaths_favored  : 11\npaths_found    : 18\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 9\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500057908\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/input -o /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/CGC_Video_Format_Parser_and_Viewer.dict -- data/linux/processed-challenges/CGC_Video_Format_Parser_and_Viewer/bin/CGC_Video_Format_Parser_and_Viewer\n'
+p41
+I0
+tp42
+a(I2520
+S'start_time     : 1500057751\nlast_update    : 1500060276\nfuzzer_pid     : 24226\ncycles_done    : 25\nexecs_done     : 3187424\nexecs_per_sec  : 1247.38\npaths_total    : 19\npaths_favored  : 11\npaths_found    : 18\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 12\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500057908\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/input -o /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/CGC_Video_Format_Parser_and_Viewer.dict -- data/linux/processed-challenges/CGC_Video_Format_Parser_and_Viewer/bin/CGC_Video_Format_Parser_and_Viewer\n'
+p43
+I0
+tp44
+a(I2640
+S'start_time     : 1500057751\nlast_update    : 1500060396\nfuzzer_pid     : 24226\ncycles_done    : 27\nexecs_done     : 3338049\nexecs_per_sec  : 1259.89\npaths_total    : 19\npaths_favored  : 11\npaths_found    : 18\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500057908\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/input -o /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/CGC_Video_Format_Parser_and_Viewer.dict -- data/linux/processed-challenges/CGC_Video_Format_Parser_and_Viewer/bin/CGC_Video_Format_Parser_and_Viewer\n'
+p45
+I0
+tp46
+a(I2760
+S'start_time     : 1500057751\nlast_update    : 1500060516\nfuzzer_pid     : 24226\ncycles_done    : 28\nexecs_done     : 3491199\nexecs_per_sec  : 1262.65\npaths_total    : 19\npaths_favored  : 11\npaths_found    : 18\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 9\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500057908\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/input -o /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/CGC_Video_Format_Parser_and_Viewer.dict -- data/linux/processed-challenges/CGC_Video_Format_Parser_and_Viewer/bin/CGC_Video_Format_Parser_and_Viewer\n'
+p47
+I0
+tp48
+a(I2880
+S'start_time     : 1500057751\nlast_update    : 1500060637\nfuzzer_pid     : 24226\ncycles_done    : 29\nexecs_done     : 3643849\nexecs_per_sec  : 1263.18\npaths_total    : 19\npaths_favored  : 11\npaths_found    : 18\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 12\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500057908\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/input -o /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/CGC_Video_Format_Parser_and_Viewer.dict -- data/linux/processed-challenges/CGC_Video_Format_Parser_and_Viewer/bin/CGC_Video_Format_Parser_and_Viewer\n'
+p49
+I0
+tp50
+a(I3000
+S'start_time     : 1500057751\nlast_update    : 1500060757\nfuzzer_pid     : 24226\ncycles_done    : 30\nexecs_done     : 3798474\nexecs_per_sec  : 1278.15\npaths_total    : 19\npaths_favored  : 11\npaths_found    : 18\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 13\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500057908\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/input -o /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/CGC_Video_Format_Parser_and_Viewer.dict -- data/linux/processed-challenges/CGC_Video_Format_Parser_and_Viewer/bin/CGC_Video_Format_Parser_and_Viewer\n'
+p51
+I0
+tp52
+a(I3120
+S'start_time     : 1500057751\nlast_update    : 1500060877\nfuzzer_pid     : 24226\ncycles_done    : 32\nexecs_done     : 3952564\nexecs_per_sec  : 1273.52\npaths_total    : 19\npaths_favored  : 11\npaths_found    : 18\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 1\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500057908\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/input -o /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/CGC_Video_Format_Parser_and_Viewer.dict -- data/linux/processed-challenges/CGC_Video_Format_Parser_and_Viewer/bin/CGC_Video_Format_Parser_and_Viewer\n'
+p53
+I0
+tp54
+a(I3240
+S'start_time     : 1500057751\nlast_update    : 1500060997\nfuzzer_pid     : 24226\ncycles_done    : 33\nexecs_done     : 4107039\nexecs_per_sec  : 1298.85\npaths_total    : 19\npaths_favored  : 11\npaths_found    : 18\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 11\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500057908\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/input -o /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/CGC_Video_Format_Parser_and_Viewer.dict -- data/linux/processed-challenges/CGC_Video_Format_Parser_and_Viewer/bin/CGC_Video_Format_Parser_and_Viewer\n'
+p55
+I0
+tp56
+a(I3360
+S'start_time     : 1500057751\nlast_update    : 1500061117\nfuzzer_pid     : 24226\ncycles_done    : 34\nexecs_done     : 4263100\nexecs_per_sec  : 1246.15\npaths_total    : 19\npaths_favored  : 11\npaths_found    : 18\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 15\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500057908\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/input -o /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/CGC_Video_Format_Parser_and_Viewer.dict -- data/linux/processed-challenges/CGC_Video_Format_Parser_and_Viewer/bin/CGC_Video_Format_Parser_and_Viewer\n'
+p57
+I0
+tp58
+a(I3480
+S'start_time     : 1500057751\nlast_update    : 1500061238\nfuzzer_pid     : 24226\ncycles_done    : 36\nexecs_done     : 4418732\nexecs_per_sec  : 1345.94\npaths_total    : 19\npaths_favored  : 11\npaths_found    : 18\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 8\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500057908\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/input -o /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/CGC_Video_Format_Parser_and_Viewer.dict -- data/linux/processed-challenges/CGC_Video_Format_Parser_and_Viewer/bin/CGC_Video_Format_Parser_and_Viewer\n'
+p59
+I0
+tp60
+a(I3600
+S'start_time     : 1500057751\nlast_update    : 1500061358\nfuzzer_pid     : 24226\ncycles_done    : 37\nexecs_done     : 4571730\nexecs_per_sec  : 1256.03\npaths_total    : 19\npaths_favored  : 11\npaths_found    : 18\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 13\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500057908\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/input -o /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/CGC_Video_Format_Parser_and_Viewer.dict -- data/linux/processed-challenges/CGC_Video_Format_Parser_and_Viewer/bin/CGC_Video_Format_Parser_and_Viewer\n'
+p61
+I0
+tp62
+a(I3720
+S'start_time     : 1500057751\nlast_update    : 1500061478\nfuzzer_pid     : 24226\ncycles_done    : 39\nexecs_done     : 4726538\nexecs_per_sec  : 1310.83\npaths_total    : 19\npaths_favored  : 11\npaths_found    : 18\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500057908\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/input -o /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/CGC_Video_Format_Parser_and_Viewer.dict -- data/linux/processed-challenges/CGC_Video_Format_Parser_and_Viewer/bin/CGC_Video_Format_Parser_and_Viewer\n'
+p63
+I0
+tp64
+a(I3840
+S'start_time     : 1500057751\nlast_update    : 1500061598\nfuzzer_pid     : 24226\ncycles_done    : 40\nexecs_done     : 4881668\nexecs_per_sec  : 1311.69\npaths_total    : 19\npaths_favored  : 11\npaths_found    : 18\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 9\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500057908\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/input -o /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/CGC_Video_Format_Parser_and_Viewer.dict -- data/linux/processed-challenges/CGC_Video_Format_Parser_and_Viewer/bin/CGC_Video_Format_Parser_and_Viewer\n'
+p65
+I0
+tp66
+a(I3960
+S'start_time     : 1500057751\nlast_update    : 1500061718\nfuzzer_pid     : 24226\ncycles_done    : 41\nexecs_done     : 5036134\nexecs_per_sec  : 1302.07\npaths_total    : 19\npaths_favored  : 11\npaths_found    : 18\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 13\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500057908\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/input -o /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/CGC_Video_Format_Parser_and_Viewer.dict -- data/linux/processed-challenges/CGC_Video_Format_Parser_and_Viewer/bin/CGC_Video_Format_Parser_and_Viewer\n'
+p67
+I0
+tp68
+a(I4080
+S'start_time     : 1500057751\nlast_update    : 1500061839\nfuzzer_pid     : 24226\ncycles_done    : 43\nexecs_done     : 5190559\nexecs_per_sec  : 1275.92\npaths_total    : 19\npaths_favored  : 11\npaths_found    : 18\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 4\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500057908\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/input -o /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/CGC_Video_Format_Parser_and_Viewer.dict -- data/linux/processed-challenges/CGC_Video_Format_Parser_and_Viewer/bin/CGC_Video_Format_Parser_and_Viewer\n'
+p69
+I0
+tp70
+a(I4200
+S'start_time     : 1500057751\nlast_update    : 1500061959\nfuzzer_pid     : 24226\ncycles_done    : 44\nexecs_done     : 5347134\nexecs_per_sec  : 1268.56\npaths_total    : 19\npaths_favored  : 11\npaths_found    : 18\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 13\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500057908\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/input -o /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/CGC_Video_Format_Parser_and_Viewer.dict -- data/linux/processed-challenges/CGC_Video_Format_Parser_and_Viewer/bin/CGC_Video_Format_Parser_and_Viewer\n'
+p71
+I0
+tp72
+a(I4320
+S'start_time     : 1500057751\nlast_update    : 1500062079\nfuzzer_pid     : 24226\ncycles_done    : 45\nexecs_done     : 5501707\nexecs_per_sec  : 1248.88\npaths_total    : 19\npaths_favored  : 11\npaths_found    : 18\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 15\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500057908\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/input -o /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/CGC_Video_Format_Parser_and_Viewer.dict -- data/linux/processed-challenges/CGC_Video_Format_Parser_and_Viewer/bin/CGC_Video_Format_Parser_and_Viewer\n'
+p73
+I0
+tp74
+a(I4440
+S'start_time     : 1500057751\nlast_update    : 1500062199\nfuzzer_pid     : 24226\ncycles_done    : 47\nexecs_done     : 5656517\nexecs_per_sec  : 1344.46\npaths_total    : 19\npaths_favored  : 11\npaths_found    : 18\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 8\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500057908\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/input -o /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/CGC_Video_Format_Parser_and_Viewer.dict -- data/linux/processed-challenges/CGC_Video_Format_Parser_and_Viewer/bin/CGC_Video_Format_Parser_and_Viewer\n'
+p75
+I0
+tp76
+a(I4560
+S'start_time     : 1500057751\nlast_update    : 1500062320\nfuzzer_pid     : 24226\ncycles_done    : 48\nexecs_done     : 5809409\nexecs_per_sec  : 1259.71\npaths_total    : 19\npaths_favored  : 11\npaths_found    : 18\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 12\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500057908\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/input -o /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/CGC_Video_Format_Parser_and_Viewer.dict -- data/linux/processed-challenges/CGC_Video_Format_Parser_and_Viewer/bin/CGC_Video_Format_Parser_and_Viewer\n'
+p77
+I0
+tp78
+a(I4680
+S'start_time     : 1500057751\nlast_update    : 1500062440\nfuzzer_pid     : 24226\ncycles_done    : 49\nexecs_done     : 5963284\nexecs_per_sec  : 1271.05\npaths_total    : 19\npaths_favored  : 11\npaths_found    : 18\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 15\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500057908\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/input -o /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/CGC_Video_Format_Parser_and_Viewer.dict -- data/linux/processed-challenges/CGC_Video_Format_Parser_and_Viewer/bin/CGC_Video_Format_Parser_and_Viewer\n'
+p79
+I0
+tp80
+a(I4800
+S'start_time     : 1500057751\nlast_update    : 1500062560\nfuzzer_pid     : 24226\ncycles_done    : 51\nexecs_done     : 6117471\nexecs_per_sec  : 1350.26\npaths_total    : 19\npaths_favored  : 11\npaths_found    : 18\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 4\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500057908\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/input -o /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/CGC_Video_Format_Parser_and_Viewer.dict -- data/linux/processed-challenges/CGC_Video_Format_Parser_and_Viewer/bin/CGC_Video_Format_Parser_and_Viewer\n'
+p81
+I0
+tp82
+a(I4920
+S'start_time     : 1500057751\nlast_update    : 1500062680\nfuzzer_pid     : 24226\ncycles_done    : 52\nexecs_done     : 6273834\nexecs_per_sec  : 1262.25\npaths_total    : 19\npaths_favored  : 11\npaths_found    : 18\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 13\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500057908\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/input -o /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/CGC_Video_Format_Parser_and_Viewer.dict -- data/linux/processed-challenges/CGC_Video_Format_Parser_and_Viewer/bin/CGC_Video_Format_Parser_and_Viewer\n'
+p83
+I0
+tp84
+a(I5040
+S'start_time     : 1500057751\nlast_update    : 1500062801\nfuzzer_pid     : 24226\ncycles_done    : 53\nexecs_done     : 6430444\nexecs_per_sec  : 1305.09\npaths_total    : 19\npaths_favored  : 11\npaths_found    : 18\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 15\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500057908\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/input -o /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/CGC_Video_Format_Parser_and_Viewer.dict -- data/linux/processed-challenges/CGC_Video_Format_Parser_and_Viewer/bin/CGC_Video_Format_Parser_and_Viewer\n'
+p85
+I0
+tp86
+a(I5160
+S'start_time     : 1500057751\nlast_update    : 1500062921\nfuzzer_pid     : 24226\ncycles_done    : 55\nexecs_done     : 6588005\nexecs_per_sec  : 1411.84\npaths_total    : 19\npaths_favored  : 11\npaths_found    : 18\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 8\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500057908\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/input -o /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/CGC_Video_Format_Parser_and_Viewer.dict -- data/linux/processed-challenges/CGC_Video_Format_Parser_and_Viewer/bin/CGC_Video_Format_Parser_and_Viewer\n'
+p87
+I0
+tp88
+a(I5280
+S'start_time     : 1500057751\nlast_update    : 1500063041\nfuzzer_pid     : 24226\ncycles_done    : 56\nexecs_done     : 6746481\nexecs_per_sec  : 1308.94\npaths_total    : 19\npaths_favored  : 11\npaths_found    : 18\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 13\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500057908\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/input -o /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/CGC_Video_Format_Parser_and_Viewer.dict -- data/linux/processed-challenges/CGC_Video_Format_Parser_and_Viewer/bin/CGC_Video_Format_Parser_and_Viewer\n'
+p89
+I0
+tp90
+a(I5400
+S'start_time     : 1500057751\nlast_update    : 1500063161\nfuzzer_pid     : 24226\ncycles_done    : 58\nexecs_done     : 6905866\nexecs_per_sec  : 1317.92\npaths_total    : 19\npaths_favored  : 11\npaths_found    : 18\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 1\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500057908\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/input -o /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/CGC_Video_Format_Parser_and_Viewer.dict -- data/linux/processed-challenges/CGC_Video_Format_Parser_and_Viewer/bin/CGC_Video_Format_Parser_and_Viewer\n'
+p91
+I0
+tp92
+a(I5520
+S'start_time     : 1500057751\nlast_update    : 1500063281\nfuzzer_pid     : 24226\ncycles_done    : 59\nexecs_done     : 7062984\nexecs_per_sec  : 1293.14\npaths_total    : 19\npaths_favored  : 11\npaths_found    : 18\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 12\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500057908\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/input -o /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/CGC_Video_Format_Parser_and_Viewer.dict -- data/linux/processed-challenges/CGC_Video_Format_Parser_and_Viewer/bin/CGC_Video_Format_Parser_and_Viewer\n'
+p93
+I0
+tp94
+a(I5640
+S'start_time     : 1500057751\nlast_update    : 1500063401\nfuzzer_pid     : 24226\ncycles_done    : 60\nexecs_done     : 7218709\nexecs_per_sec  : 1270.21\npaths_total    : 19\npaths_favored  : 11\npaths_found    : 18\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 16\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500057908\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/input -o /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/CGC_Video_Format_Parser_and_Viewer.dict -- data/linux/processed-challenges/CGC_Video_Format_Parser_and_Viewer/bin/CGC_Video_Format_Parser_and_Viewer\n'
+p95
+I0
+tp96
+a(I5760
+S'start_time     : 1500057751\nlast_update    : 1500063522\nfuzzer_pid     : 24226\ncycles_done    : 62\nexecs_done     : 7374503\nexecs_per_sec  : 1365.97\npaths_total    : 19\npaths_favored  : 11\npaths_found    : 18\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 4\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500057908\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/input -o /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/CGC_Video_Format_Parser_and_Viewer.dict -- data/linux/processed-challenges/CGC_Video_Format_Parser_and_Viewer/bin/CGC_Video_Format_Parser_and_Viewer\n'
+p97
+I0
+tp98
+a(I5880
+S'start_time     : 1500057751\nlast_update    : 1500063642\nfuzzer_pid     : 24226\ncycles_done    : 63\nexecs_done     : 7530870\nexecs_per_sec  : 1290.92\npaths_total    : 19\npaths_favored  : 11\npaths_found    : 18\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 12\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500057908\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/input -o /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/CGC_Video_Format_Parser_and_Viewer.dict -- data/linux/processed-challenges/CGC_Video_Format_Parser_and_Viewer/bin/CGC_Video_Format_Parser_and_Viewer\n'
+p99
+I0
+tp100
+a(I6000
+S'start_time     : 1500057751\nlast_update    : 1500063702\nfuzzer_pid     : 24226\ncycles_done    : 64\nexecs_done     : 7609016\nexecs_per_sec  : 1327.17\npaths_total    : 19\npaths_favored  : 11\npaths_found    : 18\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 9\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500057908\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/input -o /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/CGC_Video_Format_Parser_and_Viewer.dict -- data/linux/processed-challenges/CGC_Video_Format_Parser_and_Viewer/bin/CGC_Video_Format_Parser_and_Viewer\n'
+p101
+I0
+tp102
+a(I6120
+S'start_time     : 1500057751\nlast_update    : 1500063822\nfuzzer_pid     : 24226\ncycles_done    : 65\nexecs_done     : 7762199\nexecs_per_sec  : 1272.88\npaths_total    : 19\npaths_favored  : 11\npaths_found    : 18\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 13\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500057908\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/input -o /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/CGC_Video_Format_Parser_and_Viewer.dict -- data/linux/processed-challenges/CGC_Video_Format_Parser_and_Viewer/bin/CGC_Video_Format_Parser_and_Viewer\n'
+p103
+I0
+tp104
+a(I6240
+S'start_time     : 1500057751\nlast_update    : 1500063942\nfuzzer_pid     : 24226\ncycles_done    : 67\nexecs_done     : 7916324\nexecs_per_sec  : 1282.35\npaths_total    : 19\npaths_favored  : 11\npaths_found    : 18\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 4\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500057908\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/input -o /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/CGC_Video_Format_Parser_and_Viewer.dict -- data/linux/processed-challenges/CGC_Video_Format_Parser_and_Viewer/bin/CGC_Video_Format_Parser_and_Viewer\n'
+p105
+I0
+tp106
+a(I6360
+S'start_time     : 1500057751\nlast_update    : 1500064062\nfuzzer_pid     : 24226\ncycles_done    : 68\nexecs_done     : 8070949\nexecs_per_sec  : 1277.17\npaths_total    : 19\npaths_favored  : 11\npaths_found    : 18\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 12\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500057908\nlast_crash     : 0\nlast_hang      : 1500063982\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/input -o /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/CGC_Video_Format_Parser_and_Viewer.dict -- data/linux/processed-challenges/CGC_Video_Format_Parser_and_Viewer/bin/CGC_Video_Format_Parser_and_Viewer\n'
+p107
+I0
+tp108
+a(I6480
+S'start_time     : 1500057751\nlast_update    : 1500064182\nfuzzer_pid     : 24226\ncycles_done    : 69\nexecs_done     : 8226740\nexecs_per_sec  : 1241.87\npaths_total    : 19\npaths_favored  : 11\npaths_found    : 18\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 16\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500057908\nlast_crash     : 0\nlast_hang      : 1500063982\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/input -o /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/CGC_Video_Format_Parser_and_Viewer.dict -- data/linux/processed-challenges/CGC_Video_Format_Parser_and_Viewer/bin/CGC_Video_Format_Parser_and_Viewer\n'
+p109
+I0
+tp110
+a(I6600
+S'start_time     : 1500057751\nlast_update    : 1500064303\nfuzzer_pid     : 24226\ncycles_done    : 71\nexecs_done     : 8382916\nexecs_per_sec  : 1329.35\npaths_total    : 19\npaths_favored  : 11\npaths_found    : 18\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 9\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500057908\nlast_crash     : 0\nlast_hang      : 1500063982\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/input -o /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/CGC_Video_Format_Parser_and_Viewer.dict -- data/linux/processed-challenges/CGC_Video_Format_Parser_and_Viewer/bin/CGC_Video_Format_Parser_and_Viewer\n'
+p111
+I0
+tp112
+a(I6720
+S'start_time     : 1500057751\nlast_update    : 1500064423\nfuzzer_pid     : 24226\ncycles_done    : 72\nexecs_done     : 8539954\nexecs_per_sec  : 1245.81\npaths_total    : 19\npaths_favored  : 11\npaths_found    : 18\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 13\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500057908\nlast_crash     : 0\nlast_hang      : 1500063982\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/input -o /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/CGC_Video_Format_Parser_and_Viewer.dict -- data/linux/processed-challenges/CGC_Video_Format_Parser_and_Viewer/bin/CGC_Video_Format_Parser_and_Viewer\n'
+p113
+I0
+tp114
+a(I6840
+S'start_time     : 1500057751\nlast_update    : 1500064543\nfuzzer_pid     : 24226\ncycles_done    : 74\nexecs_done     : 8695304\nexecs_per_sec  : 1305.19\npaths_total    : 19\npaths_favored  : 11\npaths_found    : 18\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 1\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500057908\nlast_crash     : 0\nlast_hang      : 1500063982\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/input -o /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/CGC_Video_Format_Parser_and_Viewer.dict -- data/linux/processed-challenges/CGC_Video_Format_Parser_and_Viewer/bin/CGC_Video_Format_Parser_and_Viewer\n'
+p115
+I0
+tp116
+a(I6960
+S'start_time     : 1500057751\nlast_update    : 1500064663\nfuzzer_pid     : 24226\ncycles_done    : 75\nexecs_done     : 8853054\nexecs_per_sec  : 1276.20\npaths_total    : 19\npaths_favored  : 11\npaths_found    : 18\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 12\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500057908\nlast_crash     : 0\nlast_hang      : 1500063982\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/input -o /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/CGC_Video_Format_Parser_and_Viewer.dict -- data/linux/processed-challenges/CGC_Video_Format_Parser_and_Viewer/bin/CGC_Video_Format_Parser_and_Viewer\n'
+p117
+I0
+tp118
+a(I7080
+S'start_time     : 1500057751\nlast_update    : 1500064784\nfuzzer_pid     : 24226\ncycles_done    : 77\nexecs_done     : 9010010\nexecs_per_sec  : 1332.43\npaths_total    : 19\npaths_favored  : 11\npaths_found    : 18\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 1\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500057908\nlast_crash     : 0\nlast_hang      : 1500063982\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/input -o /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/CGC_Video_Format_Parser_and_Viewer.dict -- data/linux/processed-challenges/CGC_Video_Format_Parser_and_Viewer/bin/CGC_Video_Format_Parser_and_Viewer\n'
+p119
+I0
+tp120
+a(I7200
+S'start_time     : 1500057751\nlast_update    : 1500064904\nfuzzer_pid     : 24226\ncycles_done    : 78\nexecs_done     : 9167443\nexecs_per_sec  : 1323.46\npaths_total    : 19\npaths_favored  : 11\npaths_found    : 18\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 11\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500057908\nlast_crash     : 0\nlast_hang      : 1500063982\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/input -o /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/CGC_Video_Format_Parser_and_Viewer.dict -- data/linux/processed-challenges/CGC_Video_Format_Parser_and_Viewer/bin/CGC_Video_Format_Parser_and_Viewer\n'
+p121
+I0
+tp122
+a(I7320
+S'start_time     : 1500057751\nlast_update    : 1500065024\nfuzzer_pid     : 24226\ncycles_done    : 79\nexecs_done     : 9324073\nexecs_per_sec  : 1311.30\npaths_total    : 19\npaths_favored  : 11\npaths_found    : 18\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 13\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500057908\nlast_crash     : 0\nlast_hang      : 1500063982\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/input -o /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/CGC_Video_Format_Parser_and_Viewer.dict -- data/linux/processed-challenges/CGC_Video_Format_Parser_and_Viewer/bin/CGC_Video_Format_Parser_and_Viewer\n'
+p123
+I0
+tp124
+a(I7440
+S'start_time     : 1500057751\nlast_update    : 1500065144\nfuzzer_pid     : 24226\ncycles_done    : 81\nexecs_done     : 9481472\nexecs_per_sec  : 1327.86\npaths_total    : 19\npaths_favored  : 11\npaths_found    : 18\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 4\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500057908\nlast_crash     : 0\nlast_hang      : 1500063982\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/input -o /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/CGC_Video_Format_Parser_and_Viewer.dict -- data/linux/processed-challenges/CGC_Video_Format_Parser_and_Viewer/bin/CGC_Video_Format_Parser_and_Viewer\n'
+p125
+I0
+tp126
+a(I7560
+S'start_time     : 1500057751\nlast_update    : 1500065264\nfuzzer_pid     : 24226\ncycles_done    : 82\nexecs_done     : 9637330\nexecs_per_sec  : 1212.78\npaths_total    : 19\npaths_favored  : 11\npaths_found    : 18\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 12\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500057908\nlast_crash     : 0\nlast_hang      : 1500063982\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/input -o /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/CGC_Video_Format_Parser_and_Viewer.dict -- data/linux/processed-challenges/CGC_Video_Format_Parser_and_Viewer/bin/CGC_Video_Format_Parser_and_Viewer\n'
+p127
+I0
+tp128
+a(I7680
+S'start_time     : 1500057751\nlast_update    : 1500065384\nfuzzer_pid     : 24226\ncycles_done    : 83\nexecs_done     : 9789694\nexecs_per_sec  : 1296.45\npaths_total    : 19\npaths_favored  : 11\npaths_found    : 18\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 15\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500057908\nlast_crash     : 0\nlast_hang      : 1500063982\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/input -o /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/CGC_Video_Format_Parser_and_Viewer.dict -- data/linux/processed-challenges/CGC_Video_Format_Parser_and_Viewer/bin/CGC_Video_Format_Parser_and_Viewer\n'
+p129
+I0
+tp130
+a(I7800
+S'start_time     : 1500057751\nlast_update    : 1500065504\nfuzzer_pid     : 24226\ncycles_done    : 85\nexecs_done     : 9945454\nexecs_per_sec  : 1291.65\npaths_total    : 19\npaths_favored  : 11\npaths_found    : 18\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 4\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500057908\nlast_crash     : 0\nlast_hang      : 1500063982\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/input -o /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/CGC_Video_Format_Parser_and_Viewer.dict -- data/linux/processed-challenges/CGC_Video_Format_Parser_and_Viewer/bin/CGC_Video_Format_Parser_and_Viewer\n'
+p131
+I0
+tp132
+a(I7920
+S'start_time     : 1500057751\nlast_update    : 1500065625\nfuzzer_pid     : 24226\ncycles_done    : 86\nexecs_done     : 10099679\nexecs_per_sec  : 1279.31\npaths_total    : 19\npaths_favored  : 11\npaths_found    : 18\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 12\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500057908\nlast_crash     : 0\nlast_hang      : 1500063982\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/input -o /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/CGC_Video_Format_Parser_and_Viewer.dict -- data/linux/processed-challenges/CGC_Video_Format_Parser_and_Viewer/bin/CGC_Video_Format_Parser_and_Viewer\n'
+p133
+I0
+tp134
+a(I8040
+S'start_time     : 1500057751\nlast_update    : 1500065745\nfuzzer_pid     : 24226\ncycles_done    : 88\nexecs_done     : 10255807\nexecs_per_sec  : 1301.25\npaths_total    : 19\npaths_favored  : 11\npaths_found    : 18\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500057908\nlast_crash     : 0\nlast_hang      : 1500063982\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/input -o /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/CGC_Video_Format_Parser_and_Viewer.dict -- data/linux/processed-challenges/CGC_Video_Format_Parser_and_Viewer/bin/CGC_Video_Format_Parser_and_Viewer\n'
+p135
+I0
+tp136
+a(I8160
+S'start_time     : 1500057751\nlast_update    : 1500065865\nfuzzer_pid     : 24226\ncycles_done    : 89\nexecs_done     : 10413698\nexecs_per_sec  : 1360.22\npaths_total    : 19\npaths_favored  : 11\npaths_found    : 18\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 8\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500057908\nlast_crash     : 0\nlast_hang      : 1500063982\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/input -o /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/CGC_Video_Format_Parser_and_Viewer.dict -- data/linux/processed-challenges/CGC_Video_Format_Parser_and_Viewer/bin/CGC_Video_Format_Parser_and_Viewer\n'
+p137
+I0
+tp138
+a(I8280
+S'start_time     : 1500057751\nlast_update    : 1500065985\nfuzzer_pid     : 24226\ncycles_done    : 90\nexecs_done     : 10569043\nexecs_per_sec  : 1285.20\npaths_total    : 19\npaths_favored  : 11\npaths_found    : 18\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 11\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500057908\nlast_crash     : 0\nlast_hang      : 1500063982\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/input -o /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/CGC_Video_Format_Parser_and_Viewer.dict -- data/linux/processed-challenges/CGC_Video_Format_Parser_and_Viewer/bin/CGC_Video_Format_Parser_and_Viewer\n'
+p139
+I0
+tp140
+a(I8400
+S'start_time     : 1500057751\nlast_update    : 1500066106\nfuzzer_pid     : 24226\ncycles_done    : 91\nexecs_done     : 10724244\nexecs_per_sec  : 1293.42\npaths_total    : 19\npaths_favored  : 11\npaths_found    : 18\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 15\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500057908\nlast_crash     : 0\nlast_hang      : 1500063982\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/input -o /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/CGC_Video_Format_Parser_and_Viewer.dict -- data/linux/processed-challenges/CGC_Video_Format_Parser_and_Viewer/bin/CGC_Video_Format_Parser_and_Viewer\n'
+p141
+I0
+tp142
+a(I8520
+S'start_time     : 1500057751\nlast_update    : 1500066226\nfuzzer_pid     : 24226\ncycles_done    : 93\nexecs_done     : 10881221\nexecs_per_sec  : 1315.27\npaths_total    : 19\npaths_favored  : 11\npaths_found    : 18\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 1\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500057908\nlast_crash     : 0\nlast_hang      : 1500063982\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/input -o /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/CGC_Video_Format_Parser_and_Viewer.dict -- data/linux/processed-challenges/CGC_Video_Format_Parser_and_Viewer/bin/CGC_Video_Format_Parser_and_Viewer\n'
+p143
+I0
+tp144
+a(I8640
+S'start_time     : 1500057751\nlast_update    : 1500066346\nfuzzer_pid     : 24226\ncycles_done    : 94\nexecs_done     : 11038648\nexecs_per_sec  : 1294.99\npaths_total    : 19\npaths_favored  : 11\npaths_found    : 18\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 12\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500057908\nlast_crash     : 0\nlast_hang      : 1500063982\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/input -o /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/CGC_Video_Format_Parser_and_Viewer.dict -- data/linux/processed-challenges/CGC_Video_Format_Parser_and_Viewer/bin/CGC_Video_Format_Parser_and_Viewer\n'
+p145
+I0
+tp146
+a(I8760
+S'start_time     : 1500057751\nlast_update    : 1500066466\nfuzzer_pid     : 24226\ncycles_done    : 95\nexecs_done     : 11193569\nexecs_per_sec  : 1288.92\npaths_total    : 19\npaths_favored  : 11\npaths_found    : 18\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 13\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500057908\nlast_crash     : 0\nlast_hang      : 1500063982\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/input -o /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/CGC_Video_Format_Parser_and_Viewer.dict -- data/linux/processed-challenges/CGC_Video_Format_Parser_and_Viewer/bin/CGC_Video_Format_Parser_and_Viewer\n'
+p147
+I0
+tp148
+a(I8880
+S'start_time     : 1500057751\nlast_update    : 1500066587\nfuzzer_pid     : 24226\ncycles_done    : 97\nexecs_done     : 11350884\nexecs_per_sec  : 1352.05\npaths_total    : 19\npaths_favored  : 11\npaths_found    : 18\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 4\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500057908\nlast_crash     : 0\nlast_hang      : 1500063982\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/input -o /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/CGC_Video_Format_Parser_and_Viewer.dict -- data/linux/processed-challenges/CGC_Video_Format_Parser_and_Viewer/bin/CGC_Video_Format_Parser_and_Viewer\n'
+p149
+I0
+tp150
+a(I9000
+S'start_time     : 1500057751\nlast_update    : 1500066707\nfuzzer_pid     : 24226\ncycles_done    : 98\nexecs_done     : 11504644\nexecs_per_sec  : 1288.83\npaths_total    : 19\npaths_favored  : 11\npaths_found    : 18\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 11\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500057908\nlast_crash     : 0\nlast_hang      : 1500066631\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/input -o /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/CGC_Video_Format_Parser_and_Viewer.dict -- data/linux/processed-challenges/CGC_Video_Format_Parser_and_Viewer/bin/CGC_Video_Format_Parser_and_Viewer\n'
+p151
+I0
+tp152
+a(I9120
+S'start_time     : 1500057751\nlast_update    : 1500066827\nfuzzer_pid     : 24226\ncycles_done    : 99\nexecs_done     : 11659096\nexecs_per_sec  : 1315.10\npaths_total    : 19\npaths_favored  : 11\npaths_found    : 18\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 15\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500057908\nlast_crash     : 0\nlast_hang      : 1500066631\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/input -o /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/CGC_Video_Format_Parser_and_Viewer.dict -- data/linux/processed-challenges/CGC_Video_Format_Parser_and_Viewer/bin/CGC_Video_Format_Parser_and_Viewer\n'
+p153
+I0
+tp154
+a(I9240
+S'start_time     : 1500057751\nlast_update    : 1500066947\nfuzzer_pid     : 24226\ncycles_done    : 101\nexecs_done     : 11812528\nexecs_per_sec  : 1320.89\npaths_total    : 19\npaths_favored  : 11\npaths_found    : 18\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 3\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500057908\nlast_crash     : 0\nlast_hang      : 1500066631\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/input -o /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/CGC_Video_Format_Parser_and_Viewer.dict -- data/linux/processed-challenges/CGC_Video_Format_Parser_and_Viewer/bin/CGC_Video_Format_Parser_and_Viewer\n'
+p155
+I0
+tp156
+a(I9360
+S'start_time     : 1500057751\nlast_update    : 1500067067\nfuzzer_pid     : 24226\ncycles_done    : 102\nexecs_done     : 11969019\nexecs_per_sec  : 1260.16\npaths_total    : 19\npaths_favored  : 11\npaths_found    : 18\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 12\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500057908\nlast_crash     : 0\nlast_hang      : 1500066631\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/input -o /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/CGC_Video_Format_Parser_and_Viewer.dict -- data/linux/processed-challenges/CGC_Video_Format_Parser_and_Viewer/bin/CGC_Video_Format_Parser_and_Viewer\n'
+p157
+I0
+tp158
+a(I9480
+S'start_time     : 1500057751\nlast_update    : 1500067188\nfuzzer_pid     : 24226\ncycles_done    : 103\nexecs_done     : 12121844\nexecs_per_sec  : 1262.45\npaths_total    : 19\npaths_favored  : 11\npaths_found    : 18\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 13\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500057908\nlast_crash     : 0\nlast_hang      : 1500066631\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/input -o /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/CGC_Video_Format_Parser_and_Viewer.dict -- data/linux/processed-challenges/CGC_Video_Format_Parser_and_Viewer/bin/CGC_Video_Format_Parser_and_Viewer\n'
+p159
+I0
+tp160
+a(I9600
+S'start_time     : 1500057751\nlast_update    : 1500067308\nfuzzer_pid     : 24226\ncycles_done    : 105\nexecs_done     : 12277214\nexecs_per_sec  : 1356.32\npaths_total    : 19\npaths_favored  : 11\npaths_found    : 18\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 5\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500057908\nlast_crash     : 0\nlast_hang      : 1500066631\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/input -o /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/CGC_Video_Format_Parser_and_Viewer.dict -- data/linux/processed-challenges/CGC_Video_Format_Parser_and_Viewer/bin/CGC_Video_Format_Parser_and_Viewer\n'
+p161
+I0
+tp162
+a(I9720
+S'start_time     : 1500057751\nlast_update    : 1500067428\nfuzzer_pid     : 24226\ncycles_done    : 106\nexecs_done     : 12434044\nexecs_per_sec  : 1293.88\npaths_total    : 19\npaths_favored  : 11\npaths_found    : 18\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 12\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500057908\nlast_crash     : 0\nlast_hang      : 1500066631\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/input -o /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/CGC_Video_Format_Parser_and_Viewer.dict -- data/linux/processed-challenges/CGC_Video_Format_Parser_and_Viewer/bin/CGC_Video_Format_Parser_and_Viewer\n'
+p163
+I0
+tp164
+a(I9840
+S'start_time     : 1500057751\nlast_update    : 1500067548\nfuzzer_pid     : 24226\ncycles_done    : 108\nexecs_done     : 12588554\nexecs_per_sec  : 1333.44\npaths_total    : 19\npaths_favored  : 11\npaths_found    : 18\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500057908\nlast_crash     : 0\nlast_hang      : 1500066631\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/input -o /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/CGC_Video_Format_Parser_and_Viewer.dict -- data/linux/processed-challenges/CGC_Video_Format_Parser_and_Viewer/bin/CGC_Video_Format_Parser_and_Viewer\n'
+p165
+I0
+tp166
+a(I9960
+S'start_time     : 1500057751\nlast_update    : 1500067668\nfuzzer_pid     : 24226\ncycles_done    : 109\nexecs_done     : 12749783\nexecs_per_sec  : 1381.80\npaths_total    : 19\npaths_favored  : 11\npaths_found    : 18\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 8\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500057908\nlast_crash     : 0\nlast_hang      : 1500066631\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/input -o /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/CGC_Video_Format_Parser_and_Viewer.dict -- data/linux/processed-challenges/CGC_Video_Format_Parser_and_Viewer/bin/CGC_Video_Format_Parser_and_Viewer\n'
+p167
+I0
+tp168
+a(I10080
+S'start_time     : 1500057751\nlast_update    : 1500067788\nfuzzer_pid     : 24226\ncycles_done    : 110\nexecs_done     : 12909494\nexecs_per_sec  : 1296.74\npaths_total    : 19\npaths_favored  : 11\npaths_found    : 18\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 11\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500057908\nlast_crash     : 0\nlast_hang      : 1500066631\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/input -o /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/CGC_Video_Format_Parser_and_Viewer.dict -- data/linux/processed-challenges/CGC_Video_Format_Parser_and_Viewer/bin/CGC_Video_Format_Parser_and_Viewer\n'
+p169
+I0
+tp170
+a(I10200
+S'start_time     : 1500057751\nlast_update    : 1500067909\nfuzzer_pid     : 24226\ncycles_done    : 111\nexecs_done     : 13066044\nexecs_per_sec  : 1294.02\npaths_total    : 19\npaths_favored  : 11\npaths_found    : 18\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 13\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500057908\nlast_crash     : 0\nlast_hang      : 1500066631\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/input -o /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/CGC_Video_Format_Parser_and_Viewer.dict -- data/linux/processed-challenges/CGC_Video_Format_Parser_and_Viewer/bin/CGC_Video_Format_Parser_and_Viewer\n'
+p171
+I0
+tp172
+a(I10320
+S'start_time     : 1500057751\nlast_update    : 1500068029\nfuzzer_pid     : 24226\ncycles_done    : 113\nexecs_done     : 13222673\nexecs_per_sec  : 1320.14\npaths_total    : 19\npaths_favored  : 11\npaths_found    : 18\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 3\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500057908\nlast_crash     : 0\nlast_hang      : 1500066631\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/input -o /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/CGC_Video_Format_Parser_and_Viewer.dict -- data/linux/processed-challenges/CGC_Video_Format_Parser_and_Viewer/bin/CGC_Video_Format_Parser_and_Viewer\n'
+p173
+I0
+tp174
+a(I10440
+S'start_time     : 1500057751\nlast_update    : 1500068149\nfuzzer_pid     : 24226\ncycles_done    : 114\nexecs_done     : 13379869\nexecs_per_sec  : 1286.71\npaths_total    : 19\npaths_favored  : 11\npaths_found    : 18\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 12\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500057908\nlast_crash     : 0\nlast_hang      : 1500066631\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/input -o /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/CGC_Video_Format_Parser_and_Viewer.dict -- data/linux/processed-challenges/CGC_Video_Format_Parser_and_Viewer/bin/CGC_Video_Format_Parser_and_Viewer\n'
+p175
+I0
+tp176
+a(I10560
+S'start_time     : 1500057751\nlast_update    : 1500068269\nfuzzer_pid     : 24226\ncycles_done    : 116\nexecs_done     : 13536233\nexecs_per_sec  : 1299.73\npaths_total    : 19\npaths_favored  : 11\npaths_found    : 18\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500057908\nlast_crash     : 0\nlast_hang      : 1500066631\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/input -o /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/CGC_Video_Format_Parser_and_Viewer.dict -- data/linux/processed-challenges/CGC_Video_Format_Parser_and_Viewer/bin/CGC_Video_Format_Parser_and_Viewer\n'
+p177
+I0
+tp178
+a(I10680
+S'start_time     : 1500057751\nlast_update    : 1500068389\nfuzzer_pid     : 24226\ncycles_done    : 117\nexecs_done     : 13694427\nexecs_per_sec  : 1322.83\npaths_total    : 19\npaths_favored  : 11\npaths_found    : 18\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 11\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500057908\nlast_crash     : 0\nlast_hang      : 1500066631\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/input -o /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CGC_Video_Format_Parser_and_Viewer/CGC_Video_Format_Parser_and_Viewer.dict -- data/linux/processed-challenges/CGC_Video_Format_Parser_and_Viewer/bin/CGC_Video_Format_Parser_and_Viewer\n'
+p179
+I0
+tp180
+a.

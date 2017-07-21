@@ -1,0 +1,452 @@
+(lp0
+(I0
+S'start_time     : 1499895459\nlast_update    : 1499895459\nfuzzer_pid     : 25116\ncycles_done    : 0\nexecs_done     : 10\nexecs_per_sec  : 232.56\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 1\npending_total  : 1\nvariable_paths : 0\nbitmap_cvg     : 0.05%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FISHYXML/input -o /dev/shm/work/FISHYXML/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FISHYXML/FISHYXML.dict -- data/linux/processed-challenges/FISHYXML/bin/FISHYXML\n'
+p1
+I11
+tp2
+a(I120
+S'start_time     : 1499895459\nlast_update    : 1499895579\nfuzzer_pid     : 25116\ncycles_done    : 0\nexecs_done     : 194624\nexecs_per_sec  : 1172.24\npaths_total    : 11\npaths_favored  : 3\npaths_found    : 10\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 10\npending_favs   : 1\npending_total  : 8\nvariable_paths : 0\nbitmap_cvg     : 0.13%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499895461\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FISHYXML/input -o /dev/shm/work/FISHYXML/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FISHYXML/FISHYXML.dict -- data/linux/processed-challenges/FISHYXML/bin/FISHYXML\n'
+p3
+I0
+tp4
+a(I240
+S'start_time     : 1499895459\nlast_update    : 1499895699\nfuzzer_pid     : 25116\ncycles_done    : 2\nexecs_done     : 379762\nexecs_per_sec  : 1514.30\npaths_total    : 14\npaths_favored  : 5\npaths_found    : 13\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 12\npending_favs   : 1\npending_total  : 5\nvariable_paths : 0\nbitmap_cvg     : 0.14%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499895682\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FISHYXML/input -o /dev/shm/work/FISHYXML/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FISHYXML/FISHYXML.dict -- data/linux/processed-challenges/FISHYXML/bin/FISHYXML\n'
+p5
+I3
+tp6
+a(I360
+S'start_time     : 1499895459\nlast_update    : 1499895819\nfuzzer_pid     : 25116\ncycles_done    : 2\nexecs_done     : 563914\nexecs_per_sec  : 1488.58\npaths_total    : 20\npaths_favored  : 8\npaths_found    : 19\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 14\npending_favs   : 2\npending_total  : 9\nvariable_paths : 0\nbitmap_cvg     : 0.26%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499895789\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FISHYXML/input -o /dev/shm/work/FISHYXML/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FISHYXML/FISHYXML.dict -- data/linux/processed-challenges/FISHYXML/bin/FISHYXML\n'
+p7
+I6
+tp8
+a(I480
+S'start_time     : 1499895459\nlast_update    : 1499895939\nfuzzer_pid     : 25116\ncycles_done    : 2\nexecs_done     : 747279\nexecs_per_sec  : 1498.08\npaths_total    : 21\npaths_favored  : 10\npaths_found    : 20\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 16\npending_favs   : 3\npending_total  : 8\nvariable_paths : 0\nbitmap_cvg     : 0.26%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499895930\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FISHYXML/input -o /dev/shm/work/FISHYXML/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FISHYXML/FISHYXML.dict -- data/linux/processed-challenges/FISHYXML/bin/FISHYXML\n'
+p9
+I1
+tp10
+a(I600
+S'start_time     : 1499895459\nlast_update    : 1499896059\nfuzzer_pid     : 25116\ncycles_done    : 2\nexecs_done     : 927642\nexecs_per_sec  : 1429.75\npaths_total    : 21\npaths_favored  : 11\npaths_found    : 20\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 19\npending_favs   : 2\npending_total  : 6\nvariable_paths : 0\nbitmap_cvg     : 0.26%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499895930\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FISHYXML/input -o /dev/shm/work/FISHYXML/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FISHYXML/FISHYXML.dict -- data/linux/processed-challenges/FISHYXML/bin/FISHYXML\n'
+p11
+I0
+tp12
+a(I720
+S'start_time     : 1499895459\nlast_update    : 1499896180\nfuzzer_pid     : 25116\ncycles_done    : 2\nexecs_done     : 1108950\nexecs_per_sec  : 1524.10\npaths_total    : 24\npaths_favored  : 11\npaths_found    : 23\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 20\npending_favs   : 1\npending_total  : 8\nvariable_paths : 0\nbitmap_cvg     : 0.63%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499896121\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FISHYXML/input -o /dev/shm/work/FISHYXML/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FISHYXML/FISHYXML.dict -- data/linux/processed-challenges/FISHYXML/bin/FISHYXML\n'
+p13
+I3
+tp14
+a(I840
+S'start_time     : 1499895459\nlast_update    : 1499896300\nfuzzer_pid     : 25116\ncycles_done    : 2\nexecs_done     : 1281802\nexecs_per_sec  : 1419.97\npaths_total    : 30\npaths_favored  : 16\npaths_found    : 29\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 21\npending_favs   : 6\npending_total  : 13\nvariable_paths : 0\nbitmap_cvg     : 0.65%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499896214\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FISHYXML/input -o /dev/shm/work/FISHYXML/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FISHYXML/FISHYXML.dict -- data/linux/processed-challenges/FISHYXML/bin/FISHYXML\n'
+p15
+I6
+tp16
+a(I960
+S'start_time     : 1499895459\nlast_update    : 1499896420\nfuzzer_pid     : 25116\ncycles_done    : 2\nexecs_done     : 1436916\nexecs_per_sec  : 1500.07\npaths_total    : 31\npaths_favored  : 16\npaths_found    : 30\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 22\npending_favs   : 5\npending_total  : 13\nvariable_paths : 0\nbitmap_cvg     : 0.66%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499896363\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FISHYXML/input -o /dev/shm/work/FISHYXML/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FISHYXML/FISHYXML.dict -- data/linux/processed-challenges/FISHYXML/bin/FISHYXML\n'
+p17
+I1
+tp18
+a(I1080
+S'start_time     : 1499895459\nlast_update    : 1499896540\nfuzzer_pid     : 25116\ncycles_done    : 2\nexecs_done     : 1602366\nexecs_per_sec  : 1462.48\npaths_total    : 31\npaths_favored  : 17\npaths_found    : 30\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 24\npending_favs   : 5\npending_total  : 12\nvariable_paths : 0\nbitmap_cvg     : 0.66%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499896363\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FISHYXML/input -o /dev/shm/work/FISHYXML/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FISHYXML/FISHYXML.dict -- data/linux/processed-challenges/FISHYXML/bin/FISHYXML\n'
+p19
+I0
+tp20
+a(I1200
+S'start_time     : 1499895459\nlast_update    : 1499896661\nfuzzer_pid     : 25116\ncycles_done    : 2\nexecs_done     : 1757436\nexecs_per_sec  : 1591.55\npaths_total    : 31\npaths_favored  : 17\npaths_found    : 30\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 26\npending_favs   : 4\npending_total  : 11\nvariable_paths : 0\nbitmap_cvg     : 0.66%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499896363\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FISHYXML/input -o /dev/shm/work/FISHYXML/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FISHYXML/FISHYXML.dict -- data/linux/processed-challenges/FISHYXML/bin/FISHYXML\n'
+p21
+I0
+tp22
+a(I1320
+S'start_time     : 1499895459\nlast_update    : 1499896781\nfuzzer_pid     : 25116\ncycles_done    : 2\nexecs_done     : 1915992\nexecs_per_sec  : 1534.68\npaths_total    : 31\npaths_favored  : 17\npaths_found    : 30\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 28\npending_favs   : 3\npending_total  : 10\nvariable_paths : 0\nbitmap_cvg     : 0.66%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499896363\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FISHYXML/input -o /dev/shm/work/FISHYXML/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FISHYXML/FISHYXML.dict -- data/linux/processed-challenges/FISHYXML/bin/FISHYXML\n'
+p23
+I0
+tp24
+a(I1440
+S'start_time     : 1499895459\nlast_update    : 1499896901\nfuzzer_pid     : 25116\ncycles_done    : 2\nexecs_done     : 2071883\nexecs_per_sec  : 1136.70\npaths_total    : 32\npaths_favored  : 17\npaths_found    : 31\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 30\npending_favs   : 1\npending_total  : 9\nvariable_paths : 0\nbitmap_cvg     : 0.66%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499896891\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FISHYXML/input -o /dev/shm/work/FISHYXML/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FISHYXML/FISHYXML.dict -- data/linux/processed-challenges/FISHYXML/bin/FISHYXML\n'
+p25
+I1
+tp26
+a(I1560
+S'start_time     : 1499895459\nlast_update    : 1499897021\nfuzzer_pid     : 25116\ncycles_done    : 2\nexecs_done     : 2229496\nexecs_per_sec  : 1435.32\npaths_total    : 33\npaths_favored  : 18\npaths_found    : 32\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 31\npending_favs   : 1\npending_total  : 9\nvariable_paths : 0\nbitmap_cvg     : 0.68%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499896971\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FISHYXML/input -o /dev/shm/work/FISHYXML/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FISHYXML/FISHYXML.dict -- data/linux/processed-challenges/FISHYXML/bin/FISHYXML\n'
+p27
+I1
+tp28
+a(I1680
+S'start_time     : 1499895459\nlast_update    : 1499897142\nfuzzer_pid     : 25116\ncycles_done    : 2\nexecs_done     : 2382193\nexecs_per_sec  : 1244.52\npaths_total    : 34\npaths_favored  : 18\npaths_found    : 33\npaths_imported : 0\nmax_depth      : 12\ncur_path       : 32\npending_favs   : 1\npending_total  : 9\nvariable_paths : 0\nbitmap_cvg     : 0.68%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499897053\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FISHYXML/input -o /dev/shm/work/FISHYXML/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FISHYXML/FISHYXML.dict -- data/linux/processed-challenges/FISHYXML/bin/FISHYXML\n'
+p29
+I1
+tp30
+a(I1800
+S'start_time     : 1499895459\nlast_update    : 1499897262\nfuzzer_pid     : 25116\ncycles_done    : 2\nexecs_done     : 2533892\nexecs_per_sec  : 1245.57\npaths_total    : 35\npaths_favored  : 19\npaths_found    : 34\npaths_imported : 0\nmax_depth      : 13\ncur_path       : 33\npending_favs   : 1\npending_total  : 9\nvariable_paths : 0\nbitmap_cvg     : 0.76%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499897204\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FISHYXML/input -o /dev/shm/work/FISHYXML/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FISHYXML/FISHYXML.dict -- data/linux/processed-challenges/FISHYXML/bin/FISHYXML\n'
+p31
+I1
+tp32
+a(I1920
+S'start_time     : 1499895459\nlast_update    : 1499897382\nfuzzer_pid     : 25116\ncycles_done    : 2\nexecs_done     : 2683404\nexecs_per_sec  : 1216.41\npaths_total    : 45\npaths_favored  : 19\npaths_found    : 44\npaths_imported : 0\nmax_depth      : 14\ncur_path       : 34\npending_favs   : 1\npending_total  : 18\nvariable_paths : 0\nbitmap_cvg     : 0.97%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499897365\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FISHYXML/input -o /dev/shm/work/FISHYXML/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FISHYXML/FISHYXML.dict -- data/linux/processed-challenges/FISHYXML/bin/FISHYXML\n'
+p33
+I10
+tp34
+a(I2040
+S'start_time     : 1499895459\nlast_update    : 1499897502\nfuzzer_pid     : 25116\ncycles_done    : 2\nexecs_done     : 2840835\nexecs_per_sec  : 1151.82\npaths_total    : 45\npaths_favored  : 19\npaths_found    : 44\npaths_imported : 0\nmax_depth      : 14\ncur_path       : 34\npending_favs   : 1\npending_total  : 18\nvariable_paths : 0\nbitmap_cvg     : 0.97%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499897365\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FISHYXML/input -o /dev/shm/work/FISHYXML/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FISHYXML/FISHYXML.dict -- data/linux/processed-challenges/FISHYXML/bin/FISHYXML\n'
+p35
+I1
+tp36
+a(I2160
+S'start_time     : 1499895459\nlast_update    : 1499897623\nfuzzer_pid     : 25116\ncycles_done    : 2\nexecs_done     : 2980877\nexecs_per_sec  : 1156.38\npaths_total    : 48\npaths_favored  : 24\npaths_found    : 47\npaths_imported : 0\nmax_depth      : 15\ncur_path       : 36\npending_favs   : 7\npending_total  : 20\nvariable_paths : 0\nbitmap_cvg     : 0.98%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499897548\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FISHYXML/input -o /dev/shm/work/FISHYXML/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FISHYXML/FISHYXML.dict -- data/linux/processed-challenges/FISHYXML/bin/FISHYXML\n'
+p37
+I2
+tp38
+a(I2280
+S'start_time     : 1499895459\nlast_update    : 1499897743\nfuzzer_pid     : 25116\ncycles_done    : 2\nexecs_done     : 3130124\nexecs_per_sec  : 1237.43\npaths_total    : 50\npaths_favored  : 24\npaths_found    : 49\npaths_imported : 0\nmax_depth      : 15\ncur_path       : 38\npending_favs   : 7\npending_total  : 21\nvariable_paths : 0\nbitmap_cvg     : 0.98%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499897710\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FISHYXML/input -o /dev/shm/work/FISHYXML/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FISHYXML/FISHYXML.dict -- data/linux/processed-challenges/FISHYXML/bin/FISHYXML\n'
+p39
+I2
+tp40
+a(I2400
+S'start_time     : 1499895459\nlast_update    : 1499897863\nfuzzer_pid     : 25116\ncycles_done    : 2\nexecs_done     : 3279026\nexecs_per_sec  : 1135.71\npaths_total    : 50\npaths_favored  : 24\npaths_found    : 49\npaths_imported : 0\nmax_depth      : 15\ncur_path       : 38\npending_favs   : 7\npending_total  : 21\nvariable_paths : 0\nbitmap_cvg     : 0.98%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499897710\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FISHYXML/input -o /dev/shm/work/FISHYXML/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FISHYXML/FISHYXML.dict -- data/linux/processed-challenges/FISHYXML/bin/FISHYXML\n'
+p41
+I0
+tp42
+a(I2520
+S'start_time     : 1499895459\nlast_update    : 1499897983\nfuzzer_pid     : 25116\ncycles_done    : 2\nexecs_done     : 3420457\nexecs_per_sec  : 1132.33\npaths_total    : 50\npaths_favored  : 24\npaths_found    : 49\npaths_imported : 0\nmax_depth      : 15\ncur_path       : 39\npending_favs   : 6\npending_total  : 20\nvariable_paths : 0\nbitmap_cvg     : 0.98%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499897710\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FISHYXML/input -o /dev/shm/work/FISHYXML/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FISHYXML/FISHYXML.dict -- data/linux/processed-challenges/FISHYXML/bin/FISHYXML\n'
+p43
+I0
+tp44
+a(I2640
+S'start_time     : 1499895459\nlast_update    : 1499898103\nfuzzer_pid     : 25116\ncycles_done    : 2\nexecs_done     : 3561720\nexecs_per_sec  : 1202.39\npaths_total    : 51\npaths_favored  : 24\npaths_found    : 50\npaths_imported : 0\nmax_depth      : 15\ncur_path       : 42\npending_favs   : 5\npending_total  : 20\nvariable_paths : 0\nbitmap_cvg     : 0.99%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499898045\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FISHYXML/input -o /dev/shm/work/FISHYXML/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FISHYXML/FISHYXML.dict -- data/linux/processed-challenges/FISHYXML/bin/FISHYXML\n'
+p45
+I1
+tp46
+a(I2760
+S'start_time     : 1499895459\nlast_update    : 1499898224\nfuzzer_pid     : 25116\ncycles_done    : 2\nexecs_done     : 3712055\nexecs_per_sec  : 1152.41\npaths_total    : 53\npaths_favored  : 25\npaths_found    : 52\npaths_imported : 0\nmax_depth      : 16\ncur_path       : 46\npending_favs   : 5\npending_total  : 21\nvariable_paths : 0\nbitmap_cvg     : 1.00%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499898216\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FISHYXML/input -o /dev/shm/work/FISHYXML/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FISHYXML/FISHYXML.dict -- data/linux/processed-challenges/FISHYXML/bin/FISHYXML\n'
+p47
+I2
+tp48
+a(I2880
+S'start_time     : 1499895459\nlast_update    : 1499898344\nfuzzer_pid     : 25116\ncycles_done    : 2\nexecs_done     : 3848630\nexecs_per_sec  : 1306.94\npaths_total    : 53\npaths_favored  : 25\npaths_found    : 52\npaths_imported : 0\nmax_depth      : 16\ncur_path       : 46\npending_favs   : 5\npending_total  : 21\nvariable_paths : 0\nbitmap_cvg     : 1.00%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499898216\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FISHYXML/input -o /dev/shm/work/FISHYXML/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FISHYXML/FISHYXML.dict -- data/linux/processed-challenges/FISHYXML/bin/FISHYXML\n'
+p49
+I0
+tp50
+a(I3000
+S'start_time     : 1499895459\nlast_update    : 1499898464\nfuzzer_pid     : 25116\ncycles_done    : 2\nexecs_done     : 3991981\nexecs_per_sec  : 1090.35\npaths_total    : 55\npaths_favored  : 26\npaths_found    : 54\npaths_imported : 0\nmax_depth      : 16\ncur_path       : 47\npending_favs   : 7\npending_total  : 22\nvariable_paths : 0\nbitmap_cvg     : 1.14%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499898400\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FISHYXML/input -o /dev/shm/work/FISHYXML/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FISHYXML/FISHYXML.dict -- data/linux/processed-challenges/FISHYXML/bin/FISHYXML\n'
+p51
+I2
+tp52
+a(I3120
+S'start_time     : 1499895459\nlast_update    : 1499898584\nfuzzer_pid     : 25116\ncycles_done    : 2\nexecs_done     : 4131770\nexecs_per_sec  : 1225.30\npaths_total    : 55\npaths_favored  : 26\npaths_found    : 54\npaths_imported : 0\nmax_depth      : 16\ncur_path       : 48\npending_favs   : 6\npending_total  : 21\nvariable_paths : 0\nbitmap_cvg     : 1.14%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499898400\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FISHYXML/input -o /dev/shm/work/FISHYXML/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FISHYXML/FISHYXML.dict -- data/linux/processed-challenges/FISHYXML/bin/FISHYXML\n'
+p53
+I0
+tp54
+a(I3240
+S'start_time     : 1499895459\nlast_update    : 1499898705\nfuzzer_pid     : 25116\ncycles_done    : 2\nexecs_done     : 4282472\nexecs_per_sec  : 1359.61\npaths_total    : 55\npaths_favored  : 26\npaths_found    : 54\npaths_imported : 0\nmax_depth      : 16\ncur_path       : 48\npending_favs   : 6\npending_total  : 21\nvariable_paths : 0\nbitmap_cvg     : 1.14%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499898400\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FISHYXML/input -o /dev/shm/work/FISHYXML/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FISHYXML/FISHYXML.dict -- data/linux/processed-challenges/FISHYXML/bin/FISHYXML\n'
+p55
+I0
+tp56
+a(I3360
+S'start_time     : 1499895459\nlast_update    : 1499898825\nfuzzer_pid     : 25116\ncycles_done    : 2\nexecs_done     : 4422359\nexecs_per_sec  : 1123.55\npaths_total    : 55\npaths_favored  : 26\npaths_found    : 54\npaths_imported : 0\nmax_depth      : 16\ncur_path       : 49\npending_favs   : 5\npending_total  : 20\nvariable_paths : 0\nbitmap_cvg     : 1.14%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499898400\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FISHYXML/input -o /dev/shm/work/FISHYXML/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FISHYXML/FISHYXML.dict -- data/linux/processed-challenges/FISHYXML/bin/FISHYXML\n'
+p57
+I0
+tp58
+a(I3480
+S'start_time     : 1499895459\nlast_update    : 1499898945\nfuzzer_pid     : 25116\ncycles_done    : 2\nexecs_done     : 4566169\nexecs_per_sec  : 1166.99\npaths_total    : 55\npaths_favored  : 26\npaths_found    : 54\npaths_imported : 0\nmax_depth      : 16\ncur_path       : 50\npending_favs   : 4\npending_total  : 19\nvariable_paths : 0\nbitmap_cvg     : 1.14%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499898400\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FISHYXML/input -o /dev/shm/work/FISHYXML/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FISHYXML/FISHYXML.dict -- data/linux/processed-challenges/FISHYXML/bin/FISHYXML\n'
+p59
+I0
+tp60
+a(I3600
+S'start_time     : 1499895459\nlast_update    : 1499899066\nfuzzer_pid     : 25116\ncycles_done    : 2\nexecs_done     : 4717327\nexecs_per_sec  : 1352.67\npaths_total    : 55\npaths_favored  : 26\npaths_found    : 54\npaths_imported : 0\nmax_depth      : 16\ncur_path       : 50\npending_favs   : 4\npending_total  : 19\nvariable_paths : 0\nbitmap_cvg     : 1.14%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499898400\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FISHYXML/input -o /dev/shm/work/FISHYXML/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FISHYXML/FISHYXML.dict -- data/linux/processed-challenges/FISHYXML/bin/FISHYXML\n'
+p61
+I0
+tp62
+a(I3720
+S'start_time     : 1499895459\nlast_update    : 1499899186\nfuzzer_pid     : 25116\ncycles_done    : 2\nexecs_done     : 4849354\nexecs_per_sec  : 1084.53\npaths_total    : 56\npaths_favored  : 26\npaths_found    : 55\npaths_imported : 0\nmax_depth      : 17\ncur_path       : 51\npending_favs   : 3\npending_total  : 19\nvariable_paths : 0\nbitmap_cvg     : 1.23%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499899084\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FISHYXML/input -o /dev/shm/work/FISHYXML/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FISHYXML/FISHYXML.dict -- data/linux/processed-challenges/FISHYXML/bin/FISHYXML\n'
+p63
+I1
+tp64
+a(I3840
+S'start_time     : 1499895459\nlast_update    : 1499899306\nfuzzer_pid     : 25116\ncycles_done    : 2\nexecs_done     : 4983873\nexecs_per_sec  : 1139.60\npaths_total    : 56\npaths_favored  : 27\npaths_found    : 55\npaths_imported : 0\nmax_depth      : 17\ncur_path       : 52\npending_favs   : 3\npending_total  : 18\nvariable_paths : 0\nbitmap_cvg     : 1.23%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499899084\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FISHYXML/input -o /dev/shm/work/FISHYXML/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FISHYXML/FISHYXML.dict -- data/linux/processed-challenges/FISHYXML/bin/FISHYXML\n'
+p65
+I0
+tp66
+a(I3960
+S'start_time     : 1499895459\nlast_update    : 1499899426\nfuzzer_pid     : 25116\ncycles_done    : 2\nexecs_done     : 5125009\nexecs_per_sec  : 698.30\npaths_total    : 59\npaths_favored  : 28\npaths_found    : 58\npaths_imported : 0\nmax_depth      : 17\ncur_path       : 53\npending_favs   : 3\npending_total  : 20\nvariable_paths : 0\nbitmap_cvg     : 1.26%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499899423\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FISHYXML/input -o /dev/shm/work/FISHYXML/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FISHYXML/FISHYXML.dict -- data/linux/processed-challenges/FISHYXML/bin/FISHYXML\n'
+p67
+I3
+tp68
+a(I4080
+S'start_time     : 1499895459\nlast_update    : 1499899546\nfuzzer_pid     : 25116\ncycles_done    : 2\nexecs_done     : 5260613\nexecs_per_sec  : 1414.37\npaths_total    : 60\npaths_favored  : 28\npaths_found    : 59\npaths_imported : 0\nmax_depth      : 17\ncur_path       : 53\npending_favs   : 3\npending_total  : 21\nvariable_paths : 0\nbitmap_cvg     : 1.28%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499899428\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FISHYXML/input -o /dev/shm/work/FISHYXML/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FISHYXML/FISHYXML.dict -- data/linux/processed-challenges/FISHYXML/bin/FISHYXML\n'
+p69
+I1
+tp70
+a(I4200
+S'start_time     : 1499895459\nlast_update    : 1499899667\nfuzzer_pid     : 25116\ncycles_done    : 2\nexecs_done     : 5402312\nexecs_per_sec  : 1127.29\npaths_total    : 66\npaths_favored  : 30\npaths_found    : 65\npaths_imported : 0\nmax_depth      : 18\ncur_path       : 55\npending_favs   : 5\npending_total  : 26\nvariable_paths : 0\nbitmap_cvg     : 1.29%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499899666\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FISHYXML/input -o /dev/shm/work/FISHYXML/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FISHYXML/FISHYXML.dict -- data/linux/processed-challenges/FISHYXML/bin/FISHYXML\n'
+p71
+I6
+tp72
+a(I4320
+S'start_time     : 1499895459\nlast_update    : 1499899787\nfuzzer_pid     : 25116\ncycles_done    : 2\nexecs_done     : 5544342\nexecs_per_sec  : 1178.43\npaths_total    : 66\npaths_favored  : 30\npaths_found    : 65\npaths_imported : 0\nmax_depth      : 18\ncur_path       : 55\npending_favs   : 5\npending_total  : 26\nvariable_paths : 0\nbitmap_cvg     : 1.29%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499899666\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FISHYXML/input -o /dev/shm/work/FISHYXML/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FISHYXML/FISHYXML.dict -- data/linux/processed-challenges/FISHYXML/bin/FISHYXML\n'
+p73
+I0
+tp74
+a(I4440
+S'start_time     : 1499895459\nlast_update    : 1499899907\nfuzzer_pid     : 25116\ncycles_done    : 2\nexecs_done     : 5676981\nexecs_per_sec  : 1057.43\npaths_total    : 66\npaths_favored  : 34\npaths_found    : 65\npaths_imported : 0\nmax_depth      : 18\ncur_path       : 56\npending_favs   : 9\npending_total  : 25\nvariable_paths : 0\nbitmap_cvg     : 1.29%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499899666\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FISHYXML/input -o /dev/shm/work/FISHYXML/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FISHYXML/FISHYXML.dict -- data/linux/processed-challenges/FISHYXML/bin/FISHYXML\n'
+p75
+I0
+tp76
+a(I4560
+S'start_time     : 1499895459\nlast_update    : 1499900027\nfuzzer_pid     : 25116\ncycles_done    : 2\nexecs_done     : 5816715\nexecs_per_sec  : 1088.72\npaths_total    : 66\npaths_favored  : 34\npaths_found    : 65\npaths_imported : 0\nmax_depth      : 18\ncur_path       : 56\npending_favs   : 9\npending_total  : 25\nvariable_paths : 0\nbitmap_cvg     : 1.29%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499899666\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FISHYXML/input -o /dev/shm/work/FISHYXML/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FISHYXML/FISHYXML.dict -- data/linux/processed-challenges/FISHYXML/bin/FISHYXML\n'
+p77
+I0
+tp78
+a(I4680
+S'start_time     : 1499895459\nlast_update    : 1499900147\nfuzzer_pid     : 25116\ncycles_done    : 2\nexecs_done     : 5942899\nexecs_per_sec  : 1069.91\npaths_total    : 66\npaths_favored  : 34\npaths_found    : 65\npaths_imported : 0\nmax_depth      : 18\ncur_path       : 57\npending_favs   : 8\npending_total  : 24\nvariable_paths : 0\nbitmap_cvg     : 1.29%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499899666\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FISHYXML/input -o /dev/shm/work/FISHYXML/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FISHYXML/FISHYXML.dict -- data/linux/processed-challenges/FISHYXML/bin/FISHYXML\n'
+p79
+I0
+tp80
+a(I4800
+S'start_time     : 1499895459\nlast_update    : 1499900267\nfuzzer_pid     : 25116\ncycles_done    : 2\nexecs_done     : 6078213\nexecs_per_sec  : 1022.10\npaths_total    : 66\npaths_favored  : 34\npaths_found    : 65\npaths_imported : 0\nmax_depth      : 18\ncur_path       : 58\npending_favs   : 7\npending_total  : 23\nvariable_paths : 0\nbitmap_cvg     : 1.29%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499899666\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FISHYXML/input -o /dev/shm/work/FISHYXML/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FISHYXML/FISHYXML.dict -- data/linux/processed-challenges/FISHYXML/bin/FISHYXML\n'
+p81
+I0
+tp82
+a(I4920
+S'start_time     : 1499895459\nlast_update    : 1499900388\nfuzzer_pid     : 25116\ncycles_done    : 2\nexecs_done     : 6228103\nexecs_per_sec  : 508.20\npaths_total    : 68\npaths_favored  : 34\npaths_found    : 67\npaths_imported : 0\nmax_depth      : 18\ncur_path       : 59\npending_favs   : 6\npending_total  : 24\nvariable_paths : 0\nbitmap_cvg     : 1.30%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499900378\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FISHYXML/input -o /dev/shm/work/FISHYXML/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FISHYXML/FISHYXML.dict -- data/linux/processed-challenges/FISHYXML/bin/FISHYXML\n'
+p83
+I2
+tp84
+a(I5040
+S'start_time     : 1499895459\nlast_update    : 1499900508\nfuzzer_pid     : 25116\ncycles_done    : 2\nexecs_done     : 6350825\nexecs_per_sec  : 1037.86\npaths_total    : 69\npaths_favored  : 34\npaths_found    : 68\npaths_imported : 0\nmax_depth      : 18\ncur_path       : 59\npending_favs   : 6\npending_total  : 25\nvariable_paths : 0\nbitmap_cvg     : 1.33%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499900417\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FISHYXML/input -o /dev/shm/work/FISHYXML/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FISHYXML/FISHYXML.dict -- data/linux/processed-challenges/FISHYXML/bin/FISHYXML\n'
+p85
+I1
+tp86
+a(I5160
+S'start_time     : 1499895459\nlast_update    : 1499900628\nfuzzer_pid     : 25116\ncycles_done    : 2\nexecs_done     : 6499582\nexecs_per_sec  : 568.61\npaths_total    : 69\npaths_favored  : 37\npaths_found    : 68\npaths_imported : 0\nmax_depth      : 18\ncur_path       : 61\npending_favs   : 8\npending_total  : 24\nvariable_paths : 0\nbitmap_cvg     : 1.33%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499900417\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FISHYXML/input -o /dev/shm/work/FISHYXML/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FISHYXML/FISHYXML.dict -- data/linux/processed-challenges/FISHYXML/bin/FISHYXML\n'
+p87
+I0
+tp88
+a(I5280
+S'start_time     : 1499895459\nlast_update    : 1499900748\nfuzzer_pid     : 25116\ncycles_done    : 2\nexecs_done     : 6628232\nexecs_per_sec  : 1031.65\npaths_total    : 69\npaths_favored  : 37\npaths_found    : 68\npaths_imported : 0\nmax_depth      : 18\ncur_path       : 61\npending_favs   : 8\npending_total  : 24\nvariable_paths : 0\nbitmap_cvg     : 1.33%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499900417\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FISHYXML/input -o /dev/shm/work/FISHYXML/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FISHYXML/FISHYXML.dict -- data/linux/processed-challenges/FISHYXML/bin/FISHYXML\n'
+p89
+I0
+tp90
+a(I5400
+S'start_time     : 1499895459\nlast_update    : 1499900808\nfuzzer_pid     : 25116\ncycles_done    : 2\nexecs_done     : 6703668\nexecs_per_sec  : 1196.48\npaths_total    : 69\npaths_favored  : 37\npaths_found    : 68\npaths_imported : 0\nmax_depth      : 18\ncur_path       : 61\npending_favs   : 8\npending_total  : 24\nvariable_paths : 0\nbitmap_cvg     : 1.33%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499900417\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FISHYXML/input -o /dev/shm/work/FISHYXML/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FISHYXML/FISHYXML.dict -- data/linux/processed-challenges/FISHYXML/bin/FISHYXML\n'
+p91
+I0
+tp92
+a(I5520
+S'start_time     : 1499895459\nlast_update    : 1499900929\nfuzzer_pid     : 25116\ncycles_done    : 2\nexecs_done     : 6835548\nexecs_per_sec  : 1179.57\npaths_total    : 69\npaths_favored  : 37\npaths_found    : 68\npaths_imported : 0\nmax_depth      : 18\ncur_path       : 62\npending_favs   : 7\npending_total  : 23\nvariable_paths : 0\nbitmap_cvg     : 1.33%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499900417\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FISHYXML/input -o /dev/shm/work/FISHYXML/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FISHYXML/FISHYXML.dict -- data/linux/processed-challenges/FISHYXML/bin/FISHYXML\n'
+p93
+I0
+tp94
+a(I5640
+S'start_time     : 1499895459\nlast_update    : 1499901049\nfuzzer_pid     : 25116\ncycles_done    : 2\nexecs_done     : 6979369\nexecs_per_sec  : 701.98\npaths_total    : 69\npaths_favored  : 37\npaths_found    : 68\npaths_imported : 0\nmax_depth      : 18\ncur_path       : 63\npending_favs   : 6\npending_total  : 22\nvariable_paths : 0\nbitmap_cvg     : 1.33%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499900417\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FISHYXML/input -o /dev/shm/work/FISHYXML/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FISHYXML/FISHYXML.dict -- data/linux/processed-challenges/FISHYXML/bin/FISHYXML\n'
+p95
+I1
+tp96
+a(I5760
+S'start_time     : 1499895459\nlast_update    : 1499901169\nfuzzer_pid     : 25116\ncycles_done    : 2\nexecs_done     : 7109183\nexecs_per_sec  : 1172.62\npaths_total    : 70\npaths_favored  : 37\npaths_found    : 69\npaths_imported : 0\nmax_depth      : 19\ncur_path       : 63\npending_favs   : 6\npending_total  : 23\nvariable_paths : 0\nbitmap_cvg     : 1.33%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1499901050\nlast_crash     : 0\nlast_hang      : 1499901133\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FISHYXML/input -o /dev/shm/work/FISHYXML/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FISHYXML/FISHYXML.dict -- data/linux/processed-challenges/FISHYXML/bin/FISHYXML\n'
+p97
+I0
+tp98
+a(I5880
+S'start_time     : 1499895459\nlast_update    : 1499901289\nfuzzer_pid     : 25116\ncycles_done    : 2\nexecs_done     : 7235392\nexecs_per_sec  : 1052.39\npaths_total    : 70\npaths_favored  : 38\npaths_found    : 69\npaths_imported : 0\nmax_depth      : 19\ncur_path       : 64\npending_favs   : 6\npending_total  : 22\nvariable_paths : 0\nbitmap_cvg     : 1.33%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1499901050\nlast_crash     : 0\nlast_hang      : 1499901202\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FISHYXML/input -o /dev/shm/work/FISHYXML/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FISHYXML/FISHYXML.dict -- data/linux/processed-challenges/FISHYXML/bin/FISHYXML\n'
+p99
+I0
+tp100
+a(I6000
+S'start_time     : 1499895459\nlast_update    : 1499901410\nfuzzer_pid     : 25116\ncycles_done    : 2\nexecs_done     : 7376000\nexecs_per_sec  : 1215.65\npaths_total    : 74\npaths_favored  : 38\npaths_found    : 73\npaths_imported : 0\nmax_depth      : 19\ncur_path       : 64\npending_favs   : 6\npending_total  : 26\nvariable_paths : 0\nbitmap_cvg     : 1.48%\nunique_crashes : 0\nunique_hangs   : 8\nlast_path      : 1499901362\nlast_crash     : 0\nlast_hang      : 1499901372\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FISHYXML/input -o /dev/shm/work/FISHYXML/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FISHYXML/FISHYXML.dict -- data/linux/processed-challenges/FISHYXML/bin/FISHYXML\n'
+p101
+I4
+tp102
+a(I6120
+S'start_time     : 1499895459\nlast_update    : 1499901530\nfuzzer_pid     : 25116\ncycles_done    : 2\nexecs_done     : 7507751\nexecs_per_sec  : 1125.66\npaths_total    : 74\npaths_favored  : 39\npaths_found    : 73\npaths_imported : 0\nmax_depth      : 19\ncur_path       : 65\npending_favs   : 8\npending_total  : 25\nvariable_paths : 0\nbitmap_cvg     : 1.48%\nunique_crashes : 0\nunique_hangs   : 11\nlast_path      : 1499901362\nlast_crash     : 0\nlast_hang      : 1499901509\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FISHYXML/input -o /dev/shm/work/FISHYXML/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FISHYXML/FISHYXML.dict -- data/linux/processed-challenges/FISHYXML/bin/FISHYXML\n'
+p103
+I0
+tp104
+a(I6240
+S'start_time     : 1499895459\nlast_update    : 1499901650\nfuzzer_pid     : 25116\ncycles_done    : 2\nexecs_done     : 7653563\nexecs_per_sec  : 1270.86\npaths_total    : 75\npaths_favored  : 39\npaths_found    : 74\npaths_imported : 0\nmax_depth      : 19\ncur_path       : 65\npending_favs   : 8\npending_total  : 26\nvariable_paths : 0\nbitmap_cvg     : 1.48%\nunique_crashes : 0\nunique_hangs   : 11\nlast_path      : 1499901623\nlast_crash     : 0\nlast_hang      : 1499901509\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FISHYXML/input -o /dev/shm/work/FISHYXML/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FISHYXML/FISHYXML.dict -- data/linux/processed-challenges/FISHYXML/bin/FISHYXML\n'
+p105
+I2
+tp106
+a(I6360
+S'start_time     : 1499895459\nlast_update    : 1499901770\nfuzzer_pid     : 25116\ncycles_done    : 2\nexecs_done     : 7772705\nexecs_per_sec  : 1033.49\npaths_total    : 76\npaths_favored  : 39\npaths_found    : 75\npaths_imported : 0\nmax_depth      : 19\ncur_path       : 66\npending_favs   : 7\npending_total  : 26\nvariable_paths : 0\nbitmap_cvg     : 1.48%\nunique_crashes : 0\nunique_hangs   : 12\nlast_path      : 1499901700\nlast_crash     : 0\nlast_hang      : 1499901670\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FISHYXML/input -o /dev/shm/work/FISHYXML/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FISHYXML/FISHYXML.dict -- data/linux/processed-challenges/FISHYXML/bin/FISHYXML\n'
+p107
+I0
+tp108
+a(I6480
+S'start_time     : 1499895459\nlast_update    : 1499901890\nfuzzer_pid     : 25116\ncycles_done    : 2\nexecs_done     : 7905012\nexecs_per_sec  : 1182.12\npaths_total    : 76\npaths_favored  : 39\npaths_found    : 75\npaths_imported : 0\nmax_depth      : 19\ncur_path       : 66\npending_favs   : 7\npending_total  : 26\nvariable_paths : 0\nbitmap_cvg     : 1.48%\nunique_crashes : 0\nunique_hangs   : 12\nlast_path      : 1499901700\nlast_crash     : 0\nlast_hang      : 1499901670\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FISHYXML/input -o /dev/shm/work/FISHYXML/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FISHYXML/FISHYXML.dict -- data/linux/processed-challenges/FISHYXML/bin/FISHYXML\n'
+p109
+I1
+tp110
+a(I6600
+S'start_time     : 1499895459\nlast_update    : 1499902010\nfuzzer_pid     : 25116\ncycles_done    : 2\nexecs_done     : 8032124\nexecs_per_sec  : 1062.31\npaths_total    : 77\npaths_favored  : 41\npaths_found    : 76\npaths_imported : 0\nmax_depth      : 19\ncur_path       : 67\npending_favs   : 8\npending_total  : 26\nvariable_paths : 0\nbitmap_cvg     : 1.49%\nunique_crashes : 0\nunique_hangs   : 12\nlast_path      : 1499901920\nlast_crash     : 0\nlast_hang      : 1499901670\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FISHYXML/input -o /dev/shm/work/FISHYXML/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FISHYXML/FISHYXML.dict -- data/linux/processed-challenges/FISHYXML/bin/FISHYXML\n'
+p111
+I0
+tp112
+a(I6720
+S'start_time     : 1499895459\nlast_update    : 1499902130\nfuzzer_pid     : 25116\ncycles_done    : 2\nexecs_done     : 8171715\nexecs_per_sec  : 1493.36\npaths_total    : 78\npaths_favored  : 41\npaths_found    : 77\npaths_imported : 0\nmax_depth      : 19\ncur_path       : 67\npending_favs   : 8\npending_total  : 27\nvariable_paths : 0\nbitmap_cvg     : 1.49%\nunique_crashes : 0\nunique_hangs   : 12\nlast_path      : 1499902088\nlast_crash     : 0\nlast_hang      : 1499901670\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FISHYXML/input -o /dev/shm/work/FISHYXML/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FISHYXML/FISHYXML.dict -- data/linux/processed-challenges/FISHYXML/bin/FISHYXML\n'
+p113
+I1
+tp114
+a(I6840
+S'start_time     : 1499895459\nlast_update    : 1499902251\nfuzzer_pid     : 25116\ncycles_done    : 2\nexecs_done     : 8293185\nexecs_per_sec  : 1295.01\npaths_total    : 78\npaths_favored  : 41\npaths_found    : 77\npaths_imported : 0\nmax_depth      : 19\ncur_path       : 68\npending_favs   : 7\npending_total  : 26\nvariable_paths : 0\nbitmap_cvg     : 1.49%\nunique_crashes : 0\nunique_hangs   : 12\nlast_path      : 1499902088\nlast_crash     : 0\nlast_hang      : 1499901670\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FISHYXML/input -o /dev/shm/work/FISHYXML/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FISHYXML/FISHYXML.dict -- data/linux/processed-challenges/FISHYXML/bin/FISHYXML\n'
+p115
+I0
+tp116
+a(I6960
+S'start_time     : 1499895459\nlast_update    : 1499902371\nfuzzer_pid     : 25116\ncycles_done    : 2\nexecs_done     : 8428607\nexecs_per_sec  : 1008.63\npaths_total    : 79\npaths_favored  : 41\npaths_found    : 78\npaths_imported : 0\nmax_depth      : 20\ncur_path       : 69\npending_favs   : 6\npending_total  : 26\nvariable_paths : 0\nbitmap_cvg     : 1.49%\nunique_crashes : 0\nunique_hangs   : 12\nlast_path      : 1499902348\nlast_crash     : 0\nlast_hang      : 1499901670\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FISHYXML/input -o /dev/shm/work/FISHYXML/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FISHYXML/FISHYXML.dict -- data/linux/processed-challenges/FISHYXML/bin/FISHYXML\n'
+p117
+I1
+tp118
+a(I7080
+S'start_time     : 1499895459\nlast_update    : 1499902491\nfuzzer_pid     : 25116\ncycles_done    : 2\nexecs_done     : 8556709\nexecs_per_sec  : 907.86\npaths_total    : 83\npaths_favored  : 41\npaths_found    : 82\npaths_imported : 0\nmax_depth      : 20\ncur_path       : 69\npending_favs   : 6\npending_total  : 30\nvariable_paths : 0\nbitmap_cvg     : 1.50%\nunique_crashes : 0\nunique_hangs   : 12\nlast_path      : 1499902472\nlast_crash     : 0\nlast_hang      : 1499901670\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FISHYXML/input -o /dev/shm/work/FISHYXML/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FISHYXML/FISHYXML.dict -- data/linux/processed-challenges/FISHYXML/bin/FISHYXML\n'
+p119
+I4
+tp120
+a(I7200
+S'start_time     : 1499895459\nlast_update    : 1499902611\nfuzzer_pid     : 25116\ncycles_done    : 2\nexecs_done     : 8691353\nexecs_per_sec  : 1046.28\npaths_total    : 83\npaths_favored  : 44\npaths_found    : 82\npaths_imported : 0\nmax_depth      : 20\ncur_path       : 70\npending_favs   : 8\npending_total  : 29\nvariable_paths : 0\nbitmap_cvg     : 1.50%\nunique_crashes : 0\nunique_hangs   : 14\nlast_path      : 1499902472\nlast_crash     : 0\nlast_hang      : 1499902596\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FISHYXML/input -o /dev/shm/work/FISHYXML/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FISHYXML/FISHYXML.dict -- data/linux/processed-challenges/FISHYXML/bin/FISHYXML\n'
+p121
+I0
+tp122
+a(I7320
+S'start_time     : 1499895459\nlast_update    : 1499902732\nfuzzer_pid     : 25116\ncycles_done    : 2\nexecs_done     : 8821533\nexecs_per_sec  : 1108.87\npaths_total    : 83\npaths_favored  : 44\npaths_found    : 82\npaths_imported : 0\nmax_depth      : 20\ncur_path       : 70\npending_favs   : 8\npending_total  : 29\nvariable_paths : 0\nbitmap_cvg     : 1.50%\nunique_crashes : 0\nunique_hangs   : 15\nlast_path      : 1499902472\nlast_crash     : 0\nlast_hang      : 1499902617\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FISHYXML/input -o /dev/shm/work/FISHYXML/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FISHYXML/FISHYXML.dict -- data/linux/processed-challenges/FISHYXML/bin/FISHYXML\n'
+p123
+I1
+tp124
+a(I7440
+S'start_time     : 1499895459\nlast_update    : 1499902852\nfuzzer_pid     : 25116\ncycles_done    : 2\nexecs_done     : 8932527\nexecs_per_sec  : 908.42\npaths_total    : 90\npaths_favored  : 45\npaths_found    : 89\npaths_imported : 0\nmax_depth      : 20\ncur_path       : 71\npending_favs   : 8\npending_total  : 35\nvariable_paths : 0\nbitmap_cvg     : 1.51%\nunique_crashes : 0\nunique_hangs   : 16\nlast_path      : 1499902845\nlast_crash     : 0\nlast_hang      : 1499902778\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FISHYXML/input -o /dev/shm/work/FISHYXML/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FISHYXML/FISHYXML.dict -- data/linux/processed-challenges/FISHYXML/bin/FISHYXML\n'
+p125
+I8
+tp126
+a(I7560
+S'start_time     : 1499895459\nlast_update    : 1499902972\nfuzzer_pid     : 25116\ncycles_done    : 2\nexecs_done     : 9040603\nexecs_per_sec  : 885.12\npaths_total    : 92\npaths_favored  : 45\npaths_found    : 91\npaths_imported : 0\nmax_depth      : 20\ncur_path       : 71\npending_favs   : 8\npending_total  : 37\nvariable_paths : 0\nbitmap_cvg     : 1.51%\nunique_crashes : 0\nunique_hangs   : 18\nlast_path      : 1499902878\nlast_crash     : 0\nlast_hang      : 1499902918\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FISHYXML/input -o /dev/shm/work/FISHYXML/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FISHYXML/FISHYXML.dict -- data/linux/processed-challenges/FISHYXML/bin/FISHYXML\n'
+p127
+I0
+tp128
+a(I7680
+S'start_time     : 1499895459\nlast_update    : 1499903092\nfuzzer_pid     : 25116\ncycles_done    : 2\nexecs_done     : 9181316\nexecs_per_sec  : 1070.57\npaths_total    : 92\npaths_favored  : 45\npaths_found    : 91\npaths_imported : 0\nmax_depth      : 20\ncur_path       : 71\npending_favs   : 8\npending_total  : 37\nvariable_paths : 0\nbitmap_cvg     : 1.51%\nunique_crashes : 0\nunique_hangs   : 18\nlast_path      : 1499902878\nlast_crash     : 0\nlast_hang      : 1499902918\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FISHYXML/input -o /dev/shm/work/FISHYXML/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FISHYXML/FISHYXML.dict -- data/linux/processed-challenges/FISHYXML/bin/FISHYXML\n'
+p129
+I0
+tp130
+a(I7800
+S'start_time     : 1499895459\nlast_update    : 1499903212\nfuzzer_pid     : 25116\ncycles_done    : 2\nexecs_done     : 9305678\nexecs_per_sec  : 1057.00\npaths_total    : 92\npaths_favored  : 47\npaths_found    : 91\npaths_imported : 0\nmax_depth      : 20\ncur_path       : 72\npending_favs   : 10\npending_total  : 36\nvariable_paths : 0\nbitmap_cvg     : 1.51%\nunique_crashes : 0\nunique_hangs   : 19\nlast_path      : 1499902878\nlast_crash     : 0\nlast_hang      : 1499903147\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FISHYXML/input -o /dev/shm/work/FISHYXML/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FISHYXML/FISHYXML.dict -- data/linux/processed-challenges/FISHYXML/bin/FISHYXML\n'
+p131
+I0
+tp132
+a(I7920
+S'start_time     : 1499895459\nlast_update    : 1499903333\nfuzzer_pid     : 25116\ncycles_done    : 2\nexecs_done     : 9462336\nexecs_per_sec  : 1487.23\npaths_total    : 92\npaths_favored  : 47\npaths_found    : 91\npaths_imported : 0\nmax_depth      : 20\ncur_path       : 72\npending_favs   : 10\npending_total  : 36\nvariable_paths : 0\nbitmap_cvg     : 1.51%\nunique_crashes : 0\nunique_hangs   : 19\nlast_path      : 1499902878\nlast_crash     : 0\nlast_hang      : 1499903147\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FISHYXML/input -o /dev/shm/work/FISHYXML/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FISHYXML/FISHYXML.dict -- data/linux/processed-challenges/FISHYXML/bin/FISHYXML\n'
+p133
+I5
+tp134
+a(I8040
+S'start_time     : 1499895459\nlast_update    : 1499903453\nfuzzer_pid     : 25116\ncycles_done    : 2\nexecs_done     : 9576918\nexecs_per_sec  : 1020.24\npaths_total    : 97\npaths_favored  : 47\npaths_found    : 96\npaths_imported : 0\nmax_depth      : 20\ncur_path       : 75\npending_favs   : 9\npending_total  : 40\nvariable_paths : 0\nbitmap_cvg     : 1.53%\nunique_crashes : 0\nunique_hangs   : 20\nlast_path      : 1499903368\nlast_crash     : 0\nlast_hang      : 1499903351\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FISHYXML/input -o /dev/shm/work/FISHYXML/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FISHYXML/FISHYXML.dict -- data/linux/processed-challenges/FISHYXML/bin/FISHYXML\n'
+p135
+I0
+tp136
+a(I8160
+S'start_time     : 1499895459\nlast_update    : 1499903573\nfuzzer_pid     : 25116\ncycles_done    : 2\nexecs_done     : 9712699\nexecs_per_sec  : 445.54\npaths_total    : 97\npaths_favored  : 50\npaths_found    : 96\npaths_imported : 0\nmax_depth      : 20\ncur_path       : 76\npending_favs   : 13\npending_total  : 39\nvariable_paths : 0\nbitmap_cvg     : 1.53%\nunique_crashes : 0\nunique_hangs   : 21\nlast_path      : 1499903368\nlast_crash     : 0\nlast_hang      : 1499903513\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FISHYXML/input -o /dev/shm/work/FISHYXML/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FISHYXML/FISHYXML.dict -- data/linux/processed-challenges/FISHYXML/bin/FISHYXML\n'
+p137
+I0
+tp138
+a(I8280
+S'start_time     : 1499895459\nlast_update    : 1499903693\nfuzzer_pid     : 25116\ncycles_done    : 2\nexecs_done     : 9842545\nexecs_per_sec  : 1169.54\npaths_total    : 97\npaths_favored  : 50\npaths_found    : 96\npaths_imported : 0\nmax_depth      : 20\ncur_path       : 76\npending_favs   : 13\npending_total  : 39\nvariable_paths : 0\nbitmap_cvg     : 1.53%\nunique_crashes : 0\nunique_hangs   : 22\nlast_path      : 1499903368\nlast_crash     : 0\nlast_hang      : 1499903649\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FISHYXML/input -o /dev/shm/work/FISHYXML/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FISHYXML/FISHYXML.dict -- data/linux/processed-challenges/FISHYXML/bin/FISHYXML\n'
+p139
+I0
+tp140
+a(I8400
+S'start_time     : 1499895459\nlast_update    : 1499903813\nfuzzer_pid     : 25116\ncycles_done    : 2\nexecs_done     : 9960502\nexecs_per_sec  : 1421.65\npaths_total    : 97\npaths_favored  : 50\npaths_found    : 96\npaths_imported : 0\nmax_depth      : 20\ncur_path       : 78\npending_favs   : 12\npending_total  : 38\nvariable_paths : 0\nbitmap_cvg     : 1.53%\nunique_crashes : 0\nunique_hangs   : 24\nlast_path      : 1499903368\nlast_crash     : 0\nlast_hang      : 1499903756\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FISHYXML/input -o /dev/shm/work/FISHYXML/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FISHYXML/FISHYXML.dict -- data/linux/processed-challenges/FISHYXML/bin/FISHYXML\n'
+p141
+I0
+tp142
+a(I8520
+S'start_time     : 1499895459\nlast_update    : 1499903934\nfuzzer_pid     : 25116\ncycles_done    : 2\nexecs_done     : 10103996\nexecs_per_sec  : 1193.58\npaths_total    : 100\npaths_favored  : 50\npaths_found    : 99\npaths_imported : 0\nmax_depth      : 21\ncur_path       : 78\npending_favs   : 12\npending_total  : 41\nvariable_paths : 0\nbitmap_cvg     : 1.55%\nunique_crashes : 0\nunique_hangs   : 24\nlast_path      : 1499903883\nlast_crash     : 0\nlast_hang      : 1499903756\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FISHYXML/input -o /dev/shm/work/FISHYXML/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FISHYXML/FISHYXML.dict -- data/linux/processed-challenges/FISHYXML/bin/FISHYXML\n'
+p143
+I4
+tp144
+a(I8640
+S'start_time     : 1499895459\nlast_update    : 1499904054\nfuzzer_pid     : 25116\ncycles_done    : 2\nexecs_done     : 10199615\nexecs_per_sec  : 912.95\npaths_total    : 102\npaths_favored  : 51\npaths_found    : 101\npaths_imported : 0\nmax_depth      : 21\ncur_path       : 82\npending_favs   : 13\npending_total  : 42\nvariable_paths : 0\nbitmap_cvg     : 1.55%\nunique_crashes : 0\nunique_hangs   : 27\nlast_path      : 1499904000\nlast_crash     : 0\nlast_hang      : 1499904030\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FISHYXML/input -o /dev/shm/work/FISHYXML/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FISHYXML/FISHYXML.dict -- data/linux/processed-challenges/FISHYXML/bin/FISHYXML\n'
+p145
+I1
+tp146
+a(I8760
+S'start_time     : 1499895459\nlast_update    : 1499904174\nfuzzer_pid     : 25116\ncycles_done    : 2\nexecs_done     : 10311586\nexecs_per_sec  : 1252.49\npaths_total    : 102\npaths_favored  : 51\npaths_found    : 101\npaths_imported : 0\nmax_depth      : 21\ncur_path       : 82\npending_favs   : 13\npending_total  : 42\nvariable_paths : 0\nbitmap_cvg     : 1.55%\nunique_crashes : 0\nunique_hangs   : 28\nlast_path      : 1499904000\nlast_crash     : 0\nlast_hang      : 1499904124\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FISHYXML/input -o /dev/shm/work/FISHYXML/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FISHYXML/FISHYXML.dict -- data/linux/processed-challenges/FISHYXML/bin/FISHYXML\n'
+p147
+I0
+tp148
+a(I8880
+S'start_time     : 1499895459\nlast_update    : 1499904294\nfuzzer_pid     : 25116\ncycles_done    : 2\nexecs_done     : 10438234\nexecs_per_sec  : 393.68\npaths_total    : 102\npaths_favored  : 51\npaths_found    : 101\npaths_imported : 0\nmax_depth      : 21\ncur_path       : 83\npending_favs   : 12\npending_total  : 41\nvariable_paths : 0\nbitmap_cvg     : 1.55%\nunique_crashes : 0\nunique_hangs   : 30\nlast_path      : 1499904000\nlast_crash     : 0\nlast_hang      : 1499904273\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FISHYXML/input -o /dev/shm/work/FISHYXML/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FISHYXML/FISHYXML.dict -- data/linux/processed-challenges/FISHYXML/bin/FISHYXML\n'
+p149
+I0
+tp150
+a(I9000
+S'start_time     : 1499895459\nlast_update    : 1499904415\nfuzzer_pid     : 25116\ncycles_done    : 2\nexecs_done     : 10552709\nexecs_per_sec  : 1036.20\npaths_total    : 102\npaths_favored  : 51\npaths_found    : 101\npaths_imported : 0\nmax_depth      : 21\ncur_path       : 83\npending_favs   : 12\npending_total  : 41\nvariable_paths : 0\nbitmap_cvg     : 1.55%\nunique_crashes : 0\nunique_hangs   : 30\nlast_path      : 1499904000\nlast_crash     : 0\nlast_hang      : 1499904273\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FISHYXML/input -o /dev/shm/work/FISHYXML/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FISHYXML/FISHYXML.dict -- data/linux/processed-challenges/FISHYXML/bin/FISHYXML\n'
+p151
+I0
+tp152
+a(I9120
+S'start_time     : 1499895459\nlast_update    : 1499904535\nfuzzer_pid     : 25116\ncycles_done    : 2\nexecs_done     : 10683361\nexecs_per_sec  : 344.33\npaths_total    : 103\npaths_favored  : 51\npaths_found    : 102\npaths_imported : 0\nmax_depth      : 21\ncur_path       : 84\npending_favs   : 11\npending_total  : 41\nvariable_paths : 0\nbitmap_cvg     : 1.55%\nunique_crashes : 0\nunique_hangs   : 30\nlast_path      : 1499904528\nlast_crash     : 0\nlast_hang      : 1499904273\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FISHYXML/input -o /dev/shm/work/FISHYXML/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FISHYXML/FISHYXML.dict -- data/linux/processed-challenges/FISHYXML/bin/FISHYXML\n'
+p153
+I1
+tp154
+a(I9240
+S'start_time     : 1499895459\nlast_update    : 1499904655\nfuzzer_pid     : 25116\ncycles_done    : 2\nexecs_done     : 10787717\nexecs_per_sec  : 1129.16\npaths_total    : 103\npaths_favored  : 51\npaths_found    : 102\npaths_imported : 0\nmax_depth      : 21\ncur_path       : 84\npending_favs   : 11\npending_total  : 41\nvariable_paths : 0\nbitmap_cvg     : 1.55%\nunique_crashes : 0\nunique_hangs   : 31\nlast_path      : 1499904528\nlast_crash     : 0\nlast_hang      : 1499904536\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FISHYXML/input -o /dev/shm/work/FISHYXML/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FISHYXML/FISHYXML.dict -- data/linux/processed-challenges/FISHYXML/bin/FISHYXML\n'
+p155
+I0
+tp156
+a(I9360
+S'start_time     : 1499895459\nlast_update    : 1499904775\nfuzzer_pid     : 25116\ncycles_done    : 2\nexecs_done     : 10914314\nexecs_per_sec  : 376.41\npaths_total    : 103\npaths_favored  : 51\npaths_found    : 102\npaths_imported : 0\nmax_depth      : 21\ncur_path       : 85\npending_favs   : 11\npending_total  : 40\nvariable_paths : 0\nbitmap_cvg     : 1.55%\nunique_crashes : 0\nunique_hangs   : 31\nlast_path      : 1499904528\nlast_crash     : 0\nlast_hang      : 1499904536\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FISHYXML/input -o /dev/shm/work/FISHYXML/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FISHYXML/FISHYXML.dict -- data/linux/processed-challenges/FISHYXML/bin/FISHYXML\n'
+p157
+I0
+tp158
+a(I9480
+S'start_time     : 1499895459\nlast_update    : 1499904895\nfuzzer_pid     : 25116\ncycles_done    : 2\nexecs_done     : 11030204\nexecs_per_sec  : 1430.17\npaths_total    : 103\npaths_favored  : 51\npaths_found    : 102\npaths_imported : 0\nmax_depth      : 21\ncur_path       : 85\npending_favs   : 11\npending_total  : 40\nvariable_paths : 0\nbitmap_cvg     : 1.55%\nunique_crashes : 0\nunique_hangs   : 32\nlast_path      : 1499904528\nlast_crash     : 0\nlast_hang      : 1499904776\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FISHYXML/input -o /dev/shm/work/FISHYXML/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FISHYXML/FISHYXML.dict -- data/linux/processed-challenges/FISHYXML/bin/FISHYXML\n'
+p159
+I0
+tp160
+a(I9600
+S'start_time     : 1499895459\nlast_update    : 1499905016\nfuzzer_pid     : 25116\ncycles_done    : 2\nexecs_done     : 11163305\nexecs_per_sec  : 356.60\npaths_total    : 103\npaths_favored  : 51\npaths_found    : 102\npaths_imported : 0\nmax_depth      : 21\ncur_path       : 86\npending_favs   : 10\npending_total  : 39\nvariable_paths : 0\nbitmap_cvg     : 1.55%\nunique_crashes : 0\nunique_hangs   : 32\nlast_path      : 1499904528\nlast_crash     : 0\nlast_hang      : 1499904776\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FISHYXML/input -o /dev/shm/work/FISHYXML/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FISHYXML/FISHYXML.dict -- data/linux/processed-challenges/FISHYXML/bin/FISHYXML\n'
+p161
+I0
+tp162
+a(I9720
+S'start_time     : 1499895459\nlast_update    : 1499905136\nfuzzer_pid     : 25116\ncycles_done    : 2\nexecs_done     : 11280847\nexecs_per_sec  : 1487.60\npaths_total    : 103\npaths_favored  : 51\npaths_found    : 102\npaths_imported : 0\nmax_depth      : 21\ncur_path       : 86\npending_favs   : 10\npending_total  : 39\nvariable_paths : 0\nbitmap_cvg     : 1.55%\nunique_crashes : 0\nunique_hangs   : 33\nlast_path      : 1499904528\nlast_crash     : 0\nlast_hang      : 1499905075\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FISHYXML/input -o /dev/shm/work/FISHYXML/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FISHYXML/FISHYXML.dict -- data/linux/processed-challenges/FISHYXML/bin/FISHYXML\n'
+p163
+I0
+tp164
+a(I9840
+S'start_time     : 1499895459\nlast_update    : 1499905256\nfuzzer_pid     : 25116\ncycles_done    : 2\nexecs_done     : 11399223\nexecs_per_sec  : 921.73\npaths_total    : 103\npaths_favored  : 51\npaths_found    : 102\npaths_imported : 0\nmax_depth      : 21\ncur_path       : 87\npending_favs   : 9\npending_total  : 38\nvariable_paths : 0\nbitmap_cvg     : 1.55%\nunique_crashes : 0\nunique_hangs   : 33\nlast_path      : 1499904528\nlast_crash     : 0\nlast_hang      : 1499905075\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FISHYXML/input -o /dev/shm/work/FISHYXML/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FISHYXML/FISHYXML.dict -- data/linux/processed-challenges/FISHYXML/bin/FISHYXML\n'
+p165
+I0
+tp166
+a(I9960
+S'start_time     : 1499895459\nlast_update    : 1499905376\nfuzzer_pid     : 25116\ncycles_done    : 2\nexecs_done     : 11530003\nexecs_per_sec  : 1199.40\npaths_total    : 103\npaths_favored  : 51\npaths_found    : 102\npaths_imported : 0\nmax_depth      : 21\ncur_path       : 87\npending_favs   : 9\npending_total  : 38\nvariable_paths : 0\nbitmap_cvg     : 1.55%\nunique_crashes : 0\nunique_hangs   : 34\nlast_path      : 1499904528\nlast_crash     : 0\nlast_hang      : 1499905268\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FISHYXML/input -o /dev/shm/work/FISHYXML/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FISHYXML/FISHYXML.dict -- data/linux/processed-challenges/FISHYXML/bin/FISHYXML\n'
+p167
+I0
+tp168
+a(I10080
+S'start_time     : 1499895459\nlast_update    : 1499905496\nfuzzer_pid     : 25116\ncycles_done    : 2\nexecs_done     : 11646860\nexecs_per_sec  : 1044.26\npaths_total    : 104\npaths_favored  : 51\npaths_found    : 103\npaths_imported : 0\nmax_depth      : 21\ncur_path       : 92\npending_favs   : 8\npending_total  : 38\nvariable_paths : 0\nbitmap_cvg     : 1.56%\nunique_crashes : 0\nunique_hangs   : 34\nlast_path      : 1499905438\nlast_crash     : 0\nlast_hang      : 1499905268\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FISHYXML/input -o /dev/shm/work/FISHYXML/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FISHYXML/FISHYXML.dict -- data/linux/processed-challenges/FISHYXML/bin/FISHYXML\n'
+p169
+I3
+tp170
+a(I10200
+S'start_time     : 1499895459\nlast_update    : 1499905617\nfuzzer_pid     : 25116\ncycles_done    : 2\nexecs_done     : 11772062\nexecs_per_sec  : 959.85\npaths_total    : 106\npaths_favored  : 51\npaths_found    : 105\npaths_imported : 0\nmax_depth      : 21\ncur_path       : 92\npending_favs   : 8\npending_total  : 40\nvariable_paths : 0\nbitmap_cvg     : 1.57%\nunique_crashes : 0\nunique_hangs   : 35\nlast_path      : 1499905550\nlast_crash     : 0\nlast_hang      : 1499905574\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FISHYXML/input -o /dev/shm/work/FISHYXML/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FISHYXML/FISHYXML.dict -- data/linux/processed-challenges/FISHYXML/bin/FISHYXML\n'
+p171
+I0
+tp172
+a(I10320
+S'start_time     : 1499895459\nlast_update    : 1499905737\nfuzzer_pid     : 25116\ncycles_done    : 2\nexecs_done     : 11891435\nexecs_per_sec  : 972.78\npaths_total    : 106\npaths_favored  : 52\npaths_found    : 105\npaths_imported : 0\nmax_depth      : 21\ncur_path       : 93\npending_favs   : 9\npending_total  : 39\nvariable_paths : 0\nbitmap_cvg     : 1.57%\nunique_crashes : 0\nunique_hangs   : 35\nlast_path      : 1499905550\nlast_crash     : 0\nlast_hang      : 1499905574\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FISHYXML/input -o /dev/shm/work/FISHYXML/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FISHYXML/FISHYXML.dict -- data/linux/processed-challenges/FISHYXML/bin/FISHYXML\n'
+p173
+I0
+tp174
+a(I10440
+S'start_time     : 1499895459\nlast_update    : 1499905857\nfuzzer_pid     : 25116\ncycles_done    : 2\nexecs_done     : 12008143\nexecs_per_sec  : 1054.42\npaths_total    : 106\npaths_favored  : 52\npaths_found    : 105\npaths_imported : 0\nmax_depth      : 21\ncur_path       : 94\npending_favs   : 8\npending_total  : 38\nvariable_paths : 0\nbitmap_cvg     : 1.57%\nunique_crashes : 0\nunique_hangs   : 35\nlast_path      : 1499905550\nlast_crash     : 0\nlast_hang      : 1499905574\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FISHYXML/input -o /dev/shm/work/FISHYXML/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FISHYXML/FISHYXML.dict -- data/linux/processed-challenges/FISHYXML/bin/FISHYXML\n'
+p175
+I0
+tp176
+a(I10560
+S'start_time     : 1499895459\nlast_update    : 1499905977\nfuzzer_pid     : 25116\ncycles_done    : 2\nexecs_done     : 12142947\nexecs_per_sec  : 612.76\npaths_total    : 106\npaths_favored  : 52\npaths_found    : 105\npaths_imported : 0\nmax_depth      : 21\ncur_path       : 96\npending_favs   : 7\npending_total  : 37\nvariable_paths : 0\nbitmap_cvg     : 1.57%\nunique_crashes : 0\nunique_hangs   : 35\nlast_path      : 1499905550\nlast_crash     : 0\nlast_hang      : 1499905574\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FISHYXML/input -o /dev/shm/work/FISHYXML/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FISHYXML/FISHYXML.dict -- data/linux/processed-challenges/FISHYXML/bin/FISHYXML\n'
+p177
+I0
+tp178
+a(I10680
+S'start_time     : 1499895459\nlast_update    : 1499906097\nfuzzer_pid     : 25116\ncycles_done    : 2\nexecs_done     : 12271103\nexecs_per_sec  : 1345.87\npaths_total    : 106\npaths_favored  : 52\npaths_found    : 105\npaths_imported : 0\nmax_depth      : 21\ncur_path       : 96\npending_favs   : 7\npending_total  : 37\nvariable_paths : 0\nbitmap_cvg     : 1.57%\nunique_crashes : 0\nunique_hangs   : 35\nlast_path      : 1499905550\nlast_crash     : 0\nlast_hang      : 1499905574\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FISHYXML/input -o /dev/shm/work/FISHYXML/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FISHYXML/FISHYXML.dict -- data/linux/processed-challenges/FISHYXML/bin/FISHYXML\n'
+p179
+I0
+tp180
+a.

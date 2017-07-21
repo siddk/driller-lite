@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/libcgc.h
+
+../processed-challenges/CNMP/lib/libc.h
+
+/vagrant/driller/data/linux/processed-challenges/CNMP/lib/libc.c
+libcgc.h
+-
+libc.h
+/vagrant/driller/data/linux/processed-challenges/CNMP/lib/libc.h
+
+/vagrant/driller/data/linux/processed-challenges/CNMP/lib/libc.h
+
+/vagrant/driller/data/linux/processed-challenges/CNMP/src/joke.c
+joke.h
+/vagrant/driller/data/linux/processed-challenges/CNMP/src/joke.h
+
+/vagrant/driller/data/linux/processed-challenges/CNMP/src/joke.h
+libcgc.h
+-
+libc.h
+/vagrant/driller/data/linux/processed-challenges/CNMP/src/libc.h
+
+/vagrant/driller/data/linux/processed-challenges/CNMP/src/service.c
+service.h
+/vagrant/driller/data/linux/processed-challenges/CNMP/src/service.h
+
+/vagrant/driller/data/linux/processed-challenges/CNMP/src/service.h
+libcgc.h
+-
+libc.h
+/vagrant/driller/data/linux/processed-challenges/CNMP/src/libc.h
+joke.h
+/vagrant/driller/data/linux/processed-challenges/CNMP/src/joke.h
+

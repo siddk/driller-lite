@@ -1,0 +1,452 @@
+(lp0
+(I0
+S'start_time     : 1500317425\nlast_update    : 1500317425\nfuzzer_pid     : 11216\ncycles_done    : 0\nexecs_done     : 10\nexecs_per_sec  : 153.85\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 1\npending_total  : 1\nvariable_paths : 0\nbitmap_cvg     : 0.17%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Email_System_2/input -o /dev/shm/work/Email_System_2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Email_System_2/Email_System_2.dict -- data/linux/processed-challenges/Email_System_2/bin/Email_System_2\n'
+p1
+I34
+tp2
+a(I120
+S'start_time     : 1500317425\nlast_update    : 1500317546\nfuzzer_pid     : 11216\ncycles_done    : 0\nexecs_done     : 129830\nexecs_per_sec  : 1078.52\npaths_total    : 48\npaths_favored  : 1\npaths_found    : 47\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 1\npending_total  : 48\nvariable_paths : 0\nbitmap_cvg     : 0.36%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500317524\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Email_System_2/input -o /dev/shm/work/Email_System_2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Email_System_2/Email_System_2.dict -- data/linux/processed-challenges/Email_System_2/bin/Email_System_2\n'
+p3
+I14
+tp4
+a(I240
+S'start_time     : 1500317425\nlast_update    : 1500317666\nfuzzer_pid     : 11216\ncycles_done    : 0\nexecs_done     : 239934\nexecs_per_sec  : 790.12\npaths_total    : 63\npaths_favored  : 12\npaths_found    : 62\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 19\npending_favs   : 7\npending_total  : 57\nvariable_paths : 0\nbitmap_cvg     : 0.43%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500317654\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Email_System_2/input -o /dev/shm/work/Email_System_2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Email_System_2/Email_System_2.dict -- data/linux/processed-challenges/Email_System_2/bin/Email_System_2\n'
+p5
+I19
+tp6
+a(I360
+S'start_time     : 1500317425\nlast_update    : 1500317786\nfuzzer_pid     : 11216\ncycles_done    : 0\nexecs_done     : 333834\nexecs_per_sec  : 794.16\npaths_total    : 81\npaths_favored  : 12\npaths_found    : 80\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 19\npending_favs   : 7\npending_total  : 75\nvariable_paths : 0\nbitmap_cvg     : 0.46%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500317770\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Email_System_2/input -o /dev/shm/work/Email_System_2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Email_System_2/Email_System_2.dict -- data/linux/processed-challenges/Email_System_2/bin/Email_System_2\n'
+p7
+I14
+tp8
+a(I480
+S'start_time     : 1500317425\nlast_update    : 1500317906\nfuzzer_pid     : 11216\ncycles_done    : 0\nexecs_done     : 392184\nexecs_per_sec  : 448.30\npaths_total    : 100\npaths_favored  : 19\npaths_found    : 99\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 44\npending_favs   : 13\npending_total  : 90\nvariable_paths : 0\nbitmap_cvg     : 0.48%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500317906\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Email_System_2/input -o /dev/shm/work/Email_System_2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Email_System_2/Email_System_2.dict -- data/linux/processed-challenges/Email_System_2/bin/Email_System_2\n'
+p9
+I19
+tp10
+a(I600
+S'start_time     : 1500317425\nlast_update    : 1500318027\nfuzzer_pid     : 11216\ncycles_done    : 0\nexecs_done     : 445700\nexecs_per_sec  : 454.97\npaths_total    : 111\npaths_favored  : 19\npaths_found    : 110\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 44\npending_favs   : 13\npending_total  : 101\nvariable_paths : 0\nbitmap_cvg     : 0.49%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500318015\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Email_System_2/input -o /dev/shm/work/Email_System_2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Email_System_2/Email_System_2.dict -- data/linux/processed-challenges/Email_System_2/bin/Email_System_2\n'
+p11
+I12
+tp12
+a(I720
+S'start_time     : 1500317425\nlast_update    : 1500318147\nfuzzer_pid     : 11216\ncycles_done    : 0\nexecs_done     : 500757\nexecs_per_sec  : 456.85\npaths_total    : 115\npaths_favored  : 19\npaths_found    : 114\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 44\npending_favs   : 13\npending_total  : 105\nvariable_paths : 0\nbitmap_cvg     : 0.49%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500318128\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Email_System_2/input -o /dev/shm/work/Email_System_2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Email_System_2/Email_System_2.dict -- data/linux/processed-challenges/Email_System_2/bin/Email_System_2\n'
+p13
+I3
+tp14
+a(I840
+S'start_time     : 1500317425\nlast_update    : 1500318267\nfuzzer_pid     : 11216\ncycles_done    : 0\nexecs_done     : 556648\nexecs_per_sec  : 488.72\npaths_total    : 116\npaths_favored  : 23\npaths_found    : 115\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 53\npending_favs   : 19\npending_total  : 105\nvariable_paths : 0\nbitmap_cvg     : 0.49%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500318185\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Email_System_2/input -o /dev/shm/work/Email_System_2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Email_System_2/Email_System_2.dict -- data/linux/processed-challenges/Email_System_2/bin/Email_System_2\n'
+p15
+I2
+tp16
+a(I960
+S'start_time     : 1500317425\nlast_update    : 1500318387\nfuzzer_pid     : 11216\ncycles_done    : 0\nexecs_done     : 626534\nexecs_per_sec  : 605.52\npaths_total    : 123\npaths_favored  : 23\npaths_found    : 122\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 53\npending_favs   : 19\npending_total  : 112\nvariable_paths : 0\nbitmap_cvg     : 0.72%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500318374\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Email_System_2/input -o /dev/shm/work/Email_System_2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Email_System_2/Email_System_2.dict -- data/linux/processed-challenges/Email_System_2/bin/Email_System_2\n'
+p17
+I6
+tp18
+a(I1080
+S'start_time     : 1500317425\nlast_update    : 1500318507\nfuzzer_pid     : 11216\ncycles_done    : 0\nexecs_done     : 695956\nexecs_per_sec  : 510.57\npaths_total    : 123\npaths_favored  : 25\npaths_found    : 122\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 54\npending_favs   : 21\npending_total  : 111\nvariable_paths : 0\nbitmap_cvg     : 0.72%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500318374\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Email_System_2/input -o /dev/shm/work/Email_System_2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Email_System_2/Email_System_2.dict -- data/linux/processed-challenges/Email_System_2/bin/Email_System_2\n'
+p19
+I0
+tp20
+a(I1200
+S'start_time     : 1500317425\nlast_update    : 1500318627\nfuzzer_pid     : 11216\ncycles_done    : 0\nexecs_done     : 757157\nexecs_per_sec  : 604.67\npaths_total    : 129\npaths_favored  : 25\npaths_found    : 128\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 69\npending_favs   : 19\npending_total  : 115\nvariable_paths : 0\nbitmap_cvg     : 0.72%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500318623\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Email_System_2/input -o /dev/shm/work/Email_System_2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Email_System_2/Email_System_2.dict -- data/linux/processed-challenges/Email_System_2/bin/Email_System_2\n'
+p21
+I8
+tp22
+a(I1320
+S'start_time     : 1500317425\nlast_update    : 1500318747\nfuzzer_pid     : 11216\ncycles_done    : 0\nexecs_done     : 828279\nexecs_per_sec  : 590.43\npaths_total    : 135\npaths_favored  : 25\npaths_found    : 134\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 69\npending_favs   : 19\npending_total  : 121\nvariable_paths : 0\nbitmap_cvg     : 0.73%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500318743\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Email_System_2/input -o /dev/shm/work/Email_System_2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Email_System_2/Email_System_2.dict -- data/linux/processed-challenges/Email_System_2/bin/Email_System_2\n'
+p23
+I5
+tp24
+a(I1440
+S'start_time     : 1500317425\nlast_update    : 1500318868\nfuzzer_pid     : 11216\ncycles_done    : 0\nexecs_done     : 883142\nexecs_per_sec  : 297.59\npaths_total    : 136\npaths_favored  : 23\npaths_found    : 135\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 74\npending_favs   : 17\npending_total  : 121\nvariable_paths : 0\nbitmap_cvg     : 0.73%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500318750\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Email_System_2/input -o /dev/shm/work/Email_System_2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Email_System_2/Email_System_2.dict -- data/linux/processed-challenges/Email_System_2/bin/Email_System_2\n'
+p25
+I0
+tp26
+a(I1560
+S'start_time     : 1500317425\nlast_update    : 1500318988\nfuzzer_pid     : 11216\ncycles_done    : 0\nexecs_done     : 920222\nexecs_per_sec  : 345.02\npaths_total    : 138\npaths_favored  : 23\npaths_found    : 137\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 74\npending_favs   : 17\npending_total  : 123\nvariable_paths : 0\nbitmap_cvg     : 0.73%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500318977\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Email_System_2/input -o /dev/shm/work/Email_System_2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Email_System_2/Email_System_2.dict -- data/linux/processed-challenges/Email_System_2/bin/Email_System_2\n'
+p27
+I3
+tp28
+a(I1680
+S'start_time     : 1500317425\nlast_update    : 1500319108\nfuzzer_pid     : 11216\ncycles_done    : 0\nexecs_done     : 963721\nexecs_per_sec  : 366.09\npaths_total    : 142\npaths_favored  : 23\npaths_found    : 141\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 74\npending_favs   : 17\npending_total  : 127\nvariable_paths : 0\nbitmap_cvg     : 0.75%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500319073\nlast_crash     : 0\nlast_hang      : 1500319054\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Email_System_2/input -o /dev/shm/work/Email_System_2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Email_System_2/Email_System_2.dict -- data/linux/processed-challenges/Email_System_2/bin/Email_System_2\n'
+p29
+I3
+tp30
+a(I1800
+S'start_time     : 1500317425\nlast_update    : 1500319228\nfuzzer_pid     : 11216\ncycles_done    : 0\nexecs_done     : 1007488\nexecs_per_sec  : 372.96\npaths_total    : 143\npaths_favored  : 23\npaths_found    : 142\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 74\npending_favs   : 17\npending_total  : 128\nvariable_paths : 0\nbitmap_cvg     : 0.75%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500319177\nlast_crash     : 0\nlast_hang      : 1500319054\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Email_System_2/input -o /dev/shm/work/Email_System_2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Email_System_2/Email_System_2.dict -- data/linux/processed-challenges/Email_System_2/bin/Email_System_2\n'
+p31
+I1
+tp32
+a(I1920
+S'start_time     : 1500317425\nlast_update    : 1500319349\nfuzzer_pid     : 11216\ncycles_done    : 0\nexecs_done     : 1060842\nexecs_per_sec  : 414.39\npaths_total    : 143\npaths_favored  : 27\npaths_found    : 142\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 84\npending_favs   : 19\npending_total  : 126\nvariable_paths : 0\nbitmap_cvg     : 0.75%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500319177\nlast_crash     : 0\nlast_hang      : 1500319054\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Email_System_2/input -o /dev/shm/work/Email_System_2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Email_System_2/Email_System_2.dict -- data/linux/processed-challenges/Email_System_2/bin/Email_System_2\n'
+p33
+I0
+tp34
+a(I2040
+S'start_time     : 1500317425\nlast_update    : 1500319469\nfuzzer_pid     : 11216\ncycles_done    : 0\nexecs_done     : 1104490\nexecs_per_sec  : 258.35\npaths_total    : 143\npaths_favored  : 27\npaths_found    : 142\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 95\npending_favs   : 18\npending_total  : 125\nvariable_paths : 0\nbitmap_cvg     : 0.75%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500319177\nlast_crash     : 0\nlast_hang      : 1500319054\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Email_System_2/input -o /dev/shm/work/Email_System_2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Email_System_2/Email_System_2.dict -- data/linux/processed-challenges/Email_System_2/bin/Email_System_2\n'
+p35
+I0
+tp36
+a(I2160
+S'start_time     : 1500317425\nlast_update    : 1500319589\nfuzzer_pid     : 11216\ncycles_done    : 0\nexecs_done     : 1133505\nexecs_per_sec  : 229.78\npaths_total    : 143\npaths_favored  : 27\npaths_found    : 142\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 95\npending_favs   : 18\npending_total  : 125\nvariable_paths : 0\nbitmap_cvg     : 0.75%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500319177\nlast_crash     : 0\nlast_hang      : 1500319054\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Email_System_2/input -o /dev/shm/work/Email_System_2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Email_System_2/Email_System_2.dict -- data/linux/processed-challenges/Email_System_2/bin/Email_System_2\n'
+p37
+I0
+tp38
+a(I2280
+S'start_time     : 1500317425\nlast_update    : 1500319709\nfuzzer_pid     : 11216\ncycles_done    : 0\nexecs_done     : 1163900\nexecs_per_sec  : 261.03\npaths_total    : 148\npaths_favored  : 27\npaths_found    : 147\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 95\npending_favs   : 18\npending_total  : 130\nvariable_paths : 0\nbitmap_cvg     : 0.77%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500319708\nlast_crash     : 0\nlast_hang      : 1500319054\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Email_System_2/input -o /dev/shm/work/Email_System_2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Email_System_2/Email_System_2.dict -- data/linux/processed-challenges/Email_System_2/bin/Email_System_2\n'
+p39
+I5
+tp40
+a(I2400
+S'start_time     : 1500317425\nlast_update    : 1500319829\nfuzzer_pid     : 11216\ncycles_done    : 0\nexecs_done     : 1194625\nexecs_per_sec  : 251.23\npaths_total    : 149\npaths_favored  : 27\npaths_found    : 148\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 95\npending_favs   : 18\npending_total  : 131\nvariable_paths : 0\nbitmap_cvg     : 0.77%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500319720\nlast_crash     : 0\nlast_hang      : 1500319054\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Email_System_2/input -o /dev/shm/work/Email_System_2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Email_System_2/Email_System_2.dict -- data/linux/processed-challenges/Email_System_2/bin/Email_System_2\n'
+p41
+I1
+tp42
+a(I2520
+S'start_time     : 1500317425\nlast_update    : 1500319949\nfuzzer_pid     : 11216\ncycles_done    : 0\nexecs_done     : 1225465\nexecs_per_sec  : 262.35\npaths_total    : 152\npaths_favored  : 27\npaths_found    : 151\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 95\npending_favs   : 18\npending_total  : 134\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500319922\nlast_crash     : 0\nlast_hang      : 1500319054\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Email_System_2/input -o /dev/shm/work/Email_System_2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Email_System_2/Email_System_2.dict -- data/linux/processed-challenges/Email_System_2/bin/Email_System_2\n'
+p43
+I3
+tp44
+a(I2640
+S'start_time     : 1500317425\nlast_update    : 1500320069\nfuzzer_pid     : 11216\ncycles_done    : 0\nexecs_done     : 1256465\nexecs_per_sec  : 250.22\npaths_total    : 154\npaths_favored  : 27\npaths_found    : 153\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 95\npending_favs   : 18\npending_total  : 136\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500320043\nlast_crash     : 0\nlast_hang      : 1500319054\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Email_System_2/input -o /dev/shm/work/Email_System_2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Email_System_2/Email_System_2.dict -- data/linux/processed-challenges/Email_System_2/bin/Email_System_2\n'
+p45
+I2
+tp46
+a(I2760
+S'start_time     : 1500317425\nlast_update    : 1500320190\nfuzzer_pid     : 11216\ncycles_done    : 0\nexecs_done     : 1305300\nexecs_per_sec  : 440.24\npaths_total    : 154\npaths_favored  : 28\npaths_found    : 153\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 98\npending_favs   : 19\npending_total  : 135\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500320043\nlast_crash     : 0\nlast_hang      : 1500319054\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Email_System_2/input -o /dev/shm/work/Email_System_2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Email_System_2/Email_System_2.dict -- data/linux/processed-challenges/Email_System_2/bin/Email_System_2\n'
+p47
+I0
+tp48
+a(I2880
+S'start_time     : 1500317425\nlast_update    : 1500320310\nfuzzer_pid     : 11216\ncycles_done    : 0\nexecs_done     : 1329636\nexecs_per_sec  : 190.26\npaths_total    : 154\npaths_favored  : 28\npaths_found    : 153\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 110\npending_favs   : 18\npending_total  : 134\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500320043\nlast_crash     : 0\nlast_hang      : 1500319054\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Email_System_2/input -o /dev/shm/work/Email_System_2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Email_System_2/Email_System_2.dict -- data/linux/processed-challenges/Email_System_2/bin/Email_System_2\n'
+p49
+I0
+tp50
+a(I3000
+S'start_time     : 1500317425\nlast_update    : 1500320430\nfuzzer_pid     : 11216\ncycles_done    : 0\nexecs_done     : 1351919\nexecs_per_sec  : 187.31\npaths_total    : 154\npaths_favored  : 28\npaths_found    : 153\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 110\npending_favs   : 18\npending_total  : 134\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500320043\nlast_crash     : 0\nlast_hang      : 1500320354\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Email_System_2/input -o /dev/shm/work/Email_System_2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Email_System_2/Email_System_2.dict -- data/linux/processed-challenges/Email_System_2/bin/Email_System_2\n'
+p51
+I0
+tp52
+a(I3120
+S'start_time     : 1500317425\nlast_update    : 1500320550\nfuzzer_pid     : 11216\ncycles_done    : 0\nexecs_done     : 1376179\nexecs_per_sec  : 247.75\npaths_total    : 165\npaths_favored  : 28\npaths_found    : 164\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 118\npending_favs   : 17\npending_total  : 144\nvariable_paths : 0\nbitmap_cvg     : 0.91%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500320540\nlast_crash     : 0\nlast_hang      : 1500320354\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Email_System_2/input -o /dev/shm/work/Email_System_2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Email_System_2/Email_System_2.dict -- data/linux/processed-challenges/Email_System_2/bin/Email_System_2\n'
+p53
+I11
+tp54
+a(I3240
+S'start_time     : 1500317425\nlast_update    : 1500320670\nfuzzer_pid     : 11216\ncycles_done    : 0\nexecs_done     : 1404524\nexecs_per_sec  : 199.04\npaths_total    : 177\npaths_favored  : 28\npaths_found    : 176\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 118\npending_favs   : 17\npending_total  : 156\nvariable_paths : 0\nbitmap_cvg     : 0.92%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500320667\nlast_crash     : 0\nlast_hang      : 1500320354\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Email_System_2/input -o /dev/shm/work/Email_System_2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Email_System_2/Email_System_2.dict -- data/linux/processed-challenges/Email_System_2/bin/Email_System_2\n'
+p55
+I12
+tp56
+a(I3360
+S'start_time     : 1500317425\nlast_update    : 1500320790\nfuzzer_pid     : 11216\ncycles_done    : 0\nexecs_done     : 1439732\nexecs_per_sec  : 329.64\npaths_total    : 186\npaths_favored  : 28\npaths_found    : 185\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 118\npending_favs   : 17\npending_total  : 165\nvariable_paths : 0\nbitmap_cvg     : 1.09%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500320784\nlast_crash     : 0\nlast_hang      : 1500320354\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Email_System_2/input -o /dev/shm/work/Email_System_2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Email_System_2/Email_System_2.dict -- data/linux/processed-challenges/Email_System_2/bin/Email_System_2\n'
+p57
+I9
+tp58
+a(I3480
+S'start_time     : 1500317425\nlast_update    : 1500320911\nfuzzer_pid     : 11216\ncycles_done    : 0\nexecs_done     : 1480178\nexecs_per_sec  : 339.07\npaths_total    : 195\npaths_favored  : 28\npaths_found    : 194\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 118\npending_favs   : 17\npending_total  : 174\nvariable_paths : 0\nbitmap_cvg     : 1.11%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500320904\nlast_crash     : 0\nlast_hang      : 1500320354\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Email_System_2/input -o /dev/shm/work/Email_System_2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Email_System_2/Email_System_2.dict -- data/linux/processed-challenges/Email_System_2/bin/Email_System_2\n'
+p59
+I10
+tp60
+a(I3600
+S'start_time     : 1500317425\nlast_update    : 1500321031\nfuzzer_pid     : 11216\ncycles_done    : 0\nexecs_done     : 1528959\nexecs_per_sec  : 516.28\npaths_total    : 196\npaths_favored  : 47\npaths_found    : 195\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 120\npending_favs   : 36\npending_total  : 174\nvariable_paths : 0\nbitmap_cvg     : 1.11%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500320912\nlast_crash     : 0\nlast_hang      : 1500320354\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Email_System_2/input -o /dev/shm/work/Email_System_2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Email_System_2/Email_System_2.dict -- data/linux/processed-challenges/Email_System_2/bin/Email_System_2\n'
+p61
+I0
+tp62
+a(I3720
+S'start_time     : 1500317425\nlast_update    : 1500321151\nfuzzer_pid     : 11216\ncycles_done    : 0\nexecs_done     : 1584026\nexecs_per_sec  : 460.75\npaths_total    : 200\npaths_favored  : 47\npaths_found    : 199\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 129\npending_favs   : 35\npending_total  : 177\nvariable_paths : 0\nbitmap_cvg     : 1.12%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500321129\nlast_crash     : 0\nlast_hang      : 1500320354\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Email_System_2/input -o /dev/shm/work/Email_System_2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Email_System_2/Email_System_2.dict -- data/linux/processed-challenges/Email_System_2/bin/Email_System_2\n'
+p63
+I4
+tp64
+a(I3840
+S'start_time     : 1500317425\nlast_update    : 1500321271\nfuzzer_pid     : 11216\ncycles_done    : 0\nexecs_done     : 1638265\nexecs_per_sec  : 452.25\npaths_total    : 205\npaths_favored  : 47\npaths_found    : 204\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 129\npending_favs   : 35\npending_total  : 182\nvariable_paths : 0\nbitmap_cvg     : 1.12%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500321236\nlast_crash     : 0\nlast_hang      : 1500320354\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Email_System_2/input -o /dev/shm/work/Email_System_2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Email_System_2/Email_System_2.dict -- data/linux/processed-challenges/Email_System_2/bin/Email_System_2\n'
+p65
+I5
+tp66
+a(I3960
+S'start_time     : 1500317425\nlast_update    : 1500321391\nfuzzer_pid     : 11216\ncycles_done    : 0\nexecs_done     : 1692721\nexecs_per_sec  : 442.82\npaths_total    : 207\npaths_favored  : 47\npaths_found    : 206\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 129\npending_favs   : 35\npending_total  : 184\nvariable_paths : 0\nbitmap_cvg     : 1.12%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500321365\nlast_crash     : 0\nlast_hang      : 1500320354\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Email_System_2/input -o /dev/shm/work/Email_System_2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Email_System_2/Email_System_2.dict -- data/linux/processed-challenges/Email_System_2/bin/Email_System_2\n'
+p67
+I2
+tp68
+a(I4080
+S'start_time     : 1500317425\nlast_update    : 1500321512\nfuzzer_pid     : 11216\ncycles_done    : 0\nexecs_done     : 1735209\nexecs_per_sec  : 238.77\npaths_total    : 210\npaths_favored  : 49\npaths_found    : 209\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 137\npending_favs   : 36\npending_total  : 186\nvariable_paths : 0\nbitmap_cvg     : 1.12%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500321479\nlast_crash     : 0\nlast_hang      : 1500320354\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Email_System_2/input -o /dev/shm/work/Email_System_2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Email_System_2/Email_System_2.dict -- data/linux/processed-challenges/Email_System_2/bin/Email_System_2\n'
+p69
+I3
+tp70
+a(I4200
+S'start_time     : 1500317425\nlast_update    : 1500321632\nfuzzer_pid     : 11216\ncycles_done    : 0\nexecs_done     : 1762708\nexecs_per_sec  : 223.79\npaths_total    : 211\npaths_favored  : 49\npaths_found    : 210\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 137\npending_favs   : 36\npending_total  : 187\nvariable_paths : 0\nbitmap_cvg     : 1.12%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500321542\nlast_crash     : 0\nlast_hang      : 1500320354\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Email_System_2/input -o /dev/shm/work/Email_System_2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Email_System_2/Email_System_2.dict -- data/linux/processed-challenges/Email_System_2/bin/Email_System_2\n'
+p71
+I1
+tp72
+a(I4320
+S'start_time     : 1500317425\nlast_update    : 1500321752\nfuzzer_pid     : 11216\ncycles_done    : 0\nexecs_done     : 1791785\nexecs_per_sec  : 246.95\npaths_total    : 213\npaths_favored  : 49\npaths_found    : 212\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 137\npending_favs   : 36\npending_total  : 189\nvariable_paths : 0\nbitmap_cvg     : 1.12%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500321716\nlast_crash     : 0\nlast_hang      : 1500320354\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Email_System_2/input -o /dev/shm/work/Email_System_2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Email_System_2/Email_System_2.dict -- data/linux/processed-challenges/Email_System_2/bin/Email_System_2\n'
+p73
+I2
+tp74
+a(I4440
+S'start_time     : 1500317425\nlast_update    : 1500321872\nfuzzer_pid     : 11216\ncycles_done    : 0\nexecs_done     : 1822148\nexecs_per_sec  : 243.62\npaths_total    : 213\npaths_favored  : 48\npaths_found    : 212\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 139\npending_favs   : 35\npending_total  : 188\nvariable_paths : 0\nbitmap_cvg     : 1.12%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500321716\nlast_crash     : 0\nlast_hang      : 1500320354\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Email_System_2/input -o /dev/shm/work/Email_System_2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Email_System_2/Email_System_2.dict -- data/linux/processed-challenges/Email_System_2/bin/Email_System_2\n'
+p75
+I0
+tp76
+a(I4560
+S'start_time     : 1500317425\nlast_update    : 1500321992\nfuzzer_pid     : 11216\ncycles_done    : 0\nexecs_done     : 1852043\nexecs_per_sec  : 226.93\npaths_total    : 213\npaths_favored  : 48\npaths_found    : 212\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 139\npending_favs   : 35\npending_total  : 188\nvariable_paths : 0\nbitmap_cvg     : 1.12%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500321716\nlast_crash     : 0\nlast_hang      : 1500320354\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Email_System_2/input -o /dev/shm/work/Email_System_2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Email_System_2/Email_System_2.dict -- data/linux/processed-challenges/Email_System_2/bin/Email_System_2\n'
+p77
+I0
+tp78
+a(I4680
+S'start_time     : 1500317425\nlast_update    : 1500322113\nfuzzer_pid     : 11216\ncycles_done    : 0\nexecs_done     : 1881439\nexecs_per_sec  : 259.15\npaths_total    : 214\npaths_favored  : 48\npaths_found    : 213\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 139\npending_favs   : 35\npending_total  : 189\nvariable_paths : 0\nbitmap_cvg     : 1.12%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500322044\nlast_crash     : 0\nlast_hang      : 1500322065\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Email_System_2/input -o /dev/shm/work/Email_System_2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Email_System_2/Email_System_2.dict -- data/linux/processed-challenges/Email_System_2/bin/Email_System_2\n'
+p79
+I1
+tp80
+a(I4800
+S'start_time     : 1500317425\nlast_update    : 1500322233\nfuzzer_pid     : 11216\ncycles_done    : 0\nexecs_done     : 1917670\nexecs_per_sec  : 294.14\npaths_total    : 214\npaths_favored  : 48\npaths_found    : 213\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 140\npending_favs   : 34\npending_total  : 188\nvariable_paths : 0\nbitmap_cvg     : 1.12%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500322044\nlast_crash     : 0\nlast_hang      : 1500322065\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Email_System_2/input -o /dev/shm/work/Email_System_2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Email_System_2/Email_System_2.dict -- data/linux/processed-challenges/Email_System_2/bin/Email_System_2\n'
+p81
+I0
+tp82
+a(I4920
+S'start_time     : 1500317425\nlast_update    : 1500322353\nfuzzer_pid     : 11216\ncycles_done    : 0\nexecs_done     : 1958338\nexecs_per_sec  : 343.04\npaths_total    : 216\npaths_favored  : 48\npaths_found    : 215\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 140\npending_favs   : 34\npending_total  : 190\nvariable_paths : 0\nbitmap_cvg     : 1.12%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500322281\nlast_crash     : 0\nlast_hang      : 1500322065\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Email_System_2/input -o /dev/shm/work/Email_System_2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Email_System_2/Email_System_2.dict -- data/linux/processed-challenges/Email_System_2/bin/Email_System_2\n'
+p83
+I2
+tp84
+a(I5040
+S'start_time     : 1500317425\nlast_update    : 1500322473\nfuzzer_pid     : 11216\ncycles_done    : 0\nexecs_done     : 1982288\nexecs_per_sec  : 199.08\npaths_total    : 216\npaths_favored  : 48\npaths_found    : 215\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 146\npending_favs   : 33\npending_total  : 189\nvariable_paths : 0\nbitmap_cvg     : 1.12%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500322281\nlast_crash     : 0\nlast_hang      : 1500322065\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Email_System_2/input -o /dev/shm/work/Email_System_2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Email_System_2/Email_System_2.dict -- data/linux/processed-challenges/Email_System_2/bin/Email_System_2\n'
+p85
+I0
+tp86
+a(I5160
+S'start_time     : 1500317425\nlast_update    : 1500322593\nfuzzer_pid     : 11216\ncycles_done    : 0\nexecs_done     : 2003885\nexecs_per_sec  : 246.25\npaths_total    : 218\npaths_favored  : 48\npaths_found    : 217\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 146\npending_favs   : 33\npending_total  : 191\nvariable_paths : 0\nbitmap_cvg     : 1.12%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500322584\nlast_crash     : 0\nlast_hang      : 1500322065\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Email_System_2/input -o /dev/shm/work/Email_System_2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Email_System_2/Email_System_2.dict -- data/linux/processed-challenges/Email_System_2/bin/Email_System_2\n'
+p87
+I2
+tp88
+a(I5280
+S'start_time     : 1500317425\nlast_update    : 1500322714\nfuzzer_pid     : 11216\ncycles_done    : 0\nexecs_done     : 2033437\nexecs_per_sec  : 245.21\npaths_total    : 226\npaths_favored  : 48\npaths_found    : 225\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 146\npending_favs   : 33\npending_total  : 199\nvariable_paths : 0\nbitmap_cvg     : 1.13%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500322710\nlast_crash     : 0\nlast_hang      : 1500322065\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Email_System_2/input -o /dev/shm/work/Email_System_2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Email_System_2/Email_System_2.dict -- data/linux/processed-challenges/Email_System_2/bin/Email_System_2\n'
+p89
+I8
+tp90
+a(I5400
+S'start_time     : 1500317425\nlast_update    : 1500322834\nfuzzer_pid     : 11216\ncycles_done    : 0\nexecs_done     : 2062451\nexecs_per_sec  : 248.32\npaths_total    : 227\npaths_favored  : 48\npaths_found    : 226\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 146\npending_favs   : 33\npending_total  : 200\nvariable_paths : 0\nbitmap_cvg     : 1.16%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500322789\nlast_crash     : 0\nlast_hang      : 1500322065\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Email_System_2/input -o /dev/shm/work/Email_System_2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Email_System_2/Email_System_2.dict -- data/linux/processed-challenges/Email_System_2/bin/Email_System_2\n'
+p91
+I1
+tp92
+a(I5520
+S'start_time     : 1500317425\nlast_update    : 1500322954\nfuzzer_pid     : 11216\ncycles_done    : 0\nexecs_done     : 2092066\nexecs_per_sec  : 281.53\npaths_total    : 230\npaths_favored  : 51\npaths_found    : 229\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 148\npending_favs   : 37\npending_total  : 202\nvariable_paths : 0\nbitmap_cvg     : 1.17%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500322885\nlast_crash     : 0\nlast_hang      : 1500322065\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Email_System_2/input -o /dev/shm/work/Email_System_2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Email_System_2/Email_System_2.dict -- data/linux/processed-challenges/Email_System_2/bin/Email_System_2\n'
+p93
+I3
+tp94
+a(I5640
+S'start_time     : 1500317425\nlast_update    : 1500323074\nfuzzer_pid     : 11216\ncycles_done    : 0\nexecs_done     : 2125674\nexecs_per_sec  : 259.77\npaths_total    : 230\npaths_favored  : 51\npaths_found    : 229\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 148\npending_favs   : 37\npending_total  : 202\nvariable_paths : 0\nbitmap_cvg     : 1.17%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500322885\nlast_crash     : 0\nlast_hang      : 1500322065\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Email_System_2/input -o /dev/shm/work/Email_System_2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Email_System_2/Email_System_2.dict -- data/linux/processed-challenges/Email_System_2/bin/Email_System_2\n'
+p95
+I0
+tp96
+a(I5760
+S'start_time     : 1500317425\nlast_update    : 1500323195\nfuzzer_pid     : 11216\ncycles_done    : 0\nexecs_done     : 2156452\nexecs_per_sec  : 229.19\npaths_total    : 230\npaths_favored  : 51\npaths_found    : 229\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 150\npending_favs   : 36\npending_total  : 201\nvariable_paths : 0\nbitmap_cvg     : 1.17%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500322885\nlast_crash     : 0\nlast_hang      : 1500322065\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Email_System_2/input -o /dev/shm/work/Email_System_2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Email_System_2/Email_System_2.dict -- data/linux/processed-challenges/Email_System_2/bin/Email_System_2\n'
+p97
+I0
+tp98
+a(I5880
+S'start_time     : 1500317425\nlast_update    : 1500323315\nfuzzer_pid     : 11216\ncycles_done    : 0\nexecs_done     : 2182178\nexecs_per_sec  : 227.63\npaths_total    : 230\npaths_favored  : 51\npaths_found    : 229\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 150\npending_favs   : 36\npending_total  : 201\nvariable_paths : 0\nbitmap_cvg     : 1.17%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500322885\nlast_crash     : 0\nlast_hang      : 1500322065\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Email_System_2/input -o /dev/shm/work/Email_System_2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Email_System_2/Email_System_2.dict -- data/linux/processed-challenges/Email_System_2/bin/Email_System_2\n'
+p99
+I0
+tp100
+a(I6000
+S'start_time     : 1500317425\nlast_update    : 1500323435\nfuzzer_pid     : 11216\ncycles_done    : 0\nexecs_done     : 2207291\nexecs_per_sec  : 215.76\npaths_total    : 230\npaths_favored  : 51\npaths_found    : 229\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 150\npending_favs   : 36\npending_total  : 201\nvariable_paths : 0\nbitmap_cvg     : 1.17%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500322885\nlast_crash     : 0\nlast_hang      : 1500322065\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Email_System_2/input -o /dev/shm/work/Email_System_2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Email_System_2/Email_System_2.dict -- data/linux/processed-challenges/Email_System_2/bin/Email_System_2\n'
+p101
+I0
+tp102
+a(I6120
+S'start_time     : 1500317425\nlast_update    : 1500323555\nfuzzer_pid     : 11216\ncycles_done    : 0\nexecs_done     : 2238827\nexecs_per_sec  : 281.06\npaths_total    : 231\npaths_favored  : 51\npaths_found    : 230\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 151\npending_favs   : 35\npending_total  : 201\nvariable_paths : 0\nbitmap_cvg     : 1.17%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500323485\nlast_crash     : 0\nlast_hang      : 1500322065\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Email_System_2/input -o /dev/shm/work/Email_System_2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Email_System_2/Email_System_2.dict -- data/linux/processed-challenges/Email_System_2/bin/Email_System_2\n'
+p103
+I1
+tp104
+a(I6240
+S'start_time     : 1500317425\nlast_update    : 1500323675\nfuzzer_pid     : 11216\ncycles_done    : 0\nexecs_done     : 2272941\nexecs_per_sec  : 298.31\npaths_total    : 231\npaths_favored  : 51\npaths_found    : 230\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 151\npending_favs   : 35\npending_total  : 201\nvariable_paths : 0\nbitmap_cvg     : 1.17%\nunique_crashes : 0\nunique_hangs   : 6\nlast_path      : 1500323485\nlast_crash     : 0\nlast_hang      : 1500323626\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Email_System_2/input -o /dev/shm/work/Email_System_2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Email_System_2/Email_System_2.dict -- data/linux/processed-challenges/Email_System_2/bin/Email_System_2\n'
+p105
+I0
+tp106
+a(I6360
+S'start_time     : 1500317425\nlast_update    : 1500323736\nfuzzer_pid     : 11216\ncycles_done    : 0\nexecs_done     : 2289981\nexecs_per_sec  : 276.84\npaths_total    : 231\npaths_favored  : 51\npaths_found    : 230\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 153\npending_favs   : 35\npending_total  : 200\nvariable_paths : 0\nbitmap_cvg     : 1.17%\nunique_crashes : 0\nunique_hangs   : 6\nlast_path      : 1500323485\nlast_crash     : 0\nlast_hang      : 1500323626\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Email_System_2/input -o /dev/shm/work/Email_System_2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Email_System_2/Email_System_2.dict -- data/linux/processed-challenges/Email_System_2/bin/Email_System_2\n'
+p107
+I0
+tp108
+a(I6480
+S'start_time     : 1500317425\nlast_update    : 1500323856\nfuzzer_pid     : 11216\ncycles_done    : 0\nexecs_done     : 2321910\nexecs_per_sec  : 251.44\npaths_total    : 231\npaths_favored  : 51\npaths_found    : 230\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 153\npending_favs   : 35\npending_total  : 200\nvariable_paths : 0\nbitmap_cvg     : 1.17%\nunique_crashes : 0\nunique_hangs   : 6\nlast_path      : 1500323485\nlast_crash     : 0\nlast_hang      : 1500323626\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Email_System_2/input -o /dev/shm/work/Email_System_2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Email_System_2/Email_System_2.dict -- data/linux/processed-challenges/Email_System_2/bin/Email_System_2\n'
+p109
+I0
+tp110
+a(I6600
+S'start_time     : 1500317425\nlast_update    : 1500323976\nfuzzer_pid     : 11216\ncycles_done    : 0\nexecs_done     : 2353023\nexecs_per_sec  : 251.73\npaths_total    : 233\npaths_favored  : 51\npaths_found    : 232\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 153\npending_favs   : 35\npending_total  : 202\nvariable_paths : 0\nbitmap_cvg     : 1.17%\nunique_crashes : 0\nunique_hangs   : 6\nlast_path      : 1500323966\nlast_crash     : 0\nlast_hang      : 1500323626\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Email_System_2/input -o /dev/shm/work/Email_System_2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Email_System_2/Email_System_2.dict -- data/linux/processed-challenges/Email_System_2/bin/Email_System_2\n'
+p111
+I2
+tp112
+a(I6720
+S'start_time     : 1500317425\nlast_update    : 1500324096\nfuzzer_pid     : 11216\ncycles_done    : 0\nexecs_done     : 2382424\nexecs_per_sec  : 230.99\npaths_total    : 234\npaths_favored  : 51\npaths_found    : 233\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 158\npending_favs   : 35\npending_total  : 202\nvariable_paths : 0\nbitmap_cvg     : 1.17%\nunique_crashes : 0\nunique_hangs   : 6\nlast_path      : 1500324061\nlast_crash     : 0\nlast_hang      : 1500323626\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Email_System_2/input -o /dev/shm/work/Email_System_2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Email_System_2/Email_System_2.dict -- data/linux/processed-challenges/Email_System_2/bin/Email_System_2\n'
+p113
+I1
+tp114
+a(I6840
+S'start_time     : 1500317425\nlast_update    : 1500324217\nfuzzer_pid     : 11216\ncycles_done    : 0\nexecs_done     : 2410570\nexecs_per_sec  : 181.26\npaths_total    : 234\npaths_favored  : 51\npaths_found    : 233\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 158\npending_favs   : 35\npending_total  : 202\nvariable_paths : 0\nbitmap_cvg     : 1.17%\nunique_crashes : 0\nunique_hangs   : 6\nlast_path      : 1500324061\nlast_crash     : 0\nlast_hang      : 1500323626\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Email_System_2/input -o /dev/shm/work/Email_System_2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Email_System_2/Email_System_2.dict -- data/linux/processed-challenges/Email_System_2/bin/Email_System_2\n'
+p115
+I0
+tp116
+a(I6960
+S'start_time     : 1500317425\nlast_update    : 1500324337\nfuzzer_pid     : 11216\ncycles_done    : 0\nexecs_done     : 2445050\nexecs_per_sec  : 288.54\npaths_total    : 234\npaths_favored  : 51\npaths_found    : 233\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 160\npending_favs   : 34\npending_total  : 201\nvariable_paths : 0\nbitmap_cvg     : 1.17%\nunique_crashes : 0\nunique_hangs   : 6\nlast_path      : 1500324061\nlast_crash     : 0\nlast_hang      : 1500323626\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Email_System_2/input -o /dev/shm/work/Email_System_2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Email_System_2/Email_System_2.dict -- data/linux/processed-challenges/Email_System_2/bin/Email_System_2\n'
+p117
+I0
+tp118
+a(I7080
+S'start_time     : 1500317425\nlast_update    : 1500324457\nfuzzer_pid     : 11216\ncycles_done    : 0\nexecs_done     : 2480176\nexecs_per_sec  : 356.31\npaths_total    : 234\npaths_favored  : 51\npaths_found    : 233\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 160\npending_favs   : 34\npending_total  : 201\nvariable_paths : 0\nbitmap_cvg     : 1.17%\nunique_crashes : 0\nunique_hangs   : 6\nlast_path      : 1500324061\nlast_crash     : 0\nlast_hang      : 1500323626\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Email_System_2/input -o /dev/shm/work/Email_System_2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Email_System_2/Email_System_2.dict -- data/linux/processed-challenges/Email_System_2/bin/Email_System_2\n'
+p119
+I0
+tp120
+a(I7200
+S'start_time     : 1500317425\nlast_update    : 1500324577\nfuzzer_pid     : 11216\ncycles_done    : 0\nexecs_done     : 2510783\nexecs_per_sec  : 224.58\npaths_total    : 234\npaths_favored  : 51\npaths_found    : 233\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 161\npending_favs   : 33\npending_total  : 200\nvariable_paths : 0\nbitmap_cvg     : 1.17%\nunique_crashes : 0\nunique_hangs   : 6\nlast_path      : 1500324061\nlast_crash     : 0\nlast_hang      : 1500323626\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Email_System_2/input -o /dev/shm/work/Email_System_2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Email_System_2/Email_System_2.dict -- data/linux/processed-challenges/Email_System_2/bin/Email_System_2\n'
+p121
+I0
+tp122
+a(I7320
+S'start_time     : 1500317425\nlast_update    : 1500324698\nfuzzer_pid     : 11216\ncycles_done    : 0\nexecs_done     : 2541139\nexecs_per_sec  : 354.41\npaths_total    : 235\npaths_favored  : 51\npaths_found    : 234\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 161\npending_favs   : 33\npending_total  : 201\nvariable_paths : 0\nbitmap_cvg     : 1.17%\nunique_crashes : 0\nunique_hangs   : 6\nlast_path      : 1500324669\nlast_crash     : 0\nlast_hang      : 1500323626\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Email_System_2/input -o /dev/shm/work/Email_System_2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Email_System_2/Email_System_2.dict -- data/linux/processed-challenges/Email_System_2/bin/Email_System_2\n'
+p123
+I2
+tp124
+a(I7440
+S'start_time     : 1500317425\nlast_update    : 1500324818\nfuzzer_pid     : 11216\ncycles_done    : 0\nexecs_done     : 2582409\nexecs_per_sec  : 341.62\npaths_total    : 237\npaths_favored  : 51\npaths_found    : 236\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 161\npending_favs   : 33\npending_total  : 203\nvariable_paths : 0\nbitmap_cvg     : 1.17%\nunique_crashes : 0\nunique_hangs   : 6\nlast_path      : 1500324771\nlast_crash     : 0\nlast_hang      : 1500323626\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Email_System_2/input -o /dev/shm/work/Email_System_2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Email_System_2/Email_System_2.dict -- data/linux/processed-challenges/Email_System_2/bin/Email_System_2\n'
+p125
+I1
+tp126
+a(I7560
+S'start_time     : 1500317425\nlast_update    : 1500324938\nfuzzer_pid     : 11216\ncycles_done    : 0\nexecs_done     : 2624101\nexecs_per_sec  : 342.80\npaths_total    : 238\npaths_favored  : 51\npaths_found    : 237\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 161\npending_favs   : 33\npending_total  : 204\nvariable_paths : 0\nbitmap_cvg     : 1.17%\nunique_crashes : 0\nunique_hangs   : 6\nlast_path      : 1500324922\nlast_crash     : 0\nlast_hang      : 1500323626\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Email_System_2/input -o /dev/shm/work/Email_System_2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Email_System_2/Email_System_2.dict -- data/linux/processed-challenges/Email_System_2/bin/Email_System_2\n'
+p127
+I1
+tp128
+a(I7680
+S'start_time     : 1500317425\nlast_update    : 1500325058\nfuzzer_pid     : 11216\ncycles_done    : 0\nexecs_done     : 2669299\nexecs_per_sec  : 405.80\npaths_total    : 238\npaths_favored  : 50\npaths_found    : 237\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 162\npending_favs   : 32\npending_total  : 203\nvariable_paths : 0\nbitmap_cvg     : 1.17%\nunique_crashes : 0\nunique_hangs   : 6\nlast_path      : 1500324922\nlast_crash     : 0\nlast_hang      : 1500323626\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Email_System_2/input -o /dev/shm/work/Email_System_2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Email_System_2/Email_System_2.dict -- data/linux/processed-challenges/Email_System_2/bin/Email_System_2\n'
+p129
+I0
+tp130
+a(I7800
+S'start_time     : 1500317425\nlast_update    : 1500325179\nfuzzer_pid     : 11216\ncycles_done    : 0\nexecs_done     : 2707673\nexecs_per_sec  : 224.65\npaths_total    : 238\npaths_favored  : 50\npaths_found    : 237\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 165\npending_favs   : 31\npending_total  : 202\nvariable_paths : 0\nbitmap_cvg     : 1.17%\nunique_crashes : 0\nunique_hangs   : 7\nlast_path      : 1500324922\nlast_crash     : 0\nlast_hang      : 1500325126\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Email_System_2/input -o /dev/shm/work/Email_System_2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Email_System_2/Email_System_2.dict -- data/linux/processed-challenges/Email_System_2/bin/Email_System_2\n'
+p131
+I0
+tp132
+a(I7920
+S'start_time     : 1500317425\nlast_update    : 1500325299\nfuzzer_pid     : 11216\ncycles_done    : 0\nexecs_done     : 2734737\nexecs_per_sec  : 181.18\npaths_total    : 238\npaths_favored  : 50\npaths_found    : 237\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 165\npending_favs   : 31\npending_total  : 202\nvariable_paths : 0\nbitmap_cvg     : 1.17%\nunique_crashes : 0\nunique_hangs   : 7\nlast_path      : 1500324922\nlast_crash     : 0\nlast_hang      : 1500325126\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Email_System_2/input -o /dev/shm/work/Email_System_2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Email_System_2/Email_System_2.dict -- data/linux/processed-challenges/Email_System_2/bin/Email_System_2\n'
+p133
+I1
+tp134
+a(I8040
+S'start_time     : 1500317425\nlast_update    : 1500325419\nfuzzer_pid     : 11216\ncycles_done    : 0\nexecs_done     : 2774680\nexecs_per_sec  : 343.32\npaths_total    : 240\npaths_favored  : 50\npaths_found    : 239\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 165\npending_favs   : 31\npending_total  : 204\nvariable_paths : 0\nbitmap_cvg     : 1.17%\nunique_crashes : 0\nunique_hangs   : 7\nlast_path      : 1500325389\nlast_crash     : 0\nlast_hang      : 1500325126\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Email_System_2/input -o /dev/shm/work/Email_System_2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Email_System_2/Email_System_2.dict -- data/linux/processed-challenges/Email_System_2/bin/Email_System_2\n'
+p135
+I1
+tp136
+a(I8160
+S'start_time     : 1500317425\nlast_update    : 1500325539\nfuzzer_pid     : 11216\ncycles_done    : 0\nexecs_done     : 2820762\nexecs_per_sec  : 378.82\npaths_total    : 240\npaths_favored  : 51\npaths_found    : 239\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 166\npending_favs   : 31\npending_total  : 203\nvariable_paths : 0\nbitmap_cvg     : 1.17%\nunique_crashes : 0\nunique_hangs   : 7\nlast_path      : 1500325389\nlast_crash     : 0\nlast_hang      : 1500325126\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Email_System_2/input -o /dev/shm/work/Email_System_2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Email_System_2/Email_System_2.dict -- data/linux/processed-challenges/Email_System_2/bin/Email_System_2\n'
+p137
+I0
+tp138
+a(I8280
+S'start_time     : 1500317425\nlast_update    : 1500325659\nfuzzer_pid     : 11216\ncycles_done    : 0\nexecs_done     : 2860119\nexecs_per_sec  : 268.21\npaths_total    : 240\npaths_favored  : 51\npaths_found    : 239\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 167\npending_favs   : 30\npending_total  : 202\nvariable_paths : 0\nbitmap_cvg     : 1.17%\nunique_crashes : 0\nunique_hangs   : 7\nlast_path      : 1500325389\nlast_crash     : 0\nlast_hang      : 1500325126\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Email_System_2/input -o /dev/shm/work/Email_System_2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Email_System_2/Email_System_2.dict -- data/linux/processed-challenges/Email_System_2/bin/Email_System_2\n'
+p139
+I0
+tp140
+a(I8400
+S'start_time     : 1500317425\nlast_update    : 1500325779\nfuzzer_pid     : 11216\ncycles_done    : 0\nexecs_done     : 2895675\nexecs_per_sec  : 372.99\npaths_total    : 241\npaths_favored  : 51\npaths_found    : 240\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 167\npending_favs   : 30\npending_total  : 203\nvariable_paths : 0\nbitmap_cvg     : 1.17%\nunique_crashes : 0\nunique_hangs   : 7\nlast_path      : 1500325752\nlast_crash     : 0\nlast_hang      : 1500325126\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Email_System_2/input -o /dev/shm/work/Email_System_2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Email_System_2/Email_System_2.dict -- data/linux/processed-challenges/Email_System_2/bin/Email_System_2\n'
+p141
+I1
+tp142
+a(I8520
+S'start_time     : 1500317425\nlast_update    : 1500325900\nfuzzer_pid     : 11216\ncycles_done    : 0\nexecs_done     : 2928075\nexecs_per_sec  : 271.10\npaths_total    : 241\npaths_favored  : 51\npaths_found    : 240\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 168\npending_favs   : 29\npending_total  : 202\nvariable_paths : 0\nbitmap_cvg     : 1.17%\nunique_crashes : 0\nunique_hangs   : 7\nlast_path      : 1500325752\nlast_crash     : 0\nlast_hang      : 1500325126\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Email_System_2/input -o /dev/shm/work/Email_System_2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Email_System_2/Email_System_2.dict -- data/linux/processed-challenges/Email_System_2/bin/Email_System_2\n'
+p143
+I0
+tp144
+a(I8640
+S'start_time     : 1500317425\nlast_update    : 1500326020\nfuzzer_pid     : 11216\ncycles_done    : 0\nexecs_done     : 2956620\nexecs_per_sec  : 345.25\npaths_total    : 242\npaths_favored  : 51\npaths_found    : 241\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 168\npending_favs   : 29\npending_total  : 203\nvariable_paths : 0\nbitmap_cvg     : 1.17%\nunique_crashes : 0\nunique_hangs   : 7\nlast_path      : 1500326004\nlast_crash     : 0\nlast_hang      : 1500325126\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Email_System_2/input -o /dev/shm/work/Email_System_2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Email_System_2/Email_System_2.dict -- data/linux/processed-challenges/Email_System_2/bin/Email_System_2\n'
+p145
+I2
+tp146
+a(I8760
+S'start_time     : 1500317425\nlast_update    : 1500326140\nfuzzer_pid     : 11216\ncycles_done    : 0\nexecs_done     : 2997346\nexecs_per_sec  : 340.87\npaths_total    : 243\npaths_favored  : 51\npaths_found    : 242\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 168\npending_favs   : 29\npending_total  : 204\nvariable_paths : 0\nbitmap_cvg     : 1.17%\nunique_crashes : 0\nunique_hangs   : 7\nlast_path      : 1500326064\nlast_crash     : 0\nlast_hang      : 1500325126\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Email_System_2/input -o /dev/shm/work/Email_System_2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Email_System_2/Email_System_2.dict -- data/linux/processed-challenges/Email_System_2/bin/Email_System_2\n'
+p147
+I2
+tp148
+a(I8880
+S'start_time     : 1500317425\nlast_update    : 1500326260\nfuzzer_pid     : 11216\ncycles_done    : 0\nexecs_done     : 3038292\nexecs_per_sec  : 344.33\npaths_total    : 245\npaths_favored  : 51\npaths_found    : 244\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 168\npending_favs   : 29\npending_total  : 206\nvariable_paths : 0\nbitmap_cvg     : 1.17%\nunique_crashes : 0\nunique_hangs   : 7\nlast_path      : 1500326170\nlast_crash     : 0\nlast_hang      : 1500325126\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Email_System_2/input -o /dev/shm/work/Email_System_2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Email_System_2/Email_System_2.dict -- data/linux/processed-challenges/Email_System_2/bin/Email_System_2\n'
+p149
+I0
+tp150
+a(I9000
+S'start_time     : 1500317425\nlast_update    : 1500326381\nfuzzer_pid     : 11216\ncycles_done    : 0\nexecs_done     : 3079665\nexecs_per_sec  : 356.12\npaths_total    : 245\npaths_favored  : 50\npaths_found    : 244\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 169\npending_favs   : 28\npending_total  : 205\nvariable_paths : 0\nbitmap_cvg     : 1.17%\nunique_crashes : 0\nunique_hangs   : 7\nlast_path      : 1500326170\nlast_crash     : 0\nlast_hang      : 1500325126\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Email_System_2/input -o /dev/shm/work/Email_System_2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Email_System_2/Email_System_2.dict -- data/linux/processed-challenges/Email_System_2/bin/Email_System_2\n'
+p151
+I0
+tp152
+a(I9120
+S'start_time     : 1500317425\nlast_update    : 1500326501\nfuzzer_pid     : 11216\ncycles_done    : 0\nexecs_done     : 3120031\nexecs_per_sec  : 383.14\npaths_total    : 245\npaths_favored  : 50\npaths_found    : 244\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 169\npending_favs   : 28\npending_total  : 205\nvariable_paths : 0\nbitmap_cvg     : 1.17%\nunique_crashes : 0\nunique_hangs   : 7\nlast_path      : 1500326170\nlast_crash     : 0\nlast_hang      : 1500325126\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Email_System_2/input -o /dev/shm/work/Email_System_2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Email_System_2/Email_System_2.dict -- data/linux/processed-challenges/Email_System_2/bin/Email_System_2\n'
+p153
+I11
+tp154
+a(I9240
+S'start_time     : 1500317425\nlast_update    : 1500326621\nfuzzer_pid     : 11216\ncycles_done    : 0\nexecs_done     : 3149195\nexecs_per_sec  : 248.83\npaths_total    : 256\npaths_favored  : 50\npaths_found    : 255\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 181\npending_favs   : 27\npending_total  : 215\nvariable_paths : 0\nbitmap_cvg     : 1.31%\nunique_crashes : 0\nunique_hangs   : 7\nlast_path      : 1500326548\nlast_crash     : 0\nlast_hang      : 1500325126\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Email_System_2/input -o /dev/shm/work/Email_System_2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Email_System_2/Email_System_2.dict -- data/linux/processed-challenges/Email_System_2/bin/Email_System_2\n'
+p155
+I6
+tp156
+a(I9360
+S'start_time     : 1500317425\nlast_update    : 1500326741\nfuzzer_pid     : 11216\ncycles_done    : 0\nexecs_done     : 3171651\nexecs_per_sec  : 195.27\npaths_total    : 263\npaths_favored  : 50\npaths_found    : 262\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 181\npending_favs   : 27\npending_total  : 222\nvariable_paths : 0\nbitmap_cvg     : 1.33%\nunique_crashes : 0\nunique_hangs   : 8\nlast_path      : 1500326725\nlast_crash     : 0\nlast_hang      : 1500326657\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Email_System_2/input -o /dev/shm/work/Email_System_2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Email_System_2/Email_System_2.dict -- data/linux/processed-challenges/Email_System_2/bin/Email_System_2\n'
+p157
+I7
+tp158
+a(I9480
+S'start_time     : 1500317425\nlast_update    : 1500326861\nfuzzer_pid     : 11216\ncycles_done    : 0\nexecs_done     : 3205798\nexecs_per_sec  : 283.48\npaths_total    : 273\npaths_favored  : 50\npaths_found    : 272\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 181\npending_favs   : 27\npending_total  : 232\nvariable_paths : 0\nbitmap_cvg     : 1.39%\nunique_crashes : 0\nunique_hangs   : 8\nlast_path      : 1500326852\nlast_crash     : 0\nlast_hang      : 1500326657\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Email_System_2/input -o /dev/shm/work/Email_System_2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Email_System_2/Email_System_2.dict -- data/linux/processed-challenges/Email_System_2/bin/Email_System_2\n'
+p159
+I7
+tp160
+a(I9600
+S'start_time     : 1500317425\nlast_update    : 1500326982\nfuzzer_pid     : 11216\ncycles_done    : 0\nexecs_done     : 3240408\nexecs_per_sec  : 291.26\npaths_total    : 278\npaths_favored  : 50\npaths_found    : 277\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 181\npending_favs   : 27\npending_total  : 237\nvariable_paths : 0\nbitmap_cvg     : 1.39%\nunique_crashes : 0\nunique_hangs   : 8\nlast_path      : 1500326964\nlast_crash     : 0\nlast_hang      : 1500326657\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Email_System_2/input -o /dev/shm/work/Email_System_2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Email_System_2/Email_System_2.dict -- data/linux/processed-challenges/Email_System_2/bin/Email_System_2\n'
+p161
+I4
+tp162
+a(I9720
+S'start_time     : 1500317425\nlast_update    : 1500327102\nfuzzer_pid     : 11216\ncycles_done    : 0\nexecs_done     : 3271374\nexecs_per_sec  : 222.61\npaths_total    : 281\npaths_favored  : 69\npaths_found    : 280\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 187\npending_favs   : 48\npending_total  : 239\nvariable_paths : 0\nbitmap_cvg     : 1.40%\nunique_crashes : 0\nunique_hangs   : 8\nlast_path      : 1500327047\nlast_crash     : 0\nlast_hang      : 1500326657\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Email_System_2/input -o /dev/shm/work/Email_System_2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Email_System_2/Email_System_2.dict -- data/linux/processed-challenges/Email_System_2/bin/Email_System_2\n'
+p163
+I1
+tp164
+a(I9840
+S'start_time     : 1500317425\nlast_update    : 1500327222\nfuzzer_pid     : 11216\ncycles_done    : 0\nexecs_done     : 3297498\nexecs_per_sec  : 201.32\npaths_total    : 281\npaths_favored  : 69\npaths_found    : 280\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 187\npending_favs   : 48\npending_total  : 239\nvariable_paths : 0\nbitmap_cvg     : 1.40%\nunique_crashes : 0\nunique_hangs   : 8\nlast_path      : 1500327047\nlast_crash     : 0\nlast_hang      : 1500326657\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Email_System_2/input -o /dev/shm/work/Email_System_2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Email_System_2/Email_System_2.dict -- data/linux/processed-challenges/Email_System_2/bin/Email_System_2\n'
+p165
+I0
+tp166
+a(I9960
+S'start_time     : 1500317425\nlast_update    : 1500327342\nfuzzer_pid     : 11216\ncycles_done    : 0\nexecs_done     : 3326033\nexecs_per_sec  : 188.56\npaths_total    : 281\npaths_favored  : 69\npaths_found    : 280\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 188\npending_favs   : 47\npending_total  : 238\nvariable_paths : 0\nbitmap_cvg     : 1.40%\nunique_crashes : 0\nunique_hangs   : 8\nlast_path      : 1500327047\nlast_crash     : 0\nlast_hang      : 1500326657\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Email_System_2/input -o /dev/shm/work/Email_System_2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Email_System_2/Email_System_2.dict -- data/linux/processed-challenges/Email_System_2/bin/Email_System_2\n'
+p167
+I0
+tp168
+a(I10080
+S'start_time     : 1500317425\nlast_update    : 1500327462\nfuzzer_pid     : 11216\ncycles_done    : 0\nexecs_done     : 3350396\nexecs_per_sec  : 171.12\npaths_total    : 281\npaths_favored  : 69\npaths_found    : 280\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 188\npending_favs   : 47\npending_total  : 238\nvariable_paths : 0\nbitmap_cvg     : 1.40%\nunique_crashes : 0\nunique_hangs   : 8\nlast_path      : 1500327047\nlast_crash     : 0\nlast_hang      : 1500326657\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Email_System_2/input -o /dev/shm/work/Email_System_2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Email_System_2/Email_System_2.dict -- data/linux/processed-challenges/Email_System_2/bin/Email_System_2\n'
+p169
+I0
+tp170
+a(I10200
+S'start_time     : 1500317425\nlast_update    : 1500327582\nfuzzer_pid     : 11216\ncycles_done    : 0\nexecs_done     : 3378539\nexecs_per_sec  : 382.63\npaths_total    : 281\npaths_favored  : 69\npaths_found    : 280\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 189\npending_favs   : 46\npending_total  : 237\nvariable_paths : 0\nbitmap_cvg     : 1.40%\nunique_crashes : 0\nunique_hangs   : 8\nlast_path      : 1500327047\nlast_crash     : 0\nlast_hang      : 1500326657\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Email_System_2/input -o /dev/shm/work/Email_System_2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Email_System_2/Email_System_2.dict -- data/linux/processed-challenges/Email_System_2/bin/Email_System_2\n'
+p171
+I0
+tp172
+a(I10320
+S'start_time     : 1500317425\nlast_update    : 1500327703\nfuzzer_pid     : 11216\ncycles_done    : 0\nexecs_done     : 3422252\nexecs_per_sec  : 378.52\npaths_total    : 281\npaths_favored  : 69\npaths_found    : 280\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 189\npending_favs   : 46\npending_total  : 237\nvariable_paths : 0\nbitmap_cvg     : 1.40%\nunique_crashes : 0\nunique_hangs   : 8\nlast_path      : 1500327047\nlast_crash     : 0\nlast_hang      : 1500326657\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Email_System_2/input -o /dev/shm/work/Email_System_2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Email_System_2/Email_System_2.dict -- data/linux/processed-challenges/Email_System_2/bin/Email_System_2\n'
+p173
+I1
+tp174
+a(I10440
+S'start_time     : 1500317425\nlast_update    : 1500327823\nfuzzer_pid     : 11216\ncycles_done    : 0\nexecs_done     : 3453303\nexecs_per_sec  : 210.14\npaths_total    : 282\npaths_favored  : 69\npaths_found    : 281\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 191\npending_favs   : 45\npending_total  : 237\nvariable_paths : 0\nbitmap_cvg     : 1.40%\nunique_crashes : 0\nunique_hangs   : 8\nlast_path      : 1500327717\nlast_crash     : 0\nlast_hang      : 1500326657\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Email_System_2/input -o /dev/shm/work/Email_System_2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Email_System_2/Email_System_2.dict -- data/linux/processed-challenges/Email_System_2/bin/Email_System_2\n'
+p175
+I0
+tp176
+a(I10560
+S'start_time     : 1500317425\nlast_update    : 1500327943\nfuzzer_pid     : 11216\ncycles_done    : 0\nexecs_done     : 3484813\nexecs_per_sec  : 333.14\npaths_total    : 282\npaths_favored  : 69\npaths_found    : 281\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 193\npending_favs   : 44\npending_total  : 236\nvariable_paths : 0\nbitmap_cvg     : 1.40%\nunique_crashes : 0\nunique_hangs   : 8\nlast_path      : 1500327717\nlast_crash     : 0\nlast_hang      : 1500326657\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Email_System_2/input -o /dev/shm/work/Email_System_2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Email_System_2/Email_System_2.dict -- data/linux/processed-challenges/Email_System_2/bin/Email_System_2\n'
+p177
+I0
+tp178
+a(I10680
+S'start_time     : 1500317425\nlast_update    : 1500328063\nfuzzer_pid     : 11216\ncycles_done    : 0\nexecs_done     : 3523696\nexecs_per_sec  : 332.67\npaths_total    : 282\npaths_favored  : 69\npaths_found    : 281\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 193\npending_favs   : 44\npending_total  : 236\nvariable_paths : 0\nbitmap_cvg     : 1.40%\nunique_crashes : 0\nunique_hangs   : 8\nlast_path      : 1500327717\nlast_crash     : 0\nlast_hang      : 1500326657\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Email_System_2/input -o /dev/shm/work/Email_System_2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Email_System_2/Email_System_2.dict -- data/linux/processed-challenges/Email_System_2/bin/Email_System_2\n'
+p179
+I0
+tp180
+a.

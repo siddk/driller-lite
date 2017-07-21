@@ -1,0 +1,452 @@
+(lp0
+(I0
+S'start_time     : 1499820022\nlast_update    : 1499820022\nfuzzer_pid     : 8451\ncycles_done    : 0\nexecs_done     : 10\nexecs_per_sec  : 208.33\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 1\npending_total  : 1\nvariable_paths : 0\nbitmap_cvg     : 0.21%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sad_Face_Template_Engine_SFTE/input -o /dev/shm/work/Sad_Face_Template_Engine_SFTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sad_Face_Template_Engine_SFTE/Sad_Face_Template_Engine_SFTE.dict -- data/linux/processed-challenges/Sad_Face_Template_Engine_SFTE/bin/Sad_Face_Template_Engine_SFTE\n'
+p1
+I22
+tp2
+a(I120
+S'start_time     : 1499820022\nlast_update    : 1499820142\nfuzzer_pid     : 8451\ncycles_done    : 0\nexecs_done     : 131612\nexecs_per_sec  : 1092.18\npaths_total    : 41\npaths_favored  : 1\npaths_found    : 40\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 1\npending_total  : 41\nvariable_paths : 0\nbitmap_cvg     : 0.62%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499820137\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sad_Face_Template_Engine_SFTE/input -o /dev/shm/work/Sad_Face_Template_Engine_SFTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sad_Face_Template_Engine_SFTE/Sad_Face_Template_Engine_SFTE.dict -- data/linux/processed-challenges/Sad_Face_Template_Engine_SFTE/bin/Sad_Face_Template_Engine_SFTE\n'
+p3
+I19
+tp4
+a(I240
+S'start_time     : 1499820022\nlast_update    : 1499820262\nfuzzer_pid     : 8451\ncycles_done    : 0\nexecs_done     : 264165\nexecs_per_sec  : 1109.00\npaths_total    : 75\npaths_favored  : 23\npaths_found    : 74\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 7\npending_favs   : 23\npending_total  : 74\nvariable_paths : 0\nbitmap_cvg     : 0.78%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499820261\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sad_Face_Template_Engine_SFTE/input -o /dev/shm/work/Sad_Face_Template_Engine_SFTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sad_Face_Template_Engine_SFTE/Sad_Face_Template_Engine_SFTE.dict -- data/linux/processed-challenges/Sad_Face_Template_Engine_SFTE/bin/Sad_Face_Template_Engine_SFTE\n'
+p5
+I34
+tp6
+a(I360
+S'start_time     : 1499820022\nlast_update    : 1499820382\nfuzzer_pid     : 8451\ncycles_done    : 0\nexecs_done     : 395614\nexecs_per_sec  : 1078.36\npaths_total    : 106\npaths_favored  : 47\npaths_found    : 105\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 10\npending_favs   : 47\npending_total  : 104\nvariable_paths : 0\nbitmap_cvg     : 0.87%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499820377\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sad_Face_Template_Engine_SFTE/input -o /dev/shm/work/Sad_Face_Template_Engine_SFTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sad_Face_Template_Engine_SFTE/Sad_Face_Template_Engine_SFTE.dict -- data/linux/processed-challenges/Sad_Face_Template_Engine_SFTE/bin/Sad_Face_Template_Engine_SFTE\n'
+p7
+I31
+tp8
+a(I480
+S'start_time     : 1499820022\nlast_update    : 1499820503\nfuzzer_pid     : 8451\ncycles_done    : 0\nexecs_done     : 521702\nexecs_per_sec  : 974.59\npaths_total    : 113\npaths_favored  : 57\npaths_found    : 112\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 22\npending_favs   : 55\npending_total  : 108\nvariable_paths : 0\nbitmap_cvg     : 0.88%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499820495\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sad_Face_Template_Engine_SFTE/input -o /dev/shm/work/Sad_Face_Template_Engine_SFTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sad_Face_Template_Engine_SFTE/Sad_Face_Template_Engine_SFTE.dict -- data/linux/processed-challenges/Sad_Face_Template_Engine_SFTE/bin/Sad_Face_Template_Engine_SFTE\n'
+p9
+I7
+tp10
+a(I600
+S'start_time     : 1499820022\nlast_update    : 1499820623\nfuzzer_pid     : 8451\ncycles_done    : 0\nexecs_done     : 633167\nexecs_per_sec  : 896.85\npaths_total    : 137\npaths_favored  : 57\npaths_found    : 136\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 40\npending_favs   : 49\npending_total  : 124\nvariable_paths : 0\nbitmap_cvg     : 0.93%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499820610\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sad_Face_Template_Engine_SFTE/input -o /dev/shm/work/Sad_Face_Template_Engine_SFTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sad_Face_Template_Engine_SFTE/Sad_Face_Template_Engine_SFTE.dict -- data/linux/processed-challenges/Sad_Face_Template_Engine_SFTE/bin/Sad_Face_Template_Engine_SFTE\n'
+p11
+I24
+tp12
+a(I720
+S'start_time     : 1499820022\nlast_update    : 1499820743\nfuzzer_pid     : 8451\ncycles_done    : 0\nexecs_done     : 741897\nexecs_per_sec  : 1041.70\npaths_total    : 149\npaths_favored  : 68\npaths_found    : 148\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 47\npending_favs   : 61\npending_total  : 133\nvariable_paths : 0\nbitmap_cvg     : 1.01%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499820739\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sad_Face_Template_Engine_SFTE/input -o /dev/shm/work/Sad_Face_Template_Engine_SFTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sad_Face_Template_Engine_SFTE/Sad_Face_Template_Engine_SFTE.dict -- data/linux/processed-challenges/Sad_Face_Template_Engine_SFTE/bin/Sad_Face_Template_Engine_SFTE\n'
+p13
+I12
+tp14
+a(I840
+S'start_time     : 1499820022\nlast_update    : 1499820863\nfuzzer_pid     : 8451\ncycles_done    : 0\nexecs_done     : 868893\nexecs_per_sec  : 1025.94\npaths_total    : 164\npaths_favored  : 68\npaths_found    : 163\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 53\npending_favs   : 60\npending_total  : 147\nvariable_paths : 0\nbitmap_cvg     : 1.07%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499820861\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sad_Face_Template_Engine_SFTE/input -o /dev/shm/work/Sad_Face_Template_Engine_SFTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sad_Face_Template_Engine_SFTE/Sad_Face_Template_Engine_SFTE.dict -- data/linux/processed-challenges/Sad_Face_Template_Engine_SFTE/bin/Sad_Face_Template_Engine_SFTE\n'
+p15
+I16
+tp16
+a(I960
+S'start_time     : 1499820022\nlast_update    : 1499820983\nfuzzer_pid     : 8451\ncycles_done    : 0\nexecs_done     : 986937\nexecs_per_sec  : 951.91\npaths_total    : 171\npaths_favored  : 82\npaths_found    : 170\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 63\npending_favs   : 69\npending_total  : 148\nvariable_paths : 0\nbitmap_cvg     : 1.07%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499820960\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sad_Face_Template_Engine_SFTE/input -o /dev/shm/work/Sad_Face_Template_Engine_SFTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sad_Face_Template_Engine_SFTE/Sad_Face_Template_Engine_SFTE.dict -- data/linux/processed-challenges/Sad_Face_Template_Engine_SFTE/bin/Sad_Face_Template_Engine_SFTE\n'
+p17
+I7
+tp18
+a(I1080
+S'start_time     : 1499820022\nlast_update    : 1499821104\nfuzzer_pid     : 8451\ncycles_done    : 0\nexecs_done     : 1108086\nexecs_per_sec  : 1028.41\npaths_total    : 191\npaths_favored  : 87\npaths_found    : 190\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 72\npending_favs   : 66\npending_total  : 161\nvariable_paths : 0\nbitmap_cvg     : 1.16%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499821102\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sad_Face_Template_Engine_SFTE/input -o /dev/shm/work/Sad_Face_Template_Engine_SFTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sad_Face_Template_Engine_SFTE/Sad_Face_Template_Engine_SFTE.dict -- data/linux/processed-challenges/Sad_Face_Template_Engine_SFTE/bin/Sad_Face_Template_Engine_SFTE\n'
+p19
+I20
+tp20
+a(I1200
+S'start_time     : 1499820022\nlast_update    : 1499821224\nfuzzer_pid     : 8451\ncycles_done    : 0\nexecs_done     : 1232456\nexecs_per_sec  : 971.77\npaths_total    : 200\npaths_favored  : 95\npaths_found    : 199\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 77\npending_favs   : 73\npending_total  : 168\nvariable_paths : 0\nbitmap_cvg     : 1.17%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499821214\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sad_Face_Template_Engine_SFTE/input -o /dev/shm/work/Sad_Face_Template_Engine_SFTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sad_Face_Template_Engine_SFTE/Sad_Face_Template_Engine_SFTE.dict -- data/linux/processed-challenges/Sad_Face_Template_Engine_SFTE/bin/Sad_Face_Template_Engine_SFTE\n'
+p21
+I8
+tp22
+a(I1320
+S'start_time     : 1499820022\nlast_update    : 1499821344\nfuzzer_pid     : 8451\ncycles_done    : 0\nexecs_done     : 1349799\nexecs_per_sec  : 969.31\npaths_total    : 203\npaths_favored  : 98\npaths_found    : 202\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 93\npending_favs   : 67\npending_total  : 162\nvariable_paths : 0\nbitmap_cvg     : 1.18%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499821311\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sad_Face_Template_Engine_SFTE/input -o /dev/shm/work/Sad_Face_Template_Engine_SFTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sad_Face_Template_Engine_SFTE/Sad_Face_Template_Engine_SFTE.dict -- data/linux/processed-challenges/Sad_Face_Template_Engine_SFTE/bin/Sad_Face_Template_Engine_SFTE\n'
+p23
+I3
+tp24
+a(I1440
+S'start_time     : 1499820022\nlast_update    : 1499821464\nfuzzer_pid     : 8451\ncycles_done    : 0\nexecs_done     : 1452291\nexecs_per_sec  : 917.58\npaths_total    : 205\npaths_favored  : 99\npaths_found    : 204\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 110\npending_favs   : 61\npending_total  : 157\nvariable_paths : 0\nbitmap_cvg     : 1.18%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499821361\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sad_Face_Template_Engine_SFTE/input -o /dev/shm/work/Sad_Face_Template_Engine_SFTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sad_Face_Template_Engine_SFTE/Sad_Face_Template_Engine_SFTE.dict -- data/linux/processed-challenges/Sad_Face_Template_Engine_SFTE/bin/Sad_Face_Template_Engine_SFTE\n'
+p25
+I2
+tp26
+a(I1560
+S'start_time     : 1499820022\nlast_update    : 1499821585\nfuzzer_pid     : 8451\ncycles_done    : 0\nexecs_done     : 1574325\nexecs_per_sec  : 1027.19\npaths_total    : 209\npaths_favored  : 99\npaths_found    : 208\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 114\npending_favs   : 57\npending_total  : 157\nvariable_paths : 0\nbitmap_cvg     : 1.23%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499821515\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sad_Face_Template_Engine_SFTE/input -o /dev/shm/work/Sad_Face_Template_Engine_SFTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sad_Face_Template_Engine_SFTE/Sad_Face_Template_Engine_SFTE.dict -- data/linux/processed-challenges/Sad_Face_Template_Engine_SFTE/bin/Sad_Face_Template_Engine_SFTE\n'
+p27
+I4
+tp28
+a(I1680
+S'start_time     : 1499820022\nlast_update    : 1499821705\nfuzzer_pid     : 8451\ncycles_done    : 0\nexecs_done     : 1673690\nexecs_per_sec  : 969.28\npaths_total    : 222\npaths_favored  : 100\npaths_found    : 221\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 129\npending_favs   : 52\npending_total  : 163\nvariable_paths : 0\nbitmap_cvg     : 1.26%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499821703\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sad_Face_Template_Engine_SFTE/input -o /dev/shm/work/Sad_Face_Template_Engine_SFTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sad_Face_Template_Engine_SFTE/Sad_Face_Template_Engine_SFTE.dict -- data/linux/processed-challenges/Sad_Face_Template_Engine_SFTE/bin/Sad_Face_Template_Engine_SFTE\n'
+p29
+I14
+tp30
+a(I1800
+S'start_time     : 1499820022\nlast_update    : 1499821825\nfuzzer_pid     : 8451\ncycles_done    : 0\nexecs_done     : 1789227\nexecs_per_sec  : 958.48\npaths_total    : 237\npaths_favored  : 100\npaths_found    : 236\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 129\npending_favs   : 52\npending_total  : 178\nvariable_paths : 0\nbitmap_cvg     : 1.29%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499821819\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sad_Face_Template_Engine_SFTE/input -o /dev/shm/work/Sad_Face_Template_Engine_SFTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sad_Face_Template_Engine_SFTE/Sad_Face_Template_Engine_SFTE.dict -- data/linux/processed-challenges/Sad_Face_Template_Engine_SFTE/bin/Sad_Face_Template_Engine_SFTE\n'
+p31
+I15
+tp32
+a(I1920
+S'start_time     : 1499820022\nlast_update    : 1499821945\nfuzzer_pid     : 8451\ncycles_done    : 0\nexecs_done     : 1880118\nexecs_per_sec  : 754.87\npaths_total    : 246\npaths_favored  : 107\npaths_found    : 245\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 131\npending_favs   : 60\npending_total  : 185\nvariable_paths : 0\nbitmap_cvg     : 1.31%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499821938\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sad_Face_Template_Engine_SFTE/input -o /dev/shm/work/Sad_Face_Template_Engine_SFTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sad_Face_Template_Engine_SFTE/Sad_Face_Template_Engine_SFTE.dict -- data/linux/processed-challenges/Sad_Face_Template_Engine_SFTE/bin/Sad_Face_Template_Engine_SFTE\n'
+p33
+I8
+tp34
+a(I2040
+S'start_time     : 1499820022\nlast_update    : 1499822066\nfuzzer_pid     : 8451\ncycles_done    : 0\nexecs_done     : 1972933\nexecs_per_sec  : 767.53\npaths_total    : 247\npaths_favored  : 107\npaths_found    : 246\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 131\npending_favs   : 60\npending_total  : 186\nvariable_paths : 0\nbitmap_cvg     : 1.31%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499822006\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sad_Face_Template_Engine_SFTE/input -o /dev/shm/work/Sad_Face_Template_Engine_SFTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sad_Face_Template_Engine_SFTE/Sad_Face_Template_Engine_SFTE.dict -- data/linux/processed-challenges/Sad_Face_Template_Engine_SFTE/bin/Sad_Face_Template_Engine_SFTE\n'
+p35
+I2
+tp36
+a(I2160
+S'start_time     : 1499820022\nlast_update    : 1499822186\nfuzzer_pid     : 8451\ncycles_done    : 0\nexecs_done     : 2054240\nexecs_per_sec  : 381.47\npaths_total    : 255\npaths_favored  : 113\npaths_found    : 254\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 138\npending_favs   : 63\npending_total  : 190\nvariable_paths : 0\nbitmap_cvg     : 1.32%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499822182\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sad_Face_Template_Engine_SFTE/input -o /dev/shm/work/Sad_Face_Template_Engine_SFTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sad_Face_Template_Engine_SFTE/Sad_Face_Template_Engine_SFTE.dict -- data/linux/processed-challenges/Sad_Face_Template_Engine_SFTE/bin/Sad_Face_Template_Engine_SFTE\n'
+p37
+I7
+tp38
+a(I2280
+S'start_time     : 1499820022\nlast_update    : 1499822306\nfuzzer_pid     : 8451\ncycles_done    : 0\nexecs_done     : 2111104\nexecs_per_sec  : 565.43\npaths_total    : 284\npaths_favored  : 113\npaths_found    : 283\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 138\npending_favs   : 63\npending_total  : 219\nvariable_paths : 0\nbitmap_cvg     : 1.46%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499822296\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sad_Face_Template_Engine_SFTE/input -o /dev/shm/work/Sad_Face_Template_Engine_SFTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sad_Face_Template_Engine_SFTE/Sad_Face_Template_Engine_SFTE.dict -- data/linux/processed-challenges/Sad_Face_Template_Engine_SFTE/bin/Sad_Face_Template_Engine_SFTE\n'
+p39
+I29
+tp40
+a(I2400
+S'start_time     : 1499820022\nlast_update    : 1499822426\nfuzzer_pid     : 8451\ncycles_done    : 0\nexecs_done     : 2185821\nexecs_per_sec  : 752.81\npaths_total    : 292\npaths_favored  : 119\npaths_found    : 291\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 141\npending_favs   : 70\npending_total  : 225\nvariable_paths : 0\nbitmap_cvg     : 1.48%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499822396\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sad_Face_Template_Engine_SFTE/input -o /dev/shm/work/Sad_Face_Template_Engine_SFTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sad_Face_Template_Engine_SFTE/Sad_Face_Template_Engine_SFTE.dict -- data/linux/processed-challenges/Sad_Face_Template_Engine_SFTE/bin/Sad_Face_Template_Engine_SFTE\n'
+p41
+I8
+tp42
+a(I2520
+S'start_time     : 1499820022\nlast_update    : 1499822547\nfuzzer_pid     : 8451\ncycles_done    : 0\nexecs_done     : 2263333\nexecs_per_sec  : 726.85\npaths_total    : 309\npaths_favored  : 119\npaths_found    : 308\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 142\npending_favs   : 69\npending_total  : 241\nvariable_paths : 0\nbitmap_cvg     : 1.53%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499822538\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sad_Face_Template_Engine_SFTE/input -o /dev/shm/work/Sad_Face_Template_Engine_SFTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sad_Face_Template_Engine_SFTE/Sad_Face_Template_Engine_SFTE.dict -- data/linux/processed-challenges/Sad_Face_Template_Engine_SFTE/bin/Sad_Face_Template_Engine_SFTE\n'
+p43
+I18
+tp44
+a(I2640
+S'start_time     : 1499820022\nlast_update    : 1499822667\nfuzzer_pid     : 8451\ncycles_done    : 0\nexecs_done     : 2337581\nexecs_per_sec  : 459.98\npaths_total    : 313\npaths_favored  : 123\npaths_found    : 312\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 145\npending_favs   : 72\npending_total  : 243\nvariable_paths : 0\nbitmap_cvg     : 1.54%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499822635\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sad_Face_Template_Engine_SFTE/input -o /dev/shm/work/Sad_Face_Template_Engine_SFTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sad_Face_Template_Engine_SFTE/Sad_Face_Template_Engine_SFTE.dict -- data/linux/processed-challenges/Sad_Face_Template_Engine_SFTE/bin/Sad_Face_Template_Engine_SFTE\n'
+p45
+I3
+tp46
+a(I2760
+S'start_time     : 1499820022\nlast_update    : 1499822787\nfuzzer_pid     : 8451\ncycles_done    : 0\nexecs_done     : 2440064\nexecs_per_sec  : 883.96\npaths_total    : 315\npaths_favored  : 125\npaths_found    : 314\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 151\npending_favs   : 70\npending_total  : 241\nvariable_paths : 0\nbitmap_cvg     : 1.54%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499822712\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sad_Face_Template_Engine_SFTE/input -o /dev/shm/work/Sad_Face_Template_Engine_SFTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sad_Face_Template_Engine_SFTE/Sad_Face_Template_Engine_SFTE.dict -- data/linux/processed-challenges/Sad_Face_Template_Engine_SFTE/bin/Sad_Face_Template_Engine_SFTE\n'
+p47
+I3
+tp48
+a(I2880
+S'start_time     : 1499820022\nlast_update    : 1499822907\nfuzzer_pid     : 8451\ncycles_done    : 0\nexecs_done     : 2551585\nexecs_per_sec  : 1002.19\npaths_total    : 318\npaths_favored  : 125\npaths_found    : 317\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 163\npending_favs   : 66\npending_total  : 239\nvariable_paths : 0\nbitmap_cvg     : 1.54%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499822877\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sad_Face_Template_Engine_SFTE/input -o /dev/shm/work/Sad_Face_Template_Engine_SFTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sad_Face_Template_Engine_SFTE/Sad_Face_Template_Engine_SFTE.dict -- data/linux/processed-challenges/Sad_Face_Template_Engine_SFTE/bin/Sad_Face_Template_Engine_SFTE\n'
+p49
+I2
+tp50
+a(I3000
+S'start_time     : 1499820022\nlast_update    : 1499823028\nfuzzer_pid     : 8451\ncycles_done    : 0\nexecs_done     : 2666482\nexecs_per_sec  : 937.57\npaths_total    : 322\npaths_favored  : 126\npaths_found    : 321\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 173\npending_favs   : 63\npending_total  : 238\nvariable_paths : 0\nbitmap_cvg     : 1.55%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499823018\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sad_Face_Template_Engine_SFTE/input -o /dev/shm/work/Sad_Face_Template_Engine_SFTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sad_Face_Template_Engine_SFTE/Sad_Face_Template_Engine_SFTE.dict -- data/linux/processed-challenges/Sad_Face_Template_Engine_SFTE/bin/Sad_Face_Template_Engine_SFTE\n'
+p51
+I4
+tp52
+a(I3120
+S'start_time     : 1499820022\nlast_update    : 1499823148\nfuzzer_pid     : 8451\ncycles_done    : 0\nexecs_done     : 2777858\nexecs_per_sec  : 899.65\npaths_total    : 326\npaths_favored  : 126\npaths_found    : 325\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 177\npending_favs   : 60\npending_total  : 239\nvariable_paths : 0\nbitmap_cvg     : 1.55%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499823132\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sad_Face_Template_Engine_SFTE/input -o /dev/shm/work/Sad_Face_Template_Engine_SFTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sad_Face_Template_Engine_SFTE/Sad_Face_Template_Engine_SFTE.dict -- data/linux/processed-challenges/Sad_Face_Template_Engine_SFTE/bin/Sad_Face_Template_Engine_SFTE\n'
+p53
+I4
+tp54
+a(I3240
+S'start_time     : 1499820022\nlast_update    : 1499823268\nfuzzer_pid     : 8451\ncycles_done    : 0\nexecs_done     : 2889073\nexecs_per_sec  : 995.98\npaths_total    : 328\npaths_favored  : 128\npaths_found    : 327\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 178\npending_favs   : 61\npending_total  : 240\nvariable_paths : 0\nbitmap_cvg     : 1.55%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499823201\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sad_Face_Template_Engine_SFTE/input -o /dev/shm/work/Sad_Face_Template_Engine_SFTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sad_Face_Template_Engine_SFTE/Sad_Face_Template_Engine_SFTE.dict -- data/linux/processed-challenges/Sad_Face_Template_Engine_SFTE/bin/Sad_Face_Template_Engine_SFTE\n'
+p55
+I2
+tp56
+a(I3360
+S'start_time     : 1499820022\nlast_update    : 1499823388\nfuzzer_pid     : 8451\ncycles_done    : 0\nexecs_done     : 2989738\nexecs_per_sec  : 874.75\npaths_total    : 329\npaths_favored  : 128\npaths_found    : 328\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 194\npending_favs   : 57\npending_total  : 236\nvariable_paths : 0\nbitmap_cvg     : 1.55%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499823367\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sad_Face_Template_Engine_SFTE/input -o /dev/shm/work/Sad_Face_Template_Engine_SFTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sad_Face_Template_Engine_SFTE/Sad_Face_Template_Engine_SFTE.dict -- data/linux/processed-challenges/Sad_Face_Template_Engine_SFTE/bin/Sad_Face_Template_Engine_SFTE\n'
+p57
+I1
+tp58
+a(I3480
+S'start_time     : 1499820022\nlast_update    : 1499823508\nfuzzer_pid     : 8451\ncycles_done    : 0\nexecs_done     : 3096439\nexecs_per_sec  : 981.51\npaths_total    : 332\npaths_favored  : 128\npaths_found    : 331\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 198\npending_favs   : 54\npending_total  : 236\nvariable_paths : 0\nbitmap_cvg     : 1.55%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499823484\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sad_Face_Template_Engine_SFTE/input -o /dev/shm/work/Sad_Face_Template_Engine_SFTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sad_Face_Template_Engine_SFTE/Sad_Face_Template_Engine_SFTE.dict -- data/linux/processed-challenges/Sad_Face_Template_Engine_SFTE/bin/Sad_Face_Template_Engine_SFTE\n'
+p59
+I3
+tp60
+a(I3600
+S'start_time     : 1499820022\nlast_update    : 1499823628\nfuzzer_pid     : 8451\ncycles_done    : 0\nexecs_done     : 3209433\nexecs_per_sec  : 891.56\npaths_total    : 334\npaths_favored  : 129\npaths_found    : 333\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 209\npending_favs   : 50\npending_total  : 232\nvariable_paths : 0\nbitmap_cvg     : 1.56%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499823600\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sad_Face_Template_Engine_SFTE/input -o /dev/shm/work/Sad_Face_Template_Engine_SFTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sad_Face_Template_Engine_SFTE/Sad_Face_Template_Engine_SFTE.dict -- data/linux/processed-challenges/Sad_Face_Template_Engine_SFTE/bin/Sad_Face_Template_Engine_SFTE\n'
+p61
+I2
+tp62
+a(I3720
+S'start_time     : 1499820022\nlast_update    : 1499823748\nfuzzer_pid     : 8451\ncycles_done    : 0\nexecs_done     : 3323225\nexecs_per_sec  : 975.70\npaths_total    : 357\npaths_favored  : 129\npaths_found    : 356\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 212\npending_favs   : 47\npending_total  : 252\nvariable_paths : 0\nbitmap_cvg     : 1.59%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499823728\nlast_crash     : 0\nlast_hang      : 1499823643\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sad_Face_Template_Engine_SFTE/input -o /dev/shm/work/Sad_Face_Template_Engine_SFTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sad_Face_Template_Engine_SFTE/Sad_Face_Template_Engine_SFTE.dict -- data/linux/processed-challenges/Sad_Face_Template_Engine_SFTE/bin/Sad_Face_Template_Engine_SFTE\n'
+p63
+I23
+tp64
+a(I3840
+S'start_time     : 1499820022\nlast_update    : 1499823868\nfuzzer_pid     : 8451\ncycles_done    : 0\nexecs_done     : 3431588\nexecs_per_sec  : 686.99\npaths_total    : 363\npaths_favored  : 141\npaths_found    : 362\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 214\npending_favs   : 61\npending_total  : 257\nvariable_paths : 0\nbitmap_cvg     : 1.59%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499823792\nlast_crash     : 0\nlast_hang      : 1499823643\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sad_Face_Template_Engine_SFTE/input -o /dev/shm/work/Sad_Face_Template_Engine_SFTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sad_Face_Template_Engine_SFTE/Sad_Face_Template_Engine_SFTE.dict -- data/linux/processed-challenges/Sad_Face_Template_Engine_SFTE/bin/Sad_Face_Template_Engine_SFTE\n'
+p65
+I6
+tp66
+a(I3960
+S'start_time     : 1499820022\nlast_update    : 1499823989\nfuzzer_pid     : 8451\ncycles_done    : 0\nexecs_done     : 3531488\nexecs_per_sec  : 848.47\npaths_total    : 372\npaths_favored  : 141\npaths_found    : 371\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 214\npending_favs   : 61\npending_total  : 266\nvariable_paths : 0\nbitmap_cvg     : 1.61%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499823957\nlast_crash     : 0\nlast_hang      : 1499823643\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sad_Face_Template_Engine_SFTE/input -o /dev/shm/work/Sad_Face_Template_Engine_SFTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sad_Face_Template_Engine_SFTE/Sad_Face_Template_Engine_SFTE.dict -- data/linux/processed-challenges/Sad_Face_Template_Engine_SFTE/bin/Sad_Face_Template_Engine_SFTE\n'
+p67
+I9
+tp68
+a(I4080
+S'start_time     : 1499820022\nlast_update    : 1499824109\nfuzzer_pid     : 8451\ncycles_done    : 0\nexecs_done     : 3623203\nexecs_per_sec  : 757.10\npaths_total    : 376\npaths_favored  : 143\npaths_found    : 375\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 223\npending_favs   : 63\npending_total  : 269\nvariable_paths : 0\nbitmap_cvg     : 1.64%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499824106\nlast_crash     : 0\nlast_hang      : 1499823643\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sad_Face_Template_Engine_SFTE/input -o /dev/shm/work/Sad_Face_Template_Engine_SFTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sad_Face_Template_Engine_SFTE/Sad_Face_Template_Engine_SFTE.dict -- data/linux/processed-challenges/Sad_Face_Template_Engine_SFTE/bin/Sad_Face_Template_Engine_SFTE\n'
+p69
+I4
+tp70
+a(I4200
+S'start_time     : 1499820022\nlast_update    : 1499824229\nfuzzer_pid     : 8451\ncycles_done    : 0\nexecs_done     : 3714497\nexecs_per_sec  : 742.19\npaths_total    : 379\npaths_favored  : 143\npaths_found    : 378\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 223\npending_favs   : 63\npending_total  : 272\nvariable_paths : 0\nbitmap_cvg     : 1.64%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499824168\nlast_crash     : 0\nlast_hang      : 1499823643\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sad_Face_Template_Engine_SFTE/input -o /dev/shm/work/Sad_Face_Template_Engine_SFTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sad_Face_Template_Engine_SFTE/Sad_Face_Template_Engine_SFTE.dict -- data/linux/processed-challenges/Sad_Face_Template_Engine_SFTE/bin/Sad_Face_Template_Engine_SFTE\n'
+p71
+I3
+tp72
+a(I4320
+S'start_time     : 1499820022\nlast_update    : 1499824349\nfuzzer_pid     : 8451\ncycles_done    : 0\nexecs_done     : 3800537\nexecs_per_sec  : 771.59\npaths_total    : 380\npaths_favored  : 143\npaths_found    : 379\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 225\npending_favs   : 64\npending_total  : 272\nvariable_paths : 0\nbitmap_cvg     : 1.64%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499824325\nlast_crash     : 0\nlast_hang      : 1499823643\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sad_Face_Template_Engine_SFTE/input -o /dev/shm/work/Sad_Face_Template_Engine_SFTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sad_Face_Template_Engine_SFTE/Sad_Face_Template_Engine_SFTE.dict -- data/linux/processed-challenges/Sad_Face_Template_Engine_SFTE/bin/Sad_Face_Template_Engine_SFTE\n'
+p73
+I1
+tp74
+a(I4440
+S'start_time     : 1499820022\nlast_update    : 1499824469\nfuzzer_pid     : 8451\ncycles_done    : 0\nexecs_done     : 3893997\nexecs_per_sec  : 751.41\npaths_total    : 387\npaths_favored  : 143\npaths_found    : 386\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 225\npending_favs   : 64\npending_total  : 279\nvariable_paths : 0\nbitmap_cvg     : 1.66%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499824420\nlast_crash     : 0\nlast_hang      : 1499823643\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sad_Face_Template_Engine_SFTE/input -o /dev/shm/work/Sad_Face_Template_Engine_SFTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sad_Face_Template_Engine_SFTE/Sad_Face_Template_Engine_SFTE.dict -- data/linux/processed-challenges/Sad_Face_Template_Engine_SFTE/bin/Sad_Face_Template_Engine_SFTE\n'
+p75
+I7
+tp76
+a(I4560
+S'start_time     : 1499820022\nlast_update    : 1499824589\nfuzzer_pid     : 8451\ncycles_done    : 0\nexecs_done     : 3976384\nexecs_per_sec  : 372.18\npaths_total    : 391\npaths_favored  : 144\npaths_found    : 390\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 237\npending_favs   : 62\npending_total  : 280\nvariable_paths : 0\nbitmap_cvg     : 1.66%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499824581\nlast_crash     : 0\nlast_hang      : 1499823643\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sad_Face_Template_Engine_SFTE/input -o /dev/shm/work/Sad_Face_Template_Engine_SFTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sad_Face_Template_Engine_SFTE/Sad_Face_Template_Engine_SFTE.dict -- data/linux/processed-challenges/Sad_Face_Template_Engine_SFTE/bin/Sad_Face_Template_Engine_SFTE\n'
+p77
+I4
+tp78
+a(I4680
+S'start_time     : 1499820022\nlast_update    : 1499824710\nfuzzer_pid     : 8451\ncycles_done    : 0\nexecs_done     : 4048442\nexecs_per_sec  : 616.88\npaths_total    : 410\npaths_favored  : 144\npaths_found    : 409\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 237\npending_favs   : 62\npending_total  : 299\nvariable_paths : 0\nbitmap_cvg     : 1.67%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499824699\nlast_crash     : 0\nlast_hang      : 1499823643\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sad_Face_Template_Engine_SFTE/input -o /dev/shm/work/Sad_Face_Template_Engine_SFTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sad_Face_Template_Engine_SFTE/Sad_Face_Template_Engine_SFTE.dict -- data/linux/processed-challenges/Sad_Face_Template_Engine_SFTE/bin/Sad_Face_Template_Engine_SFTE\n'
+p79
+I19
+tp80
+a(I4800
+S'start_time     : 1499820022\nlast_update    : 1499824830\nfuzzer_pid     : 8451\ncycles_done    : 0\nexecs_done     : 4124329\nexecs_per_sec  : 786.57\npaths_total    : 412\npaths_favored  : 145\npaths_found    : 411\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 241\npending_favs   : 62\npending_total  : 299\nvariable_paths : 0\nbitmap_cvg     : 1.68%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499824824\nlast_crash     : 0\nlast_hang      : 1499823643\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sad_Face_Template_Engine_SFTE/input -o /dev/shm/work/Sad_Face_Template_Engine_SFTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sad_Face_Template_Engine_SFTE/Sad_Face_Template_Engine_SFTE.dict -- data/linux/processed-challenges/Sad_Face_Template_Engine_SFTE/bin/Sad_Face_Template_Engine_SFTE\n'
+p81
+I2
+tp82
+a(I4920
+S'start_time     : 1499820022\nlast_update    : 1499824950\nfuzzer_pid     : 8451\ncycles_done    : 0\nexecs_done     : 4210145\nexecs_per_sec  : 576.05\npaths_total    : 412\npaths_favored  : 145\npaths_found    : 411\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 248\npending_favs   : 59\npending_total  : 296\nvariable_paths : 0\nbitmap_cvg     : 1.68%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499824824\nlast_crash     : 0\nlast_hang      : 1499823643\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sad_Face_Template_Engine_SFTE/input -o /dev/shm/work/Sad_Face_Template_Engine_SFTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sad_Face_Template_Engine_SFTE/Sad_Face_Template_Engine_SFTE.dict -- data/linux/processed-challenges/Sad_Face_Template_Engine_SFTE/bin/Sad_Face_Template_Engine_SFTE\n'
+p83
+I0
+tp84
+a(I5040
+S'start_time     : 1499820022\nlast_update    : 1499825070\nfuzzer_pid     : 8451\ncycles_done    : 0\nexecs_done     : 4265678\nexecs_per_sec  : 378.47\npaths_total    : 413\npaths_favored  : 145\npaths_found    : 412\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 271\npending_favs   : 57\npending_total  : 295\nvariable_paths : 0\nbitmap_cvg     : 1.68%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499825066\nlast_crash     : 0\nlast_hang      : 1499823643\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sad_Face_Template_Engine_SFTE/input -o /dev/shm/work/Sad_Face_Template_Engine_SFTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sad_Face_Template_Engine_SFTE/Sad_Face_Template_Engine_SFTE.dict -- data/linux/processed-challenges/Sad_Face_Template_Engine_SFTE/bin/Sad_Face_Template_Engine_SFTE\n'
+p85
+I1
+tp86
+a(I5160
+S'start_time     : 1499820022\nlast_update    : 1499825190\nfuzzer_pid     : 8451\ncycles_done    : 0\nexecs_done     : 4314704\nexecs_per_sec  : 513.15\npaths_total    : 415\npaths_favored  : 145\npaths_found    : 414\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 271\npending_favs   : 57\npending_total  : 297\nvariable_paths : 0\nbitmap_cvg     : 1.68%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499825166\nlast_crash     : 0\nlast_hang      : 1499823643\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sad_Face_Template_Engine_SFTE/input -o /dev/shm/work/Sad_Face_Template_Engine_SFTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sad_Face_Template_Engine_SFTE/Sad_Face_Template_Engine_SFTE.dict -- data/linux/processed-challenges/Sad_Face_Template_Engine_SFTE/bin/Sad_Face_Template_Engine_SFTE\n'
+p87
+I2
+tp88
+a(I5280
+S'start_time     : 1499820022\nlast_update    : 1499825311\nfuzzer_pid     : 8451\ncycles_done    : 0\nexecs_done     : 4377925\nexecs_per_sec  : 605.15\npaths_total    : 417\npaths_favored  : 146\npaths_found    : 416\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 274\npending_favs   : 57\npending_total  : 298\nvariable_paths : 0\nbitmap_cvg     : 1.68%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499825287\nlast_crash     : 0\nlast_hang      : 1499823643\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sad_Face_Template_Engine_SFTE/input -o /dev/shm/work/Sad_Face_Template_Engine_SFTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sad_Face_Template_Engine_SFTE/Sad_Face_Template_Engine_SFTE.dict -- data/linux/processed-challenges/Sad_Face_Template_Engine_SFTE/bin/Sad_Face_Template_Engine_SFTE\n'
+p89
+I2
+tp90
+a(I5400
+S'start_time     : 1499820022\nlast_update    : 1499825431\nfuzzer_pid     : 8451\ncycles_done    : 0\nexecs_done     : 4432950\nexecs_per_sec  : 550.34\npaths_total    : 417\npaths_favored  : 146\npaths_found    : 416\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 280\npending_favs   : 57\npending_total  : 297\nvariable_paths : 0\nbitmap_cvg     : 1.68%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499825287\nlast_crash     : 0\nlast_hang      : 1499823643\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sad_Face_Template_Engine_SFTE/input -o /dev/shm/work/Sad_Face_Template_Engine_SFTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sad_Face_Template_Engine_SFTE/Sad_Face_Template_Engine_SFTE.dict -- data/linux/processed-challenges/Sad_Face_Template_Engine_SFTE/bin/Sad_Face_Template_Engine_SFTE\n'
+p91
+I0
+tp92
+a(I5520
+S'start_time     : 1499820022\nlast_update    : 1499825551\nfuzzer_pid     : 8451\ncycles_done    : 0\nexecs_done     : 4492634\nexecs_per_sec  : 583.71\npaths_total    : 417\npaths_favored  : 146\npaths_found    : 416\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 285\npending_favs   : 55\npending_total  : 295\nvariable_paths : 0\nbitmap_cvg     : 1.68%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499825287\nlast_crash     : 0\nlast_hang      : 1499823643\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sad_Face_Template_Engine_SFTE/input -o /dev/shm/work/Sad_Face_Template_Engine_SFTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sad_Face_Template_Engine_SFTE/Sad_Face_Template_Engine_SFTE.dict -- data/linux/processed-challenges/Sad_Face_Template_Engine_SFTE/bin/Sad_Face_Template_Engine_SFTE\n'
+p93
+I0
+tp94
+a(I5640
+S'start_time     : 1499820022\nlast_update    : 1499825672\nfuzzer_pid     : 8451\ncycles_done    : 0\nexecs_done     : 4551693\nexecs_per_sec  : 396.33\npaths_total    : 417\npaths_favored  : 146\npaths_found    : 416\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 294\npending_favs   : 53\npending_total  : 293\nvariable_paths : 0\nbitmap_cvg     : 1.68%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499825287\nlast_crash     : 0\nlast_hang      : 1499823643\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sad_Face_Template_Engine_SFTE/input -o /dev/shm/work/Sad_Face_Template_Engine_SFTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sad_Face_Template_Engine_SFTE/Sad_Face_Template_Engine_SFTE.dict -- data/linux/processed-challenges/Sad_Face_Template_Engine_SFTE/bin/Sad_Face_Template_Engine_SFTE\n'
+p95
+I0
+tp96
+a(I5760
+S'start_time     : 1499820022\nlast_update    : 1499825792\nfuzzer_pid     : 8451\ncycles_done    : 0\nexecs_done     : 4617712\nexecs_per_sec  : 594.84\npaths_total    : 423\npaths_favored  : 146\npaths_found    : 422\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 294\npending_favs   : 53\npending_total  : 299\nvariable_paths : 0\nbitmap_cvg     : 1.68%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499825738\nlast_crash     : 0\nlast_hang      : 1499823643\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sad_Face_Template_Engine_SFTE/input -o /dev/shm/work/Sad_Face_Template_Engine_SFTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sad_Face_Template_Engine_SFTE/Sad_Face_Template_Engine_SFTE.dict -- data/linux/processed-challenges/Sad_Face_Template_Engine_SFTE/bin/Sad_Face_Template_Engine_SFTE\n'
+p97
+I6
+tp98
+a(I5880
+S'start_time     : 1499820022\nlast_update    : 1499825912\nfuzzer_pid     : 8451\ncycles_done    : 0\nexecs_done     : 4687735\nexecs_per_sec  : 459.63\npaths_total    : 427\npaths_favored  : 145\npaths_found    : 426\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 301\npending_favs   : 53\npending_total  : 302\nvariable_paths : 0\nbitmap_cvg     : 1.68%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499825908\nlast_crash     : 0\nlast_hang      : 1499823643\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sad_Face_Template_Engine_SFTE/input -o /dev/shm/work/Sad_Face_Template_Engine_SFTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sad_Face_Template_Engine_SFTE/Sad_Face_Template_Engine_SFTE.dict -- data/linux/processed-challenges/Sad_Face_Template_Engine_SFTE/bin/Sad_Face_Template_Engine_SFTE\n'
+p99
+I4
+tp100
+a(I6000
+S'start_time     : 1499820022\nlast_update    : 1499825972\nfuzzer_pid     : 8451\ncycles_done    : 0\nexecs_done     : 4720078\nexecs_per_sec  : 667.24\npaths_total    : 434\npaths_favored  : 145\npaths_found    : 433\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 301\npending_favs   : 53\npending_total  : 309\nvariable_paths : 0\nbitmap_cvg     : 1.68%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499825967\nlast_crash     : 0\nlast_hang      : 1499823643\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sad_Face_Template_Engine_SFTE/input -o /dev/shm/work/Sad_Face_Template_Engine_SFTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sad_Face_Template_Engine_SFTE/Sad_Face_Template_Engine_SFTE.dict -- data/linux/processed-challenges/Sad_Face_Template_Engine_SFTE/bin/Sad_Face_Template_Engine_SFTE\n'
+p101
+I10
+tp102
+a(I6120
+S'start_time     : 1499820022\nlast_update    : 1499826092\nfuzzer_pid     : 8451\ncycles_done    : 0\nexecs_done     : 4799473\nexecs_per_sec  : 637.34\npaths_total    : 439\npaths_favored  : 145\npaths_found    : 438\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 301\npending_favs   : 53\npending_total  : 314\nvariable_paths : 0\nbitmap_cvg     : 1.78%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499826083\nlast_crash     : 0\nlast_hang      : 1499823643\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sad_Face_Template_Engine_SFTE/input -o /dev/shm/work/Sad_Face_Template_Engine_SFTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sad_Face_Template_Engine_SFTE/Sad_Face_Template_Engine_SFTE.dict -- data/linux/processed-challenges/Sad_Face_Template_Engine_SFTE/bin/Sad_Face_Template_Engine_SFTE\n'
+p103
+I7
+tp104
+a(I6240
+S'start_time     : 1499820022\nlast_update    : 1499826212\nfuzzer_pid     : 8451\ncycles_done    : 0\nexecs_done     : 4848624\nexecs_per_sec  : 291.31\npaths_total    : 445\npaths_favored  : 144\npaths_found    : 444\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 304\npending_favs   : 53\npending_total  : 319\nvariable_paths : 0\nbitmap_cvg     : 1.81%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499826188\nlast_crash     : 0\nlast_hang      : 1499823643\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sad_Face_Template_Engine_SFTE/input -o /dev/shm/work/Sad_Face_Template_Engine_SFTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sad_Face_Template_Engine_SFTE/Sad_Face_Template_Engine_SFTE.dict -- data/linux/processed-challenges/Sad_Face_Template_Engine_SFTE/bin/Sad_Face_Template_Engine_SFTE\n'
+p105
+I28
+tp106
+a(I6360
+S'start_time     : 1499820022\nlast_update    : 1499826333\nfuzzer_pid     : 8451\ncycles_done    : 0\nexecs_done     : 4900735\nexecs_per_sec  : 449.36\npaths_total    : 482\npaths_favored  : 144\npaths_found    : 481\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 304\npending_favs   : 53\npending_total  : 356\nvariable_paths : 0\nbitmap_cvg     : 1.83%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499826314\nlast_crash     : 0\nlast_hang      : 1499823643\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sad_Face_Template_Engine_SFTE/input -o /dev/shm/work/Sad_Face_Template_Engine_SFTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sad_Face_Template_Engine_SFTE/Sad_Face_Template_Engine_SFTE.dict -- data/linux/processed-challenges/Sad_Face_Template_Engine_SFTE/bin/Sad_Face_Template_Engine_SFTE\n'
+p107
+I13
+tp108
+a(I6480
+S'start_time     : 1499820022\nlast_update    : 1499826453\nfuzzer_pid     : 8451\ncycles_done    : 0\nexecs_done     : 4970709\nexecs_per_sec  : 972.50\npaths_total    : 489\npaths_favored  : 149\npaths_found    : 488\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 313\npending_favs   : 61\npending_total  : 362\nvariable_paths : 0\nbitmap_cvg     : 1.83%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499826448\nlast_crash     : 0\nlast_hang      : 1499823643\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sad_Face_Template_Engine_SFTE/input -o /dev/shm/work/Sad_Face_Template_Engine_SFTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sad_Face_Template_Engine_SFTE/Sad_Face_Template_Engine_SFTE.dict -- data/linux/processed-challenges/Sad_Face_Template_Engine_SFTE/bin/Sad_Face_Template_Engine_SFTE\n'
+p109
+I5
+tp110
+a(I6600
+S'start_time     : 1499820022\nlast_update    : 1499826573\nfuzzer_pid     : 8451\ncycles_done    : 0\nexecs_done     : 5086072\nexecs_per_sec  : 945.49\npaths_total    : 494\npaths_favored  : 152\npaths_found    : 493\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 325\npending_favs   : 61\npending_total  : 363\nvariable_paths : 0\nbitmap_cvg     : 1.84%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499826569\nlast_crash     : 0\nlast_hang      : 1499823643\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sad_Face_Template_Engine_SFTE/input -o /dev/shm/work/Sad_Face_Template_Engine_SFTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sad_Face_Template_Engine_SFTE/Sad_Face_Template_Engine_SFTE.dict -- data/linux/processed-challenges/Sad_Face_Template_Engine_SFTE/bin/Sad_Face_Template_Engine_SFTE\n'
+p111
+I5
+tp112
+a(I6720
+S'start_time     : 1499820022\nlast_update    : 1499826694\nfuzzer_pid     : 8451\ncycles_done    : 0\nexecs_done     : 5189268\nexecs_per_sec  : 829.86\npaths_total    : 500\npaths_favored  : 153\npaths_found    : 499\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 326\npending_favs   : 61\npending_total  : 368\nvariable_paths : 0\nbitmap_cvg     : 1.84%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499826677\nlast_crash     : 0\nlast_hang      : 1499823643\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sad_Face_Template_Engine_SFTE/input -o /dev/shm/work/Sad_Face_Template_Engine_SFTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sad_Face_Template_Engine_SFTE/Sad_Face_Template_Engine_SFTE.dict -- data/linux/processed-challenges/Sad_Face_Template_Engine_SFTE/bin/Sad_Face_Template_Engine_SFTE\n'
+p113
+I10
+tp114
+a(I6840
+S'start_time     : 1499820022\nlast_update    : 1499826814\nfuzzer_pid     : 8451\ncycles_done    : 0\nexecs_done     : 5291368\nexecs_per_sec  : 823.92\npaths_total    : 510\npaths_favored  : 153\npaths_found    : 509\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 326\npending_favs   : 61\npending_total  : 378\nvariable_paths : 0\nbitmap_cvg     : 1.85%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499826812\nlast_crash     : 0\nlast_hang      : 1499823643\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sad_Face_Template_Engine_SFTE/input -o /dev/shm/work/Sad_Face_Template_Engine_SFTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sad_Face_Template_Engine_SFTE/Sad_Face_Template_Engine_SFTE.dict -- data/linux/processed-challenges/Sad_Face_Template_Engine_SFTE/bin/Sad_Face_Template_Engine_SFTE\n'
+p115
+I7
+tp116
+a(I6960
+S'start_time     : 1499820022\nlast_update    : 1499826934\nfuzzer_pid     : 8451\ncycles_done    : 0\nexecs_done     : 5395301\nexecs_per_sec  : 975.97\npaths_total    : 513\npaths_favored  : 155\npaths_found    : 512\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 335\npending_favs   : 61\npending_total  : 378\nvariable_paths : 0\nbitmap_cvg     : 1.86%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499826917\nlast_crash     : 0\nlast_hang      : 1499823643\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sad_Face_Template_Engine_SFTE/input -o /dev/shm/work/Sad_Face_Template_Engine_SFTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sad_Face_Template_Engine_SFTE/Sad_Face_Template_Engine_SFTE.dict -- data/linux/processed-challenges/Sad_Face_Template_Engine_SFTE/bin/Sad_Face_Template_Engine_SFTE\n'
+p117
+I4
+tp118
+a(I7080
+S'start_time     : 1499820022\nlast_update    : 1499827054\nfuzzer_pid     : 8451\ncycles_done    : 0\nexecs_done     : 5496471\nexecs_per_sec  : 417.17\npaths_total    : 519\npaths_favored  : 158\npaths_found    : 518\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 344\npending_favs   : 62\npending_total  : 380\nvariable_paths : 0\nbitmap_cvg     : 1.86%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499827018\nlast_crash     : 0\nlast_hang      : 1499823643\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sad_Face_Template_Engine_SFTE/input -o /dev/shm/work/Sad_Face_Template_Engine_SFTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sad_Face_Template_Engine_SFTE/Sad_Face_Template_Engine_SFTE.dict -- data/linux/processed-challenges/Sad_Face_Template_Engine_SFTE/bin/Sad_Face_Template_Engine_SFTE\n'
+p119
+I6
+tp120
+a(I7200
+S'start_time     : 1499820022\nlast_update    : 1499827175\nfuzzer_pid     : 8451\ncycles_done    : 0\nexecs_done     : 5569407\nexecs_per_sec  : 654.19\npaths_total    : 527\npaths_favored  : 158\npaths_found    : 526\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 344\npending_favs   : 62\npending_total  : 388\nvariable_paths : 0\nbitmap_cvg     : 1.88%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499827174\nlast_crash     : 0\nlast_hang      : 1499823643\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sad_Face_Template_Engine_SFTE/input -o /dev/shm/work/Sad_Face_Template_Engine_SFTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sad_Face_Template_Engine_SFTE/Sad_Face_Template_Engine_SFTE.dict -- data/linux/processed-challenges/Sad_Face_Template_Engine_SFTE/bin/Sad_Face_Template_Engine_SFTE\n'
+p121
+I7
+tp122
+a(I7320
+S'start_time     : 1499820022\nlast_update    : 1499827295\nfuzzer_pid     : 8451\ncycles_done    : 0\nexecs_done     : 5653227\nexecs_per_sec  : 755.92\npaths_total    : 532\npaths_favored  : 162\npaths_found    : 531\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 349\npending_favs   : 64\npending_total  : 391\nvariable_paths : 0\nbitmap_cvg     : 1.88%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499827293\nlast_crash     : 0\nlast_hang      : 1499823643\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sad_Face_Template_Engine_SFTE/input -o /dev/shm/work/Sad_Face_Template_Engine_SFTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sad_Face_Template_Engine_SFTE/Sad_Face_Template_Engine_SFTE.dict -- data/linux/processed-challenges/Sad_Face_Template_Engine_SFTE/bin/Sad_Face_Template_Engine_SFTE\n'
+p123
+I4
+tp124
+a(I7440
+S'start_time     : 1499820022\nlast_update    : 1499827415\nfuzzer_pid     : 8451\ncycles_done    : 0\nexecs_done     : 5755696\nexecs_per_sec  : 740.54\npaths_total    : 536\npaths_favored  : 163\npaths_found    : 535\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 358\npending_favs   : 61\npending_total  : 391\nvariable_paths : 0\nbitmap_cvg     : 1.88%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499827382\nlast_crash     : 0\nlast_hang      : 1499823643\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sad_Face_Template_Engine_SFTE/input -o /dev/shm/work/Sad_Face_Template_Engine_SFTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sad_Face_Template_Engine_SFTE/Sad_Face_Template_Engine_SFTE.dict -- data/linux/processed-challenges/Sad_Face_Template_Engine_SFTE/bin/Sad_Face_Template_Engine_SFTE\n'
+p125
+I5
+tp126
+a(I7560
+S'start_time     : 1499820022\nlast_update    : 1499827535\nfuzzer_pid     : 8451\ncycles_done    : 0\nexecs_done     : 5831588\nexecs_per_sec  : 709.38\npaths_total    : 539\npaths_favored  : 163\npaths_found    : 538\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 363\npending_favs   : 59\npending_total  : 392\nvariable_paths : 0\nbitmap_cvg     : 1.88%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499827528\nlast_crash     : 0\nlast_hang      : 1499823643\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sad_Face_Template_Engine_SFTE/input -o /dev/shm/work/Sad_Face_Template_Engine_SFTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sad_Face_Template_Engine_SFTE/Sad_Face_Template_Engine_SFTE.dict -- data/linux/processed-challenges/Sad_Face_Template_Engine_SFTE/bin/Sad_Face_Template_Engine_SFTE\n'
+p127
+I2
+tp128
+a(I7680
+S'start_time     : 1499820022\nlast_update    : 1499827655\nfuzzer_pid     : 8451\ncycles_done    : 0\nexecs_done     : 5882672\nexecs_per_sec  : 476.84\npaths_total    : 540\npaths_favored  : 163\npaths_found    : 539\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 365\npending_favs   : 58\npending_total  : 392\nvariable_paths : 0\nbitmap_cvg     : 1.88%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499827559\nlast_crash     : 0\nlast_hang      : 1499823643\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sad_Face_Template_Engine_SFTE/input -o /dev/shm/work/Sad_Face_Template_Engine_SFTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sad_Face_Template_Engine_SFTE/Sad_Face_Template_Engine_SFTE.dict -- data/linux/processed-challenges/Sad_Face_Template_Engine_SFTE/bin/Sad_Face_Template_Engine_SFTE\n'
+p129
+I4
+tp130
+a(I7800
+S'start_time     : 1499820022\nlast_update    : 1499827776\nfuzzer_pid     : 8451\ncycles_done    : 0\nexecs_done     : 5941600\nexecs_per_sec  : 487.35\npaths_total    : 545\npaths_favored  : 163\npaths_found    : 544\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 365\npending_favs   : 58\npending_total  : 397\nvariable_paths : 0\nbitmap_cvg     : 1.88%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499827724\nlast_crash     : 0\nlast_hang      : 1499823643\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sad_Face_Template_Engine_SFTE/input -o /dev/shm/work/Sad_Face_Template_Engine_SFTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sad_Face_Template_Engine_SFTE/Sad_Face_Template_Engine_SFTE.dict -- data/linux/processed-challenges/Sad_Face_Template_Engine_SFTE/bin/Sad_Face_Template_Engine_SFTE\n'
+p131
+I3
+tp132
+a(I7920
+S'start_time     : 1499820022\nlast_update    : 1499827896\nfuzzer_pid     : 8451\ncycles_done    : 0\nexecs_done     : 6000849\nexecs_per_sec  : 497.04\npaths_total    : 547\npaths_favored  : 163\npaths_found    : 546\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 365\npending_favs   : 58\npending_total  : 399\nvariable_paths : 0\nbitmap_cvg     : 1.88%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499827790\nlast_crash     : 0\nlast_hang      : 1499823643\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sad_Face_Template_Engine_SFTE/input -o /dev/shm/work/Sad_Face_Template_Engine_SFTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sad_Face_Template_Engine_SFTE/Sad_Face_Template_Engine_SFTE.dict -- data/linux/processed-challenges/Sad_Face_Template_Engine_SFTE/bin/Sad_Face_Template_Engine_SFTE\n'
+p133
+I0
+tp134
+a(I8040
+S'start_time     : 1499820022\nlast_update    : 1499828016\nfuzzer_pid     : 8451\ncycles_done    : 0\nexecs_done     : 6060660\nexecs_per_sec  : 529.94\npaths_total    : 547\npaths_favored  : 163\npaths_found    : 546\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 368\npending_favs   : 57\npending_total  : 398\nvariable_paths : 0\nbitmap_cvg     : 1.88%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499827790\nlast_crash     : 0\nlast_hang      : 1499823643\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sad_Face_Template_Engine_SFTE/input -o /dev/shm/work/Sad_Face_Template_Engine_SFTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sad_Face_Template_Engine_SFTE/Sad_Face_Template_Engine_SFTE.dict -- data/linux/processed-challenges/Sad_Face_Template_Engine_SFTE/bin/Sad_Face_Template_Engine_SFTE\n'
+p135
+I1
+tp136
+a(I8160
+S'start_time     : 1499820022\nlast_update    : 1499828136\nfuzzer_pid     : 8451\ncycles_done    : 0\nexecs_done     : 6131294\nexecs_per_sec  : 531.90\npaths_total    : 549\npaths_favored  : 163\npaths_found    : 548\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 373\npending_favs   : 56\npending_total  : 398\nvariable_paths : 0\nbitmap_cvg     : 1.88%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499828133\nlast_crash     : 0\nlast_hang      : 1499823643\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sad_Face_Template_Engine_SFTE/input -o /dev/shm/work/Sad_Face_Template_Engine_SFTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sad_Face_Template_Engine_SFTE/Sad_Face_Template_Engine_SFTE.dict -- data/linux/processed-challenges/Sad_Face_Template_Engine_SFTE/bin/Sad_Face_Template_Engine_SFTE\n'
+p137
+I2
+tp138
+a(I8280
+S'start_time     : 1499820022\nlast_update    : 1499828256\nfuzzer_pid     : 8451\ncycles_done    : 0\nexecs_done     : 6202569\nexecs_per_sec  : 569.50\npaths_total    : 550\npaths_favored  : 165\npaths_found    : 549\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 375\npending_favs   : 55\npending_total  : 397\nvariable_paths : 0\nbitmap_cvg     : 1.88%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499828141\nlast_crash     : 0\nlast_hang      : 1499823643\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sad_Face_Template_Engine_SFTE/input -o /dev/shm/work/Sad_Face_Template_Engine_SFTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sad_Face_Template_Engine_SFTE/Sad_Face_Template_Engine_SFTE.dict -- data/linux/processed-challenges/Sad_Face_Template_Engine_SFTE/bin/Sad_Face_Template_Engine_SFTE\n'
+p139
+I0
+tp140
+a(I8400
+S'start_time     : 1499820022\nlast_update    : 1499828376\nfuzzer_pid     : 8451\ncycles_done    : 0\nexecs_done     : 6256097\nexecs_per_sec  : 386.81\npaths_total    : 550\npaths_favored  : 165\npaths_found    : 549\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 376\npending_favs   : 54\npending_total  : 396\nvariable_paths : 0\nbitmap_cvg     : 1.88%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499828141\nlast_crash     : 0\nlast_hang      : 1499823643\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sad_Face_Template_Engine_SFTE/input -o /dev/shm/work/Sad_Face_Template_Engine_SFTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sad_Face_Template_Engine_SFTE/Sad_Face_Template_Engine_SFTE.dict -- data/linux/processed-challenges/Sad_Face_Template_Engine_SFTE/bin/Sad_Face_Template_Engine_SFTE\n'
+p141
+I0
+tp142
+a(I8520
+S'start_time     : 1499820022\nlast_update    : 1499828497\nfuzzer_pid     : 8451\ncycles_done    : 0\nexecs_done     : 6325178\nexecs_per_sec  : 759.43\npaths_total    : 553\npaths_favored  : 165\npaths_found    : 552\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 377\npending_favs   : 53\npending_total  : 398\nvariable_paths : 0\nbitmap_cvg     : 1.88%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499828468\nlast_crash     : 0\nlast_hang      : 1499823643\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sad_Face_Template_Engine_SFTE/input -o /dev/shm/work/Sad_Face_Template_Engine_SFTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sad_Face_Template_Engine_SFTE/Sad_Face_Template_Engine_SFTE.dict -- data/linux/processed-challenges/Sad_Face_Template_Engine_SFTE/bin/Sad_Face_Template_Engine_SFTE\n'
+p143
+I4
+tp144
+a(I8640
+S'start_time     : 1499820022\nlast_update    : 1499828617\nfuzzer_pid     : 8451\ncycles_done    : 0\nexecs_done     : 6417498\nexecs_per_sec  : 773.43\npaths_total    : 554\npaths_favored  : 165\npaths_found    : 553\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 377\npending_favs   : 53\npending_total  : 399\nvariable_paths : 0\nbitmap_cvg     : 1.88%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499828532\nlast_crash     : 0\nlast_hang      : 1499823643\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sad_Face_Template_Engine_SFTE/input -o /dev/shm/work/Sad_Face_Template_Engine_SFTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sad_Face_Template_Engine_SFTE/Sad_Face_Template_Engine_SFTE.dict -- data/linux/processed-challenges/Sad_Face_Template_Engine_SFTE/bin/Sad_Face_Template_Engine_SFTE\n'
+p145
+I1
+tp146
+a(I8760
+S'start_time     : 1499820022\nlast_update    : 1499828737\nfuzzer_pid     : 8451\ncycles_done    : 0\nexecs_done     : 6494816\nexecs_per_sec  : 643.24\npaths_total    : 556\npaths_favored  : 165\npaths_found    : 555\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 380\npending_favs   : 52\npending_total  : 400\nvariable_paths : 0\nbitmap_cvg     : 1.89%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499828675\nlast_crash     : 0\nlast_hang      : 1499823643\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sad_Face_Template_Engine_SFTE/input -o /dev/shm/work/Sad_Face_Template_Engine_SFTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sad_Face_Template_Engine_SFTE/Sad_Face_Template_Engine_SFTE.dict -- data/linux/processed-challenges/Sad_Face_Template_Engine_SFTE/bin/Sad_Face_Template_Engine_SFTE\n'
+p147
+I1
+tp148
+a(I8880
+S'start_time     : 1499820022\nlast_update    : 1499828857\nfuzzer_pid     : 8451\ncycles_done    : 0\nexecs_done     : 6548500\nexecs_per_sec  : 540.45\npaths_total    : 560\npaths_favored  : 166\npaths_found    : 559\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 383\npending_favs   : 53\npending_total  : 403\nvariable_paths : 0\nbitmap_cvg     : 1.89%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499828849\nlast_crash     : 0\nlast_hang      : 1499823643\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sad_Face_Template_Engine_SFTE/input -o /dev/shm/work/Sad_Face_Template_Engine_SFTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sad_Face_Template_Engine_SFTE/Sad_Face_Template_Engine_SFTE.dict -- data/linux/processed-challenges/Sad_Face_Template_Engine_SFTE/bin/Sad_Face_Template_Engine_SFTE\n'
+p149
+I7
+tp150
+a(I9000
+S'start_time     : 1499820022\nlast_update    : 1499828978\nfuzzer_pid     : 8451\ncycles_done    : 0\nexecs_done     : 6613750\nexecs_per_sec  : 550.34\npaths_total    : 564\npaths_favored  : 166\npaths_found    : 563\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 383\npending_favs   : 53\npending_total  : 407\nvariable_paths : 0\nbitmap_cvg     : 1.89%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499828939\nlast_crash     : 0\nlast_hang      : 1499823643\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sad_Face_Template_Engine_SFTE/input -o /dev/shm/work/Sad_Face_Template_Engine_SFTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sad_Face_Template_Engine_SFTE/Sad_Face_Template_Engine_SFTE.dict -- data/linux/processed-challenges/Sad_Face_Template_Engine_SFTE/bin/Sad_Face_Template_Engine_SFTE\n'
+p151
+I1
+tp152
+a(I9120
+S'start_time     : 1499820022\nlast_update    : 1499829098\nfuzzer_pid     : 8451\ncycles_done    : 0\nexecs_done     : 6678966\nexecs_per_sec  : 552.86\npaths_total    : 564\npaths_favored  : 166\npaths_found    : 563\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 383\npending_favs   : 53\npending_total  : 407\nvariable_paths : 0\nbitmap_cvg     : 1.89%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499828939\nlast_crash     : 0\nlast_hang      : 1499823643\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sad_Face_Template_Engine_SFTE/input -o /dev/shm/work/Sad_Face_Template_Engine_SFTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sad_Face_Template_Engine_SFTE/Sad_Face_Template_Engine_SFTE.dict -- data/linux/processed-challenges/Sad_Face_Template_Engine_SFTE/bin/Sad_Face_Template_Engine_SFTE\n'
+p153
+I0
+tp154
+a(I9240
+S'start_time     : 1499820022\nlast_update    : 1499829218\nfuzzer_pid     : 8451\ncycles_done    : 0\nexecs_done     : 6739717\nexecs_per_sec  : 505.72\npaths_total    : 568\npaths_favored  : 167\npaths_found    : 567\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 397\npending_favs   : 53\npending_total  : 409\nvariable_paths : 0\nbitmap_cvg     : 1.90%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499829198\nlast_crash     : 0\nlast_hang      : 1499823643\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sad_Face_Template_Engine_SFTE/input -o /dev/shm/work/Sad_Face_Template_Engine_SFTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sad_Face_Template_Engine_SFTE/Sad_Face_Template_Engine_SFTE.dict -- data/linux/processed-challenges/Sad_Face_Template_Engine_SFTE/bin/Sad_Face_Template_Engine_SFTE\n'
+p155
+I4
+tp156
+a(I9360
+S'start_time     : 1499820022\nlast_update    : 1499829338\nfuzzer_pid     : 8451\ncycles_done    : 0\nexecs_done     : 6794154\nexecs_per_sec  : 371.39\npaths_total    : 569\npaths_favored  : 167\npaths_found    : 568\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 409\npending_favs   : 52\npending_total  : 409\nvariable_paths : 0\nbitmap_cvg     : 1.90%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499829284\nlast_crash     : 0\nlast_hang      : 1499823643\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sad_Face_Template_Engine_SFTE/input -o /dev/shm/work/Sad_Face_Template_Engine_SFTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sad_Face_Template_Engine_SFTE/Sad_Face_Template_Engine_SFTE.dict -- data/linux/processed-challenges/Sad_Face_Template_Engine_SFTE/bin/Sad_Face_Template_Engine_SFTE\n'
+p157
+I1
+tp158
+a(I9480
+S'start_time     : 1499820022\nlast_update    : 1499829459\nfuzzer_pid     : 8451\ncycles_done    : 0\nexecs_done     : 6841205\nexecs_per_sec  : 478.99\npaths_total    : 574\npaths_favored  : 167\npaths_found    : 573\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 409\npending_favs   : 52\npending_total  : 414\nvariable_paths : 0\nbitmap_cvg     : 1.90%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499829447\nlast_crash     : 0\nlast_hang      : 1499823643\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sad_Face_Template_Engine_SFTE/input -o /dev/shm/work/Sad_Face_Template_Engine_SFTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sad_Face_Template_Engine_SFTE/Sad_Face_Template_Engine_SFTE.dict -- data/linux/processed-challenges/Sad_Face_Template_Engine_SFTE/bin/Sad_Face_Template_Engine_SFTE\n'
+p159
+I10
+tp160
+a(I9600
+S'start_time     : 1499820022\nlast_update    : 1499829579\nfuzzer_pid     : 8451\ncycles_done    : 0\nexecs_done     : 6898930\nexecs_per_sec  : 477.84\npaths_total    : 582\npaths_favored  : 167\npaths_found    : 581\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 409\npending_favs   : 52\npending_total  : 422\nvariable_paths : 0\nbitmap_cvg     : 1.90%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499829573\nlast_crash     : 0\nlast_hang      : 1499823643\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sad_Face_Template_Engine_SFTE/input -o /dev/shm/work/Sad_Face_Template_Engine_SFTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sad_Face_Template_Engine_SFTE/Sad_Face_Template_Engine_SFTE.dict -- data/linux/processed-challenges/Sad_Face_Template_Engine_SFTE/bin/Sad_Face_Template_Engine_SFTE\n'
+p161
+I4
+tp162
+a(I9720
+S'start_time     : 1499820022\nlast_update    : 1499829699\nfuzzer_pid     : 8451\ncycles_done    : 0\nexecs_done     : 6951755\nexecs_per_sec  : 580.14\npaths_total    : 583\npaths_favored  : 168\npaths_found    : 582\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 411\npending_favs   : 52\npending_total  : 422\nvariable_paths : 0\nbitmap_cvg     : 1.90%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499829613\nlast_crash     : 0\nlast_hang      : 1499823643\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sad_Face_Template_Engine_SFTE/input -o /dev/shm/work/Sad_Face_Template_Engine_SFTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sad_Face_Template_Engine_SFTE/Sad_Face_Template_Engine_SFTE.dict -- data/linux/processed-challenges/Sad_Face_Template_Engine_SFTE/bin/Sad_Face_Template_Engine_SFTE\n'
+p163
+I0
+tp164
+a(I9840
+S'start_time     : 1499820022\nlast_update    : 1499829819\nfuzzer_pid     : 8451\ncycles_done    : 0\nexecs_done     : 7003068\nexecs_per_sec  : 504.44\npaths_total    : 584\npaths_favored  : 168\npaths_found    : 583\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 412\npending_favs   : 51\npending_total  : 422\nvariable_paths : 0\nbitmap_cvg     : 1.90%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1499829778\nlast_crash     : 0\nlast_hang      : 1499829710\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sad_Face_Template_Engine_SFTE/input -o /dev/shm/work/Sad_Face_Template_Engine_SFTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sad_Face_Template_Engine_SFTE/Sad_Face_Template_Engine_SFTE.dict -- data/linux/processed-challenges/Sad_Face_Template_Engine_SFTE/bin/Sad_Face_Template_Engine_SFTE\n'
+p165
+I1
+tp166
+a(I9960
+S'start_time     : 1499820022\nlast_update    : 1499829940\nfuzzer_pid     : 8451\ncycles_done    : 0\nexecs_done     : 7056347\nexecs_per_sec  : 363.52\npaths_total    : 589\npaths_favored  : 169\npaths_found    : 588\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 427\npending_favs   : 50\npending_total  : 425\nvariable_paths : 0\nbitmap_cvg     : 1.90%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1499829935\nlast_crash     : 0\nlast_hang      : 1499829710\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sad_Face_Template_Engine_SFTE/input -o /dev/shm/work/Sad_Face_Template_Engine_SFTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sad_Face_Template_Engine_SFTE/Sad_Face_Template_Engine_SFTE.dict -- data/linux/processed-challenges/Sad_Face_Template_Engine_SFTE/bin/Sad_Face_Template_Engine_SFTE\n'
+p167
+I9
+tp168
+a(I10080
+S'start_time     : 1499820022\nlast_update    : 1499830060\nfuzzer_pid     : 8451\ncycles_done    : 0\nexecs_done     : 7130735\nexecs_per_sec  : 636.84\npaths_total    : 595\npaths_favored  : 169\npaths_found    : 594\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 427\npending_favs   : 50\npending_total  : 431\nvariable_paths : 0\nbitmap_cvg     : 1.91%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1499830026\nlast_crash     : 0\nlast_hang      : 1499829710\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sad_Face_Template_Engine_SFTE/input -o /dev/shm/work/Sad_Face_Template_Engine_SFTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sad_Face_Template_Engine_SFTE/Sad_Face_Template_Engine_SFTE.dict -- data/linux/processed-challenges/Sad_Face_Template_Engine_SFTE/bin/Sad_Face_Template_Engine_SFTE\n'
+p169
+I3
+tp170
+a(I10200
+S'start_time     : 1499820022\nlast_update    : 1499830180\nfuzzer_pid     : 8451\ncycles_done    : 0\nexecs_done     : 7206957\nexecs_per_sec  : 620.84\npaths_total    : 596\npaths_favored  : 169\npaths_found    : 595\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 427\npending_favs   : 50\npending_total  : 432\nvariable_paths : 0\nbitmap_cvg     : 1.91%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1499830083\nlast_crash     : 0\nlast_hang      : 1499829710\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sad_Face_Template_Engine_SFTE/input -o /dev/shm/work/Sad_Face_Template_Engine_SFTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sad_Face_Template_Engine_SFTE/Sad_Face_Template_Engine_SFTE.dict -- data/linux/processed-challenges/Sad_Face_Template_Engine_SFTE/bin/Sad_Face_Template_Engine_SFTE\n'
+p171
+I3
+tp172
+a(I10320
+S'start_time     : 1499820022\nlast_update    : 1499830300\nfuzzer_pid     : 8451\ncycles_done    : 0\nexecs_done     : 7289485\nexecs_per_sec  : 758.71\npaths_total    : 604\npaths_favored  : 174\npaths_found    : 603\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 436\npending_favs   : 54\npending_total  : 439\nvariable_paths : 0\nbitmap_cvg     : 2.04%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1499830288\nlast_crash     : 0\nlast_hang      : 1499829710\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sad_Face_Template_Engine_SFTE/input -o /dev/shm/work/Sad_Face_Template_Engine_SFTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sad_Face_Template_Engine_SFTE/Sad_Face_Template_Engine_SFTE.dict -- data/linux/processed-challenges/Sad_Face_Template_Engine_SFTE/bin/Sad_Face_Template_Engine_SFTE\n'
+p173
+I9
+tp174
+a(I10440
+S'start_time     : 1499820022\nlast_update    : 1499830420\nfuzzer_pid     : 8451\ncycles_done    : 0\nexecs_done     : 7367889\nexecs_per_sec  : 353.56\npaths_total    : 609\npaths_favored  : 181\npaths_found    : 608\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 450\npending_favs   : 61\npending_total  : 443\nvariable_paths : 0\nbitmap_cvg     : 2.04%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1499830387\nlast_crash     : 0\nlast_hang      : 1499829710\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sad_Face_Template_Engine_SFTE/input -o /dev/shm/work/Sad_Face_Template_Engine_SFTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sad_Face_Template_Engine_SFTE/Sad_Face_Template_Engine_SFTE.dict -- data/linux/processed-challenges/Sad_Face_Template_Engine_SFTE/bin/Sad_Face_Template_Engine_SFTE\n'
+p175
+I1
+tp176
+a(I10560
+S'start_time     : 1499820022\nlast_update    : 1499830541\nfuzzer_pid     : 8451\ncycles_done    : 0\nexecs_done     : 7409226\nexecs_per_sec  : 238.32\npaths_total    : 612\npaths_favored  : 181\npaths_found    : 611\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 467\npending_favs   : 60\npending_total  : 445\nvariable_paths : 0\nbitmap_cvg     : 2.04%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1499830490\nlast_crash     : 0\nlast_hang      : 1499829710\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sad_Face_Template_Engine_SFTE/input -o /dev/shm/work/Sad_Face_Template_Engine_SFTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sad_Face_Template_Engine_SFTE/Sad_Face_Template_Engine_SFTE.dict -- data/linux/processed-challenges/Sad_Face_Template_Engine_SFTE/bin/Sad_Face_Template_Engine_SFTE\n'
+p177
+I3
+tp178
+a(I10680
+S'start_time     : 1499820022\nlast_update    : 1499830661\nfuzzer_pid     : 8451\ncycles_done    : 0\nexecs_done     : 7444292\nexecs_per_sec  : 342.05\npaths_total    : 621\npaths_favored  : 181\npaths_found    : 620\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 467\npending_favs   : 60\npending_total  : 454\nvariable_paths : 0\nbitmap_cvg     : 2.04%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1499830660\nlast_crash     : 0\nlast_hang      : 1499829710\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Sad_Face_Template_Engine_SFTE/input -o /dev/shm/work/Sad_Face_Template_Engine_SFTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Sad_Face_Template_Engine_SFTE/Sad_Face_Template_Engine_SFTE.dict -- data/linux/processed-challenges/Sad_Face_Template_Engine_SFTE/bin/Sad_Face_Template_Engine_SFTE\n'
+p179
+I19
+tp180
+a.

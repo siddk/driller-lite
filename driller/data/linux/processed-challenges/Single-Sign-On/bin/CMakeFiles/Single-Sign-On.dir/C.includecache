@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/libcgc.h
+
+../processed-challenges/Single-Sign-On/include/stdint.h
+
+../processed-challenges/Single-Sign-On/lib/libc.h
+libcgc.h
+-
+stdint.h
+-
+
+/vagrant/driller/data/linux/processed-challenges/Single-Sign-On/lib/libc.c
+libcgc.h
+-
+libc.h
+/vagrant/driller/data/linux/processed-challenges/Single-Sign-On/lib/libc.h
+
+/vagrant/driller/data/linux/processed-challenges/Single-Sign-On/lib/libc.h
+libcgc.h
+-
+stdint.h
+-
+
+/vagrant/driller/data/linux/processed-challenges/Single-Sign-On/src/service.c
+libcgc.h
+-
+libc.h
+/vagrant/driller/data/linux/processed-challenges/Single-Sign-On/src/libc.h
+service.h
+/vagrant/driller/data/linux/processed-challenges/Single-Sign-On/src/service.h
+
+/vagrant/driller/data/linux/processed-challenges/Single-Sign-On/src/service.h
+

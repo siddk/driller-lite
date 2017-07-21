@@ -1,0 +1,42 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/Pac_for_Edges.dir/lib/calloc.c.o"
+  "CMakeFiles/Pac_for_Edges.dir/lib/ctype.c.o"
+  "CMakeFiles/Pac_for_Edges.dir/lib/exit.c.o"
+  "CMakeFiles/Pac_for_Edges.dir/lib/fflush.c.o"
+  "CMakeFiles/Pac_for_Edges.dir/lib/fread.c.o"
+  "CMakeFiles/Pac_for_Edges.dir/lib/free.c.o"
+  "CMakeFiles/Pac_for_Edges.dir/lib/fwrite.c.o"
+  "CMakeFiles/Pac_for_Edges.dir/lib/fxlat.c.o"
+  "CMakeFiles/Pac_for_Edges.dir/lib/malloc.c.o"
+  "CMakeFiles/Pac_for_Edges.dir/lib/malloc_common.c.o"
+  "CMakeFiles/Pac_for_Edges.dir/lib/memchr.c.o"
+  "CMakeFiles/Pac_for_Edges.dir/lib/memcmp.c.o"
+  "CMakeFiles/Pac_for_Edges.dir/lib/memcpy.c.o"
+  "CMakeFiles/Pac_for_Edges.dir/lib/memmove.c.o"
+  "CMakeFiles/Pac_for_Edges.dir/lib/memset.c.o"
+  "CMakeFiles/Pac_for_Edges.dir/lib/printf.c.o"
+  "CMakeFiles/Pac_for_Edges.dir/lib/realloc.c.o"
+  "CMakeFiles/Pac_for_Edges.dir/lib/stdio.c.o"
+  "CMakeFiles/Pac_for_Edges.dir/lib/strcasecmp.c.o"
+  "CMakeFiles/Pac_for_Edges.dir/lib/strcasestr.c.o"
+  "CMakeFiles/Pac_for_Edges.dir/lib/strchr.c.o"
+  "CMakeFiles/Pac_for_Edges.dir/lib/strcmp.c.o"
+  "CMakeFiles/Pac_for_Edges.dir/lib/strcpy.c.o"
+  "CMakeFiles/Pac_for_Edges.dir/lib/strdup.c.o"
+  "CMakeFiles/Pac_for_Edges.dir/lib/strlen.c.o"
+  "CMakeFiles/Pac_for_Edges.dir/lib/strncasecmp.c.o"
+  "CMakeFiles/Pac_for_Edges.dir/lib/strncpy.c.o"
+  "CMakeFiles/Pac_for_Edges.dir/lib/strndup.c.o"
+  "CMakeFiles/Pac_for_Edges.dir/lib/strsep.c.o"
+  "CMakeFiles/Pac_for_Edges.dir/lib/strstr.c.o"
+  "CMakeFiles/Pac_for_Edges.dir/lib/strtol.c.o"
+  "CMakeFiles/Pac_for_Edges.dir/lib/strtoul.c.o"
+  "CMakeFiles/Pac_for_Edges.dir/src/service.c.o"
+  "Pac_for_Edges.pdb"
+  "Pac_for_Edges"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang C)
+  include(CMakeFiles/Pac_for_Edges.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

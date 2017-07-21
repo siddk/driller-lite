@@ -1,0 +1,452 @@
+(lp0
+(I0
+S'start_time     : 1499906573\nlast_update    : 1499906573\nfuzzer_pid     : 13454\ncycles_done    : 0\nexecs_done     : 10\nexecs_per_sec  : 188.68\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 1\npending_total  : 1\nvariable_paths : 0\nbitmap_cvg     : 0.08%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Shortest_Path_Tree_Calculator/input -o /dev/shm/work/Shortest_Path_Tree_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Shortest_Path_Tree_Calculator/Shortest_Path_Tree_Calculator.dict -- data/linux/processed-challenges/Shortest_Path_Tree_Calculator/bin/Shortest_Path_Tree_Calculator\n'
+p1
+I2
+tp2
+a(I120
+S'start_time     : 1499906573\nlast_update    : 1499906693\nfuzzer_pid     : 13454\ncycles_done    : 0\nexecs_done     : 118330\nexecs_per_sec  : 980.73\npaths_total    : 13\npaths_favored  : 2\npaths_found    : 12\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 1\npending_favs   : 1\npending_total  : 12\nvariable_paths : 0\nbitmap_cvg     : 0.42%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1499906683\nlast_crash     : 0\nlast_hang      : 1499906672\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Shortest_Path_Tree_Calculator/input -o /dev/shm/work/Shortest_Path_Tree_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Shortest_Path_Tree_Calculator/Shortest_Path_Tree_Calculator.dict -- data/linux/processed-challenges/Shortest_Path_Tree_Calculator/bin/Shortest_Path_Tree_Calculator\n'
+p3
+I11
+tp4
+a(I240
+S'start_time     : 1499906573\nlast_update    : 1499906814\nfuzzer_pid     : 13454\ncycles_done    : 0\nexecs_done     : 192017\nexecs_per_sec  : 339.85\npaths_total    : 23\npaths_favored  : 14\npaths_found    : 22\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 5\npending_favs   : 11\npending_total  : 19\nvariable_paths : 0\nbitmap_cvg     : 0.51%\nunique_crashes : 2\nunique_hangs   : 5\nlast_path      : 1499906805\nlast_crash     : 1499906791\nlast_hang      : 1499906717\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Shortest_Path_Tree_Calculator/input -o /dev/shm/work/Shortest_Path_Tree_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Shortest_Path_Tree_Calculator/Shortest_Path_Tree_Calculator.dict -- data/linux/processed-challenges/Shortest_Path_Tree_Calculator/bin/Shortest_Path_Tree_Calculator\n'
+p5
+I10
+tp6
+a(I360
+S'start_time     : 1499906573\nlast_update    : 1499906934\nfuzzer_pid     : 13454\ncycles_done    : 0\nexecs_done     : 234195\nexecs_per_sec  : 350.51\npaths_total    : 24\npaths_favored  : 14\npaths_found    : 23\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 5\npending_favs   : 11\npending_total  : 20\nvariable_paths : 0\nbitmap_cvg     : 0.52%\nunique_crashes : 2\nunique_hangs   : 8\nlast_path      : 1499906852\nlast_crash     : 1499906791\nlast_hang      : 1499906909\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Shortest_Path_Tree_Calculator/input -o /dev/shm/work/Shortest_Path_Tree_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Shortest_Path_Tree_Calculator/Shortest_Path_Tree_Calculator.dict -- data/linux/processed-challenges/Shortest_Path_Tree_Calculator/bin/Shortest_Path_Tree_Calculator\n'
+p7
+I1
+tp8
+a(I480
+S'start_time     : 1499906573\nlast_update    : 1499907054\nfuzzer_pid     : 13454\ncycles_done    : 0\nexecs_done     : 277448\nexecs_per_sec  : 364.30\npaths_total    : 27\npaths_favored  : 14\npaths_found    : 26\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 5\npending_favs   : 11\npending_total  : 23\nvariable_paths : 0\nbitmap_cvg     : 0.54%\nunique_crashes : 2\nunique_hangs   : 9\nlast_path      : 1499907035\nlast_crash     : 1499906791\nlast_hang      : 1499906942\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Shortest_Path_Tree_Calculator/input -o /dev/shm/work/Shortest_Path_Tree_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Shortest_Path_Tree_Calculator/Shortest_Path_Tree_Calculator.dict -- data/linux/processed-challenges/Shortest_Path_Tree_Calculator/bin/Shortest_Path_Tree_Calculator\n'
+p9
+I3
+tp10
+a(I600
+S'start_time     : 1499906573\nlast_update    : 1499907174\nfuzzer_pid     : 13454\ncycles_done    : 0\nexecs_done     : 319543\nexecs_per_sec  : 661.61\npaths_total    : 27\npaths_favored  : 17\npaths_found    : 26\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 9\npending_favs   : 13\npending_total  : 21\nvariable_paths : 0\nbitmap_cvg     : 0.54%\nunique_crashes : 2\nunique_hangs   : 11\nlast_path      : 1499907035\nlast_crash     : 1499906791\nlast_hang      : 1499907100\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Shortest_Path_Tree_Calculator/input -o /dev/shm/work/Shortest_Path_Tree_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Shortest_Path_Tree_Calculator/Shortest_Path_Tree_Calculator.dict -- data/linux/processed-challenges/Shortest_Path_Tree_Calculator/bin/Shortest_Path_Tree_Calculator\n'
+p11
+I0
+tp12
+a(I720
+S'start_time     : 1499906573\nlast_update    : 1499907294\nfuzzer_pid     : 13454\ncycles_done    : 0\nexecs_done     : 355838\nexecs_per_sec  : 329.00\npaths_total    : 27\npaths_favored  : 17\npaths_found    : 26\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 13\npending_favs   : 10\npending_total  : 18\nvariable_paths : 0\nbitmap_cvg     : 0.54%\nunique_crashes : 2\nunique_hangs   : 11\nlast_path      : 1499907035\nlast_crash     : 1499906791\nlast_hang      : 1499907100\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Shortest_Path_Tree_Calculator/input -o /dev/shm/work/Shortest_Path_Tree_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Shortest_Path_Tree_Calculator/Shortest_Path_Tree_Calculator.dict -- data/linux/processed-challenges/Shortest_Path_Tree_Calculator/bin/Shortest_Path_Tree_Calculator\n'
+p13
+I0
+tp14
+a(I840
+S'start_time     : 1499906573\nlast_update    : 1499907415\nfuzzer_pid     : 13454\ncycles_done    : 0\nexecs_done     : 389289\nexecs_per_sec  : 324.22\npaths_total    : 30\npaths_favored  : 17\npaths_found    : 29\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 16\npending_favs   : 8\npending_total  : 19\nvariable_paths : 0\nbitmap_cvg     : 0.57%\nunique_crashes : 2\nunique_hangs   : 12\nlast_path      : 1499907372\nlast_crash     : 1499906791\nlast_hang      : 1499907365\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Shortest_Path_Tree_Calculator/input -o /dev/shm/work/Shortest_Path_Tree_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Shortest_Path_Tree_Calculator/Shortest_Path_Tree_Calculator.dict -- data/linux/processed-challenges/Shortest_Path_Tree_Calculator/bin/Shortest_Path_Tree_Calculator\n'
+p15
+I3
+tp16
+a(I960
+S'start_time     : 1499906573\nlast_update    : 1499907535\nfuzzer_pid     : 13454\ncycles_done    : 0\nexecs_done     : 429179\nexecs_per_sec  : 322.64\npaths_total    : 32\npaths_favored  : 17\npaths_found    : 31\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 16\npending_favs   : 8\npending_total  : 21\nvariable_paths : 0\nbitmap_cvg     : 0.58%\nunique_crashes : 2\nunique_hangs   : 13\nlast_path      : 1499907514\nlast_crash     : 1499906791\nlast_hang      : 1499907533\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Shortest_Path_Tree_Calculator/input -o /dev/shm/work/Shortest_Path_Tree_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Shortest_Path_Tree_Calculator/Shortest_Path_Tree_Calculator.dict -- data/linux/processed-challenges/Shortest_Path_Tree_Calculator/bin/Shortest_Path_Tree_Calculator\n'
+p17
+I2
+tp18
+a(I1080
+S'start_time     : 1499906573\nlast_update    : 1499907655\nfuzzer_pid     : 13454\ncycles_done    : 0\nexecs_done     : 468917\nexecs_per_sec  : 316.69\npaths_total    : 32\npaths_favored  : 17\npaths_found    : 31\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 16\npending_favs   : 8\npending_total  : 21\nvariable_paths : 0\nbitmap_cvg     : 0.58%\nunique_crashes : 2\nunique_hangs   : 13\nlast_path      : 1499907514\nlast_crash     : 1499906791\nlast_hang      : 1499907533\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Shortest_Path_Tree_Calculator/input -o /dev/shm/work/Shortest_Path_Tree_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Shortest_Path_Tree_Calculator/Shortest_Path_Tree_Calculator.dict -- data/linux/processed-challenges/Shortest_Path_Tree_Calculator/bin/Shortest_Path_Tree_Calculator\n'
+p19
+I0
+tp20
+a(I1200
+S'start_time     : 1499906573\nlast_update    : 1499907775\nfuzzer_pid     : 13454\ncycles_done    : 0\nexecs_done     : 503363\nexecs_per_sec  : 380.37\npaths_total    : 33\npaths_favored  : 20\npaths_found    : 32\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 19\npending_favs   : 10\npending_total  : 20\nvariable_paths : 0\nbitmap_cvg     : 0.58%\nunique_crashes : 2\nunique_hangs   : 14\nlast_path      : 1499907698\nlast_crash     : 1499906791\nlast_hang      : 1499907720\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Shortest_Path_Tree_Calculator/input -o /dev/shm/work/Shortest_Path_Tree_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Shortest_Path_Tree_Calculator/Shortest_Path_Tree_Calculator.dict -- data/linux/processed-challenges/Shortest_Path_Tree_Calculator/bin/Shortest_Path_Tree_Calculator\n'
+p21
+I1
+tp22
+a(I1320
+S'start_time     : 1499906573\nlast_update    : 1499907895\nfuzzer_pid     : 13454\ncycles_done    : 0\nexecs_done     : 543542\nexecs_per_sec  : 344.17\npaths_total    : 39\npaths_favored  : 20\npaths_found    : 38\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 21\npending_favs   : 9\npending_total  : 25\nvariable_paths : 0\nbitmap_cvg     : 0.63%\nunique_crashes : 2\nunique_hangs   : 15\nlast_path      : 1499907884\nlast_crash     : 1499906791\nlast_hang      : 1499907829\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Shortest_Path_Tree_Calculator/input -o /dev/shm/work/Shortest_Path_Tree_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Shortest_Path_Tree_Calculator/Shortest_Path_Tree_Calculator.dict -- data/linux/processed-challenges/Shortest_Path_Tree_Calculator/bin/Shortest_Path_Tree_Calculator\n'
+p23
+I6
+tp24
+a(I1440
+S'start_time     : 1499906573\nlast_update    : 1499908016\nfuzzer_pid     : 13454\ncycles_done    : 0\nexecs_done     : 583634\nexecs_per_sec  : 345.12\npaths_total    : 45\npaths_favored  : 20\npaths_found    : 44\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 21\npending_favs   : 9\npending_total  : 31\nvariable_paths : 0\nbitmap_cvg     : 0.64%\nunique_crashes : 2\nunique_hangs   : 15\nlast_path      : 1499908003\nlast_crash     : 1499906791\nlast_hang      : 1499907829\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Shortest_Path_Tree_Calculator/input -o /dev/shm/work/Shortest_Path_Tree_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Shortest_Path_Tree_Calculator/Shortest_Path_Tree_Calculator.dict -- data/linux/processed-challenges/Shortest_Path_Tree_Calculator/bin/Shortest_Path_Tree_Calculator\n'
+p25
+I6
+tp26
+a(I1560
+S'start_time     : 1499906573\nlast_update    : 1499908136\nfuzzer_pid     : 13454\ncycles_done    : 0\nexecs_done     : 624040\nexecs_per_sec  : 336.29\npaths_total    : 47\npaths_favored  : 20\npaths_found    : 46\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 21\npending_favs   : 9\npending_total  : 33\nvariable_paths : 0\nbitmap_cvg     : 0.64%\nunique_crashes : 3\nunique_hangs   : 15\nlast_path      : 1499908089\nlast_crash     : 1499908066\nlast_hang      : 1499907829\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Shortest_Path_Tree_Calculator/input -o /dev/shm/work/Shortest_Path_Tree_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Shortest_Path_Tree_Calculator/Shortest_Path_Tree_Calculator.dict -- data/linux/processed-challenges/Shortest_Path_Tree_Calculator/bin/Shortest_Path_Tree_Calculator\n'
+p27
+I2
+tp28
+a(I1680
+S'start_time     : 1499906573\nlast_update    : 1499908256\nfuzzer_pid     : 13454\ncycles_done    : 0\nexecs_done     : 664163\nexecs_per_sec  : 327.46\npaths_total    : 50\npaths_favored  : 29\npaths_found    : 49\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 22\npending_favs   : 15\npending_total  : 35\nvariable_paths : 0\nbitmap_cvg     : 0.64%\nunique_crashes : 3\nunique_hangs   : 15\nlast_path      : 1499908219\nlast_crash     : 1499908066\nlast_hang      : 1499907829\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Shortest_Path_Tree_Calculator/input -o /dev/shm/work/Shortest_Path_Tree_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Shortest_Path_Tree_Calculator/Shortest_Path_Tree_Calculator.dict -- data/linux/processed-challenges/Shortest_Path_Tree_Calculator/bin/Shortest_Path_Tree_Calculator\n'
+p29
+I3
+tp30
+a(I1800
+S'start_time     : 1499906573\nlast_update    : 1499908376\nfuzzer_pid     : 13454\ncycles_done    : 0\nexecs_done     : 702443\nexecs_per_sec  : 336.64\npaths_total    : 50\npaths_favored  : 29\npaths_found    : 49\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 22\npending_favs   : 15\npending_total  : 35\nvariable_paths : 0\nbitmap_cvg     : 0.64%\nunique_crashes : 3\nunique_hangs   : 15\nlast_path      : 1499908219\nlast_crash     : 1499908066\nlast_hang      : 1499907829\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Shortest_Path_Tree_Calculator/input -o /dev/shm/work/Shortest_Path_Tree_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Shortest_Path_Tree_Calculator/Shortest_Path_Tree_Calculator.dict -- data/linux/processed-challenges/Shortest_Path_Tree_Calculator/bin/Shortest_Path_Tree_Calculator\n'
+p31
+I0
+tp32
+a(I1920
+S'start_time     : 1499906573\nlast_update    : 1499908496\nfuzzer_pid     : 13454\ncycles_done    : 0\nexecs_done     : 735257\nexecs_per_sec  : 259.43\npaths_total    : 52\npaths_favored  : 28\npaths_found    : 51\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 28\npending_favs   : 15\npending_total  : 35\nvariable_paths : 0\nbitmap_cvg     : 0.65%\nunique_crashes : 4\nunique_hangs   : 16\nlast_path      : 1499908480\nlast_crash     : 1499908438\nlast_hang      : 1499908453\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Shortest_Path_Tree_Calculator/input -o /dev/shm/work/Shortest_Path_Tree_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Shortest_Path_Tree_Calculator/Shortest_Path_Tree_Calculator.dict -- data/linux/processed-challenges/Shortest_Path_Tree_Calculator/bin/Shortest_Path_Tree_Calculator\n'
+p33
+I2
+tp34
+a(I2040
+S'start_time     : 1499906573\nlast_update    : 1499908617\nfuzzer_pid     : 13454\ncycles_done    : 0\nexecs_done     : 767582\nexecs_per_sec  : 276.71\npaths_total    : 54\npaths_favored  : 28\npaths_found    : 53\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 28\npending_favs   : 15\npending_total  : 37\nvariable_paths : 0\nbitmap_cvg     : 0.65%\nunique_crashes : 5\nunique_hangs   : 17\nlast_path      : 1499908532\nlast_crash     : 1499908528\nlast_hang      : 1499908518\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Shortest_Path_Tree_Calculator/input -o /dev/shm/work/Shortest_Path_Tree_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Shortest_Path_Tree_Calculator/Shortest_Path_Tree_Calculator.dict -- data/linux/processed-challenges/Shortest_Path_Tree_Calculator/bin/Shortest_Path_Tree_Calculator\n'
+p35
+I2
+tp36
+a(I2160
+S'start_time     : 1499906573\nlast_update    : 1499908737\nfuzzer_pid     : 13454\ncycles_done    : 0\nexecs_done     : 798497\nexecs_per_sec  : 267.16\npaths_total    : 54\npaths_favored  : 28\npaths_found    : 53\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 28\npending_favs   : 15\npending_total  : 37\nvariable_paths : 0\nbitmap_cvg     : 0.65%\nunique_crashes : 5\nunique_hangs   : 17\nlast_path      : 1499908532\nlast_crash     : 1499908528\nlast_hang      : 1499908518\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Shortest_Path_Tree_Calculator/input -o /dev/shm/work/Shortest_Path_Tree_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Shortest_Path_Tree_Calculator/Shortest_Path_Tree_Calculator.dict -- data/linux/processed-challenges/Shortest_Path_Tree_Calculator/bin/Shortest_Path_Tree_Calculator\n'
+p37
+I0
+tp38
+a(I2280
+S'start_time     : 1499906573\nlast_update    : 1499908857\nfuzzer_pid     : 13454\ncycles_done    : 0\nexecs_done     : 830620\nexecs_per_sec  : 108.65\npaths_total    : 55\npaths_favored  : 30\npaths_found    : 54\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 32\npending_favs   : 16\npending_total  : 36\nvariable_paths : 0\nbitmap_cvg     : 0.65%\nunique_crashes : 5\nunique_hangs   : 17\nlast_path      : 1499908767\nlast_crash     : 1499908528\nlast_hang      : 1499908518\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Shortest_Path_Tree_Calculator/input -o /dev/shm/work/Shortest_Path_Tree_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Shortest_Path_Tree_Calculator/Shortest_Path_Tree_Calculator.dict -- data/linux/processed-challenges/Shortest_Path_Tree_Calculator/bin/Shortest_Path_Tree_Calculator\n'
+p39
+I1
+tp40
+a(I2400
+S'start_time     : 1499906573\nlast_update    : 1499908977\nfuzzer_pid     : 13454\ncycles_done    : 0\nexecs_done     : 860461\nexecs_per_sec  : 308.94\npaths_total    : 56\npaths_favored  : 30\npaths_found    : 55\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 33\npending_favs   : 15\npending_total  : 36\nvariable_paths : 0\nbitmap_cvg     : 0.66%\nunique_crashes : 5\nunique_hangs   : 17\nlast_path      : 1499908937\nlast_crash     : 1499908528\nlast_hang      : 1499908518\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Shortest_Path_Tree_Calculator/input -o /dev/shm/work/Shortest_Path_Tree_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Shortest_Path_Tree_Calculator/Shortest_Path_Tree_Calculator.dict -- data/linux/processed-challenges/Shortest_Path_Tree_Calculator/bin/Shortest_Path_Tree_Calculator\n'
+p41
+I1
+tp42
+a(I2520
+S'start_time     : 1499906573\nlast_update    : 1499909097\nfuzzer_pid     : 13454\ncycles_done    : 0\nexecs_done     : 895236\nexecs_per_sec  : 288.15\npaths_total    : 57\npaths_favored  : 31\npaths_found    : 56\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 34\npending_favs   : 15\npending_total  : 36\nvariable_paths : 0\nbitmap_cvg     : 0.66%\nunique_crashes : 5\nunique_hangs   : 19\nlast_path      : 1499909043\nlast_crash     : 1499908528\nlast_hang      : 1499909094\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Shortest_Path_Tree_Calculator/input -o /dev/shm/work/Shortest_Path_Tree_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Shortest_Path_Tree_Calculator/Shortest_Path_Tree_Calculator.dict -- data/linux/processed-challenges/Shortest_Path_Tree_Calculator/bin/Shortest_Path_Tree_Calculator\n'
+p43
+I1
+tp44
+a(I2640
+S'start_time     : 1499906573\nlast_update    : 1499909218\nfuzzer_pid     : 13454\ncycles_done    : 0\nexecs_done     : 928496\nexecs_per_sec  : 266.30\npaths_total    : 62\npaths_favored  : 32\npaths_found    : 61\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 35\npending_favs   : 15\npending_total  : 40\nvariable_paths : 0\nbitmap_cvg     : 0.67%\nunique_crashes : 6\nunique_hangs   : 20\nlast_path      : 1499909175\nlast_crash     : 1499909176\nlast_hang      : 1499909190\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Shortest_Path_Tree_Calculator/input -o /dev/shm/work/Shortest_Path_Tree_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Shortest_Path_Tree_Calculator/Shortest_Path_Tree_Calculator.dict -- data/linux/processed-challenges/Shortest_Path_Tree_Calculator/bin/Shortest_Path_Tree_Calculator\n'
+p45
+I6
+tp46
+a(I2760
+S'start_time     : 1499906573\nlast_update    : 1499909338\nfuzzer_pid     : 13454\ncycles_done    : 0\nexecs_done     : 961471\nexecs_per_sec  : 262.54\npaths_total    : 63\npaths_favored  : 32\npaths_found    : 62\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 35\npending_favs   : 15\npending_total  : 41\nvariable_paths : 0\nbitmap_cvg     : 0.67%\nunique_crashes : 6\nunique_hangs   : 20\nlast_path      : 1499909219\nlast_crash     : 1499909176\nlast_hang      : 1499909190\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Shortest_Path_Tree_Calculator/input -o /dev/shm/work/Shortest_Path_Tree_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Shortest_Path_Tree_Calculator/Shortest_Path_Tree_Calculator.dict -- data/linux/processed-challenges/Shortest_Path_Tree_Calculator/bin/Shortest_Path_Tree_Calculator\n'
+p47
+I1
+tp48
+a(I2880
+S'start_time     : 1499906573\nlast_update    : 1499909458\nfuzzer_pid     : 13454\ncycles_done    : 0\nexecs_done     : 994221\nexecs_per_sec  : 275.10\npaths_total    : 65\npaths_favored  : 32\npaths_found    : 64\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 35\npending_favs   : 15\npending_total  : 43\nvariable_paths : 0\nbitmap_cvg     : 0.73%\nunique_crashes : 6\nunique_hangs   : 20\nlast_path      : 1499909413\nlast_crash     : 1499909176\nlast_hang      : 1499909190\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Shortest_Path_Tree_Calculator/input -o /dev/shm/work/Shortest_Path_Tree_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Shortest_Path_Tree_Calculator/Shortest_Path_Tree_Calculator.dict -- data/linux/processed-challenges/Shortest_Path_Tree_Calculator/bin/Shortest_Path_Tree_Calculator\n'
+p49
+I1
+tp50
+a(I3000
+S'start_time     : 1499906573\nlast_update    : 1499909578\nfuzzer_pid     : 13454\ncycles_done    : 0\nexecs_done     : 1026471\nexecs_per_sec  : 47.25\npaths_total    : 66\npaths_favored  : 37\npaths_found    : 65\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 36\npending_favs   : 21\npending_total  : 43\nvariable_paths : 0\nbitmap_cvg     : 0.73%\nunique_crashes : 6\nunique_hangs   : 20\nlast_path      : 1499909549\nlast_crash     : 1499909176\nlast_hang      : 1499909190\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Shortest_Path_Tree_Calculator/input -o /dev/shm/work/Shortest_Path_Tree_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Shortest_Path_Tree_Calculator/Shortest_Path_Tree_Calculator.dict -- data/linux/processed-challenges/Shortest_Path_Tree_Calculator/bin/Shortest_Path_Tree_Calculator\n'
+p51
+I1
+tp52
+a(I3120
+S'start_time     : 1499906573\nlast_update    : 1499909699\nfuzzer_pid     : 13454\ncycles_done    : 0\nexecs_done     : 1060439\nexecs_per_sec  : 298.48\npaths_total    : 66\npaths_favored  : 37\npaths_found    : 65\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 37\npending_favs   : 20\npending_total  : 42\nvariable_paths : 0\nbitmap_cvg     : 0.73%\nunique_crashes : 6\nunique_hangs   : 20\nlast_path      : 1499909549\nlast_crash     : 1499909176\nlast_hang      : 1499909190\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Shortest_Path_Tree_Calculator/input -o /dev/shm/work/Shortest_Path_Tree_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Shortest_Path_Tree_Calculator/Shortest_Path_Tree_Calculator.dict -- data/linux/processed-challenges/Shortest_Path_Tree_Calculator/bin/Shortest_Path_Tree_Calculator\n'
+p53
+I0
+tp54
+a(I3240
+S'start_time     : 1499906573\nlast_update    : 1499909819\nfuzzer_pid     : 13454\ncycles_done    : 0\nexecs_done     : 1092590\nexecs_per_sec  : 269.41\npaths_total    : 67\npaths_favored  : 37\npaths_found    : 66\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 39\npending_favs   : 19\npending_total  : 42\nvariable_paths : 0\nbitmap_cvg     : 0.73%\nunique_crashes : 6\nunique_hangs   : 20\nlast_path      : 1499909763\nlast_crash     : 1499909176\nlast_hang      : 1499909190\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Shortest_Path_Tree_Calculator/input -o /dev/shm/work/Shortest_Path_Tree_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Shortest_Path_Tree_Calculator/Shortest_Path_Tree_Calculator.dict -- data/linux/processed-challenges/Shortest_Path_Tree_Calculator/bin/Shortest_Path_Tree_Calculator\n'
+p55
+I1
+tp56
+a(I3360
+S'start_time     : 1499906573\nlast_update    : 1499909939\nfuzzer_pid     : 13454\ncycles_done    : 0\nexecs_done     : 1129664\nexecs_per_sec  : 63.64\npaths_total    : 68\npaths_favored  : 37\npaths_found    : 67\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 44\npending_favs   : 17\npending_total  : 41\nvariable_paths : 0\nbitmap_cvg     : 0.74%\nunique_crashes : 8\nunique_hangs   : 20\nlast_path      : 1499909870\nlast_crash     : 1499909909\nlast_hang      : 1499909190\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Shortest_Path_Tree_Calculator/input -o /dev/shm/work/Shortest_Path_Tree_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Shortest_Path_Tree_Calculator/Shortest_Path_Tree_Calculator.dict -- data/linux/processed-challenges/Shortest_Path_Tree_Calculator/bin/Shortest_Path_Tree_Calculator\n'
+p57
+I1
+tp58
+a(I3480
+S'start_time     : 1499906573\nlast_update    : 1499910059\nfuzzer_pid     : 13454\ncycles_done    : 0\nexecs_done     : 1158362\nexecs_per_sec  : 248.49\npaths_total    : 70\npaths_favored  : 37\npaths_found    : 69\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 44\npending_favs   : 17\npending_total  : 43\nvariable_paths : 0\nbitmap_cvg     : 0.74%\nunique_crashes : 8\nunique_hangs   : 21\nlast_path      : 1499910007\nlast_crash     : 1499909909\nlast_hang      : 1499909947\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Shortest_Path_Tree_Calculator/input -o /dev/shm/work/Shortest_Path_Tree_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Shortest_Path_Tree_Calculator/Shortest_Path_Tree_Calculator.dict -- data/linux/processed-challenges/Shortest_Path_Tree_Calculator/bin/Shortest_Path_Tree_Calculator\n'
+p59
+I2
+tp60
+a(I3600
+S'start_time     : 1499906573\nlast_update    : 1499910180\nfuzzer_pid     : 13454\ncycles_done    : 0\nexecs_done     : 1190723\nexecs_per_sec  : 106.67\npaths_total    : 70\npaths_favored  : 37\npaths_found    : 69\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 49\npending_favs   : 15\npending_total  : 41\nvariable_paths : 0\nbitmap_cvg     : 0.74%\nunique_crashes : 9\nunique_hangs   : 22\nlast_path      : 1499910007\nlast_crash     : 1499910112\nlast_hang      : 1499910136\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Shortest_Path_Tree_Calculator/input -o /dev/shm/work/Shortest_Path_Tree_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Shortest_Path_Tree_Calculator/Shortest_Path_Tree_Calculator.dict -- data/linux/processed-challenges/Shortest_Path_Tree_Calculator/bin/Shortest_Path_Tree_Calculator\n'
+p61
+I0
+tp62
+a(I3720
+S'start_time     : 1499906573\nlast_update    : 1499910300\nfuzzer_pid     : 13454\ncycles_done    : 0\nexecs_done     : 1222714\nexecs_per_sec  : 270.77\npaths_total    : 70\npaths_favored  : 37\npaths_found    : 69\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 50\npending_favs   : 14\npending_total  : 40\nvariable_paths : 0\nbitmap_cvg     : 0.74%\nunique_crashes : 9\nunique_hangs   : 22\nlast_path      : 1499910007\nlast_crash     : 1499910112\nlast_hang      : 1499910136\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Shortest_Path_Tree_Calculator/input -o /dev/shm/work/Shortest_Path_Tree_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Shortest_Path_Tree_Calculator/Shortest_Path_Tree_Calculator.dict -- data/linux/processed-challenges/Shortest_Path_Tree_Calculator/bin/Shortest_Path_Tree_Calculator\n'
+p63
+I0
+tp64
+a(I3840
+S'start_time     : 1499906573\nlast_update    : 1499910420\nfuzzer_pid     : 13454\ncycles_done    : 0\nexecs_done     : 1252470\nexecs_per_sec  : 199.73\npaths_total    : 71\npaths_favored  : 37\npaths_found    : 70\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 52\npending_favs   : 13\npending_total  : 40\nvariable_paths : 0\nbitmap_cvg     : 0.74%\nunique_crashes : 9\nunique_hangs   : 22\nlast_path      : 1499910357\nlast_crash     : 1499910112\nlast_hang      : 1499910136\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Shortest_Path_Tree_Calculator/input -o /dev/shm/work/Shortest_Path_Tree_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Shortest_Path_Tree_Calculator/Shortest_Path_Tree_Calculator.dict -- data/linux/processed-challenges/Shortest_Path_Tree_Calculator/bin/Shortest_Path_Tree_Calculator\n'
+p65
+I1
+tp66
+a(I3960
+S'start_time     : 1499906573\nlast_update    : 1499910540\nfuzzer_pid     : 13454\ncycles_done    : 0\nexecs_done     : 1287977\nexecs_per_sec  : 309.18\npaths_total    : 71\npaths_favored  : 37\npaths_found    : 70\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 56\npending_favs   : 11\npending_total  : 38\nvariable_paths : 0\nbitmap_cvg     : 0.74%\nunique_crashes : 9\nunique_hangs   : 22\nlast_path      : 1499910357\nlast_crash     : 1499910112\nlast_hang      : 1499910136\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Shortest_Path_Tree_Calculator/input -o /dev/shm/work/Shortest_Path_Tree_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Shortest_Path_Tree_Calculator/Shortest_Path_Tree_Calculator.dict -- data/linux/processed-challenges/Shortest_Path_Tree_Calculator/bin/Shortest_Path_Tree_Calculator\n'
+p67
+I0
+tp68
+a(I4080
+S'start_time     : 1499906573\nlast_update    : 1499910660\nfuzzer_pid     : 13454\ncycles_done    : 0\nexecs_done     : 1328150\nexecs_per_sec  : 110.70\npaths_total    : 73\npaths_favored  : 38\npaths_found    : 72\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 59\npending_favs   : 11\npending_total  : 38\nvariable_paths : 0\nbitmap_cvg     : 0.74%\nunique_crashes : 10\nunique_hangs   : 23\nlast_path      : 1499910594\nlast_crash     : 1499910649\nlast_hang      : 1499910605\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Shortest_Path_Tree_Calculator/input -o /dev/shm/work/Shortest_Path_Tree_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Shortest_Path_Tree_Calculator/Shortest_Path_Tree_Calculator.dict -- data/linux/processed-challenges/Shortest_Path_Tree_Calculator/bin/Shortest_Path_Tree_Calculator\n'
+p69
+I2
+tp70
+a(I4200
+S'start_time     : 1499906573\nlast_update    : 1499910781\nfuzzer_pid     : 13454\ncycles_done    : 0\nexecs_done     : 1358004\nexecs_per_sec  : 1014.06\npaths_total    : 74\npaths_favored  : 38\npaths_found    : 73\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 60\npending_favs   : 10\npending_total  : 38\nvariable_paths : 0\nbitmap_cvg     : 0.74%\nunique_crashes : 10\nunique_hangs   : 24\nlast_path      : 1499910697\nlast_crash     : 1499910649\nlast_hang      : 1499910737\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Shortest_Path_Tree_Calculator/input -o /dev/shm/work/Shortest_Path_Tree_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Shortest_Path_Tree_Calculator/Shortest_Path_Tree_Calculator.dict -- data/linux/processed-challenges/Shortest_Path_Tree_Calculator/bin/Shortest_Path_Tree_Calculator\n'
+p71
+I1
+tp72
+a(I4320
+S'start_time     : 1499906573\nlast_update    : 1499910901\nfuzzer_pid     : 13454\ncycles_done    : 0\nexecs_done     : 1389591\nexecs_per_sec  : 239.15\npaths_total    : 76\npaths_favored  : 38\npaths_found    : 75\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 60\npending_favs   : 10\npending_total  : 40\nvariable_paths : 0\nbitmap_cvg     : 0.79%\nunique_crashes : 10\nunique_hangs   : 24\nlast_path      : 1499910886\nlast_crash     : 1499910649\nlast_hang      : 1499910737\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Shortest_Path_Tree_Calculator/input -o /dev/shm/work/Shortest_Path_Tree_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Shortest_Path_Tree_Calculator/Shortest_Path_Tree_Calculator.dict -- data/linux/processed-challenges/Shortest_Path_Tree_Calculator/bin/Shortest_Path_Tree_Calculator\n'
+p73
+I2
+tp74
+a(I4440
+S'start_time     : 1499906573\nlast_update    : 1499911021\nfuzzer_pid     : 13454\ncycles_done    : 0\nexecs_done     : 1426019\nexecs_per_sec  : 245.32\npaths_total    : 76\npaths_favored  : 39\npaths_found    : 75\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 61\npending_favs   : 11\npending_total  : 39\nvariable_paths : 0\nbitmap_cvg     : 0.79%\nunique_crashes : 10\nunique_hangs   : 24\nlast_path      : 1499910886\nlast_crash     : 1499910649\nlast_hang      : 1499910737\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Shortest_Path_Tree_Calculator/input -o /dev/shm/work/Shortest_Path_Tree_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Shortest_Path_Tree_Calculator/Shortest_Path_Tree_Calculator.dict -- data/linux/processed-challenges/Shortest_Path_Tree_Calculator/bin/Shortest_Path_Tree_Calculator\n'
+p75
+I0
+tp76
+a(I4560
+S'start_time     : 1499906573\nlast_update    : 1499911141\nfuzzer_pid     : 13454\ncycles_done    : 0\nexecs_done     : 1456851\nexecs_per_sec  : 230.66\npaths_total    : 76\npaths_favored  : 39\npaths_found    : 75\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 62\npending_favs   : 10\npending_total  : 38\nvariable_paths : 0\nbitmap_cvg     : 0.79%\nunique_crashes : 10\nunique_hangs   : 24\nlast_path      : 1499910886\nlast_crash     : 1499910649\nlast_hang      : 1499910737\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Shortest_Path_Tree_Calculator/input -o /dev/shm/work/Shortest_Path_Tree_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Shortest_Path_Tree_Calculator/Shortest_Path_Tree_Calculator.dict -- data/linux/processed-challenges/Shortest_Path_Tree_Calculator/bin/Shortest_Path_Tree_Calculator\n'
+p77
+I0
+tp78
+a(I4680
+S'start_time     : 1499906573\nlast_update    : 1499911261\nfuzzer_pid     : 13454\ncycles_done    : 0\nexecs_done     : 1491359\nexecs_per_sec  : 257.12\npaths_total    : 79\npaths_favored  : 39\npaths_found    : 78\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 63\npending_favs   : 9\npending_total  : 40\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 10\nunique_hangs   : 26\nlast_path      : 1499911247\nlast_crash     : 1499910649\nlast_hang      : 1499911153\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Shortest_Path_Tree_Calculator/input -o /dev/shm/work/Shortest_Path_Tree_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Shortest_Path_Tree_Calculator/Shortest_Path_Tree_Calculator.dict -- data/linux/processed-challenges/Shortest_Path_Tree_Calculator/bin/Shortest_Path_Tree_Calculator\n'
+p79
+I3
+tp80
+a(I4800
+S'start_time     : 1499906573\nlast_update    : 1499911381\nfuzzer_pid     : 13454\ncycles_done    : 0\nexecs_done     : 1522944\nexecs_per_sec  : 250.39\npaths_total    : 80\npaths_favored  : 39\npaths_found    : 79\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 63\npending_favs   : 9\npending_total  : 41\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 10\nunique_hangs   : 26\nlast_path      : 1499911336\nlast_crash     : 1499910649\nlast_hang      : 1499911153\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Shortest_Path_Tree_Calculator/input -o /dev/shm/work/Shortest_Path_Tree_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Shortest_Path_Tree_Calculator/Shortest_Path_Tree_Calculator.dict -- data/linux/processed-challenges/Shortest_Path_Tree_Calculator/bin/Shortest_Path_Tree_Calculator\n'
+p81
+I1
+tp82
+a(I4920
+S'start_time     : 1499906573\nlast_update    : 1499911501\nfuzzer_pid     : 13454\ncycles_done    : 0\nexecs_done     : 1554819\nexecs_per_sec  : 264.97\npaths_total    : 81\npaths_favored  : 39\npaths_found    : 80\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 63\npending_favs   : 9\npending_total  : 42\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 11\nunique_hangs   : 26\nlast_path      : 1499911467\nlast_crash     : 1499911483\nlast_hang      : 1499911153\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Shortest_Path_Tree_Calculator/input -o /dev/shm/work/Shortest_Path_Tree_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Shortest_Path_Tree_Calculator/Shortest_Path_Tree_Calculator.dict -- data/linux/processed-challenges/Shortest_Path_Tree_Calculator/bin/Shortest_Path_Tree_Calculator\n'
+p83
+I1
+tp84
+a(I5040
+S'start_time     : 1499906573\nlast_update    : 1499911622\nfuzzer_pid     : 13454\ncycles_done    : 0\nexecs_done     : 1586809\nexecs_per_sec  : 252.39\npaths_total    : 81\npaths_favored  : 39\npaths_found    : 80\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 63\npending_favs   : 9\npending_total  : 42\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 11\nunique_hangs   : 26\nlast_path      : 1499911467\nlast_crash     : 1499911483\nlast_hang      : 1499911153\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Shortest_Path_Tree_Calculator/input -o /dev/shm/work/Shortest_Path_Tree_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Shortest_Path_Tree_Calculator/Shortest_Path_Tree_Calculator.dict -- data/linux/processed-challenges/Shortest_Path_Tree_Calculator/bin/Shortest_Path_Tree_Calculator\n'
+p85
+I0
+tp86
+a(I5160
+S'start_time     : 1499906573\nlast_update    : 1499911742\nfuzzer_pid     : 13454\ncycles_done    : 0\nexecs_done     : 1623668\nexecs_per_sec  : 269.78\npaths_total    : 82\npaths_favored  : 41\npaths_found    : 81\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 67\npending_favs   : 11\npending_total  : 41\nvariable_paths : 0\nbitmap_cvg     : 0.81%\nunique_crashes : 11\nunique_hangs   : 27\nlast_path      : 1499911726\nlast_crash     : 1499911483\nlast_hang      : 1499911677\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Shortest_Path_Tree_Calculator/input -o /dev/shm/work/Shortest_Path_Tree_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Shortest_Path_Tree_Calculator/Shortest_Path_Tree_Calculator.dict -- data/linux/processed-challenges/Shortest_Path_Tree_Calculator/bin/Shortest_Path_Tree_Calculator\n'
+p87
+I1
+tp88
+a(I5280
+S'start_time     : 1499906573\nlast_update    : 1499911862\nfuzzer_pid     : 13454\ncycles_done    : 0\nexecs_done     : 1661035\nexecs_per_sec  : 241.92\npaths_total    : 82\npaths_favored  : 41\npaths_found    : 81\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 71\npending_favs   : 11\npending_total  : 40\nvariable_paths : 0\nbitmap_cvg     : 0.81%\nunique_crashes : 11\nunique_hangs   : 27\nlast_path      : 1499911726\nlast_crash     : 1499911483\nlast_hang      : 1499911677\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Shortest_Path_Tree_Calculator/input -o /dev/shm/work/Shortest_Path_Tree_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Shortest_Path_Tree_Calculator/Shortest_Path_Tree_Calculator.dict -- data/linux/processed-challenges/Shortest_Path_Tree_Calculator/bin/Shortest_Path_Tree_Calculator\n'
+p89
+I0
+tp90
+a(I5400
+S'start_time     : 1499906573\nlast_update    : 1499911982\nfuzzer_pid     : 13454\ncycles_done    : 0\nexecs_done     : 1697988\nexecs_per_sec  : 112.36\npaths_total    : 82\npaths_favored  : 41\npaths_found    : 81\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 74\npending_favs   : 9\npending_total  : 38\nvariable_paths : 0\nbitmap_cvg     : 0.81%\nunique_crashes : 12\nunique_hangs   : 27\nlast_path      : 1499911726\nlast_crash     : 1499911937\nlast_hang      : 1499911677\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Shortest_Path_Tree_Calculator/input -o /dev/shm/work/Shortest_Path_Tree_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Shortest_Path_Tree_Calculator/Shortest_Path_Tree_Calculator.dict -- data/linux/processed-challenges/Shortest_Path_Tree_Calculator/bin/Shortest_Path_Tree_Calculator\n'
+p91
+I0
+tp92
+a(I5520
+S'start_time     : 1499906573\nlast_update    : 1499912102\nfuzzer_pid     : 13454\ncycles_done    : 0\nexecs_done     : 1733452\nexecs_per_sec  : 265.32\npaths_total    : 83\npaths_favored  : 43\npaths_found    : 82\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 76\npending_favs   : 8\npending_total  : 38\nvariable_paths : 0\nbitmap_cvg     : 0.81%\nunique_crashes : 12\nunique_hangs   : 27\nlast_path      : 1499912003\nlast_crash     : 1499911937\nlast_hang      : 1499911677\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Shortest_Path_Tree_Calculator/input -o /dev/shm/work/Shortest_Path_Tree_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Shortest_Path_Tree_Calculator/Shortest_Path_Tree_Calculator.dict -- data/linux/processed-challenges/Shortest_Path_Tree_Calculator/bin/Shortest_Path_Tree_Calculator\n'
+p93
+I1
+tp94
+a(I5640
+S'start_time     : 1499906573\nlast_update    : 1499912223\nfuzzer_pid     : 13454\ncycles_done    : 0\nexecs_done     : 1768222\nexecs_per_sec  : 251.73\npaths_total    : 84\npaths_favored  : 43\npaths_found    : 83\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 78\npending_favs   : 7\npending_total  : 38\nvariable_paths : 0\nbitmap_cvg     : 0.82%\nunique_crashes : 12\nunique_hangs   : 29\nlast_path      : 1499912187\nlast_crash     : 1499911937\nlast_hang      : 1499912216\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Shortest_Path_Tree_Calculator/input -o /dev/shm/work/Shortest_Path_Tree_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Shortest_Path_Tree_Calculator/Shortest_Path_Tree_Calculator.dict -- data/linux/processed-challenges/Shortest_Path_Tree_Calculator/bin/Shortest_Path_Tree_Calculator\n'
+p95
+I1
+tp96
+a(I5760
+S'start_time     : 1499906573\nlast_update    : 1499912343\nfuzzer_pid     : 13454\ncycles_done    : 0\nexecs_done     : 1802200\nexecs_per_sec  : 220.01\npaths_total    : 84\npaths_favored  : 43\npaths_found    : 83\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 79\npending_favs   : 7\npending_total  : 37\nvariable_paths : 0\nbitmap_cvg     : 0.82%\nunique_crashes : 12\nunique_hangs   : 30\nlast_path      : 1499912187\nlast_crash     : 1499911937\nlast_hang      : 1499912272\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Shortest_Path_Tree_Calculator/input -o /dev/shm/work/Shortest_Path_Tree_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Shortest_Path_Tree_Calculator/Shortest_Path_Tree_Calculator.dict -- data/linux/processed-challenges/Shortest_Path_Tree_Calculator/bin/Shortest_Path_Tree_Calculator\n'
+p97
+I0
+tp98
+a(I5880
+S'start_time     : 1499906573\nlast_update    : 1499912463\nfuzzer_pid     : 13454\ncycles_done    : 0\nexecs_done     : 1825890\nexecs_per_sec  : 985.39\npaths_total    : 84\npaths_favored  : 43\npaths_found    : 83\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 81\npending_favs   : 5\npending_total  : 35\nvariable_paths : 0\nbitmap_cvg     : 0.82%\nunique_crashes : 13\nunique_hangs   : 31\nlast_path      : 1499912187\nlast_crash     : 1499912430\nlast_hang      : 1499912423\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Shortest_Path_Tree_Calculator/input -o /dev/shm/work/Shortest_Path_Tree_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Shortest_Path_Tree_Calculator/Shortest_Path_Tree_Calculator.dict -- data/linux/processed-challenges/Shortest_Path_Tree_Calculator/bin/Shortest_Path_Tree_Calculator\n'
+p99
+I0
+tp100
+a(I6000
+S'start_time     : 1499906573\nlast_update    : 1499912583\nfuzzer_pid     : 13454\ncycles_done    : 0\nexecs_done     : 1862350\nexecs_per_sec  : 256.12\npaths_total    : 84\npaths_favored  : 43\npaths_found    : 83\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 82\npending_favs   : 4\npending_total  : 34\nvariable_paths : 0\nbitmap_cvg     : 0.82%\nunique_crashes : 13\nunique_hangs   : 31\nlast_path      : 1499912187\nlast_crash     : 1499912430\nlast_hang      : 1499912423\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Shortest_Path_Tree_Calculator/input -o /dev/shm/work/Shortest_Path_Tree_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Shortest_Path_Tree_Calculator/Shortest_Path_Tree_Calculator.dict -- data/linux/processed-challenges/Shortest_Path_Tree_Calculator/bin/Shortest_Path_Tree_Calculator\n'
+p101
+I0
+tp102
+a(I6120
+S'start_time     : 1499906573\nlast_update    : 1499912703\nfuzzer_pid     : 13454\ncycles_done    : 0\nexecs_done     : 1897046\nexecs_per_sec  : 226.16\npaths_total    : 88\npaths_favored  : 43\npaths_found    : 87\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 83\npending_favs   : 3\npending_total  : 37\nvariable_paths : 0\nbitmap_cvg     : 0.83%\nunique_crashes : 15\nunique_hangs   : 33\nlast_path      : 1499912694\nlast_crash     : 1499912693\nlast_hang      : 1499912703\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Shortest_Path_Tree_Calculator/input -o /dev/shm/work/Shortest_Path_Tree_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Shortest_Path_Tree_Calculator/Shortest_Path_Tree_Calculator.dict -- data/linux/processed-challenges/Shortest_Path_Tree_Calculator/bin/Shortest_Path_Tree_Calculator\n'
+p103
+I4
+tp104
+a(I6240
+S'start_time     : 1499906573\nlast_update    : 1499912824\nfuzzer_pid     : 13454\ncycles_done    : 0\nexecs_done     : 1923424\nexecs_per_sec  : 214.62\npaths_total    : 93\npaths_favored  : 43\npaths_found    : 92\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 83\npending_favs   : 3\npending_total  : 42\nvariable_paths : 0\nbitmap_cvg     : 0.84%\nunique_crashes : 15\nunique_hangs   : 33\nlast_path      : 1499912795\nlast_crash     : 1499912693\nlast_hang      : 1499912703\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Shortest_Path_Tree_Calculator/input -o /dev/shm/work/Shortest_Path_Tree_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Shortest_Path_Tree_Calculator/Shortest_Path_Tree_Calculator.dict -- data/linux/processed-challenges/Shortest_Path_Tree_Calculator/bin/Shortest_Path_Tree_Calculator\n'
+p105
+I5
+tp106
+a(I6360
+S'start_time     : 1499906573\nlast_update    : 1499912944\nfuzzer_pid     : 13454\ncycles_done    : 0\nexecs_done     : 1950584\nexecs_per_sec  : 221.65\npaths_total    : 95\npaths_favored  : 43\npaths_found    : 94\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 83\npending_favs   : 3\npending_total  : 44\nvariable_paths : 0\nbitmap_cvg     : 0.84%\nunique_crashes : 15\nunique_hangs   : 33\nlast_path      : 1499912856\nlast_crash     : 1499912693\nlast_hang      : 1499912703\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Shortest_Path_Tree_Calculator/input -o /dev/shm/work/Shortest_Path_Tree_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Shortest_Path_Tree_Calculator/Shortest_Path_Tree_Calculator.dict -- data/linux/processed-challenges/Shortest_Path_Tree_Calculator/bin/Shortest_Path_Tree_Calculator\n'
+p107
+I2
+tp108
+a(I6480
+S'start_time     : 1499906573\nlast_update    : 1499913064\nfuzzer_pid     : 13454\ncycles_done    : 0\nexecs_done     : 1977208\nexecs_per_sec  : 231.67\npaths_total    : 95\npaths_favored  : 43\npaths_found    : 94\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 83\npending_favs   : 3\npending_total  : 44\nvariable_paths : 0\nbitmap_cvg     : 0.84%\nunique_crashes : 15\nunique_hangs   : 33\nlast_path      : 1499912856\nlast_crash     : 1499912693\nlast_hang      : 1499912703\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Shortest_Path_Tree_Calculator/input -o /dev/shm/work/Shortest_Path_Tree_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Shortest_Path_Tree_Calculator/Shortest_Path_Tree_Calculator.dict -- data/linux/processed-challenges/Shortest_Path_Tree_Calculator/bin/Shortest_Path_Tree_Calculator\n'
+p109
+I0
+tp110
+a(I6600
+S'start_time     : 1499906573\nlast_update    : 1499913184\nfuzzer_pid     : 13454\ncycles_done    : 0\nexecs_done     : 2003752\nexecs_per_sec  : 215.19\npaths_total    : 95\npaths_favored  : 43\npaths_found    : 94\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 83\npending_favs   : 3\npending_total  : 44\nvariable_paths : 0\nbitmap_cvg     : 0.84%\nunique_crashes : 15\nunique_hangs   : 33\nlast_path      : 1499912856\nlast_crash     : 1499912693\nlast_hang      : 1499912703\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Shortest_Path_Tree_Calculator/input -o /dev/shm/work/Shortest_Path_Tree_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Shortest_Path_Tree_Calculator/Shortest_Path_Tree_Calculator.dict -- data/linux/processed-challenges/Shortest_Path_Tree_Calculator/bin/Shortest_Path_Tree_Calculator\n'
+p111
+I0
+tp112
+a(I6720
+S'start_time     : 1499906573\nlast_update    : 1499913244\nfuzzer_pid     : 13454\ncycles_done    : 0\nexecs_done     : 2020477\nexecs_per_sec  : 809.32\npaths_total    : 95\npaths_favored  : 44\npaths_found    : 94\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 87\npending_favs   : 8\npending_total  : 43\nvariable_paths : 0\nbitmap_cvg     : 0.84%\nunique_crashes : 15\nunique_hangs   : 33\nlast_path      : 1499912856\nlast_crash     : 1499912693\nlast_hang      : 1499912703\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Shortest_Path_Tree_Calculator/input -o /dev/shm/work/Shortest_Path_Tree_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Shortest_Path_Tree_Calculator/Shortest_Path_Tree_Calculator.dict -- data/linux/processed-challenges/Shortest_Path_Tree_Calculator/bin/Shortest_Path_Tree_Calculator\n'
+p113
+I0
+tp114
+a(I6840
+S'start_time     : 1499906573\nlast_update    : 1499913364\nfuzzer_pid     : 13454\ncycles_done    : 0\nexecs_done     : 2052599\nexecs_per_sec  : 215.52\npaths_total    : 96\npaths_favored  : 44\npaths_found    : 95\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 87\npending_favs   : 8\npending_total  : 44\nvariable_paths : 0\nbitmap_cvg     : 0.84%\nunique_crashes : 15\nunique_hangs   : 33\nlast_path      : 1499913346\nlast_crash     : 1499912693\nlast_hang      : 1499912703\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Shortest_Path_Tree_Calculator/input -o /dev/shm/work/Shortest_Path_Tree_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Shortest_Path_Tree_Calculator/Shortest_Path_Tree_Calculator.dict -- data/linux/processed-challenges/Shortest_Path_Tree_Calculator/bin/Shortest_Path_Tree_Calculator\n'
+p115
+I1
+tp116
+a(I6960
+S'start_time     : 1499906573\nlast_update    : 1499913485\nfuzzer_pid     : 13454\ncycles_done    : 0\nexecs_done     : 2078937\nexecs_per_sec  : 204.61\npaths_total    : 97\npaths_favored  : 44\npaths_found    : 96\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 87\npending_favs   : 8\npending_total  : 45\nvariable_paths : 0\nbitmap_cvg     : 0.84%\nunique_crashes : 15\nunique_hangs   : 33\nlast_path      : 1499913449\nlast_crash     : 1499912693\nlast_hang      : 1499912703\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Shortest_Path_Tree_Calculator/input -o /dev/shm/work/Shortest_Path_Tree_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Shortest_Path_Tree_Calculator/Shortest_Path_Tree_Calculator.dict -- data/linux/processed-challenges/Shortest_Path_Tree_Calculator/bin/Shortest_Path_Tree_Calculator\n'
+p117
+I1
+tp118
+a(I7080
+S'start_time     : 1499906573\nlast_update    : 1499913605\nfuzzer_pid     : 13454\ncycles_done    : 0\nexecs_done     : 2105153\nexecs_per_sec  : 221.86\npaths_total    : 97\npaths_favored  : 44\npaths_found    : 96\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 87\npending_favs   : 8\npending_total  : 45\nvariable_paths : 0\nbitmap_cvg     : 0.84%\nunique_crashes : 15\nunique_hangs   : 33\nlast_path      : 1499913449\nlast_crash     : 1499912693\nlast_hang      : 1499912703\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Shortest_Path_Tree_Calculator/input -o /dev/shm/work/Shortest_Path_Tree_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Shortest_Path_Tree_Calculator/Shortest_Path_Tree_Calculator.dict -- data/linux/processed-challenges/Shortest_Path_Tree_Calculator/bin/Shortest_Path_Tree_Calculator\n'
+p119
+I0
+tp120
+a(I7200
+S'start_time     : 1499906573\nlast_update    : 1499913725\nfuzzer_pid     : 13454\ncycles_done    : 0\nexecs_done     : 2131377\nexecs_per_sec  : 205.97\npaths_total    : 97\npaths_favored  : 44\npaths_found    : 96\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 87\npending_favs   : 8\npending_total  : 45\nvariable_paths : 0\nbitmap_cvg     : 0.84%\nunique_crashes : 15\nunique_hangs   : 33\nlast_path      : 1499913449\nlast_crash     : 1499912693\nlast_hang      : 1499912703\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Shortest_Path_Tree_Calculator/input -o /dev/shm/work/Shortest_Path_Tree_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Shortest_Path_Tree_Calculator/Shortest_Path_Tree_Calculator.dict -- data/linux/processed-challenges/Shortest_Path_Tree_Calculator/bin/Shortest_Path_Tree_Calculator\n'
+p121
+I0
+tp122
+a(I7320
+S'start_time     : 1499906573\nlast_update    : 1499913845\nfuzzer_pid     : 13454\ncycles_done    : 0\nexecs_done     : 2160669\nexecs_per_sec  : 78.03\npaths_total    : 97\npaths_favored  : 45\npaths_found    : 96\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 88\npending_favs   : 8\npending_total  : 44\nvariable_paths : 0\nbitmap_cvg     : 0.84%\nunique_crashes : 15\nunique_hangs   : 34\nlast_path      : 1499913449\nlast_crash     : 1499912693\nlast_hang      : 1499913742\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Shortest_Path_Tree_Calculator/input -o /dev/shm/work/Shortest_Path_Tree_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Shortest_Path_Tree_Calculator/Shortest_Path_Tree_Calculator.dict -- data/linux/processed-challenges/Shortest_Path_Tree_Calculator/bin/Shortest_Path_Tree_Calculator\n'
+p123
+I0
+tp124
+a(I7440
+S'start_time     : 1499906573\nlast_update    : 1499913965\nfuzzer_pid     : 13454\ncycles_done    : 0\nexecs_done     : 2190490\nexecs_per_sec  : 205.85\npaths_total    : 97\npaths_favored  : 45\npaths_found    : 96\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 88\npending_favs   : 8\npending_total  : 44\nvariable_paths : 0\nbitmap_cvg     : 0.84%\nunique_crashes : 15\nunique_hangs   : 34\nlast_path      : 1499913449\nlast_crash     : 1499912693\nlast_hang      : 1499913742\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Shortest_Path_Tree_Calculator/input -o /dev/shm/work/Shortest_Path_Tree_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Shortest_Path_Tree_Calculator/Shortest_Path_Tree_Calculator.dict -- data/linux/processed-challenges/Shortest_Path_Tree_Calculator/bin/Shortest_Path_Tree_Calculator\n'
+p125
+I0
+tp126
+a(I7560
+S'start_time     : 1499906573\nlast_update    : 1499914086\nfuzzer_pid     : 13454\ncycles_done    : 0\nexecs_done     : 2225624\nexecs_per_sec  : 207.29\npaths_total    : 97\npaths_favored  : 45\npaths_found    : 96\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 91\npending_favs   : 7\npending_total  : 43\nvariable_paths : 0\nbitmap_cvg     : 0.84%\nunique_crashes : 16\nunique_hangs   : 35\nlast_path      : 1499913449\nlast_crash     : 1499914009\nlast_hang      : 1499914021\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Shortest_Path_Tree_Calculator/input -o /dev/shm/work/Shortest_Path_Tree_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Shortest_Path_Tree_Calculator/Shortest_Path_Tree_Calculator.dict -- data/linux/processed-challenges/Shortest_Path_Tree_Calculator/bin/Shortest_Path_Tree_Calculator\n'
+p127
+I0
+tp128
+a(I7680
+S'start_time     : 1499906573\nlast_update    : 1499914206\nfuzzer_pid     : 13454\ncycles_done    : 0\nexecs_done     : 2251895\nexecs_per_sec  : 510.39\npaths_total    : 97\npaths_favored  : 45\npaths_found    : 96\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 92\npending_favs   : 6\npending_total  : 42\nvariable_paths : 0\nbitmap_cvg     : 0.84%\nunique_crashes : 16\nunique_hangs   : 37\nlast_path      : 1499913449\nlast_crash     : 1499914009\nlast_hang      : 1499914196\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Shortest_Path_Tree_Calculator/input -o /dev/shm/work/Shortest_Path_Tree_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Shortest_Path_Tree_Calculator/Shortest_Path_Tree_Calculator.dict -- data/linux/processed-challenges/Shortest_Path_Tree_Calculator/bin/Shortest_Path_Tree_Calculator\n'
+p129
+I0
+tp130
+a(I7800
+S'start_time     : 1499906573\nlast_update    : 1499914326\nfuzzer_pid     : 13454\ncycles_done    : 0\nexecs_done     : 2284850\nexecs_per_sec  : 219.40\npaths_total    : 97\npaths_favored  : 45\npaths_found    : 96\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 92\npending_favs   : 6\npending_total  : 42\nvariable_paths : 0\nbitmap_cvg     : 0.84%\nunique_crashes : 16\nunique_hangs   : 37\nlast_path      : 1499913449\nlast_crash     : 1499914009\nlast_hang      : 1499914196\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Shortest_Path_Tree_Calculator/input -o /dev/shm/work/Shortest_Path_Tree_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Shortest_Path_Tree_Calculator/Shortest_Path_Tree_Calculator.dict -- data/linux/processed-challenges/Shortest_Path_Tree_Calculator/bin/Shortest_Path_Tree_Calculator\n'
+p131
+I0
+tp132
+a(I7920
+S'start_time     : 1499906573\nlast_update    : 1499914446\nfuzzer_pid     : 13454\ncycles_done    : 0\nexecs_done     : 2317971\nexecs_per_sec  : 218.90\npaths_total    : 97\npaths_favored  : 45\npaths_found    : 96\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 93\npending_favs   : 5\npending_total  : 41\nvariable_paths : 0\nbitmap_cvg     : 0.84%\nunique_crashes : 16\nunique_hangs   : 37\nlast_path      : 1499913449\nlast_crash     : 1499914009\nlast_hang      : 1499914196\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Shortest_Path_Tree_Calculator/input -o /dev/shm/work/Shortest_Path_Tree_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Shortest_Path_Tree_Calculator/Shortest_Path_Tree_Calculator.dict -- data/linux/processed-challenges/Shortest_Path_Tree_Calculator/bin/Shortest_Path_Tree_Calculator\n'
+p133
+I0
+tp134
+a(I8040
+S'start_time     : 1499906573\nlast_update    : 1499914566\nfuzzer_pid     : 13454\ncycles_done    : 0\nexecs_done     : 2343403\nexecs_per_sec  : 206.89\npaths_total    : 97\npaths_favored  : 45\npaths_found    : 96\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 93\npending_favs   : 5\npending_total  : 41\nvariable_paths : 0\nbitmap_cvg     : 0.84%\nunique_crashes : 16\nunique_hangs   : 37\nlast_path      : 1499913449\nlast_crash     : 1499914009\nlast_hang      : 1499914196\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Shortest_Path_Tree_Calculator/input -o /dev/shm/work/Shortest_Path_Tree_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Shortest_Path_Tree_Calculator/Shortest_Path_Tree_Calculator.dict -- data/linux/processed-challenges/Shortest_Path_Tree_Calculator/bin/Shortest_Path_Tree_Calculator\n'
+p135
+I0
+tp136
+a(I8160
+S'start_time     : 1499906573\nlast_update    : 1499914687\nfuzzer_pid     : 13454\ncycles_done    : 0\nexecs_done     : 2377631\nexecs_per_sec  : 227.84\npaths_total    : 97\npaths_favored  : 45\npaths_found    : 96\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 94\npending_favs   : 4\npending_total  : 40\nvariable_paths : 0\nbitmap_cvg     : 0.84%\nunique_crashes : 16\nunique_hangs   : 37\nlast_path      : 1499913449\nlast_crash     : 1499914009\nlast_hang      : 1499914196\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Shortest_Path_Tree_Calculator/input -o /dev/shm/work/Shortest_Path_Tree_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Shortest_Path_Tree_Calculator/Shortest_Path_Tree_Calculator.dict -- data/linux/processed-challenges/Shortest_Path_Tree_Calculator/bin/Shortest_Path_Tree_Calculator\n'
+p137
+I1
+tp138
+a(I8280
+S'start_time     : 1499906573\nlast_update    : 1499914807\nfuzzer_pid     : 13454\ncycles_done    : 0\nexecs_done     : 2404473\nexecs_per_sec  : 212.95\npaths_total    : 98\npaths_favored  : 45\npaths_found    : 97\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 94\npending_favs   : 4\npending_total  : 41\nvariable_paths : 0\nbitmap_cvg     : 0.85%\nunique_crashes : 16\nunique_hangs   : 37\nlast_path      : 1499914702\nlast_crash     : 1499914009\nlast_hang      : 1499914196\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Shortest_Path_Tree_Calculator/input -o /dev/shm/work/Shortest_Path_Tree_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Shortest_Path_Tree_Calculator/Shortest_Path_Tree_Calculator.dict -- data/linux/processed-challenges/Shortest_Path_Tree_Calculator/bin/Shortest_Path_Tree_Calculator\n'
+p139
+I0
+tp140
+a(I8400
+S'start_time     : 1499906573\nlast_update    : 1499914927\nfuzzer_pid     : 13454\ncycles_done    : 0\nexecs_done     : 2438078\nexecs_per_sec  : 190.78\npaths_total    : 98\npaths_favored  : 45\npaths_found    : 97\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 95\npending_favs   : 4\npending_total  : 40\nvariable_paths : 0\nbitmap_cvg     : 0.85%\nunique_crashes : 16\nunique_hangs   : 37\nlast_path      : 1499914702\nlast_crash     : 1499914009\nlast_hang      : 1499914196\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Shortest_Path_Tree_Calculator/input -o /dev/shm/work/Shortest_Path_Tree_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Shortest_Path_Tree_Calculator/Shortest_Path_Tree_Calculator.dict -- data/linux/processed-challenges/Shortest_Path_Tree_Calculator/bin/Shortest_Path_Tree_Calculator\n'
+p141
+I0
+tp142
+a(I8520
+S'start_time     : 1499906573\nlast_update    : 1499915047\nfuzzer_pid     : 13454\ncycles_done    : 0\nexecs_done     : 2462633\nexecs_per_sec  : 200.19\npaths_total    : 98\npaths_favored  : 45\npaths_found    : 97\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 95\npending_favs   : 4\npending_total  : 40\nvariable_paths : 0\nbitmap_cvg     : 0.85%\nunique_crashes : 16\nunique_hangs   : 37\nlast_path      : 1499914702\nlast_crash     : 1499914009\nlast_hang      : 1499914196\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Shortest_Path_Tree_Calculator/input -o /dev/shm/work/Shortest_Path_Tree_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Shortest_Path_Tree_Calculator/Shortest_Path_Tree_Calculator.dict -- data/linux/processed-challenges/Shortest_Path_Tree_Calculator/bin/Shortest_Path_Tree_Calculator\n'
+p143
+I1
+tp144
+a(I8640
+S'start_time     : 1499906573\nlast_update    : 1499915168\nfuzzer_pid     : 13454\ncycles_done    : 0\nexecs_done     : 2493680\nexecs_per_sec  : 225.28\npaths_total    : 103\npaths_favored  : 45\npaths_found    : 102\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 97\npending_favs   : 3\npending_total  : 44\nvariable_paths : 0\nbitmap_cvg     : 0.88%\nunique_crashes : 16\nunique_hangs   : 37\nlast_path      : 1499915118\nlast_crash     : 1499914009\nlast_hang      : 1499914196\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Shortest_Path_Tree_Calculator/input -o /dev/shm/work/Shortest_Path_Tree_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Shortest_Path_Tree_Calculator/Shortest_Path_Tree_Calculator.dict -- data/linux/processed-challenges/Shortest_Path_Tree_Calculator/bin/Shortest_Path_Tree_Calculator\n'
+p145
+I4
+tp146
+a(I8760
+S'start_time     : 1499906573\nlast_update    : 1499915288\nfuzzer_pid     : 13454\ncycles_done    : 0\nexecs_done     : 2518834\nexecs_per_sec  : 217.27\npaths_total    : 104\npaths_favored  : 45\npaths_found    : 103\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 97\npending_favs   : 3\npending_total  : 45\nvariable_paths : 0\nbitmap_cvg     : 0.89%\nunique_crashes : 16\nunique_hangs   : 37\nlast_path      : 1499915226\nlast_crash     : 1499914009\nlast_hang      : 1499914196\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Shortest_Path_Tree_Calculator/input -o /dev/shm/work/Shortest_Path_Tree_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Shortest_Path_Tree_Calculator/Shortest_Path_Tree_Calculator.dict -- data/linux/processed-challenges/Shortest_Path_Tree_Calculator/bin/Shortest_Path_Tree_Calculator\n'
+p147
+I1
+tp148
+a(I8880
+S'start_time     : 1499906573\nlast_update    : 1499915408\nfuzzer_pid     : 13454\ncycles_done    : 0\nexecs_done     : 2544126\nexecs_per_sec  : 205.37\npaths_total    : 104\npaths_favored  : 45\npaths_found    : 103\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 97\npending_favs   : 3\npending_total  : 45\nvariable_paths : 0\nbitmap_cvg     : 0.89%\nunique_crashes : 16\nunique_hangs   : 38\nlast_path      : 1499915226\nlast_crash     : 1499914009\nlast_hang      : 1499915335\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Shortest_Path_Tree_Calculator/input -o /dev/shm/work/Shortest_Path_Tree_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Shortest_Path_Tree_Calculator/Shortest_Path_Tree_Calculator.dict -- data/linux/processed-challenges/Shortest_Path_Tree_Calculator/bin/Shortest_Path_Tree_Calculator\n'
+p149
+I0
+tp150
+a(I9000
+S'start_time     : 1499906573\nlast_update    : 1499915528\nfuzzer_pid     : 13454\ncycles_done    : 0\nexecs_done     : 2569020\nexecs_per_sec  : 222.93\npaths_total    : 105\npaths_favored  : 45\npaths_found    : 104\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 97\npending_favs   : 3\npending_total  : 46\nvariable_paths : 0\nbitmap_cvg     : 0.90%\nunique_crashes : 16\nunique_hangs   : 38\nlast_path      : 1499915486\nlast_crash     : 1499914009\nlast_hang      : 1499915335\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Shortest_Path_Tree_Calculator/input -o /dev/shm/work/Shortest_Path_Tree_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Shortest_Path_Tree_Calculator/Shortest_Path_Tree_Calculator.dict -- data/linux/processed-challenges/Shortest_Path_Tree_Calculator/bin/Shortest_Path_Tree_Calculator\n'
+p151
+I1
+tp152
+a(I9120
+S'start_time     : 1499906573\nlast_update    : 1499915648\nfuzzer_pid     : 13454\ncycles_done    : 0\nexecs_done     : 2593892\nexecs_per_sec  : 208.33\npaths_total    : 105\npaths_favored  : 45\npaths_found    : 104\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 97\npending_favs   : 3\npending_total  : 46\nvariable_paths : 0\nbitmap_cvg     : 0.90%\nunique_crashes : 16\nunique_hangs   : 38\nlast_path      : 1499915486\nlast_crash     : 1499914009\nlast_hang      : 1499915335\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Shortest_Path_Tree_Calculator/input -o /dev/shm/work/Shortest_Path_Tree_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Shortest_Path_Tree_Calculator/Shortest_Path_Tree_Calculator.dict -- data/linux/processed-challenges/Shortest_Path_Tree_Calculator/bin/Shortest_Path_Tree_Calculator\n'
+p153
+I0
+tp154
+a(I9240
+S'start_time     : 1499906573\nlast_update    : 1499915769\nfuzzer_pid     : 13454\ncycles_done    : 0\nexecs_done     : 2619120\nexecs_per_sec  : 205.00\npaths_total    : 105\npaths_favored  : 45\npaths_found    : 104\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 97\npending_favs   : 3\npending_total  : 46\nvariable_paths : 0\nbitmap_cvg     : 0.90%\nunique_crashes : 16\nunique_hangs   : 39\nlast_path      : 1499915486\nlast_crash     : 1499914009\nlast_hang      : 1499915657\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Shortest_Path_Tree_Calculator/input -o /dev/shm/work/Shortest_Path_Tree_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Shortest_Path_Tree_Calculator/Shortest_Path_Tree_Calculator.dict -- data/linux/processed-challenges/Shortest_Path_Tree_Calculator/bin/Shortest_Path_Tree_Calculator\n'
+p155
+I0
+tp156
+a(I9360
+S'start_time     : 1499906573\nlast_update    : 1499915889\nfuzzer_pid     : 13454\ncycles_done    : 0\nexecs_done     : 2646602\nexecs_per_sec  : 50.77\npaths_total    : 106\npaths_favored  : 51\npaths_found    : 105\npaths_imported : 0\nmax_depth      : 12\ncur_path       : 98\npending_favs   : 9\npending_total  : 46\nvariable_paths : 0\nbitmap_cvg     : 0.90%\nunique_crashes : 16\nunique_hangs   : 39\nlast_path      : 1499915876\nlast_crash     : 1499914009\nlast_hang      : 1499915657\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Shortest_Path_Tree_Calculator/input -o /dev/shm/work/Shortest_Path_Tree_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Shortest_Path_Tree_Calculator/Shortest_Path_Tree_Calculator.dict -- data/linux/processed-challenges/Shortest_Path_Tree_Calculator/bin/Shortest_Path_Tree_Calculator\n'
+p157
+I2
+tp158
+a(I9480
+S'start_time     : 1499906573\nlast_update    : 1499916009\nfuzzer_pid     : 13454\ncycles_done    : 0\nexecs_done     : 2675732\nexecs_per_sec  : 203.41\npaths_total    : 107\npaths_favored  : 51\npaths_found    : 106\npaths_imported : 0\nmax_depth      : 12\ncur_path       : 98\npending_favs   : 9\npending_total  : 47\nvariable_paths : 0\nbitmap_cvg     : 0.90%\nunique_crashes : 16\nunique_hangs   : 39\nlast_path      : 1499915937\nlast_crash     : 1499914009\nlast_hang      : 1499915657\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Shortest_Path_Tree_Calculator/input -o /dev/shm/work/Shortest_Path_Tree_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Shortest_Path_Tree_Calculator/Shortest_Path_Tree_Calculator.dict -- data/linux/processed-challenges/Shortest_Path_Tree_Calculator/bin/Shortest_Path_Tree_Calculator\n'
+p159
+I0
+tp160
+a(I9600
+S'start_time     : 1499906573\nlast_update    : 1499916129\nfuzzer_pid     : 13454\ncycles_done    : 0\nexecs_done     : 2705187\nexecs_per_sec  : 669.35\npaths_total    : 107\npaths_favored  : 52\npaths_found    : 106\npaths_imported : 0\nmax_depth      : 12\ncur_path       : 99\npending_favs   : 9\npending_total  : 46\nvariable_paths : 0\nbitmap_cvg     : 0.90%\nunique_crashes : 16\nunique_hangs   : 39\nlast_path      : 1499915937\nlast_crash     : 1499914009\nlast_hang      : 1499915657\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Shortest_Path_Tree_Calculator/input -o /dev/shm/work/Shortest_Path_Tree_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Shortest_Path_Tree_Calculator/Shortest_Path_Tree_Calculator.dict -- data/linux/processed-challenges/Shortest_Path_Tree_Calculator/bin/Shortest_Path_Tree_Calculator\n'
+p161
+I0
+tp162
+a(I9720
+S'start_time     : 1499906573\nlast_update    : 1499916249\nfuzzer_pid     : 13454\ncycles_done    : 0\nexecs_done     : 2732905\nexecs_per_sec  : 217.12\npaths_total    : 107\npaths_favored  : 52\npaths_found    : 106\npaths_imported : 0\nmax_depth      : 12\ncur_path       : 99\npending_favs   : 9\npending_total  : 46\nvariable_paths : 0\nbitmap_cvg     : 0.90%\nunique_crashes : 16\nunique_hangs   : 40\nlast_path      : 1499915937\nlast_crash     : 1499914009\nlast_hang      : 1499916139\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Shortest_Path_Tree_Calculator/input -o /dev/shm/work/Shortest_Path_Tree_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Shortest_Path_Tree_Calculator/Shortest_Path_Tree_Calculator.dict -- data/linux/processed-challenges/Shortest_Path_Tree_Calculator/bin/Shortest_Path_Tree_Calculator\n'
+p163
+I0
+tp164
+a(I9840
+S'start_time     : 1499906573\nlast_update    : 1499916370\nfuzzer_pid     : 13454\ncycles_done    : 0\nexecs_done     : 2764748\nexecs_per_sec  : 198.34\npaths_total    : 108\npaths_favored  : 52\npaths_found    : 107\npaths_imported : 0\nmax_depth      : 12\ncur_path       : 100\npending_favs   : 8\npending_total  : 46\nvariable_paths : 0\nbitmap_cvg     : 0.90%\nunique_crashes : 16\nunique_hangs   : 40\nlast_path      : 1499916333\nlast_crash     : 1499914009\nlast_hang      : 1499916139\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Shortest_Path_Tree_Calculator/input -o /dev/shm/work/Shortest_Path_Tree_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Shortest_Path_Tree_Calculator/Shortest_Path_Tree_Calculator.dict -- data/linux/processed-challenges/Shortest_Path_Tree_Calculator/bin/Shortest_Path_Tree_Calculator\n'
+p165
+I1
+tp166
+a(I9960
+S'start_time     : 1499906573\nlast_update    : 1499916490\nfuzzer_pid     : 13454\ncycles_done    : 0\nexecs_done     : 2790102\nexecs_per_sec  : 188.07\npaths_total    : 108\npaths_favored  : 52\npaths_found    : 107\npaths_imported : 0\nmax_depth      : 12\ncur_path       : 100\npending_favs   : 8\npending_total  : 46\nvariable_paths : 0\nbitmap_cvg     : 0.90%\nunique_crashes : 16\nunique_hangs   : 40\nlast_path      : 1499916333\nlast_crash     : 1499914009\nlast_hang      : 1499916139\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Shortest_Path_Tree_Calculator/input -o /dev/shm/work/Shortest_Path_Tree_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Shortest_Path_Tree_Calculator/Shortest_Path_Tree_Calculator.dict -- data/linux/processed-challenges/Shortest_Path_Tree_Calculator/bin/Shortest_Path_Tree_Calculator\n'
+p167
+I0
+tp168
+a(I10080
+S'start_time     : 1499906573\nlast_update    : 1499916610\nfuzzer_pid     : 13454\ncycles_done    : 0\nexecs_done     : 2821544\nexecs_per_sec  : 196.95\npaths_total    : 108\npaths_favored  : 53\npaths_found    : 107\npaths_imported : 0\nmax_depth      : 12\ncur_path       : 101\npending_favs   : 8\npending_total  : 45\nvariable_paths : 0\nbitmap_cvg     : 0.90%\nunique_crashes : 16\nunique_hangs   : 40\nlast_path      : 1499916333\nlast_crash     : 1499914009\nlast_hang      : 1499916139\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Shortest_Path_Tree_Calculator/input -o /dev/shm/work/Shortest_Path_Tree_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Shortest_Path_Tree_Calculator/Shortest_Path_Tree_Calculator.dict -- data/linux/processed-challenges/Shortest_Path_Tree_Calculator/bin/Shortest_Path_Tree_Calculator\n'
+p169
+I1
+tp170
+a(I10200
+S'start_time     : 1499906573\nlast_update    : 1499916730\nfuzzer_pid     : 13454\ncycles_done    : 0\nexecs_done     : 2854562\nexecs_per_sec  : 198.63\npaths_total    : 110\npaths_favored  : 53\npaths_found    : 109\npaths_imported : 0\nmax_depth      : 12\ncur_path       : 102\npending_favs   : 7\npending_total  : 46\nvariable_paths : 0\nbitmap_cvg     : 0.90%\nunique_crashes : 16\nunique_hangs   : 40\nlast_path      : 1499916726\nlast_crash     : 1499914009\nlast_hang      : 1499916139\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Shortest_Path_Tree_Calculator/input -o /dev/shm/work/Shortest_Path_Tree_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Shortest_Path_Tree_Calculator/Shortest_Path_Tree_Calculator.dict -- data/linux/processed-challenges/Shortest_Path_Tree_Calculator/bin/Shortest_Path_Tree_Calculator\n'
+p171
+I1
+tp172
+a(I10320
+S'start_time     : 1499906573\nlast_update    : 1499916851\nfuzzer_pid     : 13454\ncycles_done    : 0\nexecs_done     : 2878865\nexecs_per_sec  : 192.23\npaths_total    : 110\npaths_favored  : 53\npaths_found    : 109\npaths_imported : 0\nmax_depth      : 12\ncur_path       : 102\npending_favs   : 7\npending_total  : 46\nvariable_paths : 0\nbitmap_cvg     : 0.90%\nunique_crashes : 16\nunique_hangs   : 40\nlast_path      : 1499916726\nlast_crash     : 1499914009\nlast_hang      : 1499916139\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Shortest_Path_Tree_Calculator/input -o /dev/shm/work/Shortest_Path_Tree_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Shortest_Path_Tree_Calculator/Shortest_Path_Tree_Calculator.dict -- data/linux/processed-challenges/Shortest_Path_Tree_Calculator/bin/Shortest_Path_Tree_Calculator\n'
+p173
+I0
+tp174
+a(I10440
+S'start_time     : 1499906573\nlast_update    : 1499916971\nfuzzer_pid     : 13454\ncycles_done    : 0\nexecs_done     : 2903667\nexecs_per_sec  : 209.95\npaths_total    : 110\npaths_favored  : 53\npaths_found    : 109\npaths_imported : 0\nmax_depth      : 12\ncur_path       : 102\npending_favs   : 7\npending_total  : 46\nvariable_paths : 0\nbitmap_cvg     : 0.90%\nunique_crashes : 16\nunique_hangs   : 40\nlast_path      : 1499916726\nlast_crash     : 1499914009\nlast_hang      : 1499916139\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Shortest_Path_Tree_Calculator/input -o /dev/shm/work/Shortest_Path_Tree_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Shortest_Path_Tree_Calculator/Shortest_Path_Tree_Calculator.dict -- data/linux/processed-challenges/Shortest_Path_Tree_Calculator/bin/Shortest_Path_Tree_Calculator\n'
+p175
+I1
+tp176
+a(I10560
+S'start_time     : 1499906573\nlast_update    : 1499917091\nfuzzer_pid     : 13454\ncycles_done    : 0\nexecs_done     : 2936467\nexecs_per_sec  : 207.87\npaths_total    : 111\npaths_favored  : 53\npaths_found    : 110\npaths_imported : 0\nmax_depth      : 12\ncur_path       : 103\npending_favs   : 8\npending_total  : 46\nvariable_paths : 0\nbitmap_cvg     : 0.91%\nunique_crashes : 16\nunique_hangs   : 41\nlast_path      : 1499916982\nlast_crash     : 1499914009\nlast_hang      : 1499916982\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Shortest_Path_Tree_Calculator/input -o /dev/shm/work/Shortest_Path_Tree_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Shortest_Path_Tree_Calculator/Shortest_Path_Tree_Calculator.dict -- data/linux/processed-challenges/Shortest_Path_Tree_Calculator/bin/Shortest_Path_Tree_Calculator\n'
+p177
+I0
+tp178
+a(I10680
+S'start_time     : 1499906573\nlast_update    : 1499917211\nfuzzer_pid     : 13454\ncycles_done    : 0\nexecs_done     : 2969266\nexecs_per_sec  : 210.40\npaths_total    : 111\npaths_favored  : 55\npaths_found    : 110\npaths_imported : 0\nmax_depth      : 12\ncur_path       : 104\npending_favs   : 7\npending_total  : 45\nvariable_paths : 0\nbitmap_cvg     : 0.91%\nunique_crashes : 16\nunique_hangs   : 42\nlast_path      : 1499916982\nlast_crash     : 1499914009\nlast_hang      : 1499917126\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Shortest_Path_Tree_Calculator/input -o /dev/shm/work/Shortest_Path_Tree_Calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Shortest_Path_Tree_Calculator/Shortest_Path_Tree_Calculator.dict -- data/linux/processed-challenges/Shortest_Path_Tree_Calculator/bin/Shortest_Path_Tree_Calculator\n'
+p179
+I0
+tp180
+a.

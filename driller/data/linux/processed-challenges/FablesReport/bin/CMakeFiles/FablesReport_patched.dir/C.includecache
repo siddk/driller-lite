@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/libcgc.h
+
+../processed-challenges/FablesReport/include/stdint.h
+
+../processed-challenges/FablesReport/lib/libc.h
+libcgc.h
+-
+stdint.h
+-
+
+/vagrant/driller/data/linux/processed-challenges/FablesReport/lib/libc.c
+libcgc.h
+-
+libc.h
+/vagrant/driller/data/linux/processed-challenges/FablesReport/lib/libc.h
+
+/vagrant/driller/data/linux/processed-challenges/FablesReport/lib/libc.h
+libcgc.h
+-
+stdint.h
+-
+
+/vagrant/driller/data/linux/processed-challenges/FablesReport/src/service.c
+libcgc.h
+-
+libc.h
+/vagrant/driller/data/linux/processed-challenges/FablesReport/src/libc.h
+service.h
+/vagrant/driller/data/linux/processed-challenges/FablesReport/src/service.h
+
+/vagrant/driller/data/linux/processed-challenges/FablesReport/src/service.h
+

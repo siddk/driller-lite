@@ -1,0 +1,452 @@
+(lp0
+(I0
+S'start_time     : 1500058029\nlast_update    : 1500058029\nfuzzer_pid     : 7363\ncycles_done    : 0\nexecs_done     : 10\nexecs_per_sec  : 200.00\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 1\npending_total  : 1\nvariable_paths : 0\nbitmap_cvg     : 0.09%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Square_Rabbit/input -o /dev/shm/work/Square_Rabbit/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Square_Rabbit/Square_Rabbit.dict -- data/linux/processed-challenges/Square_Rabbit/bin/Square_Rabbit\n'
+p1
+I18
+tp2
+a(I120
+S'start_time     : 1500058029\nlast_update    : 1500058150\nfuzzer_pid     : 7363\ncycles_done    : 0\nexecs_done     : 135127\nexecs_per_sec  : 1153.05\npaths_total    : 25\npaths_favored  : 1\npaths_found    : 24\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 1\npending_total  : 25\nvariable_paths : 0\nbitmap_cvg     : 0.37%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500058143\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Square_Rabbit/input -o /dev/shm/work/Square_Rabbit/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Square_Rabbit/Square_Rabbit.dict -- data/linux/processed-challenges/Square_Rabbit/bin/Square_Rabbit\n'
+p3
+I7
+tp4
+a(I240
+S'start_time     : 1500058029\nlast_update    : 1500058270\nfuzzer_pid     : 7363\ncycles_done    : 0\nexecs_done     : 267221\nexecs_per_sec  : 1116.57\npaths_total    : 41\npaths_favored  : 12\npaths_found    : 40\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 6\npending_favs   : 11\npending_total  : 40\nvariable_paths : 0\nbitmap_cvg     : 0.38%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500058224\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Square_Rabbit/input -o /dev/shm/work/Square_Rabbit/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Square_Rabbit/Square_Rabbit.dict -- data/linux/processed-challenges/Square_Rabbit/bin/Square_Rabbit\n'
+p5
+I16
+tp6
+a(I360
+S'start_time     : 1500058029\nlast_update    : 1500058390\nfuzzer_pid     : 7363\ncycles_done    : 0\nexecs_done     : 377318\nexecs_per_sec  : 1068.84\npaths_total    : 46\npaths_favored  : 18\npaths_found    : 45\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 17\npending_favs   : 14\npending_total  : 41\nvariable_paths : 0\nbitmap_cvg     : 0.39%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500058362\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Square_Rabbit/input -o /dev/shm/work/Square_Rabbit/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Square_Rabbit/Square_Rabbit.dict -- data/linux/processed-challenges/Square_Rabbit/bin/Square_Rabbit\n'
+p7
+I5
+tp8
+a(I480
+S'start_time     : 1500058029\nlast_update    : 1500058510\nfuzzer_pid     : 7363\ncycles_done    : 0\nexecs_done     : 500767\nexecs_per_sec  : 483.52\npaths_total    : 49\npaths_favored  : 19\npaths_found    : 48\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 37\npending_favs   : 6\npending_total  : 34\nvariable_paths : 0\nbitmap_cvg     : 0.48%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500058470\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Square_Rabbit/input -o /dev/shm/work/Square_Rabbit/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Square_Rabbit/Square_Rabbit.dict -- data/linux/processed-challenges/Square_Rabbit/bin/Square_Rabbit\n'
+p9
+I3
+tp10
+a(I600
+S'start_time     : 1500058029\nlast_update    : 1500058631\nfuzzer_pid     : 7363\ncycles_done    : 0\nexecs_done     : 584843\nexecs_per_sec  : 748.23\npaths_total    : 57\npaths_favored  : 19\npaths_found    : 56\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 41\npending_favs   : 5\npending_total  : 41\nvariable_paths : 0\nbitmap_cvg     : 0.53%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500058593\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Square_Rabbit/input -o /dev/shm/work/Square_Rabbit/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Square_Rabbit/Square_Rabbit.dict -- data/linux/processed-challenges/Square_Rabbit/bin/Square_Rabbit\n'
+p11
+I8
+tp12
+a(I720
+S'start_time     : 1500058029\nlast_update    : 1500058751\nfuzzer_pid     : 7363\ncycles_done    : 0\nexecs_done     : 693958\nexecs_per_sec  : 970.55\npaths_total    : 69\npaths_favored  : 22\npaths_found    : 68\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 46\npending_favs   : 9\npending_total  : 51\nvariable_paths : 0\nbitmap_cvg     : 0.55%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500058692\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Square_Rabbit/input -o /dev/shm/work/Square_Rabbit/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Square_Rabbit/Square_Rabbit.dict -- data/linux/processed-challenges/Square_Rabbit/bin/Square_Rabbit\n'
+p13
+I12
+tp14
+a(I840
+S'start_time     : 1500058029\nlast_update    : 1500058871\nfuzzer_pid     : 7363\ncycles_done    : 0\nexecs_done     : 793237\nexecs_per_sec  : 604.66\npaths_total    : 73\npaths_favored  : 27\npaths_found    : 72\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 53\npending_favs   : 8\npending_total  : 50\nvariable_paths : 0\nbitmap_cvg     : 0.56%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500058870\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Square_Rabbit/input -o /dev/shm/work/Square_Rabbit/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Square_Rabbit/Square_Rabbit.dict -- data/linux/processed-challenges/Square_Rabbit/bin/Square_Rabbit\n'
+p15
+I9
+tp16
+a(I960
+S'start_time     : 1500058029\nlast_update    : 1500058991\nfuzzer_pid     : 7363\ncycles_done    : 0\nexecs_done     : 889659\nexecs_per_sec  : 809.91\npaths_total    : 84\npaths_favored  : 27\npaths_found    : 83\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 53\npending_favs   : 8\npending_total  : 61\nvariable_paths : 0\nbitmap_cvg     : 0.85%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500058942\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Square_Rabbit/input -o /dev/shm/work/Square_Rabbit/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Square_Rabbit/Square_Rabbit.dict -- data/linux/processed-challenges/Square_Rabbit/bin/Square_Rabbit\n'
+p17
+I6
+tp18
+a(I1080
+S'start_time     : 1500058029\nlast_update    : 1500059111\nfuzzer_pid     : 7363\ncycles_done    : 0\nexecs_done     : 959178\nexecs_per_sec  : 382.98\npaths_total    : 91\npaths_favored  : 36\npaths_found    : 90\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 60\npending_favs   : 18\npending_total  : 65\nvariable_paths : 0\nbitmap_cvg     : 0.89%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500059094\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Square_Rabbit/input -o /dev/shm/work/Square_Rabbit/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Square_Rabbit/Square_Rabbit.dict -- data/linux/processed-challenges/Square_Rabbit/bin/Square_Rabbit\n'
+p19
+I7
+tp20
+a(I1200
+S'start_time     : 1500058029\nlast_update    : 1500059232\nfuzzer_pid     : 7363\ncycles_done    : 0\nexecs_done     : 1034020\nexecs_per_sec  : 711.23\npaths_total    : 98\npaths_favored  : 42\npaths_found    : 97\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 70\npending_favs   : 21\npending_total  : 69\nvariable_paths : 0\nbitmap_cvg     : 0.90%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500059223\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Square_Rabbit/input -o /dev/shm/work/Square_Rabbit/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Square_Rabbit/Square_Rabbit.dict -- data/linux/processed-challenges/Square_Rabbit/bin/Square_Rabbit\n'
+p21
+I7
+tp22
+a(I1320
+S'start_time     : 1500058029\nlast_update    : 1500059352\nfuzzer_pid     : 7363\ncycles_done    : 0\nexecs_done     : 1117530\nexecs_per_sec  : 739.01\npaths_total    : 133\npaths_favored  : 44\npaths_found    : 132\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 74\npending_favs   : 21\npending_total  : 102\nvariable_paths : 0\nbitmap_cvg     : 1.03%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500059349\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Square_Rabbit/input -o /dev/shm/work/Square_Rabbit/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Square_Rabbit/Square_Rabbit.dict -- data/linux/processed-challenges/Square_Rabbit/bin/Square_Rabbit\n'
+p23
+I35
+tp24
+a(I1440
+S'start_time     : 1500058029\nlast_update    : 1500059472\nfuzzer_pid     : 7363\ncycles_done    : 0\nexecs_done     : 1204360\nexecs_per_sec  : 727.97\npaths_total    : 143\npaths_favored  : 44\npaths_found    : 142\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 74\npending_favs   : 21\npending_total  : 112\nvariable_paths : 0\nbitmap_cvg     : 1.23%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500059445\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Square_Rabbit/input -o /dev/shm/work/Square_Rabbit/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Square_Rabbit/Square_Rabbit.dict -- data/linux/processed-challenges/Square_Rabbit/bin/Square_Rabbit\n'
+p25
+I10
+tp26
+a(I1560
+S'start_time     : 1500058029\nlast_update    : 1500059593\nfuzzer_pid     : 7363\ncycles_done    : 0\nexecs_done     : 1288155\nexecs_per_sec  : 735.35\npaths_total    : 149\npaths_favored  : 56\npaths_found    : 148\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 75\npending_favs   : 36\npending_total  : 117\nvariable_paths : 0\nbitmap_cvg     : 1.25%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500059576\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Square_Rabbit/input -o /dev/shm/work/Square_Rabbit/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Square_Rabbit/Square_Rabbit.dict -- data/linux/processed-challenges/Square_Rabbit/bin/Square_Rabbit\n'
+p27
+I6
+tp28
+a(I1680
+S'start_time     : 1500058029\nlast_update    : 1500059713\nfuzzer_pid     : 7363\ncycles_done    : 0\nexecs_done     : 1370888\nexecs_per_sec  : 705.72\npaths_total    : 154\npaths_favored  : 56\npaths_found    : 153\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 76\npending_favs   : 36\npending_total  : 121\nvariable_paths : 0\nbitmap_cvg     : 1.26%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500059696\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Square_Rabbit/input -o /dev/shm/work/Square_Rabbit/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Square_Rabbit/Square_Rabbit.dict -- data/linux/processed-challenges/Square_Rabbit/bin/Square_Rabbit\n'
+p29
+I5
+tp30
+a(I1800
+S'start_time     : 1500058029\nlast_update    : 1500059833\nfuzzer_pid     : 7363\ncycles_done    : 0\nexecs_done     : 1443514\nexecs_per_sec  : 677.11\npaths_total    : 154\npaths_favored  : 56\npaths_found    : 153\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 81\npending_favs   : 32\npending_total  : 117\nvariable_paths : 0\nbitmap_cvg     : 1.26%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500059696\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Square_Rabbit/input -o /dev/shm/work/Square_Rabbit/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Square_Rabbit/Square_Rabbit.dict -- data/linux/processed-challenges/Square_Rabbit/bin/Square_Rabbit\n'
+p31
+I0
+tp32
+a(I1920
+S'start_time     : 1500058029\nlast_update    : 1500059953\nfuzzer_pid     : 7363\ncycles_done    : 0\nexecs_done     : 1511006\nexecs_per_sec  : 427.31\npaths_total    : 155\npaths_favored  : 56\npaths_found    : 154\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 85\npending_favs   : 28\npending_total  : 114\nvariable_paths : 0\nbitmap_cvg     : 1.26%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500059915\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Square_Rabbit/input -o /dev/shm/work/Square_Rabbit/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Square_Rabbit/Square_Rabbit.dict -- data/linux/processed-challenges/Square_Rabbit/bin/Square_Rabbit\n'
+p33
+I1
+tp34
+a(I2040
+S'start_time     : 1500058029\nlast_update    : 1500060073\nfuzzer_pid     : 7363\ncycles_done    : 0\nexecs_done     : 1581288\nexecs_per_sec  : 673.77\npaths_total    : 181\npaths_favored  : 56\npaths_found    : 180\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 88\npending_favs   : 26\npending_total  : 138\nvariable_paths : 0\nbitmap_cvg     : 1.29%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500060067\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Square_Rabbit/input -o /dev/shm/work/Square_Rabbit/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Square_Rabbit/Square_Rabbit.dict -- data/linux/processed-challenges/Square_Rabbit/bin/Square_Rabbit\n'
+p35
+I26
+tp36
+a(I2160
+S'start_time     : 1500058029\nlast_update    : 1500060194\nfuzzer_pid     : 7363\ncycles_done    : 0\nexecs_done     : 1662728\nexecs_per_sec  : 686.17\npaths_total    : 187\npaths_favored  : 56\npaths_found    : 186\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 88\npending_favs   : 26\npending_total  : 144\nvariable_paths : 0\nbitmap_cvg     : 1.29%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500060193\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Square_Rabbit/input -o /dev/shm/work/Square_Rabbit/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Square_Rabbit/Square_Rabbit.dict -- data/linux/processed-challenges/Square_Rabbit/bin/Square_Rabbit\n'
+p37
+I6
+tp38
+a(I2280
+S'start_time     : 1500058029\nlast_update    : 1500060314\nfuzzer_pid     : 7363\ncycles_done    : 0\nexecs_done     : 1736520\nexecs_per_sec  : 628.95\npaths_total    : 191\npaths_favored  : 54\npaths_found    : 190\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 89\npending_favs   : 24\npending_total  : 147\nvariable_paths : 0\nbitmap_cvg     : 1.29%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500060313\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Square_Rabbit/input -o /dev/shm/work/Square_Rabbit/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Square_Rabbit/Square_Rabbit.dict -- data/linux/processed-challenges/Square_Rabbit/bin/Square_Rabbit\n'
+p39
+I4
+tp40
+a(I2400
+S'start_time     : 1500058029\nlast_update    : 1500060434\nfuzzer_pid     : 7363\ncycles_done    : 0\nexecs_done     : 1801358\nexecs_per_sec  : 584.66\npaths_total    : 191\npaths_favored  : 56\npaths_found    : 190\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 95\npending_favs   : 23\npending_total  : 144\nvariable_paths : 0\nbitmap_cvg     : 1.29%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500060313\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Square_Rabbit/input -o /dev/shm/work/Square_Rabbit/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Square_Rabbit/Square_Rabbit.dict -- data/linux/processed-challenges/Square_Rabbit/bin/Square_Rabbit\n'
+p41
+I0
+tp42
+a(I2520
+S'start_time     : 1500058029\nlast_update    : 1500060554\nfuzzer_pid     : 7363\ncycles_done    : 0\nexecs_done     : 1870702\nexecs_per_sec  : 519.37\npaths_total    : 195\npaths_favored  : 56\npaths_found    : 194\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 103\npending_favs   : 20\npending_total  : 145\nvariable_paths : 0\nbitmap_cvg     : 1.29%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500060516\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Square_Rabbit/input -o /dev/shm/work/Square_Rabbit/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Square_Rabbit/Square_Rabbit.dict -- data/linux/processed-challenges/Square_Rabbit/bin/Square_Rabbit\n'
+p43
+I4
+tp44
+a(I2640
+S'start_time     : 1500058029\nlast_update    : 1500060675\nfuzzer_pid     : 7363\ncycles_done    : 0\nexecs_done     : 1948682\nexecs_per_sec  : 705.91\npaths_total    : 212\npaths_favored  : 57\npaths_found    : 211\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 107\npending_favs   : 20\npending_total  : 161\nvariable_paths : 0\nbitmap_cvg     : 1.34%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500060664\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Square_Rabbit/input -o /dev/shm/work/Square_Rabbit/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Square_Rabbit/Square_Rabbit.dict -- data/linux/processed-challenges/Square_Rabbit/bin/Square_Rabbit\n'
+p45
+I17
+tp46
+a(I2760
+S'start_time     : 1500058029\nlast_update    : 1500060795\nfuzzer_pid     : 7363\ncycles_done    : 0\nexecs_done     : 2032109\nexecs_per_sec  : 484.00\npaths_total    : 221\npaths_favored  : 58\npaths_found    : 220\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 108\npending_favs   : 22\npending_total  : 169\nvariable_paths : 0\nbitmap_cvg     : 1.47%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500060787\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Square_Rabbit/input -o /dev/shm/work/Square_Rabbit/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Square_Rabbit/Square_Rabbit.dict -- data/linux/processed-challenges/Square_Rabbit/bin/Square_Rabbit\n'
+p47
+I9
+tp48
+a(I2880
+S'start_time     : 1500058029\nlast_update    : 1500060915\nfuzzer_pid     : 7363\ncycles_done    : 0\nexecs_done     : 2113307\nexecs_per_sec  : 714.62\npaths_total    : 235\npaths_favored  : 58\npaths_found    : 234\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 108\npending_favs   : 22\npending_total  : 183\nvariable_paths : 0\nbitmap_cvg     : 1.51%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500060913\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Square_Rabbit/input -o /dev/shm/work/Square_Rabbit/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Square_Rabbit/Square_Rabbit.dict -- data/linux/processed-challenges/Square_Rabbit/bin/Square_Rabbit\n'
+p49
+I14
+tp50
+a(I3000
+S'start_time     : 1500058029\nlast_update    : 1500061035\nfuzzer_pid     : 7363\ncycles_done    : 0\nexecs_done     : 2188677\nexecs_per_sec  : 558.98\npaths_total    : 240\npaths_favored  : 63\npaths_found    : 239\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 112\npending_favs   : 25\npending_total  : 185\nvariable_paths : 0\nbitmap_cvg     : 1.54%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500060986\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Square_Rabbit/input -o /dev/shm/work/Square_Rabbit/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Square_Rabbit/Square_Rabbit.dict -- data/linux/processed-challenges/Square_Rabbit/bin/Square_Rabbit\n'
+p51
+I5
+tp52
+a(I3120
+S'start_time     : 1500058029\nlast_update    : 1500061155\nfuzzer_pid     : 7363\ncycles_done    : 0\nexecs_done     : 2261105\nexecs_per_sec  : 709.67\npaths_total    : 244\npaths_favored  : 63\npaths_found    : 243\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 115\npending_favs   : 23\npending_total  : 187\nvariable_paths : 0\nbitmap_cvg     : 1.54%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500061108\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Square_Rabbit/input -o /dev/shm/work/Square_Rabbit/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Square_Rabbit/Square_Rabbit.dict -- data/linux/processed-challenges/Square_Rabbit/bin/Square_Rabbit\n'
+p53
+I4
+tp54
+a(I3240
+S'start_time     : 1500058029\nlast_update    : 1500061276\nfuzzer_pid     : 7363\ncycles_done    : 0\nexecs_done     : 2337945\nexecs_per_sec  : 671.84\npaths_total    : 251\npaths_favored  : 64\npaths_found    : 250\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 130\npending_favs   : 23\npending_total  : 193\nvariable_paths : 0\nbitmap_cvg     : 1.54%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500061258\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Square_Rabbit/input -o /dev/shm/work/Square_Rabbit/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Square_Rabbit/Square_Rabbit.dict -- data/linux/processed-challenges/Square_Rabbit/bin/Square_Rabbit\n'
+p55
+I7
+tp56
+a(I3360
+S'start_time     : 1500058029\nlast_update    : 1500061396\nfuzzer_pid     : 7363\ncycles_done    : 0\nexecs_done     : 2420574\nexecs_per_sec  : 704.87\npaths_total    : 253\npaths_favored  : 64\npaths_found    : 252\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 130\npending_favs   : 23\npending_total  : 195\nvariable_paths : 0\nbitmap_cvg     : 1.54%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500061367\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Square_Rabbit/input -o /dev/shm/work/Square_Rabbit/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Square_Rabbit/Square_Rabbit.dict -- data/linux/processed-challenges/Square_Rabbit/bin/Square_Rabbit\n'
+p57
+I2
+tp58
+a(I3480
+S'start_time     : 1500058029\nlast_update    : 1500061516\nfuzzer_pid     : 7363\ncycles_done    : 0\nexecs_done     : 2493158\nexecs_per_sec  : 650.64\npaths_total    : 283\npaths_favored  : 69\npaths_found    : 282\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 134\npending_favs   : 26\npending_total  : 223\nvariable_paths : 0\nbitmap_cvg     : 1.79%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500061514\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Square_Rabbit/input -o /dev/shm/work/Square_Rabbit/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Square_Rabbit/Square_Rabbit.dict -- data/linux/processed-challenges/Square_Rabbit/bin/Square_Rabbit\n'
+p59
+I30
+tp60
+a(I3600
+S'start_time     : 1500058029\nlast_update    : 1500061636\nfuzzer_pid     : 7363\ncycles_done    : 0\nexecs_done     : 2574299\nexecs_per_sec  : 670.85\npaths_total    : 289\npaths_favored  : 69\npaths_found    : 288\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 134\npending_favs   : 26\npending_total  : 229\nvariable_paths : 0\nbitmap_cvg     : 1.79%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500061628\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Square_Rabbit/input -o /dev/shm/work/Square_Rabbit/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Square_Rabbit/Square_Rabbit.dict -- data/linux/processed-challenges/Square_Rabbit/bin/Square_Rabbit\n'
+p61
+I6
+tp62
+a(I3720
+S'start_time     : 1500058029\nlast_update    : 1500061756\nfuzzer_pid     : 7363\ncycles_done    : 0\nexecs_done     : 2633010\nexecs_per_sec  : 297.83\npaths_total    : 296\npaths_favored  : 86\npaths_found    : 295\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 139\npending_favs   : 43\npending_total  : 234\nvariable_paths : 0\nbitmap_cvg     : 1.81%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500061681\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Square_Rabbit/input -o /dev/shm/work/Square_Rabbit/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Square_Rabbit/Square_Rabbit.dict -- data/linux/processed-challenges/Square_Rabbit/bin/Square_Rabbit\n'
+p63
+I7
+tp64
+a(I3840
+S'start_time     : 1500058029\nlast_update    : 1500061877\nfuzzer_pid     : 7363\ncycles_done    : 0\nexecs_done     : 2693845\nexecs_per_sec  : 584.87\npaths_total    : 299\npaths_favored  : 86\npaths_found    : 298\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 152\npending_favs   : 42\npending_total  : 236\nvariable_paths : 0\nbitmap_cvg     : 1.81%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500061819\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Square_Rabbit/input -o /dev/shm/work/Square_Rabbit/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Square_Rabbit/Square_Rabbit.dict -- data/linux/processed-challenges/Square_Rabbit/bin/Square_Rabbit\n'
+p65
+I3
+tp66
+a(I3960
+S'start_time     : 1500058029\nlast_update    : 1500061997\nfuzzer_pid     : 7363\ncycles_done    : 0\nexecs_done     : 2750049\nexecs_per_sec  : 530.45\npaths_total    : 307\npaths_favored  : 87\npaths_found    : 306\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 176\npending_favs   : 42\npending_total  : 243\nvariable_paths : 0\nbitmap_cvg     : 1.81%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500061992\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Square_Rabbit/input -o /dev/shm/work/Square_Rabbit/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Square_Rabbit/Square_Rabbit.dict -- data/linux/processed-challenges/Square_Rabbit/bin/Square_Rabbit\n'
+p67
+I8
+tp68
+a(I4080
+S'start_time     : 1500058029\nlast_update    : 1500062117\nfuzzer_pid     : 7363\ncycles_done    : 0\nexecs_done     : 2815369\nexecs_per_sec  : 535.10\npaths_total    : 311\npaths_favored  : 87\npaths_found    : 310\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 176\npending_favs   : 42\npending_total  : 247\nvariable_paths : 0\nbitmap_cvg     : 1.81%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500062103\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Square_Rabbit/input -o /dev/shm/work/Square_Rabbit/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Square_Rabbit/Square_Rabbit.dict -- data/linux/processed-challenges/Square_Rabbit/bin/Square_Rabbit\n'
+p69
+I4
+tp70
+a(I4200
+S'start_time     : 1500058029\nlast_update    : 1500062237\nfuzzer_pid     : 7363\ncycles_done    : 0\nexecs_done     : 2877208\nexecs_per_sec  : 338.40\npaths_total    : 316\npaths_favored  : 89\npaths_found    : 315\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 180\npending_favs   : 44\npending_total  : 251\nvariable_paths : 0\nbitmap_cvg     : 1.83%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500062236\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Square_Rabbit/input -o /dev/shm/work/Square_Rabbit/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Square_Rabbit/Square_Rabbit.dict -- data/linux/processed-challenges/Square_Rabbit/bin/Square_Rabbit\n'
+p71
+I5
+tp72
+a(I4320
+S'start_time     : 1500058029\nlast_update    : 1500062358\nfuzzer_pid     : 7363\ncycles_done    : 0\nexecs_done     : 2940970\nexecs_per_sec  : 423.87\npaths_total    : 320\npaths_favored  : 94\npaths_found    : 319\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 190\npending_favs   : 47\npending_total  : 253\nvariable_paths : 0\nbitmap_cvg     : 1.83%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500062352\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Square_Rabbit/input -o /dev/shm/work/Square_Rabbit/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Square_Rabbit/Square_Rabbit.dict -- data/linux/processed-challenges/Square_Rabbit/bin/Square_Rabbit\n'
+p73
+I4
+tp74
+a(I4440
+S'start_time     : 1500058029\nlast_update    : 1500062478\nfuzzer_pid     : 7363\ncycles_done    : 0\nexecs_done     : 3004699\nexecs_per_sec  : 523.31\npaths_total    : 322\npaths_favored  : 96\npaths_found    : 321\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 216\npending_favs   : 46\npending_total  : 252\nvariable_paths : 0\nbitmap_cvg     : 1.84%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500062449\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Square_Rabbit/input -o /dev/shm/work/Square_Rabbit/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Square_Rabbit/Square_Rabbit.dict -- data/linux/processed-challenges/Square_Rabbit/bin/Square_Rabbit\n'
+p75
+I2
+tp76
+a(I4560
+S'start_time     : 1500058029\nlast_update    : 1500062598\nfuzzer_pid     : 7363\ncycles_done    : 0\nexecs_done     : 3066635\nexecs_per_sec  : 590.92\npaths_total    : 325\npaths_favored  : 96\npaths_found    : 324\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 218\npending_favs   : 45\npending_total  : 254\nvariable_paths : 0\nbitmap_cvg     : 1.84%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500062576\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Square_Rabbit/input -o /dev/shm/work/Square_Rabbit/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Square_Rabbit/Square_Rabbit.dict -- data/linux/processed-challenges/Square_Rabbit/bin/Square_Rabbit\n'
+p77
+I3
+tp78
+a(I4680
+S'start_time     : 1500058029\nlast_update    : 1500062718\nfuzzer_pid     : 7363\ncycles_done    : 0\nexecs_done     : 3137129\nexecs_per_sec  : 587.30\npaths_total    : 330\npaths_favored  : 96\npaths_found    : 329\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 218\npending_favs   : 45\npending_total  : 259\nvariable_paths : 0\nbitmap_cvg     : 1.84%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500062699\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Square_Rabbit/input -o /dev/shm/work/Square_Rabbit/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Square_Rabbit/Square_Rabbit.dict -- data/linux/processed-challenges/Square_Rabbit/bin/Square_Rabbit\n'
+p79
+I5
+tp80
+a(I4800
+S'start_time     : 1500058029\nlast_update    : 1500062839\nfuzzer_pid     : 7363\ncycles_done    : 0\nexecs_done     : 3170375\nexecs_per_sec  : 198.26\npaths_total    : 331\npaths_favored  : 101\npaths_found    : 330\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 220\npending_favs   : 50\npending_total  : 259\nvariable_paths : 0\nbitmap_cvg     : 1.84%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500062746\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Square_Rabbit/input -o /dev/shm/work/Square_Rabbit/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Square_Rabbit/Square_Rabbit.dict -- data/linux/processed-challenges/Square_Rabbit/bin/Square_Rabbit\n'
+p81
+I1
+tp82
+a(I4920
+S'start_time     : 1500058029\nlast_update    : 1500062899\nfuzzer_pid     : 7363\ncycles_done    : 0\nexecs_done     : 3182079\nexecs_per_sec  : 189.31\npaths_total    : 331\npaths_favored  : 101\npaths_found    : 330\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 220\npending_favs   : 50\npending_total  : 259\nvariable_paths : 0\nbitmap_cvg     : 1.84%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500062746\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Square_Rabbit/input -o /dev/shm/work/Square_Rabbit/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Square_Rabbit/Square_Rabbit.dict -- data/linux/processed-challenges/Square_Rabbit/bin/Square_Rabbit\n'
+p83
+I0
+tp84
+a(I5040
+S'start_time     : 1500058029\nlast_update    : 1500063019\nfuzzer_pid     : 7363\ncycles_done    : 0\nexecs_done     : 3212130\nexecs_per_sec  : 285.88\npaths_total    : 332\npaths_favored  : 101\npaths_found    : 331\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 233\npending_favs   : 50\npending_total  : 259\nvariable_paths : 0\nbitmap_cvg     : 1.84%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500063004\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Square_Rabbit/input -o /dev/shm/work/Square_Rabbit/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Square_Rabbit/Square_Rabbit.dict -- data/linux/processed-challenges/Square_Rabbit/bin/Square_Rabbit\n'
+p85
+I3
+tp86
+a(I5160
+S'start_time     : 1500058029\nlast_update    : 1500063139\nfuzzer_pid     : 7363\ncycles_done    : 0\nexecs_done     : 3262293\nexecs_per_sec  : 428.49\npaths_total    : 334\npaths_favored  : 102\npaths_found    : 333\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 244\npending_favs   : 51\npending_total  : 259\nvariable_paths : 0\nbitmap_cvg     : 1.85%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500063068\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Square_Rabbit/input -o /dev/shm/work/Square_Rabbit/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Square_Rabbit/Square_Rabbit.dict -- data/linux/processed-challenges/Square_Rabbit/bin/Square_Rabbit\n'
+p87
+I4
+tp88
+a(I5280
+S'start_time     : 1500058029\nlast_update    : 1500063259\nfuzzer_pid     : 7363\ncycles_done    : 0\nexecs_done     : 3321335\nexecs_per_sec  : 553.42\npaths_total    : 345\npaths_favored  : 102\npaths_found    : 344\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 247\npending_favs   : 50\npending_total  : 269\nvariable_paths : 0\nbitmap_cvg     : 1.88%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500063258\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Square_Rabbit/input -o /dev/shm/work/Square_Rabbit/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Square_Rabbit/Square_Rabbit.dict -- data/linux/processed-challenges/Square_Rabbit/bin/Square_Rabbit\n'
+p89
+I13
+tp90
+a(I5400
+S'start_time     : 1500058029\nlast_update    : 1500063379\nfuzzer_pid     : 7363\ncycles_done    : 0\nexecs_done     : 3390217\nexecs_per_sec  : 564.16\npaths_total    : 356\npaths_favored  : 102\npaths_found    : 355\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 247\npending_favs   : 50\npending_total  : 280\nvariable_paths : 0\nbitmap_cvg     : 1.90%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500063379\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Square_Rabbit/input -o /dev/shm/work/Square_Rabbit/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Square_Rabbit/Square_Rabbit.dict -- data/linux/processed-challenges/Square_Rabbit/bin/Square_Rabbit\n'
+p91
+I7
+tp92
+a(I5520
+S'start_time     : 1500058029\nlast_update    : 1500063500\nfuzzer_pid     : 7363\ncycles_done    : 0\nexecs_done     : 3456652\nexecs_per_sec  : 523.64\npaths_total    : 359\npaths_favored  : 104\npaths_found    : 358\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 252\npending_favs   : 55\npending_total  : 282\nvariable_paths : 0\nbitmap_cvg     : 1.91%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500063482\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Square_Rabbit/input -o /dev/shm/work/Square_Rabbit/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Square_Rabbit/Square_Rabbit.dict -- data/linux/processed-challenges/Square_Rabbit/bin/Square_Rabbit\n'
+p93
+I1
+tp94
+a(I5640
+S'start_time     : 1500058029\nlast_update    : 1500063620\nfuzzer_pid     : 7363\ncycles_done    : 0\nexecs_done     : 3531049\nexecs_per_sec  : 678.89\npaths_total    : 361\npaths_favored  : 105\npaths_found    : 360\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 256\npending_favs   : 54\npending_total  : 282\nvariable_paths : 0\nbitmap_cvg     : 1.91%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500063573\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Square_Rabbit/input -o /dev/shm/work/Square_Rabbit/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Square_Rabbit/Square_Rabbit.dict -- data/linux/processed-challenges/Square_Rabbit/bin/Square_Rabbit\n'
+p95
+I3
+tp96
+a(I5760
+S'start_time     : 1500058029\nlast_update    : 1500063740\nfuzzer_pid     : 7363\ncycles_done    : 0\nexecs_done     : 3609012\nexecs_per_sec  : 396.10\npaths_total    : 362\npaths_favored  : 103\npaths_found    : 361\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 257\npending_favs   : 53\npending_total  : 282\nvariable_paths : 0\nbitmap_cvg     : 1.91%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500063628\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Square_Rabbit/input -o /dev/shm/work/Square_Rabbit/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Square_Rabbit/Square_Rabbit.dict -- data/linux/processed-challenges/Square_Rabbit/bin/Square_Rabbit\n'
+p97
+I1
+tp98
+a(I5880
+S'start_time     : 1500058029\nlast_update    : 1500063860\nfuzzer_pid     : 7363\ncycles_done    : 0\nexecs_done     : 3680542\nexecs_per_sec  : 401.05\npaths_total    : 365\npaths_favored  : 102\npaths_found    : 364\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 259\npending_favs   : 51\npending_total  : 283\nvariable_paths : 0\nbitmap_cvg     : 1.92%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500063825\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Square_Rabbit/input -o /dev/shm/work/Square_Rabbit/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Square_Rabbit/Square_Rabbit.dict -- data/linux/processed-challenges/Square_Rabbit/bin/Square_Rabbit\n'
+p99
+I5
+tp100
+a(I6000
+S'start_time     : 1500058029\nlast_update    : 1500063980\nfuzzer_pid     : 7363\ncycles_done    : 0\nexecs_done     : 3753770\nexecs_per_sec  : 672.38\npaths_total    : 371\npaths_favored  : 103\npaths_found    : 370\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 260\npending_favs   : 51\npending_total  : 288\nvariable_paths : 0\nbitmap_cvg     : 1.99%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500063934\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Square_Rabbit/input -o /dev/shm/work/Square_Rabbit/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Square_Rabbit/Square_Rabbit.dict -- data/linux/processed-challenges/Square_Rabbit/bin/Square_Rabbit\n'
+p101
+I4
+tp102
+a(I6120
+S'start_time     : 1500058029\nlast_update    : 1500064101\nfuzzer_pid     : 7363\ncycles_done    : 0\nexecs_done     : 3834770\nexecs_per_sec  : 656.61\npaths_total    : 372\npaths_favored  : 103\npaths_found    : 371\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 260\npending_favs   : 51\npending_total  : 289\nvariable_paths : 0\nbitmap_cvg     : 1.99%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500063982\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Square_Rabbit/input -o /dev/shm/work/Square_Rabbit/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Square_Rabbit/Square_Rabbit.dict -- data/linux/processed-challenges/Square_Rabbit/bin/Square_Rabbit\n'
+p103
+I0
+tp104
+a(I6240
+S'start_time     : 1500058029\nlast_update    : 1500064221\nfuzzer_pid     : 7363\ncycles_done    : 0\nexecs_done     : 3910659\nexecs_per_sec  : 678.28\npaths_total    : 375\npaths_favored  : 104\npaths_found    : 374\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 262\npending_favs   : 52\npending_total  : 291\nvariable_paths : 0\nbitmap_cvg     : 1.99%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500064210\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Square_Rabbit/input -o /dev/shm/work/Square_Rabbit/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Square_Rabbit/Square_Rabbit.dict -- data/linux/processed-challenges/Square_Rabbit/bin/Square_Rabbit\n'
+p105
+I3
+tp106
+a(I6360
+S'start_time     : 1500058029\nlast_update    : 1500064341\nfuzzer_pid     : 7363\ncycles_done    : 0\nexecs_done     : 3980156\nexecs_per_sec  : 662.34\npaths_total    : 378\npaths_favored  : 102\npaths_found    : 377\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 267\npending_favs   : 48\npending_total  : 292\nvariable_paths : 0\nbitmap_cvg     : 2.00%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500064327\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Square_Rabbit/input -o /dev/shm/work/Square_Rabbit/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Square_Rabbit/Square_Rabbit.dict -- data/linux/processed-challenges/Square_Rabbit/bin/Square_Rabbit\n'
+p107
+I3
+tp108
+a(I6480
+S'start_time     : 1500058029\nlast_update    : 1500064461\nfuzzer_pid     : 7363\ncycles_done    : 0\nexecs_done     : 4048233\nexecs_per_sec  : 667.74\npaths_total    : 382\npaths_favored  : 100\npaths_found    : 381\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 271\npending_favs   : 44\npending_total  : 294\nvariable_paths : 0\nbitmap_cvg     : 2.01%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500064439\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Square_Rabbit/input -o /dev/shm/work/Square_Rabbit/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Square_Rabbit/Square_Rabbit.dict -- data/linux/processed-challenges/Square_Rabbit/bin/Square_Rabbit\n'
+p109
+I4
+tp110
+a(I6600
+S'start_time     : 1500058029\nlast_update    : 1500064581\nfuzzer_pid     : 7363\ncycles_done    : 0\nexecs_done     : 4127472\nexecs_per_sec  : 670.27\npaths_total    : 385\npaths_favored  : 100\npaths_found    : 384\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 271\npending_favs   : 44\npending_total  : 297\nvariable_paths : 0\nbitmap_cvg     : 2.01%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500064573\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Square_Rabbit/input -o /dev/shm/work/Square_Rabbit/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Square_Rabbit/Square_Rabbit.dict -- data/linux/processed-challenges/Square_Rabbit/bin/Square_Rabbit\n'
+p111
+I6
+tp112
+a(I6720
+S'start_time     : 1500058029\nlast_update    : 1500064702\nfuzzer_pid     : 7363\ncycles_done    : 0\nexecs_done     : 4201665\nexecs_per_sec  : 682.17\npaths_total    : 388\npaths_favored  : 99\npaths_found    : 387\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 272\npending_favs   : 44\npending_total  : 299\nvariable_paths : 0\nbitmap_cvg     : 2.01%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500064640\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Square_Rabbit/input -o /dev/shm/work/Square_Rabbit/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Square_Rabbit/Square_Rabbit.dict -- data/linux/processed-challenges/Square_Rabbit/bin/Square_Rabbit\n'
+p113
+I3
+tp114
+a(I6840
+S'start_time     : 1500058029\nlast_update    : 1500064822\nfuzzer_pid     : 7363\ncycles_done    : 0\nexecs_done     : 4280787\nexecs_per_sec  : 659.49\npaths_total    : 391\npaths_favored  : 99\npaths_found    : 390\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 272\npending_favs   : 44\npending_total  : 302\nvariable_paths : 0\nbitmap_cvg     : 2.01%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500064745\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Square_Rabbit/input -o /dev/shm/work/Square_Rabbit/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Square_Rabbit/Square_Rabbit.dict -- data/linux/processed-challenges/Square_Rabbit/bin/Square_Rabbit\n'
+p115
+I4
+tp116
+a(I6960
+S'start_time     : 1500058029\nlast_update    : 1500064942\nfuzzer_pid     : 7363\ncycles_done    : 0\nexecs_done     : 4336993\nexecs_per_sec  : 509.57\npaths_total    : 398\npaths_favored  : 100\npaths_found    : 397\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 278\npending_favs   : 46\npending_total  : 308\nvariable_paths : 0\nbitmap_cvg     : 2.02%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500064929\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Square_Rabbit/input -o /dev/shm/work/Square_Rabbit/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Square_Rabbit/Square_Rabbit.dict -- data/linux/processed-challenges/Square_Rabbit/bin/Square_Rabbit\n'
+p117
+I5
+tp118
+a(I7080
+S'start_time     : 1500058029\nlast_update    : 1500065062\nfuzzer_pid     : 7363\ncycles_done    : 0\nexecs_done     : 4397900\nexecs_per_sec  : 497.28\npaths_total    : 401\npaths_favored  : 100\npaths_found    : 400\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 278\npending_favs   : 46\npending_total  : 311\nvariable_paths : 0\nbitmap_cvg     : 2.02%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500065006\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Square_Rabbit/input -o /dev/shm/work/Square_Rabbit/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Square_Rabbit/Square_Rabbit.dict -- data/linux/processed-challenges/Square_Rabbit/bin/Square_Rabbit\n'
+p119
+I2
+tp120
+a(I7200
+S'start_time     : 1500058029\nlast_update    : 1500065182\nfuzzer_pid     : 7363\ncycles_done    : 0\nexecs_done     : 4452527\nexecs_per_sec  : 314.56\npaths_total    : 406\npaths_favored  : 106\npaths_found    : 405\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 280\npending_favs   : 50\npending_total  : 315\nvariable_paths : 0\nbitmap_cvg     : 2.02%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500065181\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Square_Rabbit/input -o /dev/shm/work/Square_Rabbit/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Square_Rabbit/Square_Rabbit.dict -- data/linux/processed-challenges/Square_Rabbit/bin/Square_Rabbit\n'
+p121
+I5
+tp122
+a(I7320
+S'start_time     : 1500058029\nlast_update    : 1500065303\nfuzzer_pid     : 7363\ncycles_done    : 0\nexecs_done     : 4509984\nexecs_per_sec  : 511.16\npaths_total    : 409\npaths_favored  : 106\npaths_found    : 408\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 280\npending_favs   : 50\npending_total  : 318\nvariable_paths : 0\nbitmap_cvg     : 2.02%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500065275\nlast_crash     : 0\nlast_hang      : 1500065286\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Square_Rabbit/input -o /dev/shm/work/Square_Rabbit/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Square_Rabbit/Square_Rabbit.dict -- data/linux/processed-challenges/Square_Rabbit/bin/Square_Rabbit\n'
+p123
+I2
+tp124
+a(I7440
+S'start_time     : 1500058029\nlast_update    : 1500065423\nfuzzer_pid     : 7363\ncycles_done    : 0\nexecs_done     : 4571284\nexecs_per_sec  : 516.51\npaths_total    : 409\npaths_favored  : 106\npaths_found    : 408\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 280\npending_favs   : 50\npending_total  : 318\nvariable_paths : 0\nbitmap_cvg     : 2.02%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500065275\nlast_crash     : 0\nlast_hang      : 1500065286\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Square_Rabbit/input -o /dev/shm/work/Square_Rabbit/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Square_Rabbit/Square_Rabbit.dict -- data/linux/processed-challenges/Square_Rabbit/bin/Square_Rabbit\n'
+p125
+I3
+tp126
+a(I7560
+S'start_time     : 1500058029\nlast_update    : 1500065543\nfuzzer_pid     : 7363\ncycles_done    : 0\nexecs_done     : 4621659\nexecs_per_sec  : 617.56\npaths_total    : 416\npaths_favored  : 106\npaths_found    : 415\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 292\npending_favs   : 49\npending_total  : 323\nvariable_paths : 0\nbitmap_cvg     : 2.05%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500065532\nlast_crash     : 0\nlast_hang      : 1500065286\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Square_Rabbit/input -o /dev/shm/work/Square_Rabbit/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Square_Rabbit/Square_Rabbit.dict -- data/linux/processed-challenges/Square_Rabbit/bin/Square_Rabbit\n'
+p127
+I5
+tp128
+a(I7680
+S'start_time     : 1500058029\nlast_update    : 1500065663\nfuzzer_pid     : 7363\ncycles_done    : 0\nexecs_done     : 4695189\nexecs_per_sec  : 619.74\npaths_total    : 419\npaths_favored  : 106\npaths_found    : 418\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 292\npending_favs   : 49\npending_total  : 326\nvariable_paths : 0\nbitmap_cvg     : 2.05%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500065663\nlast_crash     : 0\nlast_hang      : 1500065286\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Square_Rabbit/input -o /dev/shm/work/Square_Rabbit/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Square_Rabbit/Square_Rabbit.dict -- data/linux/processed-challenges/Square_Rabbit/bin/Square_Rabbit\n'
+p129
+I2
+tp130
+a(I7800
+S'start_time     : 1500058029\nlast_update    : 1500065784\nfuzzer_pid     : 7363\ncycles_done    : 0\nexecs_done     : 4769335\nexecs_per_sec  : 611.24\npaths_total    : 420\npaths_favored  : 106\npaths_found    : 419\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 292\npending_favs   : 49\npending_total  : 327\nvariable_paths : 0\nbitmap_cvg     : 2.05%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500065775\nlast_crash     : 0\nlast_hang      : 1500065286\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Square_Rabbit/input -o /dev/shm/work/Square_Rabbit/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Square_Rabbit/Square_Rabbit.dict -- data/linux/processed-challenges/Square_Rabbit/bin/Square_Rabbit\n'
+p131
+I2
+tp132
+a(I7920
+S'start_time     : 1500058029\nlast_update    : 1500065904\nfuzzer_pid     : 7363\ncycles_done    : 0\nexecs_done     : 4814089\nexecs_per_sec  : 384.86\npaths_total    : 422\npaths_favored  : 111\npaths_found    : 421\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 296\npending_favs   : 52\npending_total  : 327\nvariable_paths : 0\nbitmap_cvg     : 2.05%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500065860\nlast_crash     : 0\nlast_hang      : 1500065286\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Square_Rabbit/input -o /dev/shm/work/Square_Rabbit/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Square_Rabbit/Square_Rabbit.dict -- data/linux/processed-challenges/Square_Rabbit/bin/Square_Rabbit\n'
+p133
+I1
+tp134
+a(I8040
+S'start_time     : 1500058029\nlast_update    : 1500066024\nfuzzer_pid     : 7363\ncycles_done    : 0\nexecs_done     : 4862881\nexecs_per_sec  : 489.25\npaths_total    : 424\npaths_favored  : 109\npaths_found    : 423\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 313\npending_favs   : 49\npending_total  : 327\nvariable_paths : 0\nbitmap_cvg     : 2.06%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500066011\nlast_crash     : 0\nlast_hang      : 1500065286\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Square_Rabbit/input -o /dev/shm/work/Square_Rabbit/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Square_Rabbit/Square_Rabbit.dict -- data/linux/processed-challenges/Square_Rabbit/bin/Square_Rabbit\n'
+p135
+I2
+tp136
+a(I8160
+S'start_time     : 1500058029\nlast_update    : 1500066145\nfuzzer_pid     : 7363\ncycles_done    : 0\nexecs_done     : 4922559\nexecs_per_sec  : 611.66\npaths_total    : 424\npaths_favored  : 109\npaths_found    : 423\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 318\npending_favs   : 47\npending_total  : 324\nvariable_paths : 0\nbitmap_cvg     : 2.06%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500066011\nlast_crash     : 0\nlast_hang      : 1500065286\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Square_Rabbit/input -o /dev/shm/work/Square_Rabbit/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Square_Rabbit/Square_Rabbit.dict -- data/linux/processed-challenges/Square_Rabbit/bin/Square_Rabbit\n'
+p137
+I1
+tp138
+a(I8280
+S'start_time     : 1500058029\nlast_update    : 1500066265\nfuzzer_pid     : 7363\ncycles_done    : 0\nexecs_done     : 4974821\nexecs_per_sec  : 263.30\npaths_total    : 425\npaths_favored  : 110\npaths_found    : 424\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 327\npending_favs   : 45\npending_total  : 322\nvariable_paths : 0\nbitmap_cvg     : 2.06%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500066196\nlast_crash     : 0\nlast_hang      : 1500065286\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Square_Rabbit/input -o /dev/shm/work/Square_Rabbit/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Square_Rabbit/Square_Rabbit.dict -- data/linux/processed-challenges/Square_Rabbit/bin/Square_Rabbit\n'
+p139
+I2
+tp140
+a(I8400
+S'start_time     : 1500058029\nlast_update    : 1500066385\nfuzzer_pid     : 7363\ncycles_done    : 0\nexecs_done     : 5016096\nexecs_per_sec  : 417.36\npaths_total    : 428\npaths_favored  : 110\npaths_found    : 427\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 327\npending_favs   : 45\npending_total  : 325\nvariable_paths : 0\nbitmap_cvg     : 2.06%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500066326\nlast_crash     : 0\nlast_hang      : 1500065286\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Square_Rabbit/input -o /dev/shm/work/Square_Rabbit/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Square_Rabbit/Square_Rabbit.dict -- data/linux/processed-challenges/Square_Rabbit/bin/Square_Rabbit\n'
+p141
+I2
+tp142
+a(I8520
+S'start_time     : 1500058029\nlast_update    : 1500066505\nfuzzer_pid     : 7363\ncycles_done    : 0\nexecs_done     : 5065850\nexecs_per_sec  : 430.78\npaths_total    : 429\npaths_favored  : 110\npaths_found    : 428\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 327\npending_favs   : 45\npending_total  : 326\nvariable_paths : 0\nbitmap_cvg     : 2.06%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500066390\nlast_crash     : 0\nlast_hang      : 1500065286\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Square_Rabbit/input -o /dev/shm/work/Square_Rabbit/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Square_Rabbit/Square_Rabbit.dict -- data/linux/processed-challenges/Square_Rabbit/bin/Square_Rabbit\n'
+p143
+I0
+tp144
+a(I8640
+S'start_time     : 1500058029\nlast_update    : 1500066625\nfuzzer_pid     : 7363\ncycles_done    : 0\nexecs_done     : 5112500\nexecs_per_sec  : 232.34\npaths_total    : 429\npaths_favored  : 110\npaths_found    : 428\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 332\npending_favs   : 44\npending_total  : 325\nvariable_paths : 0\nbitmap_cvg     : 2.06%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500066390\nlast_crash     : 0\nlast_hang      : 1500065286\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Square_Rabbit/input -o /dev/shm/work/Square_Rabbit/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Square_Rabbit/Square_Rabbit.dict -- data/linux/processed-challenges/Square_Rabbit/bin/Square_Rabbit\n'
+p145
+I0
+tp146
+a(I8760
+S'start_time     : 1500058029\nlast_update    : 1500066746\nfuzzer_pid     : 7363\ncycles_done    : 0\nexecs_done     : 5147527\nexecs_per_sec  : 401.34\npaths_total    : 430\npaths_favored  : 110\npaths_found    : 429\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 332\npending_favs   : 44\npending_total  : 326\nvariable_paths : 0\nbitmap_cvg     : 2.06%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500066728\nlast_crash     : 0\nlast_hang      : 1500065286\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Square_Rabbit/input -o /dev/shm/work/Square_Rabbit/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Square_Rabbit/Square_Rabbit.dict -- data/linux/processed-challenges/Square_Rabbit/bin/Square_Rabbit\n'
+p147
+I2
+tp148
+a(I8880
+S'start_time     : 1500058029\nlast_update    : 1500066866\nfuzzer_pid     : 7363\ncycles_done    : 0\nexecs_done     : 5195166\nexecs_per_sec  : 392.20\npaths_total    : 431\npaths_favored  : 110\npaths_found    : 430\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 332\npending_favs   : 44\npending_total  : 327\nvariable_paths : 0\nbitmap_cvg     : 2.06%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500066795\nlast_crash     : 0\nlast_hang      : 1500066812\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Square_Rabbit/input -o /dev/shm/work/Square_Rabbit/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Square_Rabbit/Square_Rabbit.dict -- data/linux/processed-challenges/Square_Rabbit/bin/Square_Rabbit\n'
+p149
+I0
+tp150
+a(I9000
+S'start_time     : 1500058029\nlast_update    : 1500066986\nfuzzer_pid     : 7363\ncycles_done    : 0\nexecs_done     : 5243249\nexecs_per_sec  : 400.81\npaths_total    : 431\npaths_favored  : 110\npaths_found    : 430\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 332\npending_favs   : 44\npending_total  : 327\nvariable_paths : 0\nbitmap_cvg     : 2.06%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500066795\nlast_crash     : 0\nlast_hang      : 1500066812\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Square_Rabbit/input -o /dev/shm/work/Square_Rabbit/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Square_Rabbit/Square_Rabbit.dict -- data/linux/processed-challenges/Square_Rabbit/bin/Square_Rabbit\n'
+p151
+I1
+tp152
+a(I9120
+S'start_time     : 1500058029\nlast_update    : 1500067106\nfuzzer_pid     : 7363\ncycles_done    : 0\nexecs_done     : 5299402\nexecs_per_sec  : 574.90\npaths_total    : 434\npaths_favored  : 110\npaths_found    : 433\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 336\npending_favs   : 45\npending_total  : 329\nvariable_paths : 0\nbitmap_cvg     : 2.06%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500067085\nlast_crash     : 0\nlast_hang      : 1500066812\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Square_Rabbit/input -o /dev/shm/work/Square_Rabbit/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Square_Rabbit/Square_Rabbit.dict -- data/linux/processed-challenges/Square_Rabbit/bin/Square_Rabbit\n'
+p153
+I2
+tp154
+a(I9240
+S'start_time     : 1500058029\nlast_update    : 1500067226\nfuzzer_pid     : 7363\ncycles_done    : 0\nexecs_done     : 5368073\nexecs_per_sec  : 562.74\npaths_total    : 436\npaths_favored  : 110\npaths_found    : 435\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 336\npending_favs   : 45\npending_total  : 331\nvariable_paths : 0\nbitmap_cvg     : 2.06%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500067221\nlast_crash     : 0\nlast_hang      : 1500066812\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Square_Rabbit/input -o /dev/shm/work/Square_Rabbit/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Square_Rabbit/Square_Rabbit.dict -- data/linux/processed-challenges/Square_Rabbit/bin/Square_Rabbit\n'
+p155
+I2
+tp156
+a(I9360
+S'start_time     : 1500058029\nlast_update    : 1500067347\nfuzzer_pid     : 7363\ncycles_done    : 0\nexecs_done     : 5429885\nexecs_per_sec  : 250.79\npaths_total    : 438\npaths_favored  : 111\npaths_found    : 437\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 340\npending_favs   : 45\npending_total  : 332\nvariable_paths : 0\nbitmap_cvg     : 2.07%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500067326\nlast_crash     : 0\nlast_hang      : 1500066812\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Square_Rabbit/input -o /dev/shm/work/Square_Rabbit/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Square_Rabbit/Square_Rabbit.dict -- data/linux/processed-challenges/Square_Rabbit/bin/Square_Rabbit\n'
+p157
+I2
+tp158
+a(I9480
+S'start_time     : 1500058029\nlast_update    : 1500067467\nfuzzer_pid     : 7363\ncycles_done    : 0\nexecs_done     : 5470294\nexecs_per_sec  : 428.52\npaths_total    : 441\npaths_favored  : 111\npaths_found    : 440\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 340\npending_favs   : 45\npending_total  : 335\nvariable_paths : 0\nbitmap_cvg     : 2.07%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500067465\nlast_crash     : 0\nlast_hang      : 1500066812\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Square_Rabbit/input -o /dev/shm/work/Square_Rabbit/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Square_Rabbit/Square_Rabbit.dict -- data/linux/processed-challenges/Square_Rabbit/bin/Square_Rabbit\n'
+p159
+I3
+tp160
+a(I9600
+S'start_time     : 1500058029\nlast_update    : 1500067587\nfuzzer_pid     : 7363\ncycles_done    : 0\nexecs_done     : 5522158\nexecs_per_sec  : 447.84\npaths_total    : 441\npaths_favored  : 111\npaths_found    : 440\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 340\npending_favs   : 45\npending_total  : 335\nvariable_paths : 0\nbitmap_cvg     : 2.07%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500067465\nlast_crash     : 0\nlast_hang      : 1500067519\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Square_Rabbit/input -o /dev/shm/work/Square_Rabbit/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Square_Rabbit/Square_Rabbit.dict -- data/linux/processed-challenges/Square_Rabbit/bin/Square_Rabbit\n'
+p161
+I1
+tp162
+a(I9720
+S'start_time     : 1500058029\nlast_update    : 1500067707\nfuzzer_pid     : 7363\ncycles_done    : 0\nexecs_done     : 5570360\nexecs_per_sec  : 239.95\npaths_total    : 442\npaths_favored  : 113\npaths_found    : 441\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 345\npending_favs   : 47\npending_total  : 335\nvariable_paths : 0\nbitmap_cvg     : 2.07%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500067607\nlast_crash     : 0\nlast_hang      : 1500067519\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Square_Rabbit/input -o /dev/shm/work/Square_Rabbit/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Square_Rabbit/Square_Rabbit.dict -- data/linux/processed-challenges/Square_Rabbit/bin/Square_Rabbit\n'
+p163
+I0
+tp164
+a(I9840
+S'start_time     : 1500058029\nlast_update    : 1500067827\nfuzzer_pid     : 7363\ncycles_done    : 0\nexecs_done     : 5601864\nexecs_per_sec  : 379.72\npaths_total    : 442\npaths_favored  : 113\npaths_found    : 441\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 345\npending_favs   : 47\npending_total  : 335\nvariable_paths : 0\nbitmap_cvg     : 2.07%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500067607\nlast_crash     : 0\nlast_hang      : 1500067519\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Square_Rabbit/input -o /dev/shm/work/Square_Rabbit/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Square_Rabbit/Square_Rabbit.dict -- data/linux/processed-challenges/Square_Rabbit/bin/Square_Rabbit\n'
+p165
+I0
+tp166
+a(I9960
+S'start_time     : 1500058029\nlast_update    : 1500067948\nfuzzer_pid     : 7363\ncycles_done    : 0\nexecs_done     : 5650672\nexecs_per_sec  : 571.73\npaths_total    : 443\npaths_favored  : 113\npaths_found    : 442\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 350\npending_favs   : 46\npending_total  : 335\nvariable_paths : 0\nbitmap_cvg     : 2.07%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500067920\nlast_crash     : 0\nlast_hang      : 1500067519\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Square_Rabbit/input -o /dev/shm/work/Square_Rabbit/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Square_Rabbit/Square_Rabbit.dict -- data/linux/processed-challenges/Square_Rabbit/bin/Square_Rabbit\n'
+p167
+I1
+tp168
+a(I10080
+S'start_time     : 1500058029\nlast_update    : 1500068068\nfuzzer_pid     : 7363\ncycles_done    : 0\nexecs_done     : 5692351\nexecs_per_sec  : 417.31\npaths_total    : 444\npaths_favored  : 114\npaths_found    : 443\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 351\npending_favs   : 46\npending_total  : 335\nvariable_paths : 0\nbitmap_cvg     : 2.07%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500068034\nlast_crash     : 0\nlast_hang      : 1500067519\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Square_Rabbit/input -o /dev/shm/work/Square_Rabbit/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Square_Rabbit/Square_Rabbit.dict -- data/linux/processed-challenges/Square_Rabbit/bin/Square_Rabbit\n'
+p169
+I1
+tp170
+a(I10200
+S'start_time     : 1500058029\nlast_update    : 1500068188\nfuzzer_pid     : 7363\ncycles_done    : 0\nexecs_done     : 5736015\nexecs_per_sec  : 274.55\npaths_total    : 449\npaths_favored  : 115\npaths_found    : 448\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 352\npending_favs   : 47\npending_total  : 339\nvariable_paths : 0\nbitmap_cvg     : 2.08%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500068159\nlast_crash     : 0\nlast_hang      : 1500068087\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Square_Rabbit/input -o /dev/shm/work/Square_Rabbit/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Square_Rabbit/Square_Rabbit.dict -- data/linux/processed-challenges/Square_Rabbit/bin/Square_Rabbit\n'
+p171
+I12
+tp172
+a(I10320
+S'start_time     : 1500058029\nlast_update    : 1500068308\nfuzzer_pid     : 7363\ncycles_done    : 0\nexecs_done     : 5787041\nexecs_per_sec  : 449.08\npaths_total    : 458\npaths_favored  : 115\npaths_found    : 457\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 352\npending_favs   : 47\npending_total  : 348\nvariable_paths : 0\nbitmap_cvg     : 2.12%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500068267\nlast_crash     : 0\nlast_hang      : 1500068087\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Square_Rabbit/input -o /dev/shm/work/Square_Rabbit/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Square_Rabbit/Square_Rabbit.dict -- data/linux/processed-challenges/Square_Rabbit/bin/Square_Rabbit\n'
+p173
+I2
+tp174
+a(I10440
+S'start_time     : 1500058029\nlast_update    : 1500068428\nfuzzer_pid     : 7363\ncycles_done    : 0\nexecs_done     : 5841451\nexecs_per_sec  : 453.88\npaths_total    : 458\npaths_favored  : 115\npaths_found    : 457\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 352\npending_favs   : 47\npending_total  : 348\nvariable_paths : 0\nbitmap_cvg     : 2.12%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500068267\nlast_crash     : 0\nlast_hang      : 1500068087\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Square_Rabbit/input -o /dev/shm/work/Square_Rabbit/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Square_Rabbit/Square_Rabbit.dict -- data/linux/processed-challenges/Square_Rabbit/bin/Square_Rabbit\n'
+p175
+I1
+tp176
+a(I10560
+S'start_time     : 1500058029\nlast_update    : 1500068548\nfuzzer_pid     : 7363\ncycles_done    : 0\nexecs_done     : 5883940\nexecs_per_sec  : 434.70\npaths_total    : 461\npaths_favored  : 113\npaths_found    : 460\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 354\npending_favs   : 46\npending_total  : 350\nvariable_paths : 0\nbitmap_cvg     : 2.15%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500068548\nlast_crash     : 0\nlast_hang      : 1500068087\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Square_Rabbit/input -o /dev/shm/work/Square_Rabbit/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Square_Rabbit/Square_Rabbit.dict -- data/linux/processed-challenges/Square_Rabbit/bin/Square_Rabbit\n'
+p177
+I6
+tp178
+a(I10680
+S'start_time     : 1500058029\nlast_update    : 1500068669\nfuzzer_pid     : 7363\ncycles_done    : 0\nexecs_done     : 5937254\nexecs_per_sec  : 443.88\npaths_total    : 466\npaths_favored  : 113\npaths_found    : 465\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 354\npending_favs   : 46\npending_total  : 355\nvariable_paths : 0\nbitmap_cvg     : 2.15%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500068645\nlast_crash     : 0\nlast_hang      : 1500068087\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Square_Rabbit/input -o /dev/shm/work/Square_Rabbit/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Square_Rabbit/Square_Rabbit.dict -- data/linux/processed-challenges/Square_Rabbit/bin/Square_Rabbit\n'
+p179
+I3
+tp180
+a.

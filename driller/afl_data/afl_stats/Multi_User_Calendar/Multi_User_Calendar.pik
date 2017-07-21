@@ -1,0 +1,452 @@
+(lp0
+(I0
+S'start_time     : 1499873859\nlast_update    : 1499873859\nfuzzer_pid     : 7646\ncycles_done    : 0\nexecs_done     : 10\nexecs_per_sec  : 200.00\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 1\npending_total  : 1\nvariable_paths : 0\nbitmap_cvg     : 0.37%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Multi_User_Calendar/input -o /dev/shm/work/Multi_User_Calendar/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Multi_User_Calendar/Multi_User_Calendar.dict -- data/linux/processed-challenges/Multi_User_Calendar/bin/Multi_User_Calendar\n'
+p1
+I20
+tp2
+a(I120
+S'start_time     : 1499873859\nlast_update    : 1499873979\nfuzzer_pid     : 7646\ncycles_done    : 0\nexecs_done     : 109375\nexecs_per_sec  : 883.87\npaths_total    : 31\npaths_favored  : 1\npaths_found    : 30\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 1\npending_total  : 31\nvariable_paths : 0\nbitmap_cvg     : 0.54%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499873961\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Multi_User_Calendar/input -o /dev/shm/work/Multi_User_Calendar/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Multi_User_Calendar/Multi_User_Calendar.dict -- data/linux/processed-challenges/Multi_User_Calendar/bin/Multi_User_Calendar\n'
+p3
+I11
+tp4
+a(I240
+S'start_time     : 1499873859\nlast_update    : 1499874099\nfuzzer_pid     : 7646\ncycles_done    : 0\nexecs_done     : 213542\nexecs_per_sec  : 823.32\npaths_total    : 78\npaths_favored  : 12\npaths_found    : 77\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 10\npending_favs   : 11\npending_total  : 77\nvariable_paths : 0\nbitmap_cvg     : 0.88%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499874096\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Multi_User_Calendar/input -o /dev/shm/work/Multi_User_Calendar/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Multi_User_Calendar/Multi_User_Calendar.dict -- data/linux/processed-challenges/Multi_User_Calendar/bin/Multi_User_Calendar\n'
+p5
+I47
+tp6
+a(I360
+S'start_time     : 1499873859\nlast_update    : 1499874220\nfuzzer_pid     : 7646\ncycles_done    : 0\nexecs_done     : 319337\nexecs_per_sec  : 882.88\npaths_total    : 85\npaths_favored  : 12\npaths_found    : 84\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 10\npending_favs   : 11\npending_total  : 84\nvariable_paths : 0\nbitmap_cvg     : 0.95%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499874194\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Multi_User_Calendar/input -o /dev/shm/work/Multi_User_Calendar/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Multi_User_Calendar/Multi_User_Calendar.dict -- data/linux/processed-challenges/Multi_User_Calendar/bin/Multi_User_Calendar\n'
+p7
+I7
+tp8
+a(I480
+S'start_time     : 1499873859\nlast_update    : 1499874340\nfuzzer_pid     : 7646\ncycles_done    : 0\nexecs_done     : 423304\nexecs_per_sec  : 869.66\npaths_total    : 103\npaths_favored  : 26\npaths_found    : 102\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 15\npending_favs   : 25\npending_total  : 101\nvariable_paths : 0\nbitmap_cvg     : 0.98%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499874339\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Multi_User_Calendar/input -o /dev/shm/work/Multi_User_Calendar/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Multi_User_Calendar/Multi_User_Calendar.dict -- data/linux/processed-challenges/Multi_User_Calendar/bin/Multi_User_Calendar\n'
+p9
+I18
+tp10
+a(I600
+S'start_time     : 1499873859\nlast_update    : 1499874460\nfuzzer_pid     : 7646\ncycles_done    : 0\nexecs_done     : 527554\nexecs_per_sec  : 866.26\npaths_total    : 113\npaths_favored  : 33\npaths_found    : 112\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 34\npending_favs   : 31\npending_total  : 108\nvariable_paths : 0\nbitmap_cvg     : 1.01%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499874459\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Multi_User_Calendar/input -o /dev/shm/work/Multi_User_Calendar/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Multi_User_Calendar/Multi_User_Calendar.dict -- data/linux/processed-challenges/Multi_User_Calendar/bin/Multi_User_Calendar\n'
+p11
+I10
+tp12
+a(I720
+S'start_time     : 1499873859\nlast_update    : 1499874580\nfuzzer_pid     : 7646\ncycles_done    : 0\nexecs_done     : 624343\nexecs_per_sec  : 588.27\npaths_total    : 117\npaths_favored  : 36\npaths_found    : 116\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 51\npending_favs   : 30\npending_total  : 107\nvariable_paths : 0\nbitmap_cvg     : 1.14%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499874542\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Multi_User_Calendar/input -o /dev/shm/work/Multi_User_Calendar/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Multi_User_Calendar/Multi_User_Calendar.dict -- data/linux/processed-challenges/Multi_User_Calendar/bin/Multi_User_Calendar\n'
+p13
+I4
+tp14
+a(I840
+S'start_time     : 1499873859\nlast_update    : 1499874701\nfuzzer_pid     : 7646\ncycles_done    : 0\nexecs_done     : 708298\nexecs_per_sec  : 749.42\npaths_total    : 128\npaths_favored  : 36\npaths_found    : 127\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 51\npending_favs   : 30\npending_total  : 118\nvariable_paths : 0\nbitmap_cvg     : 1.16%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499874699\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Multi_User_Calendar/input -o /dev/shm/work/Multi_User_Calendar/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Multi_User_Calendar/Multi_User_Calendar.dict -- data/linux/processed-challenges/Multi_User_Calendar/bin/Multi_User_Calendar\n'
+p15
+I11
+tp16
+a(I960
+S'start_time     : 1499873859\nlast_update    : 1499874821\nfuzzer_pid     : 7646\ncycles_done    : 0\nexecs_done     : 788772\nexecs_per_sec  : 753.18\npaths_total    : 134\npaths_favored  : 42\npaths_found    : 133\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 53\npending_favs   : 35\npending_total  : 123\nvariable_paths : 0\nbitmap_cvg     : 1.17%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499874820\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Multi_User_Calendar/input -o /dev/shm/work/Multi_User_Calendar/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Multi_User_Calendar/Multi_User_Calendar.dict -- data/linux/processed-challenges/Multi_User_Calendar/bin/Multi_User_Calendar\n'
+p17
+I6
+tp18
+a(I1080
+S'start_time     : 1499873859\nlast_update    : 1499874941\nfuzzer_pid     : 7646\ncycles_done    : 0\nexecs_done     : 878028\nexecs_per_sec  : 745.36\npaths_total    : 137\npaths_favored  : 42\npaths_found    : 136\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 53\npending_favs   : 35\npending_total  : 126\nvariable_paths : 0\nbitmap_cvg     : 1.18%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499874872\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Multi_User_Calendar/input -o /dev/shm/work/Multi_User_Calendar/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Multi_User_Calendar/Multi_User_Calendar.dict -- data/linux/processed-challenges/Multi_User_Calendar/bin/Multi_User_Calendar\n'
+p19
+I3
+tp20
+a(I1200
+S'start_time     : 1499873859\nlast_update    : 1499875061\nfuzzer_pid     : 7646\ncycles_done    : 0\nexecs_done     : 961282\nexecs_per_sec  : 732.08\npaths_total    : 149\npaths_favored  : 45\npaths_found    : 148\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 63\npending_favs   : 36\npending_total  : 136\nvariable_paths : 0\nbitmap_cvg     : 1.19%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499875058\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Multi_User_Calendar/input -o /dev/shm/work/Multi_User_Calendar/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Multi_User_Calendar/Multi_User_Calendar.dict -- data/linux/processed-challenges/Multi_User_Calendar/bin/Multi_User_Calendar\n'
+p21
+I12
+tp22
+a(I1320
+S'start_time     : 1499873859\nlast_update    : 1499875182\nfuzzer_pid     : 7646\ncycles_done    : 0\nexecs_done     : 1046780\nexecs_per_sec  : 701.95\npaths_total    : 156\npaths_favored  : 45\npaths_found    : 155\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 63\npending_favs   : 36\npending_total  : 143\nvariable_paths : 0\nbitmap_cvg     : 1.19%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499875179\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Multi_User_Calendar/input -o /dev/shm/work/Multi_User_Calendar/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Multi_User_Calendar/Multi_User_Calendar.dict -- data/linux/processed-challenges/Multi_User_Calendar/bin/Multi_User_Calendar\n'
+p23
+I7
+tp24
+a(I1440
+S'start_time     : 1499873859\nlast_update    : 1499875302\nfuzzer_pid     : 7646\ncycles_done    : 0\nexecs_done     : 1118656\nexecs_per_sec  : 360.94\npaths_total    : 160\npaths_favored  : 49\npaths_found    : 159\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 64\npending_favs   : 40\npending_total  : 146\nvariable_paths : 0\nbitmap_cvg     : 1.19%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499875289\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Multi_User_Calendar/input -o /dev/shm/work/Multi_User_Calendar/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Multi_User_Calendar/Multi_User_Calendar.dict -- data/linux/processed-challenges/Multi_User_Calendar/bin/Multi_User_Calendar\n'
+p25
+I6
+tp26
+a(I1560
+S'start_time     : 1499873859\nlast_update    : 1499875422\nfuzzer_pid     : 7646\ncycles_done    : 0\nexecs_done     : 1183371\nexecs_per_sec  : 585.42\npaths_total    : 201\npaths_favored  : 49\npaths_found    : 200\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 64\npending_favs   : 40\npending_total  : 187\nvariable_paths : 0\nbitmap_cvg     : 1.37%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499875421\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Multi_User_Calendar/input -o /dev/shm/work/Multi_User_Calendar/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Multi_User_Calendar/Multi_User_Calendar.dict -- data/linux/processed-challenges/Multi_User_Calendar/bin/Multi_User_Calendar\n'
+p27
+I41
+tp28
+a(I1680
+S'start_time     : 1499873859\nlast_update    : 1499875543\nfuzzer_pid     : 7646\ncycles_done    : 0\nexecs_done     : 1258134\nexecs_per_sec  : 812.57\npaths_total    : 211\npaths_favored  : 54\npaths_found    : 210\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 67\npending_favs   : 45\npending_total  : 196\nvariable_paths : 0\nbitmap_cvg     : 1.38%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499875542\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Multi_User_Calendar/input -o /dev/shm/work/Multi_User_Calendar/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Multi_User_Calendar/Multi_User_Calendar.dict -- data/linux/processed-challenges/Multi_User_Calendar/bin/Multi_User_Calendar\n'
+p29
+I8
+tp30
+a(I1800
+S'start_time     : 1499873859\nlast_update    : 1499875663\nfuzzer_pid     : 7646\ncycles_done    : 0\nexecs_done     : 1345697\nexecs_per_sec  : 723.68\npaths_total    : 220\npaths_favored  : 53\npaths_found    : 219\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 87\npending_favs   : 41\npending_total  : 201\nvariable_paths : 0\nbitmap_cvg     : 1.43%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499875651\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Multi_User_Calendar/input -o /dev/shm/work/Multi_User_Calendar/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Multi_User_Calendar/Multi_User_Calendar.dict -- data/linux/processed-challenges/Multi_User_Calendar/bin/Multi_User_Calendar\n'
+p31
+I9
+tp32
+a(I1920
+S'start_time     : 1499873859\nlast_update    : 1499875783\nfuzzer_pid     : 7646\ncycles_done    : 0\nexecs_done     : 1432717\nexecs_per_sec  : 709.21\npaths_total    : 228\npaths_favored  : 53\npaths_found    : 227\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 87\npending_favs   : 41\npending_total  : 209\nvariable_paths : 0\nbitmap_cvg     : 1.44%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499875783\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Multi_User_Calendar/input -o /dev/shm/work/Multi_User_Calendar/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Multi_User_Calendar/Multi_User_Calendar.dict -- data/linux/processed-challenges/Multi_User_Calendar/bin/Multi_User_Calendar\n'
+p33
+I8
+tp34
+a(I2040
+S'start_time     : 1499873859\nlast_update    : 1499875903\nfuzzer_pid     : 7646\ncycles_done    : 0\nexecs_done     : 1522180\nexecs_per_sec  : 795.70\npaths_total    : 233\npaths_favored  : 62\npaths_found    : 232\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 91\npending_favs   : 50\npending_total  : 212\nvariable_paths : 0\nbitmap_cvg     : 1.46%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499875840\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Multi_User_Calendar/input -o /dev/shm/work/Multi_User_Calendar/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Multi_User_Calendar/Multi_User_Calendar.dict -- data/linux/processed-challenges/Multi_User_Calendar/bin/Multi_User_Calendar\n'
+p35
+I5
+tp36
+a(I2160
+S'start_time     : 1499873859\nlast_update    : 1499876023\nfuzzer_pid     : 7646\ncycles_done    : 0\nexecs_done     : 1624258\nexecs_per_sec  : 880.73\npaths_total    : 239\npaths_favored  : 62\npaths_found    : 238\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 91\npending_favs   : 50\npending_total  : 218\nvariable_paths : 0\nbitmap_cvg     : 1.46%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499876016\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Multi_User_Calendar/input -o /dev/shm/work/Multi_User_Calendar/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Multi_User_Calendar/Multi_User_Calendar.dict -- data/linux/processed-challenges/Multi_User_Calendar/bin/Multi_User_Calendar\n'
+p37
+I6
+tp38
+a(I2280
+S'start_time     : 1499873859\nlast_update    : 1499876144\nfuzzer_pid     : 7646\ncycles_done    : 0\nexecs_done     : 1724235\nexecs_per_sec  : 766.28\npaths_total    : 239\npaths_favored  : 62\npaths_found    : 238\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 96\npending_favs   : 49\npending_total  : 216\nvariable_paths : 0\nbitmap_cvg     : 1.46%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499876016\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Multi_User_Calendar/input -o /dev/shm/work/Multi_User_Calendar/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Multi_User_Calendar/Multi_User_Calendar.dict -- data/linux/processed-challenges/Multi_User_Calendar/bin/Multi_User_Calendar\n'
+p39
+I0
+tp40
+a(I2400
+S'start_time     : 1499873859\nlast_update    : 1499876264\nfuzzer_pid     : 7646\ncycles_done    : 0\nexecs_done     : 1817484\nexecs_per_sec  : 796.21\npaths_total    : 240\npaths_favored  : 62\npaths_found    : 239\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 101\npending_favs   : 45\npending_total  : 213\nvariable_paths : 0\nbitmap_cvg     : 1.46%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499876153\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Multi_User_Calendar/input -o /dev/shm/work/Multi_User_Calendar/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Multi_User_Calendar/Multi_User_Calendar.dict -- data/linux/processed-challenges/Multi_User_Calendar/bin/Multi_User_Calendar\n'
+p41
+I1
+tp42
+a(I2520
+S'start_time     : 1499873859\nlast_update    : 1499876384\nfuzzer_pid     : 7646\ncycles_done    : 0\nexecs_done     : 1907831\nexecs_per_sec  : 736.93\npaths_total    : 248\npaths_favored  : 64\npaths_found    : 247\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 106\npending_favs   : 45\npending_total  : 219\nvariable_paths : 0\nbitmap_cvg     : 1.46%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499876379\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Multi_User_Calendar/input -o /dev/shm/work/Multi_User_Calendar/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Multi_User_Calendar/Multi_User_Calendar.dict -- data/linux/processed-challenges/Multi_User_Calendar/bin/Multi_User_Calendar\n'
+p43
+I8
+tp44
+a(I2640
+S'start_time     : 1499873859\nlast_update    : 1499876504\nfuzzer_pid     : 7646\ncycles_done    : 0\nexecs_done     : 2000788\nexecs_per_sec  : 754.96\npaths_total    : 253\npaths_favored  : 64\npaths_found    : 252\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 106\npending_favs   : 45\npending_total  : 224\nvariable_paths : 0\nbitmap_cvg     : 1.47%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499876451\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Multi_User_Calendar/input -o /dev/shm/work/Multi_User_Calendar/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Multi_User_Calendar/Multi_User_Calendar.dict -- data/linux/processed-challenges/Multi_User_Calendar/bin/Multi_User_Calendar\n'
+p45
+I5
+tp46
+a(I2760
+S'start_time     : 1499873859\nlast_update    : 1499876624\nfuzzer_pid     : 7646\ncycles_done    : 0\nexecs_done     : 2098551\nexecs_per_sec  : 830.16\npaths_total    : 257\npaths_favored  : 70\npaths_found    : 256\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 120\npending_favs   : 49\npending_total  : 225\nvariable_paths : 0\nbitmap_cvg     : 1.47%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499876600\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Multi_User_Calendar/input -o /dev/shm/work/Multi_User_Calendar/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Multi_User_Calendar/Multi_User_Calendar.dict -- data/linux/processed-challenges/Multi_User_Calendar/bin/Multi_User_Calendar\n'
+p47
+I4
+tp48
+a(I2880
+S'start_time     : 1499873859\nlast_update    : 1499876745\nfuzzer_pid     : 7646\ncycles_done    : 0\nexecs_done     : 2156492\nexecs_per_sec  : 570.25\npaths_total    : 259\npaths_favored  : 71\npaths_found    : 258\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 122\npending_favs   : 49\npending_total  : 226\nvariable_paths : 0\nbitmap_cvg     : 1.47%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499876728\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Multi_User_Calendar/input -o /dev/shm/work/Multi_User_Calendar/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Multi_User_Calendar/Multi_User_Calendar.dict -- data/linux/processed-challenges/Multi_User_Calendar/bin/Multi_User_Calendar\n'
+p49
+I2
+tp50
+a(I3000
+S'start_time     : 1499873859\nlast_update    : 1499876865\nfuzzer_pid     : 7646\ncycles_done    : 0\nexecs_done     : 2226254\nexecs_per_sec  : 634.54\npaths_total    : 259\npaths_favored  : 71\npaths_found    : 258\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 125\npending_favs   : 47\npending_total  : 224\nvariable_paths : 0\nbitmap_cvg     : 1.47%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499876728\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Multi_User_Calendar/input -o /dev/shm/work/Multi_User_Calendar/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Multi_User_Calendar/Multi_User_Calendar.dict -- data/linux/processed-challenges/Multi_User_Calendar/bin/Multi_User_Calendar\n'
+p51
+I0
+tp52
+a(I3120
+S'start_time     : 1499873859\nlast_update    : 1499876985\nfuzzer_pid     : 7646\ncycles_done    : 0\nexecs_done     : 2295554\nexecs_per_sec  : 631.30\npaths_total    : 259\npaths_favored  : 70\npaths_found    : 258\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 128\npending_favs   : 44\npending_total  : 222\nvariable_paths : 0\nbitmap_cvg     : 1.47%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499876728\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Multi_User_Calendar/input -o /dev/shm/work/Multi_User_Calendar/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Multi_User_Calendar/Multi_User_Calendar.dict -- data/linux/processed-challenges/Multi_User_Calendar/bin/Multi_User_Calendar\n'
+p53
+I0
+tp54
+a(I3240
+S'start_time     : 1499873859\nlast_update    : 1499877105\nfuzzer_pid     : 7646\ncycles_done    : 0\nexecs_done     : 2360453\nexecs_per_sec  : 532.46\npaths_total    : 259\npaths_favored  : 70\npaths_found    : 258\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 137\npending_favs   : 42\npending_total  : 219\nvariable_paths : 0\nbitmap_cvg     : 1.47%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499876728\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Multi_User_Calendar/input -o /dev/shm/work/Multi_User_Calendar/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Multi_User_Calendar/Multi_User_Calendar.dict -- data/linux/processed-challenges/Multi_User_Calendar/bin/Multi_User_Calendar\n'
+p55
+I0
+tp56
+a(I3360
+S'start_time     : 1499873859\nlast_update    : 1499877225\nfuzzer_pid     : 7646\ncycles_done    : 0\nexecs_done     : 2436308\nexecs_per_sec  : 529.14\npaths_total    : 259\npaths_favored  : 70\npaths_found    : 258\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 149\npending_favs   : 40\npending_total  : 217\nvariable_paths : 0\nbitmap_cvg     : 1.47%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499876728\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Multi_User_Calendar/input -o /dev/shm/work/Multi_User_Calendar/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Multi_User_Calendar/Multi_User_Calendar.dict -- data/linux/processed-challenges/Multi_User_Calendar/bin/Multi_User_Calendar\n'
+p57
+I0
+tp58
+a(I3480
+S'start_time     : 1499873859\nlast_update    : 1499877345\nfuzzer_pid     : 7646\ncycles_done    : 0\nexecs_done     : 2494519\nexecs_per_sec  : 363.58\npaths_total    : 259\npaths_favored  : 70\npaths_found    : 258\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 160\npending_favs   : 39\npending_total  : 216\nvariable_paths : 0\nbitmap_cvg     : 1.47%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499876728\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Multi_User_Calendar/input -o /dev/shm/work/Multi_User_Calendar/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Multi_User_Calendar/Multi_User_Calendar.dict -- data/linux/processed-challenges/Multi_User_Calendar/bin/Multi_User_Calendar\n'
+p59
+I0
+tp60
+a(I3600
+S'start_time     : 1499873859\nlast_update    : 1499877466\nfuzzer_pid     : 7646\ncycles_done    : 0\nexecs_done     : 2541899\nexecs_per_sec  : 298.59\npaths_total    : 261\npaths_favored  : 70\npaths_found    : 260\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 176\npending_favs   : 38\npending_total  : 217\nvariable_paths : 0\nbitmap_cvg     : 1.47%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499877429\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Multi_User_Calendar/input -o /dev/shm/work/Multi_User_Calendar/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Multi_User_Calendar/Multi_User_Calendar.dict -- data/linux/processed-challenges/Multi_User_Calendar/bin/Multi_User_Calendar\n'
+p61
+I2
+tp62
+a(I3720
+S'start_time     : 1499873859\nlast_update    : 1499877586\nfuzzer_pid     : 7646\ncycles_done    : 0\nexecs_done     : 2578118\nexecs_per_sec  : 308.51\npaths_total    : 261\npaths_favored  : 70\npaths_found    : 260\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 176\npending_favs   : 38\npending_total  : 217\nvariable_paths : 0\nbitmap_cvg     : 1.47%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499877429\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Multi_User_Calendar/input -o /dev/shm/work/Multi_User_Calendar/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Multi_User_Calendar/Multi_User_Calendar.dict -- data/linux/processed-challenges/Multi_User_Calendar/bin/Multi_User_Calendar\n'
+p63
+I0
+tp64
+a(I3840
+S'start_time     : 1499873859\nlast_update    : 1499877646\nfuzzer_pid     : 7646\ncycles_done    : 0\nexecs_done     : 2595341\nexecs_per_sec  : 293.30\npaths_total    : 261\npaths_favored  : 70\npaths_found    : 260\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 176\npending_favs   : 38\npending_total  : 217\nvariable_paths : 0\nbitmap_cvg     : 1.47%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499877429\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Multi_User_Calendar/input -o /dev/shm/work/Multi_User_Calendar/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Multi_User_Calendar/Multi_User_Calendar.dict -- data/linux/processed-challenges/Multi_User_Calendar/bin/Multi_User_Calendar\n'
+p65
+I22
+tp66
+a(I3960
+S'start_time     : 1499873859\nlast_update    : 1499877766\nfuzzer_pid     : 7646\ncycles_done    : 0\nexecs_done     : 2639209\nexecs_per_sec  : 385.32\npaths_total    : 291\npaths_favored  : 70\npaths_found    : 290\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 176\npending_favs   : 38\npending_total  : 247\nvariable_paths : 0\nbitmap_cvg     : 1.54%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499877761\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Multi_User_Calendar/input -o /dev/shm/work/Multi_User_Calendar/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Multi_User_Calendar/Multi_User_Calendar.dict -- data/linux/processed-challenges/Multi_User_Calendar/bin/Multi_User_Calendar\n'
+p67
+I11
+tp68
+a(I4080
+S'start_time     : 1499873859\nlast_update    : 1499877886\nfuzzer_pid     : 7646\ncycles_done    : 0\nexecs_done     : 2686060\nexecs_per_sec  : 394.67\npaths_total    : 298\npaths_favored  : 70\npaths_found    : 297\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 176\npending_favs   : 38\npending_total  : 254\nvariable_paths : 0\nbitmap_cvg     : 1.54%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499877873\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Multi_User_Calendar/input -o /dev/shm/work/Multi_User_Calendar/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Multi_User_Calendar/Multi_User_Calendar.dict -- data/linux/processed-challenges/Multi_User_Calendar/bin/Multi_User_Calendar\n'
+p69
+I9
+tp70
+a(I4200
+S'start_time     : 1499873859\nlast_update    : 1499878007\nfuzzer_pid     : 7646\ncycles_done    : 0\nexecs_done     : 2731791\nexecs_per_sec  : 361.37\npaths_total    : 304\npaths_favored  : 74\npaths_found    : 303\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 180\npending_favs   : 45\npending_total  : 259\nvariable_paths : 0\nbitmap_cvg     : 1.54%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499877978\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Multi_User_Calendar/input -o /dev/shm/work/Multi_User_Calendar/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Multi_User_Calendar/Multi_User_Calendar.dict -- data/linux/processed-challenges/Multi_User_Calendar/bin/Multi_User_Calendar\n'
+p71
+I1
+tp72
+a(I4320
+S'start_time     : 1499873859\nlast_update    : 1499878127\nfuzzer_pid     : 7646\ncycles_done    : 0\nexecs_done     : 2777238\nexecs_per_sec  : 331.43\npaths_total    : 304\npaths_favored  : 74\npaths_found    : 303\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 181\npending_favs   : 44\npending_total  : 258\nvariable_paths : 0\nbitmap_cvg     : 1.54%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499877978\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Multi_User_Calendar/input -o /dev/shm/work/Multi_User_Calendar/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Multi_User_Calendar/Multi_User_Calendar.dict -- data/linux/processed-challenges/Multi_User_Calendar/bin/Multi_User_Calendar\n'
+p73
+I0
+tp74
+a(I4440
+S'start_time     : 1499873859\nlast_update    : 1499878247\nfuzzer_pid     : 7646\ncycles_done    : 0\nexecs_done     : 2815606\nexecs_per_sec  : 308.17\npaths_total    : 304\npaths_favored  : 74\npaths_found    : 303\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 181\npending_favs   : 44\npending_total  : 258\nvariable_paths : 0\nbitmap_cvg     : 1.54%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499877978\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Multi_User_Calendar/input -o /dev/shm/work/Multi_User_Calendar/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Multi_User_Calendar/Multi_User_Calendar.dict -- data/linux/processed-challenges/Multi_User_Calendar/bin/Multi_User_Calendar\n'
+p75
+I2
+tp76
+a(I4560
+S'start_time     : 1499873859\nlast_update    : 1499878367\nfuzzer_pid     : 7646\ncycles_done    : 0\nexecs_done     : 2864238\nexecs_per_sec  : 304.83\npaths_total    : 306\npaths_favored  : 74\npaths_found    : 305\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 187\npending_favs   : 43\npending_total  : 259\nvariable_paths : 0\nbitmap_cvg     : 1.54%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499878299\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Multi_User_Calendar/input -o /dev/shm/work/Multi_User_Calendar/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Multi_User_Calendar/Multi_User_Calendar.dict -- data/linux/processed-challenges/Multi_User_Calendar/bin/Multi_User_Calendar\n'
+p77
+I0
+tp78
+a(I4680
+S'start_time     : 1499873859\nlast_update    : 1499878488\nfuzzer_pid     : 7646\ncycles_done    : 0\nexecs_done     : 2903628\nexecs_per_sec  : 318.45\npaths_total    : 306\npaths_favored  : 74\npaths_found    : 305\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 187\npending_favs   : 43\npending_total  : 259\nvariable_paths : 0\nbitmap_cvg     : 1.54%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499878299\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Multi_User_Calendar/input -o /dev/shm/work/Multi_User_Calendar/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Multi_User_Calendar/Multi_User_Calendar.dict -- data/linux/processed-challenges/Multi_User_Calendar/bin/Multi_User_Calendar\n'
+p79
+I4
+tp80
+a(I4800
+S'start_time     : 1499873859\nlast_update    : 1499878608\nfuzzer_pid     : 7646\ncycles_done    : 0\nexecs_done     : 2953802\nexecs_per_sec  : 443.65\npaths_total    : 316\npaths_favored  : 74\npaths_found    : 315\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 187\npending_favs   : 43\npending_total  : 269\nvariable_paths : 0\nbitmap_cvg     : 1.55%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499878605\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Multi_User_Calendar/input -o /dev/shm/work/Multi_User_Calendar/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Multi_User_Calendar/Multi_User_Calendar.dict -- data/linux/processed-challenges/Multi_User_Calendar/bin/Multi_User_Calendar\n'
+p81
+I9
+tp82
+a(I4920
+S'start_time     : 1499873859\nlast_update    : 1499878728\nfuzzer_pid     : 7646\ncycles_done    : 0\nexecs_done     : 3007095\nexecs_per_sec  : 461.51\npaths_total    : 321\npaths_favored  : 74\npaths_found    : 320\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 187\npending_favs   : 43\npending_total  : 274\nvariable_paths : 0\nbitmap_cvg     : 1.56%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499878694\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Multi_User_Calendar/input -o /dev/shm/work/Multi_User_Calendar/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Multi_User_Calendar/Multi_User_Calendar.dict -- data/linux/processed-challenges/Multi_User_Calendar/bin/Multi_User_Calendar\n'
+p83
+I3
+tp84
+a(I5040
+S'start_time     : 1499873859\nlast_update    : 1499878848\nfuzzer_pid     : 7646\ncycles_done    : 0\nexecs_done     : 3081203\nexecs_per_sec  : 731.06\npaths_total    : 322\npaths_favored  : 72\npaths_found    : 321\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 210\npending_favs   : 40\npending_total  : 273\nvariable_paths : 0\nbitmap_cvg     : 1.56%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499878757\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Multi_User_Calendar/input -o /dev/shm/work/Multi_User_Calendar/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Multi_User_Calendar/Multi_User_Calendar.dict -- data/linux/processed-challenges/Multi_User_Calendar/bin/Multi_User_Calendar\n'
+p85
+I2
+tp86
+a(I5160
+S'start_time     : 1499873859\nlast_update    : 1499878968\nfuzzer_pid     : 7646\ncycles_done    : 0\nexecs_done     : 3160944\nexecs_per_sec  : 703.26\npaths_total    : 325\npaths_favored  : 72\npaths_found    : 324\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 211\npending_favs   : 39\npending_total  : 275\nvariable_paths : 0\nbitmap_cvg     : 1.56%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499878932\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Multi_User_Calendar/input -o /dev/shm/work/Multi_User_Calendar/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Multi_User_Calendar/Multi_User_Calendar.dict -- data/linux/processed-challenges/Multi_User_Calendar/bin/Multi_User_Calendar\n'
+p87
+I1
+tp88
+a(I5280
+S'start_time     : 1499873859\nlast_update    : 1499879088\nfuzzer_pid     : 7646\ncycles_done    : 0\nexecs_done     : 3227732\nexecs_per_sec  : 682.68\npaths_total    : 331\npaths_favored  : 73\npaths_found    : 330\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 213\npending_favs   : 38\npending_total  : 279\nvariable_paths : 0\nbitmap_cvg     : 1.57%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499879087\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Multi_User_Calendar/input -o /dev/shm/work/Multi_User_Calendar/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Multi_User_Calendar/Multi_User_Calendar.dict -- data/linux/processed-challenges/Multi_User_Calendar/bin/Multi_User_Calendar\n'
+p89
+I13
+tp90
+a(I5400
+S'start_time     : 1499873859\nlast_update    : 1499879209\nfuzzer_pid     : 7646\ncycles_done    : 0\nexecs_done     : 3308424\nexecs_per_sec  : 646.75\npaths_total    : 339\npaths_favored  : 73\npaths_found    : 338\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 213\npending_favs   : 38\npending_total  : 287\nvariable_paths : 0\nbitmap_cvg     : 1.57%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499879151\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Multi_User_Calendar/input -o /dev/shm/work/Multi_User_Calendar/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Multi_User_Calendar/Multi_User_Calendar.dict -- data/linux/processed-challenges/Multi_User_Calendar/bin/Multi_User_Calendar\n'
+p91
+I2
+tp92
+a(I5520
+S'start_time     : 1499873859\nlast_update    : 1499879329\nfuzzer_pid     : 7646\ncycles_done    : 0\nexecs_done     : 3383473\nexecs_per_sec  : 455.24\npaths_total    : 341\npaths_favored  : 73\npaths_found    : 340\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 214\npending_favs   : 40\npending_total  : 288\nvariable_paths : 0\nbitmap_cvg     : 1.57%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499879289\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Multi_User_Calendar/input -o /dev/shm/work/Multi_User_Calendar/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Multi_User_Calendar/Multi_User_Calendar.dict -- data/linux/processed-challenges/Multi_User_Calendar/bin/Multi_User_Calendar\n'
+p93
+I1
+tp94
+a(I5640
+S'start_time     : 1499873859\nlast_update    : 1499879449\nfuzzer_pid     : 7646\ncycles_done    : 0\nexecs_done     : 3440738\nexecs_per_sec  : 340.96\npaths_total    : 341\npaths_favored  : 73\npaths_found    : 340\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 217\npending_favs   : 39\npending_total  : 286\nvariable_paths : 0\nbitmap_cvg     : 1.57%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499879289\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Multi_User_Calendar/input -o /dev/shm/work/Multi_User_Calendar/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Multi_User_Calendar/Multi_User_Calendar.dict -- data/linux/processed-challenges/Multi_User_Calendar/bin/Multi_User_Calendar\n'
+p95
+I2
+tp96
+a(I5760
+S'start_time     : 1499873859\nlast_update    : 1499879569\nfuzzer_pid     : 7646\ncycles_done    : 0\nexecs_done     : 3501718\nexecs_per_sec  : 521.69\npaths_total    : 344\npaths_favored  : 73\npaths_found    : 343\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 217\npending_favs   : 39\npending_total  : 289\nvariable_paths : 0\nbitmap_cvg     : 1.57%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499879528\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Multi_User_Calendar/input -o /dev/shm/work/Multi_User_Calendar/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Multi_User_Calendar/Multi_User_Calendar.dict -- data/linux/processed-challenges/Multi_User_Calendar/bin/Multi_User_Calendar\n'
+p97
+I2
+tp98
+a(I5880
+S'start_time     : 1499873859\nlast_update    : 1499879689\nfuzzer_pid     : 7646\ncycles_done    : 0\nexecs_done     : 3552079\nexecs_per_sec  : 333.80\npaths_total    : 346\npaths_favored  : 74\npaths_found    : 345\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 220\npending_favs   : 39\npending_total  : 290\nvariable_paths : 0\nbitmap_cvg     : 1.58%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499879631\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Multi_User_Calendar/input -o /dev/shm/work/Multi_User_Calendar/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Multi_User_Calendar/Multi_User_Calendar.dict -- data/linux/processed-challenges/Multi_User_Calendar/bin/Multi_User_Calendar\n'
+p99
+I1
+tp100
+a(I6000
+S'start_time     : 1499873859\nlast_update    : 1499879810\nfuzzer_pid     : 7646\ncycles_done    : 0\nexecs_done     : 3601334\nexecs_per_sec  : 490.35\npaths_total    : 346\npaths_favored  : 74\npaths_found    : 345\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 222\npending_favs   : 40\npending_total  : 289\nvariable_paths : 0\nbitmap_cvg     : 1.58%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499879631\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Multi_User_Calendar/input -o /dev/shm/work/Multi_User_Calendar/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Multi_User_Calendar/Multi_User_Calendar.dict -- data/linux/processed-challenges/Multi_User_Calendar/bin/Multi_User_Calendar\n'
+p101
+I1
+tp102
+a(I6120
+S'start_time     : 1499873859\nlast_update    : 1499879930\nfuzzer_pid     : 7646\ncycles_done    : 0\nexecs_done     : 3648990\nexecs_per_sec  : 321.53\npaths_total    : 347\npaths_favored  : 74\npaths_found    : 346\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 229\npending_favs   : 39\npending_total  : 289\nvariable_paths : 0\nbitmap_cvg     : 1.58%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499879843\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Multi_User_Calendar/input -o /dev/shm/work/Multi_User_Calendar/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Multi_User_Calendar/Multi_User_Calendar.dict -- data/linux/processed-challenges/Multi_User_Calendar/bin/Multi_User_Calendar\n'
+p103
+I4
+tp104
+a(I6240
+S'start_time     : 1499873859\nlast_update    : 1499880050\nfuzzer_pid     : 7646\ncycles_done    : 0\nexecs_done     : 3706866\nexecs_per_sec  : 483.44\npaths_total    : 356\npaths_favored  : 74\npaths_found    : 355\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 229\npending_favs   : 39\npending_total  : 298\nvariable_paths : 0\nbitmap_cvg     : 1.59%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499880047\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Multi_User_Calendar/input -o /dev/shm/work/Multi_User_Calendar/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Multi_User_Calendar/Multi_User_Calendar.dict -- data/linux/processed-challenges/Multi_User_Calendar/bin/Multi_User_Calendar\n'
+p105
+I5
+tp106
+a(I6360
+S'start_time     : 1499873859\nlast_update    : 1499880171\nfuzzer_pid     : 7646\ncycles_done    : 0\nexecs_done     : 3766266\nexecs_per_sec  : 488.49\npaths_total    : 356\npaths_favored  : 74\npaths_found    : 355\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 229\npending_favs   : 39\npending_total  : 298\nvariable_paths : 0\nbitmap_cvg     : 1.59%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499880047\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Multi_User_Calendar/input -o /dev/shm/work/Multi_User_Calendar/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Multi_User_Calendar/Multi_User_Calendar.dict -- data/linux/processed-challenges/Multi_User_Calendar/bin/Multi_User_Calendar\n'
+p107
+I2
+tp108
+a(I6480
+S'start_time     : 1499873859\nlast_update    : 1499880291\nfuzzer_pid     : 7646\ncycles_done    : 0\nexecs_done     : 3819629\nexecs_per_sec  : 338.14\npaths_total    : 358\npaths_favored  : 75\npaths_found    : 357\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 231\npending_favs   : 40\npending_total  : 299\nvariable_paths : 0\nbitmap_cvg     : 1.59%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499880205\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Multi_User_Calendar/input -o /dev/shm/work/Multi_User_Calendar/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Multi_User_Calendar/Multi_User_Calendar.dict -- data/linux/processed-challenges/Multi_User_Calendar/bin/Multi_User_Calendar\n'
+p109
+I0
+tp110
+a(I6600
+S'start_time     : 1499873859\nlast_update    : 1499880411\nfuzzer_pid     : 7646\ncycles_done    : 0\nexecs_done     : 3865907\nexecs_per_sec  : 490.17\npaths_total    : 361\npaths_favored  : 75\npaths_found    : 360\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 231\npending_favs   : 40\npending_total  : 302\nvariable_paths : 0\nbitmap_cvg     : 1.59%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499880387\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Multi_User_Calendar/input -o /dev/shm/work/Multi_User_Calendar/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Multi_User_Calendar/Multi_User_Calendar.dict -- data/linux/processed-challenges/Multi_User_Calendar/bin/Multi_User_Calendar\n'
+p111
+I3
+tp112
+a(I6720
+S'start_time     : 1499873859\nlast_update    : 1499880531\nfuzzer_pid     : 7646\ncycles_done    : 0\nexecs_done     : 3924282\nexecs_per_sec  : 478.66\npaths_total    : 362\npaths_favored  : 75\npaths_found    : 361\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 231\npending_favs   : 40\npending_total  : 303\nvariable_paths : 0\nbitmap_cvg     : 1.59%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499880502\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Multi_User_Calendar/input -o /dev/shm/work/Multi_User_Calendar/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Multi_User_Calendar/Multi_User_Calendar.dict -- data/linux/processed-challenges/Multi_User_Calendar/bin/Multi_User_Calendar\n'
+p113
+I2
+tp114
+a(I6840
+S'start_time     : 1499873859\nlast_update    : 1499880651\nfuzzer_pid     : 7646\ncycles_done    : 0\nexecs_done     : 3983692\nexecs_per_sec  : 494.92\npaths_total    : 363\npaths_favored  : 75\npaths_found    : 362\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 231\npending_favs   : 40\npending_total  : 304\nvariable_paths : 0\nbitmap_cvg     : 1.59%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499880584\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Multi_User_Calendar/input -o /dev/shm/work/Multi_User_Calendar/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Multi_User_Calendar/Multi_User_Calendar.dict -- data/linux/processed-challenges/Multi_User_Calendar/bin/Multi_User_Calendar\n'
+p115
+I0
+tp116
+a(I6960
+S'start_time     : 1499873859\nlast_update    : 1499880772\nfuzzer_pid     : 7646\ncycles_done    : 0\nexecs_done     : 4072473\nexecs_per_sec  : 868.66\npaths_total    : 366\npaths_favored  : 75\npaths_found    : 365\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 240\npending_favs   : 40\npending_total  : 306\nvariable_paths : 0\nbitmap_cvg     : 1.59%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499880740\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Multi_User_Calendar/input -o /dev/shm/work/Multi_User_Calendar/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Multi_User_Calendar/Multi_User_Calendar.dict -- data/linux/processed-challenges/Multi_User_Calendar/bin/Multi_User_Calendar\n'
+p117
+I3
+tp118
+a(I7080
+S'start_time     : 1499873859\nlast_update    : 1499880892\nfuzzer_pid     : 7646\ncycles_done    : 0\nexecs_done     : 4154460\nexecs_per_sec  : 391.30\npaths_total    : 366\npaths_favored  : 77\npaths_found    : 365\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 247\npending_favs   : 41\npending_total  : 304\nvariable_paths : 0\nbitmap_cvg     : 1.59%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499880740\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Multi_User_Calendar/input -o /dev/shm/work/Multi_User_Calendar/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Multi_User_Calendar/Multi_User_Calendar.dict -- data/linux/processed-challenges/Multi_User_Calendar/bin/Multi_User_Calendar\n'
+p119
+I0
+tp120
+a(I7200
+S'start_time     : 1499873859\nlast_update    : 1499881012\nfuzzer_pid     : 7646\ncycles_done    : 0\nexecs_done     : 4217449\nexecs_per_sec  : 619.72\npaths_total    : 368\npaths_favored  : 77\npaths_found    : 367\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 248\npending_favs   : 40\npending_total  : 305\nvariable_paths : 0\nbitmap_cvg     : 1.59%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499880972\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Multi_User_Calendar/input -o /dev/shm/work/Multi_User_Calendar/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Multi_User_Calendar/Multi_User_Calendar.dict -- data/linux/processed-challenges/Multi_User_Calendar/bin/Multi_User_Calendar\n'
+p121
+I3
+tp122
+a(I7320
+S'start_time     : 1499873859\nlast_update    : 1499881132\nfuzzer_pid     : 7646\ncycles_done    : 0\nexecs_done     : 4284990\nexecs_per_sec  : 396.68\npaths_total    : 369\npaths_favored  : 77\npaths_found    : 368\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 249\npending_favs   : 40\npending_total  : 305\nvariable_paths : 0\nbitmap_cvg     : 1.59%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499881020\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Multi_User_Calendar/input -o /dev/shm/work/Multi_User_Calendar/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Multi_User_Calendar/Multi_User_Calendar.dict -- data/linux/processed-challenges/Multi_User_Calendar/bin/Multi_User_Calendar\n'
+p123
+I0
+tp124
+a(I7440
+S'start_time     : 1499873859\nlast_update    : 1499881253\nfuzzer_pid     : 7646\ncycles_done    : 0\nexecs_done     : 4339083\nexecs_per_sec  : 654.94\npaths_total    : 369\npaths_favored  : 77\npaths_found    : 368\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 251\npending_favs   : 39\npending_total  : 304\nvariable_paths : 0\nbitmap_cvg     : 1.59%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499881020\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Multi_User_Calendar/input -o /dev/shm/work/Multi_User_Calendar/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Multi_User_Calendar/Multi_User_Calendar.dict -- data/linux/processed-challenges/Multi_User_Calendar/bin/Multi_User_Calendar\n'
+p125
+I0
+tp126
+a(I7560
+S'start_time     : 1499873859\nlast_update    : 1499881373\nfuzzer_pid     : 7646\ncycles_done    : 0\nexecs_done     : 4398758\nexecs_per_sec  : 317.80\npaths_total    : 369\npaths_favored  : 77\npaths_found    : 368\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 260\npending_favs   : 37\npending_total  : 302\nvariable_paths : 0\nbitmap_cvg     : 1.59%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499881020\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Multi_User_Calendar/input -o /dev/shm/work/Multi_User_Calendar/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Multi_User_Calendar/Multi_User_Calendar.dict -- data/linux/processed-challenges/Multi_User_Calendar/bin/Multi_User_Calendar\n'
+p127
+I0
+tp128
+a(I7680
+S'start_time     : 1499873859\nlast_update    : 1499881493\nfuzzer_pid     : 7646\ncycles_done    : 0\nexecs_done     : 4438203\nexecs_per_sec  : 316.98\npaths_total    : 369\npaths_favored  : 77\npaths_found    : 368\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 260\npending_favs   : 37\npending_total  : 302\nvariable_paths : 0\nbitmap_cvg     : 1.59%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499881020\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Multi_User_Calendar/input -o /dev/shm/work/Multi_User_Calendar/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Multi_User_Calendar/Multi_User_Calendar.dict -- data/linux/processed-challenges/Multi_User_Calendar/bin/Multi_User_Calendar\n'
+p129
+I1
+tp130
+a(I7800
+S'start_time     : 1499873859\nlast_update    : 1499881613\nfuzzer_pid     : 7646\ncycles_done    : 0\nexecs_done     : 4482961\nexecs_per_sec  : 407.65\npaths_total    : 371\npaths_favored  : 77\npaths_found    : 370\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 260\npending_favs   : 37\npending_total  : 304\nvariable_paths : 0\nbitmap_cvg     : 1.59%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499881573\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Multi_User_Calendar/input -o /dev/shm/work/Multi_User_Calendar/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Multi_User_Calendar/Multi_User_Calendar.dict -- data/linux/processed-challenges/Multi_User_Calendar/bin/Multi_User_Calendar\n'
+p131
+I1
+tp132
+a(I7920
+S'start_time     : 1499873859\nlast_update    : 1499881733\nfuzzer_pid     : 7646\ncycles_done    : 0\nexecs_done     : 4527215\nexecs_per_sec  : 436.70\npaths_total    : 372\npaths_favored  : 77\npaths_found    : 371\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 261\npending_favs   : 36\npending_total  : 304\nvariable_paths : 0\nbitmap_cvg     : 1.59%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499881731\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Multi_User_Calendar/input -o /dev/shm/work/Multi_User_Calendar/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Multi_User_Calendar/Multi_User_Calendar.dict -- data/linux/processed-challenges/Multi_User_Calendar/bin/Multi_User_Calendar\n'
+p133
+I5
+tp134
+a(I8040
+S'start_time     : 1499873859\nlast_update    : 1499881853\nfuzzer_pid     : 7646\ncycles_done    : 0\nexecs_done     : 4589441\nexecs_per_sec  : 512.87\npaths_total    : 377\npaths_favored  : 77\npaths_found    : 376\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 261\npending_favs   : 36\npending_total  : 309\nvariable_paths : 0\nbitmap_cvg     : 1.59%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499881813\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Multi_User_Calendar/input -o /dev/shm/work/Multi_User_Calendar/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Multi_User_Calendar/Multi_User_Calendar.dict -- data/linux/processed-challenges/Multi_User_Calendar/bin/Multi_User_Calendar\n'
+p135
+I5
+tp136
+a(I8160
+S'start_time     : 1499873859\nlast_update    : 1499881974\nfuzzer_pid     : 7646\ncycles_done    : 0\nexecs_done     : 4637648\nexecs_per_sec  : 333.46\npaths_total    : 381\npaths_favored  : 76\npaths_found    : 380\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 277\npending_favs   : 34\npending_total  : 312\nvariable_paths : 0\nbitmap_cvg     : 1.60%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499881896\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Multi_User_Calendar/input -o /dev/shm/work/Multi_User_Calendar/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Multi_User_Calendar/Multi_User_Calendar.dict -- data/linux/processed-challenges/Multi_User_Calendar/bin/Multi_User_Calendar\n'
+p137
+I4
+tp138
+a(I8280
+S'start_time     : 1499873859\nlast_update    : 1499882094\nfuzzer_pid     : 7646\ncycles_done    : 0\nexecs_done     : 4675590\nexecs_per_sec  : 300.65\npaths_total    : 386\npaths_favored  : 76\npaths_found    : 385\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 277\npending_favs   : 34\npending_total  : 317\nvariable_paths : 0\nbitmap_cvg     : 1.66%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499882038\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Multi_User_Calendar/input -o /dev/shm/work/Multi_User_Calendar/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Multi_User_Calendar/Multi_User_Calendar.dict -- data/linux/processed-challenges/Multi_User_Calendar/bin/Multi_User_Calendar\n'
+p139
+I2
+tp140
+a(I8400
+S'start_time     : 1499873859\nlast_update    : 1499882214\nfuzzer_pid     : 7646\ncycles_done    : 0\nexecs_done     : 4718863\nexecs_per_sec  : 389.34\npaths_total    : 392\npaths_favored  : 76\npaths_found    : 391\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 277\npending_favs   : 34\npending_total  : 323\nvariable_paths : 0\nbitmap_cvg     : 1.67%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499882206\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Multi_User_Calendar/input -o /dev/shm/work/Multi_User_Calendar/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Multi_User_Calendar/Multi_User_Calendar.dict -- data/linux/processed-challenges/Multi_User_Calendar/bin/Multi_User_Calendar\n'
+p141
+I6
+tp142
+a(I8520
+S'start_time     : 1499873859\nlast_update    : 1499882334\nfuzzer_pid     : 7646\ncycles_done    : 0\nexecs_done     : 4767212\nexecs_per_sec  : 408.61\npaths_total    : 394\npaths_favored  : 76\npaths_found    : 393\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 277\npending_favs   : 34\npending_total  : 325\nvariable_paths : 0\nbitmap_cvg     : 1.67%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499882308\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Multi_User_Calendar/input -o /dev/shm/work/Multi_User_Calendar/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Multi_User_Calendar/Multi_User_Calendar.dict -- data/linux/processed-challenges/Multi_User_Calendar/bin/Multi_User_Calendar\n'
+p143
+I1
+tp144
+a(I8640
+S'start_time     : 1499873859\nlast_update    : 1499882454\nfuzzer_pid     : 7646\ncycles_done    : 0\nexecs_done     : 4815749\nexecs_per_sec  : 364.46\npaths_total    : 395\npaths_favored  : 80\npaths_found    : 394\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 280\npending_favs   : 37\npending_total  : 325\nvariable_paths : 0\nbitmap_cvg     : 1.67%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499882433\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Multi_User_Calendar/input -o /dev/shm/work/Multi_User_Calendar/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Multi_User_Calendar/Multi_User_Calendar.dict -- data/linux/processed-challenges/Multi_User_Calendar/bin/Multi_User_Calendar\n'
+p145
+I1
+tp146
+a(I8760
+S'start_time     : 1499873859\nlast_update    : 1499882575\nfuzzer_pid     : 7646\ncycles_done    : 0\nexecs_done     : 4858110\nexecs_per_sec  : 353.94\npaths_total    : 395\npaths_favored  : 80\npaths_found    : 394\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 280\npending_favs   : 37\npending_total  : 325\nvariable_paths : 0\nbitmap_cvg     : 1.67%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499882433\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Multi_User_Calendar/input -o /dev/shm/work/Multi_User_Calendar/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Multi_User_Calendar/Multi_User_Calendar.dict -- data/linux/processed-challenges/Multi_User_Calendar/bin/Multi_User_Calendar\n'
+p147
+I0
+tp148
+a(I8880
+S'start_time     : 1499873859\nlast_update    : 1499882695\nfuzzer_pid     : 7646\ncycles_done    : 0\nexecs_done     : 4901903\nexecs_per_sec  : 406.46\npaths_total    : 395\npaths_favored  : 80\npaths_found    : 394\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 280\npending_favs   : 37\npending_total  : 325\nvariable_paths : 0\nbitmap_cvg     : 1.67%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499882433\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Multi_User_Calendar/input -o /dev/shm/work/Multi_User_Calendar/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Multi_User_Calendar/Multi_User_Calendar.dict -- data/linux/processed-challenges/Multi_User_Calendar/bin/Multi_User_Calendar\n'
+p149
+I2
+tp150
+a(I9000
+S'start_time     : 1499873859\nlast_update    : 1499882815\nfuzzer_pid     : 7646\ncycles_done    : 0\nexecs_done     : 4947296\nexecs_per_sec  : 312.81\npaths_total    : 398\npaths_favored  : 79\npaths_found    : 397\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 305\npending_favs   : 37\npending_total  : 327\nvariable_paths : 0\nbitmap_cvg     : 1.67%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499882779\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Multi_User_Calendar/input -o /dev/shm/work/Multi_User_Calendar/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Multi_User_Calendar/Multi_User_Calendar.dict -- data/linux/processed-challenges/Multi_User_Calendar/bin/Multi_User_Calendar\n'
+p151
+I1
+tp152
+a(I9120
+S'start_time     : 1499873859\nlast_update    : 1499882936\nfuzzer_pid     : 7646\ncycles_done    : 0\nexecs_done     : 4985428\nexecs_per_sec  : 308.97\npaths_total    : 398\npaths_favored  : 79\npaths_found    : 397\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 305\npending_favs   : 37\npending_total  : 327\nvariable_paths : 0\nbitmap_cvg     : 1.67%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499882779\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Multi_User_Calendar/input -o /dev/shm/work/Multi_User_Calendar/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Multi_User_Calendar/Multi_User_Calendar.dict -- data/linux/processed-challenges/Multi_User_Calendar/bin/Multi_User_Calendar\n'
+p153
+I3
+tp154
+a(I9240
+S'start_time     : 1499873859\nlast_update    : 1499883056\nfuzzer_pid     : 7646\ncycles_done    : 0\nexecs_done     : 5032272\nexecs_per_sec  : 411.05\npaths_total    : 403\npaths_favored  : 79\npaths_found    : 402\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 305\npending_favs   : 37\npending_total  : 332\nvariable_paths : 0\nbitmap_cvg     : 1.67%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499883044\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Multi_User_Calendar/input -o /dev/shm/work/Multi_User_Calendar/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Multi_User_Calendar/Multi_User_Calendar.dict -- data/linux/processed-challenges/Multi_User_Calendar/bin/Multi_User_Calendar\n'
+p155
+I2
+tp156
+a(I9360
+S'start_time     : 1499873859\nlast_update    : 1499883176\nfuzzer_pid     : 7646\ncycles_done    : 0\nexecs_done     : 5082148\nexecs_per_sec  : 438.29\npaths_total    : 405\npaths_favored  : 79\npaths_found    : 404\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 305\npending_favs   : 37\npending_total  : 334\nvariable_paths : 0\nbitmap_cvg     : 1.67%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499883167\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Multi_User_Calendar/input -o /dev/shm/work/Multi_User_Calendar/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Multi_User_Calendar/Multi_User_Calendar.dict -- data/linux/processed-challenges/Multi_User_Calendar/bin/Multi_User_Calendar\n'
+p157
+I2
+tp158
+a(I9480
+S'start_time     : 1499873859\nlast_update    : 1499883296\nfuzzer_pid     : 7646\ncycles_done    : 0\nexecs_done     : 5127115\nexecs_per_sec  : 329.75\npaths_total    : 405\npaths_favored  : 79\npaths_found    : 404\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 307\npending_favs   : 36\npending_total  : 333\nvariable_paths : 0\nbitmap_cvg     : 1.67%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499883167\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Multi_User_Calendar/input -o /dev/shm/work/Multi_User_Calendar/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Multi_User_Calendar/Multi_User_Calendar.dict -- data/linux/processed-challenges/Multi_User_Calendar/bin/Multi_User_Calendar\n'
+p159
+I0
+tp160
+a(I9600
+S'start_time     : 1499873859\nlast_update    : 1499883417\nfuzzer_pid     : 7646\ncycles_done    : 0\nexecs_done     : 5164981\nexecs_per_sec  : 323.70\npaths_total    : 405\npaths_favored  : 79\npaths_found    : 404\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 307\npending_favs   : 36\npending_total  : 333\nvariable_paths : 0\nbitmap_cvg     : 1.67%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499883167\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Multi_User_Calendar/input -o /dev/shm/work/Multi_User_Calendar/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Multi_User_Calendar/Multi_User_Calendar.dict -- data/linux/processed-challenges/Multi_User_Calendar/bin/Multi_User_Calendar\n'
+p161
+I2
+tp162
+a(I9720
+S'start_time     : 1499873859\nlast_update    : 1499883537\nfuzzer_pid     : 7646\ncycles_done    : 0\nexecs_done     : 5210983\nexecs_per_sec  : 417.28\npaths_total    : 409\npaths_favored  : 79\npaths_found    : 408\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 307\npending_favs   : 36\npending_total  : 337\nvariable_paths : 0\nbitmap_cvg     : 1.67%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499883525\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Multi_User_Calendar/input -o /dev/shm/work/Multi_User_Calendar/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Multi_User_Calendar/Multi_User_Calendar.dict -- data/linux/processed-challenges/Multi_User_Calendar/bin/Multi_User_Calendar\n'
+p163
+I3
+tp164
+a(I9840
+S'start_time     : 1499873859\nlast_update    : 1499883657\nfuzzer_pid     : 7646\ncycles_done    : 0\nexecs_done     : 5258891\nexecs_per_sec  : 411.02\npaths_total    : 411\npaths_favored  : 79\npaths_found    : 410\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 307\npending_favs   : 36\npending_total  : 339\nvariable_paths : 0\nbitmap_cvg     : 1.67%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499883595\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Multi_User_Calendar/input -o /dev/shm/work/Multi_User_Calendar/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Multi_User_Calendar/Multi_User_Calendar.dict -- data/linux/processed-challenges/Multi_User_Calendar/bin/Multi_User_Calendar\n'
+p165
+I1
+tp166
+a(I9960
+S'start_time     : 1499873859\nlast_update    : 1499883777\nfuzzer_pid     : 7646\ncycles_done    : 0\nexecs_done     : 5306996\nexecs_per_sec  : 384.95\npaths_total    : 412\npaths_favored  : 79\npaths_found    : 411\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 307\npending_favs   : 36\npending_total  : 340\nvariable_paths : 0\nbitmap_cvg     : 1.68%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499883746\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Multi_User_Calendar/input -o /dev/shm/work/Multi_User_Calendar/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Multi_User_Calendar/Multi_User_Calendar.dict -- data/linux/processed-challenges/Multi_User_Calendar/bin/Multi_User_Calendar\n'
+p167
+I1
+tp168
+a(I10080
+S'start_time     : 1499873859\nlast_update    : 1499883897\nfuzzer_pid     : 7646\ncycles_done    : 0\nexecs_done     : 5350079\nexecs_per_sec  : 309.05\npaths_total    : 412\npaths_favored  : 78\npaths_found    : 411\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 309\npending_favs   : 34\npending_total  : 339\nvariable_paths : 0\nbitmap_cvg     : 1.68%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499883746\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Multi_User_Calendar/input -o /dev/shm/work/Multi_User_Calendar/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Multi_User_Calendar/Multi_User_Calendar.dict -- data/linux/processed-challenges/Multi_User_Calendar/bin/Multi_User_Calendar\n'
+p169
+I0
+tp170
+a(I10200
+S'start_time     : 1499873859\nlast_update    : 1499884018\nfuzzer_pid     : 7646\ncycles_done    : 0\nexecs_done     : 5385945\nexecs_per_sec  : 305.59\npaths_total    : 412\npaths_favored  : 78\npaths_found    : 411\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 309\npending_favs   : 34\npending_total  : 339\nvariable_paths : 0\nbitmap_cvg     : 1.68%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499883746\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Multi_User_Calendar/input -o /dev/shm/work/Multi_User_Calendar/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Multi_User_Calendar/Multi_User_Calendar.dict -- data/linux/processed-challenges/Multi_User_Calendar/bin/Multi_User_Calendar\n'
+p171
+I0
+tp172
+a(I10320
+S'start_time     : 1499873859\nlast_update    : 1499884138\nfuzzer_pid     : 7646\ncycles_done    : 0\nexecs_done     : 5421917\nexecs_per_sec  : 315.99\npaths_total    : 412\npaths_favored  : 78\npaths_found    : 411\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 309\npending_favs   : 34\npending_total  : 339\nvariable_paths : 0\nbitmap_cvg     : 1.68%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499883746\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Multi_User_Calendar/input -o /dev/shm/work/Multi_User_Calendar/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Multi_User_Calendar/Multi_User_Calendar.dict -- data/linux/processed-challenges/Multi_User_Calendar/bin/Multi_User_Calendar\n'
+p173
+I1
+tp174
+a(I10440
+S'start_time     : 1499873859\nlast_update    : 1499884258\nfuzzer_pid     : 7646\ncycles_done    : 0\nexecs_done     : 5465996\nexecs_per_sec  : 385.79\npaths_total    : 415\npaths_favored  : 78\npaths_found    : 414\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 309\npending_favs   : 34\npending_total  : 342\nvariable_paths : 0\nbitmap_cvg     : 1.68%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499884224\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Multi_User_Calendar/input -o /dev/shm/work/Multi_User_Calendar/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Multi_User_Calendar/Multi_User_Calendar.dict -- data/linux/processed-challenges/Multi_User_Calendar/bin/Multi_User_Calendar\n'
+p175
+I2
+tp176
+a(I10560
+S'start_time     : 1499873859\nlast_update    : 1499884378\nfuzzer_pid     : 7646\ncycles_done    : 0\nexecs_done     : 5511083\nexecs_per_sec  : 378.20\npaths_total    : 415\npaths_favored  : 78\npaths_found    : 414\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 309\npending_favs   : 34\npending_total  : 342\nvariable_paths : 0\nbitmap_cvg     : 1.68%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499884224\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Multi_User_Calendar/input -o /dev/shm/work/Multi_User_Calendar/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Multi_User_Calendar/Multi_User_Calendar.dict -- data/linux/processed-challenges/Multi_User_Calendar/bin/Multi_User_Calendar\n'
+p177
+I0
+tp178
+a(I10680
+S'start_time     : 1499873859\nlast_update    : 1499884499\nfuzzer_pid     : 7646\ncycles_done    : 0\nexecs_done     : 5552227\nexecs_per_sec  : 252.36\npaths_total    : 415\npaths_favored  : 78\npaths_found    : 414\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 316\npending_favs   : 33\npending_total  : 341\nvariable_paths : 0\nbitmap_cvg     : 1.68%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499884224\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Multi_User_Calendar/input -o /dev/shm/work/Multi_User_Calendar/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Multi_User_Calendar/Multi_User_Calendar.dict -- data/linux/processed-challenges/Multi_User_Calendar/bin/Multi_User_Calendar\n'
+p179
+I0
+tp180
+a.

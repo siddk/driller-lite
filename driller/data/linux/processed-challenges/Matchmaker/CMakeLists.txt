@@ -1,0 +1,5 @@
+set( SERVICE_ID "00049" )
+set( AUTHOR_ID "NRFIN" )
+add_compile_options( -O3 -Wno-overlength-strings -Wno-packed )
+set( VULN_COUNT "2" )
+buildCB()

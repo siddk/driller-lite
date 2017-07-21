@@ -1,0 +1,452 @@
+(lp0
+(I0
+S'start_time     : 1499927891\nlast_update    : 1499927892\nfuzzer_pid     : 4871\ncycles_done    : 0\nexecs_done     : 10\nexecs_per_sec  : 196.08\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 1\npending_total  : 1\nvariable_paths : 0\nbitmap_cvg     : 0.15%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/BitBlaster/input -o /dev/shm/work/BitBlaster/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/BitBlaster/BitBlaster.dict -- data/linux/processed-challenges/BitBlaster/bin/BitBlaster\n'
+p1
+I25
+tp2
+a(I120
+S'start_time     : 1499927891\nlast_update    : 1499928012\nfuzzer_pid     : 4871\ncycles_done    : 0\nexecs_done     : 153583\nexecs_per_sec  : 1253.90\npaths_total    : 27\npaths_favored  : 1\npaths_found    : 26\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 1\npending_total  : 27\nvariable_paths : 0\nbitmap_cvg     : 0.19%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499927911\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/BitBlaster/input -o /dev/shm/work/BitBlaster/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/BitBlaster/BitBlaster.dict -- data/linux/processed-challenges/BitBlaster/bin/BitBlaster\n'
+p3
+I2
+tp4
+a(I240
+S'start_time     : 1499927891\nlast_update    : 1499928132\nfuzzer_pid     : 4871\ncycles_done    : 2\nexecs_done     : 302932\nexecs_per_sec  : 1217.57\npaths_total    : 29\npaths_favored  : 7\npaths_found    : 28\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 7\npending_favs   : 0\npending_total  : 18\nvariable_paths : 0\nbitmap_cvg     : 0.19%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499928115\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/BitBlaster/input -o /dev/shm/work/BitBlaster/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/BitBlaster/BitBlaster.dict -- data/linux/processed-challenges/BitBlaster/bin/BitBlaster\n'
+p5
+I3
+tp6
+a(I360
+S'start_time     : 1499927891\nlast_update    : 1499928252\nfuzzer_pid     : 4871\ncycles_done    : 3\nexecs_done     : 449346\nexecs_per_sec  : 1228.10\npaths_total    : 30\npaths_favored  : 7\npaths_found    : 29\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 5\npending_favs   : 0\npending_total  : 15\nvariable_paths : 0\nbitmap_cvg     : 0.19%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499928139\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/BitBlaster/input -o /dev/shm/work/BitBlaster/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/BitBlaster/BitBlaster.dict -- data/linux/processed-challenges/BitBlaster/bin/BitBlaster\n'
+p7
+I0
+tp8
+a(I480
+S'start_time     : 1499927891\nlast_update    : 1499928372\nfuzzer_pid     : 4871\ncycles_done    : 4\nexecs_done     : 596406\nexecs_per_sec  : 1192.33\npaths_total    : 30\npaths_favored  : 7\npaths_found    : 29\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 7\npending_favs   : 0\npending_total  : 13\nvariable_paths : 0\nbitmap_cvg     : 0.19%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499928139\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/BitBlaster/input -o /dev/shm/work/BitBlaster/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/BitBlaster/BitBlaster.dict -- data/linux/processed-challenges/BitBlaster/bin/BitBlaster\n'
+p9
+I0
+tp10
+a(I600
+S'start_time     : 1499927891\nlast_update    : 1499928493\nfuzzer_pid     : 4871\ncycles_done    : 5\nexecs_done     : 744679\nexecs_per_sec  : 1229.88\npaths_total    : 30\npaths_favored  : 7\npaths_found    : 29\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 12\npending_favs   : 0\npending_total  : 13\nvariable_paths : 0\nbitmap_cvg     : 0.19%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499928139\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/BitBlaster/input -o /dev/shm/work/BitBlaster/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/BitBlaster/BitBlaster.dict -- data/linux/processed-challenges/BitBlaster/bin/BitBlaster\n'
+p11
+I0
+tp12
+a(I720
+S'start_time     : 1499927891\nlast_update    : 1499928613\nfuzzer_pid     : 4871\ncycles_done    : 6\nexecs_done     : 883073\nexecs_per_sec  : 1218.29\npaths_total    : 30\npaths_favored  : 7\npaths_found    : 29\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 5\npending_favs   : 0\npending_total  : 9\nvariable_paths : 0\nbitmap_cvg     : 0.19%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499928139\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/BitBlaster/input -o /dev/shm/work/BitBlaster/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/BitBlaster/BitBlaster.dict -- data/linux/processed-challenges/BitBlaster/bin/BitBlaster\n'
+p13
+I0
+tp14
+a(I840
+S'start_time     : 1499927891\nlast_update    : 1499928733\nfuzzer_pid     : 4871\ncycles_done    : 7\nexecs_done     : 1030322\nexecs_per_sec  : 1242.94\npaths_total    : 30\npaths_favored  : 7\npaths_found    : 29\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 7\npending_favs   : 0\npending_total  : 8\nvariable_paths : 0\nbitmap_cvg     : 0.19%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499928139\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/BitBlaster/input -o /dev/shm/work/BitBlaster/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/BitBlaster/BitBlaster.dict -- data/linux/processed-challenges/BitBlaster/bin/BitBlaster\n'
+p15
+I0
+tp16
+a(I960
+S'start_time     : 1499927891\nlast_update    : 1499928853\nfuzzer_pid     : 4871\ncycles_done    : 8\nexecs_done     : 1178646\nexecs_per_sec  : 1220.90\npaths_total    : 30\npaths_favored  : 7\npaths_found    : 29\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 24\npending_favs   : 0\npending_total  : 8\nvariable_paths : 0\nbitmap_cvg     : 0.19%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499928139\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/BitBlaster/input -o /dev/shm/work/BitBlaster/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/BitBlaster/BitBlaster.dict -- data/linux/processed-challenges/BitBlaster/bin/BitBlaster\n'
+p17
+I0
+tp18
+a(I1080
+S'start_time     : 1499927891\nlast_update    : 1499928974\nfuzzer_pid     : 4871\ncycles_done    : 9\nexecs_done     : 1326427\nexecs_per_sec  : 1087.04\npaths_total    : 30\npaths_favored  : 7\npaths_found    : 29\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 27\npending_favs   : 0\npending_total  : 7\nvariable_paths : 0\nbitmap_cvg     : 0.19%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499928139\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/BitBlaster/input -o /dev/shm/work/BitBlaster/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/BitBlaster/BitBlaster.dict -- data/linux/processed-challenges/BitBlaster/bin/BitBlaster\n'
+p19
+I0
+tp20
+a(I1200
+S'start_time     : 1499927891\nlast_update    : 1499929094\nfuzzer_pid     : 4871\ncycles_done    : 10\nexecs_done     : 1471384\nexecs_per_sec  : 1195.30\npaths_total    : 30\npaths_favored  : 7\npaths_found    : 29\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 21\npending_favs   : 0\npending_total  : 4\nvariable_paths : 0\nbitmap_cvg     : 0.19%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499928139\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/BitBlaster/input -o /dev/shm/work/BitBlaster/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/BitBlaster/BitBlaster.dict -- data/linux/processed-challenges/BitBlaster/bin/BitBlaster\n'
+p21
+I0
+tp22
+a(I1320
+S'start_time     : 1499927891\nlast_update    : 1499929214\nfuzzer_pid     : 4871\ncycles_done    : 11\nexecs_done     : 1617557\nexecs_per_sec  : 1225.41\npaths_total    : 30\npaths_favored  : 7\npaths_found    : 29\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 24\npending_favs   : 0\npending_total  : 2\nvariable_paths : 0\nbitmap_cvg     : 0.19%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499928139\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/BitBlaster/input -o /dev/shm/work/BitBlaster/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/BitBlaster/BitBlaster.dict -- data/linux/processed-challenges/BitBlaster/bin/BitBlaster\n'
+p23
+I0
+tp24
+a(I1440
+S'start_time     : 1499927891\nlast_update    : 1499929334\nfuzzer_pid     : 4871\ncycles_done    : 12\nexecs_done     : 1763985\nexecs_per_sec  : 1229.97\npaths_total    : 30\npaths_favored  : 7\npaths_found    : 29\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 10\npending_favs   : 0\npending_total  : 2\nvariable_paths : 0\nbitmap_cvg     : 0.19%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499928139\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/BitBlaster/input -o /dev/shm/work/BitBlaster/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/BitBlaster/BitBlaster.dict -- data/linux/processed-challenges/BitBlaster/bin/BitBlaster\n'
+p25
+I0
+tp26
+a(I1560
+S'start_time     : 1499927891\nlast_update    : 1499929455\nfuzzer_pid     : 4871\ncycles_done    : 13\nexecs_done     : 1910769\nexecs_per_sec  : 1182.64\npaths_total    : 30\npaths_favored  : 7\npaths_found    : 29\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 23\npending_favs   : 0\npending_total  : 2\nvariable_paths : 0\nbitmap_cvg     : 0.19%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499928139\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/BitBlaster/input -o /dev/shm/work/BitBlaster/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/BitBlaster/BitBlaster.dict -- data/linux/processed-challenges/BitBlaster/bin/BitBlaster\n'
+p27
+I0
+tp28
+a(I1680
+S'start_time     : 1499927891\nlast_update    : 1499929575\nfuzzer_pid     : 4871\ncycles_done    : 14\nexecs_done     : 2057653\nexecs_per_sec  : 1226.15\npaths_total    : 30\npaths_favored  : 7\npaths_found    : 29\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 17\npending_favs   : 0\npending_total  : 2\nvariable_paths : 0\nbitmap_cvg     : 0.19%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499928139\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/BitBlaster/input -o /dev/shm/work/BitBlaster/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/BitBlaster/BitBlaster.dict -- data/linux/processed-challenges/BitBlaster/bin/BitBlaster\n'
+p29
+I0
+tp30
+a(I1800
+S'start_time     : 1499927891\nlast_update    : 1499929695\nfuzzer_pid     : 4871\ncycles_done    : 15\nexecs_done     : 2205301\nexecs_per_sec  : 1230.10\npaths_total    : 30\npaths_favored  : 7\npaths_found    : 29\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 26\npending_favs   : 0\npending_total  : 2\nvariable_paths : 0\nbitmap_cvg     : 0.19%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499928139\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/BitBlaster/input -o /dev/shm/work/BitBlaster/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/BitBlaster/BitBlaster.dict -- data/linux/processed-challenges/BitBlaster/bin/BitBlaster\n'
+p31
+I0
+tp32
+a(I1920
+S'start_time     : 1499927891\nlast_update    : 1499929815\nfuzzer_pid     : 4871\ncycles_done    : 16\nexecs_done     : 2344615\nexecs_per_sec  : 1223.93\npaths_total    : 30\npaths_favored  : 7\npaths_found    : 29\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 10\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.19%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499928139\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/BitBlaster/input -o /dev/shm/work/BitBlaster/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/BitBlaster/BitBlaster.dict -- data/linux/processed-challenges/BitBlaster/bin/BitBlaster\n'
+p33
+I0
+tp34
+a(I2040
+S'start_time     : 1499927891\nlast_update    : 1499929935\nfuzzer_pid     : 4871\ncycles_done    : 17\nexecs_done     : 2491479\nexecs_per_sec  : 1225.57\npaths_total    : 30\npaths_favored  : 7\npaths_found    : 29\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 24\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.19%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499928139\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/BitBlaster/input -o /dev/shm/work/BitBlaster/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/BitBlaster/BitBlaster.dict -- data/linux/processed-challenges/BitBlaster/bin/BitBlaster\n'
+p35
+I0
+tp36
+a(I2160
+S'start_time     : 1499927891\nlast_update    : 1499930056\nfuzzer_pid     : 4871\ncycles_done    : 19\nexecs_done     : 2640893\nexecs_per_sec  : 1222.94\npaths_total    : 30\npaths_favored  : 7\npaths_found    : 29\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 5\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.19%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499928139\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/BitBlaster/input -o /dev/shm/work/BitBlaster/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/BitBlaster/BitBlaster.dict -- data/linux/processed-challenges/BitBlaster/bin/BitBlaster\n'
+p37
+I0
+tp38
+a(I2280
+S'start_time     : 1499927891\nlast_update    : 1499930176\nfuzzer_pid     : 4871\ncycles_done    : 20\nexecs_done     : 2788217\nexecs_per_sec  : 1242.91\npaths_total    : 30\npaths_favored  : 7\npaths_found    : 29\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 8\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.19%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499928139\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/BitBlaster/input -o /dev/shm/work/BitBlaster/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/BitBlaster/BitBlaster.dict -- data/linux/processed-challenges/BitBlaster/bin/BitBlaster\n'
+p39
+I0
+tp40
+a(I2400
+S'start_time     : 1499927891\nlast_update    : 1499930296\nfuzzer_pid     : 4871\ncycles_done    : 21\nexecs_done     : 2937384\nexecs_per_sec  : 1228.69\npaths_total    : 30\npaths_favored  : 7\npaths_found    : 29\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 10\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.19%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499928139\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/BitBlaster/input -o /dev/shm/work/BitBlaster/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/BitBlaster/BitBlaster.dict -- data/linux/processed-challenges/BitBlaster/bin/BitBlaster\n'
+p41
+I0
+tp42
+a(I2520
+S'start_time     : 1499927891\nlast_update    : 1499930416\nfuzzer_pid     : 4871\ncycles_done    : 22\nexecs_done     : 3084484\nexecs_per_sec  : 1211.69\npaths_total    : 30\npaths_favored  : 7\npaths_found    : 29\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 26\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.19%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499928139\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/BitBlaster/input -o /dev/shm/work/BitBlaster/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/BitBlaster/BitBlaster.dict -- data/linux/processed-challenges/BitBlaster/bin/BitBlaster\n'
+p43
+I0
+tp44
+a(I2640
+S'start_time     : 1499927891\nlast_update    : 1499930536\nfuzzer_pid     : 4871\ncycles_done    : 24\nexecs_done     : 3228604\nexecs_per_sec  : 1218.38\npaths_total    : 30\npaths_favored  : 7\npaths_found    : 29\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 6\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.19%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499928139\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/BitBlaster/input -o /dev/shm/work/BitBlaster/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/BitBlaster/BitBlaster.dict -- data/linux/processed-challenges/BitBlaster/bin/BitBlaster\n'
+p45
+I0
+tp46
+a(I2760
+S'start_time     : 1499927891\nlast_update    : 1499930657\nfuzzer_pid     : 4871\ncycles_done    : 25\nexecs_done     : 3372820\nexecs_per_sec  : 1167.33\npaths_total    : 30\npaths_favored  : 7\npaths_found    : 29\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 10\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.19%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499928139\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/BitBlaster/input -o /dev/shm/work/BitBlaster/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/BitBlaster/BitBlaster.dict -- data/linux/processed-challenges/BitBlaster/bin/BitBlaster\n'
+p47
+I0
+tp48
+a(I2880
+S'start_time     : 1499927891\nlast_update    : 1499930777\nfuzzer_pid     : 4871\ncycles_done    : 26\nexecs_done     : 3516657\nexecs_per_sec  : 1215.08\npaths_total    : 30\npaths_favored  : 7\npaths_found    : 29\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 21\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.19%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499928139\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/BitBlaster/input -o /dev/shm/work/BitBlaster/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/BitBlaster/BitBlaster.dict -- data/linux/processed-challenges/BitBlaster/bin/BitBlaster\n'
+p49
+I0
+tp50
+a(I3000
+S'start_time     : 1499927891\nlast_update    : 1499930897\nfuzzer_pid     : 4871\ncycles_done    : 27\nexecs_done     : 3661609\nexecs_per_sec  : 1207.24\npaths_total    : 30\npaths_favored  : 7\npaths_found    : 29\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 26\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.19%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499928139\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/BitBlaster/input -o /dev/shm/work/BitBlaster/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/BitBlaster/BitBlaster.dict -- data/linux/processed-challenges/BitBlaster/bin/BitBlaster\n'
+p51
+I0
+tp52
+a(I3120
+S'start_time     : 1499927891\nlast_update    : 1499931017\nfuzzer_pid     : 4871\ncycles_done    : 29\nexecs_done     : 3807821\nexecs_per_sec  : 1206.91\npaths_total    : 30\npaths_favored  : 7\npaths_found    : 29\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 6\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.19%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499928139\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/BitBlaster/input -o /dev/shm/work/BitBlaster/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/BitBlaster/BitBlaster.dict -- data/linux/processed-challenges/BitBlaster/bin/BitBlaster\n'
+p53
+I0
+tp54
+a(I3240
+S'start_time     : 1499927891\nlast_update    : 1499931138\nfuzzer_pid     : 4871\ncycles_done    : 30\nexecs_done     : 3952366\nexecs_per_sec  : 1167.33\npaths_total    : 30\npaths_favored  : 7\npaths_found    : 29\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 10\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.19%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499928139\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/BitBlaster/input -o /dev/shm/work/BitBlaster/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/BitBlaster/BitBlaster.dict -- data/linux/processed-challenges/BitBlaster/bin/BitBlaster\n'
+p55
+I0
+tp56
+a(I3360
+S'start_time     : 1499927891\nlast_update    : 1499931258\nfuzzer_pid     : 4871\ncycles_done    : 31\nexecs_done     : 4096027\nexecs_per_sec  : 1161.16\npaths_total    : 30\npaths_favored  : 7\npaths_found    : 29\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 10\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.19%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499928139\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/BitBlaster/input -o /dev/shm/work/BitBlaster/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/BitBlaster/BitBlaster.dict -- data/linux/processed-challenges/BitBlaster/bin/BitBlaster\n'
+p57
+I0
+tp58
+a(I3480
+S'start_time     : 1499927891\nlast_update    : 1499931378\nfuzzer_pid     : 4871\ncycles_done    : 32\nexecs_done     : 4240393\nexecs_per_sec  : 1204.31\npaths_total    : 30\npaths_favored  : 7\npaths_found    : 29\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 24\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.19%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499928139\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/BitBlaster/input -o /dev/shm/work/BitBlaster/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/BitBlaster/BitBlaster.dict -- data/linux/processed-challenges/BitBlaster/bin/BitBlaster\n'
+p59
+I0
+tp60
+a(I3600
+S'start_time     : 1499927891\nlast_update    : 1499931498\nfuzzer_pid     : 4871\ncycles_done    : 33\nexecs_done     : 4388965\nexecs_per_sec  : 1215.11\npaths_total    : 30\npaths_favored  : 7\npaths_found    : 29\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 26\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.19%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499928139\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/BitBlaster/input -o /dev/shm/work/BitBlaster/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/BitBlaster/BitBlaster.dict -- data/linux/processed-challenges/BitBlaster/bin/BitBlaster\n'
+p61
+I0
+tp62
+a(I3720
+S'start_time     : 1499927891\nlast_update    : 1499931619\nfuzzer_pid     : 4871\ncycles_done    : 35\nexecs_done     : 4537103\nexecs_per_sec  : 1245.40\npaths_total    : 30\npaths_favored  : 7\npaths_found    : 29\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 6\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.19%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499928139\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/BitBlaster/input -o /dev/shm/work/BitBlaster/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/BitBlaster/BitBlaster.dict -- data/linux/processed-challenges/BitBlaster/bin/BitBlaster\n'
+p63
+I0
+tp64
+a(I3840
+S'start_time     : 1499927891\nlast_update    : 1499931739\nfuzzer_pid     : 4871\ncycles_done    : 36\nexecs_done     : 4685872\nexecs_per_sec  : 1264.34\npaths_total    : 30\npaths_favored  : 7\npaths_found    : 29\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 18\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.19%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499928139\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/BitBlaster/input -o /dev/shm/work/BitBlaster/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/BitBlaster/BitBlaster.dict -- data/linux/processed-challenges/BitBlaster/bin/BitBlaster\n'
+p65
+I0
+tp66
+a(I3960
+S'start_time     : 1499927891\nlast_update    : 1499931859\nfuzzer_pid     : 4871\ncycles_done    : 37\nexecs_done     : 4833979\nexecs_per_sec  : 1228.30\npaths_total    : 30\npaths_favored  : 7\npaths_found    : 29\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 26\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.19%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499928139\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/BitBlaster/input -o /dev/shm/work/BitBlaster/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/BitBlaster/BitBlaster.dict -- data/linux/processed-challenges/BitBlaster/bin/BitBlaster\n'
+p67
+I0
+tp68
+a(I4080
+S'start_time     : 1499927891\nlast_update    : 1499931979\nfuzzer_pid     : 4871\ncycles_done    : 39\nexecs_done     : 4981997\nexecs_per_sec  : 1263.62\npaths_total    : 30\npaths_favored  : 7\npaths_found    : 29\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 6\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.19%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499928139\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/BitBlaster/input -o /dev/shm/work/BitBlaster/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/BitBlaster/BitBlaster.dict -- data/linux/processed-challenges/BitBlaster/bin/BitBlaster\n'
+p69
+I0
+tp70
+a(I4200
+S'start_time     : 1499927891\nlast_update    : 1499932099\nfuzzer_pid     : 4871\ncycles_done    : 40\nexecs_done     : 5130984\nexecs_per_sec  : 1227.17\npaths_total    : 30\npaths_favored  : 7\npaths_found    : 29\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 10\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.19%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499928139\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/BitBlaster/input -o /dev/shm/work/BitBlaster/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/BitBlaster/BitBlaster.dict -- data/linux/processed-challenges/BitBlaster/bin/BitBlaster\n'
+p71
+I0
+tp72
+a(I4320
+S'start_time     : 1499927891\nlast_update    : 1499932219\nfuzzer_pid     : 4871\ncycles_done    : 41\nexecs_done     : 5278944\nexecs_per_sec  : 1203.16\npaths_total    : 30\npaths_favored  : 7\npaths_found    : 29\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 26\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.19%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499928139\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/BitBlaster/input -o /dev/shm/work/BitBlaster/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/BitBlaster/BitBlaster.dict -- data/linux/processed-challenges/BitBlaster/bin/BitBlaster\n'
+p73
+I0
+tp74
+a(I4440
+S'start_time     : 1499927891\nlast_update    : 1499932340\nfuzzer_pid     : 4871\ncycles_done    : 43\nexecs_done     : 5426720\nexecs_per_sec  : 1233.67\npaths_total    : 30\npaths_favored  : 7\npaths_found    : 29\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 6\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.19%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499928139\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/BitBlaster/input -o /dev/shm/work/BitBlaster/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/BitBlaster/BitBlaster.dict -- data/linux/processed-challenges/BitBlaster/bin/BitBlaster\n'
+p75
+I0
+tp76
+a(I4560
+S'start_time     : 1499927891\nlast_update    : 1499932460\nfuzzer_pid     : 4871\ncycles_done    : 44\nexecs_done     : 5575171\nexecs_per_sec  : 1226.83\npaths_total    : 30\npaths_favored  : 7\npaths_found    : 29\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 8\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.19%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499928139\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/BitBlaster/input -o /dev/shm/work/BitBlaster/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/BitBlaster/BitBlaster.dict -- data/linux/processed-challenges/BitBlaster/bin/BitBlaster\n'
+p77
+I0
+tp78
+a(I4680
+S'start_time     : 1499927891\nlast_update    : 1499932580\nfuzzer_pid     : 4871\ncycles_done    : 45\nexecs_done     : 5724471\nexecs_per_sec  : 1174.24\npaths_total    : 30\npaths_favored  : 7\npaths_found    : 29\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 26\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.19%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499928139\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/BitBlaster/input -o /dev/shm/work/BitBlaster/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/BitBlaster/BitBlaster.dict -- data/linux/processed-challenges/BitBlaster/bin/BitBlaster\n'
+p79
+I0
+tp80
+a(I4800
+S'start_time     : 1499927891\nlast_update    : 1499932700\nfuzzer_pid     : 4871\ncycles_done    : 47\nexecs_done     : 5871352\nexecs_per_sec  : 1242.57\npaths_total    : 30\npaths_favored  : 7\npaths_found    : 29\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 6\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.19%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499928139\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/BitBlaster/input -o /dev/shm/work/BitBlaster/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/BitBlaster/BitBlaster.dict -- data/linux/processed-challenges/BitBlaster/bin/BitBlaster\n'
+p81
+I0
+tp82
+a(I4920
+S'start_time     : 1499927891\nlast_update    : 1499932821\nfuzzer_pid     : 4871\ncycles_done    : 48\nexecs_done     : 6020080\nexecs_per_sec  : 1241.60\npaths_total    : 30\npaths_favored  : 7\npaths_found    : 29\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 8\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.19%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499928139\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/BitBlaster/input -o /dev/shm/work/BitBlaster/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/BitBlaster/BitBlaster.dict -- data/linux/processed-challenges/BitBlaster/bin/BitBlaster\n'
+p83
+I0
+tp84
+a(I5040
+S'start_time     : 1499927891\nlast_update    : 1499932941\nfuzzer_pid     : 4871\ncycles_done    : 49\nexecs_done     : 6167622\nexecs_per_sec  : 1254.22\npaths_total    : 30\npaths_favored  : 7\npaths_found    : 29\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 10\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.19%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499928139\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/BitBlaster/input -o /dev/shm/work/BitBlaster/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/BitBlaster/BitBlaster.dict -- data/linux/processed-challenges/BitBlaster/bin/BitBlaster\n'
+p85
+I0
+tp86
+a(I5160
+S'start_time     : 1499927891\nlast_update    : 1499933061\nfuzzer_pid     : 4871\ncycles_done    : 51\nexecs_done     : 6316008\nexecs_per_sec  : 1246.25\npaths_total    : 30\npaths_favored  : 7\npaths_found    : 29\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 5\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.19%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499928139\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/BitBlaster/input -o /dev/shm/work/BitBlaster/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/BitBlaster/BitBlaster.dict -- data/linux/processed-challenges/BitBlaster/bin/BitBlaster\n'
+p87
+I0
+tp88
+a(I5280
+S'start_time     : 1499927891\nlast_update    : 1499933181\nfuzzer_pid     : 4871\ncycles_done    : 52\nexecs_done     : 6464636\nexecs_per_sec  : 1223.99\npaths_total    : 30\npaths_favored  : 7\npaths_found    : 29\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 10\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.19%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499928139\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/BitBlaster/input -o /dev/shm/work/BitBlaster/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/BitBlaster/BitBlaster.dict -- data/linux/processed-challenges/BitBlaster/bin/BitBlaster\n'
+p89
+I0
+tp90
+a(I5400
+S'start_time     : 1499927891\nlast_update    : 1499933302\nfuzzer_pid     : 4871\ncycles_done    : 54\nexecs_done     : 6614122\nexecs_per_sec  : 1248.62\npaths_total    : 30\npaths_favored  : 7\npaths_found    : 29\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 6\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.19%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499928139\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/BitBlaster/input -o /dev/shm/work/BitBlaster/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/BitBlaster/BitBlaster.dict -- data/linux/processed-challenges/BitBlaster/bin/BitBlaster\n'
+p91
+I0
+tp92
+a(I5520
+S'start_time     : 1499927891\nlast_update    : 1499933422\nfuzzer_pid     : 4871\ncycles_done    : 55\nexecs_done     : 6762388\nexecs_per_sec  : 1228.04\npaths_total    : 30\npaths_favored  : 7\npaths_found    : 29\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 10\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.19%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499928139\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/BitBlaster/input -o /dev/shm/work/BitBlaster/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/BitBlaster/BitBlaster.dict -- data/linux/processed-challenges/BitBlaster/bin/BitBlaster\n'
+p93
+I0
+tp94
+a(I5640
+S'start_time     : 1499927891\nlast_update    : 1499933542\nfuzzer_pid     : 4871\ncycles_done    : 56\nexecs_done     : 6911056\nexecs_per_sec  : 1236.01\npaths_total    : 30\npaths_favored  : 7\npaths_found    : 29\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 26\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.19%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499928139\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/BitBlaster/input -o /dev/shm/work/BitBlaster/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/BitBlaster/BitBlaster.dict -- data/linux/processed-challenges/BitBlaster/bin/BitBlaster\n'
+p95
+I0
+tp96
+a(I5760
+S'start_time     : 1499927891\nlast_update    : 1499933662\nfuzzer_pid     : 4871\ncycles_done    : 58\nexecs_done     : 7059721\nexecs_per_sec  : 1225.87\npaths_total    : 30\npaths_favored  : 7\npaths_found    : 29\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 6\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.19%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499928139\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/BitBlaster/input -o /dev/shm/work/BitBlaster/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/BitBlaster/BitBlaster.dict -- data/linux/processed-challenges/BitBlaster/bin/BitBlaster\n'
+p97
+I0
+tp98
+a(I5880
+S'start_time     : 1499927891\nlast_update    : 1499933783\nfuzzer_pid     : 4871\ncycles_done    : 59\nexecs_done     : 7207869\nexecs_per_sec  : 1237.82\npaths_total    : 30\npaths_favored  : 7\npaths_found    : 29\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 10\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.19%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499928139\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/BitBlaster/input -o /dev/shm/work/BitBlaster/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/BitBlaster/BitBlaster.dict -- data/linux/processed-challenges/BitBlaster/bin/BitBlaster\n'
+p99
+I0
+tp100
+a(I6000
+S'start_time     : 1499927891\nlast_update    : 1499933903\nfuzzer_pid     : 4871\ncycles_done    : 61\nexecs_done     : 7355522\nexecs_per_sec  : 1270.08\npaths_total    : 30\npaths_favored  : 7\npaths_found    : 29\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 5\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.19%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499928139\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/BitBlaster/input -o /dev/shm/work/BitBlaster/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/BitBlaster/BitBlaster.dict -- data/linux/processed-challenges/BitBlaster/bin/BitBlaster\n'
+p101
+I0
+tp102
+a(I6120
+S'start_time     : 1499927891\nlast_update    : 1499934023\nfuzzer_pid     : 4871\ncycles_done    : 62\nexecs_done     : 7504561\nexecs_per_sec  : 1237.43\npaths_total    : 30\npaths_favored  : 7\npaths_found    : 29\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 8\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.19%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499928139\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/BitBlaster/input -o /dev/shm/work/BitBlaster/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/BitBlaster/BitBlaster.dict -- data/linux/processed-challenges/BitBlaster/bin/BitBlaster\n'
+p103
+I0
+tp104
+a(I6240
+S'start_time     : 1499927891\nlast_update    : 1499934143\nfuzzer_pid     : 4871\ncycles_done    : 63\nexecs_done     : 7653806\nexecs_per_sec  : 1233.70\npaths_total    : 30\npaths_favored  : 7\npaths_found    : 29\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 10\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.19%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499928139\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/BitBlaster/input -o /dev/shm/work/BitBlaster/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/BitBlaster/BitBlaster.dict -- data/linux/processed-challenges/BitBlaster/bin/BitBlaster\n'
+p105
+I0
+tp106
+a(I6360
+S'start_time     : 1499927891\nlast_update    : 1499934263\nfuzzer_pid     : 4871\ncycles_done    : 64\nexecs_done     : 7801847\nexecs_per_sec  : 1271.93\npaths_total    : 30\npaths_favored  : 7\npaths_found    : 29\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 29\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.19%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499928139\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/BitBlaster/input -o /dev/shm/work/BitBlaster/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/BitBlaster/BitBlaster.dict -- data/linux/processed-challenges/BitBlaster/bin/BitBlaster\n'
+p107
+I0
+tp108
+a(I6480
+S'start_time     : 1499927891\nlast_update    : 1499934384\nfuzzer_pid     : 4871\ncycles_done    : 66\nexecs_done     : 7950046\nexecs_per_sec  : 1220.32\npaths_total    : 30\npaths_favored  : 7\npaths_found    : 29\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 5\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.19%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499928139\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/BitBlaster/input -o /dev/shm/work/BitBlaster/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/BitBlaster/BitBlaster.dict -- data/linux/processed-challenges/BitBlaster/bin/BitBlaster\n'
+p109
+I0
+tp110
+a(I6600
+S'start_time     : 1499927891\nlast_update    : 1499934504\nfuzzer_pid     : 4871\ncycles_done    : 67\nexecs_done     : 8099546\nexecs_per_sec  : 1300.64\npaths_total    : 30\npaths_favored  : 7\npaths_found    : 29\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 8\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.19%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499928139\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/BitBlaster/input -o /dev/shm/work/BitBlaster/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/BitBlaster/BitBlaster.dict -- data/linux/processed-challenges/BitBlaster/bin/BitBlaster\n'
+p111
+I0
+tp112
+a(I6720
+S'start_time     : 1499927891\nlast_update    : 1499934624\nfuzzer_pid     : 4871\ncycles_done    : 68\nexecs_done     : 8248487\nexecs_per_sec  : 1227.22\npaths_total    : 30\npaths_favored  : 7\npaths_found    : 29\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 22\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.19%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499928139\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/BitBlaster/input -o /dev/shm/work/BitBlaster/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/BitBlaster/BitBlaster.dict -- data/linux/processed-challenges/BitBlaster/bin/BitBlaster\n'
+p113
+I0
+tp114
+a(I6840
+S'start_time     : 1499927891\nlast_update    : 1499934744\nfuzzer_pid     : 4871\ncycles_done    : 70\nexecs_done     : 8397747\nexecs_per_sec  : 1253.71\npaths_total    : 30\npaths_favored  : 7\npaths_found    : 29\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 5\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.19%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499928139\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/BitBlaster/input -o /dev/shm/work/BitBlaster/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/BitBlaster/BitBlaster.dict -- data/linux/processed-challenges/BitBlaster/bin/BitBlaster\n'
+p115
+I0
+tp116
+a(I6960
+S'start_time     : 1499927891\nlast_update    : 1499934864\nfuzzer_pid     : 4871\ncycles_done    : 71\nexecs_done     : 8546191\nexecs_per_sec  : 1234.86\npaths_total    : 30\npaths_favored  : 7\npaths_found    : 29\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 8\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.19%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499928139\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/BitBlaster/input -o /dev/shm/work/BitBlaster/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/BitBlaster/BitBlaster.dict -- data/linux/processed-challenges/BitBlaster/bin/BitBlaster\n'
+p117
+I0
+tp118
+a(I7080
+S'start_time     : 1499927891\nlast_update    : 1499934925\nfuzzer_pid     : 4871\ncycles_done    : 72\nexecs_done     : 8619747\nexecs_per_sec  : 1258.89\npaths_total    : 30\npaths_favored  : 7\npaths_found    : 29\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 6\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.19%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499928139\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/BitBlaster/input -o /dev/shm/work/BitBlaster/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/BitBlaster/BitBlaster.dict -- data/linux/processed-challenges/BitBlaster/bin/BitBlaster\n'
+p119
+I0
+tp120
+a(I7200
+S'start_time     : 1499927891\nlast_update    : 1499935045\nfuzzer_pid     : 4871\ncycles_done    : 73\nexecs_done     : 8768383\nexecs_per_sec  : 1217.28\npaths_total    : 30\npaths_favored  : 7\npaths_found    : 29\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 10\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.19%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499928139\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/BitBlaster/input -o /dev/shm/work/BitBlaster/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/BitBlaster/BitBlaster.dict -- data/linux/processed-challenges/BitBlaster/bin/BitBlaster\n'
+p121
+I0
+tp122
+a(I7320
+S'start_time     : 1499927891\nlast_update    : 1499935165\nfuzzer_pid     : 4871\ncycles_done    : 75\nexecs_done     : 8919172\nexecs_per_sec  : 1248.88\npaths_total    : 30\npaths_favored  : 7\npaths_found    : 29\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 6\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.19%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499928139\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/BitBlaster/input -o /dev/shm/work/BitBlaster/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/BitBlaster/BitBlaster.dict -- data/linux/processed-challenges/BitBlaster/bin/BitBlaster\n'
+p123
+I0
+tp124
+a(I7440
+S'start_time     : 1499927891\nlast_update    : 1499935285\nfuzzer_pid     : 4871\ncycles_done    : 76\nexecs_done     : 9067647\nexecs_per_sec  : 1257.53\npaths_total    : 30\npaths_favored  : 7\npaths_found    : 29\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 10\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.19%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499928139\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/BitBlaster/input -o /dev/shm/work/BitBlaster/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/BitBlaster/BitBlaster.dict -- data/linux/processed-challenges/BitBlaster/bin/BitBlaster\n'
+p125
+I0
+tp126
+a(I7560
+S'start_time     : 1499927891\nlast_update    : 1499935406\nfuzzer_pid     : 4871\ncycles_done    : 77\nexecs_done     : 9217878\nexecs_per_sec  : 1216.44\npaths_total    : 30\npaths_favored  : 7\npaths_found    : 29\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 24\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.19%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499928139\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/BitBlaster/input -o /dev/shm/work/BitBlaster/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/BitBlaster/BitBlaster.dict -- data/linux/processed-challenges/BitBlaster/bin/BitBlaster\n'
+p127
+I0
+tp128
+a(I7680
+S'start_time     : 1499927891\nlast_update    : 1499935526\nfuzzer_pid     : 4871\ncycles_done    : 79\nexecs_done     : 9368402\nexecs_per_sec  : 1242.78\npaths_total    : 30\npaths_favored  : 7\npaths_found    : 29\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 7\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.19%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499928139\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/BitBlaster/input -o /dev/shm/work/BitBlaster/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/BitBlaster/BitBlaster.dict -- data/linux/processed-challenges/BitBlaster/bin/BitBlaster\n'
+p129
+I0
+tp130
+a(I7800
+S'start_time     : 1499927891\nlast_update    : 1499935646\nfuzzer_pid     : 4871\ncycles_done    : 80\nexecs_done     : 9519421\nexecs_per_sec  : 1277.25\npaths_total    : 30\npaths_favored  : 7\npaths_found    : 29\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 10\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.19%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499928139\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/BitBlaster/input -o /dev/shm/work/BitBlaster/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/BitBlaster/BitBlaster.dict -- data/linux/processed-challenges/BitBlaster/bin/BitBlaster\n'
+p131
+I0
+tp132
+a(I7920
+S'start_time     : 1499927891\nlast_update    : 1499935766\nfuzzer_pid     : 4871\ncycles_done    : 81\nexecs_done     : 9667314\nexecs_per_sec  : 1237.00\npaths_total    : 30\npaths_favored  : 7\npaths_found    : 29\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 24\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.19%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499928139\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/BitBlaster/input -o /dev/shm/work/BitBlaster/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/BitBlaster/BitBlaster.dict -- data/linux/processed-challenges/BitBlaster/bin/BitBlaster\n'
+p133
+I0
+tp134
+a(I8040
+S'start_time     : 1499927891\nlast_update    : 1499935887\nfuzzer_pid     : 4871\ncycles_done    : 82\nexecs_done     : 9815494\nexecs_per_sec  : 1224.08\npaths_total    : 30\npaths_favored  : 7\npaths_found    : 29\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 26\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.19%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499928139\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/BitBlaster/input -o /dev/shm/work/BitBlaster/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/BitBlaster/BitBlaster.dict -- data/linux/processed-challenges/BitBlaster/bin/BitBlaster\n'
+p135
+I0
+tp136
+a(I8160
+S'start_time     : 1499927891\nlast_update    : 1499936007\nfuzzer_pid     : 4871\ncycles_done    : 84\nexecs_done     : 9963494\nexecs_per_sec  : 1207.58\npaths_total    : 30\npaths_favored  : 7\npaths_found    : 29\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 6\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.19%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499928139\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/BitBlaster/input -o /dev/shm/work/BitBlaster/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/BitBlaster/BitBlaster.dict -- data/linux/processed-challenges/BitBlaster/bin/BitBlaster\n'
+p137
+I0
+tp138
+a(I8280
+S'start_time     : 1499927891\nlast_update    : 1499936127\nfuzzer_pid     : 4871\ncycles_done    : 85\nexecs_done     : 10110734\nexecs_per_sec  : 1207.54\npaths_total    : 30\npaths_favored  : 7\npaths_found    : 29\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 6\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.19%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499928139\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/BitBlaster/input -o /dev/shm/work/BitBlaster/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/BitBlaster/BitBlaster.dict -- data/linux/processed-challenges/BitBlaster/bin/BitBlaster\n'
+p139
+I0
+tp140
+a(I8400
+S'start_time     : 1499927891\nlast_update    : 1499936247\nfuzzer_pid     : 4871\ncycles_done    : 86\nexecs_done     : 10259794\nexecs_per_sec  : 1236.92\npaths_total    : 30\npaths_favored  : 7\npaths_found    : 29\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 24\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.19%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499928139\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/BitBlaster/input -o /dev/shm/work/BitBlaster/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/BitBlaster/BitBlaster.dict -- data/linux/processed-challenges/BitBlaster/bin/BitBlaster\n'
+p141
+I0
+tp142
+a(I8520
+S'start_time     : 1499927891\nlast_update    : 1499936367\nfuzzer_pid     : 4871\ncycles_done    : 88\nexecs_done     : 10410806\nexecs_per_sec  : 1246.37\npaths_total    : 30\npaths_favored  : 7\npaths_found    : 29\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 2\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.19%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499928139\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/BitBlaster/input -o /dev/shm/work/BitBlaster/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/BitBlaster/BitBlaster.dict -- data/linux/processed-challenges/BitBlaster/bin/BitBlaster\n'
+p143
+I0
+tp144
+a(I8640
+S'start_time     : 1499927891\nlast_update    : 1499936488\nfuzzer_pid     : 4871\ncycles_done    : 89\nexecs_done     : 10560947\nexecs_per_sec  : 1283.58\npaths_total    : 30\npaths_favored  : 7\npaths_found    : 29\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 7\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.19%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499928139\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/BitBlaster/input -o /dev/shm/work/BitBlaster/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/BitBlaster/BitBlaster.dict -- data/linux/processed-challenges/BitBlaster/bin/BitBlaster\n'
+p145
+I0
+tp146
+a(I8760
+S'start_time     : 1499927891\nlast_update    : 1499936608\nfuzzer_pid     : 4871\ncycles_done    : 90\nexecs_done     : 10709402\nexecs_per_sec  : 1197.74\npaths_total    : 30\npaths_favored  : 7\npaths_found    : 29\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 15\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.19%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499928139\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/BitBlaster/input -o /dev/shm/work/BitBlaster/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/BitBlaster/BitBlaster.dict -- data/linux/processed-challenges/BitBlaster/bin/BitBlaster\n'
+p147
+I0
+tp148
+a(I8880
+S'start_time     : 1499927891\nlast_update    : 1499936728\nfuzzer_pid     : 4871\ncycles_done    : 92\nexecs_done     : 10860522\nexecs_per_sec  : 1283.68\npaths_total    : 30\npaths_favored  : 7\npaths_found    : 29\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 5\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.19%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499928139\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/BitBlaster/input -o /dev/shm/work/BitBlaster/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/BitBlaster/BitBlaster.dict -- data/linux/processed-challenges/BitBlaster/bin/BitBlaster\n'
+p149
+I0
+tp150
+a(I9000
+S'start_time     : 1499927891\nlast_update    : 1499936848\nfuzzer_pid     : 4871\ncycles_done    : 93\nexecs_done     : 11010097\nexecs_per_sec  : 1260.71\npaths_total    : 30\npaths_favored  : 7\npaths_found    : 29\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 10\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.19%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499928139\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/BitBlaster/input -o /dev/shm/work/BitBlaster/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/BitBlaster/BitBlaster.dict -- data/linux/processed-challenges/BitBlaster/bin/BitBlaster\n'
+p151
+I0
+tp152
+a(I9120
+S'start_time     : 1499927891\nlast_update    : 1499936969\nfuzzer_pid     : 4871\ncycles_done    : 95\nexecs_done     : 11159447\nexecs_per_sec  : 1299.60\npaths_total    : 30\npaths_favored  : 7\npaths_found    : 29\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 6\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.19%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499928139\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/BitBlaster/input -o /dev/shm/work/BitBlaster/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/BitBlaster/BitBlaster.dict -- data/linux/processed-challenges/BitBlaster/bin/BitBlaster\n'
+p153
+I0
+tp154
+a(I9240
+S'start_time     : 1499927891\nlast_update    : 1499937089\nfuzzer_pid     : 4871\ncycles_done    : 96\nexecs_done     : 11309138\nexecs_per_sec  : 1240.72\npaths_total    : 30\npaths_favored  : 7\npaths_found    : 29\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 6\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.19%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499928139\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/BitBlaster/input -o /dev/shm/work/BitBlaster/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/BitBlaster/BitBlaster.dict -- data/linux/processed-challenges/BitBlaster/bin/BitBlaster\n'
+p155
+I0
+tp156
+a(I9360
+S'start_time     : 1499927891\nlast_update    : 1499937209\nfuzzer_pid     : 4871\ncycles_done    : 97\nexecs_done     : 11458672\nexecs_per_sec  : 1254.78\npaths_total    : 30\npaths_favored  : 7\npaths_found    : 29\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 10\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.19%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499928139\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/BitBlaster/input -o /dev/shm/work/BitBlaster/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/BitBlaster/BitBlaster.dict -- data/linux/processed-challenges/BitBlaster/bin/BitBlaster\n'
+p157
+I0
+tp158
+a(I9480
+S'start_time     : 1499927891\nlast_update    : 1499937329\nfuzzer_pid     : 4871\ncycles_done    : 98\nexecs_done     : 11609597\nexecs_per_sec  : 1280.94\npaths_total    : 30\npaths_favored  : 7\npaths_found    : 29\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 26\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.19%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499928139\nlast_crash     : 0\nlast_hang      : 1499937312\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/BitBlaster/input -o /dev/shm/work/BitBlaster/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/BitBlaster/BitBlaster.dict -- data/linux/processed-challenges/BitBlaster/bin/BitBlaster\n'
+p159
+I0
+tp160
+a(I9600
+S'start_time     : 1499927891\nlast_update    : 1499937449\nfuzzer_pid     : 4871\ncycles_done    : 100\nexecs_done     : 11759822\nexecs_per_sec  : 1258.01\npaths_total    : 30\npaths_favored  : 7\npaths_found    : 29\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 7\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.19%\nunique_crashes : 0\nunique_hangs   : 6\nlast_path      : 1499928139\nlast_crash     : 0\nlast_hang      : 1499937415\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/BitBlaster/input -o /dev/shm/work/BitBlaster/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/BitBlaster/BitBlaster.dict -- data/linux/processed-challenges/BitBlaster/bin/BitBlaster\n'
+p161
+I0
+tp162
+a(I9720
+S'start_time     : 1499927891\nlast_update    : 1499937570\nfuzzer_pid     : 4871\ncycles_done    : 101\nexecs_done     : 11911370\nexecs_per_sec  : 1225.23\npaths_total    : 30\npaths_favored  : 7\npaths_found    : 29\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 26\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.19%\nunique_crashes : 0\nunique_hangs   : 7\nlast_path      : 1499928139\nlast_crash     : 0\nlast_hang      : 1499937464\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/BitBlaster/input -o /dev/shm/work/BitBlaster/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/BitBlaster/BitBlaster.dict -- data/linux/processed-challenges/BitBlaster/bin/BitBlaster\n'
+p163
+I0
+tp164
+a(I9840
+S'start_time     : 1499927891\nlast_update    : 1499937690\nfuzzer_pid     : 4871\ncycles_done    : 103\nexecs_done     : 12060470\nexecs_per_sec  : 1211.55\npaths_total    : 30\npaths_favored  : 7\npaths_found    : 29\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 7\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.19%\nunique_crashes : 0\nunique_hangs   : 7\nlast_path      : 1499928139\nlast_crash     : 0\nlast_hang      : 1499937464\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/BitBlaster/input -o /dev/shm/work/BitBlaster/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/BitBlaster/BitBlaster.dict -- data/linux/processed-challenges/BitBlaster/bin/BitBlaster\n'
+p165
+I0
+tp166
+a(I9960
+S'start_time     : 1499927891\nlast_update    : 1499937810\nfuzzer_pid     : 4871\ncycles_done    : 104\nexecs_done     : 12212330\nexecs_per_sec  : 1239.74\npaths_total    : 30\npaths_favored  : 7\npaths_found    : 29\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 12\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.19%\nunique_crashes : 0\nunique_hangs   : 8\nlast_path      : 1499928139\nlast_crash     : 0\nlast_hang      : 1499937767\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/BitBlaster/input -o /dev/shm/work/BitBlaster/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/BitBlaster/BitBlaster.dict -- data/linux/processed-challenges/BitBlaster/bin/BitBlaster\n'
+p167
+I0
+tp168
+a(I10080
+S'start_time     : 1499927891\nlast_update    : 1499937930\nfuzzer_pid     : 4871\ncycles_done    : 105\nexecs_done     : 12363247\nexecs_per_sec  : 1256.32\npaths_total    : 30\npaths_favored  : 7\npaths_found    : 29\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 24\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.19%\nunique_crashes : 0\nunique_hangs   : 8\nlast_path      : 1499928139\nlast_crash     : 0\nlast_hang      : 1499937767\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/BitBlaster/input -o /dev/shm/work/BitBlaster/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/BitBlaster/BitBlaster.dict -- data/linux/processed-challenges/BitBlaster/bin/BitBlaster\n'
+p169
+I0
+tp170
+a(I10200
+S'start_time     : 1499927891\nlast_update    : 1499938050\nfuzzer_pid     : 4871\ncycles_done    : 107\nexecs_done     : 12516444\nexecs_per_sec  : 1300.24\npaths_total    : 30\npaths_favored  : 7\npaths_found    : 29\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 7\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.19%\nunique_crashes : 0\nunique_hangs   : 8\nlast_path      : 1499928139\nlast_crash     : 0\nlast_hang      : 1499937767\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/BitBlaster/input -o /dev/shm/work/BitBlaster/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/BitBlaster/BitBlaster.dict -- data/linux/processed-challenges/BitBlaster/bin/BitBlaster\n'
+p171
+I0
+tp172
+a(I10320
+S'start_time     : 1499927891\nlast_update    : 1499938171\nfuzzer_pid     : 4871\ncycles_done    : 108\nexecs_done     : 12667122\nexecs_per_sec  : 1239.74\npaths_total    : 30\npaths_favored  : 7\npaths_found    : 29\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 26\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.19%\nunique_crashes : 0\nunique_hangs   : 8\nlast_path      : 1499928139\nlast_crash     : 0\nlast_hang      : 1499937767\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/BitBlaster/input -o /dev/shm/work/BitBlaster/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/BitBlaster/BitBlaster.dict -- data/linux/processed-challenges/BitBlaster/bin/BitBlaster\n'
+p173
+I0
+tp174
+a(I10440
+S'start_time     : 1499927891\nlast_update    : 1499938291\nfuzzer_pid     : 4871\ncycles_done    : 110\nexecs_done     : 12819122\nexecs_per_sec  : 1260.64\npaths_total    : 30\npaths_favored  : 7\npaths_found    : 29\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 6\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.19%\nunique_crashes : 0\nunique_hangs   : 9\nlast_path      : 1499928139\nlast_crash     : 0\nlast_hang      : 1499938264\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/BitBlaster/input -o /dev/shm/work/BitBlaster/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/BitBlaster/BitBlaster.dict -- data/linux/processed-challenges/BitBlaster/bin/BitBlaster\n'
+p175
+I0
+tp176
+a(I10560
+S'start_time     : 1499927891\nlast_update    : 1499938411\nfuzzer_pid     : 4871\ncycles_done    : 111\nexecs_done     : 12970849\nexecs_per_sec  : 1302.62\npaths_total    : 30\npaths_favored  : 7\npaths_found    : 29\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 24\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.19%\nunique_crashes : 0\nunique_hangs   : 9\nlast_path      : 1499928139\nlast_crash     : 0\nlast_hang      : 1499938264\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/BitBlaster/input -o /dev/shm/work/BitBlaster/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/BitBlaster/BitBlaster.dict -- data/linux/processed-challenges/BitBlaster/bin/BitBlaster\n'
+p177
+I0
+tp178
+a(I10680
+S'start_time     : 1499927891\nlast_update    : 1499938531\nfuzzer_pid     : 4871\ncycles_done    : 113\nexecs_done     : 13123208\nexecs_per_sec  : 1321.32\npaths_total    : 30\npaths_favored  : 7\npaths_found    : 29\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 5\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.19%\nunique_crashes : 0\nunique_hangs   : 9\nlast_path      : 1499928139\nlast_crash     : 0\nlast_hang      : 1499938264\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/BitBlaster/input -o /dev/shm/work/BitBlaster/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/BitBlaster/BitBlaster.dict -- data/linux/processed-challenges/BitBlaster/bin/BitBlaster\n'
+p179
+I0
+tp180
+a.

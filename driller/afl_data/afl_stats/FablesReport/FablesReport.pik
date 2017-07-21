@@ -1,0 +1,452 @@
+(lp0
+(I0
+S'start_time     : 1499808914\nlast_update    : 1499808914\nfuzzer_pid     : 19144\ncycles_done    : 0\nexecs_done     : 10\nexecs_per_sec  : 227.27\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 1\npending_total  : 1\nvariable_paths : 0\nbitmap_cvg     : 0.06%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FablesReport/input -o /dev/shm/work/FablesReport/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FablesReport/FablesReport.dict -- data/linux/processed-challenges/FablesReport/bin/FablesReport\n'
+p1
+I20
+tp2
+a(I120
+S'start_time     : 1499808914\nlast_update    : 1499809034\nfuzzer_pid     : 19144\ncycles_done    : 0\nexecs_done     : 215584\nexecs_per_sec  : 1700.07\npaths_total    : 59\npaths_favored  : 12\npaths_found    : 58\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 22\npending_favs   : 8\npending_total  : 54\nvariable_paths : 0\nbitmap_cvg     : 0.31%\nunique_crashes : 2\nunique_hangs   : 0\nlast_path      : 1499809034\nlast_crash     : 1499809018\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FablesReport/input -o /dev/shm/work/FablesReport/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FablesReport/FablesReport.dict -- data/linux/processed-challenges/FablesReport/bin/FablesReport\n'
+p3
+I42
+tp4
+a(I240
+S'start_time     : 1499808914\nlast_update    : 1499809154\nfuzzer_pid     : 19144\ncycles_done    : 0\nexecs_done     : 411169\nexecs_per_sec  : 1528.51\npaths_total    : 102\npaths_favored  : 19\npaths_found    : 101\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 34\npending_favs   : 16\npending_total  : 96\nvariable_paths : 0\nbitmap_cvg     : 0.51%\nunique_crashes : 2\nunique_hangs   : 0\nlast_path      : 1499809152\nlast_crash     : 1499809018\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FablesReport/input -o /dev/shm/work/FablesReport/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FablesReport/FablesReport.dict -- data/linux/processed-challenges/FablesReport/bin/FablesReport\n'
+p5
+I41
+tp6
+a(I360
+S'start_time     : 1499808914\nlast_update    : 1499809274\nfuzzer_pid     : 19144\ncycles_done    : 0\nexecs_done     : 577069\nexecs_per_sec  : 1166.96\npaths_total    : 111\npaths_favored  : 27\npaths_found    : 110\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 56\npending_favs   : 20\npending_total  : 98\nvariable_paths : 0\nbitmap_cvg     : 0.52%\nunique_crashes : 3\nunique_hangs   : 0\nlast_path      : 1499809262\nlast_crash     : 1499809207\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FablesReport/input -o /dev/shm/work/FablesReport/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FablesReport/FablesReport.dict -- data/linux/processed-challenges/FablesReport/bin/FablesReport\n'
+p7
+I8
+tp8
+a(I480
+S'start_time     : 1499808914\nlast_update    : 1499809395\nfuzzer_pid     : 19144\ncycles_done    : 0\nexecs_done     : 756084\nexecs_per_sec  : 1531.59\npaths_total    : 140\npaths_favored  : 27\npaths_found    : 139\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 79\npending_favs   : 17\npending_total  : 122\nvariable_paths : 0\nbitmap_cvg     : 0.55%\nunique_crashes : 3\nunique_hangs   : 0\nlast_path      : 1499809367\nlast_crash     : 1499809207\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FablesReport/input -o /dev/shm/work/FablesReport/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FablesReport/FablesReport.dict -- data/linux/processed-challenges/FablesReport/bin/FablesReport\n'
+p9
+I29
+tp10
+a(I600
+S'start_time     : 1499808914\nlast_update    : 1499809515\nfuzzer_pid     : 19144\ncycles_done    : 0\nexecs_done     : 917305\nexecs_per_sec  : 756.29\npaths_total    : 145\npaths_favored  : 39\npaths_found    : 144\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 108\npending_favs   : 24\npending_total  : 118\nvariable_paths : 0\nbitmap_cvg     : 0.57%\nunique_crashes : 3\nunique_hangs   : 0\nlast_path      : 1499809501\nlast_crash     : 1499809207\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FablesReport/input -o /dev/shm/work/FablesReport/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FablesReport/FablesReport.dict -- data/linux/processed-challenges/FablesReport/bin/FablesReport\n'
+p11
+I5
+tp12
+a(I720
+S'start_time     : 1499808914\nlast_update    : 1499809635\nfuzzer_pid     : 19144\ncycles_done    : 0\nexecs_done     : 1062488\nexecs_per_sec  : 1542.61\npaths_total    : 155\npaths_favored  : 40\npaths_found    : 154\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 112\npending_favs   : 23\npending_total  : 125\nvariable_paths : 0\nbitmap_cvg     : 0.57%\nunique_crashes : 4\nunique_hangs   : 0\nlast_path      : 1499809620\nlast_crash     : 1499809573\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FablesReport/input -o /dev/shm/work/FablesReport/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FablesReport/FablesReport.dict -- data/linux/processed-challenges/FablesReport/bin/FablesReport\n'
+p13
+I11
+tp14
+a(I840
+S'start_time     : 1499808914\nlast_update    : 1499809755\nfuzzer_pid     : 19144\ncycles_done    : 0\nexecs_done     : 1244959\nexecs_per_sec  : 1609.36\npaths_total    : 162\npaths_favored  : 40\npaths_found    : 161\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 114\npending_favs   : 22\npending_total  : 131\nvariable_paths : 0\nbitmap_cvg     : 0.57%\nunique_crashes : 4\nunique_hangs   : 0\nlast_path      : 1499809707\nlast_crash     : 1499809573\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FablesReport/input -o /dev/shm/work/FablesReport/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FablesReport/FablesReport.dict -- data/linux/processed-challenges/FablesReport/bin/FablesReport\n'
+p15
+I6
+tp16
+a(I960
+S'start_time     : 1499808914\nlast_update    : 1499809876\nfuzzer_pid     : 19144\ncycles_done    : 0\nexecs_done     : 1429216\nexecs_per_sec  : 1419.73\npaths_total    : 166\npaths_favored  : 39\npaths_found    : 165\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 132\npending_favs   : 16\npending_total  : 128\nvariable_paths : 0\nbitmap_cvg     : 0.57%\nunique_crashes : 4\nunique_hangs   : 0\nlast_path      : 1499809825\nlast_crash     : 1499809573\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FablesReport/input -o /dev/shm/work/FablesReport/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FablesReport/FablesReport.dict -- data/linux/processed-challenges/FablesReport/bin/FablesReport\n'
+p17
+I4
+tp18
+a(I1080
+S'start_time     : 1499808914\nlast_update    : 1499809996\nfuzzer_pid     : 19144\ncycles_done    : 0\nexecs_done     : 1604681\nexecs_per_sec  : 1356.10\npaths_total    : 168\npaths_favored  : 38\npaths_found    : 167\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 142\npending_favs   : 10\npending_total  : 124\nvariable_paths : 0\nbitmap_cvg     : 0.57%\nunique_crashes : 5\nunique_hangs   : 0\nlast_path      : 1499809993\nlast_crash     : 1499809945\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FablesReport/input -o /dev/shm/work/FablesReport/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FablesReport/FablesReport.dict -- data/linux/processed-challenges/FablesReport/bin/FablesReport\n'
+p19
+I2
+tp20
+a(I1200
+S'start_time     : 1499808914\nlast_update    : 1499810116\nfuzzer_pid     : 19144\ncycles_done    : 0\nexecs_done     : 1760585\nexecs_per_sec  : 1448.44\npaths_total    : 174\npaths_favored  : 38\npaths_found    : 173\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 156\npending_favs   : 8\npending_total  : 126\nvariable_paths : 0\nbitmap_cvg     : 0.57%\nunique_crashes : 5\nunique_hangs   : 0\nlast_path      : 1499810115\nlast_crash     : 1499809945\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FablesReport/input -o /dev/shm/work/FablesReport/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FablesReport/FablesReport.dict -- data/linux/processed-challenges/FablesReport/bin/FablesReport\n'
+p21
+I6
+tp22
+a(I1320
+S'start_time     : 1499808914\nlast_update    : 1499810236\nfuzzer_pid     : 19144\ncycles_done    : 0\nexecs_done     : 1933890\nexecs_per_sec  : 1342.93\npaths_total    : 181\npaths_favored  : 39\npaths_found    : 180\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 167\npending_favs   : 5\npending_total  : 128\nvariable_paths : 0\nbitmap_cvg     : 0.59%\nunique_crashes : 6\nunique_hangs   : 0\nlast_path      : 1499810215\nlast_crash     : 1499810226\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FablesReport/input -o /dev/shm/work/FablesReport/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FablesReport/FablesReport.dict -- data/linux/processed-challenges/FablesReport/bin/FablesReport\n'
+p23
+I8
+tp24
+a(I1440
+S'start_time     : 1499808914\nlast_update    : 1499810356\nfuzzer_pid     : 19144\ncycles_done    : 0\nexecs_done     : 2122026\nexecs_per_sec  : 1552.83\npaths_total    : 189\npaths_favored  : 43\npaths_found    : 188\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 176\npending_favs   : 7\npending_total  : 133\nvariable_paths : 0\nbitmap_cvg     : 0.61%\nunique_crashes : 6\nunique_hangs   : 0\nlast_path      : 1499810318\nlast_crash     : 1499810226\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FablesReport/input -o /dev/shm/work/FablesReport/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FablesReport/FablesReport.dict -- data/linux/processed-challenges/FablesReport/bin/FablesReport\n'
+p25
+I7
+tp26
+a(I1560
+S'start_time     : 1499808914\nlast_update    : 1499810477\nfuzzer_pid     : 19144\ncycles_done    : 0\nexecs_done     : 2299721\nexecs_per_sec  : 1556.48\npaths_total    : 194\npaths_favored  : 42\npaths_found    : 193\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 190\npending_favs   : 3\npending_total  : 133\nvariable_paths : 0\nbitmap_cvg     : 0.62%\nunique_crashes : 6\nunique_hangs   : 0\nlast_path      : 1499810464\nlast_crash     : 1499810226\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FablesReport/input -o /dev/shm/work/FablesReport/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FablesReport/FablesReport.dict -- data/linux/processed-challenges/FablesReport/bin/FablesReport\n'
+p27
+I6
+tp28
+a(I1680
+S'start_time     : 1499808914\nlast_update    : 1499810597\nfuzzer_pid     : 19144\ncycles_done    : 0\nexecs_done     : 2488205\nexecs_per_sec  : 1558.22\npaths_total    : 218\npaths_favored  : 43\npaths_found    : 217\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 195\npending_favs   : 6\npending_total  : 155\nvariable_paths : 0\nbitmap_cvg     : 0.67%\nunique_crashes : 6\nunique_hangs   : 0\nlast_path      : 1499810595\nlast_crash     : 1499810226\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FablesReport/input -o /dev/shm/work/FablesReport/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FablesReport/FablesReport.dict -- data/linux/processed-challenges/FablesReport/bin/FablesReport\n'
+p29
+I24
+tp30
+a(I1800
+S'start_time     : 1499808914\nlast_update    : 1499810717\nfuzzer_pid     : 19144\ncycles_done    : 0\nexecs_done     : 2665913\nexecs_per_sec  : 1556.96\npaths_total    : 232\npaths_favored  : 56\npaths_found    : 231\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 197\npending_favs   : 20\npending_total  : 168\nvariable_paths : 0\nbitmap_cvg     : 0.69%\nunique_crashes : 7\nunique_hangs   : 0\nlast_path      : 1499810711\nlast_crash     : 1499810640\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FablesReport/input -o /dev/shm/work/FablesReport/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FablesReport/FablesReport.dict -- data/linux/processed-challenges/FablesReport/bin/FablesReport\n'
+p31
+I13
+tp32
+a(I1920
+S'start_time     : 1499808914\nlast_update    : 1499810837\nfuzzer_pid     : 19144\ncycles_done    : 0\nexecs_done     : 2846797\nexecs_per_sec  : 1358.89\npaths_total    : 236\npaths_favored  : 57\npaths_found    : 235\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 205\npending_favs   : 16\npending_total  : 167\nvariable_paths : 0\nbitmap_cvg     : 0.69%\nunique_crashes : 8\nunique_hangs   : 0\nlast_path      : 1499810834\nlast_crash     : 1499810721\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FablesReport/input -o /dev/shm/work/FablesReport/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FablesReport/FablesReport.dict -- data/linux/processed-challenges/FablesReport/bin/FablesReport\n'
+p33
+I4
+tp34
+a(I2040
+S'start_time     : 1499808914\nlast_update    : 1499810957\nfuzzer_pid     : 19144\ncycles_done    : 0\nexecs_done     : 3025426\nexecs_per_sec  : 1483.95\npaths_total    : 238\npaths_favored  : 55\npaths_found    : 237\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 220\npending_favs   : 13\npending_total  : 166\nvariable_paths : 0\nbitmap_cvg     : 0.69%\nunique_crashes : 9\nunique_hangs   : 0\nlast_path      : 1499810932\nlast_crash     : 1499810939\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FablesReport/input -o /dev/shm/work/FablesReport/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FablesReport/FablesReport.dict -- data/linux/processed-challenges/FablesReport/bin/FablesReport\n'
+p35
+I2
+tp36
+a(I2160
+S'start_time     : 1499808914\nlast_update    : 1499811077\nfuzzer_pid     : 19144\ncycles_done    : 0\nexecs_done     : 3193905\nexecs_per_sec  : 1382.71\npaths_total    : 240\npaths_favored  : 55\npaths_found    : 239\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 226\npending_favs   : 9\npending_total  : 164\nvariable_paths : 0\nbitmap_cvg     : 0.69%\nunique_crashes : 9\nunique_hangs   : 0\nlast_path      : 1499810990\nlast_crash     : 1499810939\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FablesReport/input -o /dev/shm/work/FablesReport/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FablesReport/FablesReport.dict -- data/linux/processed-challenges/FablesReport/bin/FablesReport\n'
+p37
+I2
+tp38
+a(I2280
+S'start_time     : 1499808914\nlast_update    : 1499811197\nfuzzer_pid     : 19144\ncycles_done    : 0\nexecs_done     : 3359775\nexecs_per_sec  : 1484.45\npaths_total    : 241\npaths_favored  : 55\npaths_found    : 240\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 229\npending_favs   : 6\npending_total  : 162\nvariable_paths : 0\nbitmap_cvg     : 0.69%\nunique_crashes : 9\nunique_hangs   : 0\nlast_path      : 1499811145\nlast_crash     : 1499810939\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FablesReport/input -o /dev/shm/work/FablesReport/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FablesReport/FablesReport.dict -- data/linux/processed-challenges/FablesReport/bin/FablesReport\n'
+p39
+I1
+tp40
+a(I2400
+S'start_time     : 1499808914\nlast_update    : 1499811318\nfuzzer_pid     : 19144\ncycles_done    : 1\nexecs_done     : 3528362\nexecs_per_sec  : 1459.00\npaths_total    : 241\npaths_favored  : 55\npaths_found    : 240\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 47\npending_favs   : 1\npending_total  : 157\nvariable_paths : 0\nbitmap_cvg     : 0.69%\nunique_crashes : 10\nunique_hangs   : 0\nlast_path      : 1499811145\nlast_crash     : 1499811200\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FablesReport/input -o /dev/shm/work/FablesReport/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FablesReport/FablesReport.dict -- data/linux/processed-challenges/FablesReport/bin/FablesReport\n'
+p41
+I0
+tp42
+a(I2520
+S'start_time     : 1499808914\nlast_update    : 1499811438\nfuzzer_pid     : 19144\ncycles_done    : 1\nexecs_done     : 3690109\nexecs_per_sec  : 755.92\npaths_total    : 247\npaths_favored  : 55\npaths_found    : 246\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 110\npending_favs   : 1\npending_total  : 157\nvariable_paths : 0\nbitmap_cvg     : 0.69%\nunique_crashes : 10\nunique_hangs   : 0\nlast_path      : 1499811437\nlast_crash     : 1499811200\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FablesReport/input -o /dev/shm/work/FablesReport/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FablesReport/FablesReport.dict -- data/linux/processed-challenges/FablesReport/bin/FablesReport\n'
+p43
+I6
+tp44
+a(I2640
+S'start_time     : 1499808914\nlast_update    : 1499811558\nfuzzer_pid     : 19144\ncycles_done    : 1\nexecs_done     : 3795774\nexecs_per_sec  : 878.43\npaths_total    : 249\npaths_favored  : 55\npaths_found    : 248\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 110\npending_favs   : 1\npending_total  : 159\nvariable_paths : 0\nbitmap_cvg     : 0.69%\nunique_crashes : 10\nunique_hangs   : 0\nlast_path      : 1499811458\nlast_crash     : 1499811200\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FablesReport/input -o /dev/shm/work/FablesReport/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FablesReport/FablesReport.dict -- data/linux/processed-challenges/FablesReport/bin/FablesReport\n'
+p45
+I2
+tp46
+a(I2760
+S'start_time     : 1499808914\nlast_update    : 1499811679\nfuzzer_pid     : 19144\ncycles_done    : 1\nexecs_done     : 3915346\nexecs_per_sec  : 950.57\npaths_total    : 262\npaths_favored  : 55\npaths_found    : 261\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 241\npending_favs   : 2\npending_total  : 170\nvariable_paths : 0\nbitmap_cvg     : 0.69%\nunique_crashes : 10\nunique_hangs   : 0\nlast_path      : 1499811678\nlast_crash     : 1499811200\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FablesReport/input -o /dev/shm/work/FablesReport/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FablesReport/FablesReport.dict -- data/linux/processed-challenges/FablesReport/bin/FablesReport\n'
+p47
+I13
+tp48
+a(I2880
+S'start_time     : 1499808914\nlast_update    : 1499811799\nfuzzer_pid     : 19144\ncycles_done    : 1\nexecs_done     : 4002994\nexecs_per_sec  : 375.06\npaths_total    : 263\npaths_favored  : 55\npaths_found    : 262\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 247\npending_favs   : 1\npending_total  : 170\nvariable_paths : 0\nbitmap_cvg     : 0.69%\nunique_crashes : 10\nunique_hangs   : 0\nlast_path      : 1499811715\nlast_crash     : 1499811200\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FablesReport/input -o /dev/shm/work/FablesReport/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FablesReport/FablesReport.dict -- data/linux/processed-challenges/FablesReport/bin/FablesReport\n'
+p49
+I1
+tp50
+a(I3000
+S'start_time     : 1499808914\nlast_update    : 1499811919\nfuzzer_pid     : 19144\ncycles_done    : 1\nexecs_done     : 4051006\nexecs_per_sec  : 428.65\npaths_total    : 266\npaths_favored  : 55\npaths_found    : 265\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 247\npending_favs   : 1\npending_total  : 173\nvariable_paths : 0\nbitmap_cvg     : 0.69%\nunique_crashes : 10\nunique_hangs   : 0\nlast_path      : 1499811888\nlast_crash     : 1499811200\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FablesReport/input -o /dev/shm/work/FablesReport/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FablesReport/FablesReport.dict -- data/linux/processed-challenges/FablesReport/bin/FablesReport\n'
+p51
+I3
+tp52
+a(I3120
+S'start_time     : 1499808914\nlast_update    : 1499812039\nfuzzer_pid     : 19144\ncycles_done    : 1\nexecs_done     : 4102590\nexecs_per_sec  : 437.75\npaths_total    : 266\npaths_favored  : 55\npaths_found    : 265\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 247\npending_favs   : 1\npending_total  : 173\nvariable_paths : 0\nbitmap_cvg     : 0.69%\nunique_crashes : 10\nunique_hangs   : 0\nlast_path      : 1499811888\nlast_crash     : 1499811200\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FablesReport/input -o /dev/shm/work/FablesReport/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FablesReport/FablesReport.dict -- data/linux/processed-challenges/FablesReport/bin/FablesReport\n'
+p53
+I0
+tp54
+a(I3240
+S'start_time     : 1499808914\nlast_update    : 1499812159\nfuzzer_pid     : 19144\ncycles_done    : 1\nexecs_done     : 4266241\nexecs_per_sec  : 1554.72\npaths_total    : 271\npaths_favored  : 55\npaths_found    : 270\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 249\npending_favs   : 0\npending_total  : 177\nvariable_paths : 0\nbitmap_cvg     : 0.69%\nunique_crashes : 10\nunique_hangs   : 0\nlast_path      : 1499812081\nlast_crash     : 1499811200\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FablesReport/input -o /dev/shm/work/FablesReport/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FablesReport/FablesReport.dict -- data/linux/processed-challenges/FablesReport/bin/FablesReport\n'
+p55
+I5
+tp56
+a(I3360
+S'start_time     : 1499808914\nlast_update    : 1499812279\nfuzzer_pid     : 19144\ncycles_done    : 1\nexecs_done     : 4372089\nexecs_per_sec  : 923.43\npaths_total    : 273\npaths_favored  : 55\npaths_found    : 272\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 253\npending_favs   : 0\npending_total  : 178\nvariable_paths : 0\nbitmap_cvg     : 0.69%\nunique_crashes : 10\nunique_hangs   : 0\nlast_path      : 1499812279\nlast_crash     : 1499811200\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FablesReport/input -o /dev/shm/work/FablesReport/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FablesReport/FablesReport.dict -- data/linux/processed-challenges/FablesReport/bin/FablesReport\n'
+p57
+I2
+tp58
+a(I3480
+S'start_time     : 1499808914\nlast_update    : 1499812400\nfuzzer_pid     : 19144\ncycles_done    : 1\nexecs_done     : 4467641\nexecs_per_sec  : 667.06\npaths_total    : 273\npaths_favored  : 55\npaths_found    : 272\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 259\npending_favs   : 0\npending_total  : 177\nvariable_paths : 0\nbitmap_cvg     : 0.69%\nunique_crashes : 10\nunique_hangs   : 1\nlast_path      : 1499812279\nlast_crash     : 1499811200\nlast_hang      : 1499812363\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FablesReport/input -o /dev/shm/work/FablesReport/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FablesReport/FablesReport.dict -- data/linux/processed-challenges/FablesReport/bin/FablesReport\n'
+p59
+I0
+tp60
+a(I3600
+S'start_time     : 1499808914\nlast_update    : 1499812520\nfuzzer_pid     : 19144\ncycles_done    : 1\nexecs_done     : 4525619\nexecs_per_sec  : 369.30\npaths_total    : 273\npaths_favored  : 55\npaths_found    : 272\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 264\npending_favs   : 0\npending_total  : 176\nvariable_paths : 0\nbitmap_cvg     : 0.69%\nunique_crashes : 12\nunique_hangs   : 2\nlast_path      : 1499812279\nlast_crash     : 1499812426\nlast_hang      : 1499812466\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FablesReport/input -o /dev/shm/work/FablesReport/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FablesReport/FablesReport.dict -- data/linux/processed-challenges/FablesReport/bin/FablesReport\n'
+p61
+I0
+tp62
+a(I3720
+S'start_time     : 1499808914\nlast_update    : 1499812640\nfuzzer_pid     : 19144\ncycles_done    : 1\nexecs_done     : 4571592\nexecs_per_sec  : 379.79\npaths_total    : 274\npaths_favored  : 55\npaths_found    : 273\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 264\npending_favs   : 0\npending_total  : 177\nvariable_paths : 0\nbitmap_cvg     : 0.69%\nunique_crashes : 12\nunique_hangs   : 2\nlast_path      : 1499812537\nlast_crash     : 1499812426\nlast_hang      : 1499812466\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FablesReport/input -o /dev/shm/work/FablesReport/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FablesReport/FablesReport.dict -- data/linux/processed-challenges/FablesReport/bin/FablesReport\n'
+p63
+I1
+tp64
+a(I3840
+S'start_time     : 1499808914\nlast_update    : 1499812760\nfuzzer_pid     : 19144\ncycles_done    : 1\nexecs_done     : 4681608\nexecs_per_sec  : 1162.72\npaths_total    : 277\npaths_favored  : 55\npaths_found    : 276\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 270\npending_favs   : 0\npending_total  : 178\nvariable_paths : 0\nbitmap_cvg     : 0.69%\nunique_crashes : 13\nunique_hangs   : 4\nlast_path      : 1499812760\nlast_crash     : 1499812759\nlast_hang      : 1499812742\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FablesReport/input -o /dev/shm/work/FablesReport/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FablesReport/FablesReport.dict -- data/linux/processed-challenges/FablesReport/bin/FablesReport\n'
+p65
+I4
+tp66
+a(I3960
+S'start_time     : 1499808914\nlast_update    : 1499812880\nfuzzer_pid     : 19144\ncycles_done    : 1\nexecs_done     : 4840664\nexecs_per_sec  : 1293.85\npaths_total    : 279\npaths_favored  : 55\npaths_found    : 278\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 271\npending_favs   : 0\npending_total  : 179\nvariable_paths : 0\nbitmap_cvg     : 0.69%\nunique_crashes : 16\nunique_hangs   : 4\nlast_path      : 1499812771\nlast_crash     : 1499812837\nlast_hang      : 1499812742\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FablesReport/input -o /dev/shm/work/FablesReport/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FablesReport/FablesReport.dict -- data/linux/processed-challenges/FablesReport/bin/FablesReport\n'
+p67
+I1
+tp68
+a(I4080
+S'start_time     : 1499808914\nlast_update    : 1499813001\nfuzzer_pid     : 19144\ncycles_done    : 1\nexecs_done     : 4910201\nexecs_per_sec  : 576.93\npaths_total    : 279\npaths_favored  : 55\npaths_found    : 278\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 271\npending_favs   : 0\npending_total  : 179\nvariable_paths : 0\nbitmap_cvg     : 0.69%\nunique_crashes : 16\nunique_hangs   : 4\nlast_path      : 1499812771\nlast_crash     : 1499812837\nlast_hang      : 1499812742\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FablesReport/input -o /dev/shm/work/FablesReport/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FablesReport/FablesReport.dict -- data/linux/processed-challenges/FablesReport/bin/FablesReport\n'
+p69
+I0
+tp70
+a(I4200
+S'start_time     : 1499808914\nlast_update    : 1499813121\nfuzzer_pid     : 19144\ncycles_done    : 1\nexecs_done     : 4994876\nexecs_per_sec  : 747.52\npaths_total    : 279\npaths_favored  : 55\npaths_found    : 278\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 277\npending_favs   : 0\npending_total  : 178\nvariable_paths : 0\nbitmap_cvg     : 0.69%\nunique_crashes : 20\nunique_hangs   : 4\nlast_path      : 1499812771\nlast_crash     : 1499813120\nlast_hang      : 1499812742\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FablesReport/input -o /dev/shm/work/FablesReport/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FablesReport/FablesReport.dict -- data/linux/processed-challenges/FablesReport/bin/FablesReport\n'
+p71
+I0
+tp72
+a(I4320
+S'start_time     : 1499808914\nlast_update    : 1499813241\nfuzzer_pid     : 19144\ncycles_done    : 1\nexecs_done     : 5084278\nexecs_per_sec  : 714.16\npaths_total    : 279\npaths_favored  : 55\npaths_found    : 278\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 278\npending_favs   : 0\npending_total  : 177\nvariable_paths : 0\nbitmap_cvg     : 0.69%\nunique_crashes : 20\nunique_hangs   : 4\nlast_path      : 1499812771\nlast_crash     : 1499813120\nlast_hang      : 1499812742\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FablesReport/input -o /dev/shm/work/FablesReport/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FablesReport/FablesReport.dict -- data/linux/processed-challenges/FablesReport/bin/FablesReport\n'
+p73
+I0
+tp74
+a(I4440
+S'start_time     : 1499808914\nlast_update    : 1499813361\nfuzzer_pid     : 19144\ncycles_done    : 2\nexecs_done     : 5235586\nexecs_per_sec  : 1511.17\npaths_total    : 279\npaths_favored  : 55\npaths_found    : 278\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 56\npending_favs   : 0\npending_total  : 165\nvariable_paths : 0\nbitmap_cvg     : 0.69%\nunique_crashes : 22\nunique_hangs   : 4\nlast_path      : 1499812771\nlast_crash     : 1499813286\nlast_hang      : 1499812742\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FablesReport/input -o /dev/shm/work/FablesReport/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FablesReport/FablesReport.dict -- data/linux/processed-challenges/FablesReport/bin/FablesReport\n'
+p75
+I1
+tp76
+a(I4560
+S'start_time     : 1499808914\nlast_update    : 1499813482\nfuzzer_pid     : 19144\ncycles_done    : 2\nexecs_done     : 5406314\nexecs_per_sec  : 1340.21\npaths_total    : 281\npaths_favored  : 55\npaths_found    : 280\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 106\npending_favs   : 0\npending_total  : 159\nvariable_paths : 0\nbitmap_cvg     : 0.69%\nunique_crashes : 22\nunique_hangs   : 4\nlast_path      : 1499813433\nlast_crash     : 1499813286\nlast_hang      : 1499812742\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FablesReport/input -o /dev/shm/work/FablesReport/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FablesReport/FablesReport.dict -- data/linux/processed-challenges/FablesReport/bin/FablesReport\n'
+p77
+I1
+tp78
+a(I4680
+S'start_time     : 1499808914\nlast_update    : 1499813602\nfuzzer_pid     : 19144\ncycles_done    : 2\nexecs_done     : 5524964\nexecs_per_sec  : 950.88\npaths_total    : 286\npaths_favored  : 55\npaths_found    : 285\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 108\npending_favs   : 0\npending_total  : 163\nvariable_paths : 0\nbitmap_cvg     : 0.70%\nunique_crashes : 22\nunique_hangs   : 4\nlast_path      : 1499813545\nlast_crash     : 1499813286\nlast_hang      : 1499812742\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FablesReport/input -o /dev/shm/work/FablesReport/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FablesReport/FablesReport.dict -- data/linux/processed-challenges/FablesReport/bin/FablesReport\n'
+p79
+I5
+tp80
+a(I4800
+S'start_time     : 1499808914\nlast_update    : 1499813722\nfuzzer_pid     : 19144\ncycles_done    : 2\nexecs_done     : 5623295\nexecs_per_sec  : 340.51\npaths_total    : 290\npaths_favored  : 56\npaths_found    : 289\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 283\npending_favs   : 1\npending_total  : 166\nvariable_paths : 0\nbitmap_cvg     : 0.70%\nunique_crashes : 22\nunique_hangs   : 4\nlast_path      : 1499813642\nlast_crash     : 1499813286\nlast_hang      : 1499812742\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FablesReport/input -o /dev/shm/work/FablesReport/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FablesReport/FablesReport.dict -- data/linux/processed-challenges/FablesReport/bin/FablesReport\n'
+p81
+I4
+tp82
+a(I4920
+S'start_time     : 1499808914\nlast_update    : 1499813842\nfuzzer_pid     : 19144\ncycles_done    : 2\nexecs_done     : 5665504\nexecs_per_sec  : 355.92\npaths_total    : 290\npaths_favored  : 56\npaths_found    : 289\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 283\npending_favs   : 1\npending_total  : 166\nvariable_paths : 0\nbitmap_cvg     : 0.70%\nunique_crashes : 22\nunique_hangs   : 4\nlast_path      : 1499813642\nlast_crash     : 1499813286\nlast_hang      : 1499812742\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FablesReport/input -o /dev/shm/work/FablesReport/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FablesReport/FablesReport.dict -- data/linux/processed-challenges/FablesReport/bin/FablesReport\n'
+p83
+I0
+tp84
+a(I5040
+S'start_time     : 1499808914\nlast_update    : 1499813962\nfuzzer_pid     : 19144\ncycles_done    : 2\nexecs_done     : 5708302\nexecs_per_sec  : 354.15\npaths_total    : 290\npaths_favored  : 56\npaths_found    : 289\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 283\npending_favs   : 1\npending_total  : 166\nvariable_paths : 0\nbitmap_cvg     : 0.70%\nunique_crashes : 22\nunique_hangs   : 4\nlast_path      : 1499813642\nlast_crash     : 1499813286\nlast_hang      : 1499812742\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FablesReport/input -o /dev/shm/work/FablesReport/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FablesReport/FablesReport.dict -- data/linux/processed-challenges/FablesReport/bin/FablesReport\n'
+p85
+I0
+tp86
+a(I5160
+S'start_time     : 1499808914\nlast_update    : 1499814083\nfuzzer_pid     : 19144\ncycles_done    : 2\nexecs_done     : 5756672\nexecs_per_sec  : 435.36\npaths_total    : 297\npaths_favored  : 56\npaths_found    : 296\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 283\npending_favs   : 1\npending_total  : 173\nvariable_paths : 0\nbitmap_cvg     : 0.70%\nunique_crashes : 22\nunique_hangs   : 4\nlast_path      : 1499814065\nlast_crash     : 1499813286\nlast_hang      : 1499812742\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FablesReport/input -o /dev/shm/work/FablesReport/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FablesReport/FablesReport.dict -- data/linux/processed-challenges/FablesReport/bin/FablesReport\n'
+p87
+I7
+tp88
+a(I5280
+S'start_time     : 1499808914\nlast_update    : 1499814203\nfuzzer_pid     : 19144\ncycles_done    : 2\nexecs_done     : 5808412\nexecs_per_sec  : 432.85\npaths_total    : 299\npaths_favored  : 56\npaths_found    : 298\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 283\npending_favs   : 1\npending_total  : 175\nvariable_paths : 0\nbitmap_cvg     : 0.70%\nunique_crashes : 22\nunique_hangs   : 4\nlast_path      : 1499814125\nlast_crash     : 1499813286\nlast_hang      : 1499812742\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FablesReport/input -o /dev/shm/work/FablesReport/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FablesReport/FablesReport.dict -- data/linux/processed-challenges/FablesReport/bin/FablesReport\n'
+p89
+I2
+tp90
+a(I5400
+S'start_time     : 1499808914\nlast_update    : 1499814323\nfuzzer_pid     : 19144\ncycles_done    : 2\nexecs_done     : 5860476\nexecs_per_sec  : 434.13\npaths_total    : 299\npaths_favored  : 56\npaths_found    : 298\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 283\npending_favs   : 1\npending_total  : 175\nvariable_paths : 0\nbitmap_cvg     : 0.70%\nunique_crashes : 22\nunique_hangs   : 4\nlast_path      : 1499814125\nlast_crash     : 1499813286\nlast_hang      : 1499812742\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FablesReport/input -o /dev/shm/work/FablesReport/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FablesReport/FablesReport.dict -- data/linux/processed-challenges/FablesReport/bin/FablesReport\n'
+p91
+I0
+tp92
+a(I5520
+S'start_time     : 1499808914\nlast_update    : 1499814443\nfuzzer_pid     : 19144\ncycles_done    : 2\nexecs_done     : 5907821\nexecs_per_sec  : 361.99\npaths_total    : 300\npaths_favored  : 57\npaths_found    : 299\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 292\npending_favs   : 2\npending_total  : 175\nvariable_paths : 0\nbitmap_cvg     : 0.70%\nunique_crashes : 22\nunique_hangs   : 4\nlast_path      : 1499814344\nlast_crash     : 1499813286\nlast_hang      : 1499812742\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FablesReport/input -o /dev/shm/work/FablesReport/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FablesReport/FablesReport.dict -- data/linux/processed-challenges/FablesReport/bin/FablesReport\n'
+p93
+I1
+tp94
+a(I5640
+S'start_time     : 1499808914\nlast_update    : 1499814563\nfuzzer_pid     : 19144\ncycles_done    : 2\nexecs_done     : 5951469\nexecs_per_sec  : 361.81\npaths_total    : 300\npaths_favored  : 57\npaths_found    : 299\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 292\npending_favs   : 2\npending_total  : 175\nvariable_paths : 0\nbitmap_cvg     : 0.70%\nunique_crashes : 22\nunique_hangs   : 4\nlast_path      : 1499814344\nlast_crash     : 1499813286\nlast_hang      : 1499812742\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FablesReport/input -o /dev/shm/work/FablesReport/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FablesReport/FablesReport.dict -- data/linux/processed-challenges/FablesReport/bin/FablesReport\n'
+p95
+I0
+tp96
+a(I5760
+S'start_time     : 1499808914\nlast_update    : 1499814684\nfuzzer_pid     : 19144\ncycles_done    : 2\nexecs_done     : 5995268\nexecs_per_sec  : 364.06\npaths_total    : 300\npaths_favored  : 57\npaths_found    : 299\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 292\npending_favs   : 2\npending_total  : 175\nvariable_paths : 0\nbitmap_cvg     : 0.70%\nunique_crashes : 22\nunique_hangs   : 4\nlast_path      : 1499814344\nlast_crash     : 1499813286\nlast_hang      : 1499812742\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FablesReport/input -o /dev/shm/work/FablesReport/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FablesReport/FablesReport.dict -- data/linux/processed-challenges/FablesReport/bin/FablesReport\n'
+p97
+I0
+tp98
+a(I5880
+S'start_time     : 1499808914\nlast_update    : 1499814804\nfuzzer_pid     : 19144\ncycles_done    : 2\nexecs_done     : 6040023\nexecs_per_sec  : 377.00\npaths_total    : 301\npaths_favored  : 57\npaths_found    : 300\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 294\npending_favs   : 1\npending_total  : 175\nvariable_paths : 0\nbitmap_cvg     : 0.70%\nunique_crashes : 22\nunique_hangs   : 4\nlast_path      : 1499814735\nlast_crash     : 1499813286\nlast_hang      : 1499812742\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FablesReport/input -o /dev/shm/work/FablesReport/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FablesReport/FablesReport.dict -- data/linux/processed-challenges/FablesReport/bin/FablesReport\n'
+p99
+I1
+tp100
+a(I6000
+S'start_time     : 1499808914\nlast_update    : 1499814924\nfuzzer_pid     : 19144\ncycles_done    : 2\nexecs_done     : 6084055\nexecs_per_sec  : 378.57\npaths_total    : 301\npaths_favored  : 57\npaths_found    : 300\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 294\npending_favs   : 1\npending_total  : 175\nvariable_paths : 0\nbitmap_cvg     : 0.70%\nunique_crashes : 22\nunique_hangs   : 4\nlast_path      : 1499814735\nlast_crash     : 1499813286\nlast_hang      : 1499812742\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FablesReport/input -o /dev/shm/work/FablesReport/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FablesReport/FablesReport.dict -- data/linux/processed-challenges/FablesReport/bin/FablesReport\n'
+p101
+I0
+tp102
+a(I6120
+S'start_time     : 1499808914\nlast_update    : 1499815044\nfuzzer_pid     : 19144\ncycles_done    : 2\nexecs_done     : 6131334\nexecs_per_sec  : 485.43\npaths_total    : 303\npaths_favored  : 58\npaths_found    : 302\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 295\npending_favs   : 2\npending_total  : 176\nvariable_paths : 0\nbitmap_cvg     : 0.70%\nunique_crashes : 22\nunique_hangs   : 6\nlast_path      : 1499815040\nlast_crash     : 1499813286\nlast_hang      : 1499815028\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FablesReport/input -o /dev/shm/work/FablesReport/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FablesReport/FablesReport.dict -- data/linux/processed-challenges/FablesReport/bin/FablesReport\n'
+p103
+I2
+tp104
+a(I6240
+S'start_time     : 1499808914\nlast_update    : 1499815164\nfuzzer_pid     : 19144\ncycles_done    : 2\nexecs_done     : 6198465\nexecs_per_sec  : 636.03\npaths_total    : 305\npaths_favored  : 58\npaths_found    : 304\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 295\npending_favs   : 2\npending_total  : 178\nvariable_paths : 0\nbitmap_cvg     : 0.70%\nunique_crashes : 22\nunique_hangs   : 7\nlast_path      : 1499815148\nlast_crash     : 1499813286\nlast_hang      : 1499815139\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FablesReport/input -o /dev/shm/work/FablesReport/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FablesReport/FablesReport.dict -- data/linux/processed-challenges/FablesReport/bin/FablesReport\n'
+p105
+I2
+tp106
+a(I6360
+S'start_time     : 1499808914\nlast_update    : 1499815285\nfuzzer_pid     : 19144\ncycles_done    : 2\nexecs_done     : 6247527\nexecs_per_sec  : 281.17\npaths_total    : 305\npaths_favored  : 59\npaths_found    : 304\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 300\npending_favs   : 2\npending_total  : 177\nvariable_paths : 0\nbitmap_cvg     : 0.70%\nunique_crashes : 23\nunique_hangs   : 10\nlast_path      : 1499815148\nlast_crash     : 1499815208\nlast_hang      : 1499815195\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FablesReport/input -o /dev/shm/work/FablesReport/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FablesReport/FablesReport.dict -- data/linux/processed-challenges/FablesReport/bin/FablesReport\n'
+p107
+I0
+tp108
+a(I6480
+S'start_time     : 1499808914\nlast_update    : 1499815405\nfuzzer_pid     : 19144\ncycles_done    : 2\nexecs_done     : 6281474\nexecs_per_sec  : 273.95\npaths_total    : 305\npaths_favored  : 59\npaths_found    : 304\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 300\npending_favs   : 2\npending_total  : 177\nvariable_paths : 0\nbitmap_cvg     : 0.70%\nunique_crashes : 23\nunique_hangs   : 10\nlast_path      : 1499815148\nlast_crash     : 1499815208\nlast_hang      : 1499815195\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FablesReport/input -o /dev/shm/work/FablesReport/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FablesReport/FablesReport.dict -- data/linux/processed-challenges/FablesReport/bin/FablesReport\n'
+p109
+I0
+tp110
+a(I6600
+S'start_time     : 1499808914\nlast_update    : 1499815525\nfuzzer_pid     : 19144\ncycles_done    : 2\nexecs_done     : 6314940\nexecs_per_sec  : 278.51\npaths_total    : 305\npaths_favored  : 59\npaths_found    : 304\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 300\npending_favs   : 2\npending_total  : 177\nvariable_paths : 0\nbitmap_cvg     : 0.70%\nunique_crashes : 23\nunique_hangs   : 10\nlast_path      : 1499815148\nlast_crash     : 1499815208\nlast_hang      : 1499815195\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FablesReport/input -o /dev/shm/work/FablesReport/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FablesReport/FablesReport.dict -- data/linux/processed-challenges/FablesReport/bin/FablesReport\n'
+p111
+I0
+tp112
+a(I6720
+S'start_time     : 1499808914\nlast_update    : 1499815645\nfuzzer_pid     : 19144\ncycles_done    : 2\nexecs_done     : 6348234\nexecs_per_sec  : 276.93\npaths_total    : 305\npaths_favored  : 59\npaths_found    : 304\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 300\npending_favs   : 2\npending_total  : 177\nvariable_paths : 0\nbitmap_cvg     : 0.70%\nunique_crashes : 23\nunique_hangs   : 10\nlast_path      : 1499815148\nlast_crash     : 1499815208\nlast_hang      : 1499815195\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FablesReport/input -o /dev/shm/work/FablesReport/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FablesReport/FablesReport.dict -- data/linux/processed-challenges/FablesReport/bin/FablesReport\n'
+p113
+I0
+tp114
+a(I6840
+S'start_time     : 1499808914\nlast_update    : 1499815765\nfuzzer_pid     : 19144\ncycles_done    : 2\nexecs_done     : 6382643\nexecs_per_sec  : 353.11\npaths_total    : 305\npaths_favored  : 59\npaths_found    : 304\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 300\npending_favs   : 2\npending_total  : 177\nvariable_paths : 0\nbitmap_cvg     : 0.70%\nunique_crashes : 23\nunique_hangs   : 11\nlast_path      : 1499815148\nlast_crash     : 1499815208\nlast_hang      : 1499815759\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FablesReport/input -o /dev/shm/work/FablesReport/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FablesReport/FablesReport.dict -- data/linux/processed-challenges/FablesReport/bin/FablesReport\n'
+p115
+I0
+tp116
+a(I6960
+S'start_time     : 1499808914\nlast_update    : 1499815826\nfuzzer_pid     : 19144\ncycles_done    : 2\nexecs_done     : 6410864\nexecs_per_sec  : 487.79\npaths_total    : 305\npaths_favored  : 59\npaths_found    : 304\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 304\npending_favs   : 1\npending_total  : 176\nvariable_paths : 0\nbitmap_cvg     : 0.70%\nunique_crashes : 23\nunique_hangs   : 11\nlast_path      : 1499815148\nlast_crash     : 1499815208\nlast_hang      : 1499815759\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FablesReport/input -o /dev/shm/work/FablesReport/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FablesReport/FablesReport.dict -- data/linux/processed-challenges/FablesReport/bin/FablesReport\n'
+p117
+I0
+tp118
+a(I7080
+S'start_time     : 1499808914\nlast_update    : 1499815946\nfuzzer_pid     : 19144\ncycles_done    : 2\nexecs_done     : 6479045\nexecs_per_sec  : 641.94\npaths_total    : 309\npaths_favored  : 59\npaths_found    : 308\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 304\npending_favs   : 1\npending_total  : 180\nvariable_paths : 0\nbitmap_cvg     : 0.71%\nunique_crashes : 23\nunique_hangs   : 11\nlast_path      : 1499815927\nlast_crash     : 1499815208\nlast_hang      : 1499815759\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FablesReport/input -o /dev/shm/work/FablesReport/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FablesReport/FablesReport.dict -- data/linux/processed-challenges/FablesReport/bin/FablesReport\n'
+p119
+I7
+tp120
+a(I7200
+S'start_time     : 1499808914\nlast_update    : 1499816066\nfuzzer_pid     : 19144\ncycles_done    : 2\nexecs_done     : 6557003\nexecs_per_sec  : 643.98\npaths_total    : 312\npaths_favored  : 59\npaths_found    : 311\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 304\npending_favs   : 1\npending_total  : 183\nvariable_paths : 0\nbitmap_cvg     : 0.71%\nunique_crashes : 23\nunique_hangs   : 11\nlast_path      : 1499815987\nlast_crash     : 1499815208\nlast_hang      : 1499815759\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FablesReport/input -o /dev/shm/work/FablesReport/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FablesReport/FablesReport.dict -- data/linux/processed-challenges/FablesReport/bin/FablesReport\n'
+p121
+I0
+tp122
+a(I7320
+S'start_time     : 1499808914\nlast_update    : 1499816187\nfuzzer_pid     : 19144\ncycles_done    : 2\nexecs_done     : 6576673\nexecs_per_sec  : 134.59\npaths_total    : 312\npaths_favored  : 62\npaths_found    : 311\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 307\npending_favs   : 3\npending_total  : 182\nvariable_paths : 0\nbitmap_cvg     : 0.71%\nunique_crashes : 23\nunique_hangs   : 11\nlast_path      : 1499815987\nlast_crash     : 1499815208\nlast_hang      : 1499815759\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FablesReport/input -o /dev/shm/work/FablesReport/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FablesReport/FablesReport.dict -- data/linux/processed-challenges/FablesReport/bin/FablesReport\n'
+p123
+I0
+tp124
+a(I7440
+S'start_time     : 1499808914\nlast_update    : 1499816307\nfuzzer_pid     : 19144\ncycles_done    : 2\nexecs_done     : 6592531\nexecs_per_sec  : 129.92\npaths_total    : 312\npaths_favored  : 62\npaths_found    : 311\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 307\npending_favs   : 3\npending_total  : 182\nvariable_paths : 0\nbitmap_cvg     : 0.71%\nunique_crashes : 23\nunique_hangs   : 11\nlast_path      : 1499815987\nlast_crash     : 1499815208\nlast_hang      : 1499815759\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FablesReport/input -o /dev/shm/work/FablesReport/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FablesReport/FablesReport.dict -- data/linux/processed-challenges/FablesReport/bin/FablesReport\n'
+p125
+I0
+tp126
+a(I7560
+S'start_time     : 1499808914\nlast_update    : 1499816427\nfuzzer_pid     : 19144\ncycles_done    : 2\nexecs_done     : 6608441\nexecs_per_sec  : 130.19\npaths_total    : 312\npaths_favored  : 62\npaths_found    : 311\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 307\npending_favs   : 3\npending_total  : 182\nvariable_paths : 0\nbitmap_cvg     : 0.71%\nunique_crashes : 23\nunique_hangs   : 11\nlast_path      : 1499815987\nlast_crash     : 1499815208\nlast_hang      : 1499815759\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FablesReport/input -o /dev/shm/work/FablesReport/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FablesReport/FablesReport.dict -- data/linux/processed-challenges/FablesReport/bin/FablesReport\n'
+p127
+I0
+tp128
+a(I7680
+S'start_time     : 1499808914\nlast_update    : 1499816547\nfuzzer_pid     : 19144\ncycles_done    : 2\nexecs_done     : 6624206\nexecs_per_sec  : 128.05\npaths_total    : 312\npaths_favored  : 62\npaths_found    : 311\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 307\npending_favs   : 3\npending_total  : 182\nvariable_paths : 0\nbitmap_cvg     : 0.71%\nunique_crashes : 23\nunique_hangs   : 11\nlast_path      : 1499815987\nlast_crash     : 1499815208\nlast_hang      : 1499815759\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FablesReport/input -o /dev/shm/work/FablesReport/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FablesReport/FablesReport.dict -- data/linux/processed-challenges/FablesReport/bin/FablesReport\n'
+p129
+I0
+tp130
+a(I7800
+S'start_time     : 1499808914\nlast_update    : 1499816667\nfuzzer_pid     : 19144\ncycles_done    : 2\nexecs_done     : 6640030\nexecs_per_sec  : 132.12\npaths_total    : 312\npaths_favored  : 62\npaths_found    : 311\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 307\npending_favs   : 3\npending_total  : 182\nvariable_paths : 0\nbitmap_cvg     : 0.71%\nunique_crashes : 23\nunique_hangs   : 11\nlast_path      : 1499815987\nlast_crash     : 1499815208\nlast_hang      : 1499815759\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FablesReport/input -o /dev/shm/work/FablesReport/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FablesReport/FablesReport.dict -- data/linux/processed-challenges/FablesReport/bin/FablesReport\n'
+p131
+I1
+tp132
+a(I7920
+S'start_time     : 1499808914\nlast_update    : 1499816787\nfuzzer_pid     : 19144\ncycles_done    : 2\nexecs_done     : 6655722\nexecs_per_sec  : 127.91\npaths_total    : 313\npaths_favored  : 62\npaths_found    : 312\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 307\npending_favs   : 3\npending_total  : 183\nvariable_paths : 0\nbitmap_cvg     : 0.71%\nunique_crashes : 23\nunique_hangs   : 11\nlast_path      : 1499816717\nlast_crash     : 1499815208\nlast_hang      : 1499815759\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FablesReport/input -o /dev/shm/work/FablesReport/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FablesReport/FablesReport.dict -- data/linux/processed-challenges/FablesReport/bin/FablesReport\n'
+p133
+I0
+tp134
+a(I8040
+S'start_time     : 1499808914\nlast_update    : 1499816908\nfuzzer_pid     : 19144\ncycles_done    : 2\nexecs_done     : 6671484\nexecs_per_sec  : 131.80\npaths_total    : 313\npaths_favored  : 62\npaths_found    : 312\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 307\npending_favs   : 3\npending_total  : 183\nvariable_paths : 0\nbitmap_cvg     : 0.71%\nunique_crashes : 23\nunique_hangs   : 11\nlast_path      : 1499816717\nlast_crash     : 1499815208\nlast_hang      : 1499815759\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FablesReport/input -o /dev/shm/work/FablesReport/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FablesReport/FablesReport.dict -- data/linux/processed-challenges/FablesReport/bin/FablesReport\n'
+p135
+I0
+tp136
+a(I8160
+S'start_time     : 1499808914\nlast_update    : 1499817028\nfuzzer_pid     : 19144\ncycles_done    : 2\nexecs_done     : 6687315\nexecs_per_sec  : 121.69\npaths_total    : 313\npaths_favored  : 62\npaths_found    : 312\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 307\npending_favs   : 3\npending_total  : 183\nvariable_paths : 0\nbitmap_cvg     : 0.71%\nunique_crashes : 23\nunique_hangs   : 11\nlast_path      : 1499816717\nlast_crash     : 1499815208\nlast_hang      : 1499815759\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FablesReport/input -o /dev/shm/work/FablesReport/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FablesReport/FablesReport.dict -- data/linux/processed-challenges/FablesReport/bin/FablesReport\n'
+p137
+I0
+tp138
+a(I8280
+S'start_time     : 1499808914\nlast_update    : 1499817148\nfuzzer_pid     : 19144\ncycles_done    : 2\nexecs_done     : 6703247\nexecs_per_sec  : 133.20\npaths_total    : 313\npaths_favored  : 62\npaths_found    : 312\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 307\npending_favs   : 3\npending_total  : 183\nvariable_paths : 0\nbitmap_cvg     : 0.71%\nunique_crashes : 23\nunique_hangs   : 11\nlast_path      : 1499816717\nlast_crash     : 1499815208\nlast_hang      : 1499815759\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FablesReport/input -o /dev/shm/work/FablesReport/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FablesReport/FablesReport.dict -- data/linux/processed-challenges/FablesReport/bin/FablesReport\n'
+p139
+I0
+tp140
+a(I8400
+S'start_time     : 1499808914\nlast_update    : 1499817268\nfuzzer_pid     : 19144\ncycles_done    : 2\nexecs_done     : 6719209\nexecs_per_sec  : 132.64\npaths_total    : 313\npaths_favored  : 62\npaths_found    : 312\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 307\npending_favs   : 3\npending_total  : 183\nvariable_paths : 0\nbitmap_cvg     : 0.71%\nunique_crashes : 23\nunique_hangs   : 11\nlast_path      : 1499816717\nlast_crash     : 1499815208\nlast_hang      : 1499815759\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FablesReport/input -o /dev/shm/work/FablesReport/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FablesReport/FablesReport.dict -- data/linux/processed-challenges/FablesReport/bin/FablesReport\n'
+p141
+I0
+tp142
+a(I8520
+S'start_time     : 1499808914\nlast_update    : 1499817388\nfuzzer_pid     : 19144\ncycles_done    : 2\nexecs_done     : 6735121\nexecs_per_sec  : 133.82\npaths_total    : 313\npaths_favored  : 62\npaths_found    : 312\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 307\npending_favs   : 3\npending_total  : 183\nvariable_paths : 0\nbitmap_cvg     : 0.71%\nunique_crashes : 23\nunique_hangs   : 11\nlast_path      : 1499816717\nlast_crash     : 1499815208\nlast_hang      : 1499815759\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FablesReport/input -o /dev/shm/work/FablesReport/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FablesReport/FablesReport.dict -- data/linux/processed-challenges/FablesReport/bin/FablesReport\n'
+p143
+I0
+tp144
+a(I8640
+S'start_time     : 1499808914\nlast_update    : 1499817509\nfuzzer_pid     : 19144\ncycles_done    : 2\nexecs_done     : 6750869\nexecs_per_sec  : 130.21\npaths_total    : 313\npaths_favored  : 62\npaths_found    : 312\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 307\npending_favs   : 3\npending_total  : 183\nvariable_paths : 0\nbitmap_cvg     : 0.71%\nunique_crashes : 23\nunique_hangs   : 11\nlast_path      : 1499816717\nlast_crash     : 1499815208\nlast_hang      : 1499815759\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FablesReport/input -o /dev/shm/work/FablesReport/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FablesReport/FablesReport.dict -- data/linux/processed-challenges/FablesReport/bin/FablesReport\n'
+p145
+I0
+tp146
+a(I8760
+S'start_time     : 1499808914\nlast_update    : 1499817629\nfuzzer_pid     : 19144\ncycles_done    : 2\nexecs_done     : 6766663\nexecs_per_sec  : 132.77\npaths_total    : 313\npaths_favored  : 62\npaths_found    : 312\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 307\npending_favs   : 3\npending_total  : 183\nvariable_paths : 0\nbitmap_cvg     : 0.71%\nunique_crashes : 23\nunique_hangs   : 11\nlast_path      : 1499816717\nlast_crash     : 1499815208\nlast_hang      : 1499815759\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FablesReport/input -o /dev/shm/work/FablesReport/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FablesReport/FablesReport.dict -- data/linux/processed-challenges/FablesReport/bin/FablesReport\n'
+p147
+I0
+tp148
+a(I8880
+S'start_time     : 1499808914\nlast_update    : 1499817749\nfuzzer_pid     : 19144\ncycles_done    : 2\nexecs_done     : 6782449\nexecs_per_sec  : 131.96\npaths_total    : 313\npaths_favored  : 62\npaths_found    : 312\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 307\npending_favs   : 3\npending_total  : 183\nvariable_paths : 0\nbitmap_cvg     : 0.71%\nunique_crashes : 23\nunique_hangs   : 11\nlast_path      : 1499816717\nlast_crash     : 1499815208\nlast_hang      : 1499815759\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FablesReport/input -o /dev/shm/work/FablesReport/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FablesReport/FablesReport.dict -- data/linux/processed-challenges/FablesReport/bin/FablesReport\n'
+p149
+I0
+tp150
+a(I9000
+S'start_time     : 1499808914\nlast_update    : 1499817869\nfuzzer_pid     : 19144\ncycles_done    : 2\nexecs_done     : 6799501\nexecs_per_sec  : 158.85\npaths_total    : 313\npaths_favored  : 62\npaths_found    : 312\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 307\npending_favs   : 3\npending_total  : 183\nvariable_paths : 0\nbitmap_cvg     : 0.71%\nunique_crashes : 23\nunique_hangs   : 13\nlast_path      : 1499816717\nlast_crash     : 1499815208\nlast_hang      : 1499817867\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FablesReport/input -o /dev/shm/work/FablesReport/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FablesReport/FablesReport.dict -- data/linux/processed-challenges/FablesReport/bin/FablesReport\n'
+p151
+I0
+tp152
+a(I9120
+S'start_time     : 1499808914\nlast_update    : 1499817989\nfuzzer_pid     : 19144\ncycles_done    : 2\nexecs_done     : 6828710\nexecs_per_sec  : 293.57\npaths_total    : 313\npaths_favored  : 62\npaths_found    : 312\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 308\npending_favs   : 2\npending_total  : 182\nvariable_paths : 0\nbitmap_cvg     : 0.71%\nunique_crashes : 23\nunique_hangs   : 14\nlast_path      : 1499816717\nlast_crash     : 1499815208\nlast_hang      : 1499817873\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FablesReport/input -o /dev/shm/work/FablesReport/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FablesReport/FablesReport.dict -- data/linux/processed-challenges/FablesReport/bin/FablesReport\n'
+p153
+I0
+tp154
+a(I9240
+S'start_time     : 1499808914\nlast_update    : 1499818110\nfuzzer_pid     : 19144\ncycles_done    : 2\nexecs_done     : 6863886\nexecs_per_sec  : 299.84\npaths_total    : 313\npaths_favored  : 62\npaths_found    : 312\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 308\npending_favs   : 2\npending_total  : 182\nvariable_paths : 0\nbitmap_cvg     : 0.71%\nunique_crashes : 23\nunique_hangs   : 14\nlast_path      : 1499816717\nlast_crash     : 1499815208\nlast_hang      : 1499817873\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FablesReport/input -o /dev/shm/work/FablesReport/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FablesReport/FablesReport.dict -- data/linux/processed-challenges/FablesReport/bin/FablesReport\n'
+p155
+I0
+tp156
+a(I9360
+S'start_time     : 1499808914\nlast_update    : 1499818230\nfuzzer_pid     : 19144\ncycles_done    : 2\nexecs_done     : 6899710\nexecs_per_sec  : 303.79\npaths_total    : 313\npaths_favored  : 62\npaths_found    : 312\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 308\npending_favs   : 2\npending_total  : 182\nvariable_paths : 0\nbitmap_cvg     : 0.71%\nunique_crashes : 23\nunique_hangs   : 14\nlast_path      : 1499816717\nlast_crash     : 1499815208\nlast_hang      : 1499817873\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FablesReport/input -o /dev/shm/work/FablesReport/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FablesReport/FablesReport.dict -- data/linux/processed-challenges/FablesReport/bin/FablesReport\n'
+p157
+I0
+tp158
+a(I9480
+S'start_time     : 1499808914\nlast_update    : 1499818350\nfuzzer_pid     : 19144\ncycles_done    : 2\nexecs_done     : 6935011\nexecs_per_sec  : 286.91\npaths_total    : 313\npaths_favored  : 62\npaths_found    : 312\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 308\npending_favs   : 2\npending_total  : 182\nvariable_paths : 0\nbitmap_cvg     : 0.71%\nunique_crashes : 23\nunique_hangs   : 14\nlast_path      : 1499816717\nlast_crash     : 1499815208\nlast_hang      : 1499817873\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FablesReport/input -o /dev/shm/work/FablesReport/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FablesReport/FablesReport.dict -- data/linux/processed-challenges/FablesReport/bin/FablesReport\n'
+p159
+I0
+tp160
+a(I9600
+S'start_time     : 1499808914\nlast_update    : 1499818470\nfuzzer_pid     : 19144\ncycles_done    : 2\nexecs_done     : 6975654\nexecs_per_sec  : 308.10\npaths_total    : 313\npaths_favored  : 62\npaths_found    : 312\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 311\npending_favs   : 1\npending_total  : 181\nvariable_paths : 0\nbitmap_cvg     : 0.71%\nunique_crashes : 25\nunique_hangs   : 14\nlast_path      : 1499816717\nlast_crash     : 1499818443\nlast_hang      : 1499817873\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FablesReport/input -o /dev/shm/work/FablesReport/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FablesReport/FablesReport.dict -- data/linux/processed-challenges/FablesReport/bin/FablesReport\n'
+p161
+I0
+tp162
+a(I9720
+S'start_time     : 1499808914\nlast_update    : 1499818591\nfuzzer_pid     : 19144\ncycles_done    : 2\nexecs_done     : 7000839\nexecs_per_sec  : 207.68\npaths_total    : 313\npaths_favored  : 62\npaths_found    : 312\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 311\npending_favs   : 1\npending_total  : 181\nvariable_paths : 0\nbitmap_cvg     : 0.71%\nunique_crashes : 25\nunique_hangs   : 14\nlast_path      : 1499816717\nlast_crash     : 1499818443\nlast_hang      : 1499817873\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FablesReport/input -o /dev/shm/work/FablesReport/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FablesReport/FablesReport.dict -- data/linux/processed-challenges/FablesReport/bin/FablesReport\n'
+p163
+I0
+tp164
+a(I9840
+S'start_time     : 1499808914\nlast_update    : 1499818711\nfuzzer_pid     : 19144\ncycles_done    : 2\nexecs_done     : 7026438\nexecs_per_sec  : 213.50\npaths_total    : 313\npaths_favored  : 62\npaths_found    : 312\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 311\npending_favs   : 1\npending_total  : 181\nvariable_paths : 0\nbitmap_cvg     : 0.71%\nunique_crashes : 25\nunique_hangs   : 14\nlast_path      : 1499816717\nlast_crash     : 1499818443\nlast_hang      : 1499817873\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FablesReport/input -o /dev/shm/work/FablesReport/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FablesReport/FablesReport.dict -- data/linux/processed-challenges/FablesReport/bin/FablesReport\n'
+p165
+I0
+tp166
+a(I9960
+S'start_time     : 1499808914\nlast_update    : 1499818831\nfuzzer_pid     : 19144\ncycles_done    : 2\nexecs_done     : 7052340\nexecs_per_sec  : 217.83\npaths_total    : 313\npaths_favored  : 62\npaths_found    : 312\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 311\npending_favs   : 1\npending_total  : 181\nvariable_paths : 0\nbitmap_cvg     : 0.71%\nunique_crashes : 25\nunique_hangs   : 14\nlast_path      : 1499816717\nlast_crash     : 1499818443\nlast_hang      : 1499817873\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FablesReport/input -o /dev/shm/work/FablesReport/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FablesReport/FablesReport.dict -- data/linux/processed-challenges/FablesReport/bin/FablesReport\n'
+p167
+I0
+tp168
+a(I10080
+S'start_time     : 1499808914\nlast_update    : 1499818951\nfuzzer_pid     : 19144\ncycles_done    : 2\nexecs_done     : 7078856\nexecs_per_sec  : 218.02\npaths_total    : 313\npaths_favored  : 62\npaths_found    : 312\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 311\npending_favs   : 1\npending_total  : 181\nvariable_paths : 0\nbitmap_cvg     : 0.71%\nunique_crashes : 25\nunique_hangs   : 14\nlast_path      : 1499816717\nlast_crash     : 1499818443\nlast_hang      : 1499817873\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FablesReport/input -o /dev/shm/work/FablesReport/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FablesReport/FablesReport.dict -- data/linux/processed-challenges/FablesReport/bin/FablesReport\n'
+p169
+I0
+tp170
+a(I10200
+S'start_time     : 1499808914\nlast_update    : 1499819071\nfuzzer_pid     : 19144\ncycles_done    : 2\nexecs_done     : 7105288\nexecs_per_sec  : 217.59\npaths_total    : 313\npaths_favored  : 62\npaths_found    : 312\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 311\npending_favs   : 1\npending_total  : 181\nvariable_paths : 0\nbitmap_cvg     : 0.71%\nunique_crashes : 25\nunique_hangs   : 14\nlast_path      : 1499816717\nlast_crash     : 1499818443\nlast_hang      : 1499817873\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FablesReport/input -o /dev/shm/work/FablesReport/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FablesReport/FablesReport.dict -- data/linux/processed-challenges/FablesReport/bin/FablesReport\n'
+p171
+I0
+tp172
+a(I10320
+S'start_time     : 1499808914\nlast_update    : 1499819192\nfuzzer_pid     : 19144\ncycles_done    : 2\nexecs_done     : 7131436\nexecs_per_sec  : 215.40\npaths_total    : 313\npaths_favored  : 62\npaths_found    : 312\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 311\npending_favs   : 1\npending_total  : 181\nvariable_paths : 0\nbitmap_cvg     : 0.71%\nunique_crashes : 25\nunique_hangs   : 14\nlast_path      : 1499816717\nlast_crash     : 1499818443\nlast_hang      : 1499817873\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FablesReport/input -o /dev/shm/work/FablesReport/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FablesReport/FablesReport.dict -- data/linux/processed-challenges/FablesReport/bin/FablesReport\n'
+p173
+I0
+tp174
+a(I10440
+S'start_time     : 1499808914\nlast_update    : 1499819312\nfuzzer_pid     : 19144\ncycles_done    : 2\nexecs_done     : 7159167\nexecs_per_sec  : 262.54\npaths_total    : 313\npaths_favored  : 62\npaths_found    : 312\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 311\npending_favs   : 1\npending_total  : 181\nvariable_paths : 0\nbitmap_cvg     : 0.71%\nunique_crashes : 25\nunique_hangs   : 14\nlast_path      : 1499816717\nlast_crash     : 1499818443\nlast_hang      : 1499817873\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FablesReport/input -o /dev/shm/work/FablesReport/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FablesReport/FablesReport.dict -- data/linux/processed-challenges/FablesReport/bin/FablesReport\n'
+p175
+I0
+tp176
+a(I10560
+S'start_time     : 1499808914\nlast_update    : 1499819432\nfuzzer_pid     : 19144\ncycles_done    : 3\nexecs_done     : 7256587\nexecs_per_sec  : 1770.57\npaths_total    : 313\npaths_favored  : 62\npaths_found    : 312\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 67\npending_favs   : 0\npending_total  : 173\nvariable_paths : 0\nbitmap_cvg     : 0.71%\nunique_crashes : 25\nunique_hangs   : 14\nlast_path      : 1499816717\nlast_crash     : 1499818443\nlast_hang      : 1499817873\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FablesReport/input -o /dev/shm/work/FablesReport/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FablesReport/FablesReport.dict -- data/linux/processed-challenges/FablesReport/bin/FablesReport\n'
+p177
+I0
+tp178
+a(I10680
+S'start_time     : 1499808914\nlast_update    : 1499819552\nfuzzer_pid     : 19144\ncycles_done    : 3\nexecs_done     : 7449109\nexecs_per_sec  : 1656.74\npaths_total    : 313\npaths_favored  : 62\npaths_found    : 312\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 118\npending_favs   : 0\npending_total  : 169\nvariable_paths : 0\nbitmap_cvg     : 0.71%\nunique_crashes : 25\nunique_hangs   : 14\nlast_path      : 1499816717\nlast_crash     : 1499818443\nlast_hang      : 1499817873\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/FablesReport/input -o /dev/shm/work/FablesReport/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/FablesReport/FablesReport.dict -- data/linux/processed-challenges/FablesReport/bin/FablesReport\n'
+p179
+I0
+tp180
+a.

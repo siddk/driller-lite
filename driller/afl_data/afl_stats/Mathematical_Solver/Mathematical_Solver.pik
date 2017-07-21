@@ -1,0 +1,452 @@
+(lp0
+(I0
+S'start_time     : 1500263342\nlast_update    : 1500263342\nfuzzer_pid     : 27318\ncycles_done    : 0\nexecs_done     : 10\nexecs_per_sec  : 196.08\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 1\npending_total  : 1\nvariable_paths : 0\nbitmap_cvg     : 0.19%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Mathematical_Solver/input -o /dev/shm/work/Mathematical_Solver/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Mathematical_Solver/Mathematical_Solver.dict -- data/linux/processed-challenges/Mathematical_Solver/bin/Mathematical_Solver\n'
+p1
+I2
+tp2
+a(I120
+S'start_time     : 1500263342\nlast_update    : 1500263462\nfuzzer_pid     : 27318\ncycles_done    : 9\nexecs_done     : 105465\nexecs_per_sec  : 879.43\npaths_total    : 2\npaths_favored  : 2\npaths_found    : 1\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 1\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.19%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500263343\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Mathematical_Solver/input -o /dev/shm/work/Mathematical_Solver/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Mathematical_Solver/Mathematical_Solver.dict -- data/linux/processed-challenges/Mathematical_Solver/bin/Mathematical_Solver\n'
+p3
+I0
+tp4
+a(I240
+S'start_time     : 1500263342\nlast_update    : 1500263582\nfuzzer_pid     : 27318\ncycles_done    : 20\nexecs_done     : 210295\nexecs_per_sec  : 872.93\npaths_total    : 2\npaths_favored  : 2\npaths_found    : 1\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.19%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500263343\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Mathematical_Solver/input -o /dev/shm/work/Mathematical_Solver/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Mathematical_Solver/Mathematical_Solver.dict -- data/linux/processed-challenges/Mathematical_Solver/bin/Mathematical_Solver\n'
+p5
+I0
+tp6
+a(I360
+S'start_time     : 1500263342\nlast_update    : 1500263702\nfuzzer_pid     : 27318\ncycles_done    : 30\nexecs_done     : 314862\nexecs_per_sec  : 852.41\npaths_total    : 2\npaths_favored  : 2\npaths_found    : 1\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 1\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.19%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500263343\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Mathematical_Solver/input -o /dev/shm/work/Mathematical_Solver/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Mathematical_Solver/Mathematical_Solver.dict -- data/linux/processed-challenges/Mathematical_Solver/bin/Mathematical_Solver\n'
+p7
+I0
+tp8
+a(I480
+S'start_time     : 1500263342\nlast_update    : 1500263823\nfuzzer_pid     : 27318\ncycles_done    : 41\nexecs_done     : 418612\nexecs_per_sec  : 887.77\npaths_total    : 2\npaths_favored  : 2\npaths_found    : 1\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.19%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500263343\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Mathematical_Solver/input -o /dev/shm/work/Mathematical_Solver/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Mathematical_Solver/Mathematical_Solver.dict -- data/linux/processed-challenges/Mathematical_Solver/bin/Mathematical_Solver\n'
+p9
+I0
+tp10
+a(I600
+S'start_time     : 1500263342\nlast_update    : 1500263943\nfuzzer_pid     : 27318\ncycles_done    : 51\nexecs_done     : 522078\nexecs_per_sec  : 846.59\npaths_total    : 2\npaths_favored  : 2\npaths_found    : 1\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 1\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.19%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500263343\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Mathematical_Solver/input -o /dev/shm/work/Mathematical_Solver/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Mathematical_Solver/Mathematical_Solver.dict -- data/linux/processed-challenges/Mathematical_Solver/bin/Mathematical_Solver\n'
+p11
+I0
+tp12
+a(I720
+S'start_time     : 1500263342\nlast_update    : 1500264063\nfuzzer_pid     : 27318\ncycles_done    : 51\nexecs_done     : 622235\nexecs_per_sec  : 817.56\npaths_total    : 36\npaths_favored  : 2\npaths_found    : 35\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 2\npending_favs   : 1\npending_total  : 34\nvariable_paths : 0\nbitmap_cvg     : 1.14%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500264048\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Mathematical_Solver/input -o /dev/shm/work/Mathematical_Solver/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Mathematical_Solver/Mathematical_Solver.dict -- data/linux/processed-challenges/Mathematical_Solver/bin/Mathematical_Solver\n'
+p13
+I34
+tp14
+a(I840
+S'start_time     : 1500263342\nlast_update    : 1500264183\nfuzzer_pid     : 27318\ncycles_done    : 51\nexecs_done     : 720415\nexecs_per_sec  : 797.51\npaths_total    : 138\npaths_favored  : 2\npaths_found    : 137\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 2\npending_favs   : 1\npending_total  : 136\nvariable_paths : 0\nbitmap_cvg     : 1.59%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500264182\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Mathematical_Solver/input -o /dev/shm/work/Mathematical_Solver/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Mathematical_Solver/Mathematical_Solver.dict -- data/linux/processed-challenges/Mathematical_Solver/bin/Mathematical_Solver\n'
+p15
+I105
+tp16
+a(I960
+S'start_time     : 1500263342\nlast_update    : 1500264303\nfuzzer_pid     : 27318\ncycles_done    : 51\nexecs_done     : 813330\nexecs_per_sec  : 790.35\npaths_total    : 191\npaths_favored  : 2\npaths_found    : 190\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 2\npending_favs   : 1\npending_total  : 189\nvariable_paths : 0\nbitmap_cvg     : 1.80%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500264295\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Mathematical_Solver/input -o /dev/shm/work/Mathematical_Solver/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Mathematical_Solver/Mathematical_Solver.dict -- data/linux/processed-challenges/Mathematical_Solver/bin/Mathematical_Solver\n'
+p17
+I53
+tp18
+a(I1080
+S'start_time     : 1500263342\nlast_update    : 1500264423\nfuzzer_pid     : 27318\ncycles_done    : 51\nexecs_done     : 909105\nexecs_per_sec  : 788.60\npaths_total    : 214\npaths_favored  : 89\npaths_found    : 213\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 4\npending_favs   : 88\npending_total  : 211\nvariable_paths : 0\nbitmap_cvg     : 1.99%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500264393\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Mathematical_Solver/input -o /dev/shm/work/Mathematical_Solver/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Mathematical_Solver/Mathematical_Solver.dict -- data/linux/processed-challenges/Mathematical_Solver/bin/Mathematical_Solver\n'
+p19
+I20
+tp20
+a(I1200
+S'start_time     : 1500263342\nlast_update    : 1500264544\nfuzzer_pid     : 27318\ncycles_done    : 51\nexecs_done     : 1006746\nexecs_per_sec  : 823.46\npaths_total    : 215\npaths_favored  : 89\npaths_found    : 214\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 4\npending_favs   : 88\npending_total  : 212\nvariable_paths : 0\nbitmap_cvg     : 2.01%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500264513\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Mathematical_Solver/input -o /dev/shm/work/Mathematical_Solver/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Mathematical_Solver/Mathematical_Solver.dict -- data/linux/processed-challenges/Mathematical_Solver/bin/Mathematical_Solver\n'
+p21
+I1
+tp22
+a(I1320
+S'start_time     : 1500263342\nlast_update    : 1500264664\nfuzzer_pid     : 27318\ncycles_done    : 51\nexecs_done     : 1093908\nexecs_per_sec  : 745.02\npaths_total    : 244\npaths_favored  : 89\npaths_found    : 243\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 4\npending_favs   : 88\npending_total  : 241\nvariable_paths : 0\nbitmap_cvg     : 2.07%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500264663\nlast_crash     : 0\nlast_hang      : 1500264586\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Mathematical_Solver/input -o /dev/shm/work/Mathematical_Solver/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Mathematical_Solver/Mathematical_Solver.dict -- data/linux/processed-challenges/Mathematical_Solver/bin/Mathematical_Solver\n'
+p23
+I29
+tp24
+a(I1440
+S'start_time     : 1500263342\nlast_update    : 1500264784\nfuzzer_pid     : 27318\ncycles_done    : 51\nexecs_done     : 1193638\nexecs_per_sec  : 871.87\npaths_total    : 247\npaths_favored  : 108\npaths_found    : 246\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 5\npending_favs   : 106\npending_total  : 243\nvariable_paths : 0\nbitmap_cvg     : 2.07%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500264776\nlast_crash     : 0\nlast_hang      : 1500264586\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Mathematical_Solver/input -o /dev/shm/work/Mathematical_Solver/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Mathematical_Solver/Mathematical_Solver.dict -- data/linux/processed-challenges/Mathematical_Solver/bin/Mathematical_Solver\n'
+p25
+I3
+tp26
+a(I1560
+S'start_time     : 1500263342\nlast_update    : 1500264905\nfuzzer_pid     : 27318\ncycles_done    : 51\nexecs_done     : 1292297\nexecs_per_sec  : 799.43\npaths_total    : 249\npaths_favored  : 110\npaths_found    : 248\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 11\npending_favs   : 107\npending_total  : 244\nvariable_paths : 0\nbitmap_cvg     : 2.07%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500264813\nlast_crash     : 0\nlast_hang      : 1500264586\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Mathematical_Solver/input -o /dev/shm/work/Mathematical_Solver/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Mathematical_Solver/Mathematical_Solver.dict -- data/linux/processed-challenges/Mathematical_Solver/bin/Mathematical_Solver\n'
+p27
+I2
+tp28
+a(I1680
+S'start_time     : 1500263342\nlast_update    : 1500265025\nfuzzer_pid     : 27318\ncycles_done    : 51\nexecs_done     : 1389772\nexecs_per_sec  : 717.03\npaths_total    : 254\npaths_favored  : 111\npaths_found    : 253\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 17\npending_favs   : 107\npending_total  : 248\nvariable_paths : 0\nbitmap_cvg     : 2.08%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500265001\nlast_crash     : 0\nlast_hang      : 1500264586\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Mathematical_Solver/input -o /dev/shm/work/Mathematical_Solver/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Mathematical_Solver/Mathematical_Solver.dict -- data/linux/processed-challenges/Mathematical_Solver/bin/Mathematical_Solver\n'
+p29
+I5
+tp30
+a(I1800
+S'start_time     : 1500263342\nlast_update    : 1500265145\nfuzzer_pid     : 27318\ncycles_done    : 51\nexecs_done     : 1475622\nexecs_per_sec  : 724.95\npaths_total    : 254\npaths_favored  : 111\npaths_found    : 253\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 17\npending_favs   : 107\npending_total  : 248\nvariable_paths : 0\nbitmap_cvg     : 2.08%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500265001\nlast_crash     : 0\nlast_hang      : 1500264586\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Mathematical_Solver/input -o /dev/shm/work/Mathematical_Solver/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Mathematical_Solver/Mathematical_Solver.dict -- data/linux/processed-challenges/Mathematical_Solver/bin/Mathematical_Solver\n'
+p31
+I0
+tp32
+a(I1920
+S'start_time     : 1500263342\nlast_update    : 1500265265\nfuzzer_pid     : 27318\ncycles_done    : 51\nexecs_done     : 1572429\nexecs_per_sec  : 771.96\npaths_total    : 258\npaths_favored  : 111\npaths_found    : 257\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 17\npending_favs   : 107\npending_total  : 252\nvariable_paths : 0\nbitmap_cvg     : 2.09%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500265221\nlast_crash     : 0\nlast_hang      : 1500264586\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Mathematical_Solver/input -o /dev/shm/work/Mathematical_Solver/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Mathematical_Solver/Mathematical_Solver.dict -- data/linux/processed-challenges/Mathematical_Solver/bin/Mathematical_Solver\n'
+p33
+I4
+tp34
+a(I2040
+S'start_time     : 1500263342\nlast_update    : 1500265386\nfuzzer_pid     : 27318\ncycles_done    : 51\nexecs_done     : 1667861\nexecs_per_sec  : 849.20\npaths_total    : 268\npaths_favored  : 116\npaths_found    : 267\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 19\npending_favs   : 112\npending_total  : 261\nvariable_paths : 0\nbitmap_cvg     : 2.12%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500265359\nlast_crash     : 0\nlast_hang      : 1500264586\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Mathematical_Solver/input -o /dev/shm/work/Mathematical_Solver/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Mathematical_Solver/Mathematical_Solver.dict -- data/linux/processed-challenges/Mathematical_Solver/bin/Mathematical_Solver\n'
+p35
+I10
+tp36
+a(I2160
+S'start_time     : 1500263342\nlast_update    : 1500265506\nfuzzer_pid     : 27318\ncycles_done    : 51\nexecs_done     : 1768680\nexecs_per_sec  : 799.36\npaths_total    : 276\npaths_favored  : 116\npaths_found    : 275\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 19\npending_favs   : 112\npending_total  : 269\nvariable_paths : 0\nbitmap_cvg     : 2.13%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500265505\nlast_crash     : 0\nlast_hang      : 1500264586\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Mathematical_Solver/input -o /dev/shm/work/Mathematical_Solver/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Mathematical_Solver/Mathematical_Solver.dict -- data/linux/processed-challenges/Mathematical_Solver/bin/Mathematical_Solver\n'
+p37
+I8
+tp38
+a(I2280
+S'start_time     : 1500263342\nlast_update    : 1500265626\nfuzzer_pid     : 27318\ncycles_done    : 51\nexecs_done     : 1865809\nexecs_per_sec  : 802.72\npaths_total    : 277\npaths_favored  : 116\npaths_found    : 276\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 21\npending_favs   : 111\npending_total  : 269\nvariable_paths : 0\nbitmap_cvg     : 2.13%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500265522\nlast_crash     : 0\nlast_hang      : 1500265542\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Mathematical_Solver/input -o /dev/shm/work/Mathematical_Solver/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Mathematical_Solver/Mathematical_Solver.dict -- data/linux/processed-challenges/Mathematical_Solver/bin/Mathematical_Solver\n'
+p39
+I1
+tp40
+a(I2400
+S'start_time     : 1500263342\nlast_update    : 1500265746\nfuzzer_pid     : 27318\ncycles_done    : 51\nexecs_done     : 1958226\nexecs_per_sec  : 705.40\npaths_total    : 297\npaths_favored  : 123\npaths_found    : 296\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 26\npending_favs   : 117\npending_total  : 288\nvariable_paths : 0\nbitmap_cvg     : 2.16%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500265716\nlast_crash     : 0\nlast_hang      : 1500265542\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Mathematical_Solver/input -o /dev/shm/work/Mathematical_Solver/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Mathematical_Solver/Mathematical_Solver.dict -- data/linux/processed-challenges/Mathematical_Solver/bin/Mathematical_Solver\n'
+p41
+I20
+tp42
+a(I2520
+S'start_time     : 1500263342\nlast_update    : 1500265866\nfuzzer_pid     : 27318\ncycles_done    : 51\nexecs_done     : 2057663\nexecs_per_sec  : 832.54\npaths_total    : 298\npaths_favored  : 123\npaths_found    : 297\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 26\npending_favs   : 117\npending_total  : 289\nvariable_paths : 0\nbitmap_cvg     : 2.16%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500265849\nlast_crash     : 0\nlast_hang      : 1500265542\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Mathematical_Solver/input -o /dev/shm/work/Mathematical_Solver/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Mathematical_Solver/Mathematical_Solver.dict -- data/linux/processed-challenges/Mathematical_Solver/bin/Mathematical_Solver\n'
+p43
+I1
+tp44
+a(I2640
+S'start_time     : 1500263342\nlast_update    : 1500265987\nfuzzer_pid     : 27318\ncycles_done    : 51\nexecs_done     : 2155202\nexecs_per_sec  : 802.46\npaths_total    : 299\npaths_favored  : 123\npaths_found    : 298\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 30\npending_favs   : 116\npending_total  : 289\nvariable_paths : 0\nbitmap_cvg     : 2.17%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500265970\nlast_crash     : 0\nlast_hang      : 1500265542\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Mathematical_Solver/input -o /dev/shm/work/Mathematical_Solver/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Mathematical_Solver/Mathematical_Solver.dict -- data/linux/processed-challenges/Mathematical_Solver/bin/Mathematical_Solver\n'
+p45
+I1
+tp46
+a(I2760
+S'start_time     : 1500263342\nlast_update    : 1500266107\nfuzzer_pid     : 27318\ncycles_done    : 51\nexecs_done     : 2253066\nexecs_per_sec  : 837.95\npaths_total    : 303\npaths_favored  : 123\npaths_found    : 302\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 30\npending_favs   : 116\npending_total  : 293\nvariable_paths : 0\nbitmap_cvg     : 2.19%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500266040\nlast_crash     : 0\nlast_hang      : 1500265542\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Mathematical_Solver/input -o /dev/shm/work/Mathematical_Solver/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Mathematical_Solver/Mathematical_Solver.dict -- data/linux/processed-challenges/Mathematical_Solver/bin/Mathematical_Solver\n'
+p47
+I4
+tp48
+a(I2880
+S'start_time     : 1500263342\nlast_update    : 1500266227\nfuzzer_pid     : 27318\ncycles_done    : 51\nexecs_done     : 2340794\nexecs_per_sec  : 804.33\npaths_total    : 307\npaths_favored  : 123\npaths_found    : 306\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 30\npending_favs   : 116\npending_total  : 297\nvariable_paths : 0\nbitmap_cvg     : 2.20%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500266224\nlast_crash     : 0\nlast_hang      : 1500266153\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Mathematical_Solver/input -o /dev/shm/work/Mathematical_Solver/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Mathematical_Solver/Mathematical_Solver.dict -- data/linux/processed-challenges/Mathematical_Solver/bin/Mathematical_Solver\n'
+p49
+I5
+tp50
+a(I3000
+S'start_time     : 1500263342\nlast_update    : 1500266347\nfuzzer_pid     : 27318\ncycles_done    : 51\nexecs_done     : 2440980\nexecs_per_sec  : 890.54\npaths_total    : 309\npaths_favored  : 126\npaths_found    : 308\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 33\npending_favs   : 118\npending_total  : 298\nvariable_paths : 0\nbitmap_cvg     : 2.20%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500266272\nlast_crash     : 0\nlast_hang      : 1500266153\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Mathematical_Solver/input -o /dev/shm/work/Mathematical_Solver/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Mathematical_Solver/Mathematical_Solver.dict -- data/linux/processed-challenges/Mathematical_Solver/bin/Mathematical_Solver\n'
+p51
+I1
+tp52
+a(I3120
+S'start_time     : 1500263342\nlast_update    : 1500266467\nfuzzer_pid     : 27318\ncycles_done    : 51\nexecs_done     : 2539169\nexecs_per_sec  : 771.58\npaths_total    : 321\npaths_favored  : 126\npaths_found    : 320\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 33\npending_favs   : 118\npending_total  : 310\nvariable_paths : 0\nbitmap_cvg     : 2.21%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500266447\nlast_crash     : 0\nlast_hang      : 1500266153\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Mathematical_Solver/input -o /dev/shm/work/Mathematical_Solver/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Mathematical_Solver/Mathematical_Solver.dict -- data/linux/processed-challenges/Mathematical_Solver/bin/Mathematical_Solver\n'
+p53
+I12
+tp54
+a(I3240
+S'start_time     : 1500263342\nlast_update    : 1500266588\nfuzzer_pid     : 27318\ncycles_done    : 51\nexecs_done     : 2639244\nexecs_per_sec  : 848.21\npaths_total    : 321\npaths_favored  : 129\npaths_found    : 320\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 35\npending_favs   : 120\npending_total  : 309\nvariable_paths : 0\nbitmap_cvg     : 2.21%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500266447\nlast_crash     : 0\nlast_hang      : 1500266153\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Mathematical_Solver/input -o /dev/shm/work/Mathematical_Solver/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Mathematical_Solver/Mathematical_Solver.dict -- data/linux/processed-challenges/Mathematical_Solver/bin/Mathematical_Solver\n'
+p55
+I1
+tp56
+a(I3360
+S'start_time     : 1500263342\nlast_update    : 1500266708\nfuzzer_pid     : 27318\ncycles_done    : 51\nexecs_done     : 2726602\nexecs_per_sec  : 642.69\npaths_total    : 334\npaths_favored  : 133\npaths_found    : 333\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 38\npending_favs   : 123\npending_total  : 321\nvariable_paths : 0\nbitmap_cvg     : 2.21%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500266637\nlast_crash     : 0\nlast_hang      : 1500266153\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Mathematical_Solver/input -o /dev/shm/work/Mathematical_Solver/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Mathematical_Solver/Mathematical_Solver.dict -- data/linux/processed-challenges/Mathematical_Solver/bin/Mathematical_Solver\n'
+p57
+I12
+tp58
+a(I3480
+S'start_time     : 1500263342\nlast_update    : 1500266828\nfuzzer_pid     : 27318\ncycles_done    : 51\nexecs_done     : 2805006\nexecs_per_sec  : 837.36\npaths_total    : 338\npaths_favored  : 133\npaths_found    : 337\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 38\npending_favs   : 123\npending_total  : 325\nvariable_paths : 0\nbitmap_cvg     : 2.21%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500266771\nlast_crash     : 0\nlast_hang      : 1500266153\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Mathematical_Solver/input -o /dev/shm/work/Mathematical_Solver/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Mathematical_Solver/Mathematical_Solver.dict -- data/linux/processed-challenges/Mathematical_Solver/bin/Mathematical_Solver\n'
+p59
+I4
+tp60
+a(I3600
+S'start_time     : 1500263342\nlast_update    : 1500266948\nfuzzer_pid     : 27318\ncycles_done    : 51\nexecs_done     : 2903016\nexecs_per_sec  : 837.03\npaths_total    : 339\npaths_favored  : 133\npaths_found    : 338\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 38\npending_favs   : 123\npending_total  : 326\nvariable_paths : 0\nbitmap_cvg     : 2.21%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500266887\nlast_crash     : 0\nlast_hang      : 1500266153\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Mathematical_Solver/input -o /dev/shm/work/Mathematical_Solver/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Mathematical_Solver/Mathematical_Solver.dict -- data/linux/processed-challenges/Mathematical_Solver/bin/Mathematical_Solver\n'
+p61
+I1
+tp62
+a(I3720
+S'start_time     : 1500263342\nlast_update    : 1500267068\nfuzzer_pid     : 27318\ncycles_done    : 51\nexecs_done     : 2997866\nexecs_per_sec  : 804.08\npaths_total    : 344\npaths_favored  : 133\npaths_found    : 343\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 38\npending_favs   : 123\npending_total  : 331\nvariable_paths : 0\nbitmap_cvg     : 2.22%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500267054\nlast_crash     : 0\nlast_hang      : 1500266153\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Mathematical_Solver/input -o /dev/shm/work/Mathematical_Solver/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Mathematical_Solver/Mathematical_Solver.dict -- data/linux/processed-challenges/Mathematical_Solver/bin/Mathematical_Solver\n'
+p63
+I6
+tp64
+a(I3840
+S'start_time     : 1500263342\nlast_update    : 1500267189\nfuzzer_pid     : 27318\ncycles_done    : 51\nexecs_done     : 3076308\nexecs_per_sec  : 626.74\npaths_total    : 346\npaths_favored  : 134\npaths_found    : 345\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 41\npending_favs   : 123\npending_total  : 332\nvariable_paths : 0\nbitmap_cvg     : 2.22%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500267127\nlast_crash     : 0\nlast_hang      : 1500266153\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Mathematical_Solver/input -o /dev/shm/work/Mathematical_Solver/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Mathematical_Solver/Mathematical_Solver.dict -- data/linux/processed-challenges/Mathematical_Solver/bin/Mathematical_Solver\n'
+p65
+I1
+tp66
+a(I3960
+S'start_time     : 1500263342\nlast_update    : 1500267309\nfuzzer_pid     : 27318\ncycles_done    : 51\nexecs_done     : 3168475\nexecs_per_sec  : 790.76\npaths_total    : 346\npaths_favored  : 134\npaths_found    : 345\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 41\npending_favs   : 123\npending_total  : 332\nvariable_paths : 0\nbitmap_cvg     : 2.22%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500267127\nlast_crash     : 0\nlast_hang      : 1500266153\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Mathematical_Solver/input -o /dev/shm/work/Mathematical_Solver/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Mathematical_Solver/Mathematical_Solver.dict -- data/linux/processed-challenges/Mathematical_Solver/bin/Mathematical_Solver\n'
+p67
+I0
+tp68
+a(I4080
+S'start_time     : 1500263342\nlast_update    : 1500267429\nfuzzer_pid     : 27318\ncycles_done    : 51\nexecs_done     : 3263920\nexecs_per_sec  : 786.88\npaths_total    : 346\npaths_favored  : 134\npaths_found    : 345\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 41\npending_favs   : 123\npending_total  : 332\nvariable_paths : 0\nbitmap_cvg     : 2.22%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500267127\nlast_crash     : 0\nlast_hang      : 1500266153\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Mathematical_Solver/input -o /dev/shm/work/Mathematical_Solver/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Mathematical_Solver/Mathematical_Solver.dict -- data/linux/processed-challenges/Mathematical_Solver/bin/Mathematical_Solver\n'
+p69
+I0
+tp70
+a(I4200
+S'start_time     : 1500263342\nlast_update    : 1500267549\nfuzzer_pid     : 27318\ncycles_done    : 51\nexecs_done     : 3359052\nexecs_per_sec  : 714.89\npaths_total    : 375\npaths_favored  : 144\npaths_found    : 374\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 49\npending_favs   : 132\npending_total  : 360\nvariable_paths : 0\nbitmap_cvg     : 2.25%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500267538\nlast_crash     : 0\nlast_hang      : 1500266153\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Mathematical_Solver/input -o /dev/shm/work/Mathematical_Solver/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Mathematical_Solver/Mathematical_Solver.dict -- data/linux/processed-challenges/Mathematical_Solver/bin/Mathematical_Solver\n'
+p71
+I29
+tp72
+a(I4320
+S'start_time     : 1500263342\nlast_update    : 1500267669\nfuzzer_pid     : 27318\ncycles_done    : 51\nexecs_done     : 3437950\nexecs_per_sec  : 670.92\npaths_total    : 376\npaths_favored  : 144\npaths_found    : 375\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 49\npending_favs   : 132\npending_total  : 361\nvariable_paths : 0\nbitmap_cvg     : 2.26%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500267648\nlast_crash     : 0\nlast_hang      : 1500266153\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Mathematical_Solver/input -o /dev/shm/work/Mathematical_Solver/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Mathematical_Solver/Mathematical_Solver.dict -- data/linux/processed-challenges/Mathematical_Solver/bin/Mathematical_Solver\n'
+p73
+I1
+tp74
+a(I4440
+S'start_time     : 1500263342\nlast_update    : 1500267790\nfuzzer_pid     : 27318\ncycles_done    : 51\nexecs_done     : 3533062\nexecs_per_sec  : 803.22\npaths_total    : 376\npaths_favored  : 144\npaths_found    : 375\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 49\npending_favs   : 132\npending_total  : 361\nvariable_paths : 0\nbitmap_cvg     : 2.26%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500267648\nlast_crash     : 0\nlast_hang      : 1500266153\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Mathematical_Solver/input -o /dev/shm/work/Mathematical_Solver/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Mathematical_Solver/Mathematical_Solver.dict -- data/linux/processed-challenges/Mathematical_Solver/bin/Mathematical_Solver\n'
+p75
+I0
+tp76
+a(I4560
+S'start_time     : 1500263342\nlast_update    : 1500267910\nfuzzer_pid     : 27318\ncycles_done    : 51\nexecs_done     : 3630716\nexecs_per_sec  : 701.76\npaths_total    : 383\npaths_favored  : 144\npaths_found    : 382\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 49\npending_favs   : 132\npending_total  : 368\nvariable_paths : 0\nbitmap_cvg     : 2.27%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500267905\nlast_crash     : 0\nlast_hang      : 1500266153\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Mathematical_Solver/input -o /dev/shm/work/Mathematical_Solver/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Mathematical_Solver/Mathematical_Solver.dict -- data/linux/processed-challenges/Mathematical_Solver/bin/Mathematical_Solver\n'
+p77
+I7
+tp78
+a(I4680
+S'start_time     : 1500263342\nlast_update    : 1500268030\nfuzzer_pid     : 27318\ncycles_done    : 51\nexecs_done     : 3726700\nexecs_per_sec  : 848.78\npaths_total    : 387\npaths_favored  : 146\npaths_found    : 386\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 51\npending_favs   : 134\npending_total  : 371\nvariable_paths : 0\nbitmap_cvg     : 2.27%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500267988\nlast_crash     : 0\nlast_hang      : 1500266153\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Mathematical_Solver/input -o /dev/shm/work/Mathematical_Solver/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Mathematical_Solver/Mathematical_Solver.dict -- data/linux/processed-challenges/Mathematical_Solver/bin/Mathematical_Solver\n'
+p79
+I4
+tp80
+a(I4800
+S'start_time     : 1500263342\nlast_update    : 1500268150\nfuzzer_pid     : 27318\ncycles_done    : 51\nexecs_done     : 3826945\nexecs_per_sec  : 786.54\npaths_total    : 387\npaths_favored  : 146\npaths_found    : 386\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 51\npending_favs   : 134\npending_total  : 371\nvariable_paths : 0\nbitmap_cvg     : 2.27%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500267988\nlast_crash     : 0\nlast_hang      : 1500266153\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Mathematical_Solver/input -o /dev/shm/work/Mathematical_Solver/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Mathematical_Solver/Mathematical_Solver.dict -- data/linux/processed-challenges/Mathematical_Solver/bin/Mathematical_Solver\n'
+p81
+I0
+tp82
+a(I4920
+S'start_time     : 1500263342\nlast_update    : 1500268271\nfuzzer_pid     : 27318\ncycles_done    : 51\nexecs_done     : 3908532\nexecs_per_sec  : 646.72\npaths_total    : 388\npaths_favored  : 146\npaths_found    : 387\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 54\npending_favs   : 133\npending_total  : 371\nvariable_paths : 0\nbitmap_cvg     : 2.27%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500268186\nlast_crash     : 0\nlast_hang      : 1500266153\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Mathematical_Solver/input -o /dev/shm/work/Mathematical_Solver/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Mathematical_Solver/Mathematical_Solver.dict -- data/linux/processed-challenges/Mathematical_Solver/bin/Mathematical_Solver\n'
+p83
+I1
+tp84
+a(I5040
+S'start_time     : 1500263342\nlast_update    : 1500268331\nfuzzer_pid     : 27318\ncycles_done    : 51\nexecs_done     : 3948321\nexecs_per_sec  : 802.23\npaths_total    : 389\npaths_favored  : 146\npaths_found    : 388\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 54\npending_favs   : 133\npending_total  : 372\nvariable_paths : 0\nbitmap_cvg     : 2.27%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500268298\nlast_crash     : 0\nlast_hang      : 1500266153\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Mathematical_Solver/input -o /dev/shm/work/Mathematical_Solver/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Mathematical_Solver/Mathematical_Solver.dict -- data/linux/processed-challenges/Mathematical_Solver/bin/Mathematical_Solver\n'
+p85
+I1
+tp86
+a(I5160
+S'start_time     : 1500263342\nlast_update    : 1500268451\nfuzzer_pid     : 27318\ncycles_done    : 51\nexecs_done     : 4047184\nexecs_per_sec  : 797.32\npaths_total    : 389\npaths_favored  : 146\npaths_found    : 388\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 54\npending_favs   : 133\npending_total  : 372\nvariable_paths : 0\nbitmap_cvg     : 2.27%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500268298\nlast_crash     : 0\nlast_hang      : 1500266153\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Mathematical_Solver/input -o /dev/shm/work/Mathematical_Solver/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Mathematical_Solver/Mathematical_Solver.dict -- data/linux/processed-challenges/Mathematical_Solver/bin/Mathematical_Solver\n'
+p87
+I1
+tp88
+a(I5280
+S'start_time     : 1500263342\nlast_update    : 1500268571\nfuzzer_pid     : 27318\ncycles_done    : 51\nexecs_done     : 4143099\nexecs_per_sec  : 777.55\npaths_total    : 394\npaths_favored  : 146\npaths_found    : 393\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 54\npending_favs   : 133\npending_total  : 377\nvariable_paths : 0\nbitmap_cvg     : 2.28%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500268565\nlast_crash     : 0\nlast_hang      : 1500266153\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Mathematical_Solver/input -o /dev/shm/work/Mathematical_Solver/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Mathematical_Solver/Mathematical_Solver.dict -- data/linux/processed-challenges/Mathematical_Solver/bin/Mathematical_Solver\n'
+p89
+I8
+tp90
+a(I5400
+S'start_time     : 1500263342\nlast_update    : 1500268692\nfuzzer_pid     : 27318\ncycles_done    : 51\nexecs_done     : 4233644\nexecs_per_sec  : 645.03\npaths_total    : 399\npaths_favored  : 154\npaths_found    : 398\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 64\npending_favs   : 140\npending_total  : 381\nvariable_paths : 0\nbitmap_cvg     : 2.29%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500268648\nlast_crash     : 0\nlast_hang      : 1500266153\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Mathematical_Solver/input -o /dev/shm/work/Mathematical_Solver/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Mathematical_Solver/Mathematical_Solver.dict -- data/linux/processed-challenges/Mathematical_Solver/bin/Mathematical_Solver\n'
+p91
+I1
+tp92
+a(I5520
+S'start_time     : 1500263342\nlast_update    : 1500268812\nfuzzer_pid     : 27318\ncycles_done    : 51\nexecs_done     : 4311055\nexecs_per_sec  : 650.06\npaths_total    : 399\npaths_favored  : 154\npaths_found    : 398\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 64\npending_favs   : 140\npending_total  : 381\nvariable_paths : 0\nbitmap_cvg     : 2.29%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500268648\nlast_crash     : 0\nlast_hang      : 1500266153\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Mathematical_Solver/input -o /dev/shm/work/Mathematical_Solver/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Mathematical_Solver/Mathematical_Solver.dict -- data/linux/processed-challenges/Mathematical_Solver/bin/Mathematical_Solver\n'
+p93
+I0
+tp94
+a(I5640
+S'start_time     : 1500263342\nlast_update    : 1500268932\nfuzzer_pid     : 27318\ncycles_done    : 51\nexecs_done     : 4407325\nexecs_per_sec  : 790.83\npaths_total    : 400\npaths_favored  : 154\npaths_found    : 399\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 64\npending_favs   : 140\npending_total  : 382\nvariable_paths : 0\nbitmap_cvg     : 2.29%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500268892\nlast_crash     : 0\nlast_hang      : 1500266153\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Mathematical_Solver/input -o /dev/shm/work/Mathematical_Solver/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Mathematical_Solver/Mathematical_Solver.dict -- data/linux/processed-challenges/Mathematical_Solver/bin/Mathematical_Solver\n'
+p95
+I2
+tp96
+a(I5760
+S'start_time     : 1500263342\nlast_update    : 1500269052\nfuzzer_pid     : 27318\ncycles_done    : 51\nexecs_done     : 4504187\nexecs_per_sec  : 850.75\npaths_total    : 402\npaths_favored  : 154\npaths_found    : 401\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 64\npending_favs   : 140\npending_total  : 384\nvariable_paths : 0\nbitmap_cvg     : 2.30%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500269014\nlast_crash     : 0\nlast_hang      : 1500266153\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Mathematical_Solver/input -o /dev/shm/work/Mathematical_Solver/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Mathematical_Solver/Mathematical_Solver.dict -- data/linux/processed-challenges/Mathematical_Solver/bin/Mathematical_Solver\n'
+p97
+I26
+tp98
+a(I5880
+S'start_time     : 1500263342\nlast_update    : 1500269172\nfuzzer_pid     : 27318\ncycles_done    : 51\nexecs_done     : 4599788\nexecs_per_sec  : 744.52\npaths_total    : 429\npaths_favored  : 169\npaths_found    : 428\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 66\npending_favs   : 154\npending_total  : 410\nvariable_paths : 0\nbitmap_cvg     : 2.34%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500269141\nlast_crash     : 0\nlast_hang      : 1500266153\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Mathematical_Solver/input -o /dev/shm/work/Mathematical_Solver/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Mathematical_Solver/Mathematical_Solver.dict -- data/linux/processed-challenges/Mathematical_Solver/bin/Mathematical_Solver\n'
+p99
+I2
+tp100
+a(I6000
+S'start_time     : 1500263342\nlast_update    : 1500269292\nfuzzer_pid     : 27318\ncycles_done    : 51\nexecs_done     : 4685818\nexecs_per_sec  : 720.59\npaths_total    : 429\npaths_favored  : 169\npaths_found    : 428\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 66\npending_favs   : 154\npending_total  : 410\nvariable_paths : 0\nbitmap_cvg     : 2.34%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500269141\nlast_crash     : 0\nlast_hang      : 1500266153\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Mathematical_Solver/input -o /dev/shm/work/Mathematical_Solver/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Mathematical_Solver/Mathematical_Solver.dict -- data/linux/processed-challenges/Mathematical_Solver/bin/Mathematical_Solver\n'
+p101
+I0
+tp102
+a(I6120
+S'start_time     : 1500263342\nlast_update    : 1500269413\nfuzzer_pid     : 27318\ncycles_done    : 51\nexecs_done     : 4784817\nexecs_per_sec  : 843.78\npaths_total    : 430\npaths_favored  : 169\npaths_found    : 429\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 66\npending_favs   : 154\npending_total  : 411\nvariable_paths : 0\nbitmap_cvg     : 2.34%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500269390\nlast_crash     : 0\nlast_hang      : 1500266153\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Mathematical_Solver/input -o /dev/shm/work/Mathematical_Solver/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Mathematical_Solver/Mathematical_Solver.dict -- data/linux/processed-challenges/Mathematical_Solver/bin/Mathematical_Solver\n'
+p103
+I1
+tp104
+a(I6240
+S'start_time     : 1500263342\nlast_update    : 1500269533\nfuzzer_pid     : 27318\ncycles_done    : 51\nexecs_done     : 4879603\nexecs_per_sec  : 797.62\npaths_total    : 435\npaths_favored  : 169\npaths_found    : 434\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 66\npending_favs   : 154\npending_total  : 416\nvariable_paths : 0\nbitmap_cvg     : 2.35%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500269532\nlast_crash     : 0\nlast_hang      : 1500266153\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Mathematical_Solver/input -o /dev/shm/work/Mathematical_Solver/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Mathematical_Solver/Mathematical_Solver.dict -- data/linux/processed-challenges/Mathematical_Solver/bin/Mathematical_Solver\n'
+p105
+I5
+tp106
+a(I6360
+S'start_time     : 1500263342\nlast_update    : 1500269653\nfuzzer_pid     : 27318\ncycles_done    : 51\nexecs_done     : 4958292\nexecs_per_sec  : 667.12\npaths_total    : 435\npaths_favored  : 169\npaths_found    : 434\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 67\npending_favs   : 153\npending_total  : 415\nvariable_paths : 0\nbitmap_cvg     : 2.35%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500269532\nlast_crash     : 0\nlast_hang      : 1500266153\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Mathematical_Solver/input -o /dev/shm/work/Mathematical_Solver/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Mathematical_Solver/Mathematical_Solver.dict -- data/linux/processed-challenges/Mathematical_Solver/bin/Mathematical_Solver\n'
+p107
+I0
+tp108
+a(I6480
+S'start_time     : 1500263342\nlast_update    : 1500269773\nfuzzer_pid     : 27318\ncycles_done    : 51\nexecs_done     : 5049016\nexecs_per_sec  : 754.06\npaths_total    : 435\npaths_favored  : 169\npaths_found    : 434\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 67\npending_favs   : 153\npending_total  : 415\nvariable_paths : 0\nbitmap_cvg     : 2.35%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500269532\nlast_crash     : 0\nlast_hang      : 1500266153\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Mathematical_Solver/input -o /dev/shm/work/Mathematical_Solver/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Mathematical_Solver/Mathematical_Solver.dict -- data/linux/processed-challenges/Mathematical_Solver/bin/Mathematical_Solver\n'
+p109
+I0
+tp110
+a(I6600
+S'start_time     : 1500263342\nlast_update    : 1500269894\nfuzzer_pid     : 27318\ncycles_done    : 51\nexecs_done     : 5144234\nexecs_per_sec  : 652.22\npaths_total    : 436\npaths_favored  : 169\npaths_found    : 435\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 67\npending_favs   : 153\npending_total  : 416\nvariable_paths : 0\nbitmap_cvg     : 2.35%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500269884\nlast_crash     : 0\nlast_hang      : 1500266153\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Mathematical_Solver/input -o /dev/shm/work/Mathematical_Solver/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Mathematical_Solver/Mathematical_Solver.dict -- data/linux/processed-challenges/Mathematical_Solver/bin/Mathematical_Solver\n'
+p111
+I1
+tp112
+a(I6720
+S'start_time     : 1500263342\nlast_update    : 1500270014\nfuzzer_pid     : 27318\ncycles_done    : 51\nexecs_done     : 5225452\nexecs_per_sec  : 656.31\npaths_total    : 436\npaths_favored  : 170\npaths_found    : 435\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 69\npending_favs   : 153\npending_total  : 415\nvariable_paths : 0\nbitmap_cvg     : 2.35%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500269884\nlast_crash     : 0\nlast_hang      : 1500266153\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Mathematical_Solver/input -o /dev/shm/work/Mathematical_Solver/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Mathematical_Solver/Mathematical_Solver.dict -- data/linux/processed-challenges/Mathematical_Solver/bin/Mathematical_Solver\n'
+p113
+I0
+tp114
+a(I6840
+S'start_time     : 1500263342\nlast_update    : 1500270134\nfuzzer_pid     : 27318\ncycles_done    : 51\nexecs_done     : 5309666\nexecs_per_sec  : 836.37\npaths_total    : 436\npaths_favored  : 170\npaths_found    : 435\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 69\npending_favs   : 153\npending_total  : 415\nvariable_paths : 0\nbitmap_cvg     : 2.35%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500269884\nlast_crash     : 0\nlast_hang      : 1500266153\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Mathematical_Solver/input -o /dev/shm/work/Mathematical_Solver/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Mathematical_Solver/Mathematical_Solver.dict -- data/linux/processed-challenges/Mathematical_Solver/bin/Mathematical_Solver\n'
+p115
+I1
+tp116
+a(I6960
+S'start_time     : 1500263342\nlast_update    : 1500270255\nfuzzer_pid     : 27318\ncycles_done    : 51\nexecs_done     : 5406556\nexecs_per_sec  : 816.19\npaths_total    : 437\npaths_favored  : 170\npaths_found    : 436\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 69\npending_favs   : 153\npending_total  : 416\nvariable_paths : 0\nbitmap_cvg     : 2.35%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500270186\nlast_crash     : 0\nlast_hang      : 1500266153\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Mathematical_Solver/input -o /dev/shm/work/Mathematical_Solver/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Mathematical_Solver/Mathematical_Solver.dict -- data/linux/processed-challenges/Mathematical_Solver/bin/Mathematical_Solver\n'
+p117
+I0
+tp118
+a(I7080
+S'start_time     : 1500263342\nlast_update    : 1500270375\nfuzzer_pid     : 27318\ncycles_done    : 51\nexecs_done     : 5504490\nexecs_per_sec  : 821.01\npaths_total    : 440\npaths_favored  : 170\npaths_found    : 439\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 69\npending_favs   : 153\npending_total  : 419\nvariable_paths : 0\nbitmap_cvg     : 2.35%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500270361\nlast_crash     : 0\nlast_hang      : 1500266153\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Mathematical_Solver/input -o /dev/shm/work/Mathematical_Solver/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Mathematical_Solver/Mathematical_Solver.dict -- data/linux/processed-challenges/Mathematical_Solver/bin/Mathematical_Solver\n'
+p119
+I3
+tp120
+a(I7200
+S'start_time     : 1500263342\nlast_update    : 1500270495\nfuzzer_pid     : 27318\ncycles_done    : 51\nexecs_done     : 5598290\nexecs_per_sec  : 646.50\npaths_total    : 442\npaths_favored  : 172\npaths_found    : 441\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 73\npending_favs   : 155\npending_total  : 420\nvariable_paths : 0\nbitmap_cvg     : 2.35%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500270463\nlast_crash     : 0\nlast_hang      : 1500266153\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Mathematical_Solver/input -o /dev/shm/work/Mathematical_Solver/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Mathematical_Solver/Mathematical_Solver.dict -- data/linux/processed-challenges/Mathematical_Solver/bin/Mathematical_Solver\n'
+p121
+I2
+tp122
+a(I7320
+S'start_time     : 1500263342\nlast_update    : 1500270615\nfuzzer_pid     : 27318\ncycles_done    : 51\nexecs_done     : 5676548\nexecs_per_sec  : 653.49\npaths_total    : 442\npaths_favored  : 172\npaths_found    : 441\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 73\npending_favs   : 155\npending_total  : 420\nvariable_paths : 0\nbitmap_cvg     : 2.35%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500270463\nlast_crash     : 0\nlast_hang      : 1500266153\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Mathematical_Solver/input -o /dev/shm/work/Mathematical_Solver/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Mathematical_Solver/Mathematical_Solver.dict -- data/linux/processed-challenges/Mathematical_Solver/bin/Mathematical_Solver\n'
+p123
+I0
+tp124
+a(I7440
+S'start_time     : 1500263342\nlast_update    : 1500270735\nfuzzer_pid     : 27318\ncycles_done    : 51\nexecs_done     : 5770681\nexecs_per_sec  : 788.82\npaths_total    : 442\npaths_favored  : 172\npaths_found    : 441\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 73\npending_favs   : 155\npending_total  : 420\nvariable_paths : 0\nbitmap_cvg     : 2.35%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500270463\nlast_crash     : 0\nlast_hang      : 1500266153\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Mathematical_Solver/input -o /dev/shm/work/Mathematical_Solver/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Mathematical_Solver/Mathematical_Solver.dict -- data/linux/processed-challenges/Mathematical_Solver/bin/Mathematical_Solver\n'
+p125
+I0
+tp126
+a(I7560
+S'start_time     : 1500263342\nlast_update    : 1500270856\nfuzzer_pid     : 27318\ncycles_done    : 51\nexecs_done     : 5867976\nexecs_per_sec  : 807.69\npaths_total    : 442\npaths_favored  : 172\npaths_found    : 441\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 73\npending_favs   : 155\npending_total  : 420\nvariable_paths : 0\nbitmap_cvg     : 2.35%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500270463\nlast_crash     : 0\nlast_hang      : 1500266153\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Mathematical_Solver/input -o /dev/shm/work/Mathematical_Solver/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Mathematical_Solver/Mathematical_Solver.dict -- data/linux/processed-challenges/Mathematical_Solver/bin/Mathematical_Solver\n'
+p127
+I0
+tp128
+a(I7680
+S'start_time     : 1500263342\nlast_update    : 1500270976\nfuzzer_pid     : 27318\ncycles_done    : 51\nexecs_done     : 5959257\nexecs_per_sec  : 652.45\npaths_total    : 444\npaths_favored  : 172\npaths_found    : 443\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 80\npending_favs   : 154\npending_total  : 421\nvariable_paths : 0\nbitmap_cvg     : 2.35%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500270933\nlast_crash     : 0\nlast_hang      : 1500266153\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Mathematical_Solver/input -o /dev/shm/work/Mathematical_Solver/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Mathematical_Solver/Mathematical_Solver.dict -- data/linux/processed-challenges/Mathematical_Solver/bin/Mathematical_Solver\n'
+p129
+I2
+tp130
+a(I7800
+S'start_time     : 1500263342\nlast_update    : 1500271096\nfuzzer_pid     : 27318\ncycles_done    : 51\nexecs_done     : 6036396\nexecs_per_sec  : 654.80\npaths_total    : 444\npaths_favored  : 172\npaths_found    : 443\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 80\npending_favs   : 154\npending_total  : 421\nvariable_paths : 0\nbitmap_cvg     : 2.35%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500270933\nlast_crash     : 0\nlast_hang      : 1500266153\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Mathematical_Solver/input -o /dev/shm/work/Mathematical_Solver/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Mathematical_Solver/Mathematical_Solver.dict -- data/linux/processed-challenges/Mathematical_Solver/bin/Mathematical_Solver\n'
+p131
+I0
+tp132
+a(I7920
+S'start_time     : 1500263342\nlast_update    : 1500271216\nfuzzer_pid     : 27318\ncycles_done    : 51\nexecs_done     : 6133245\nexecs_per_sec  : 815.86\npaths_total    : 445\npaths_favored  : 172\npaths_found    : 444\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 80\npending_favs   : 154\npending_total  : 422\nvariable_paths : 0\nbitmap_cvg     : 2.35%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500271190\nlast_crash     : 0\nlast_hang      : 1500266153\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Mathematical_Solver/input -o /dev/shm/work/Mathematical_Solver/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Mathematical_Solver/Mathematical_Solver.dict -- data/linux/processed-challenges/Mathematical_Solver/bin/Mathematical_Solver\n'
+p133
+I1
+tp134
+a(I8040
+S'start_time     : 1500263342\nlast_update    : 1500271336\nfuzzer_pid     : 27318\ncycles_done    : 51\nexecs_done     : 6229353\nexecs_per_sec  : 789.94\npaths_total    : 458\npaths_favored  : 172\npaths_found    : 457\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 80\npending_favs   : 154\npending_total  : 435\nvariable_paths : 0\nbitmap_cvg     : 2.37%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500271336\nlast_crash     : 0\nlast_hang      : 1500266153\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Mathematical_Solver/input -o /dev/shm/work/Mathematical_Solver/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Mathematical_Solver/Mathematical_Solver.dict -- data/linux/processed-challenges/Mathematical_Solver/bin/Mathematical_Solver\n'
+p135
+I14
+tp136
+a(I8160
+S'start_time     : 1500263342\nlast_update    : 1500271457\nfuzzer_pid     : 27318\ncycles_done    : 51\nexecs_done     : 6324169\nexecs_per_sec  : 816.26\npaths_total    : 459\npaths_favored  : 172\npaths_found    : 458\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 80\npending_favs   : 154\npending_total  : 436\nvariable_paths : 0\nbitmap_cvg     : 2.37%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500271343\nlast_crash     : 0\nlast_hang      : 1500266153\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Mathematical_Solver/input -o /dev/shm/work/Mathematical_Solver/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Mathematical_Solver/Mathematical_Solver.dict -- data/linux/processed-challenges/Mathematical_Solver/bin/Mathematical_Solver\n'
+p137
+I0
+tp138
+a(I8280
+S'start_time     : 1500263342\nlast_update    : 1500271577\nfuzzer_pid     : 27318\ncycles_done    : 51\nexecs_done     : 6404406\nexecs_per_sec  : 640.63\npaths_total    : 459\npaths_favored  : 178\npaths_found    : 458\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 83\npending_favs   : 160\npending_total  : 435\nvariable_paths : 0\nbitmap_cvg     : 2.37%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500271343\nlast_crash     : 0\nlast_hang      : 1500266153\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Mathematical_Solver/input -o /dev/shm/work/Mathematical_Solver/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Mathematical_Solver/Mathematical_Solver.dict -- data/linux/processed-challenges/Mathematical_Solver/bin/Mathematical_Solver\n'
+p139
+I0
+tp140
+a(I8400
+S'start_time     : 1500263342\nlast_update    : 1500271697\nfuzzer_pid     : 27318\ncycles_done    : 51\nexecs_done     : 6488820\nexecs_per_sec  : 851.56\npaths_total    : 459\npaths_favored  : 178\npaths_found    : 458\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 83\npending_favs   : 160\npending_total  : 435\nvariable_paths : 0\nbitmap_cvg     : 2.37%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500271343\nlast_crash     : 0\nlast_hang      : 1500266153\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Mathematical_Solver/input -o /dev/shm/work/Mathematical_Solver/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Mathematical_Solver/Mathematical_Solver.dict -- data/linux/processed-challenges/Mathematical_Solver/bin/Mathematical_Solver\n'
+p141
+I0
+tp142
+a(I8520
+S'start_time     : 1500263342\nlast_update    : 1500271817\nfuzzer_pid     : 27318\ncycles_done    : 51\nexecs_done     : 6583945\nexecs_per_sec  : 785.15\npaths_total    : 460\npaths_favored  : 178\npaths_found    : 459\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 83\npending_favs   : 160\npending_total  : 436\nvariable_paths : 0\nbitmap_cvg     : 2.37%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500271792\nlast_crash     : 0\nlast_hang      : 1500271796\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Mathematical_Solver/input -o /dev/shm/work/Mathematical_Solver/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Mathematical_Solver/Mathematical_Solver.dict -- data/linux/processed-challenges/Mathematical_Solver/bin/Mathematical_Solver\n'
+p143
+I2
+tp144
+a(I8640
+S'start_time     : 1500263342\nlast_update    : 1500271937\nfuzzer_pid     : 27318\ncycles_done    : 51\nexecs_done     : 6669678\nexecs_per_sec  : 654.91\npaths_total    : 461\npaths_favored  : 178\npaths_found    : 460\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 87\npending_favs   : 159\npending_total  : 436\nvariable_paths : 0\nbitmap_cvg     : 2.37%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500271824\nlast_crash     : 0\nlast_hang      : 1500271796\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Mathematical_Solver/input -o /dev/shm/work/Mathematical_Solver/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Mathematical_Solver/Mathematical_Solver.dict -- data/linux/processed-challenges/Mathematical_Solver/bin/Mathematical_Solver\n'
+p145
+I0
+tp146
+a(I8760
+S'start_time     : 1500263342\nlast_update    : 1500272058\nfuzzer_pid     : 27318\ncycles_done    : 51\nexecs_done     : 6748257\nexecs_per_sec  : 825.16\npaths_total    : 461\npaths_favored  : 178\npaths_found    : 460\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 87\npending_favs   : 159\npending_total  : 436\nvariable_paths : 0\nbitmap_cvg     : 2.37%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500271824\nlast_crash     : 0\nlast_hang      : 1500271796\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Mathematical_Solver/input -o /dev/shm/work/Mathematical_Solver/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Mathematical_Solver/Mathematical_Solver.dict -- data/linux/processed-challenges/Mathematical_Solver/bin/Mathematical_Solver\n'
+p147
+I0
+tp148
+a(I8880
+S'start_time     : 1500263342\nlast_update    : 1500272178\nfuzzer_pid     : 27318\ncycles_done    : 51\nexecs_done     : 6845041\nexecs_per_sec  : 795.14\npaths_total    : 461\npaths_favored  : 178\npaths_found    : 460\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 87\npending_favs   : 159\npending_total  : 436\nvariable_paths : 0\nbitmap_cvg     : 2.37%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500271824\nlast_crash     : 0\nlast_hang      : 1500271796\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Mathematical_Solver/input -o /dev/shm/work/Mathematical_Solver/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Mathematical_Solver/Mathematical_Solver.dict -- data/linux/processed-challenges/Mathematical_Solver/bin/Mathematical_Solver\n'
+p149
+I1
+tp150
+a(I9000
+S'start_time     : 1500263342\nlast_update    : 1500272298\nfuzzer_pid     : 27318\ncycles_done    : 51\nexecs_done     : 6940116\nexecs_per_sec  : 770.61\npaths_total    : 463\npaths_favored  : 178\npaths_found    : 462\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 87\npending_favs   : 159\npending_total  : 438\nvariable_paths : 0\nbitmap_cvg     : 2.37%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500272272\nlast_crash     : 0\nlast_hang      : 1500271796\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Mathematical_Solver/input -o /dev/shm/work/Mathematical_Solver/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Mathematical_Solver/Mathematical_Solver.dict -- data/linux/processed-challenges/Mathematical_Solver/bin/Mathematical_Solver\n'
+p151
+I18
+tp152
+a(I9120
+S'start_time     : 1500263342\nlast_update    : 1500272418\nfuzzer_pid     : 27318\ncycles_done    : 51\nexecs_done     : 7025970\nexecs_per_sec  : 633.27\npaths_total    : 480\npaths_favored  : 178\npaths_found    : 479\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 92\npending_favs   : 158\npending_total  : 454\nvariable_paths : 0\nbitmap_cvg     : 2.37%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500272332\nlast_crash     : 0\nlast_hang      : 1500271796\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Mathematical_Solver/input -o /dev/shm/work/Mathematical_Solver/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Mathematical_Solver/Mathematical_Solver.dict -- data/linux/processed-challenges/Mathematical_Solver/bin/Mathematical_Solver\n'
+p153
+I1
+tp154
+a(I9240
+S'start_time     : 1500263342\nlast_update    : 1500272538\nfuzzer_pid     : 27318\ncycles_done    : 51\nexecs_done     : 7101879\nexecs_per_sec  : 640.99\npaths_total    : 481\npaths_favored  : 178\npaths_found    : 480\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 92\npending_favs   : 158\npending_total  : 455\nvariable_paths : 0\nbitmap_cvg     : 2.37%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500272465\nlast_crash     : 0\nlast_hang      : 1500271796\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Mathematical_Solver/input -o /dev/shm/work/Mathematical_Solver/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Mathematical_Solver/Mathematical_Solver.dict -- data/linux/processed-challenges/Mathematical_Solver/bin/Mathematical_Solver\n'
+p155
+I0
+tp156
+a(I9360
+S'start_time     : 1500263342\nlast_update    : 1500272658\nfuzzer_pid     : 27318\ncycles_done    : 51\nexecs_done     : 7198524\nexecs_per_sec  : 805.44\npaths_total    : 481\npaths_favored  : 178\npaths_found    : 480\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 92\npending_favs   : 158\npending_total  : 455\nvariable_paths : 0\nbitmap_cvg     : 2.37%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500272465\nlast_crash     : 0\nlast_hang      : 1500271796\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Mathematical_Solver/input -o /dev/shm/work/Mathematical_Solver/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Mathematical_Solver/Mathematical_Solver.dict -- data/linux/processed-challenges/Mathematical_Solver/bin/Mathematical_Solver\n'
+p157
+I0
+tp158
+a(I9480
+S'start_time     : 1500263342\nlast_update    : 1500272779\nfuzzer_pid     : 27318\ncycles_done    : 51\nexecs_done     : 7279536\nexecs_per_sec  : 586.58\npaths_total    : 483\npaths_favored  : 178\npaths_found    : 482\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 92\npending_favs   : 158\npending_total  : 457\nvariable_paths : 0\nbitmap_cvg     : 2.37%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500272732\nlast_crash     : 0\nlast_hang      : 1500271796\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Mathematical_Solver/input -o /dev/shm/work/Mathematical_Solver/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Mathematical_Solver/Mathematical_Solver.dict -- data/linux/processed-challenges/Mathematical_Solver/bin/Mathematical_Solver\n'
+p159
+I2
+tp160
+a(I9600
+S'start_time     : 1500263342\nlast_update    : 1500272899\nfuzzer_pid     : 27318\ncycles_done    : 51\nexecs_done     : 7368145\nexecs_per_sec  : 634.84\npaths_total    : 483\npaths_favored  : 178\npaths_found    : 482\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 94\npending_favs   : 157\npending_total  : 456\nvariable_paths : 0\nbitmap_cvg     : 2.37%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500272732\nlast_crash     : 0\nlast_hang      : 1500271796\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Mathematical_Solver/input -o /dev/shm/work/Mathematical_Solver/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Mathematical_Solver/Mathematical_Solver.dict -- data/linux/processed-challenges/Mathematical_Solver/bin/Mathematical_Solver\n'
+p161
+I0
+tp162
+a(I9720
+S'start_time     : 1500263342\nlast_update    : 1500273019\nfuzzer_pid     : 27318\ncycles_done    : 51\nexecs_done     : 7444442\nexecs_per_sec  : 640.40\npaths_total    : 483\npaths_favored  : 178\npaths_found    : 482\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 94\npending_favs   : 157\npending_total  : 456\nvariable_paths : 0\nbitmap_cvg     : 2.37%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500272732\nlast_crash     : 0\nlast_hang      : 1500271796\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Mathematical_Solver/input -o /dev/shm/work/Mathematical_Solver/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Mathematical_Solver/Mathematical_Solver.dict -- data/linux/processed-challenges/Mathematical_Solver/bin/Mathematical_Solver\n'
+p163
+I0
+tp164
+a(I9840
+S'start_time     : 1500263342\nlast_update    : 1500273139\nfuzzer_pid     : 27318\ncycles_done    : 51\nexecs_done     : 7537816\nexecs_per_sec  : 796.08\npaths_total    : 483\npaths_favored  : 178\npaths_found    : 482\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 94\npending_favs   : 157\npending_total  : 456\nvariable_paths : 0\nbitmap_cvg     : 2.37%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500272732\nlast_crash     : 0\nlast_hang      : 1500271796\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Mathematical_Solver/input -o /dev/shm/work/Mathematical_Solver/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Mathematical_Solver/Mathematical_Solver.dict -- data/linux/processed-challenges/Mathematical_Solver/bin/Mathematical_Solver\n'
+p165
+I0
+tp166
+a(I9960
+S'start_time     : 1500263342\nlast_update    : 1500273259\nfuzzer_pid     : 27318\ncycles_done    : 51\nexecs_done     : 7630289\nexecs_per_sec  : 740.40\npaths_total    : 485\npaths_favored  : 178\npaths_found    : 484\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 94\npending_favs   : 157\npending_total  : 458\nvariable_paths : 0\nbitmap_cvg     : 2.38%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500273254\nlast_crash     : 0\nlast_hang      : 1500271796\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Mathematical_Solver/input -o /dev/shm/work/Mathematical_Solver/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Mathematical_Solver/Mathematical_Solver.dict -- data/linux/processed-challenges/Mathematical_Solver/bin/Mathematical_Solver\n'
+p167
+I3
+tp168
+a(I10080
+S'start_time     : 1500263342\nlast_update    : 1500273379\nfuzzer_pid     : 27318\ncycles_done    : 51\nexecs_done     : 7707493\nexecs_per_sec  : 627.59\npaths_total    : 486\npaths_favored  : 178\npaths_found    : 485\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 103\npending_favs   : 156\npending_total  : 458\nvariable_paths : 0\nbitmap_cvg     : 2.38%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500273263\nlast_crash     : 0\nlast_hang      : 1500271796\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Mathematical_Solver/input -o /dev/shm/work/Mathematical_Solver/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Mathematical_Solver/Mathematical_Solver.dict -- data/linux/processed-challenges/Mathematical_Solver/bin/Mathematical_Solver\n'
+p169
+I0
+tp170
+a(I10200
+S'start_time     : 1500263342\nlast_update    : 1500273500\nfuzzer_pid     : 27318\ncycles_done    : 51\nexecs_done     : 7793587\nexecs_per_sec  : 828.66\npaths_total    : 486\npaths_favored  : 178\npaths_found    : 485\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 103\npending_favs   : 156\npending_total  : 458\nvariable_paths : 0\nbitmap_cvg     : 2.38%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500273263\nlast_crash     : 0\nlast_hang      : 1500271796\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Mathematical_Solver/input -o /dev/shm/work/Mathematical_Solver/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Mathematical_Solver/Mathematical_Solver.dict -- data/linux/processed-challenges/Mathematical_Solver/bin/Mathematical_Solver\n'
+p171
+I0
+tp172
+a(I10320
+S'start_time     : 1500263342\nlast_update    : 1500273620\nfuzzer_pid     : 27318\ncycles_done    : 51\nexecs_done     : 7886751\nexecs_per_sec  : 764.00\npaths_total    : 486\npaths_favored  : 178\npaths_found    : 485\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 103\npending_favs   : 156\npending_total  : 458\nvariable_paths : 0\nbitmap_cvg     : 2.38%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500273263\nlast_crash     : 0\nlast_hang      : 1500271796\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Mathematical_Solver/input -o /dev/shm/work/Mathematical_Solver/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Mathematical_Solver/Mathematical_Solver.dict -- data/linux/processed-challenges/Mathematical_Solver/bin/Mathematical_Solver\n'
+p173
+I0
+tp174
+a(I10440
+S'start_time     : 1500263342\nlast_update    : 1500273740\nfuzzer_pid     : 27318\ncycles_done    : 51\nexecs_done     : 7980419\nexecs_per_sec  : 809.11\npaths_total    : 486\npaths_favored  : 178\npaths_found    : 485\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 103\npending_favs   : 156\npending_total  : 458\nvariable_paths : 0\nbitmap_cvg     : 2.38%\nunique_crashes : 0\nunique_hangs   : 6\nlast_path      : 1500273263\nlast_crash     : 0\nlast_hang      : 1500273709\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Mathematical_Solver/input -o /dev/shm/work/Mathematical_Solver/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Mathematical_Solver/Mathematical_Solver.dict -- data/linux/processed-challenges/Mathematical_Solver/bin/Mathematical_Solver\n'
+p175
+I0
+tp176
+a(I10560
+S'start_time     : 1500263342\nlast_update    : 1500273861\nfuzzer_pid     : 27318\ncycles_done    : 51\nexecs_done     : 8057214\nexecs_per_sec  : 666.28\npaths_total    : 486\npaths_favored  : 178\npaths_found    : 485\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 104\npending_favs   : 155\npending_total  : 457\nvariable_paths : 0\nbitmap_cvg     : 2.38%\nunique_crashes : 0\nunique_hangs   : 6\nlast_path      : 1500273263\nlast_crash     : 0\nlast_hang      : 1500273709\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Mathematical_Solver/input -o /dev/shm/work/Mathematical_Solver/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Mathematical_Solver/Mathematical_Solver.dict -- data/linux/processed-challenges/Mathematical_Solver/bin/Mathematical_Solver\n'
+p177
+I1
+tp178
+a(I10680
+S'start_time     : 1500263342\nlast_update    : 1500273981\nfuzzer_pid     : 27318\ncycles_done    : 51\nexecs_done     : 8147618\nexecs_per_sec  : 776.66\npaths_total    : 487\npaths_favored  : 178\npaths_found    : 486\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 104\npending_favs   : 155\npending_total  : 458\nvariable_paths : 0\nbitmap_cvg     : 2.38%\nunique_crashes : 0\nunique_hangs   : 6\nlast_path      : 1500273875\nlast_crash     : 0\nlast_hang      : 1500273709\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Mathematical_Solver/input -o /dev/shm/work/Mathematical_Solver/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Mathematical_Solver/Mathematical_Solver.dict -- data/linux/processed-challenges/Mathematical_Solver/bin/Mathematical_Solver\n'
+p179
+I0
+tp180
+a.

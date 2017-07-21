@@ -1,0 +1,452 @@
+(lp0
+(I0
+S'start_time     : 1500284996\nlast_update    : 1500284996\nfuzzer_pid     : 27202\ncycles_done    : 0\nexecs_done     : 10\nexecs_per_sec  : 192.31\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 1\npending_total  : 1\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_and_Pantry_Manager/input -o /dev/shm/work/Recipe_and_Pantry_Manager/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_and_Pantry_Manager/Recipe_and_Pantry_Manager.dict -- data/linux/processed-challenges/Recipe_and_Pantry_Manager/bin/Recipe_and_Pantry_Manager\n'
+p1
+I25
+tp2
+a(I120
+S'start_time     : 1500284996\nlast_update    : 1500285116\nfuzzer_pid     : 27202\ncycles_done    : 0\nexecs_done     : 103315\nexecs_per_sec  : 869.16\npaths_total    : 34\npaths_favored  : 1\npaths_found    : 33\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 1\npending_total  : 34\nvariable_paths : 0\nbitmap_cvg     : 0.40%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500285051\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_and_Pantry_Manager/input -o /dev/shm/work/Recipe_and_Pantry_Manager/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_and_Pantry_Manager/Recipe_and_Pantry_Manager.dict -- data/linux/processed-challenges/Recipe_and_Pantry_Manager/bin/Recipe_and_Pantry_Manager\n'
+p3
+I9
+tp4
+a(I240
+S'start_time     : 1500284996\nlast_update    : 1500285236\nfuzzer_pid     : 27202\ncycles_done    : 0\nexecs_done     : 191091\nexecs_per_sec  : 561.21\npaths_total    : 69\npaths_favored  : 3\npaths_found    : 68\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 21\npending_favs   : 3\npending_total  : 68\nvariable_paths : 0\nbitmap_cvg     : 0.63%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500285236\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_and_Pantry_Manager/input -o /dev/shm/work/Recipe_and_Pantry_Manager/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_and_Pantry_Manager/Recipe_and_Pantry_Manager.dict -- data/linux/processed-challenges/Recipe_and_Pantry_Manager/bin/Recipe_and_Pantry_Manager\n'
+p5
+I39
+tp6
+a(I360
+S'start_time     : 1500284996\nlast_update    : 1500285357\nfuzzer_pid     : 27202\ncycles_done    : 0\nexecs_done     : 271126\nexecs_per_sec  : 676.45\npaths_total    : 113\npaths_favored  : 3\npaths_found    : 112\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 21\npending_favs   : 3\npending_total  : 112\nvariable_paths : 0\nbitmap_cvg     : 0.81%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500285351\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_and_Pantry_Manager/input -o /dev/shm/work/Recipe_and_Pantry_Manager/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_and_Pantry_Manager/Recipe_and_Pantry_Manager.dict -- data/linux/processed-challenges/Recipe_and_Pantry_Manager/bin/Recipe_and_Pantry_Manager\n'
+p7
+I41
+tp8
+a(I480
+S'start_time     : 1500284996\nlast_update    : 1500285477\nfuzzer_pid     : 27202\ncycles_done    : 0\nexecs_done     : 351170\nexecs_per_sec  : 668.44\npaths_total    : 125\npaths_favored  : 3\npaths_found    : 124\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 21\npending_favs   : 3\npending_total  : 124\nvariable_paths : 0\nbitmap_cvg     : 0.85%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500285474\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_and_Pantry_Manager/input -o /dev/shm/work/Recipe_and_Pantry_Manager/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_and_Pantry_Manager/Recipe_and_Pantry_Manager.dict -- data/linux/processed-challenges/Recipe_and_Pantry_Manager/bin/Recipe_and_Pantry_Manager\n'
+p9
+I11
+tp10
+a(I600
+S'start_time     : 1500284996\nlast_update    : 1500285597\nfuzzer_pid     : 27202\ncycles_done    : 0\nexecs_done     : 426840\nexecs_per_sec  : 657.97\npaths_total    : 180\npaths_favored  : 21\npaths_found    : 179\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 42\npending_favs   : 20\npending_total  : 177\nvariable_paths : 0\nbitmap_cvg     : 1.32%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500285597\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_and_Pantry_Manager/input -o /dev/shm/work/Recipe_and_Pantry_Manager/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_and_Pantry_Manager/Recipe_and_Pantry_Manager.dict -- data/linux/processed-challenges/Recipe_and_Pantry_Manager/bin/Recipe_and_Pantry_Manager\n'
+p11
+I55
+tp12
+a(I720
+S'start_time     : 1500284996\nlast_update    : 1500285717\nfuzzer_pid     : 27202\ncycles_done    : 0\nexecs_done     : 505687\nexecs_per_sec  : 651.61\npaths_total    : 201\npaths_favored  : 21\npaths_found    : 200\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 42\npending_favs   : 20\npending_total  : 198\nvariable_paths : 0\nbitmap_cvg     : 1.48%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500285711\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_and_Pantry_Manager/input -o /dev/shm/work/Recipe_and_Pantry_Manager/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_and_Pantry_Manager/Recipe_and_Pantry_Manager.dict -- data/linux/processed-challenges/Recipe_and_Pantry_Manager/bin/Recipe_and_Pantry_Manager\n'
+p13
+I21
+tp14
+a(I840
+S'start_time     : 1500284996\nlast_update    : 1500285838\nfuzzer_pid     : 27202\ncycles_done    : 0\nexecs_done     : 578591\nexecs_per_sec  : 451.98\npaths_total    : 210\npaths_favored  : 54\npaths_found    : 209\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 80\npending_favs   : 52\npending_total  : 205\nvariable_paths : 0\nbitmap_cvg     : 1.55%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500285801\nlast_crash     : 0\nlast_hang      : 1500285731\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_and_Pantry_Manager/input -o /dev/shm/work/Recipe_and_Pantry_Manager/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_and_Pantry_Manager/Recipe_and_Pantry_Manager.dict -- data/linux/processed-challenges/Recipe_and_Pantry_Manager/bin/Recipe_and_Pantry_Manager\n'
+p15
+I9
+tp16
+a(I960
+S'start_time     : 1500284996\nlast_update    : 1500285958\nfuzzer_pid     : 27202\ncycles_done    : 0\nexecs_done     : 639909\nexecs_per_sec  : 568.12\npaths_total    : 226\npaths_favored  : 54\npaths_found    : 225\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 80\npending_favs   : 52\npending_total  : 221\nvariable_paths : 0\nbitmap_cvg     : 1.58%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500285952\nlast_crash     : 0\nlast_hang      : 1500285731\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_and_Pantry_Manager/input -o /dev/shm/work/Recipe_and_Pantry_Manager/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_and_Pantry_Manager/Recipe_and_Pantry_Manager.dict -- data/linux/processed-challenges/Recipe_and_Pantry_Manager/bin/Recipe_and_Pantry_Manager\n'
+p17
+I16
+tp18
+a(I1080
+S'start_time     : 1500284996\nlast_update    : 1500286078\nfuzzer_pid     : 27202\ncycles_done    : 0\nexecs_done     : 707994\nexecs_per_sec  : 568.32\npaths_total    : 231\npaths_favored  : 54\npaths_found    : 230\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 80\npending_favs   : 52\npending_total  : 226\nvariable_paths : 0\nbitmap_cvg     : 1.58%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500286076\nlast_crash     : 0\nlast_hang      : 1500285731\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_and_Pantry_Manager/input -o /dev/shm/work/Recipe_and_Pantry_Manager/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_and_Pantry_Manager/Recipe_and_Pantry_Manager.dict -- data/linux/processed-challenges/Recipe_and_Pantry_Manager/bin/Recipe_and_Pantry_Manager\n'
+p19
+I5
+tp20
+a(I1200
+S'start_time     : 1500284996\nlast_update    : 1500286198\nfuzzer_pid     : 27202\ncycles_done    : 0\nexecs_done     : 772323\nexecs_per_sec  : 465.96\npaths_total    : 235\npaths_favored  : 68\npaths_found    : 234\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 83\npending_favs   : 65\npending_total  : 229\nvariable_paths : 0\nbitmap_cvg     : 1.59%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500286168\nlast_crash     : 0\nlast_hang      : 1500285731\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_and_Pantry_Manager/input -o /dev/shm/work/Recipe_and_Pantry_Manager/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_and_Pantry_Manager/Recipe_and_Pantry_Manager.dict -- data/linux/processed-challenges/Recipe_and_Pantry_Manager/bin/Recipe_and_Pantry_Manager\n'
+p21
+I4
+tp22
+a(I1320
+S'start_time     : 1500284996\nlast_update    : 1500286318\nfuzzer_pid     : 27202\ncycles_done    : 0\nexecs_done     : 827092\nexecs_per_sec  : 538.06\npaths_total    : 245\npaths_favored  : 68\npaths_found    : 244\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 83\npending_favs   : 65\npending_total  : 239\nvariable_paths : 0\nbitmap_cvg     : 1.61%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500286317\nlast_crash     : 0\nlast_hang      : 1500285731\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_and_Pantry_Manager/input -o /dev/shm/work/Recipe_and_Pantry_Manager/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_and_Pantry_Manager/Recipe_and_Pantry_Manager.dict -- data/linux/processed-challenges/Recipe_and_Pantry_Manager/bin/Recipe_and_Pantry_Manager\n'
+p23
+I10
+tp24
+a(I1440
+S'start_time     : 1500284996\nlast_update    : 1500286438\nfuzzer_pid     : 27202\ncycles_done    : 0\nexecs_done     : 892979\nexecs_per_sec  : 556.62\npaths_total    : 251\npaths_favored  : 68\npaths_found    : 250\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 83\npending_favs   : 65\npending_total  : 245\nvariable_paths : 0\nbitmap_cvg     : 1.62%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500286434\nlast_crash     : 0\nlast_hang      : 1500285731\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_and_Pantry_Manager/input -o /dev/shm/work/Recipe_and_Pantry_Manager/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_and_Pantry_Manager/Recipe_and_Pantry_Manager.dict -- data/linux/processed-challenges/Recipe_and_Pantry_Manager/bin/Recipe_and_Pantry_Manager\n'
+p25
+I7
+tp26
+a(I1560
+S'start_time     : 1500284996\nlast_update    : 1500286558\nfuzzer_pid     : 27202\ncycles_done    : 0\nexecs_done     : 958788\nexecs_per_sec  : 556.70\npaths_total    : 255\npaths_favored  : 68\npaths_found    : 254\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 83\npending_favs   : 65\npending_total  : 249\nvariable_paths : 0\nbitmap_cvg     : 1.63%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500286551\nlast_crash     : 0\nlast_hang      : 1500285731\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_and_Pantry_Manager/input -o /dev/shm/work/Recipe_and_Pantry_Manager/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_and_Pantry_Manager/Recipe_and_Pantry_Manager.dict -- data/linux/processed-challenges/Recipe_and_Pantry_Manager/bin/Recipe_and_Pantry_Manager\n'
+p27
+I3
+tp28
+a(I1680
+S'start_time     : 1500284996\nlast_update    : 1500286679\nfuzzer_pid     : 27202\ncycles_done    : 0\nexecs_done     : 1006577\nexecs_per_sec  : 362.05\npaths_total    : 258\npaths_favored  : 72\npaths_found    : 257\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 87\npending_favs   : 69\npending_total  : 251\nvariable_paths : 0\nbitmap_cvg     : 1.65%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500286576\nlast_crash     : 0\nlast_hang      : 1500285731\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_and_Pantry_Manager/input -o /dev/shm/work/Recipe_and_Pantry_Manager/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_and_Pantry_Manager/Recipe_and_Pantry_Manager.dict -- data/linux/processed-challenges/Recipe_and_Pantry_Manager/bin/Recipe_and_Pantry_Manager\n'
+p29
+I3
+tp30
+a(I1800
+S'start_time     : 1500284996\nlast_update    : 1500286799\nfuzzer_pid     : 27202\ncycles_done    : 0\nexecs_done     : 1068408\nexecs_per_sec  : 515.11\npaths_total    : 267\npaths_favored  : 72\npaths_found    : 266\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 87\npending_favs   : 69\npending_total  : 260\nvariable_paths : 0\nbitmap_cvg     : 1.69%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500286760\nlast_crash     : 0\nlast_hang      : 1500285731\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_and_Pantry_Manager/input -o /dev/shm/work/Recipe_and_Pantry_Manager/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_and_Pantry_Manager/Recipe_and_Pantry_Manager.dict -- data/linux/processed-challenges/Recipe_and_Pantry_Manager/bin/Recipe_and_Pantry_Manager\n'
+p31
+I9
+tp32
+a(I1920
+S'start_time     : 1500284996\nlast_update    : 1500286919\nfuzzer_pid     : 27202\ncycles_done    : 0\nexecs_done     : 1131908\nexecs_per_sec  : 519.92\npaths_total    : 273\npaths_favored  : 72\npaths_found    : 272\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 87\npending_favs   : 69\npending_total  : 266\nvariable_paths : 0\nbitmap_cvg     : 1.70%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500286917\nlast_crash     : 0\nlast_hang      : 1500285731\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_and_Pantry_Manager/input -o /dev/shm/work/Recipe_and_Pantry_Manager/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_and_Pantry_Manager/Recipe_and_Pantry_Manager.dict -- data/linux/processed-challenges/Recipe_and_Pantry_Manager/bin/Recipe_and_Pantry_Manager\n'
+p33
+I6
+tp34
+a(I2040
+S'start_time     : 1500284996\nlast_update    : 1500287039\nfuzzer_pid     : 27202\ncycles_done    : 0\nexecs_done     : 1196116\nexecs_per_sec  : 548.41\npaths_total    : 273\npaths_favored  : 78\npaths_found    : 272\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 90\npending_favs   : 75\npending_total  : 265\nvariable_paths : 0\nbitmap_cvg     : 1.70%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500286917\nlast_crash     : 0\nlast_hang      : 1500285731\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_and_Pantry_Manager/input -o /dev/shm/work/Recipe_and_Pantry_Manager/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_and_Pantry_Manager/Recipe_and_Pantry_Manager.dict -- data/linux/processed-challenges/Recipe_and_Pantry_Manager/bin/Recipe_and_Pantry_Manager\n'
+p35
+I0
+tp36
+a(I2160
+S'start_time     : 1500284996\nlast_update    : 1500287160\nfuzzer_pid     : 27202\ncycles_done    : 0\nexecs_done     : 1251473\nexecs_per_sec  : 561.41\npaths_total    : 278\npaths_favored  : 78\npaths_found    : 277\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 92\npending_favs   : 74\npending_total  : 269\nvariable_paths : 0\nbitmap_cvg     : 1.71%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500287153\nlast_crash     : 0\nlast_hang      : 1500285731\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_and_Pantry_Manager/input -o /dev/shm/work/Recipe_and_Pantry_Manager/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_and_Pantry_Manager/Recipe_and_Pantry_Manager.dict -- data/linux/processed-challenges/Recipe_and_Pantry_Manager/bin/Recipe_and_Pantry_Manager\n'
+p37
+I5
+tp38
+a(I2280
+S'start_time     : 1500284996\nlast_update    : 1500287280\nfuzzer_pid     : 27202\ncycles_done    : 0\nexecs_done     : 1320919\nexecs_per_sec  : 518.08\npaths_total    : 279\npaths_favored  : 78\npaths_found    : 278\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 113\npending_favs   : 73\npending_total  : 268\nvariable_paths : 0\nbitmap_cvg     : 1.71%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500287174\nlast_crash     : 0\nlast_hang      : 1500285731\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_and_Pantry_Manager/input -o /dev/shm/work/Recipe_and_Pantry_Manager/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_and_Pantry_Manager/Recipe_and_Pantry_Manager.dict -- data/linux/processed-challenges/Recipe_and_Pantry_Manager/bin/Recipe_and_Pantry_Manager\n'
+p39
+I1
+tp40
+a(I2400
+S'start_time     : 1500284996\nlast_update    : 1500287400\nfuzzer_pid     : 27202\ncycles_done    : 0\nexecs_done     : 1383628\nexecs_per_sec  : 632.99\npaths_total    : 288\npaths_favored  : 78\npaths_found    : 287\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 115\npending_favs   : 72\npending_total  : 276\nvariable_paths : 0\nbitmap_cvg     : 1.73%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500287398\nlast_crash     : 0\nlast_hang      : 1500285731\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_and_Pantry_Manager/input -o /dev/shm/work/Recipe_and_Pantry_Manager/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_and_Pantry_Manager/Recipe_and_Pantry_Manager.dict -- data/linux/processed-challenges/Recipe_and_Pantry_Manager/bin/Recipe_and_Pantry_Manager\n'
+p41
+I9
+tp42
+a(I2520
+S'start_time     : 1500284996\nlast_update    : 1500287520\nfuzzer_pid     : 27202\ncycles_done    : 0\nexecs_done     : 1461402\nexecs_per_sec  : 644.94\npaths_total    : 329\npaths_favored  : 78\npaths_found    : 328\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 115\npending_favs   : 72\npending_total  : 317\nvariable_paths : 0\nbitmap_cvg     : 1.84%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500287519\nlast_crash     : 0\nlast_hang      : 1500285731\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_and_Pantry_Manager/input -o /dev/shm/work/Recipe_and_Pantry_Manager/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_and_Pantry_Manager/Recipe_and_Pantry_Manager.dict -- data/linux/processed-challenges/Recipe_and_Pantry_Manager/bin/Recipe_and_Pantry_Manager\n'
+p43
+I41
+tp44
+a(I2640
+S'start_time     : 1500284996\nlast_update    : 1500287641\nfuzzer_pid     : 27202\ncycles_done    : 0\nexecs_done     : 1539662\nexecs_per_sec  : 645.26\npaths_total    : 343\npaths_favored  : 78\npaths_found    : 342\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 115\npending_favs   : 72\npending_total  : 331\nvariable_paths : 0\nbitmap_cvg     : 1.86%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500287630\nlast_crash     : 0\nlast_hang      : 1500285731\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_and_Pantry_Manager/input -o /dev/shm/work/Recipe_and_Pantry_Manager/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_and_Pantry_Manager/Recipe_and_Pantry_Manager.dict -- data/linux/processed-challenges/Recipe_and_Pantry_Manager/bin/Recipe_and_Pantry_Manager\n'
+p45
+I14
+tp46
+a(I2760
+S'start_time     : 1500284996\nlast_update    : 1500287761\nfuzzer_pid     : 27202\ncycles_done    : 0\nexecs_done     : 1592961\nexecs_per_sec  : 425.28\npaths_total    : 344\npaths_favored  : 101\npaths_found    : 343\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 117\npending_favs   : 95\npending_total  : 331\nvariable_paths : 0\nbitmap_cvg     : 1.86%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500287644\nlast_crash     : 0\nlast_hang      : 1500285731\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_and_Pantry_Manager/input -o /dev/shm/work/Recipe_and_Pantry_Manager/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_and_Pantry_Manager/Recipe_and_Pantry_Manager.dict -- data/linux/processed-challenges/Recipe_and_Pantry_Manager/bin/Recipe_and_Pantry_Manager\n'
+p47
+I1
+tp48
+a(I2880
+S'start_time     : 1500284996\nlast_update    : 1500287881\nfuzzer_pid     : 27202\ncycles_done    : 0\nexecs_done     : 1657650\nexecs_per_sec  : 545.03\npaths_total    : 345\npaths_favored  : 102\npaths_found    : 344\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 128\npending_favs   : 94\npending_total  : 330\nvariable_paths : 0\nbitmap_cvg     : 1.86%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500287762\nlast_crash     : 0\nlast_hang      : 1500285731\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_and_Pantry_Manager/input -o /dev/shm/work/Recipe_and_Pantry_Manager/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_and_Pantry_Manager/Recipe_and_Pantry_Manager.dict -- data/linux/processed-challenges/Recipe_and_Pantry_Manager/bin/Recipe_and_Pantry_Manager\n'
+p49
+I1
+tp50
+a(I3000
+S'start_time     : 1500284996\nlast_update    : 1500287941\nfuzzer_pid     : 27202\ncycles_done    : 0\nexecs_done     : 1694718\nexecs_per_sec  : 680.43\npaths_total    : 347\npaths_favored  : 102\npaths_found    : 346\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 128\npending_favs   : 94\npending_total  : 332\nvariable_paths : 0\nbitmap_cvg     : 1.86%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500287918\nlast_crash     : 0\nlast_hang      : 1500285731\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_and_Pantry_Manager/input -o /dev/shm/work/Recipe_and_Pantry_Manager/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_and_Pantry_Manager/Recipe_and_Pantry_Manager.dict -- data/linux/processed-challenges/Recipe_and_Pantry_Manager/bin/Recipe_and_Pantry_Manager\n'
+p51
+I2
+tp52
+a(I3120
+S'start_time     : 1500284996\nlast_update    : 1500288061\nfuzzer_pid     : 27202\ncycles_done    : 0\nexecs_done     : 1765729\nexecs_per_sec  : 535.10\npaths_total    : 347\npaths_favored  : 101\npaths_found    : 346\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 132\npending_favs   : 92\npending_total  : 330\nvariable_paths : 0\nbitmap_cvg     : 1.86%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500287918\nlast_crash     : 0\nlast_hang      : 1500285731\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_and_Pantry_Manager/input -o /dev/shm/work/Recipe_and_Pantry_Manager/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_and_Pantry_Manager/Recipe_and_Pantry_Manager.dict -- data/linux/processed-challenges/Recipe_and_Pantry_Manager/bin/Recipe_and_Pantry_Manager\n'
+p53
+I0
+tp54
+a(I3240
+S'start_time     : 1500284996\nlast_update    : 1500288181\nfuzzer_pid     : 27202\ncycles_done    : 0\nexecs_done     : 1834287\nexecs_per_sec  : 558.11\npaths_total    : 349\npaths_favored  : 101\npaths_found    : 348\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 136\npending_favs   : 90\npending_total  : 330\nvariable_paths : 0\nbitmap_cvg     : 1.86%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500288166\nlast_crash     : 0\nlast_hang      : 1500285731\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_and_Pantry_Manager/input -o /dev/shm/work/Recipe_and_Pantry_Manager/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_and_Pantry_Manager/Recipe_and_Pantry_Manager.dict -- data/linux/processed-challenges/Recipe_and_Pantry_Manager/bin/Recipe_and_Pantry_Manager\n'
+p55
+I3
+tp56
+a(I3360
+S'start_time     : 1500284996\nlast_update    : 1500288302\nfuzzer_pid     : 27202\ncycles_done    : 0\nexecs_done     : 1895145\nexecs_per_sec  : 385.22\npaths_total    : 351\npaths_favored  : 101\npaths_found    : 350\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 150\npending_favs   : 90\npending_total  : 331\nvariable_paths : 0\nbitmap_cvg     : 1.86%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500288248\nlast_crash     : 0\nlast_hang      : 1500285731\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_and_Pantry_Manager/input -o /dev/shm/work/Recipe_and_Pantry_Manager/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_and_Pantry_Manager/Recipe_and_Pantry_Manager.dict -- data/linux/processed-challenges/Recipe_and_Pantry_Manager/bin/Recipe_and_Pantry_Manager\n'
+p57
+I4
+tp58
+a(I3480
+S'start_time     : 1500284996\nlast_update    : 1500288422\nfuzzer_pid     : 27202\ncycles_done    : 0\nexecs_done     : 1941130\nexecs_per_sec  : 410.96\npaths_total    : 356\npaths_favored  : 101\npaths_found    : 355\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 150\npending_favs   : 90\npending_total  : 336\nvariable_paths : 0\nbitmap_cvg     : 1.88%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500288409\nlast_crash     : 0\nlast_hang      : 1500285731\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_and_Pantry_Manager/input -o /dev/shm/work/Recipe_and_Pantry_Manager/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_and_Pantry_Manager/Recipe_and_Pantry_Manager.dict -- data/linux/processed-challenges/Recipe_and_Pantry_Manager/bin/Recipe_and_Pantry_Manager\n'
+p59
+I7
+tp60
+a(I3600
+S'start_time     : 1500284996\nlast_update    : 1500288542\nfuzzer_pid     : 27202\ncycles_done    : 0\nexecs_done     : 1994475\nexecs_per_sec  : 414.50\npaths_total    : 365\npaths_favored  : 104\npaths_found    : 364\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 153\npending_favs   : 93\npending_total  : 344\nvariable_paths : 0\nbitmap_cvg     : 1.90%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500288519\nlast_crash     : 0\nlast_hang      : 1500285731\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_and_Pantry_Manager/input -o /dev/shm/work/Recipe_and_Pantry_Manager/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_and_Pantry_Manager/Recipe_and_Pantry_Manager.dict -- data/linux/processed-challenges/Recipe_and_Pantry_Manager/bin/Recipe_and_Pantry_Manager\n'
+p61
+I10
+tp62
+a(I3720
+S'start_time     : 1500284996\nlast_update    : 1500288662\nfuzzer_pid     : 27202\ncycles_done    : 0\nexecs_done     : 2050644\nexecs_per_sec  : 499.84\npaths_total    : 389\npaths_favored  : 104\npaths_found    : 388\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 153\npending_favs   : 93\npending_total  : 368\nvariable_paths : 0\nbitmap_cvg     : 1.92%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500288662\nlast_crash     : 0\nlast_hang      : 1500285731\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_and_Pantry_Manager/input -o /dev/shm/work/Recipe_and_Pantry_Manager/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_and_Pantry_Manager/Recipe_and_Pantry_Manager.dict -- data/linux/processed-challenges/Recipe_and_Pantry_Manager/bin/Recipe_and_Pantry_Manager\n'
+p63
+I27
+tp64
+a(I3840
+S'start_time     : 1500284996\nlast_update    : 1500288782\nfuzzer_pid     : 27202\ncycles_done    : 0\nexecs_done     : 2111094\nexecs_per_sec  : 500.14\npaths_total    : 400\npaths_favored  : 104\npaths_found    : 399\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 153\npending_favs   : 93\npending_total  : 379\nvariable_paths : 0\nbitmap_cvg     : 1.93%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500288761\nlast_crash     : 0\nlast_hang      : 1500285731\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_and_Pantry_Manager/input -o /dev/shm/work/Recipe_and_Pantry_Manager/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_and_Pantry_Manager/Recipe_and_Pantry_Manager.dict -- data/linux/processed-challenges/Recipe_and_Pantry_Manager/bin/Recipe_and_Pantry_Manager\n'
+p65
+I3
+tp66
+a(I3960
+S'start_time     : 1500284996\nlast_update    : 1500288903\nfuzzer_pid     : 27202\ncycles_done    : 0\nexecs_done     : 2170944\nexecs_per_sec  : 502.05\npaths_total    : 402\npaths_favored  : 104\npaths_found    : 401\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 153\npending_favs   : 93\npending_total  : 381\nvariable_paths : 0\nbitmap_cvg     : 1.93%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500288888\nlast_crash     : 0\nlast_hang      : 1500285731\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_and_Pantry_Manager/input -o /dev/shm/work/Recipe_and_Pantry_Manager/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_and_Pantry_Manager/Recipe_and_Pantry_Manager.dict -- data/linux/processed-challenges/Recipe_and_Pantry_Manager/bin/Recipe_and_Pantry_Manager\n'
+p67
+I6
+tp68
+a(I4080
+S'start_time     : 1500284996\nlast_update    : 1500289023\nfuzzer_pid     : 27202\ncycles_done    : 0\nexecs_done     : 2234811\nexecs_per_sec  : 572.11\npaths_total    : 410\npaths_favored  : 119\npaths_found    : 409\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 159\npending_favs   : 108\npending_total  : 388\nvariable_paths : 0\nbitmap_cvg     : 1.95%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500289017\nlast_crash     : 0\nlast_hang      : 1500285731\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_and_Pantry_Manager/input -o /dev/shm/work/Recipe_and_Pantry_Manager/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_and_Pantry_Manager/Recipe_and_Pantry_Manager.dict -- data/linux/processed-challenges/Recipe_and_Pantry_Manager/bin/Recipe_and_Pantry_Manager\n'
+p69
+I4
+tp70
+a(I4200
+S'start_time     : 1500284996\nlast_update    : 1500289143\nfuzzer_pid     : 27202\ncycles_done    : 0\nexecs_done     : 2301512\nexecs_per_sec  : 569.56\npaths_total    : 413\npaths_favored  : 119\npaths_found    : 412\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 159\npending_favs   : 108\npending_total  : 391\nvariable_paths : 0\nbitmap_cvg     : 1.96%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500289132\nlast_crash     : 0\nlast_hang      : 1500289062\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_and_Pantry_Manager/input -o /dev/shm/work/Recipe_and_Pantry_Manager/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_and_Pantry_Manager/Recipe_and_Pantry_Manager.dict -- data/linux/processed-challenges/Recipe_and_Pantry_Manager/bin/Recipe_and_Pantry_Manager\n'
+p71
+I5
+tp72
+a(I4320
+S'start_time     : 1500284996\nlast_update    : 1500289264\nfuzzer_pid     : 27202\ncycles_done    : 0\nexecs_done     : 2370699\nexecs_per_sec  : 580.95\npaths_total    : 416\npaths_favored  : 119\npaths_found    : 415\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 159\npending_favs   : 108\npending_total  : 394\nvariable_paths : 0\nbitmap_cvg     : 1.96%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500289170\nlast_crash     : 0\nlast_hang      : 1500289062\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_and_Pantry_Manager/input -o /dev/shm/work/Recipe_and_Pantry_Manager/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_and_Pantry_Manager/Recipe_and_Pantry_Manager.dict -- data/linux/processed-challenges/Recipe_and_Pantry_Manager/bin/Recipe_and_Pantry_Manager\n'
+p73
+I0
+tp74
+a(I4440
+S'start_time     : 1500284996\nlast_update    : 1500289384\nfuzzer_pid     : 27202\ncycles_done    : 0\nexecs_done     : 2435025\nexecs_per_sec  : 627.90\npaths_total    : 417\npaths_favored  : 125\npaths_found    : 416\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 166\npending_favs   : 113\npending_total  : 394\nvariable_paths : 0\nbitmap_cvg     : 1.96%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500289379\nlast_crash     : 0\nlast_hang      : 1500289062\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_and_Pantry_Manager/input -o /dev/shm/work/Recipe_and_Pantry_Manager/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_and_Pantry_Manager/Recipe_and_Pantry_Manager.dict -- data/linux/processed-challenges/Recipe_and_Pantry_Manager/bin/Recipe_and_Pantry_Manager\n'
+p75
+I5
+tp76
+a(I4560
+S'start_time     : 1500284996\nlast_update    : 1500289504\nfuzzer_pid     : 27202\ncycles_done    : 0\nexecs_done     : 2509329\nexecs_per_sec  : 608.71\npaths_total    : 423\npaths_favored  : 125\npaths_found    : 422\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 166\npending_favs   : 113\npending_total  : 400\nvariable_paths : 0\nbitmap_cvg     : 1.96%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500289488\nlast_crash     : 0\nlast_hang      : 1500289062\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_and_Pantry_Manager/input -o /dev/shm/work/Recipe_and_Pantry_Manager/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_and_Pantry_Manager/Recipe_and_Pantry_Manager.dict -- data/linux/processed-challenges/Recipe_and_Pantry_Manager/bin/Recipe_and_Pantry_Manager\n'
+p77
+I4
+tp78
+a(I4680
+S'start_time     : 1500284996\nlast_update    : 1500289624\nfuzzer_pid     : 27202\ncycles_done    : 0\nexecs_done     : 2584413\nexecs_per_sec  : 611.58\npaths_total    : 429\npaths_favored  : 125\npaths_found    : 428\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 166\npending_favs   : 113\npending_total  : 406\nvariable_paths : 0\nbitmap_cvg     : 1.97%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500289622\nlast_crash     : 0\nlast_hang      : 1500289062\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_and_Pantry_Manager/input -o /dev/shm/work/Recipe_and_Pantry_Manager/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_and_Pantry_Manager/Recipe_and_Pantry_Manager.dict -- data/linux/processed-challenges/Recipe_and_Pantry_Manager/bin/Recipe_and_Pantry_Manager\n'
+p79
+I4
+tp80
+a(I4800
+S'start_time     : 1500284996\nlast_update    : 1500289744\nfuzzer_pid     : 27202\ncycles_done    : 0\nexecs_done     : 2645647\nexecs_per_sec  : 541.99\npaths_total    : 429\npaths_favored  : 123\npaths_found    : 428\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 167\npending_favs   : 110\npending_total  : 405\nvariable_paths : 0\nbitmap_cvg     : 1.97%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500289622\nlast_crash     : 0\nlast_hang      : 1500289062\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_and_Pantry_Manager/input -o /dev/shm/work/Recipe_and_Pantry_Manager/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_and_Pantry_Manager/Recipe_and_Pantry_Manager.dict -- data/linux/processed-challenges/Recipe_and_Pantry_Manager/bin/Recipe_and_Pantry_Manager\n'
+p81
+I1
+tp82
+a(I4920
+S'start_time     : 1500284996\nlast_update    : 1500289864\nfuzzer_pid     : 27202\ncycles_done    : 0\nexecs_done     : 2708906\nexecs_per_sec  : 556.00\npaths_total    : 430\npaths_favored  : 123\npaths_found    : 429\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 168\npending_favs   : 110\npending_total  : 405\nvariable_paths : 0\nbitmap_cvg     : 1.97%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500289761\nlast_crash     : 0\nlast_hang      : 1500289062\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_and_Pantry_Manager/input -o /dev/shm/work/Recipe_and_Pantry_Manager/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_and_Pantry_Manager/Recipe_and_Pantry_Manager.dict -- data/linux/processed-challenges/Recipe_and_Pantry_Manager/bin/Recipe_and_Pantry_Manager\n'
+p83
+I0
+tp84
+a(I5040
+S'start_time     : 1500284996\nlast_update    : 1500289985\nfuzzer_pid     : 27202\ncycles_done    : 0\nexecs_done     : 2769667\nexecs_per_sec  : 603.16\npaths_total    : 430\npaths_favored  : 123\npaths_found    : 429\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 177\npending_favs   : 108\npending_total  : 403\nvariable_paths : 0\nbitmap_cvg     : 1.97%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500289761\nlast_crash     : 0\nlast_hang      : 1500289062\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_and_Pantry_Manager/input -o /dev/shm/work/Recipe_and_Pantry_Manager/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_and_Pantry_Manager/Recipe_and_Pantry_Manager.dict -- data/linux/processed-challenges/Recipe_and_Pantry_Manager/bin/Recipe_and_Pantry_Manager\n'
+p85
+I4
+tp86
+a(I5160
+S'start_time     : 1500284996\nlast_update    : 1500290105\nfuzzer_pid     : 27202\ncycles_done    : 0\nexecs_done     : 2851242\nexecs_per_sec  : 723.77\npaths_total    : 435\npaths_favored  : 123\npaths_found    : 434\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 177\npending_favs   : 108\npending_total  : 408\nvariable_paths : 0\nbitmap_cvg     : 2.03%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500290083\nlast_crash     : 0\nlast_hang      : 1500289062\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_and_Pantry_Manager/input -o /dev/shm/work/Recipe_and_Pantry_Manager/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_and_Pantry_Manager/Recipe_and_Pantry_Manager.dict -- data/linux/processed-challenges/Recipe_and_Pantry_Manager/bin/Recipe_and_Pantry_Manager\n'
+p87
+I1
+tp88
+a(I5280
+S'start_time     : 1500284996\nlast_update    : 1500290225\nfuzzer_pid     : 27202\ncycles_done    : 0\nexecs_done     : 2938178\nexecs_per_sec  : 734.86\npaths_total    : 436\npaths_favored  : 123\npaths_found    : 435\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 177\npending_favs   : 108\npending_total  : 409\nvariable_paths : 0\nbitmap_cvg     : 2.05%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500290176\nlast_crash     : 0\nlast_hang      : 1500289062\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_and_Pantry_Manager/input -o /dev/shm/work/Recipe_and_Pantry_Manager/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_and_Pantry_Manager/Recipe_and_Pantry_Manager.dict -- data/linux/processed-challenges/Recipe_and_Pantry_Manager/bin/Recipe_and_Pantry_Manager\n'
+p89
+I1
+tp90
+a(I5400
+S'start_time     : 1500284996\nlast_update    : 1500290346\nfuzzer_pid     : 27202\ncycles_done    : 0\nexecs_done     : 2993551\nexecs_per_sec  : 397.88\npaths_total    : 436\npaths_favored  : 126\npaths_found    : 435\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 179\npending_favs   : 110\npending_total  : 408\nvariable_paths : 0\nbitmap_cvg     : 2.05%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500290176\nlast_crash     : 0\nlast_hang      : 1500289062\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_and_Pantry_Manager/input -o /dev/shm/work/Recipe_and_Pantry_Manager/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_and_Pantry_Manager/Recipe_and_Pantry_Manager.dict -- data/linux/processed-challenges/Recipe_and_Pantry_Manager/bin/Recipe_and_Pantry_Manager\n'
+p91
+I1
+tp92
+a(I5520
+S'start_time     : 1500284996\nlast_update    : 1500290466\nfuzzer_pid     : 27202\ncycles_done    : 0\nexecs_done     : 3052525\nexecs_per_sec  : 437.22\npaths_total    : 437\npaths_favored  : 126\npaths_found    : 436\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 180\npending_favs   : 109\npending_total  : 408\nvariable_paths : 0\nbitmap_cvg     : 2.05%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500290367\nlast_crash     : 0\nlast_hang      : 1500289062\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_and_Pantry_Manager/input -o /dev/shm/work/Recipe_and_Pantry_Manager/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_and_Pantry_Manager/Recipe_and_Pantry_Manager.dict -- data/linux/processed-challenges/Recipe_and_Pantry_Manager/bin/Recipe_and_Pantry_Manager\n'
+p93
+I0
+tp94
+a(I5640
+S'start_time     : 1500284996\nlast_update    : 1500290586\nfuzzer_pid     : 27202\ncycles_done    : 0\nexecs_done     : 3115850\nexecs_per_sec  : 695.39\npaths_total    : 439\npaths_favored  : 126\npaths_found    : 438\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 185\npending_favs   : 108\npending_total  : 409\nvariable_paths : 0\nbitmap_cvg     : 2.05%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500290580\nlast_crash     : 0\nlast_hang      : 1500289062\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_and_Pantry_Manager/input -o /dev/shm/work/Recipe_and_Pantry_Manager/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_and_Pantry_Manager/Recipe_and_Pantry_Manager.dict -- data/linux/processed-challenges/Recipe_and_Pantry_Manager/bin/Recipe_and_Pantry_Manager\n'
+p95
+I8
+tp96
+a(I5760
+S'start_time     : 1500284996\nlast_update    : 1500290706\nfuzzer_pid     : 27202\ncycles_done    : 0\nexecs_done     : 3197696\nexecs_per_sec  : 697.21\npaths_total    : 448\npaths_favored  : 126\npaths_found    : 447\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 185\npending_favs   : 108\npending_total  : 418\nvariable_paths : 0\nbitmap_cvg     : 2.05%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500290698\nlast_crash     : 0\nlast_hang      : 1500289062\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_and_Pantry_Manager/input -o /dev/shm/work/Recipe_and_Pantry_Manager/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_and_Pantry_Manager/Recipe_and_Pantry_Manager.dict -- data/linux/processed-challenges/Recipe_and_Pantry_Manager/bin/Recipe_and_Pantry_Manager\n'
+p97
+I4
+tp98
+a(I5880
+S'start_time     : 1500284996\nlast_update    : 1500290826\nfuzzer_pid     : 27202\ncycles_done    : 0\nexecs_done     : 3278157\nexecs_per_sec  : 534.05\npaths_total    : 451\npaths_favored  : 123\npaths_found    : 450\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 190\npending_favs   : 104\npending_total  : 420\nvariable_paths : 0\nbitmap_cvg     : 2.05%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500290809\nlast_crash     : 0\nlast_hang      : 1500289062\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_and_Pantry_Manager/input -o /dev/shm/work/Recipe_and_Pantry_Manager/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_and_Pantry_Manager/Recipe_and_Pantry_Manager.dict -- data/linux/processed-challenges/Recipe_and_Pantry_Manager/bin/Recipe_and_Pantry_Manager\n'
+p99
+I2
+tp100
+a(I6000
+S'start_time     : 1500284996\nlast_update    : 1500290947\nfuzzer_pid     : 27202\ncycles_done    : 0\nexecs_done     : 3336764\nexecs_per_sec  : 427.26\npaths_total    : 451\npaths_favored  : 123\npaths_found    : 450\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 194\npending_favs   : 103\npending_total  : 419\nvariable_paths : 0\nbitmap_cvg     : 2.05%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500290809\nlast_crash     : 0\nlast_hang      : 1500289062\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_and_Pantry_Manager/input -o /dev/shm/work/Recipe_and_Pantry_Manager/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_and_Pantry_Manager/Recipe_and_Pantry_Manager.dict -- data/linux/processed-challenges/Recipe_and_Pantry_Manager/bin/Recipe_and_Pantry_Manager\n'
+p101
+I1
+tp102
+a(I6120
+S'start_time     : 1500284996\nlast_update    : 1500291067\nfuzzer_pid     : 27202\ncycles_done    : 0\nexecs_done     : 3392943\nexecs_per_sec  : 426.21\npaths_total    : 452\npaths_favored  : 123\npaths_found    : 451\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 203\npending_favs   : 102\npending_total  : 419\nvariable_paths : 0\nbitmap_cvg     : 2.05%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500290990\nlast_crash     : 0\nlast_hang      : 1500289062\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_and_Pantry_Manager/input -o /dev/shm/work/Recipe_and_Pantry_Manager/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_and_Pantry_Manager/Recipe_and_Pantry_Manager.dict -- data/linux/processed-challenges/Recipe_and_Pantry_Manager/bin/Recipe_and_Pantry_Manager\n'
+p103
+I0
+tp104
+a(I6240
+S'start_time     : 1500284996\nlast_update    : 1500291187\nfuzzer_pid     : 27202\ncycles_done    : 0\nexecs_done     : 3443098\nexecs_per_sec  : 490.97\npaths_total    : 455\npaths_favored  : 123\npaths_found    : 454\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 203\npending_favs   : 102\npending_total  : 422\nvariable_paths : 0\nbitmap_cvg     : 2.05%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500291184\nlast_crash     : 0\nlast_hang      : 1500289062\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_and_Pantry_Manager/input -o /dev/shm/work/Recipe_and_Pantry_Manager/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_and_Pantry_Manager/Recipe_and_Pantry_Manager.dict -- data/linux/processed-challenges/Recipe_and_Pantry_Manager/bin/Recipe_and_Pantry_Manager\n'
+p105
+I12
+tp106
+a(I6360
+S'start_time     : 1500284996\nlast_update    : 1500291307\nfuzzer_pid     : 27202\ncycles_done    : 0\nexecs_done     : 3502945\nexecs_per_sec  : 506.49\npaths_total    : 470\npaths_favored  : 123\npaths_found    : 469\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 203\npending_favs   : 102\npending_total  : 437\nvariable_paths : 0\nbitmap_cvg     : 2.05%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500291301\nlast_crash     : 0\nlast_hang      : 1500289062\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_and_Pantry_Manager/input -o /dev/shm/work/Recipe_and_Pantry_Manager/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_and_Pantry_Manager/Recipe_and_Pantry_Manager.dict -- data/linux/processed-challenges/Recipe_and_Pantry_Manager/bin/Recipe_and_Pantry_Manager\n'
+p107
+I9
+tp108
+a(I6480
+S'start_time     : 1500284996\nlast_update    : 1500291428\nfuzzer_pid     : 27202\ncycles_done    : 0\nexecs_done     : 3562284\nexecs_per_sec  : 447.44\npaths_total    : 477\npaths_favored  : 120\npaths_found    : 476\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 206\npending_favs   : 101\npending_total  : 443\nvariable_paths : 0\nbitmap_cvg     : 2.05%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500291397\nlast_crash     : 0\nlast_hang      : 1500289062\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_and_Pantry_Manager/input -o /dev/shm/work/Recipe_and_Pantry_Manager/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_and_Pantry_Manager/Recipe_and_Pantry_Manager.dict -- data/linux/processed-challenges/Recipe_and_Pantry_Manager/bin/Recipe_and_Pantry_Manager\n'
+p109
+I4
+tp110
+a(I6600
+S'start_time     : 1500284996\nlast_update    : 1500291548\nfuzzer_pid     : 27202\ncycles_done    : 0\nexecs_done     : 3620573\nexecs_per_sec  : 566.52\npaths_total    : 479\npaths_favored  : 120\npaths_found    : 478\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 206\npending_favs   : 101\npending_total  : 445\nvariable_paths : 0\nbitmap_cvg     : 2.05%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500291510\nlast_crash     : 0\nlast_hang      : 1500289062\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_and_Pantry_Manager/input -o /dev/shm/work/Recipe_and_Pantry_Manager/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_and_Pantry_Manager/Recipe_and_Pantry_Manager.dict -- data/linux/processed-challenges/Recipe_and_Pantry_Manager/bin/Recipe_and_Pantry_Manager\n'
+p111
+I2
+tp112
+a(I6720
+S'start_time     : 1500284996\nlast_update    : 1500291668\nfuzzer_pid     : 27202\ncycles_done    : 0\nexecs_done     : 3675847\nexecs_per_sec  : 417.73\npaths_total    : 479\npaths_favored  : 121\npaths_found    : 478\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 207\npending_favs   : 101\npending_total  : 444\nvariable_paths : 0\nbitmap_cvg     : 2.05%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500291510\nlast_crash     : 0\nlast_hang      : 1500289062\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_and_Pantry_Manager/input -o /dev/shm/work/Recipe_and_Pantry_Manager/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_and_Pantry_Manager/Recipe_and_Pantry_Manager.dict -- data/linux/processed-challenges/Recipe_and_Pantry_Manager/bin/Recipe_and_Pantry_Manager\n'
+p113
+I1
+tp114
+a(I6840
+S'start_time     : 1500284996\nlast_update    : 1500291788\nfuzzer_pid     : 27202\ncycles_done    : 0\nexecs_done     : 3733067\nexecs_per_sec  : 414.07\npaths_total    : 480\npaths_favored  : 121\npaths_found    : 479\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 208\npending_favs   : 100\npending_total  : 444\nvariable_paths : 0\nbitmap_cvg     : 2.05%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500291681\nlast_crash     : 0\nlast_hang      : 1500289062\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_and_Pantry_Manager/input -o /dev/shm/work/Recipe_and_Pantry_Manager/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_and_Pantry_Manager/Recipe_and_Pantry_Manager.dict -- data/linux/processed-challenges/Recipe_and_Pantry_Manager/bin/Recipe_and_Pantry_Manager\n'
+p115
+I1
+tp116
+a(I6960
+S'start_time     : 1500284996\nlast_update    : 1500291908\nfuzzer_pid     : 27202\ncycles_done    : 0\nexecs_done     : 3783986\nexecs_per_sec  : 353.36\npaths_total    : 481\npaths_favored  : 121\npaths_found    : 480\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 211\npending_favs   : 99\npending_total  : 444\nvariable_paths : 0\nbitmap_cvg     : 2.05%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500291818\nlast_crash     : 0\nlast_hang      : 1500289062\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_and_Pantry_Manager/input -o /dev/shm/work/Recipe_and_Pantry_Manager/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_and_Pantry_Manager/Recipe_and_Pantry_Manager.dict -- data/linux/processed-challenges/Recipe_and_Pantry_Manager/bin/Recipe_and_Pantry_Manager\n'
+p117
+I0
+tp118
+a(I7080
+S'start_time     : 1500284996\nlast_update    : 1500292029\nfuzzer_pid     : 27202\ncycles_done    : 0\nexecs_done     : 3824429\nexecs_per_sec  : 384.70\npaths_total    : 481\npaths_favored  : 121\npaths_found    : 480\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 211\npending_favs   : 99\npending_total  : 444\nvariable_paths : 0\nbitmap_cvg     : 2.05%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500291818\nlast_crash     : 0\nlast_hang      : 1500289062\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_and_Pantry_Manager/input -o /dev/shm/work/Recipe_and_Pantry_Manager/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_and_Pantry_Manager/Recipe_and_Pantry_Manager.dict -- data/linux/processed-challenges/Recipe_and_Pantry_Manager/bin/Recipe_and_Pantry_Manager\n'
+p119
+I0
+tp120
+a(I7200
+S'start_time     : 1500284996\nlast_update    : 1500292149\nfuzzer_pid     : 27202\ncycles_done    : 0\nexecs_done     : 3866704\nexecs_per_sec  : 328.25\npaths_total    : 481\npaths_favored  : 121\npaths_found    : 480\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 212\npending_favs   : 98\npending_total  : 443\nvariable_paths : 0\nbitmap_cvg     : 2.05%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500291818\nlast_crash     : 0\nlast_hang      : 1500289062\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_and_Pantry_Manager/input -o /dev/shm/work/Recipe_and_Pantry_Manager/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_and_Pantry_Manager/Recipe_and_Pantry_Manager.dict -- data/linux/processed-challenges/Recipe_and_Pantry_Manager/bin/Recipe_and_Pantry_Manager\n'
+p121
+I0
+tp122
+a(I7320
+S'start_time     : 1500284996\nlast_update    : 1500292269\nfuzzer_pid     : 27202\ncycles_done    : 0\nexecs_done     : 3904705\nexecs_per_sec  : 310.64\npaths_total    : 481\npaths_favored  : 121\npaths_found    : 480\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 212\npending_favs   : 98\npending_total  : 443\nvariable_paths : 0\nbitmap_cvg     : 2.05%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500291818\nlast_crash     : 0\nlast_hang      : 1500289062\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_and_Pantry_Manager/input -o /dev/shm/work/Recipe_and_Pantry_Manager/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_and_Pantry_Manager/Recipe_and_Pantry_Manager.dict -- data/linux/processed-challenges/Recipe_and_Pantry_Manager/bin/Recipe_and_Pantry_Manager\n'
+p123
+I1
+tp124
+a(I7440
+S'start_time     : 1500284996\nlast_update    : 1500292389\nfuzzer_pid     : 27202\ncycles_done    : 0\nexecs_done     : 3950794\nexecs_per_sec  : 346.63\npaths_total    : 482\npaths_favored  : 121\npaths_found    : 481\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 217\npending_favs   : 97\npending_total  : 443\nvariable_paths : 0\nbitmap_cvg     : 2.06%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500292301\nlast_crash     : 0\nlast_hang      : 1500289062\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_and_Pantry_Manager/input -o /dev/shm/work/Recipe_and_Pantry_Manager/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_and_Pantry_Manager/Recipe_and_Pantry_Manager.dict -- data/linux/processed-challenges/Recipe_and_Pantry_Manager/bin/Recipe_and_Pantry_Manager\n'
+p125
+I0
+tp126
+a(I7560
+S'start_time     : 1500284996\nlast_update    : 1500292509\nfuzzer_pid     : 27202\ncycles_done    : 0\nexecs_done     : 4000396\nexecs_per_sec  : 478.54\npaths_total    : 487\npaths_favored  : 121\npaths_found    : 486\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 217\npending_favs   : 97\npending_total  : 448\nvariable_paths : 0\nbitmap_cvg     : 2.06%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500292504\nlast_crash     : 0\nlast_hang      : 1500289062\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_and_Pantry_Manager/input -o /dev/shm/work/Recipe_and_Pantry_Manager/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_and_Pantry_Manager/Recipe_and_Pantry_Manager.dict -- data/linux/processed-challenges/Recipe_and_Pantry_Manager/bin/Recipe_and_Pantry_Manager\n'
+p127
+I6
+tp128
+a(I7680
+S'start_time     : 1500284996\nlast_update    : 1500292630\nfuzzer_pid     : 27202\ncycles_done    : 0\nexecs_done     : 4059464\nexecs_per_sec  : 487.76\npaths_total    : 488\npaths_favored  : 121\npaths_found    : 487\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 217\npending_favs   : 97\npending_total  : 449\nvariable_paths : 0\nbitmap_cvg     : 2.06%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500292534\nlast_crash     : 0\nlast_hang      : 1500289062\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_and_Pantry_Manager/input -o /dev/shm/work/Recipe_and_Pantry_Manager/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_and_Pantry_Manager/Recipe_and_Pantry_Manager.dict -- data/linux/processed-challenges/Recipe_and_Pantry_Manager/bin/Recipe_and_Pantry_Manager\n'
+p129
+I0
+tp130
+a(I7800
+S'start_time     : 1500284996\nlast_update    : 1500292750\nfuzzer_pid     : 27202\ncycles_done    : 0\nexecs_done     : 4118594\nexecs_per_sec  : 484.17\npaths_total    : 488\npaths_favored  : 121\npaths_found    : 487\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 217\npending_favs   : 97\npending_total  : 449\nvariable_paths : 0\nbitmap_cvg     : 2.06%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500292534\nlast_crash     : 0\nlast_hang      : 1500289062\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_and_Pantry_Manager/input -o /dev/shm/work/Recipe_and_Pantry_Manager/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_and_Pantry_Manager/Recipe_and_Pantry_Manager.dict -- data/linux/processed-challenges/Recipe_and_Pantry_Manager/bin/Recipe_and_Pantry_Manager\n'
+p131
+I0
+tp132
+a(I7920
+S'start_time     : 1500284996\nlast_update    : 1500292870\nfuzzer_pid     : 27202\ncycles_done    : 0\nexecs_done     : 4169452\nexecs_per_sec  : 367.99\npaths_total    : 488\npaths_favored  : 121\npaths_found    : 487\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 224\npending_favs   : 96\npending_total  : 448\nvariable_paths : 0\nbitmap_cvg     : 2.06%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500292534\nlast_crash     : 0\nlast_hang      : 1500289062\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_and_Pantry_Manager/input -o /dev/shm/work/Recipe_and_Pantry_Manager/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_and_Pantry_Manager/Recipe_and_Pantry_Manager.dict -- data/linux/processed-challenges/Recipe_and_Pantry_Manager/bin/Recipe_and_Pantry_Manager\n'
+p133
+I0
+tp134
+a(I8040
+S'start_time     : 1500284996\nlast_update    : 1500292990\nfuzzer_pid     : 27202\ncycles_done    : 0\nexecs_done     : 4217359\nexecs_per_sec  : 377.15\npaths_total    : 488\npaths_favored  : 121\npaths_found    : 487\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 230\npending_favs   : 95\npending_total  : 447\nvariable_paths : 0\nbitmap_cvg     : 2.06%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500292534\nlast_crash     : 0\nlast_hang      : 1500289062\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_and_Pantry_Manager/input -o /dev/shm/work/Recipe_and_Pantry_Manager/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_and_Pantry_Manager/Recipe_and_Pantry_Manager.dict -- data/linux/processed-challenges/Recipe_and_Pantry_Manager/bin/Recipe_and_Pantry_Manager\n'
+p135
+I0
+tp136
+a(I8160
+S'start_time     : 1500284996\nlast_update    : 1500293110\nfuzzer_pid     : 27202\ncycles_done    : 0\nexecs_done     : 4259982\nexecs_per_sec  : 423.45\npaths_total    : 488\npaths_favored  : 121\npaths_found    : 487\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 230\npending_favs   : 95\npending_total  : 447\nvariable_paths : 0\nbitmap_cvg     : 2.06%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500292534\nlast_crash     : 0\nlast_hang      : 1500289062\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_and_Pantry_Manager/input -o /dev/shm/work/Recipe_and_Pantry_Manager/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_and_Pantry_Manager/Recipe_and_Pantry_Manager.dict -- data/linux/processed-challenges/Recipe_and_Pantry_Manager/bin/Recipe_and_Pantry_Manager\n'
+p137
+I3
+tp138
+a(I8280
+S'start_time     : 1500284996\nlast_update    : 1500293231\nfuzzer_pid     : 27202\ncycles_done    : 0\nexecs_done     : 4316443\nexecs_per_sec  : 475.62\npaths_total    : 492\npaths_favored  : 121\npaths_found    : 491\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 230\npending_favs   : 95\npending_total  : 451\nvariable_paths : 0\nbitmap_cvg     : 2.06%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500293204\nlast_crash     : 0\nlast_hang      : 1500289062\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_and_Pantry_Manager/input -o /dev/shm/work/Recipe_and_Pantry_Manager/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_and_Pantry_Manager/Recipe_and_Pantry_Manager.dict -- data/linux/processed-challenges/Recipe_and_Pantry_Manager/bin/Recipe_and_Pantry_Manager\n'
+p139
+I1
+tp140
+a(I8400
+S'start_time     : 1500284996\nlast_update    : 1500293351\nfuzzer_pid     : 27202\ncycles_done    : 0\nexecs_done     : 4372540\nexecs_per_sec  : 475.26\npaths_total    : 492\npaths_favored  : 121\npaths_found    : 491\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 230\npending_favs   : 95\npending_total  : 451\nvariable_paths : 0\nbitmap_cvg     : 2.06%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500293204\nlast_crash     : 0\nlast_hang      : 1500289062\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_and_Pantry_Manager/input -o /dev/shm/work/Recipe_and_Pantry_Manager/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_and_Pantry_Manager/Recipe_and_Pantry_Manager.dict -- data/linux/processed-challenges/Recipe_and_Pantry_Manager/bin/Recipe_and_Pantry_Manager\n'
+p141
+I1
+tp142
+a(I8520
+S'start_time     : 1500284996\nlast_update    : 1500293471\nfuzzer_pid     : 27202\ncycles_done    : 0\nexecs_done     : 4429345\nexecs_per_sec  : 466.84\npaths_total    : 493\npaths_favored  : 121\npaths_found    : 492\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 233\npending_favs   : 94\npending_total  : 451\nvariable_paths : 0\nbitmap_cvg     : 2.06%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500293369\nlast_crash     : 0\nlast_hang      : 1500289062\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_and_Pantry_Manager/input -o /dev/shm/work/Recipe_and_Pantry_Manager/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_and_Pantry_Manager/Recipe_and_Pantry_Manager.dict -- data/linux/processed-challenges/Recipe_and_Pantry_Manager/bin/Recipe_and_Pantry_Manager\n'
+p143
+I0
+tp144
+a(I8640
+S'start_time     : 1500284996\nlast_update    : 1500293591\nfuzzer_pid     : 27202\ncycles_done    : 0\nexecs_done     : 4484785\nexecs_per_sec  : 430.85\npaths_total    : 493\npaths_favored  : 121\npaths_found    : 492\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 234\npending_favs   : 93\npending_total  : 450\nvariable_paths : 0\nbitmap_cvg     : 2.06%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500293369\nlast_crash     : 0\nlast_hang      : 1500289062\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_and_Pantry_Manager/input -o /dev/shm/work/Recipe_and_Pantry_Manager/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_and_Pantry_Manager/Recipe_and_Pantry_Manager.dict -- data/linux/processed-challenges/Recipe_and_Pantry_Manager/bin/Recipe_and_Pantry_Manager\n'
+p145
+I0
+tp146
+a(I8760
+S'start_time     : 1500284996\nlast_update    : 1500293711\nfuzzer_pid     : 27202\ncycles_done    : 0\nexecs_done     : 4539720\nexecs_per_sec  : 557.47\npaths_total    : 496\npaths_favored  : 121\npaths_found    : 495\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 234\npending_favs   : 93\npending_total  : 453\nvariable_paths : 0\nbitmap_cvg     : 2.06%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500293706\nlast_crash     : 0\nlast_hang      : 1500289062\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_and_Pantry_Manager/input -o /dev/shm/work/Recipe_and_Pantry_Manager/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_and_Pantry_Manager/Recipe_and_Pantry_Manager.dict -- data/linux/processed-challenges/Recipe_and_Pantry_Manager/bin/Recipe_and_Pantry_Manager\n'
+p147
+I4
+tp148
+a(I8880
+S'start_time     : 1500284996\nlast_update    : 1500293832\nfuzzer_pid     : 27202\ncycles_done    : 0\nexecs_done     : 4606115\nexecs_per_sec  : 561.95\npaths_total    : 497\npaths_favored  : 121\npaths_found    : 496\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 234\npending_favs   : 93\npending_total  : 454\nvariable_paths : 0\nbitmap_cvg     : 2.06%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500293755\nlast_crash     : 0\nlast_hang      : 1500289062\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_and_Pantry_Manager/input -o /dev/shm/work/Recipe_and_Pantry_Manager/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_and_Pantry_Manager/Recipe_and_Pantry_Manager.dict -- data/linux/processed-challenges/Recipe_and_Pantry_Manager/bin/Recipe_and_Pantry_Manager\n'
+p149
+I0
+tp150
+a(I9000
+S'start_time     : 1500284996\nlast_update    : 1500293952\nfuzzer_pid     : 27202\ncycles_done    : 0\nexecs_done     : 4672313\nexecs_per_sec  : 550.60\npaths_total    : 497\npaths_favored  : 121\npaths_found    : 496\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 234\npending_favs   : 93\npending_total  : 454\nvariable_paths : 0\nbitmap_cvg     : 2.06%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500293755\nlast_crash     : 0\nlast_hang      : 1500289062\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_and_Pantry_Manager/input -o /dev/shm/work/Recipe_and_Pantry_Manager/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_and_Pantry_Manager/Recipe_and_Pantry_Manager.dict -- data/linux/processed-challenges/Recipe_and_Pantry_Manager/bin/Recipe_and_Pantry_Manager\n'
+p151
+I1
+tp152
+a(I9120
+S'start_time     : 1500284996\nlast_update    : 1500294072\nfuzzer_pid     : 27202\ncycles_done    : 0\nexecs_done     : 4725908\nexecs_per_sec  : 561.85\npaths_total    : 499\npaths_favored  : 120\npaths_found    : 498\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 235\npending_favs   : 91\npending_total  : 455\nvariable_paths : 0\nbitmap_cvg     : 2.06%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500294064\nlast_crash     : 0\nlast_hang      : 1500289062\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_and_Pantry_Manager/input -o /dev/shm/work/Recipe_and_Pantry_Manager/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_and_Pantry_Manager/Recipe_and_Pantry_Manager.dict -- data/linux/processed-challenges/Recipe_and_Pantry_Manager/bin/Recipe_and_Pantry_Manager\n'
+p153
+I2
+tp154
+a(I9240
+S'start_time     : 1500284996\nlast_update    : 1500294192\nfuzzer_pid     : 27202\ncycles_done    : 0\nexecs_done     : 4785137\nexecs_per_sec  : 432.63\npaths_total    : 500\npaths_favored  : 120\npaths_found    : 499\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 236\npending_favs   : 90\npending_total  : 455\nvariable_paths : 0\nbitmap_cvg     : 2.06%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500294084\nlast_crash     : 0\nlast_hang      : 1500289062\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_and_Pantry_Manager/input -o /dev/shm/work/Recipe_and_Pantry_Manager/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_and_Pantry_Manager/Recipe_and_Pantry_Manager.dict -- data/linux/processed-challenges/Recipe_and_Pantry_Manager/bin/Recipe_and_Pantry_Manager\n'
+p155
+I0
+tp156
+a(I9360
+S'start_time     : 1500284996\nlast_update    : 1500294312\nfuzzer_pid     : 27202\ncycles_done    : 0\nexecs_done     : 4840133\nexecs_per_sec  : 442.36\npaths_total    : 501\npaths_favored  : 120\npaths_found    : 500\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 239\npending_favs   : 90\npending_total  : 455\nvariable_paths : 0\nbitmap_cvg     : 2.06%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500294252\nlast_crash     : 0\nlast_hang      : 1500289062\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_and_Pantry_Manager/input -o /dev/shm/work/Recipe_and_Pantry_Manager/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_and_Pantry_Manager/Recipe_and_Pantry_Manager.dict -- data/linux/processed-challenges/Recipe_and_Pantry_Manager/bin/Recipe_and_Pantry_Manager\n'
+p157
+I1
+tp158
+a(I9480
+S'start_time     : 1500284996\nlast_update    : 1500294433\nfuzzer_pid     : 27202\ncycles_done    : 0\nexecs_done     : 4894829\nexecs_per_sec  : 390.65\npaths_total    : 503\npaths_favored  : 120\npaths_found    : 502\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 245\npending_favs   : 89\npending_total  : 456\nvariable_paths : 0\nbitmap_cvg     : 2.06%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500294419\nlast_crash     : 0\nlast_hang      : 1500289062\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_and_Pantry_Manager/input -o /dev/shm/work/Recipe_and_Pantry_Manager/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_and_Pantry_Manager/Recipe_and_Pantry_Manager.dict -- data/linux/processed-challenges/Recipe_and_Pantry_Manager/bin/Recipe_and_Pantry_Manager\n'
+p159
+I3
+tp160
+a(I9600
+S'start_time     : 1500284996\nlast_update    : 1500294553\nfuzzer_pid     : 27202\ncycles_done    : 0\nexecs_done     : 4939072\nexecs_per_sec  : 355.20\npaths_total    : 505\npaths_favored  : 120\npaths_found    : 504\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 245\npending_favs   : 89\npending_total  : 458\nvariable_paths : 0\nbitmap_cvg     : 2.06%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500294514\nlast_crash     : 0\nlast_hang      : 1500289062\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_and_Pantry_Manager/input -o /dev/shm/work/Recipe_and_Pantry_Manager/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_and_Pantry_Manager/Recipe_and_Pantry_Manager.dict -- data/linux/processed-challenges/Recipe_and_Pantry_Manager/bin/Recipe_and_Pantry_Manager\n'
+p161
+I4
+tp162
+a(I9720
+S'start_time     : 1500284996\nlast_update    : 1500294673\nfuzzer_pid     : 27202\ncycles_done    : 0\nexecs_done     : 4995342\nexecs_per_sec  : 493.01\npaths_total    : 509\npaths_favored  : 120\npaths_found    : 508\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 245\npending_favs   : 89\npending_total  : 462\nvariable_paths : 0\nbitmap_cvg     : 2.06%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500294626\nlast_crash     : 0\nlast_hang      : 1500289062\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_and_Pantry_Manager/input -o /dev/shm/work/Recipe_and_Pantry_Manager/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_and_Pantry_Manager/Recipe_and_Pantry_Manager.dict -- data/linux/processed-challenges/Recipe_and_Pantry_Manager/bin/Recipe_and_Pantry_Manager\n'
+p163
+I2
+tp164
+a(I9840
+S'start_time     : 1500284996\nlast_update    : 1500294793\nfuzzer_pid     : 27202\ncycles_done    : 0\nexecs_done     : 5053115\nexecs_per_sec  : 482.47\npaths_total    : 511\npaths_favored  : 120\npaths_found    : 510\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 245\npending_favs   : 89\npending_total  : 464\nvariable_paths : 0\nbitmap_cvg     : 2.06%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500294739\nlast_crash     : 0\nlast_hang      : 1500289062\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_and_Pantry_Manager/input -o /dev/shm/work/Recipe_and_Pantry_Manager/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_and_Pantry_Manager/Recipe_and_Pantry_Manager.dict -- data/linux/processed-challenges/Recipe_and_Pantry_Manager/bin/Recipe_and_Pantry_Manager\n'
+p165
+I1
+tp166
+a(I9960
+S'start_time     : 1500284996\nlast_update    : 1500294914\nfuzzer_pid     : 27202\ncycles_done    : 0\nexecs_done     : 5110117\nexecs_per_sec  : 420.03\npaths_total    : 513\npaths_favored  : 121\npaths_found    : 512\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 247\npending_favs   : 90\npending_total  : 465\nvariable_paths : 0\nbitmap_cvg     : 2.06%\nunique_crashes : 1\nunique_hangs   : 5\nlast_path      : 1500294904\nlast_crash     : 1500294904\nlast_hang      : 1500289062\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_and_Pantry_Manager/input -o /dev/shm/work/Recipe_and_Pantry_Manager/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_and_Pantry_Manager/Recipe_and_Pantry_Manager.dict -- data/linux/processed-challenges/Recipe_and_Pantry_Manager/bin/Recipe_and_Pantry_Manager\n'
+p167
+I2
+tp168
+a(I10080
+S'start_time     : 1500284996\nlast_update    : 1500295034\nfuzzer_pid     : 27202\ncycles_done    : 0\nexecs_done     : 5158377\nexecs_per_sec  : 390.64\npaths_total    : 513\npaths_favored  : 121\npaths_found    : 512\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 247\npending_favs   : 90\npending_total  : 465\nvariable_paths : 0\nbitmap_cvg     : 2.06%\nunique_crashes : 1\nunique_hangs   : 5\nlast_path      : 1500294904\nlast_crash     : 1500294904\nlast_hang      : 1500289062\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_and_Pantry_Manager/input -o /dev/shm/work/Recipe_and_Pantry_Manager/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_and_Pantry_Manager/Recipe_and_Pantry_Manager.dict -- data/linux/processed-challenges/Recipe_and_Pantry_Manager/bin/Recipe_and_Pantry_Manager\n'
+p169
+I1
+tp170
+a(I10200
+S'start_time     : 1500284996\nlast_update    : 1500295154\nfuzzer_pid     : 27202\ncycles_done    : 0\nexecs_done     : 5211072\nexecs_per_sec  : 371.04\npaths_total    : 514\npaths_favored  : 122\npaths_found    : 513\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 254\npending_favs   : 90\npending_total  : 465\nvariable_paths : 0\nbitmap_cvg     : 2.06%\nunique_crashes : 1\nunique_hangs   : 5\nlast_path      : 1500295053\nlast_crash     : 1500294904\nlast_hang      : 1500289062\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_and_Pantry_Manager/input -o /dev/shm/work/Recipe_and_Pantry_Manager/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_and_Pantry_Manager/Recipe_and_Pantry_Manager.dict -- data/linux/processed-challenges/Recipe_and_Pantry_Manager/bin/Recipe_and_Pantry_Manager\n'
+p171
+I3
+tp172
+a(I10320
+S'start_time     : 1500284996\nlast_update    : 1500295274\nfuzzer_pid     : 27202\ncycles_done    : 0\nexecs_done     : 5278913\nexecs_per_sec  : 570.86\npaths_total    : 518\npaths_favored  : 122\npaths_found    : 517\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 254\npending_favs   : 90\npending_total  : 469\nvariable_paths : 0\nbitmap_cvg     : 2.06%\nunique_crashes : 1\nunique_hangs   : 5\nlast_path      : 1500295236\nlast_crash     : 1500294904\nlast_hang      : 1500289062\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_and_Pantry_Manager/input -o /dev/shm/work/Recipe_and_Pantry_Manager/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_and_Pantry_Manager/Recipe_and_Pantry_Manager.dict -- data/linux/processed-challenges/Recipe_and_Pantry_Manager/bin/Recipe_and_Pantry_Manager\n'
+p173
+I1
+tp174
+a(I10440
+S'start_time     : 1500284996\nlast_update    : 1500295394\nfuzzer_pid     : 27202\ncycles_done    : 0\nexecs_done     : 5346420\nexecs_per_sec  : 560.10\npaths_total    : 518\npaths_favored  : 122\npaths_found    : 517\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 254\npending_favs   : 90\npending_total  : 469\nvariable_paths : 0\nbitmap_cvg     : 2.06%\nunique_crashes : 1\nunique_hangs   : 5\nlast_path      : 1500295236\nlast_crash     : 1500294904\nlast_hang      : 1500289062\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_and_Pantry_Manager/input -o /dev/shm/work/Recipe_and_Pantry_Manager/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_and_Pantry_Manager/Recipe_and_Pantry_Manager.dict -- data/linux/processed-challenges/Recipe_and_Pantry_Manager/bin/Recipe_and_Pantry_Manager\n'
+p175
+I1
+tp176
+a(I10560
+S'start_time     : 1500284996\nlast_update    : 1500295515\nfuzzer_pid     : 27202\ncycles_done    : 0\nexecs_done     : 5403803\nexecs_per_sec  : 371.67\npaths_total    : 519\npaths_favored  : 122\npaths_found    : 518\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 255\npending_favs   : 89\npending_total  : 469\nvariable_paths : 0\nbitmap_cvg     : 2.06%\nunique_crashes : 1\nunique_hangs   : 5\nlast_path      : 1500295437\nlast_crash     : 1500294904\nlast_hang      : 1500289062\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_and_Pantry_Manager/input -o /dev/shm/work/Recipe_and_Pantry_Manager/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_and_Pantry_Manager/Recipe_and_Pantry_Manager.dict -- data/linux/processed-challenges/Recipe_and_Pantry_Manager/bin/Recipe_and_Pantry_Manager\n'
+p177
+I1
+tp178
+a(I10680
+S'start_time     : 1500284996\nlast_update    : 1500295635\nfuzzer_pid     : 27202\ncycles_done    : 0\nexecs_done     : 5456082\nexecs_per_sec  : 389.25\npaths_total    : 520\npaths_favored  : 123\npaths_found    : 519\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 256\npending_favs   : 89\npending_total  : 469\nvariable_paths : 0\nbitmap_cvg     : 2.06%\nunique_crashes : 1\nunique_hangs   : 5\nlast_path      : 1500295559\nlast_crash     : 1500294904\nlast_hang      : 1500289062\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Recipe_and_Pantry_Manager/input -o /dev/shm/work/Recipe_and_Pantry_Manager/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Recipe_and_Pantry_Manager/Recipe_and_Pantry_Manager.dict -- data/linux/processed-challenges/Recipe_and_Pantry_Manager/bin/Recipe_and_Pantry_Manager\n'
+p179
+I0
+tp180
+a.

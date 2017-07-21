@@ -1,0 +1,42 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/university_enrollment.dir/lib/calloc.c.o"
+  "CMakeFiles/university_enrollment.dir/lib/ctype.c.o"
+  "CMakeFiles/university_enrollment.dir/lib/free.c.o"
+  "CMakeFiles/university_enrollment.dir/lib/malloc.c.o"
+  "CMakeFiles/university_enrollment.dir/lib/malloc_common.c.o"
+  "CMakeFiles/university_enrollment.dir/lib/memchr.c.o"
+  "CMakeFiles/university_enrollment.dir/lib/memcmp.c.o"
+  "CMakeFiles/university_enrollment.dir/lib/memcpy.c.o"
+  "CMakeFiles/university_enrollment.dir/lib/memmove.c.o"
+  "CMakeFiles/university_enrollment.dir/lib/memset.c.o"
+  "CMakeFiles/university_enrollment.dir/lib/printf.c.o"
+  "CMakeFiles/university_enrollment.dir/lib/realloc.c.o"
+  "CMakeFiles/university_enrollment.dir/lib/strcasecmp.c.o"
+  "CMakeFiles/university_enrollment.dir/lib/strcat.c.o"
+  "CMakeFiles/university_enrollment.dir/lib/strchr.c.o"
+  "CMakeFiles/university_enrollment.dir/lib/strcmp.c.o"
+  "CMakeFiles/university_enrollment.dir/lib/strcpy.c.o"
+  "CMakeFiles/university_enrollment.dir/lib/strdup.c.o"
+  "CMakeFiles/university_enrollment.dir/lib/strlen.c.o"
+  "CMakeFiles/university_enrollment.dir/lib/strncasecmp.c.o"
+  "CMakeFiles/university_enrollment.dir/lib/strncmp.c.o"
+  "CMakeFiles/university_enrollment.dir/lib/strncpy.c.o"
+  "CMakeFiles/university_enrollment.dir/lib/strsep.c.o"
+  "CMakeFiles/university_enrollment.dir/lib/strtol.c.o"
+  "CMakeFiles/university_enrollment.dir/src/course.c.o"
+  "CMakeFiles/university_enrollment.dir/src/data_gen.c.o"
+  "CMakeFiles/university_enrollment.dir/src/department.c.o"
+  "CMakeFiles/university_enrollment.dir/src/main.c.o"
+  "CMakeFiles/university_enrollment.dir/src/professor.c.o"
+  "CMakeFiles/university_enrollment.dir/src/ptrlist.c.o"
+  "CMakeFiles/university_enrollment.dir/src/read.c.o"
+  "CMakeFiles/university_enrollment.dir/src/student.c.o"
+  "CMakeFiles/university_enrollment.dir/src/time.c.o"
+  "university_enrollment.pdb"
+  "university_enrollment"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang C)
+  include(CMakeFiles/university_enrollment.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

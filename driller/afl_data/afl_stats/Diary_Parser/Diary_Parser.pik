@@ -1,0 +1,452 @@
+(lp0
+(I0
+S'start_time     : 1500230858\nlast_update    : 1500230858\nfuzzer_pid     : 26622\ncycles_done    : 0\nexecs_done     : 10\nexecs_per_sec  : 142.86\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 1\npending_total  : 1\nvariable_paths : 0\nbitmap_cvg     : 1.04%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Diary_Parser/input -o /dev/shm/work/Diary_Parser/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Diary_Parser/Diary_Parser.dict -- data/linux/processed-challenges/Diary_Parser/bin/Diary_Parser\n'
+p1
+I11
+tp2
+a(I120
+S'start_time     : 1500230858\nlast_update    : 1500230978\nfuzzer_pid     : 26622\ncycles_done    : 0\nexecs_done     : 64935\nexecs_per_sec  : 551.41\npaths_total    : 17\npaths_favored  : 1\npaths_found    : 16\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 1\npending_total  : 17\nvariable_paths : 0\nbitmap_cvg     : 1.30%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500230928\nlast_crash     : 0\nlast_hang      : 1500230871\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Diary_Parser/input -o /dev/shm/work/Diary_Parser/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Diary_Parser/Diary_Parser.dict -- data/linux/processed-challenges/Diary_Parser/bin/Diary_Parser\n'
+p3
+I6
+tp4
+a(I240
+S'start_time     : 1500230858\nlast_update    : 1500231098\nfuzzer_pid     : 26622\ncycles_done    : 0\nexecs_done     : 129351\nexecs_per_sec  : 548.86\npaths_total    : 20\npaths_favored  : 1\npaths_found    : 19\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 1\npending_total  : 20\nvariable_paths : 0\nbitmap_cvg     : 1.31%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500231076\nlast_crash     : 0\nlast_hang      : 1500230871\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Diary_Parser/input -o /dev/shm/work/Diary_Parser/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Diary_Parser/Diary_Parser.dict -- data/linux/processed-challenges/Diary_Parser/bin/Diary_Parser\n'
+p5
+I3
+tp6
+a(I360
+S'start_time     : 1500230858\nlast_update    : 1500231218\nfuzzer_pid     : 26622\ncycles_done    : 0\nexecs_done     : 193985\nexecs_per_sec  : 497.04\npaths_total    : 26\npaths_favored  : 9\npaths_found    : 25\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 13\npending_favs   : 5\npending_total  : 22\nvariable_paths : 0\nbitmap_cvg     : 1.34%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500231216\nlast_crash     : 0\nlast_hang      : 1500230871\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Diary_Parser/input -o /dev/shm/work/Diary_Parser/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Diary_Parser/Diary_Parser.dict -- data/linux/processed-challenges/Diary_Parser/bin/Diary_Parser\n'
+p7
+I6
+tp8
+a(I480
+S'start_time     : 1500230858\nlast_update    : 1500231338\nfuzzer_pid     : 26622\ncycles_done    : 0\nexecs_done     : 257958\nexecs_per_sec  : 536.65\npaths_total    : 39\npaths_favored  : 9\npaths_found    : 38\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 13\npending_favs   : 5\npending_total  : 35\nvariable_paths : 0\nbitmap_cvg     : 1.36%\nunique_crashes : 2\nunique_hangs   : 1\nlast_path      : 1500231329\nlast_crash     : 1500231324\nlast_hang      : 1500230871\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Diary_Parser/input -o /dev/shm/work/Diary_Parser/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Diary_Parser/Diary_Parser.dict -- data/linux/processed-challenges/Diary_Parser/bin/Diary_Parser\n'
+p9
+I13
+tp10
+a(I600
+S'start_time     : 1500230858\nlast_update    : 1500231459\nfuzzer_pid     : 26622\ncycles_done    : 0\nexecs_done     : 322558\nexecs_per_sec  : 535.82\npaths_total    : 41\npaths_favored  : 9\npaths_found    : 40\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 13\npending_favs   : 5\npending_total  : 37\nvariable_paths : 0\nbitmap_cvg     : 1.39%\nunique_crashes : 5\nunique_hangs   : 1\nlast_path      : 1500231451\nlast_crash     : 1500231454\nlast_hang      : 1500230871\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Diary_Parser/input -o /dev/shm/work/Diary_Parser/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Diary_Parser/Diary_Parser.dict -- data/linux/processed-challenges/Diary_Parser/bin/Diary_Parser\n'
+p11
+I2
+tp12
+a(I720
+S'start_time     : 1500230858\nlast_update    : 1500231579\nfuzzer_pid     : 26622\ncycles_done    : 0\nexecs_done     : 387050\nexecs_per_sec  : 531.66\npaths_total    : 41\npaths_favored  : 18\npaths_found    : 40\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 16\npending_favs   : 13\npending_total  : 35\nvariable_paths : 0\nbitmap_cvg     : 1.39%\nunique_crashes : 8\nunique_hangs   : 1\nlast_path      : 1500231451\nlast_crash     : 1500231559\nlast_hang      : 1500230871\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Diary_Parser/input -o /dev/shm/work/Diary_Parser/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Diary_Parser/Diary_Parser.dict -- data/linux/processed-challenges/Diary_Parser/bin/Diary_Parser\n'
+p13
+I0
+tp14
+a(I840
+S'start_time     : 1500230858\nlast_update    : 1500231699\nfuzzer_pid     : 26622\ncycles_done    : 0\nexecs_done     : 448327\nexecs_per_sec  : 504.44\npaths_total    : 43\npaths_favored  : 18\npaths_found    : 42\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 23\npending_favs   : 9\npending_total  : 33\nvariable_paths : 0\nbitmap_cvg     : 1.40%\nunique_crashes : 8\nunique_hangs   : 1\nlast_path      : 1500231691\nlast_crash     : 1500231559\nlast_hang      : 1500230871\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Diary_Parser/input -o /dev/shm/work/Diary_Parser/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Diary_Parser/Diary_Parser.dict -- data/linux/processed-challenges/Diary_Parser/bin/Diary_Parser\n'
+p15
+I2
+tp16
+a(I960
+S'start_time     : 1500230858\nlast_update    : 1500231819\nfuzzer_pid     : 26622\ncycles_done    : 0\nexecs_done     : 509007\nexecs_per_sec  : 496.91\npaths_total    : 44\npaths_favored  : 19\npaths_found    : 43\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 25\npending_favs   : 9\npending_total  : 32\nvariable_paths : 0\nbitmap_cvg     : 1.40%\nunique_crashes : 8\nunique_hangs   : 1\nlast_path      : 1500231767\nlast_crash     : 1500231559\nlast_hang      : 1500230871\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Diary_Parser/input -o /dev/shm/work/Diary_Parser/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Diary_Parser/Diary_Parser.dict -- data/linux/processed-challenges/Diary_Parser/bin/Diary_Parser\n'
+p17
+I1
+tp18
+a(I1080
+S'start_time     : 1500230858\nlast_update    : 1500231939\nfuzzer_pid     : 26622\ncycles_done    : 0\nexecs_done     : 569234\nexecs_per_sec  : 500.51\npaths_total    : 44\npaths_favored  : 19\npaths_found    : 43\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 35\npending_favs   : 7\npending_total  : 29\nvariable_paths : 0\nbitmap_cvg     : 1.40%\nunique_crashes : 9\nunique_hangs   : 1\nlast_path      : 1500231767\nlast_crash     : 1500231925\nlast_hang      : 1500230871\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Diary_Parser/input -o /dev/shm/work/Diary_Parser/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Diary_Parser/Diary_Parser.dict -- data/linux/processed-challenges/Diary_Parser/bin/Diary_Parser\n'
+p19
+I0
+tp20
+a(I1200
+S'start_time     : 1500230858\nlast_update    : 1500232060\nfuzzer_pid     : 26622\ncycles_done    : 0\nexecs_done     : 630104\nexecs_per_sec  : 503.08\npaths_total    : 52\npaths_favored  : 19\npaths_found    : 51\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 39\npending_favs   : 5\npending_total  : 35\nvariable_paths : 0\nbitmap_cvg     : 1.54%\nunique_crashes : 10\nunique_hangs   : 1\nlast_path      : 1500232046\nlast_crash     : 1500231973\nlast_hang      : 1500230871\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Diary_Parser/input -o /dev/shm/work/Diary_Parser/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Diary_Parser/Diary_Parser.dict -- data/linux/processed-challenges/Diary_Parser/bin/Diary_Parser\n'
+p21
+I8
+tp22
+a(I1320
+S'start_time     : 1500230858\nlast_update    : 1500232180\nfuzzer_pid     : 26622\ncycles_done    : 0\nexecs_done     : 691499\nexecs_per_sec  : 524.06\npaths_total    : 65\npaths_favored  : 26\npaths_found    : 64\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 41\npending_favs   : 11\npending_total  : 46\nvariable_paths : 0\nbitmap_cvg     : 1.56%\nunique_crashes : 12\nunique_hangs   : 4\nlast_path      : 1500232166\nlast_crash     : 1500232118\nlast_hang      : 1500232130\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Diary_Parser/input -o /dev/shm/work/Diary_Parser/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Diary_Parser/Diary_Parser.dict -- data/linux/processed-challenges/Diary_Parser/bin/Diary_Parser\n'
+p23
+I13
+tp24
+a(I1440
+S'start_time     : 1500230858\nlast_update    : 1500232300\nfuzzer_pid     : 26622\ncycles_done    : 0\nexecs_done     : 754752\nexecs_per_sec  : 508.01\npaths_total    : 65\npaths_favored  : 30\npaths_found    : 64\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 42\npending_favs   : 17\npending_total  : 45\nvariable_paths : 0\nbitmap_cvg     : 1.56%\nunique_crashes : 13\nunique_hangs   : 4\nlast_path      : 1500232166\nlast_crash     : 1500232210\nlast_hang      : 1500232130\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Diary_Parser/input -o /dev/shm/work/Diary_Parser/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Diary_Parser/Diary_Parser.dict -- data/linux/processed-challenges/Diary_Parser/bin/Diary_Parser\n'
+p25
+I0
+tp26
+a(I1560
+S'start_time     : 1500230858\nlast_update    : 1500232420\nfuzzer_pid     : 26622\ncycles_done    : 0\nexecs_done     : 818306\nexecs_per_sec  : 534.95\npaths_total    : 67\npaths_favored  : 31\npaths_found    : 66\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 43\npending_favs   : 17\npending_total  : 46\nvariable_paths : 0\nbitmap_cvg     : 1.57%\nunique_crashes : 13\nunique_hangs   : 4\nlast_path      : 1500232369\nlast_crash     : 1500232210\nlast_hang      : 1500232130\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Diary_Parser/input -o /dev/shm/work/Diary_Parser/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Diary_Parser/Diary_Parser.dict -- data/linux/processed-challenges/Diary_Parser/bin/Diary_Parser\n'
+p27
+I2
+tp28
+a(I1680
+S'start_time     : 1500230858\nlast_update    : 1500232540\nfuzzer_pid     : 26622\ncycles_done    : 0\nexecs_done     : 880694\nexecs_per_sec  : 522.37\npaths_total    : 67\npaths_favored  : 31\npaths_found    : 66\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 46\npending_favs   : 14\npending_total  : 43\nvariable_paths : 0\nbitmap_cvg     : 1.57%\nunique_crashes : 15\nunique_hangs   : 4\nlast_path      : 1500232369\nlast_crash     : 1500232481\nlast_hang      : 1500232130\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Diary_Parser/input -o /dev/shm/work/Diary_Parser/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Diary_Parser/Diary_Parser.dict -- data/linux/processed-challenges/Diary_Parser/bin/Diary_Parser\n'
+p29
+I0
+tp30
+a(I1800
+S'start_time     : 1500230858\nlast_update    : 1500232661\nfuzzer_pid     : 26622\ncycles_done    : 0\nexecs_done     : 942952\nexecs_per_sec  : 498.95\npaths_total    : 68\npaths_favored  : 32\npaths_found    : 67\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 48\npending_favs   : 13\npending_total  : 42\nvariable_paths : 0\nbitmap_cvg     : 1.57%\nunique_crashes : 17\nunique_hangs   : 5\nlast_path      : 1500232594\nlast_crash     : 1500232653\nlast_hang      : 1500232634\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Diary_Parser/input -o /dev/shm/work/Diary_Parser/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Diary_Parser/Diary_Parser.dict -- data/linux/processed-challenges/Diary_Parser/bin/Diary_Parser\n'
+p31
+I1
+tp32
+a(I1920
+S'start_time     : 1500230858\nlast_update    : 1500232781\nfuzzer_pid     : 26622\ncycles_done    : 0\nexecs_done     : 1004897\nexecs_per_sec  : 499.92\npaths_total    : 68\npaths_favored  : 32\npaths_found    : 67\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 51\npending_favs   : 11\npending_total  : 40\nvariable_paths : 0\nbitmap_cvg     : 1.57%\nunique_crashes : 18\nunique_hangs   : 5\nlast_path      : 1500232594\nlast_crash     : 1500232770\nlast_hang      : 1500232634\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Diary_Parser/input -o /dev/shm/work/Diary_Parser/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Diary_Parser/Diary_Parser.dict -- data/linux/processed-challenges/Diary_Parser/bin/Diary_Parser\n'
+p33
+I0
+tp34
+a(I2040
+S'start_time     : 1500230858\nlast_update    : 1500232901\nfuzzer_pid     : 26622\ncycles_done    : 0\nexecs_done     : 1065366\nexecs_per_sec  : 527.77\npaths_total    : 70\npaths_favored  : 33\npaths_found    : 69\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 52\npending_favs   : 11\npending_total  : 41\nvariable_paths : 0\nbitmap_cvg     : 1.58%\nunique_crashes : 18\nunique_hangs   : 5\nlast_path      : 1500232892\nlast_crash     : 1500232770\nlast_hang      : 1500232634\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Diary_Parser/input -o /dev/shm/work/Diary_Parser/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Diary_Parser/Diary_Parser.dict -- data/linux/processed-challenges/Diary_Parser/bin/Diary_Parser\n'
+p35
+I2
+tp36
+a(I2160
+S'start_time     : 1500230858\nlast_update    : 1500233021\nfuzzer_pid     : 26622\ncycles_done    : 0\nexecs_done     : 1125598\nexecs_per_sec  : 521.75\npaths_total    : 73\npaths_favored  : 34\npaths_found    : 72\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 53\npending_favs   : 11\npending_total  : 43\nvariable_paths : 0\nbitmap_cvg     : 1.58%\nunique_crashes : 19\nunique_hangs   : 6\nlast_path      : 1500233020\nlast_crash     : 1500233014\nlast_hang      : 1500232912\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Diary_Parser/input -o /dev/shm/work/Diary_Parser/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Diary_Parser/Diary_Parser.dict -- data/linux/processed-challenges/Diary_Parser/bin/Diary_Parser\n'
+p37
+I3
+tp38
+a(I2280
+S'start_time     : 1500230858\nlast_update    : 1500233142\nfuzzer_pid     : 26622\ncycles_done    : 0\nexecs_done     : 1186208\nexecs_per_sec  : 495.25\npaths_total    : 73\npaths_favored  : 33\npaths_found    : 72\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 58\npending_favs   : 9\npending_total  : 41\nvariable_paths : 0\nbitmap_cvg     : 1.58%\nunique_crashes : 20\nunique_hangs   : 6\nlast_path      : 1500233020\nlast_crash     : 1500233141\nlast_hang      : 1500232912\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Diary_Parser/input -o /dev/shm/work/Diary_Parser/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Diary_Parser/Diary_Parser.dict -- data/linux/processed-challenges/Diary_Parser/bin/Diary_Parser\n'
+p39
+I0
+tp40
+a(I2400
+S'start_time     : 1500230858\nlast_update    : 1500233262\nfuzzer_pid     : 26622\ncycles_done    : 0\nexecs_done     : 1245920\nexecs_per_sec  : 507.06\npaths_total    : 73\npaths_favored  : 33\npaths_found    : 72\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 60\npending_favs   : 7\npending_total  : 39\nvariable_paths : 0\nbitmap_cvg     : 1.58%\nunique_crashes : 21\nunique_hangs   : 6\nlast_path      : 1500233020\nlast_crash     : 1500233164\nlast_hang      : 1500232912\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Diary_Parser/input -o /dev/shm/work/Diary_Parser/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Diary_Parser/Diary_Parser.dict -- data/linux/processed-challenges/Diary_Parser/bin/Diary_Parser\n'
+p41
+I0
+tp42
+a(I2520
+S'start_time     : 1500230858\nlast_update    : 1500233382\nfuzzer_pid     : 26622\ncycles_done    : 0\nexecs_done     : 1307276\nexecs_per_sec  : 505.99\npaths_total    : 81\npaths_favored  : 31\npaths_found    : 80\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 68\npending_favs   : 5\npending_total  : 44\nvariable_paths : 0\nbitmap_cvg     : 1.65%\nunique_crashes : 21\nunique_hangs   : 6\nlast_path      : 1500233366\nlast_crash     : 1500233164\nlast_hang      : 1500232912\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Diary_Parser/input -o /dev/shm/work/Diary_Parser/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Diary_Parser/Diary_Parser.dict -- data/linux/processed-challenges/Diary_Parser/bin/Diary_Parser\n'
+p43
+I8
+tp44
+a(I2640
+S'start_time     : 1500230858\nlast_update    : 1500233502\nfuzzer_pid     : 26622\ncycles_done    : 0\nexecs_done     : 1367202\nexecs_per_sec  : 450.81\npaths_total    : 84\npaths_favored  : 38\npaths_found    : 83\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 71\npending_favs   : 12\npending_total  : 45\nvariable_paths : 0\nbitmap_cvg     : 1.65%\nunique_crashes : 23\nunique_hangs   : 6\nlast_path      : 1500233485\nlast_crash     : 1500233464\nlast_hang      : 1500232912\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Diary_Parser/input -o /dev/shm/work/Diary_Parser/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Diary_Parser/Diary_Parser.dict -- data/linux/processed-challenges/Diary_Parser/bin/Diary_Parser\n'
+p45
+I3
+tp46
+a(I2760
+S'start_time     : 1500230858\nlast_update    : 1500233623\nfuzzer_pid     : 26622\ncycles_done    : 0\nexecs_done     : 1428058\nexecs_per_sec  : 503.73\npaths_total    : 84\npaths_favored  : 38\npaths_found    : 83\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 74\npending_favs   : 10\npending_total  : 43\nvariable_paths : 0\nbitmap_cvg     : 1.65%\nunique_crashes : 24\nunique_hangs   : 6\nlast_path      : 1500233485\nlast_crash     : 1500233530\nlast_hang      : 1500232912\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Diary_Parser/input -o /dev/shm/work/Diary_Parser/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Diary_Parser/Diary_Parser.dict -- data/linux/processed-challenges/Diary_Parser/bin/Diary_Parser\n'
+p47
+I0
+tp48
+a(I2880
+S'start_time     : 1500230858\nlast_update    : 1500233743\nfuzzer_pid     : 26622\ncycles_done    : 0\nexecs_done     : 1488716\nexecs_per_sec  : 495.78\npaths_total    : 84\npaths_favored  : 38\npaths_found    : 83\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 76\npending_favs   : 8\npending_total  : 41\nvariable_paths : 0\nbitmap_cvg     : 1.65%\nunique_crashes : 24\nunique_hangs   : 6\nlast_path      : 1500233485\nlast_crash     : 1500233530\nlast_hang      : 1500232912\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Diary_Parser/input -o /dev/shm/work/Diary_Parser/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Diary_Parser/Diary_Parser.dict -- data/linux/processed-challenges/Diary_Parser/bin/Diary_Parser\n'
+p49
+I0
+tp50
+a(I3000
+S'start_time     : 1500230858\nlast_update    : 1500233863\nfuzzer_pid     : 26622\ncycles_done    : 0\nexecs_done     : 1549930\nexecs_per_sec  : 484.08\npaths_total    : 85\npaths_favored  : 39\npaths_found    : 84\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 78\npending_favs   : 7\npending_total  : 40\nvariable_paths : 0\nbitmap_cvg     : 1.66%\nunique_crashes : 24\nunique_hangs   : 6\nlast_path      : 1500233770\nlast_crash     : 1500233530\nlast_hang      : 1500232912\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Diary_Parser/input -o /dev/shm/work/Diary_Parser/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Diary_Parser/Diary_Parser.dict -- data/linux/processed-challenges/Diary_Parser/bin/Diary_Parser\n'
+p51
+I1
+tp52
+a(I3120
+S'start_time     : 1500230858\nlast_update    : 1500233983\nfuzzer_pid     : 26622\ncycles_done    : 0\nexecs_done     : 1610954\nexecs_per_sec  : 484.68\npaths_total    : 86\npaths_favored  : 39\npaths_found    : 85\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 80\npending_favs   : 5\npending_total  : 39\nvariable_paths : 0\nbitmap_cvg     : 1.66%\nunique_crashes : 24\nunique_hangs   : 6\nlast_path      : 1500233944\nlast_crash     : 1500233530\nlast_hang      : 1500232912\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Diary_Parser/input -o /dev/shm/work/Diary_Parser/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Diary_Parser/Diary_Parser.dict -- data/linux/processed-challenges/Diary_Parser/bin/Diary_Parser\n'
+p53
+I1
+tp54
+a(I3240
+S'start_time     : 1500230858\nlast_update    : 1500234103\nfuzzer_pid     : 26622\ncycles_done    : 0\nexecs_done     : 1669962\nexecs_per_sec  : 456.66\npaths_total    : 86\npaths_favored  : 40\npaths_found    : 85\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 82\npending_favs   : 4\npending_total  : 37\nvariable_paths : 0\nbitmap_cvg     : 1.66%\nunique_crashes : 26\nunique_hangs   : 6\nlast_path      : 1500233944\nlast_crash     : 1500234066\nlast_hang      : 1500232912\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Diary_Parser/input -o /dev/shm/work/Diary_Parser/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Diary_Parser/Diary_Parser.dict -- data/linux/processed-challenges/Diary_Parser/bin/Diary_Parser\n'
+p55
+I0
+tp56
+a(I3360
+S'start_time     : 1500230858\nlast_update    : 1500234223\nfuzzer_pid     : 26622\ncycles_done    : 0\nexecs_done     : 1731801\nexecs_per_sec  : 527.66\npaths_total    : 91\npaths_favored  : 40\npaths_found    : 90\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 85\npending_favs   : 4\npending_total  : 40\nvariable_paths : 0\nbitmap_cvg     : 1.67%\nunique_crashes : 26\nunique_hangs   : 6\nlast_path      : 1500234183\nlast_crash     : 1500234066\nlast_hang      : 1500232912\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Diary_Parser/input -o /dev/shm/work/Diary_Parser/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Diary_Parser/Diary_Parser.dict -- data/linux/processed-challenges/Diary_Parser/bin/Diary_Parser\n'
+p57
+I5
+tp58
+a(I3480
+S'start_time     : 1500230858\nlast_update    : 1500234344\nfuzzer_pid     : 26622\ncycles_done    : 0\nexecs_done     : 1792702\nexecs_per_sec  : 494.94\npaths_total    : 96\npaths_favored  : 43\npaths_found    : 95\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 88\npending_favs   : 7\npending_total  : 43\nvariable_paths : 0\nbitmap_cvg     : 1.69%\nunique_crashes : 26\nunique_hangs   : 6\nlast_path      : 1500234239\nlast_crash     : 1500234066\nlast_hang      : 1500232912\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Diary_Parser/input -o /dev/shm/work/Diary_Parser/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Diary_Parser/Diary_Parser.dict -- data/linux/processed-challenges/Diary_Parser/bin/Diary_Parser\n'
+p59
+I5
+tp60
+a(I3600
+S'start_time     : 1500230858\nlast_update    : 1500234464\nfuzzer_pid     : 26622\ncycles_done    : 0\nexecs_done     : 1855726\nexecs_per_sec  : 494.05\npaths_total    : 98\npaths_favored  : 42\npaths_found    : 97\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 91\npending_favs   : 6\npending_total  : 43\nvariable_paths : 0\nbitmap_cvg     : 1.71%\nunique_crashes : 26\nunique_hangs   : 6\nlast_path      : 1500234457\nlast_crash     : 1500234066\nlast_hang      : 1500232912\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Diary_Parser/input -o /dev/shm/work/Diary_Parser/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Diary_Parser/Diary_Parser.dict -- data/linux/processed-challenges/Diary_Parser/bin/Diary_Parser\n'
+p61
+I2
+tp62
+a(I3720
+S'start_time     : 1500230858\nlast_update    : 1500234584\nfuzzer_pid     : 26622\ncycles_done    : 0\nexecs_done     : 1917787\nexecs_per_sec  : 551.65\npaths_total    : 98\npaths_favored  : 43\npaths_found    : 97\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 92\npending_favs   : 6\npending_total  : 42\nvariable_paths : 0\nbitmap_cvg     : 1.71%\nunique_crashes : 26\nunique_hangs   : 6\nlast_path      : 1500234457\nlast_crash     : 1500234066\nlast_hang      : 1500232912\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Diary_Parser/input -o /dev/shm/work/Diary_Parser/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Diary_Parser/Diary_Parser.dict -- data/linux/processed-challenges/Diary_Parser/bin/Diary_Parser\n'
+p63
+I0
+tp64
+a(I3840
+S'start_time     : 1500230858\nlast_update    : 1500234704\nfuzzer_pid     : 26622\ncycles_done    : 0\nexecs_done     : 1979204\nexecs_per_sec  : 465.99\npaths_total    : 102\npaths_favored  : 43\npaths_found    : 101\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 95\npending_favs   : 4\npending_total  : 44\nvariable_paths : 0\nbitmap_cvg     : 1.71%\nunique_crashes : 26\nunique_hangs   : 6\nlast_path      : 1500234693\nlast_crash     : 1500234066\nlast_hang      : 1500232912\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Diary_Parser/input -o /dev/shm/work/Diary_Parser/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Diary_Parser/Diary_Parser.dict -- data/linux/processed-challenges/Diary_Parser/bin/Diary_Parser\n'
+p65
+I4
+tp66
+a(I3960
+S'start_time     : 1500230858\nlast_update    : 1500234824\nfuzzer_pid     : 26622\ncycles_done    : 0\nexecs_done     : 2040865\nexecs_per_sec  : 539.81\npaths_total    : 102\npaths_favored  : 44\npaths_found    : 101\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 96\npending_favs   : 5\npending_total  : 43\nvariable_paths : 0\nbitmap_cvg     : 1.71%\nunique_crashes : 26\nunique_hangs   : 6\nlast_path      : 1500234693\nlast_crash     : 1500234066\nlast_hang      : 1500232912\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Diary_Parser/input -o /dev/shm/work/Diary_Parser/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Diary_Parser/Diary_Parser.dict -- data/linux/processed-challenges/Diary_Parser/bin/Diary_Parser\n'
+p67
+I0
+tp68
+a(I4080
+S'start_time     : 1500230858\nlast_update    : 1500234945\nfuzzer_pid     : 26622\ncycles_done    : 0\nexecs_done     : 2100285\nexecs_per_sec  : 495.63\npaths_total    : 102\npaths_favored  : 44\npaths_found    : 101\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 98\npending_favs   : 3\npending_total  : 41\nvariable_paths : 0\nbitmap_cvg     : 1.71%\nunique_crashes : 26\nunique_hangs   : 6\nlast_path      : 1500234693\nlast_crash     : 1500234066\nlast_hang      : 1500232912\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Diary_Parser/input -o /dev/shm/work/Diary_Parser/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Diary_Parser/Diary_Parser.dict -- data/linux/processed-challenges/Diary_Parser/bin/Diary_Parser\n'
+p69
+I0
+tp70
+a(I4200
+S'start_time     : 1500230858\nlast_update    : 1500235065\nfuzzer_pid     : 26622\ncycles_done    : 0\nexecs_done     : 2160012\nexecs_per_sec  : 537.58\npaths_total    : 102\npaths_favored  : 44\npaths_found    : 101\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 99\npending_favs   : 2\npending_total  : 40\nvariable_paths : 0\nbitmap_cvg     : 1.71%\nunique_crashes : 26\nunique_hangs   : 6\nlast_path      : 1500234693\nlast_crash     : 1500234066\nlast_hang      : 1500232912\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Diary_Parser/input -o /dev/shm/work/Diary_Parser/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Diary_Parser/Diary_Parser.dict -- data/linux/processed-challenges/Diary_Parser/bin/Diary_Parser\n'
+p71
+I0
+tp72
+a(I4320
+S'start_time     : 1500230858\nlast_update    : 1500235185\nfuzzer_pid     : 26622\ncycles_done    : 1\nexecs_done     : 2219185\nexecs_per_sec  : 491.73\npaths_total    : 103\npaths_favored  : 44\npaths_found    : 102\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 32\npending_favs   : 0\npending_total  : 39\nvariable_paths : 0\nbitmap_cvg     : 1.71%\nunique_crashes : 27\nunique_hangs   : 6\nlast_path      : 1500235178\nlast_crash     : 1500235138\nlast_hang      : 1500232912\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Diary_Parser/input -o /dev/shm/work/Diary_Parser/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Diary_Parser/Diary_Parser.dict -- data/linux/processed-challenges/Diary_Parser/bin/Diary_Parser\n'
+p73
+I1
+tp74
+a(I4440
+S'start_time     : 1500230858\nlast_update    : 1500235305\nfuzzer_pid     : 26622\ncycles_done    : 1\nexecs_done     : 2279924\nexecs_per_sec  : 535.23\npaths_total    : 103\npaths_favored  : 44\npaths_found    : 102\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 42\npending_favs   : 0\npending_total  : 37\nvariable_paths : 0\nbitmap_cvg     : 1.71%\nunique_crashes : 27\nunique_hangs   : 6\nlast_path      : 1500235178\nlast_crash     : 1500235138\nlast_hang      : 1500232912\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Diary_Parser/input -o /dev/shm/work/Diary_Parser/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Diary_Parser/Diary_Parser.dict -- data/linux/processed-challenges/Diary_Parser/bin/Diary_Parser\n'
+p75
+I0
+tp76
+a(I4560
+S'start_time     : 1500230858\nlast_update    : 1500235425\nfuzzer_pid     : 26622\ncycles_done    : 1\nexecs_done     : 2341895\nexecs_per_sec  : 539.62\npaths_total    : 104\npaths_favored  : 45\npaths_found    : 103\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 93\npending_favs   : 1\npending_total  : 38\nvariable_paths : 0\nbitmap_cvg     : 1.71%\nunique_crashes : 27\nunique_hangs   : 7\nlast_path      : 1500235313\nlast_crash     : 1500235138\nlast_hang      : 1500235399\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Diary_Parser/input -o /dev/shm/work/Diary_Parser/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Diary_Parser/Diary_Parser.dict -- data/linux/processed-challenges/Diary_Parser/bin/Diary_Parser\n'
+p77
+I1
+tp78
+a(I4680
+S'start_time     : 1500230858\nlast_update    : 1500235546\nfuzzer_pid     : 26622\ncycles_done    : 1\nexecs_done     : 2401785\nexecs_per_sec  : 479.40\npaths_total    : 105\npaths_favored  : 46\npaths_found    : 104\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 104\npending_favs   : 1\npending_total  : 37\nvariable_paths : 0\nbitmap_cvg     : 1.72%\nunique_crashes : 29\nunique_hangs   : 7\nlast_path      : 1500235437\nlast_crash     : 1500235510\nlast_hang      : 1500235399\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Diary_Parser/input -o /dev/shm/work/Diary_Parser/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Diary_Parser/Diary_Parser.dict -- data/linux/processed-challenges/Diary_Parser/bin/Diary_Parser\n'
+p79
+I1
+tp80
+a(I4800
+S'start_time     : 1500230858\nlast_update    : 1500235666\nfuzzer_pid     : 26622\ncycles_done    : 2\nexecs_done     : 2468373\nexecs_per_sec  : 545.30\npaths_total    : 105\npaths_favored  : 46\npaths_found    : 104\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 18\npending_favs   : 0\npending_total  : 35\nvariable_paths : 0\nbitmap_cvg     : 1.72%\nunique_crashes : 29\nunique_hangs   : 8\nlast_path      : 1500235437\nlast_crash     : 1500235510\nlast_hang      : 1500235665\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Diary_Parser/input -o /dev/shm/work/Diary_Parser/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Diary_Parser/Diary_Parser.dict -- data/linux/processed-challenges/Diary_Parser/bin/Diary_Parser\n'
+p81
+I0
+tp82
+a(I4920
+S'start_time     : 1500230858\nlast_update    : 1500235786\nfuzzer_pid     : 26622\ncycles_done    : 3\nexecs_done     : 2534552\nexecs_per_sec  : 612.64\npaths_total    : 106\npaths_favored  : 47\npaths_found    : 105\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 9\npending_favs   : 0\npending_total  : 33\nvariable_paths : 0\nbitmap_cvg     : 1.72%\nunique_crashes : 29\nunique_hangs   : 8\nlast_path      : 1500235671\nlast_crash     : 1500235510\nlast_hang      : 1500235665\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Diary_Parser/input -o /dev/shm/work/Diary_Parser/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Diary_Parser/Diary_Parser.dict -- data/linux/processed-challenges/Diary_Parser/bin/Diary_Parser\n'
+p83
+I1
+tp84
+a(I5040
+S'start_time     : 1500230858\nlast_update    : 1500235906\nfuzzer_pid     : 26622\ncycles_done    : 3\nexecs_done     : 2600856\nexecs_per_sec  : 517.46\npaths_total    : 106\npaths_favored  : 47\npaths_found    : 105\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 31\npending_favs   : 0\npending_total  : 32\nvariable_paths : 0\nbitmap_cvg     : 1.72%\nunique_crashes : 29\nunique_hangs   : 8\nlast_path      : 1500235671\nlast_crash     : 1500235510\nlast_hang      : 1500235665\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Diary_Parser/input -o /dev/shm/work/Diary_Parser/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Diary_Parser/Diary_Parser.dict -- data/linux/processed-challenges/Diary_Parser/bin/Diary_Parser\n'
+p85
+I0
+tp86
+a(I5160
+S'start_time     : 1500230858\nlast_update    : 1500236026\nfuzzer_pid     : 26622\ncycles_done    : 3\nexecs_done     : 2665906\nexecs_per_sec  : 553.09\npaths_total    : 107\npaths_favored  : 47\npaths_found    : 106\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 46\npending_favs   : 0\npending_total  : 32\nvariable_paths : 0\nbitmap_cvg     : 1.72%\nunique_crashes : 29\nunique_hangs   : 8\nlast_path      : 1500235991\nlast_crash     : 1500235510\nlast_hang      : 1500235665\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Diary_Parser/input -o /dev/shm/work/Diary_Parser/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Diary_Parser/Diary_Parser.dict -- data/linux/processed-challenges/Diary_Parser/bin/Diary_Parser\n'
+p87
+I1
+tp88
+a(I5280
+S'start_time     : 1500230858\nlast_update    : 1500236147\nfuzzer_pid     : 26622\ncycles_done    : 3\nexecs_done     : 2730990\nexecs_per_sec  : 476.66\npaths_total    : 107\npaths_favored  : 47\npaths_found    : 106\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 55\npending_favs   : 0\npending_total  : 32\nvariable_paths : 0\nbitmap_cvg     : 1.72%\nunique_crashes : 29\nunique_hangs   : 8\nlast_path      : 1500235991\nlast_crash     : 1500235510\nlast_hang      : 1500235665\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Diary_Parser/input -o /dev/shm/work/Diary_Parser/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Diary_Parser/Diary_Parser.dict -- data/linux/processed-challenges/Diary_Parser/bin/Diary_Parser\n'
+p89
+I0
+tp90
+a(I5400
+S'start_time     : 1500230858\nlast_update    : 1500236267\nfuzzer_pid     : 26622\ncycles_done    : 3\nexecs_done     : 2794456\nexecs_per_sec  : 528.42\npaths_total    : 107\npaths_favored  : 47\npaths_found    : 106\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 64\npending_favs   : 0\npending_total  : 31\nvariable_paths : 0\nbitmap_cvg     : 1.72%\nunique_crashes : 29\nunique_hangs   : 8\nlast_path      : 1500235991\nlast_crash     : 1500235510\nlast_hang      : 1500235665\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Diary_Parser/input -o /dev/shm/work/Diary_Parser/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Diary_Parser/Diary_Parser.dict -- data/linux/processed-challenges/Diary_Parser/bin/Diary_Parser\n'
+p91
+I0
+tp92
+a(I5520
+S'start_time     : 1500230858\nlast_update    : 1500236387\nfuzzer_pid     : 26622\ncycles_done    : 3\nexecs_done     : 2858545\nexecs_per_sec  : 536.76\npaths_total    : 107\npaths_favored  : 47\npaths_found    : 106\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 71\npending_favs   : 0\npending_total  : 29\nvariable_paths : 0\nbitmap_cvg     : 1.72%\nunique_crashes : 29\nunique_hangs   : 8\nlast_path      : 1500235991\nlast_crash     : 1500235510\nlast_hang      : 1500235665\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Diary_Parser/input -o /dev/shm/work/Diary_Parser/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Diary_Parser/Diary_Parser.dict -- data/linux/processed-challenges/Diary_Parser/bin/Diary_Parser\n'
+p93
+I0
+tp94
+a(I5640
+S'start_time     : 1500230858\nlast_update    : 1500236447\nfuzzer_pid     : 26622\ncycles_done    : 3\nexecs_done     : 2890895\nexecs_per_sec  : 531.87\npaths_total    : 107\npaths_favored  : 47\npaths_found    : 106\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 75\npending_favs   : 0\npending_total  : 29\nvariable_paths : 0\nbitmap_cvg     : 1.72%\nunique_crashes : 29\nunique_hangs   : 9\nlast_path      : 1500235991\nlast_crash     : 1500235510\nlast_hang      : 1500236403\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Diary_Parser/input -o /dev/shm/work/Diary_Parser/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Diary_Parser/Diary_Parser.dict -- data/linux/processed-challenges/Diary_Parser/bin/Diary_Parser\n'
+p95
+I0
+tp96
+a(I5760
+S'start_time     : 1500230858\nlast_update    : 1500236568\nfuzzer_pid     : 26622\ncycles_done    : 3\nexecs_done     : 2954200\nexecs_per_sec  : 435.96\npaths_total    : 109\npaths_favored  : 47\npaths_found    : 108\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 83\npending_favs   : 0\npending_total  : 31\nvariable_paths : 0\nbitmap_cvg     : 1.72%\nunique_crashes : 30\nunique_hangs   : 10\nlast_path      : 1500236553\nlast_crash     : 1500236487\nlast_hang      : 1500236523\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Diary_Parser/input -o /dev/shm/work/Diary_Parser/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Diary_Parser/Diary_Parser.dict -- data/linux/processed-challenges/Diary_Parser/bin/Diary_Parser\n'
+p97
+I2
+tp98
+a(I5880
+S'start_time     : 1500230858\nlast_update    : 1500236688\nfuzzer_pid     : 26622\ncycles_done    : 3\nexecs_done     : 3016315\nexecs_per_sec  : 546.73\npaths_total    : 111\npaths_favored  : 47\npaths_found    : 110\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 87\npending_favs   : 0\npending_total  : 32\nvariable_paths : 0\nbitmap_cvg     : 1.72%\nunique_crashes : 30\nunique_hangs   : 10\nlast_path      : 1500236633\nlast_crash     : 1500236487\nlast_hang      : 1500236523\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Diary_Parser/input -o /dev/shm/work/Diary_Parser/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Diary_Parser/Diary_Parser.dict -- data/linux/processed-challenges/Diary_Parser/bin/Diary_Parser\n'
+p99
+I3
+tp100
+a(I6000
+S'start_time     : 1500230858\nlast_update    : 1500236808\nfuzzer_pid     : 26622\ncycles_done    : 3\nexecs_done     : 3080939\nexecs_per_sec  : 555.58\npaths_total    : 113\npaths_favored  : 47\npaths_found    : 112\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 109\npending_favs   : 1\npending_total  : 33\nvariable_paths : 0\nbitmap_cvg     : 1.72%\nunique_crashes : 31\nunique_hangs   : 10\nlast_path      : 1500236793\nlast_crash     : 1500236701\nlast_hang      : 1500236523\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Diary_Parser/input -o /dev/shm/work/Diary_Parser/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Diary_Parser/Diary_Parser.dict -- data/linux/processed-challenges/Diary_Parser/bin/Diary_Parser\n'
+p101
+I2
+tp102
+a(I6120
+S'start_time     : 1500230858\nlast_update    : 1500236928\nfuzzer_pid     : 26622\ncycles_done    : 3\nexecs_done     : 3146595\nexecs_per_sec  : 531.96\npaths_total    : 114\npaths_favored  : 47\npaths_found    : 113\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 109\npending_favs   : 1\npending_total  : 34\nvariable_paths : 0\nbitmap_cvg     : 1.72%\nunique_crashes : 31\nunique_hangs   : 10\nlast_path      : 1500236837\nlast_crash     : 1500236701\nlast_hang      : 1500236523\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Diary_Parser/input -o /dev/shm/work/Diary_Parser/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Diary_Parser/Diary_Parser.dict -- data/linux/processed-challenges/Diary_Parser/bin/Diary_Parser\n'
+p103
+I0
+tp104
+a(I6240
+S'start_time     : 1500230858\nlast_update    : 1500237049\nfuzzer_pid     : 26622\ncycles_done    : 3\nexecs_done     : 3211195\nexecs_per_sec  : 500.28\npaths_total    : 115\npaths_favored  : 49\npaths_found    : 114\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 112\npending_favs   : 2\npending_total  : 34\nvariable_paths : 0\nbitmap_cvg     : 1.73%\nunique_crashes : 31\nunique_hangs   : 10\nlast_path      : 1500237036\nlast_crash     : 1500236701\nlast_hang      : 1500236523\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Diary_Parser/input -o /dev/shm/work/Diary_Parser/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Diary_Parser/Diary_Parser.dict -- data/linux/processed-challenges/Diary_Parser/bin/Diary_Parser\n'
+p105
+I1
+tp106
+a(I6360
+S'start_time     : 1500230858\nlast_update    : 1500237169\nfuzzer_pid     : 26622\ncycles_done    : 3\nexecs_done     : 3274397\nexecs_per_sec  : 514.58\npaths_total    : 117\npaths_favored  : 49\npaths_found    : 116\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 113\npending_favs   : 2\npending_total  : 35\nvariable_paths : 0\nbitmap_cvg     : 1.73%\nunique_crashes : 31\nunique_hangs   : 10\nlast_path      : 1500237139\nlast_crash     : 1500236701\nlast_hang      : 1500236523\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Diary_Parser/input -o /dev/shm/work/Diary_Parser/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Diary_Parser/Diary_Parser.dict -- data/linux/processed-challenges/Diary_Parser/bin/Diary_Parser\n'
+p107
+I2
+tp108
+a(I6480
+S'start_time     : 1500230858\nlast_update    : 1500237289\nfuzzer_pid     : 26622\ncycles_done    : 3\nexecs_done     : 3336919\nexecs_per_sec  : 500.18\npaths_total    : 117\npaths_favored  : 50\npaths_found    : 116\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 114\npending_favs   : 3\npending_total  : 34\nvariable_paths : 0\nbitmap_cvg     : 1.73%\nunique_crashes : 32\nunique_hangs   : 10\nlast_path      : 1500237139\nlast_crash     : 1500237192\nlast_hang      : 1500236523\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Diary_Parser/input -o /dev/shm/work/Diary_Parser/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Diary_Parser/Diary_Parser.dict -- data/linux/processed-challenges/Diary_Parser/bin/Diary_Parser\n'
+p109
+I1
+tp110
+a(I6600
+S'start_time     : 1500230858\nlast_update    : 1500237409\nfuzzer_pid     : 26622\ncycles_done    : 3\nexecs_done     : 3401339\nexecs_per_sec  : 516.68\npaths_total    : 118\npaths_favored  : 50\npaths_found    : 117\npaths_imported : 0\nmax_depth      : 12\ncur_path       : 114\npending_favs   : 3\npending_total  : 35\nvariable_paths : 0\nbitmap_cvg     : 1.73%\nunique_crashes : 32\nunique_hangs   : 10\nlast_path      : 1500237302\nlast_crash     : 1500237192\nlast_hang      : 1500236523\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Diary_Parser/input -o /dev/shm/work/Diary_Parser/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Diary_Parser/Diary_Parser.dict -- data/linux/processed-challenges/Diary_Parser/bin/Diary_Parser\n'
+p111
+I0
+tp112
+a(I6720
+S'start_time     : 1500230858\nlast_update    : 1500237530\nfuzzer_pid     : 26622\ncycles_done    : 3\nexecs_done     : 3464234\nexecs_per_sec  : 540.55\npaths_total    : 118\npaths_favored  : 49\npaths_found    : 117\npaths_imported : 0\nmax_depth      : 12\ncur_path       : 115\npending_favs   : 3\npending_total  : 34\nvariable_paths : 0\nbitmap_cvg     : 1.73%\nunique_crashes : 32\nunique_hangs   : 10\nlast_path      : 1500237302\nlast_crash     : 1500237192\nlast_hang      : 1500236523\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Diary_Parser/input -o /dev/shm/work/Diary_Parser/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Diary_Parser/Diary_Parser.dict -- data/linux/processed-challenges/Diary_Parser/bin/Diary_Parser\n'
+p113
+I0
+tp114
+a(I6840
+S'start_time     : 1500230858\nlast_update    : 1500237650\nfuzzer_pid     : 26622\ncycles_done    : 3\nexecs_done     : 3527359\nexecs_per_sec  : 532.53\npaths_total    : 118\npaths_favored  : 49\npaths_found    : 117\npaths_imported : 0\nmax_depth      : 12\ncur_path       : 116\npending_favs   : 2\npending_total  : 33\nvariable_paths : 0\nbitmap_cvg     : 1.73%\nunique_crashes : 32\nunique_hangs   : 10\nlast_path      : 1500237302\nlast_crash     : 1500237192\nlast_hang      : 1500236523\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Diary_Parser/input -o /dev/shm/work/Diary_Parser/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Diary_Parser/Diary_Parser.dict -- data/linux/processed-challenges/Diary_Parser/bin/Diary_Parser\n'
+p115
+I1
+tp116
+a(I6960
+S'start_time     : 1500230858\nlast_update    : 1500237770\nfuzzer_pid     : 26622\ncycles_done    : 3\nexecs_done     : 3591493\nexecs_per_sec  : 548.19\npaths_total    : 119\npaths_favored  : 49\npaths_found    : 118\npaths_imported : 0\nmax_depth      : 13\ncur_path       : 117\npending_favs   : 1\npending_total  : 33\nvariable_paths : 0\nbitmap_cvg     : 1.74%\nunique_crashes : 32\nunique_hangs   : 10\nlast_path      : 1500237705\nlast_crash     : 1500237192\nlast_hang      : 1500236523\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Diary_Parser/input -o /dev/shm/work/Diary_Parser/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Diary_Parser/Diary_Parser.dict -- data/linux/processed-challenges/Diary_Parser/bin/Diary_Parser\n'
+p117
+I0
+tp118
+a(I7080
+S'start_time     : 1500230858\nlast_update    : 1500237890\nfuzzer_pid     : 26622\ncycles_done    : 3\nexecs_done     : 3653852\nexecs_per_sec  : 542.74\npaths_total    : 120\npaths_favored  : 50\npaths_found    : 119\npaths_imported : 0\nmax_depth      : 14\ncur_path       : 118\npending_favs   : 1\npending_total  : 33\nvariable_paths : 0\nbitmap_cvg     : 1.75%\nunique_crashes : 33\nunique_hangs   : 11\nlast_path      : 1500237849\nlast_crash     : 1500237848\nlast_hang      : 1500237864\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Diary_Parser/input -o /dev/shm/work/Diary_Parser/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Diary_Parser/Diary_Parser.dict -- data/linux/processed-challenges/Diary_Parser/bin/Diary_Parser\n'
+p119
+I1
+tp120
+a(I7200
+S'start_time     : 1500230858\nlast_update    : 1500238010\nfuzzer_pid     : 26622\ncycles_done    : 3\nexecs_done     : 3716660\nexecs_per_sec  : 525.82\npaths_total    : 125\npaths_favored  : 50\npaths_found    : 124\npaths_imported : 0\nmax_depth      : 15\ncur_path       : 119\npending_favs   : 1\npending_total  : 37\nvariable_paths : 0\nbitmap_cvg     : 1.77%\nunique_crashes : 34\nunique_hangs   : 11\nlast_path      : 1500237963\nlast_crash     : 1500237956\nlast_hang      : 1500237864\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Diary_Parser/input -o /dev/shm/work/Diary_Parser/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Diary_Parser/Diary_Parser.dict -- data/linux/processed-challenges/Diary_Parser/bin/Diary_Parser\n'
+p121
+I5
+tp122
+a(I7320
+S'start_time     : 1500230858\nlast_update    : 1500238131\nfuzzer_pid     : 26622\ncycles_done    : 3\nexecs_done     : 3779089\nexecs_per_sec  : 465.79\npaths_total    : 125\npaths_favored  : 53\npaths_found    : 124\npaths_imported : 0\nmax_depth      : 15\ncur_path       : 120\npending_favs   : 5\npending_total  : 36\nvariable_paths : 0\nbitmap_cvg     : 1.77%\nunique_crashes : 34\nunique_hangs   : 11\nlast_path      : 1500237963\nlast_crash     : 1500237956\nlast_hang      : 1500237864\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Diary_Parser/input -o /dev/shm/work/Diary_Parser/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Diary_Parser/Diary_Parser.dict -- data/linux/processed-challenges/Diary_Parser/bin/Diary_Parser\n'
+p123
+I0
+tp124
+a(I7440
+S'start_time     : 1500230858\nlast_update    : 1500238251\nfuzzer_pid     : 26622\ncycles_done    : 3\nexecs_done     : 3842939\nexecs_per_sec  : 495.39\npaths_total    : 125\npaths_favored  : 53\npaths_found    : 124\npaths_imported : 0\nmax_depth      : 15\ncur_path       : 121\npending_favs   : 4\npending_total  : 35\nvariable_paths : 0\nbitmap_cvg     : 1.77%\nunique_crashes : 34\nunique_hangs   : 11\nlast_path      : 1500237963\nlast_crash     : 1500237956\nlast_hang      : 1500237864\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Diary_Parser/input -o /dev/shm/work/Diary_Parser/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Diary_Parser/Diary_Parser.dict -- data/linux/processed-challenges/Diary_Parser/bin/Diary_Parser\n'
+p125
+I0
+tp126
+a(I7560
+S'start_time     : 1500230858\nlast_update    : 1500238371\nfuzzer_pid     : 26622\ncycles_done    : 3\nexecs_done     : 3905927\nexecs_per_sec  : 533.13\npaths_total    : 125\npaths_favored  : 53\npaths_found    : 124\npaths_imported : 0\nmax_depth      : 15\ncur_path       : 121\npending_favs   : 4\npending_total  : 35\nvariable_paths : 0\nbitmap_cvg     : 1.77%\nunique_crashes : 34\nunique_hangs   : 11\nlast_path      : 1500237963\nlast_crash     : 1500237956\nlast_hang      : 1500237864\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Diary_Parser/input -o /dev/shm/work/Diary_Parser/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Diary_Parser/Diary_Parser.dict -- data/linux/processed-challenges/Diary_Parser/bin/Diary_Parser\n'
+p127
+I2
+tp128
+a(I7680
+S'start_time     : 1500230858\nlast_update    : 1500238491\nfuzzer_pid     : 26622\ncycles_done    : 3\nexecs_done     : 3967609\nexecs_per_sec  : 518.74\npaths_total    : 127\npaths_favored  : 53\npaths_found    : 126\npaths_imported : 0\nmax_depth      : 16\ncur_path       : 122\npending_favs   : 3\npending_total  : 36\nvariable_paths : 0\nbitmap_cvg     : 1.77%\nunique_crashes : 35\nunique_hangs   : 12\nlast_path      : 1500238388\nlast_crash     : 1500238388\nlast_hang      : 1500238397\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Diary_Parser/input -o /dev/shm/work/Diary_Parser/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Diary_Parser/Diary_Parser.dict -- data/linux/processed-challenges/Diary_Parser/bin/Diary_Parser\n'
+p129
+I1
+tp130
+a(I7800
+S'start_time     : 1500230858\nlast_update    : 1500238611\nfuzzer_pid     : 26622\ncycles_done    : 3\nexecs_done     : 4031365\nexecs_per_sec  : 575.18\npaths_total    : 128\npaths_favored  : 53\npaths_found    : 127\npaths_imported : 0\nmax_depth      : 16\ncur_path       : 122\npending_favs   : 3\npending_total  : 37\nvariable_paths : 0\nbitmap_cvg     : 1.78%\nunique_crashes : 35\nunique_hangs   : 13\nlast_path      : 1500238494\nlast_crash     : 1500238388\nlast_hang      : 1500238567\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Diary_Parser/input -o /dev/shm/work/Diary_Parser/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Diary_Parser/Diary_Parser.dict -- data/linux/processed-challenges/Diary_Parser/bin/Diary_Parser\n'
+p131
+I2
+tp132
+a(I7920
+S'start_time     : 1500230858\nlast_update    : 1500238732\nfuzzer_pid     : 26622\ncycles_done    : 3\nexecs_done     : 4095010\nexecs_per_sec  : 534.09\npaths_total    : 130\npaths_favored  : 54\npaths_found    : 129\npaths_imported : 0\nmax_depth      : 16\ncur_path       : 123\npending_favs   : 5\npending_total  : 38\nvariable_paths : 0\nbitmap_cvg     : 1.78%\nunique_crashes : 35\nunique_hangs   : 13\nlast_path      : 1500238656\nlast_crash     : 1500238388\nlast_hang      : 1500238567\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Diary_Parser/input -o /dev/shm/work/Diary_Parser/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Diary_Parser/Diary_Parser.dict -- data/linux/processed-challenges/Diary_Parser/bin/Diary_Parser\n'
+p133
+I0
+tp134
+a(I8040
+S'start_time     : 1500230858\nlast_update    : 1500238852\nfuzzer_pid     : 26622\ncycles_done    : 3\nexecs_done     : 4157656\nexecs_per_sec  : 539.67\npaths_total    : 130\npaths_favored  : 55\npaths_found    : 129\npaths_imported : 0\nmax_depth      : 16\ncur_path       : 124\npending_favs   : 5\npending_total  : 37\nvariable_paths : 0\nbitmap_cvg     : 1.78%\nunique_crashes : 35\nunique_hangs   : 13\nlast_path      : 1500238656\nlast_crash     : 1500238388\nlast_hang      : 1500238567\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Diary_Parser/input -o /dev/shm/work/Diary_Parser/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Diary_Parser/Diary_Parser.dict -- data/linux/processed-challenges/Diary_Parser/bin/Diary_Parser\n'
+p135
+I0
+tp136
+a(I8160
+S'start_time     : 1500230858\nlast_update    : 1500238972\nfuzzer_pid     : 26622\ncycles_done    : 3\nexecs_done     : 4220307\nexecs_per_sec  : 525.02\npaths_total    : 130\npaths_favored  : 55\npaths_found    : 129\npaths_imported : 0\nmax_depth      : 16\ncur_path       : 126\npending_favs   : 4\npending_total  : 36\nvariable_paths : 0\nbitmap_cvg     : 1.78%\nunique_crashes : 35\nunique_hangs   : 13\nlast_path      : 1500238656\nlast_crash     : 1500238388\nlast_hang      : 1500238567\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Diary_Parser/input -o /dev/shm/work/Diary_Parser/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Diary_Parser/Diary_Parser.dict -- data/linux/processed-challenges/Diary_Parser/bin/Diary_Parser\n'
+p137
+I0
+tp138
+a(I8280
+S'start_time     : 1500230858\nlast_update    : 1500239092\nfuzzer_pid     : 26622\ncycles_done    : 3\nexecs_done     : 4284384\nexecs_per_sec  : 501.07\npaths_total    : 130\npaths_favored  : 55\npaths_found    : 129\npaths_imported : 0\nmax_depth      : 16\ncur_path       : 127\npending_favs   : 3\npending_total  : 35\nvariable_paths : 0\nbitmap_cvg     : 1.78%\nunique_crashes : 35\nunique_hangs   : 13\nlast_path      : 1500238656\nlast_crash     : 1500238388\nlast_hang      : 1500238567\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Diary_Parser/input -o /dev/shm/work/Diary_Parser/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Diary_Parser/Diary_Parser.dict -- data/linux/processed-challenges/Diary_Parser/bin/Diary_Parser\n'
+p139
+I0
+tp140
+a(I8400
+S'start_time     : 1500230858\nlast_update    : 1500239212\nfuzzer_pid     : 26622\ncycles_done    : 3\nexecs_done     : 4346682\nexecs_per_sec  : 521.43\npaths_total    : 130\npaths_favored  : 55\npaths_found    : 129\npaths_imported : 0\nmax_depth      : 16\ncur_path       : 127\npending_favs   : 3\npending_total  : 35\nvariable_paths : 0\nbitmap_cvg     : 1.78%\nunique_crashes : 35\nunique_hangs   : 13\nlast_path      : 1500238656\nlast_crash     : 1500238388\nlast_hang      : 1500238567\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Diary_Parser/input -o /dev/shm/work/Diary_Parser/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Diary_Parser/Diary_Parser.dict -- data/linux/processed-challenges/Diary_Parser/bin/Diary_Parser\n'
+p141
+I1
+tp142
+a(I8520
+S'start_time     : 1500230858\nlast_update    : 1500239333\nfuzzer_pid     : 26622\ncycles_done    : 3\nexecs_done     : 4410366\nexecs_per_sec  : 559.06\npaths_total    : 131\npaths_favored  : 55\npaths_found    : 130\npaths_imported : 0\nmax_depth      : 17\ncur_path       : 128\npending_favs   : 2\npending_total  : 35\nvariable_paths : 0\nbitmap_cvg     : 1.78%\nunique_crashes : 36\nunique_hangs   : 13\nlast_path      : 1500239225\nlast_crash     : 1500239224\nlast_hang      : 1500238567\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Diary_Parser/input -o /dev/shm/work/Diary_Parser/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Diary_Parser/Diary_Parser.dict -- data/linux/processed-challenges/Diary_Parser/bin/Diary_Parser\n'
+p143
+I0
+tp144
+a(I8640
+S'start_time     : 1500230858\nlast_update    : 1500239453\nfuzzer_pid     : 26622\ncycles_done    : 3\nexecs_done     : 4472569\nexecs_per_sec  : 531.72\npaths_total    : 132\npaths_favored  : 55\npaths_found    : 131\npaths_imported : 0\nmax_depth      : 17\ncur_path       : 129\npending_favs   : 1\npending_total  : 35\nvariable_paths : 0\nbitmap_cvg     : 1.78%\nunique_crashes : 36\nunique_hangs   : 13\nlast_path      : 1500239392\nlast_crash     : 1500239224\nlast_hang      : 1500238567\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Diary_Parser/input -o /dev/shm/work/Diary_Parser/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Diary_Parser/Diary_Parser.dict -- data/linux/processed-challenges/Diary_Parser/bin/Diary_Parser\n'
+p145
+I1
+tp146
+a(I8760
+S'start_time     : 1500230858\nlast_update    : 1500239573\nfuzzer_pid     : 26622\ncycles_done    : 3\nexecs_done     : 4535102\nexecs_per_sec  : 533.23\npaths_total    : 133\npaths_favored  : 56\npaths_found    : 132\npaths_imported : 0\nmax_depth      : 18\ncur_path       : 131\npending_favs   : 1\npending_total  : 35\nvariable_paths : 0\nbitmap_cvg     : 1.79%\nunique_crashes : 36\nunique_hangs   : 13\nlast_path      : 1500239512\nlast_crash     : 1500239224\nlast_hang      : 1500238567\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Diary_Parser/input -o /dev/shm/work/Diary_Parser/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Diary_Parser/Diary_Parser.dict -- data/linux/processed-challenges/Diary_Parser/bin/Diary_Parser\n'
+p147
+I1
+tp148
+a(I8880
+S'start_time     : 1500230858\nlast_update    : 1500239693\nfuzzer_pid     : 26622\ncycles_done    : 3\nexecs_done     : 4596382\nexecs_per_sec  : 453.88\npaths_total    : 133\npaths_favored  : 57\npaths_found    : 132\npaths_imported : 0\nmax_depth      : 18\ncur_path       : 132\npending_favs   : 1\npending_total  : 34\nvariable_paths : 0\nbitmap_cvg     : 1.79%\nunique_crashes : 36\nunique_hangs   : 13\nlast_path      : 1500239512\nlast_crash     : 1500239224\nlast_hang      : 1500238567\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Diary_Parser/input -o /dev/shm/work/Diary_Parser/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Diary_Parser/Diary_Parser.dict -- data/linux/processed-challenges/Diary_Parser/bin/Diary_Parser\n'
+p149
+I0
+tp150
+a(I9000
+S'start_time     : 1500230858\nlast_update    : 1500239813\nfuzzer_pid     : 26622\ncycles_done    : 4\nexecs_done     : 4660395\nexecs_per_sec  : 545.17\npaths_total    : 133\npaths_favored  : 57\npaths_found    : 132\npaths_imported : 0\nmax_depth      : 18\ncur_path       : 0\npending_favs   : 0\npending_total  : 33\nvariable_paths : 0\nbitmap_cvg     : 1.79%\nunique_crashes : 36\nunique_hangs   : 13\nlast_path      : 1500239512\nlast_crash     : 1500239224\nlast_hang      : 1500238567\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Diary_Parser/input -o /dev/shm/work/Diary_Parser/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Diary_Parser/Diary_Parser.dict -- data/linux/processed-challenges/Diary_Parser/bin/Diary_Parser\n'
+p151
+I0
+tp152
+a(I9120
+S'start_time     : 1500230858\nlast_update    : 1500239934\nfuzzer_pid     : 26622\ncycles_done    : 4\nexecs_done     : 4723829\nexecs_per_sec  : 516.82\npaths_total    : 133\npaths_favored  : 57\npaths_found    : 132\npaths_imported : 0\nmax_depth      : 18\ncur_path       : 14\npending_favs   : 0\npending_total  : 31\nvariable_paths : 0\nbitmap_cvg     : 1.79%\nunique_crashes : 36\nunique_hangs   : 13\nlast_path      : 1500239512\nlast_crash     : 1500239224\nlast_hang      : 1500238567\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Diary_Parser/input -o /dev/shm/work/Diary_Parser/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Diary_Parser/Diary_Parser.dict -- data/linux/processed-challenges/Diary_Parser/bin/Diary_Parser\n'
+p153
+I0
+tp154
+a(I9240
+S'start_time     : 1500230858\nlast_update    : 1500240054\nfuzzer_pid     : 26622\ncycles_done    : 4\nexecs_done     : 4785365\nexecs_per_sec  : 543.86\npaths_total    : 133\npaths_favored  : 57\npaths_found    : 132\npaths_imported : 0\nmax_depth      : 18\ncur_path       : 20\npending_favs   : 0\npending_total  : 30\nvariable_paths : 0\nbitmap_cvg     : 1.79%\nunique_crashes : 36\nunique_hangs   : 13\nlast_path      : 1500239512\nlast_crash     : 1500239224\nlast_hang      : 1500238567\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Diary_Parser/input -o /dev/shm/work/Diary_Parser/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Diary_Parser/Diary_Parser.dict -- data/linux/processed-challenges/Diary_Parser/bin/Diary_Parser\n'
+p155
+I0
+tp156
+a(I9360
+S'start_time     : 1500230858\nlast_update    : 1500240174\nfuzzer_pid     : 26622\ncycles_done    : 4\nexecs_done     : 4848927\nexecs_per_sec  : 532.58\npaths_total    : 133\npaths_favored  : 57\npaths_found    : 132\npaths_imported : 0\nmax_depth      : 18\ncur_path       : 42\npending_favs   : 0\npending_total  : 28\nvariable_paths : 0\nbitmap_cvg     : 1.79%\nunique_crashes : 37\nunique_hangs   : 13\nlast_path      : 1500239512\nlast_crash     : 1500240065\nlast_hang      : 1500238567\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Diary_Parser/input -o /dev/shm/work/Diary_Parser/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Diary_Parser/Diary_Parser.dict -- data/linux/processed-challenges/Diary_Parser/bin/Diary_Parser\n'
+p157
+I0
+tp158
+a(I9480
+S'start_time     : 1500230858\nlast_update    : 1500240294\nfuzzer_pid     : 26622\ncycles_done    : 4\nexecs_done     : 4913977\nexecs_per_sec  : 528.27\npaths_total    : 133\npaths_favored  : 57\npaths_found    : 132\npaths_imported : 0\nmax_depth      : 18\ncur_path       : 53\npending_favs   : 0\npending_total  : 28\nvariable_paths : 0\nbitmap_cvg     : 1.79%\nunique_crashes : 37\nunique_hangs   : 13\nlast_path      : 1500239512\nlast_crash     : 1500240065\nlast_hang      : 1500238567\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Diary_Parser/input -o /dev/shm/work/Diary_Parser/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Diary_Parser/Diary_Parser.dict -- data/linux/processed-challenges/Diary_Parser/bin/Diary_Parser\n'
+p159
+I0
+tp160
+a(I9600
+S'start_time     : 1500230858\nlast_update    : 1500240414\nfuzzer_pid     : 26622\ncycles_done    : 4\nexecs_done     : 4979097\nexecs_per_sec  : 526.53\npaths_total    : 133\npaths_favored  : 57\npaths_found    : 132\npaths_imported : 0\nmax_depth      : 18\ncur_path       : 74\npending_favs   : 0\npending_total  : 28\nvariable_paths : 0\nbitmap_cvg     : 1.79%\nunique_crashes : 37\nunique_hangs   : 13\nlast_path      : 1500239512\nlast_crash     : 1500240065\nlast_hang      : 1500238567\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Diary_Parser/input -o /dev/shm/work/Diary_Parser/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Diary_Parser/Diary_Parser.dict -- data/linux/processed-challenges/Diary_Parser/bin/Diary_Parser\n'
+p161
+I0
+tp162
+a(I9720
+S'start_time     : 1500230858\nlast_update    : 1500240535\nfuzzer_pid     : 26622\ncycles_done    : 4\nexecs_done     : 5044123\nexecs_per_sec  : 574.20\npaths_total    : 133\npaths_favored  : 57\npaths_found    : 132\npaths_imported : 0\nmax_depth      : 18\ncur_path       : 88\npending_favs   : 0\npending_total  : 28\nvariable_paths : 0\nbitmap_cvg     : 1.79%\nunique_crashes : 37\nunique_hangs   : 13\nlast_path      : 1500239512\nlast_crash     : 1500240065\nlast_hang      : 1500238567\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Diary_Parser/input -o /dev/shm/work/Diary_Parser/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Diary_Parser/Diary_Parser.dict -- data/linux/processed-challenges/Diary_Parser/bin/Diary_Parser\n'
+p163
+I1
+tp164
+a(I9840
+S'start_time     : 1500230858\nlast_update    : 1500240655\nfuzzer_pid     : 26622\ncycles_done    : 4\nexecs_done     : 5110451\nexecs_per_sec  : 537.37\npaths_total    : 134\npaths_favored  : 58\npaths_found    : 133\npaths_imported : 0\nmax_depth      : 18\ncur_path       : 133\npending_favs   : 1\npending_total  : 29\nvariable_paths : 0\nbitmap_cvg     : 1.79%\nunique_crashes : 37\nunique_hangs   : 13\nlast_path      : 1500240582\nlast_crash     : 1500240065\nlast_hang      : 1500238567\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Diary_Parser/input -o /dev/shm/work/Diary_Parser/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Diary_Parser/Diary_Parser.dict -- data/linux/processed-challenges/Diary_Parser/bin/Diary_Parser\n'
+p165
+I0
+tp166
+a(I9960
+S'start_time     : 1500230858\nlast_update    : 1500240775\nfuzzer_pid     : 26622\ncycles_done    : 4\nexecs_done     : 5176076\nexecs_per_sec  : 565.39\npaths_total    : 134\npaths_favored  : 58\npaths_found    : 133\npaths_imported : 0\nmax_depth      : 18\ncur_path       : 133\npending_favs   : 1\npending_total  : 29\nvariable_paths : 0\nbitmap_cvg     : 1.79%\nunique_crashes : 37\nunique_hangs   : 13\nlast_path      : 1500240582\nlast_crash     : 1500240065\nlast_hang      : 1500238567\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Diary_Parser/input -o /dev/shm/work/Diary_Parser/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Diary_Parser/Diary_Parser.dict -- data/linux/processed-challenges/Diary_Parser/bin/Diary_Parser\n'
+p167
+I1
+tp168
+a(I10080
+S'start_time     : 1500230858\nlast_update    : 1500240895\nfuzzer_pid     : 26622\ncycles_done    : 4\nexecs_done     : 5239764\nexecs_per_sec  : 522.28\npaths_total    : 135\npaths_favored  : 58\npaths_found    : 134\npaths_imported : 0\nmax_depth      : 18\ncur_path       : 133\npending_favs   : 1\npending_total  : 30\nvariable_paths : 0\nbitmap_cvg     : 1.79%\nunique_crashes : 37\nunique_hangs   : 13\nlast_path      : 1500240797\nlast_crash     : 1500240065\nlast_hang      : 1500238567\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Diary_Parser/input -o /dev/shm/work/Diary_Parser/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Diary_Parser/Diary_Parser.dict -- data/linux/processed-challenges/Diary_Parser/bin/Diary_Parser\n'
+p169
+I0
+tp170
+a(I10200
+S'start_time     : 1500230858\nlast_update    : 1500241016\nfuzzer_pid     : 26622\ncycles_done    : 5\nexecs_done     : 5304804\nexecs_per_sec  : 557.47\npaths_total    : 135\npaths_favored  : 58\npaths_found    : 134\npaths_imported : 0\nmax_depth      : 18\ncur_path       : 8\npending_favs   : 0\npending_total  : 28\nvariable_paths : 0\nbitmap_cvg     : 1.79%\nunique_crashes : 37\nunique_hangs   : 13\nlast_path      : 1500240797\nlast_crash     : 1500240065\nlast_hang      : 1500238567\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Diary_Parser/input -o /dev/shm/work/Diary_Parser/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Diary_Parser/Diary_Parser.dict -- data/linux/processed-challenges/Diary_Parser/bin/Diary_Parser\n'
+p171
+I0
+tp172
+a(I10320
+S'start_time     : 1500230858\nlast_update    : 1500241136\nfuzzer_pid     : 26622\ncycles_done    : 5\nexecs_done     : 5372580\nexecs_per_sec  : 553.34\npaths_total    : 135\npaths_favored  : 58\npaths_found    : 134\npaths_imported : 0\nmax_depth      : 18\ncur_path       : 29\npending_favs   : 0\npending_total  : 27\nvariable_paths : 0\nbitmap_cvg     : 1.79%\nunique_crashes : 37\nunique_hangs   : 13\nlast_path      : 1500240797\nlast_crash     : 1500240065\nlast_hang      : 1500238567\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Diary_Parser/input -o /dev/shm/work/Diary_Parser/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Diary_Parser/Diary_Parser.dict -- data/linux/processed-challenges/Diary_Parser/bin/Diary_Parser\n'
+p173
+I0
+tp174
+a(I10440
+S'start_time     : 1500230858\nlast_update    : 1500241256\nfuzzer_pid     : 26622\ncycles_done    : 5\nexecs_done     : 5438341\nexecs_per_sec  : 560.45\npaths_total    : 135\npaths_favored  : 58\npaths_found    : 134\npaths_imported : 0\nmax_depth      : 18\ncur_path       : 46\npending_favs   : 0\npending_total  : 26\nvariable_paths : 0\nbitmap_cvg     : 1.79%\nunique_crashes : 37\nunique_hangs   : 13\nlast_path      : 1500240797\nlast_crash     : 1500240065\nlast_hang      : 1500238567\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Diary_Parser/input -o /dev/shm/work/Diary_Parser/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Diary_Parser/Diary_Parser.dict -- data/linux/processed-challenges/Diary_Parser/bin/Diary_Parser\n'
+p175
+I0
+tp176
+a(I10560
+S'start_time     : 1500230858\nlast_update    : 1500241376\nfuzzer_pid     : 26622\ncycles_done    : 5\nexecs_done     : 5504030\nexecs_per_sec  : 535.11\npaths_total    : 135\npaths_favored  : 58\npaths_found    : 134\npaths_imported : 0\nmax_depth      : 18\ncur_path       : 59\npending_favs   : 0\npending_total  : 26\nvariable_paths : 0\nbitmap_cvg     : 1.79%\nunique_crashes : 37\nunique_hangs   : 13\nlast_path      : 1500240797\nlast_crash     : 1500240065\nlast_hang      : 1500238567\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Diary_Parser/input -o /dev/shm/work/Diary_Parser/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Diary_Parser/Diary_Parser.dict -- data/linux/processed-challenges/Diary_Parser/bin/Diary_Parser\n'
+p177
+I0
+tp178
+a(I10680
+S'start_time     : 1500230858\nlast_update    : 1500241497\nfuzzer_pid     : 26622\ncycles_done    : 5\nexecs_done     : 5569904\nexecs_per_sec  : 555.44\npaths_total    : 135\npaths_favored  : 58\npaths_found    : 134\npaths_imported : 0\nmax_depth      : 18\ncur_path       : 80\npending_favs   : 0\npending_total  : 26\nvariable_paths : 0\nbitmap_cvg     : 1.79%\nunique_crashes : 37\nunique_hangs   : 13\nlast_path      : 1500240797\nlast_crash     : 1500240065\nlast_hang      : 1500238567\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Diary_Parser/input -o /dev/shm/work/Diary_Parser/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Diary_Parser/Diary_Parser.dict -- data/linux/processed-challenges/Diary_Parser/bin/Diary_Parser\n'
+p179
+I0
+tp180
+a.

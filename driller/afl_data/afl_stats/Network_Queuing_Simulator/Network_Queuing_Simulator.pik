@@ -1,0 +1,452 @@
+(lp0
+(I0
+S'start_time     : 1499938775\nlast_update    : 1499938775\nfuzzer_pid     : 11294\ncycles_done    : 0\nexecs_done     : 10\nexecs_per_sec  : 204.08\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 1\npending_total  : 1\nvariable_paths : 0\nbitmap_cvg     : 0.19%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Network_Queuing_Simulator/input -o /dev/shm/work/Network_Queuing_Simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Network_Queuing_Simulator/Network_Queuing_Simulator.dict -- data/linux/processed-challenges/Network_Queuing_Simulator/bin/Network_Queuing_Simulator\n'
+p1
+I42
+tp2
+a(I120
+S'start_time     : 1499938775\nlast_update    : 1499938895\nfuzzer_pid     : 11294\ncycles_done    : 0\nexecs_done     : 139479\nexecs_per_sec  : 1175.63\npaths_total    : 62\npaths_favored  : 1\npaths_found    : 61\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 1\npending_total  : 62\nvariable_paths : 0\nbitmap_cvg     : 0.40%\nunique_crashes : 5\nunique_hangs   : 0\nlast_path      : 1499938893\nlast_crash     : 1499938880\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Network_Queuing_Simulator/input -o /dev/shm/work/Network_Queuing_Simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Network_Queuing_Simulator/Network_Queuing_Simulator.dict -- data/linux/processed-challenges/Network_Queuing_Simulator/bin/Network_Queuing_Simulator\n'
+p3
+I21
+tp4
+a(I240
+S'start_time     : 1499938775\nlast_update    : 1499939015\nfuzzer_pid     : 11294\ncycles_done    : 0\nexecs_done     : 271432\nexecs_per_sec  : 1096.20\npaths_total    : 100\npaths_favored  : 22\npaths_found    : 99\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 9\npending_favs   : 21\npending_total  : 98\nvariable_paths : 0\nbitmap_cvg     : 0.52%\nunique_crashes : 57\nunique_hangs   : 0\nlast_path      : 1499939010\nlast_crash     : 1499939012\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Network_Queuing_Simulator/input -o /dev/shm/work/Network_Queuing_Simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Network_Queuing_Simulator/Network_Queuing_Simulator.dict -- data/linux/processed-challenges/Network_Queuing_Simulator/bin/Network_Queuing_Simulator\n'
+p5
+I38
+tp6
+a(I360
+S'start_time     : 1499938775\nlast_update    : 1499939135\nfuzzer_pid     : 11294\ncycles_done    : 0\nexecs_done     : 396236\nexecs_per_sec  : 986.56\npaths_total    : 111\npaths_favored  : 33\npaths_found    : 110\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 36\npending_favs   : 31\npending_total  : 105\nvariable_paths : 0\nbitmap_cvg     : 0.52%\nunique_crashes : 72\nunique_hangs   : 0\nlast_path      : 1499939078\nlast_crash     : 1499939084\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Network_Queuing_Simulator/input -o /dev/shm/work/Network_Queuing_Simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Network_Queuing_Simulator/Network_Queuing_Simulator.dict -- data/linux/processed-challenges/Network_Queuing_Simulator/bin/Network_Queuing_Simulator\n'
+p7
+I10
+tp8
+a(I480
+S'start_time     : 1499938775\nlast_update    : 1499939255\nfuzzer_pid     : 11294\ncycles_done    : 0\nexecs_done     : 522736\nexecs_per_sec  : 1066.00\npaths_total    : 117\npaths_favored  : 33\npaths_found    : 116\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 43\npending_favs   : 28\npending_total  : 108\nvariable_paths : 0\nbitmap_cvg     : 0.54%\nunique_crashes : 77\nunique_hangs   : 0\nlast_path      : 1499939212\nlast_crash     : 1499939248\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Network_Queuing_Simulator/input -o /dev/shm/work/Network_Queuing_Simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Network_Queuing_Simulator/Network_Queuing_Simulator.dict -- data/linux/processed-challenges/Network_Queuing_Simulator/bin/Network_Queuing_Simulator\n'
+p9
+I6
+tp10
+a(I600
+S'start_time     : 1499938775\nlast_update    : 1499939376\nfuzzer_pid     : 11294\ncycles_done    : 0\nexecs_done     : 636039\nexecs_per_sec  : 907.85\npaths_total    : 124\npaths_favored  : 37\npaths_found    : 123\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 48\npending_favs   : 32\npending_total  : 114\nvariable_paths : 0\nbitmap_cvg     : 0.55%\nunique_crashes : 87\nunique_hangs   : 0\nlast_path      : 1499939370\nlast_crash     : 1499939367\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Network_Queuing_Simulator/input -o /dev/shm/work/Network_Queuing_Simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Network_Queuing_Simulator/Network_Queuing_Simulator.dict -- data/linux/processed-challenges/Network_Queuing_Simulator/bin/Network_Queuing_Simulator\n'
+p11
+I7
+tp12
+a(I720
+S'start_time     : 1499938775\nlast_update    : 1499939496\nfuzzer_pid     : 11294\ncycles_done    : 0\nexecs_done     : 753679\nexecs_per_sec  : 911.65\npaths_total    : 127\npaths_favored  : 38\npaths_found    : 126\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 72\npending_favs   : 26\npending_total  : 109\nvariable_paths : 0\nbitmap_cvg     : 0.55%\nunique_crashes : 98\nunique_hangs   : 0\nlast_path      : 1499939459\nlast_crash     : 1499939487\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Network_Queuing_Simulator/input -o /dev/shm/work/Network_Queuing_Simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Network_Queuing_Simulator/Network_Queuing_Simulator.dict -- data/linux/processed-challenges/Network_Queuing_Simulator/bin/Network_Queuing_Simulator\n'
+p13
+I3
+tp14
+a(I840
+S'start_time     : 1499938775\nlast_update    : 1499939616\nfuzzer_pid     : 11294\ncycles_done    : 0\nexecs_done     : 869681\nexecs_per_sec  : 996.02\npaths_total    : 214\npaths_favored  : 38\npaths_found    : 213\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 77\npending_favs   : 24\npending_total  : 194\nvariable_paths : 0\nbitmap_cvg     : 0.93%\nunique_crashes : 118\nunique_hangs   : 0\nlast_path      : 1499939614\nlast_crash     : 1499939610\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Network_Queuing_Simulator/input -o /dev/shm/work/Network_Queuing_Simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Network_Queuing_Simulator/Network_Queuing_Simulator.dict -- data/linux/processed-challenges/Network_Queuing_Simulator/bin/Network_Queuing_Simulator\n'
+p15
+I88
+tp16
+a(I960
+S'start_time     : 1499938775\nlast_update    : 1499939736\nfuzzer_pid     : 11294\ncycles_done    : 0\nexecs_done     : 985028\nexecs_per_sec  : 683.52\npaths_total    : 224\npaths_favored  : 65\npaths_found    : 223\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 84\npending_favs   : 51\npending_total  : 202\nvariable_paths : 0\nbitmap_cvg     : 0.96%\nunique_crashes : 130\nunique_hangs   : 0\nlast_path      : 1499939720\nlast_crash     : 1499939722\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Network_Queuing_Simulator/input -o /dev/shm/work/Network_Queuing_Simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Network_Queuing_Simulator/Network_Queuing_Simulator.dict -- data/linux/processed-challenges/Network_Queuing_Simulator/bin/Network_Queuing_Simulator\n'
+p17
+I10
+tp18
+a(I1080
+S'start_time     : 1499938775\nlast_update    : 1499939856\nfuzzer_pid     : 11294\ncycles_done    : 0\nexecs_done     : 1083072\nexecs_per_sec  : 843.64\npaths_total    : 250\npaths_favored  : 65\npaths_found    : 249\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 84\npending_favs   : 51\npending_total  : 228\nvariable_paths : 0\nbitmap_cvg     : 1.04%\nunique_crashes : 147\nunique_hangs   : 0\nlast_path      : 1499939848\nlast_crash     : 1499939856\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Network_Queuing_Simulator/input -o /dev/shm/work/Network_Queuing_Simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Network_Queuing_Simulator/Network_Queuing_Simulator.dict -- data/linux/processed-challenges/Network_Queuing_Simulator/bin/Network_Queuing_Simulator\n'
+p19
+I25
+tp20
+a(I1200
+S'start_time     : 1499938775\nlast_update    : 1499939977\nfuzzer_pid     : 11294\ncycles_done    : 0\nexecs_done     : 1186806\nexecs_per_sec  : 818.86\npaths_total    : 257\npaths_favored  : 65\npaths_found    : 256\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 88\npending_favs   : 52\npending_total  : 233\nvariable_paths : 0\nbitmap_cvg     : 1.04%\nunique_crashes : 159\nunique_hangs   : 0\nlast_path      : 1499939962\nlast_crash     : 1499939975\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Network_Queuing_Simulator/input -o /dev/shm/work/Network_Queuing_Simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Network_Queuing_Simulator/Network_Queuing_Simulator.dict -- data/linux/processed-challenges/Network_Queuing_Simulator/bin/Network_Queuing_Simulator\n'
+p21
+I7
+tp22
+a(I1320
+S'start_time     : 1499938775\nlast_update    : 1499940097\nfuzzer_pid     : 11294\ncycles_done    : 0\nexecs_done     : 1293021\nexecs_per_sec  : 870.18\npaths_total    : 257\npaths_favored  : 66\npaths_found    : 256\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 99\npending_favs   : 48\npending_total  : 228\nvariable_paths : 0\nbitmap_cvg     : 1.04%\nunique_crashes : 168\nunique_hangs   : 0\nlast_path      : 1499939962\nlast_crash     : 1499940083\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Network_Queuing_Simulator/input -o /dev/shm/work/Network_Queuing_Simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Network_Queuing_Simulator/Network_Queuing_Simulator.dict -- data/linux/processed-challenges/Network_Queuing_Simulator/bin/Network_Queuing_Simulator\n'
+p23
+I0
+tp24
+a(I1440
+S'start_time     : 1499938775\nlast_update    : 1499940217\nfuzzer_pid     : 11294\ncycles_done    : 0\nexecs_done     : 1402755\nexecs_per_sec  : 944.06\npaths_total    : 263\npaths_favored  : 66\npaths_found    : 262\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 114\npending_favs   : 43\npending_total  : 229\nvariable_paths : 0\nbitmap_cvg     : 1.06%\nunique_crashes : 238\nunique_hangs   : 0\nlast_path      : 1499940216\nlast_crash     : 1499940217\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Network_Queuing_Simulator/input -o /dev/shm/work/Network_Queuing_Simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Network_Queuing_Simulator/Network_Queuing_Simulator.dict -- data/linux/processed-challenges/Network_Queuing_Simulator/bin/Network_Queuing_Simulator\n'
+p25
+I7
+tp26
+a(I1560
+S'start_time     : 1499938775\nlast_update    : 1499940337\nfuzzer_pid     : 11294\ncycles_done    : 0\nexecs_done     : 1515325\nexecs_per_sec  : 933.14\npaths_total    : 270\npaths_favored  : 66\npaths_found    : 269\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 114\npending_favs   : 43\npending_total  : 236\nvariable_paths : 0\nbitmap_cvg     : 1.07%\nunique_crashes : 332\nunique_hangs   : 1\nlast_path      : 1499940299\nlast_crash     : 1499940333\nlast_hang      : 1499940225\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Network_Queuing_Simulator/input -o /dev/shm/work/Network_Queuing_Simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Network_Queuing_Simulator/Network_Queuing_Simulator.dict -- data/linux/processed-challenges/Network_Queuing_Simulator/bin/Network_Queuing_Simulator\n'
+p27
+I6
+tp28
+a(I1680
+S'start_time     : 1499938775\nlast_update    : 1499940457\nfuzzer_pid     : 11294\ncycles_done    : 0\nexecs_done     : 1600152\nexecs_per_sec  : 546.07\npaths_total    : 271\npaths_favored  : 79\npaths_found    : 270\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 117\npending_favs   : 55\npending_total  : 236\nvariable_paths : 0\nbitmap_cvg     : 1.07%\nunique_crashes : 351\nunique_hangs   : 1\nlast_path      : 1499940362\nlast_crash     : 1499940380\nlast_hang      : 1499940225\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Network_Queuing_Simulator/input -o /dev/shm/work/Network_Queuing_Simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Network_Queuing_Simulator/Network_Queuing_Simulator.dict -- data/linux/processed-challenges/Network_Queuing_Simulator/bin/Network_Queuing_Simulator\n'
+p29
+I1
+tp30
+a(I1800
+S'start_time     : 1499938775\nlast_update    : 1499940578\nfuzzer_pid     : 11294\ncycles_done    : 0\nexecs_done     : 1679703\nexecs_per_sec  : 623.59\npaths_total    : 271\npaths_favored  : 79\npaths_found    : 270\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 120\npending_favs   : 53\npending_total  : 234\nvariable_paths : 0\nbitmap_cvg     : 1.07%\nunique_crashes : 353\nunique_hangs   : 1\nlast_path      : 1499940362\nlast_crash     : 1499940548\nlast_hang      : 1499940225\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Network_Queuing_Simulator/input -o /dev/shm/work/Network_Queuing_Simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Network_Queuing_Simulator/Network_Queuing_Simulator.dict -- data/linux/processed-challenges/Network_Queuing_Simulator/bin/Network_Queuing_Simulator\n'
+p31
+I0
+tp32
+a(I1920
+S'start_time     : 1499938775\nlast_update    : 1499940698\nfuzzer_pid     : 11294\ncycles_done    : 0\nexecs_done     : 1762552\nexecs_per_sec  : 743.35\npaths_total    : 276\npaths_favored  : 78\npaths_found    : 275\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 127\npending_favs   : 50\npending_total  : 237\nvariable_paths : 0\nbitmap_cvg     : 1.08%\nunique_crashes : 358\nunique_hangs   : 1\nlast_path      : 1499940696\nlast_crash     : 1499940695\nlast_hang      : 1499940225\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Network_Queuing_Simulator/input -o /dev/shm/work/Network_Queuing_Simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Network_Queuing_Simulator/Network_Queuing_Simulator.dict -- data/linux/processed-challenges/Network_Queuing_Simulator/bin/Network_Queuing_Simulator\n'
+p33
+I5
+tp34
+a(I2040
+S'start_time     : 1499938775\nlast_update    : 1499940818\nfuzzer_pid     : 11294\ncycles_done    : 0\nexecs_done     : 1865068\nexecs_per_sec  : 896.68\npaths_total    : 291\npaths_favored  : 86\npaths_found    : 290\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 132\npending_favs   : 55\npending_total  : 248\nvariable_paths : 0\nbitmap_cvg     : 1.13%\nunique_crashes : 359\nunique_hangs   : 1\nlast_path      : 1499940818\nlast_crash     : 1499940815\nlast_hang      : 1499940225\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Network_Queuing_Simulator/input -o /dev/shm/work/Network_Queuing_Simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Network_Queuing_Simulator/Network_Queuing_Simulator.dict -- data/linux/processed-challenges/Network_Queuing_Simulator/bin/Network_Queuing_Simulator\n'
+p35
+I17
+tp36
+a(I2160
+S'start_time     : 1499938775\nlast_update    : 1499940938\nfuzzer_pid     : 11294\ncycles_done    : 0\nexecs_done     : 1972135\nexecs_per_sec  : 886.23\npaths_total    : 303\npaths_favored  : 86\npaths_found    : 302\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 132\npending_favs   : 55\npending_total  : 260\nvariable_paths : 0\nbitmap_cvg     : 1.16%\nunique_crashes : 363\nunique_hangs   : 1\nlast_path      : 1499940920\nlast_crash     : 1499940907\nlast_hang      : 1499940225\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Network_Queuing_Simulator/input -o /dev/shm/work/Network_Queuing_Simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Network_Queuing_Simulator/Network_Queuing_Simulator.dict -- data/linux/processed-challenges/Network_Queuing_Simulator/bin/Network_Queuing_Simulator\n'
+p37
+I10
+tp38
+a(I2280
+S'start_time     : 1499938775\nlast_update    : 1499941059\nfuzzer_pid     : 11294\ncycles_done    : 0\nexecs_done     : 2073872\nexecs_per_sec  : 869.95\npaths_total    : 313\npaths_favored  : 97\npaths_found    : 312\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 140\npending_favs   : 62\npending_total  : 267\nvariable_paths : 0\nbitmap_cvg     : 1.19%\nunique_crashes : 366\nunique_hangs   : 1\nlast_path      : 1499941050\nlast_crash     : 1499941005\nlast_hang      : 1499940225\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Network_Queuing_Simulator/input -o /dev/shm/work/Network_Queuing_Simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Network_Queuing_Simulator/Network_Queuing_Simulator.dict -- data/linux/processed-challenges/Network_Queuing_Simulator/bin/Network_Queuing_Simulator\n'
+p39
+I10
+tp40
+a(I2400
+S'start_time     : 1499938775\nlast_update    : 1499941179\nfuzzer_pid     : 11294\ncycles_done    : 0\nexecs_done     : 2178414\nexecs_per_sec  : 883.54\npaths_total    : 319\npaths_favored  : 97\npaths_found    : 318\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 140\npending_favs   : 62\npending_total  : 273\nvariable_paths : 0\nbitmap_cvg     : 1.21%\nunique_crashes : 372\nunique_hangs   : 1\nlast_path      : 1499941164\nlast_crash     : 1499941174\nlast_hang      : 1499940225\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Network_Queuing_Simulator/input -o /dev/shm/work/Network_Queuing_Simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Network_Queuing_Simulator/Network_Queuing_Simulator.dict -- data/linux/processed-challenges/Network_Queuing_Simulator/bin/Network_Queuing_Simulator\n'
+p41
+I6
+tp42
+a(I2520
+S'start_time     : 1499938775\nlast_update    : 1499941299\nfuzzer_pid     : 11294\ncycles_done    : 0\nexecs_done     : 2277291\nexecs_per_sec  : 842.77\npaths_total    : 334\npaths_favored  : 100\npaths_found    : 333\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 143\npending_favs   : 66\npending_total  : 287\nvariable_paths : 0\nbitmap_cvg     : 1.25%\nunique_crashes : 376\nunique_hangs   : 1\nlast_path      : 1499941293\nlast_crash     : 1499941284\nlast_hang      : 1499940225\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Network_Queuing_Simulator/input -o /dev/shm/work/Network_Queuing_Simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Network_Queuing_Simulator/Network_Queuing_Simulator.dict -- data/linux/processed-challenges/Network_Queuing_Simulator/bin/Network_Queuing_Simulator\n'
+p43
+I17
+tp44
+a(I2640
+S'start_time     : 1499938775\nlast_update    : 1499941419\nfuzzer_pid     : 11294\ncycles_done    : 0\nexecs_done     : 2377373\nexecs_per_sec  : 834.77\npaths_total    : 347\npaths_favored  : 100\npaths_found    : 346\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 143\npending_favs   : 66\npending_total  : 300\nvariable_paths : 0\nbitmap_cvg     : 1.26%\nunique_crashes : 379\nunique_hangs   : 1\nlast_path      : 1499941411\nlast_crash     : 1499941338\nlast_hang      : 1499940225\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Network_Queuing_Simulator/input -o /dev/shm/work/Network_Queuing_Simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Network_Queuing_Simulator/Network_Queuing_Simulator.dict -- data/linux/processed-challenges/Network_Queuing_Simulator/bin/Network_Queuing_Simulator\n'
+p45
+I11
+tp46
+a(I2760
+S'start_time     : 1499938775\nlast_update    : 1499941539\nfuzzer_pid     : 11294\ncycles_done    : 0\nexecs_done     : 2465504\nexecs_per_sec  : 756.86\npaths_total    : 349\npaths_favored  : 109\npaths_found    : 348\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 172\npending_favs   : 74\npending_total  : 300\nvariable_paths : 0\nbitmap_cvg     : 1.27%\nunique_crashes : 384\nunique_hangs   : 1\nlast_path      : 1499941538\nlast_crash     : 1499941461\nlast_hang      : 1499940225\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Network_Queuing_Simulator/input -o /dev/shm/work/Network_Queuing_Simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Network_Queuing_Simulator/Network_Queuing_Simulator.dict -- data/linux/processed-challenges/Network_Queuing_Simulator/bin/Network_Queuing_Simulator\n'
+p47
+I3
+tp48
+a(I2880
+S'start_time     : 1499938775\nlast_update    : 1499941660\nfuzzer_pid     : 11294\ncycles_done    : 0\nexecs_done     : 2556125\nexecs_per_sec  : 742.56\npaths_total    : 358\npaths_favored  : 109\npaths_found    : 357\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 172\npending_favs   : 74\npending_total  : 309\nvariable_paths : 0\nbitmap_cvg     : 1.27%\nunique_crashes : 394\nunique_hangs   : 1\nlast_path      : 1499941658\nlast_crash     : 1499941652\nlast_hang      : 1499940225\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Network_Queuing_Simulator/input -o /dev/shm/work/Network_Queuing_Simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Network_Queuing_Simulator/Network_Queuing_Simulator.dict -- data/linux/processed-challenges/Network_Queuing_Simulator/bin/Network_Queuing_Simulator\n'
+p49
+I8
+tp50
+a(I3000
+S'start_time     : 1499938775\nlast_update    : 1499941780\nfuzzer_pid     : 11294\ncycles_done    : 0\nexecs_done     : 2646426\nexecs_per_sec  : 726.19\npaths_total    : 359\npaths_favored  : 109\npaths_found    : 358\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 189\npending_favs   : 73\npending_total  : 308\nvariable_paths : 0\nbitmap_cvg     : 1.27%\nunique_crashes : 401\nunique_hangs   : 1\nlast_path      : 1499941693\nlast_crash     : 1499941771\nlast_hang      : 1499940225\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Network_Queuing_Simulator/input -o /dev/shm/work/Network_Queuing_Simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Network_Queuing_Simulator/Network_Queuing_Simulator.dict -- data/linux/processed-challenges/Network_Queuing_Simulator/bin/Network_Queuing_Simulator\n'
+p51
+I1
+tp52
+a(I3120
+S'start_time     : 1499938775\nlast_update    : 1499941900\nfuzzer_pid     : 11294\ncycles_done    : 0\nexecs_done     : 2741569\nexecs_per_sec  : 875.73\npaths_total    : 360\npaths_favored  : 109\npaths_found    : 359\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 218\npending_favs   : 71\npending_total  : 306\nvariable_paths : 0\nbitmap_cvg     : 1.27%\nunique_crashes : 405\nunique_hangs   : 1\nlast_path      : 1499941828\nlast_crash     : 1499941896\nlast_hang      : 1499940225\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Network_Queuing_Simulator/input -o /dev/shm/work/Network_Queuing_Simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Network_Queuing_Simulator/Network_Queuing_Simulator.dict -- data/linux/processed-challenges/Network_Queuing_Simulator/bin/Network_Queuing_Simulator\n'
+p53
+I1
+tp54
+a(I3240
+S'start_time     : 1499938775\nlast_update    : 1499942020\nfuzzer_pid     : 11294\ncycles_done    : 0\nexecs_done     : 2820459\nexecs_per_sec  : 682.23\npaths_total    : 380\npaths_favored  : 109\npaths_found    : 379\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 235\npending_favs   : 69\npending_total  : 324\nvariable_paths : 0\nbitmap_cvg     : 1.34%\nunique_crashes : 413\nunique_hangs   : 1\nlast_path      : 1499942015\nlast_crash     : 1499941983\nlast_hang      : 1499940225\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Network_Queuing_Simulator/input -o /dev/shm/work/Network_Queuing_Simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Network_Queuing_Simulator/Network_Queuing_Simulator.dict -- data/linux/processed-challenges/Network_Queuing_Simulator/bin/Network_Queuing_Simulator\n'
+p55
+I20
+tp56
+a(I3360
+S'start_time     : 1499938775\nlast_update    : 1499942141\nfuzzer_pid     : 11294\ncycles_done    : 0\nexecs_done     : 2902650\nexecs_per_sec  : 695.83\npaths_total    : 394\npaths_favored  : 109\npaths_found    : 393\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 235\npending_favs   : 69\npending_total  : 338\nvariable_paths : 0\nbitmap_cvg     : 1.37%\nunique_crashes : 418\nunique_hangs   : 1\nlast_path      : 1499942138\nlast_crash     : 1499942131\nlast_hang      : 1499940225\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Network_Queuing_Simulator/input -o /dev/shm/work/Network_Queuing_Simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Network_Queuing_Simulator/Network_Queuing_Simulator.dict -- data/linux/processed-challenges/Network_Queuing_Simulator/bin/Network_Queuing_Simulator\n'
+p57
+I14
+tp58
+a(I3480
+S'start_time     : 1499938775\nlast_update    : 1499942261\nfuzzer_pid     : 11294\ncycles_done    : 0\nexecs_done     : 2984222\nexecs_per_sec  : 619.77\npaths_total    : 401\npaths_favored  : 123\npaths_found    : 400\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 254\npending_favs   : 83\npending_total  : 343\nvariable_paths : 0\nbitmap_cvg     : 1.38%\nunique_crashes : 421\nunique_hangs   : 1\nlast_path      : 1499942239\nlast_crash     : 1499942198\nlast_hang      : 1499940225\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Network_Queuing_Simulator/input -o /dev/shm/work/Network_Queuing_Simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Network_Queuing_Simulator/Network_Queuing_Simulator.dict -- data/linux/processed-challenges/Network_Queuing_Simulator/bin/Network_Queuing_Simulator\n'
+p59
+I7
+tp60
+a(I3600
+S'start_time     : 1499938775\nlast_update    : 1499942381\nfuzzer_pid     : 11294\ncycles_done    : 0\nexecs_done     : 3064779\nexecs_per_sec  : 768.22\npaths_total    : 406\npaths_favored  : 124\npaths_found    : 405\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 256\npending_favs   : 82\npending_total  : 347\nvariable_paths : 0\nbitmap_cvg     : 1.39%\nunique_crashes : 428\nunique_hangs   : 1\nlast_path      : 1499942305\nlast_crash     : 1499942374\nlast_hang      : 1499940225\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Network_Queuing_Simulator/input -o /dev/shm/work/Network_Queuing_Simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Network_Queuing_Simulator/Network_Queuing_Simulator.dict -- data/linux/processed-challenges/Network_Queuing_Simulator/bin/Network_Queuing_Simulator\n'
+p61
+I5
+tp62
+a(I3720
+S'start_time     : 1499938775\nlast_update    : 1499942502\nfuzzer_pid     : 11294\ncycles_done    : 0\nexecs_done     : 3165538\nexecs_per_sec  : 860.93\npaths_total    : 408\npaths_favored  : 126\npaths_found    : 407\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 259\npending_favs   : 81\npending_total  : 346\nvariable_paths : 0\nbitmap_cvg     : 1.39%\nunique_crashes : 436\nunique_hangs   : 1\nlast_path      : 1499942452\nlast_crash     : 1499942489\nlast_hang      : 1499940225\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Network_Queuing_Simulator/input -o /dev/shm/work/Network_Queuing_Simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Network_Queuing_Simulator/Network_Queuing_Simulator.dict -- data/linux/processed-challenges/Network_Queuing_Simulator/bin/Network_Queuing_Simulator\n'
+p63
+I2
+tp64
+a(I3840
+S'start_time     : 1499938775\nlast_update    : 1499942622\nfuzzer_pid     : 11294\ncycles_done    : 0\nexecs_done     : 3266508\nexecs_per_sec  : 836.45\npaths_total    : 408\npaths_favored  : 126\npaths_found    : 407\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 262\npending_favs   : 78\npending_total  : 343\nvariable_paths : 0\nbitmap_cvg     : 1.39%\nunique_crashes : 471\nunique_hangs   : 1\nlast_path      : 1499942452\nlast_crash     : 1499942622\nlast_hang      : 1499940225\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Network_Queuing_Simulator/input -o /dev/shm/work/Network_Queuing_Simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Network_Queuing_Simulator/Network_Queuing_Simulator.dict -- data/linux/processed-challenges/Network_Queuing_Simulator/bin/Network_Queuing_Simulator\n'
+p65
+I0
+tp66
+a(I3960
+S'start_time     : 1499938775\nlast_update    : 1499942742\nfuzzer_pid     : 11294\ncycles_done    : 0\nexecs_done     : 3366272\nexecs_per_sec  : 814.64\npaths_total    : 408\npaths_favored  : 126\npaths_found    : 407\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 267\npending_favs   : 74\npending_total  : 339\nvariable_paths : 0\nbitmap_cvg     : 1.39%\nunique_crashes : 505\nunique_hangs   : 1\nlast_path      : 1499942452\nlast_crash     : 1499942736\nlast_hang      : 1499940225\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Network_Queuing_Simulator/input -o /dev/shm/work/Network_Queuing_Simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Network_Queuing_Simulator/Network_Queuing_Simulator.dict -- data/linux/processed-challenges/Network_Queuing_Simulator/bin/Network_Queuing_Simulator\n'
+p67
+I0
+tp68
+a(I4080
+S'start_time     : 1499938775\nlast_update    : 1499942862\nfuzzer_pid     : 11294\ncycles_done    : 0\nexecs_done     : 3464515\nexecs_per_sec  : 800.29\npaths_total    : 410\npaths_favored  : 127\npaths_found    : 409\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 270\npending_favs   : 72\npending_total  : 338\nvariable_paths : 0\nbitmap_cvg     : 1.39%\nunique_crashes : 544\nunique_hangs   : 1\nlast_path      : 1499942791\nlast_crash     : 1499942853\nlast_hang      : 1499940225\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Network_Queuing_Simulator/input -o /dev/shm/work/Network_Queuing_Simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Network_Queuing_Simulator/Network_Queuing_Simulator.dict -- data/linux/processed-challenges/Network_Queuing_Simulator/bin/Network_Queuing_Simulator\n'
+p69
+I2
+tp70
+a(I4200
+S'start_time     : 1499938775\nlast_update    : 1499942982\nfuzzer_pid     : 11294\ncycles_done    : 0\nexecs_done     : 3541208\nexecs_per_sec  : 500.57\npaths_total    : 410\npaths_favored  : 127\npaths_found    : 409\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 275\npending_favs   : 69\npending_total  : 335\nvariable_paths : 0\nbitmap_cvg     : 1.39%\nunique_crashes : 552\nunique_hangs   : 1\nlast_path      : 1499942791\nlast_crash     : 1499942893\nlast_hang      : 1499940225\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Network_Queuing_Simulator/input -o /dev/shm/work/Network_Queuing_Simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Network_Queuing_Simulator/Network_Queuing_Simulator.dict -- data/linux/processed-challenges/Network_Queuing_Simulator/bin/Network_Queuing_Simulator\n'
+p71
+I0
+tp72
+a(I4320
+S'start_time     : 1499938775\nlast_update    : 1499943102\nfuzzer_pid     : 11294\ncycles_done    : 0\nexecs_done     : 3616958\nexecs_per_sec  : 691.76\npaths_total    : 410\npaths_favored  : 127\npaths_found    : 409\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 278\npending_favs   : 66\npending_total  : 332\nvariable_paths : 0\nbitmap_cvg     : 1.39%\nunique_crashes : 553\nunique_hangs   : 1\nlast_path      : 1499942791\nlast_crash     : 1499943042\nlast_hang      : 1499940225\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Network_Queuing_Simulator/input -o /dev/shm/work/Network_Queuing_Simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Network_Queuing_Simulator/Network_Queuing_Simulator.dict -- data/linux/processed-challenges/Network_Queuing_Simulator/bin/Network_Queuing_Simulator\n'
+p73
+I0
+tp74
+a(I4440
+S'start_time     : 1499938775\nlast_update    : 1499943223\nfuzzer_pid     : 11294\ncycles_done    : 0\nexecs_done     : 3686601\nexecs_per_sec  : 655.53\npaths_total    : 411\npaths_favored  : 126\npaths_found    : 410\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 280\npending_favs   : 64\npending_total  : 331\nvariable_paths : 0\nbitmap_cvg     : 1.39%\nunique_crashes : 554\nunique_hangs   : 1\nlast_path      : 1499943188\nlast_crash     : 1499943220\nlast_hang      : 1499940225\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Network_Queuing_Simulator/input -o /dev/shm/work/Network_Queuing_Simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Network_Queuing_Simulator/Network_Queuing_Simulator.dict -- data/linux/processed-challenges/Network_Queuing_Simulator/bin/Network_Queuing_Simulator\n'
+p75
+I1
+tp76
+a(I4560
+S'start_time     : 1499938775\nlast_update    : 1499943343\nfuzzer_pid     : 11294\ncycles_done    : 0\nexecs_done     : 3784613\nexecs_per_sec  : 818.36\npaths_total    : 417\npaths_favored  : 126\npaths_found    : 416\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 280\npending_favs   : 64\npending_total  : 337\nvariable_paths : 0\nbitmap_cvg     : 1.40%\nunique_crashes : 554\nunique_hangs   : 1\nlast_path      : 1499943252\nlast_crash     : 1499943220\nlast_hang      : 1499940225\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Network_Queuing_Simulator/input -o /dev/shm/work/Network_Queuing_Simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Network_Queuing_Simulator/Network_Queuing_Simulator.dict -- data/linux/processed-challenges/Network_Queuing_Simulator/bin/Network_Queuing_Simulator\n'
+p77
+I6
+tp78
+a(I4680
+S'start_time     : 1499938775\nlast_update    : 1499943463\nfuzzer_pid     : 11294\ncycles_done    : 0\nexecs_done     : 3879799\nexecs_per_sec  : 771.02\npaths_total    : 427\npaths_favored  : 129\npaths_found    : 426\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 282\npending_favs   : 67\npending_total  : 346\nvariable_paths : 0\nbitmap_cvg     : 1.41%\nunique_crashes : 558\nunique_hangs   : 1\nlast_path      : 1499943462\nlast_crash     : 1499943461\nlast_hang      : 1499940225\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Network_Queuing_Simulator/input -o /dev/shm/work/Network_Queuing_Simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Network_Queuing_Simulator/Network_Queuing_Simulator.dict -- data/linux/processed-challenges/Network_Queuing_Simulator/bin/Network_Queuing_Simulator\n'
+p79
+I10
+tp80
+a(I4800
+S'start_time     : 1499938775\nlast_update    : 1499943583\nfuzzer_pid     : 11294\ncycles_done    : 0\nexecs_done     : 3974279\nexecs_per_sec  : 775.48\npaths_total    : 428\npaths_favored  : 129\npaths_found    : 427\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 282\npending_favs   : 67\npending_total  : 347\nvariable_paths : 0\nbitmap_cvg     : 1.41%\nunique_crashes : 566\nunique_hangs   : 1\nlast_path      : 1499943509\nlast_crash     : 1499943553\nlast_hang      : 1499940225\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Network_Queuing_Simulator/input -o /dev/shm/work/Network_Queuing_Simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Network_Queuing_Simulator/Network_Queuing_Simulator.dict -- data/linux/processed-challenges/Network_Queuing_Simulator/bin/Network_Queuing_Simulator\n'
+p81
+I1
+tp82
+a(I4920
+S'start_time     : 1499938775\nlast_update    : 1499943704\nfuzzer_pid     : 11294\ncycles_done    : 0\nexecs_done     : 4063803\nexecs_per_sec  : 714.25\npaths_total    : 432\npaths_favored  : 138\npaths_found    : 431\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 284\npending_favs   : 75\npending_total  : 349\nvariable_paths : 0\nbitmap_cvg     : 1.42%\nunique_crashes : 571\nunique_hangs   : 1\nlast_path      : 1499943647\nlast_crash     : 1499943668\nlast_hang      : 1499940225\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Network_Queuing_Simulator/input -o /dev/shm/work/Network_Queuing_Simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Network_Queuing_Simulator/Network_Queuing_Simulator.dict -- data/linux/processed-challenges/Network_Queuing_Simulator/bin/Network_Queuing_Simulator\n'
+p83
+I4
+tp84
+a(I5040
+S'start_time     : 1499938775\nlast_update    : 1499943824\nfuzzer_pid     : 11294\ncycles_done    : 0\nexecs_done     : 4154204\nexecs_per_sec  : 811.09\npaths_total    : 435\npaths_favored  : 138\npaths_found    : 434\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 293\npending_favs   : 72\npending_total  : 349\nvariable_paths : 0\nbitmap_cvg     : 1.42%\nunique_crashes : 571\nunique_hangs   : 1\nlast_path      : 1499943785\nlast_crash     : 1499943668\nlast_hang      : 1499940225\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Network_Queuing_Simulator/input -o /dev/shm/work/Network_Queuing_Simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Network_Queuing_Simulator/Network_Queuing_Simulator.dict -- data/linux/processed-challenges/Network_Queuing_Simulator/bin/Network_Queuing_Simulator\n'
+p85
+I3
+tp86
+a(I5160
+S'start_time     : 1499938775\nlast_update    : 1499943944\nfuzzer_pid     : 11294\ncycles_done    : 0\nexecs_done     : 4229065\nexecs_per_sec  : 679.20\npaths_total    : 444\npaths_favored  : 138\npaths_found    : 443\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 294\npending_favs   : 71\npending_total  : 357\nvariable_paths : 0\nbitmap_cvg     : 1.42%\nunique_crashes : 573\nunique_hangs   : 1\nlast_path      : 1499943921\nlast_crash     : 1499943942\nlast_hang      : 1499940225\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Network_Queuing_Simulator/input -o /dev/shm/work/Network_Queuing_Simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Network_Queuing_Simulator/Network_Queuing_Simulator.dict -- data/linux/processed-challenges/Network_Queuing_Simulator/bin/Network_Queuing_Simulator\n'
+p87
+I9
+tp88
+a(I5280
+S'start_time     : 1499938775\nlast_update    : 1499944065\nfuzzer_pid     : 11294\ncycles_done    : 0\nexecs_done     : 4309196\nexecs_per_sec  : 624.59\npaths_total    : 449\npaths_favored  : 141\npaths_found    : 448\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 298\npending_favs   : 75\npending_total  : 361\nvariable_paths : 0\nbitmap_cvg     : 1.43%\nunique_crashes : 574\nunique_hangs   : 1\nlast_path      : 1499944039\nlast_crash     : 1499944019\nlast_hang      : 1499940225\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Network_Queuing_Simulator/input -o /dev/shm/work/Network_Queuing_Simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Network_Queuing_Simulator/Network_Queuing_Simulator.dict -- data/linux/processed-challenges/Network_Queuing_Simulator/bin/Network_Queuing_Simulator\n'
+p89
+I5
+tp90
+a(I5400
+S'start_time     : 1499938775\nlast_update    : 1499944185\nfuzzer_pid     : 11294\ncycles_done    : 0\nexecs_done     : 4388270\nexecs_per_sec  : 533.41\npaths_total    : 452\npaths_favored  : 143\npaths_found    : 451\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 305\npending_favs   : 74\npending_total  : 361\nvariable_paths : 0\nbitmap_cvg     : 1.43%\nunique_crashes : 577\nunique_hangs   : 1\nlast_path      : 1499944164\nlast_crash     : 1499944116\nlast_hang      : 1499940225\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Network_Queuing_Simulator/input -o /dev/shm/work/Network_Queuing_Simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Network_Queuing_Simulator/Network_Queuing_Simulator.dict -- data/linux/processed-challenges/Network_Queuing_Simulator/bin/Network_Queuing_Simulator\n'
+p91
+I3
+tp92
+a(I5520
+S'start_time     : 1499938775\nlast_update    : 1499944305\nfuzzer_pid     : 11294\ncycles_done    : 0\nexecs_done     : 4460291\nexecs_per_sec  : 642.20\npaths_total    : 465\npaths_favored  : 143\npaths_found    : 464\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 305\npending_favs   : 74\npending_total  : 374\nvariable_paths : 0\nbitmap_cvg     : 1.44%\nunique_crashes : 578\nunique_hangs   : 1\nlast_path      : 1499944279\nlast_crash     : 1499944192\nlast_hang      : 1499940225\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Network_Queuing_Simulator/input -o /dev/shm/work/Network_Queuing_Simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Network_Queuing_Simulator/Network_Queuing_Simulator.dict -- data/linux/processed-challenges/Network_Queuing_Simulator/bin/Network_Queuing_Simulator\n'
+p93
+I13
+tp94
+a(I5640
+S'start_time     : 1499938775\nlast_update    : 1499944365\nfuzzer_pid     : 11294\ncycles_done    : 0\nexecs_done     : 4498957\nexecs_per_sec  : 654.61\npaths_total    : 468\npaths_favored  : 143\npaths_found    : 467\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 305\npending_favs   : 74\npending_total  : 377\nvariable_paths : 0\nbitmap_cvg     : 1.44%\nunique_crashes : 582\nunique_hangs   : 1\nlast_path      : 1499944345\nlast_crash     : 1499944359\nlast_hang      : 1499940225\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Network_Queuing_Simulator/input -o /dev/shm/work/Network_Queuing_Simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Network_Queuing_Simulator/Network_Queuing_Simulator.dict -- data/linux/processed-challenges/Network_Queuing_Simulator/bin/Network_Queuing_Simulator\n'
+p95
+I4
+tp96
+a(I5760
+S'start_time     : 1499938775\nlast_update    : 1499944485\nfuzzer_pid     : 11294\ncycles_done    : 0\nexecs_done     : 4579674\nexecs_per_sec  : 589.77\npaths_total    : 469\npaths_favored  : 148\npaths_found    : 468\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 311\npending_favs   : 77\npending_total  : 375\nvariable_paths : 0\nbitmap_cvg     : 1.44%\nunique_crashes : 586\nunique_hangs   : 1\nlast_path      : 1499944388\nlast_crash     : 1499944461\nlast_hang      : 1499940225\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Network_Queuing_Simulator/input -o /dev/shm/work/Network_Queuing_Simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Network_Queuing_Simulator/Network_Queuing_Simulator.dict -- data/linux/processed-challenges/Network_Queuing_Simulator/bin/Network_Queuing_Simulator\n'
+p97
+I3
+tp98
+a(I5880
+S'start_time     : 1499938775\nlast_update    : 1499944606\nfuzzer_pid     : 11294\ncycles_done    : 0\nexecs_done     : 4648132\nexecs_per_sec  : 520.22\npaths_total    : 473\npaths_favored  : 148\npaths_found    : 472\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 312\npending_favs   : 76\npending_total  : 378\nvariable_paths : 0\nbitmap_cvg     : 1.45%\nunique_crashes : 586\nunique_hangs   : 1\nlast_path      : 1499944590\nlast_crash     : 1499944461\nlast_hang      : 1499940225\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Network_Queuing_Simulator/input -o /dev/shm/work/Network_Queuing_Simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Network_Queuing_Simulator/Network_Queuing_Simulator.dict -- data/linux/processed-challenges/Network_Queuing_Simulator/bin/Network_Queuing_Simulator\n'
+p99
+I3
+tp100
+a(I6000
+S'start_time     : 1499938775\nlast_update    : 1499944726\nfuzzer_pid     : 11294\ncycles_done    : 0\nexecs_done     : 4720630\nexecs_per_sec  : 597.21\npaths_total    : 479\npaths_favored  : 152\npaths_found    : 478\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 317\npending_favs   : 78\npending_total  : 382\nvariable_paths : 0\nbitmap_cvg     : 1.45%\nunique_crashes : 591\nunique_hangs   : 1\nlast_path      : 1499944725\nlast_crash     : 1499944718\nlast_hang      : 1499940225\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Network_Queuing_Simulator/input -o /dev/shm/work/Network_Queuing_Simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Network_Queuing_Simulator/Network_Queuing_Simulator.dict -- data/linux/processed-challenges/Network_Queuing_Simulator/bin/Network_Queuing_Simulator\n'
+p101
+I4
+tp102
+a(I6120
+S'start_time     : 1499938775\nlast_update    : 1499944846\nfuzzer_pid     : 11294\ncycles_done    : 0\nexecs_done     : 4785199\nexecs_per_sec  : 402.48\npaths_total    : 481\npaths_favored  : 154\npaths_found    : 480\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 321\npending_favs   : 78\npending_total  : 382\nvariable_paths : 0\nbitmap_cvg     : 1.45%\nunique_crashes : 593\nunique_hangs   : 1\nlast_path      : 1499944809\nlast_crash     : 1499944841\nlast_hang      : 1499940225\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Network_Queuing_Simulator/input -o /dev/shm/work/Network_Queuing_Simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Network_Queuing_Simulator/Network_Queuing_Simulator.dict -- data/linux/processed-challenges/Network_Queuing_Simulator/bin/Network_Queuing_Simulator\n'
+p103
+I4
+tp104
+a(I6240
+S'start_time     : 1499938775\nlast_update    : 1499944966\nfuzzer_pid     : 11294\ncycles_done    : 0\nexecs_done     : 4833946\nexecs_per_sec  : 505.02\npaths_total    : 489\npaths_favored  : 154\npaths_found    : 488\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 321\npending_favs   : 78\npending_total  : 390\nvariable_paths : 0\nbitmap_cvg     : 1.46%\nunique_crashes : 598\nunique_hangs   : 1\nlast_path      : 1499944963\nlast_crash     : 1499944962\nlast_hang      : 1499940225\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Network_Queuing_Simulator/input -o /dev/shm/work/Network_Queuing_Simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Network_Queuing_Simulator/Network_Queuing_Simulator.dict -- data/linux/processed-challenges/Network_Queuing_Simulator/bin/Network_Queuing_Simulator\n'
+p105
+I12
+tp106
+a(I6360
+S'start_time     : 1499938775\nlast_update    : 1499945086\nfuzzer_pid     : 11294\ncycles_done    : 0\nexecs_done     : 4895286\nexecs_per_sec  : 515.62\npaths_total    : 501\npaths_favored  : 154\npaths_found    : 500\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 321\npending_favs   : 78\npending_total  : 402\nvariable_paths : 0\nbitmap_cvg     : 1.48%\nunique_crashes : 605\nunique_hangs   : 1\nlast_path      : 1499945080\nlast_crash     : 1499945085\nlast_hang      : 1499940225\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Network_Queuing_Simulator/input -o /dev/shm/work/Network_Queuing_Simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Network_Queuing_Simulator/Network_Queuing_Simulator.dict -- data/linux/processed-challenges/Network_Queuing_Simulator/bin/Network_Queuing_Simulator\n'
+p107
+I8
+tp108
+a(I6480
+S'start_time     : 1499938775\nlast_update    : 1499945206\nfuzzer_pid     : 11294\ncycles_done    : 0\nexecs_done     : 4963184\nexecs_per_sec  : 509.97\npaths_total    : 503\npaths_favored  : 161\npaths_found    : 502\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 325\npending_favs   : 85\npending_total  : 402\nvariable_paths : 0\nbitmap_cvg     : 1.48%\nunique_crashes : 608\nunique_hangs   : 1\nlast_path      : 1499945109\nlast_crash     : 1499945200\nlast_hang      : 1499940225\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Network_Queuing_Simulator/input -o /dev/shm/work/Network_Queuing_Simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Network_Queuing_Simulator/Network_Queuing_Simulator.dict -- data/linux/processed-challenges/Network_Queuing_Simulator/bin/Network_Queuing_Simulator\n'
+p109
+I0
+tp110
+a(I6600
+S'start_time     : 1499938775\nlast_update    : 1499945327\nfuzzer_pid     : 11294\ncycles_done    : 0\nexecs_done     : 5037775\nexecs_per_sec  : 525.48\npaths_total    : 504\npaths_favored  : 161\npaths_found    : 503\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 328\npending_favs   : 83\npending_total  : 401\nvariable_paths : 0\nbitmap_cvg     : 1.48%\nunique_crashes : 610\nunique_hangs   : 1\nlast_path      : 1499945287\nlast_crash     : 1499945299\nlast_hang      : 1499940225\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Network_Queuing_Simulator/input -o /dev/shm/work/Network_Queuing_Simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Network_Queuing_Simulator/Network_Queuing_Simulator.dict -- data/linux/processed-challenges/Network_Queuing_Simulator/bin/Network_Queuing_Simulator\n'
+p111
+I1
+tp112
+a(I6720
+S'start_time     : 1499938775\nlast_update    : 1499945447\nfuzzer_pid     : 11294\ncycles_done    : 0\nexecs_done     : 5108268\nexecs_per_sec  : 538.79\npaths_total    : 504\npaths_favored  : 161\npaths_found    : 503\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 342\npending_favs   : 81\npending_total  : 399\nvariable_paths : 0\nbitmap_cvg     : 1.48%\nunique_crashes : 611\nunique_hangs   : 1\nlast_path      : 1499945287\nlast_crash     : 1499945344\nlast_hang      : 1499940225\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Network_Queuing_Simulator/input -o /dev/shm/work/Network_Queuing_Simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Network_Queuing_Simulator/Network_Queuing_Simulator.dict -- data/linux/processed-challenges/Network_Queuing_Simulator/bin/Network_Queuing_Simulator\n'
+p113
+I1
+tp114
+a(I6840
+S'start_time     : 1499938775\nlast_update    : 1499945567\nfuzzer_pid     : 11294\ncycles_done    : 0\nexecs_done     : 5169570\nexecs_per_sec  : 445.28\npaths_total    : 506\npaths_favored  : 161\npaths_found    : 505\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 345\npending_favs   : 80\npending_total  : 400\nvariable_paths : 0\nbitmap_cvg     : 1.48%\nunique_crashes : 612\nunique_hangs   : 1\nlast_path      : 1499945562\nlast_crash     : 1499945473\nlast_hang      : 1499940225\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Network_Queuing_Simulator/input -o /dev/shm/work/Network_Queuing_Simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Network_Queuing_Simulator/Network_Queuing_Simulator.dict -- data/linux/processed-challenges/Network_Queuing_Simulator/bin/Network_Queuing_Simulator\n'
+p115
+I1
+tp116
+a(I6960
+S'start_time     : 1499938775\nlast_update    : 1499945687\nfuzzer_pid     : 11294\ncycles_done    : 0\nexecs_done     : 5226477\nexecs_per_sec  : 466.91\npaths_total    : 506\npaths_favored  : 162\npaths_found    : 505\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 349\npending_favs   : 80\npending_total  : 399\nvariable_paths : 0\nbitmap_cvg     : 1.48%\nunique_crashes : 613\nunique_hangs   : 1\nlast_path      : 1499945562\nlast_crash     : 1499945573\nlast_hang      : 1499940225\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Network_Queuing_Simulator/input -o /dev/shm/work/Network_Queuing_Simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Network_Queuing_Simulator/Network_Queuing_Simulator.dict -- data/linux/processed-challenges/Network_Queuing_Simulator/bin/Network_Queuing_Simulator\n'
+p117
+I0
+tp118
+a(I7080
+S'start_time     : 1499938775\nlast_update    : 1499945808\nfuzzer_pid     : 11294\ncycles_done    : 0\nexecs_done     : 5290972\nexecs_per_sec  : 511.93\npaths_total    : 506\npaths_favored  : 162\npaths_found    : 505\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 365\npending_favs   : 78\npending_total  : 397\nvariable_paths : 0\nbitmap_cvg     : 1.48%\nunique_crashes : 615\nunique_hangs   : 1\nlast_path      : 1499945562\nlast_crash     : 1499945783\nlast_hang      : 1499940225\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Network_Queuing_Simulator/input -o /dev/shm/work/Network_Queuing_Simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Network_Queuing_Simulator/Network_Queuing_Simulator.dict -- data/linux/processed-challenges/Network_Queuing_Simulator/bin/Network_Queuing_Simulator\n'
+p119
+I1
+tp120
+a(I7200
+S'start_time     : 1499938775\nlast_update    : 1499945928\nfuzzer_pid     : 11294\ncycles_done    : 0\nexecs_done     : 5355475\nexecs_per_sec  : 474.22\npaths_total    : 509\npaths_favored  : 162\npaths_found    : 508\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 370\npending_favs   : 77\npending_total  : 399\nvariable_paths : 0\nbitmap_cvg     : 1.50%\nunique_crashes : 617\nunique_hangs   : 1\nlast_path      : 1499945884\nlast_crash     : 1499945913\nlast_hang      : 1499940225\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Network_Queuing_Simulator/input -o /dev/shm/work/Network_Queuing_Simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Network_Queuing_Simulator/Network_Queuing_Simulator.dict -- data/linux/processed-challenges/Network_Queuing_Simulator/bin/Network_Queuing_Simulator\n'
+p121
+I4
+tp122
+a(I7320
+S'start_time     : 1499938775\nlast_update    : 1499946048\nfuzzer_pid     : 11294\ncycles_done    : 0\nexecs_done     : 5429340\nexecs_per_sec  : 637.20\npaths_total    : 514\npaths_favored  : 162\npaths_found    : 513\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 370\npending_favs   : 77\npending_total  : 404\nvariable_paths : 0\nbitmap_cvg     : 1.52%\nunique_crashes : 620\nunique_hangs   : 1\nlast_path      : 1499946030\nlast_crash     : 1499946037\nlast_hang      : 1499940225\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Network_Queuing_Simulator/input -o /dev/shm/work/Network_Queuing_Simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Network_Queuing_Simulator/Network_Queuing_Simulator.dict -- data/linux/processed-challenges/Network_Queuing_Simulator/bin/Network_Queuing_Simulator\n'
+p123
+I4
+tp124
+a(I7440
+S'start_time     : 1499938775\nlast_update    : 1499946168\nfuzzer_pid     : 11294\ncycles_done    : 0\nexecs_done     : 5504650\nexecs_per_sec  : 632.93\npaths_total    : 515\npaths_favored  : 162\npaths_found    : 514\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 370\npending_favs   : 77\npending_total  : 405\nvariable_paths : 0\nbitmap_cvg     : 1.52%\nunique_crashes : 621\nunique_hangs   : 1\nlast_path      : 1499946096\nlast_crash     : 1499946056\nlast_hang      : 1499940225\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Network_Queuing_Simulator/input -o /dev/shm/work/Network_Queuing_Simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Network_Queuing_Simulator/Network_Queuing_Simulator.dict -- data/linux/processed-challenges/Network_Queuing_Simulator/bin/Network_Queuing_Simulator\n'
+p125
+I2
+tp126
+a(I7560
+S'start_time     : 1499938775\nlast_update    : 1499946289\nfuzzer_pid     : 11294\ncycles_done    : 0\nexecs_done     : 5556679\nexecs_per_sec  : 352.36\npaths_total    : 519\npaths_favored  : 165\npaths_found    : 518\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 371\npending_favs   : 81\npending_total  : 408\nvariable_paths : 0\nbitmap_cvg     : 1.53%\nunique_crashes : 622\nunique_hangs   : 1\nlast_path      : 1499946287\nlast_crash     : 1499946254\nlast_hang      : 1499940225\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Network_Queuing_Simulator/input -o /dev/shm/work/Network_Queuing_Simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Network_Queuing_Simulator/Network_Queuing_Simulator.dict -- data/linux/processed-challenges/Network_Queuing_Simulator/bin/Network_Queuing_Simulator\n'
+p127
+I20
+tp128
+a(I7680
+S'start_time     : 1499938775\nlast_update    : 1499946409\nfuzzer_pid     : 11294\ncycles_done    : 0\nexecs_done     : 5620255\nexecs_per_sec  : 555.35\npaths_total    : 541\npaths_favored  : 165\npaths_found    : 540\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 371\npending_favs   : 81\npending_total  : 430\nvariable_paths : 0\nbitmap_cvg     : 1.54%\nunique_crashes : 629\nunique_hangs   : 1\nlast_path      : 1499946373\nlast_crash     : 1499946401\nlast_hang      : 1499940225\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Network_Queuing_Simulator/input -o /dev/shm/work/Network_Queuing_Simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Network_Queuing_Simulator/Network_Queuing_Simulator.dict -- data/linux/processed-challenges/Network_Queuing_Simulator/bin/Network_Queuing_Simulator\n'
+p129
+I7
+tp130
+a(I7800
+S'start_time     : 1499938775\nlast_update    : 1499946529\nfuzzer_pid     : 11294\ncycles_done    : 0\nexecs_done     : 5671360\nexecs_per_sec  : 349.82\npaths_total    : 545\npaths_favored  : 171\npaths_found    : 544\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 373\npending_favs   : 88\npending_total  : 433\nvariable_paths : 0\nbitmap_cvg     : 1.54%\nunique_crashes : 629\nunique_hangs   : 1\nlast_path      : 1499946471\nlast_crash     : 1499946401\nlast_hang      : 1499940225\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Network_Queuing_Simulator/input -o /dev/shm/work/Network_Queuing_Simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Network_Queuing_Simulator/Network_Queuing_Simulator.dict -- data/linux/processed-challenges/Network_Queuing_Simulator/bin/Network_Queuing_Simulator\n'
+p131
+I1
+tp132
+a(I7920
+S'start_time     : 1499938775\nlast_update    : 1499946649\nfuzzer_pid     : 11294\ncycles_done    : 0\nexecs_done     : 5712537\nexecs_per_sec  : 316.36\npaths_total    : 545\npaths_favored  : 171\npaths_found    : 544\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 373\npending_favs   : 88\npending_total  : 433\nvariable_paths : 0\nbitmap_cvg     : 1.54%\nunique_crashes : 629\nunique_hangs   : 1\nlast_path      : 1499946471\nlast_crash     : 1499946401\nlast_hang      : 1499940225\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Network_Queuing_Simulator/input -o /dev/shm/work/Network_Queuing_Simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Network_Queuing_Simulator/Network_Queuing_Simulator.dict -- data/linux/processed-challenges/Network_Queuing_Simulator/bin/Network_Queuing_Simulator\n'
+p133
+I1
+tp134
+a(I8040
+S'start_time     : 1499938775\nlast_update    : 1499946769\nfuzzer_pid     : 11294\ncycles_done    : 0\nexecs_done     : 5762537\nexecs_per_sec  : 438.11\npaths_total    : 549\npaths_favored  : 171\npaths_found    : 548\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 373\npending_favs   : 88\npending_total  : 437\nvariable_paths : 0\nbitmap_cvg     : 1.54%\nunique_crashes : 634\nunique_hangs   : 1\nlast_path      : 1499946742\nlast_crash     : 1499946762\nlast_hang      : 1499940225\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Network_Queuing_Simulator/input -o /dev/shm/work/Network_Queuing_Simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Network_Queuing_Simulator/Network_Queuing_Simulator.dict -- data/linux/processed-challenges/Network_Queuing_Simulator/bin/Network_Queuing_Simulator\n'
+p135
+I5
+tp136
+a(I8160
+S'start_time     : 1499938775\nlast_update    : 1499946890\nfuzzer_pid     : 11294\ncycles_done    : 0\nexecs_done     : 5814692\nexecs_per_sec  : 383.58\npaths_total    : 551\npaths_favored  : 172\npaths_found    : 550\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 374\npending_favs   : 89\npending_total  : 438\nvariable_paths : 0\nbitmap_cvg     : 1.54%\nunique_crashes : 642\nunique_hangs   : 1\nlast_path      : 1499946808\nlast_crash     : 1499946877\nlast_hang      : 1499940225\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Network_Queuing_Simulator/input -o /dev/shm/work/Network_Queuing_Simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Network_Queuing_Simulator/Network_Queuing_Simulator.dict -- data/linux/processed-challenges/Network_Queuing_Simulator/bin/Network_Queuing_Simulator\n'
+p137
+I0
+tp138
+a(I8280
+S'start_time     : 1499938775\nlast_update    : 1499947010\nfuzzer_pid     : 11294\ncycles_done    : 0\nexecs_done     : 5867146\nexecs_per_sec  : 420.88\npaths_total    : 552\npaths_favored  : 172\npaths_found    : 551\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 376\npending_favs   : 88\npending_total  : 438\nvariable_paths : 0\nbitmap_cvg     : 1.54%\nunique_crashes : 643\nunique_hangs   : 1\nlast_path      : 1499946968\nlast_crash     : 1499946911\nlast_hang      : 1499940225\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Network_Queuing_Simulator/input -o /dev/shm/work/Network_Queuing_Simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Network_Queuing_Simulator/Network_Queuing_Simulator.dict -- data/linux/processed-challenges/Network_Queuing_Simulator/bin/Network_Queuing_Simulator\n'
+p139
+I1
+tp140
+a(I8400
+S'start_time     : 1499938775\nlast_update    : 1499947130\nfuzzer_pid     : 11294\ncycles_done    : 0\nexecs_done     : 5922848\nexecs_per_sec  : 418.18\npaths_total    : 552\npaths_favored  : 172\npaths_found    : 551\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 377\npending_favs   : 87\npending_total  : 437\nvariable_paths : 0\nbitmap_cvg     : 1.54%\nunique_crashes : 645\nunique_hangs   : 1\nlast_path      : 1499946968\nlast_crash     : 1499947099\nlast_hang      : 1499940225\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Network_Queuing_Simulator/input -o /dev/shm/work/Network_Queuing_Simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Network_Queuing_Simulator/Network_Queuing_Simulator.dict -- data/linux/processed-challenges/Network_Queuing_Simulator/bin/Network_Queuing_Simulator\n'
+p141
+I0
+tp142
+a(I8520
+S'start_time     : 1499938775\nlast_update    : 1499947250\nfuzzer_pid     : 11294\ncycles_done    : 0\nexecs_done     : 5977672\nexecs_per_sec  : 543.66\npaths_total    : 553\npaths_favored  : 172\npaths_found    : 552\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 377\npending_favs   : 87\npending_total  : 438\nvariable_paths : 0\nbitmap_cvg     : 1.54%\nunique_crashes : 647\nunique_hangs   : 1\nlast_path      : 1499947210\nlast_crash     : 1499947240\nlast_hang      : 1499940225\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Network_Queuing_Simulator/input -o /dev/shm/work/Network_Queuing_Simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Network_Queuing_Simulator/Network_Queuing_Simulator.dict -- data/linux/processed-challenges/Network_Queuing_Simulator/bin/Network_Queuing_Simulator\n'
+p143
+I1
+tp144
+a(I8640
+S'start_time     : 1499938775\nlast_update    : 1499947371\nfuzzer_pid     : 11294\ncycles_done    : 0\nexecs_done     : 6034074\nexecs_per_sec  : 328.44\npaths_total    : 553\npaths_favored  : 173\npaths_found    : 552\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 383\npending_favs   : 86\npending_total  : 436\nvariable_paths : 0\nbitmap_cvg     : 1.54%\nunique_crashes : 649\nunique_hangs   : 1\nlast_path      : 1499947210\nlast_crash     : 1499947325\nlast_hang      : 1499940225\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Network_Queuing_Simulator/input -o /dev/shm/work/Network_Queuing_Simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Network_Queuing_Simulator/Network_Queuing_Simulator.dict -- data/linux/processed-challenges/Network_Queuing_Simulator/bin/Network_Queuing_Simulator\n'
+p145
+I0
+tp146
+a(I8760
+S'start_time     : 1499938775\nlast_update    : 1499947491\nfuzzer_pid     : 11294\ncycles_done    : 0\nexecs_done     : 6074603\nexecs_per_sec  : 313.94\npaths_total    : 554\npaths_favored  : 173\npaths_found    : 553\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 383\npending_favs   : 86\npending_total  : 437\nvariable_paths : 0\nbitmap_cvg     : 1.54%\nunique_crashes : 650\nunique_hangs   : 1\nlast_path      : 1499947470\nlast_crash     : 1499947458\nlast_hang      : 1499940225\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Network_Queuing_Simulator/input -o /dev/shm/work/Network_Queuing_Simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Network_Queuing_Simulator/Network_Queuing_Simulator.dict -- data/linux/processed-challenges/Network_Queuing_Simulator/bin/Network_Queuing_Simulator\n'
+p147
+I1
+tp148
+a(I8880
+S'start_time     : 1499938775\nlast_update    : 1499947611\nfuzzer_pid     : 11294\ncycles_done    : 0\nexecs_done     : 6122395\nexecs_per_sec  : 493.37\npaths_total    : 554\npaths_favored  : 173\npaths_found    : 553\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 389\npending_favs   : 85\npending_total  : 436\nvariable_paths : 0\nbitmap_cvg     : 1.54%\nunique_crashes : 653\nunique_hangs   : 1\nlast_path      : 1499947470\nlast_crash     : 1499947607\nlast_hang      : 1499940225\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Network_Queuing_Simulator/input -o /dev/shm/work/Network_Queuing_Simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Network_Queuing_Simulator/Network_Queuing_Simulator.dict -- data/linux/processed-challenges/Network_Queuing_Simulator/bin/Network_Queuing_Simulator\n'
+p149
+I0
+tp150
+a(I9000
+S'start_time     : 1499938775\nlast_update    : 1499947731\nfuzzer_pid     : 11294\ncycles_done    : 0\nexecs_done     : 6175939\nexecs_per_sec  : 391.16\npaths_total    : 554\npaths_favored  : 173\npaths_found    : 553\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 390\npending_favs   : 84\npending_total  : 435\nvariable_paths : 0\nbitmap_cvg     : 1.54%\nunique_crashes : 654\nunique_hangs   : 1\nlast_path      : 1499947470\nlast_crash     : 1499947703\nlast_hang      : 1499940225\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Network_Queuing_Simulator/input -o /dev/shm/work/Network_Queuing_Simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Network_Queuing_Simulator/Network_Queuing_Simulator.dict -- data/linux/processed-challenges/Network_Queuing_Simulator/bin/Network_Queuing_Simulator\n'
+p151
+I1
+tp152
+a(I9120
+S'start_time     : 1499938775\nlast_update    : 1499947852\nfuzzer_pid     : 11294\ncycles_done    : 0\nexecs_done     : 6225918\nexecs_per_sec  : 372.05\npaths_total    : 555\npaths_favored  : 173\npaths_found    : 554\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 392\npending_favs   : 83\npending_total  : 435\nvariable_paths : 0\nbitmap_cvg     : 1.54%\nunique_crashes : 657\nunique_hangs   : 1\nlast_path      : 1499947769\nlast_crash     : 1499947804\nlast_hang      : 1499940225\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Network_Queuing_Simulator/input -o /dev/shm/work/Network_Queuing_Simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Network_Queuing_Simulator/Network_Queuing_Simulator.dict -- data/linux/processed-challenges/Network_Queuing_Simulator/bin/Network_Queuing_Simulator\n'
+p153
+I0
+tp154
+a(I9240
+S'start_time     : 1499938775\nlast_update    : 1499947972\nfuzzer_pid     : 11294\ncycles_done    : 0\nexecs_done     : 6279697\nexecs_per_sec  : 578.50\npaths_total    : 555\npaths_favored  : 173\npaths_found    : 554\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 396\npending_favs   : 82\npending_total  : 434\nvariable_paths : 0\nbitmap_cvg     : 1.54%\nunique_crashes : 658\nunique_hangs   : 1\nlast_path      : 1499947769\nlast_crash     : 1499947942\nlast_hang      : 1499940225\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Network_Queuing_Simulator/input -o /dev/shm/work/Network_Queuing_Simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Network_Queuing_Simulator/Network_Queuing_Simulator.dict -- data/linux/processed-challenges/Network_Queuing_Simulator/bin/Network_Queuing_Simulator\n'
+p155
+I1
+tp156
+a(I9360
+S'start_time     : 1499938775\nlast_update    : 1499948092\nfuzzer_pid     : 11294\ncycles_done    : 0\nexecs_done     : 6348076\nexecs_per_sec  : 477.60\npaths_total    : 556\npaths_favored  : 173\npaths_found    : 555\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 401\npending_favs   : 80\npending_total  : 433\nvariable_paths : 0\nbitmap_cvg     : 1.54%\nunique_crashes : 658\nunique_hangs   : 1\nlast_path      : 1499947975\nlast_crash     : 1499947942\nlast_hang      : 1499940225\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Network_Queuing_Simulator/input -o /dev/shm/work/Network_Queuing_Simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Network_Queuing_Simulator/Network_Queuing_Simulator.dict -- data/linux/processed-challenges/Network_Queuing_Simulator/bin/Network_Queuing_Simulator\n'
+p157
+I0
+tp158
+a(I9480
+S'start_time     : 1499938775\nlast_update    : 1499948212\nfuzzer_pid     : 11294\ncycles_done    : 0\nexecs_done     : 6409508\nexecs_per_sec  : 506.64\npaths_total    : 556\npaths_favored  : 173\npaths_found    : 555\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 403\npending_favs   : 79\npending_total  : 432\nvariable_paths : 0\nbitmap_cvg     : 1.54%\nunique_crashes : 659\nunique_hangs   : 1\nlast_path      : 1499947975\nlast_crash     : 1499948127\nlast_hang      : 1499940225\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Network_Queuing_Simulator/input -o /dev/shm/work/Network_Queuing_Simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Network_Queuing_Simulator/Network_Queuing_Simulator.dict -- data/linux/processed-challenges/Network_Queuing_Simulator/bin/Network_Queuing_Simulator\n'
+p159
+I0
+tp160
+a(I9600
+S'start_time     : 1499938775\nlast_update    : 1499948332\nfuzzer_pid     : 11294\ncycles_done    : 0\nexecs_done     : 6478138\nexecs_per_sec  : 786.49\npaths_total    : 556\npaths_favored  : 173\npaths_found    : 555\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 406\npending_favs   : 78\npending_total  : 431\nvariable_paths : 0\nbitmap_cvg     : 1.54%\nunique_crashes : 663\nunique_hangs   : 1\nlast_path      : 1499947975\nlast_crash     : 1499948326\nlast_hang      : 1499940225\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Network_Queuing_Simulator/input -o /dev/shm/work/Network_Queuing_Simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Network_Queuing_Simulator/Network_Queuing_Simulator.dict -- data/linux/processed-challenges/Network_Queuing_Simulator/bin/Network_Queuing_Simulator\n'
+p161
+I1
+tp162
+a(I9720
+S'start_time     : 1499938775\nlast_update    : 1499948453\nfuzzer_pid     : 11294\ncycles_done    : 0\nexecs_done     : 6570243\nexecs_per_sec  : 561.84\npaths_total    : 561\npaths_favored  : 178\npaths_found    : 560\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 410\npending_favs   : 79\npending_total  : 432\nvariable_paths : 0\nbitmap_cvg     : 1.56%\nunique_crashes : 876\nunique_hangs   : 2\nlast_path      : 1499948419\nlast_crash     : 1499948449\nlast_hang      : 1499948385\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Network_Queuing_Simulator/input -o /dev/shm/work/Network_Queuing_Simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Network_Queuing_Simulator/Network_Queuing_Simulator.dict -- data/linux/processed-challenges/Network_Queuing_Simulator/bin/Network_Queuing_Simulator\n'
+p163
+I4
+tp164
+a(I9840
+S'start_time     : 1499938775\nlast_update    : 1499948573\nfuzzer_pid     : 11294\ncycles_done    : 0\nexecs_done     : 6620253\nexecs_per_sec  : 396.42\npaths_total    : 561\npaths_favored  : 178\npaths_found    : 560\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 410\npending_favs   : 79\npending_total  : 432\nvariable_paths : 0\nbitmap_cvg     : 1.56%\nunique_crashes : 876\nunique_hangs   : 2\nlast_path      : 1499948419\nlast_crash     : 1499948449\nlast_hang      : 1499948385\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Network_Queuing_Simulator/input -o /dev/shm/work/Network_Queuing_Simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Network_Queuing_Simulator/Network_Queuing_Simulator.dict -- data/linux/processed-challenges/Network_Queuing_Simulator/bin/Network_Queuing_Simulator\n'
+p165
+I0
+tp166
+a(I9960
+S'start_time     : 1499938775\nlast_update    : 1499948693\nfuzzer_pid     : 11294\ncycles_done    : 0\nexecs_done     : 6673261\nexecs_per_sec  : 416.03\npaths_total    : 561\npaths_favored  : 178\npaths_found    : 560\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 411\npending_favs   : 78\npending_total  : 431\nvariable_paths : 0\nbitmap_cvg     : 1.56%\nunique_crashes : 877\nunique_hangs   : 2\nlast_path      : 1499948419\nlast_crash     : 1499948651\nlast_hang      : 1499948385\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Network_Queuing_Simulator/input -o /dev/shm/work/Network_Queuing_Simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Network_Queuing_Simulator/Network_Queuing_Simulator.dict -- data/linux/processed-challenges/Network_Queuing_Simulator/bin/Network_Queuing_Simulator\n'
+p167
+I0
+tp168
+a(I10080
+S'start_time     : 1499938775\nlast_update    : 1499948813\nfuzzer_pid     : 11294\ncycles_done    : 0\nexecs_done     : 6743507\nexecs_per_sec  : 627.71\npaths_total    : 561\npaths_favored  : 178\npaths_found    : 560\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 417\npending_favs   : 75\npending_total  : 428\nvariable_paths : 0\nbitmap_cvg     : 1.56%\nunique_crashes : 881\nunique_hangs   : 2\nlast_path      : 1499948419\nlast_crash     : 1499948801\nlast_hang      : 1499948385\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Network_Queuing_Simulator/input -o /dev/shm/work/Network_Queuing_Simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Network_Queuing_Simulator/Network_Queuing_Simulator.dict -- data/linux/processed-challenges/Network_Queuing_Simulator/bin/Network_Queuing_Simulator\n'
+p169
+I5
+tp170
+a(I10200
+S'start_time     : 1499938775\nlast_update    : 1499948933\nfuzzer_pid     : 11294\ncycles_done    : 0\nexecs_done     : 6824017\nexecs_per_sec  : 707.69\npaths_total    : 566\npaths_favored  : 181\npaths_found    : 565\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 420\npending_favs   : 76\npending_total  : 431\nvariable_paths : 0\nbitmap_cvg     : 1.56%\nunique_crashes : 883\nunique_hangs   : 2\nlast_path      : 1499948845\nlast_crash     : 1499948857\nlast_hang      : 1499948385\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Network_Queuing_Simulator/input -o /dev/shm/work/Network_Queuing_Simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Network_Queuing_Simulator/Network_Queuing_Simulator.dict -- data/linux/processed-challenges/Network_Queuing_Simulator/bin/Network_Queuing_Simulator\n'
+p171
+I0
+tp172
+a(I10320
+S'start_time     : 1499938775\nlast_update    : 1499949053\nfuzzer_pid     : 11294\ncycles_done    : 0\nexecs_done     : 6906258\nexecs_per_sec  : 721.22\npaths_total    : 569\npaths_favored  : 181\npaths_found    : 568\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 422\npending_favs   : 74\npending_total  : 432\nvariable_paths : 0\nbitmap_cvg     : 1.57%\nunique_crashes : 887\nunique_hangs   : 2\nlast_path      : 1499949038\nlast_crash     : 1499949033\nlast_hang      : 1499948385\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Network_Queuing_Simulator/input -o /dev/shm/work/Network_Queuing_Simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Network_Queuing_Simulator/Network_Queuing_Simulator.dict -- data/linux/processed-challenges/Network_Queuing_Simulator/bin/Network_Queuing_Simulator\n'
+p173
+I3
+tp174
+a(I10440
+S'start_time     : 1499938775\nlast_update    : 1499949174\nfuzzer_pid     : 11294\ncycles_done    : 0\nexecs_done     : 6987536\nexecs_per_sec  : 734.84\npaths_total    : 570\npaths_favored  : 182\npaths_found    : 569\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 425\npending_favs   : 74\npending_total  : 430\nvariable_paths : 0\nbitmap_cvg     : 1.57%\nunique_crashes : 890\nunique_hangs   : 2\nlast_path      : 1499949142\nlast_crash     : 1499949171\nlast_hang      : 1499948385\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Network_Queuing_Simulator/input -o /dev/shm/work/Network_Queuing_Simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Network_Queuing_Simulator/Network_Queuing_Simulator.dict -- data/linux/processed-challenges/Network_Queuing_Simulator/bin/Network_Queuing_Simulator\n'
+p175
+I2
+tp176
+a(I10560
+S'start_time     : 1499938775\nlast_update    : 1499949294\nfuzzer_pid     : 11294\ncycles_done    : 0\nexecs_done     : 7066180\nexecs_per_sec  : 721.95\npaths_total    : 572\npaths_favored  : 183\npaths_found    : 571\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 429\npending_favs   : 72\npending_total  : 429\nvariable_paths : 0\nbitmap_cvg     : 1.57%\nunique_crashes : 894\nunique_hangs   : 2\nlast_path      : 1499949250\nlast_crash     : 1499949279\nlast_hang      : 1499948385\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Network_Queuing_Simulator/input -o /dev/shm/work/Network_Queuing_Simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Network_Queuing_Simulator/Network_Queuing_Simulator.dict -- data/linux/processed-challenges/Network_Queuing_Simulator/bin/Network_Queuing_Simulator\n'
+p177
+I1
+tp178
+a(I10680
+S'start_time     : 1499938775\nlast_update    : 1499949414\nfuzzer_pid     : 11294\ncycles_done    : 0\nexecs_done     : 7146353\nexecs_per_sec  : 511.34\npaths_total    : 573\npaths_favored  : 182\npaths_found    : 572\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 434\npending_favs   : 68\npending_total  : 426\nvariable_paths : 0\nbitmap_cvg     : 1.57%\nunique_crashes : 898\nunique_hangs   : 2\nlast_path      : 1499949410\nlast_crash     : 1499949369\nlast_hang      : 1499948385\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Network_Queuing_Simulator/input -o /dev/shm/work/Network_Queuing_Simulator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Network_Queuing_Simulator/Network_Queuing_Simulator.dict -- data/linux/processed-challenges/Network_Queuing_Simulator/bin/Network_Queuing_Simulator\n'
+p179
+I1
+tp180
+a.

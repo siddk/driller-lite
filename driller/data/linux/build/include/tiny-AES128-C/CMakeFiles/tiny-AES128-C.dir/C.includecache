@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/vagrant/driller/data/linux/include/tiny-AES128-C/aes.c
+stdint.h
+-
+string.h
+-
+aes.h
+/vagrant/driller/data/linux/include/tiny-AES128-C/aes.h
+
+/vagrant/driller/data/linux/include/tiny-AES128-C/aes.h
+stdint.h
+-
+

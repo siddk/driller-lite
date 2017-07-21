@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/libcgc.h
+
+../processed-challenges/SIGSEGV/include/stdint.h
+
+../processed-challenges/SIGSEGV/lib/libc.h
+libcgc.h
+-
+stdint.h
+-
+
+/vagrant/driller/data/linux/processed-challenges/SIGSEGV/lib/libc.c
+libcgc.h
+-
+libc.h
+/vagrant/driller/data/linux/processed-challenges/SIGSEGV/lib/libc.h
+
+/vagrant/driller/data/linux/processed-challenges/SIGSEGV/lib/libc.h
+libcgc.h
+-
+stdint.h
+-
+
+/vagrant/driller/data/linux/processed-challenges/SIGSEGV/src/service.c
+libcgc.h
+-
+libc.h
+/vagrant/driller/data/linux/processed-challenges/SIGSEGV/src/libc.h
+service.h
+/vagrant/driller/data/linux/processed-challenges/SIGSEGV/src/service.h
+trusted.h
+/vagrant/driller/data/linux/processed-challenges/SIGSEGV/src/trusted.h
+
+/vagrant/driller/data/linux/processed-challenges/SIGSEGV/src/service.h
+
+/vagrant/driller/data/linux/processed-challenges/SIGSEGV/src/trusted.h
+

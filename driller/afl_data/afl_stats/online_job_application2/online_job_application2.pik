@@ -1,0 +1,452 @@
+(lp0
+(I0
+S'start_time     : 1500014502\nlast_update    : 1500014502\nfuzzer_pid     : 15584\ncycles_done    : 0\nexecs_done     : 10\nexecs_per_sec  : 158.73\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 1\npending_total  : 1\nvariable_paths : 0\nbitmap_cvg     : 0.15%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/online_job_application2/input -o /dev/shm/work/online_job_application2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/online_job_application2/online_job_application2.dict -- data/linux/processed-challenges/online_job_application2/bin/online_job_application2\n'
+p1
+I22
+tp2
+a(I120
+S'start_time     : 1500014502\nlast_update    : 1500014622\nfuzzer_pid     : 15584\ncycles_done    : 0\nexecs_done     : 71128\nexecs_per_sec  : 585.58\npaths_total    : 34\npaths_favored  : 1\npaths_found    : 33\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 1\npending_total  : 34\nvariable_paths : 0\nbitmap_cvg     : 0.40%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500014597\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/online_job_application2/input -o /dev/shm/work/online_job_application2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/online_job_application2/online_job_application2.dict -- data/linux/processed-challenges/online_job_application2/bin/online_job_application2\n'
+p3
+I12
+tp4
+a(I240
+S'start_time     : 1500014502\nlast_update    : 1500014742\nfuzzer_pid     : 15584\ncycles_done    : 0\nexecs_done     : 142032\nexecs_per_sec  : 598.39\npaths_total    : 36\npaths_favored  : 1\npaths_found    : 35\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 1\npending_total  : 36\nvariable_paths : 0\nbitmap_cvg     : 0.40%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500014688\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/online_job_application2/input -o /dev/shm/work/online_job_application2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/online_job_application2/online_job_application2.dict -- data/linux/processed-challenges/online_job_application2/bin/online_job_application2\n'
+p5
+I2
+tp6
+a(I360
+S'start_time     : 1500014502\nlast_update    : 1500014863\nfuzzer_pid     : 15584\ncycles_done    : 0\nexecs_done     : 207794\nexecs_per_sec  : 532.18\npaths_total    : 78\npaths_favored  : 9\npaths_found    : 77\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 10\npending_favs   : 9\npending_total  : 77\nvariable_paths : 0\nbitmap_cvg     : 0.64%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500014861\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/online_job_application2/input -o /dev/shm/work/online_job_application2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/online_job_application2/online_job_application2.dict -- data/linux/processed-challenges/online_job_application2/bin/online_job_application2\n'
+p7
+I42
+tp8
+a(I480
+S'start_time     : 1500014502\nlast_update    : 1500014983\nfuzzer_pid     : 15584\ncycles_done    : 0\nexecs_done     : 272838\nexecs_per_sec  : 552.80\npaths_total    : 91\npaths_favored  : 9\npaths_found    : 90\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 10\npending_favs   : 9\npending_total  : 90\nvariable_paths : 0\nbitmap_cvg     : 0.65%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500014981\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/online_job_application2/input -o /dev/shm/work/online_job_application2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/online_job_application2/online_job_application2.dict -- data/linux/processed-challenges/online_job_application2/bin/online_job_application2\n'
+p9
+I13
+tp10
+a(I600
+S'start_time     : 1500014502\nlast_update    : 1500015103\nfuzzer_pid     : 15584\ncycles_done    : 0\nexecs_done     : 338448\nexecs_per_sec  : 546.85\npaths_total    : 101\npaths_favored  : 23\npaths_found    : 100\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 14\npending_favs   : 23\npending_total  : 99\nvariable_paths : 0\nbitmap_cvg     : 0.69%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500015102\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/online_job_application2/input -o /dev/shm/work/online_job_application2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/online_job_application2/online_job_application2.dict -- data/linux/processed-challenges/online_job_application2/bin/online_job_application2\n'
+p11
+I10
+tp12
+a(I720
+S'start_time     : 1500014502\nlast_update    : 1500015223\nfuzzer_pid     : 15584\ncycles_done    : 0\nexecs_done     : 405278\nexecs_per_sec  : 548.26\npaths_total    : 105\npaths_favored  : 23\npaths_found    : 104\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 14\npending_favs   : 23\npending_total  : 103\nvariable_paths : 0\nbitmap_cvg     : 0.70%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500015211\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/online_job_application2/input -o /dev/shm/work/online_job_application2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/online_job_application2/online_job_application2.dict -- data/linux/processed-challenges/online_job_application2/bin/online_job_application2\n'
+p13
+I4
+tp14
+a(I840
+S'start_time     : 1500014502\nlast_update    : 1500015343\nfuzzer_pid     : 15584\ncycles_done    : 0\nexecs_done     : 471673\nexecs_per_sec  : 541.45\npaths_total    : 106\npaths_favored  : 27\npaths_found    : 105\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 27\npending_favs   : 27\npending_total  : 103\nvariable_paths : 0\nbitmap_cvg     : 0.70%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500015331\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/online_job_application2/input -o /dev/shm/work/online_job_application2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/online_job_application2/online_job_application2.dict -- data/linux/processed-challenges/online_job_application2/bin/online_job_application2\n'
+p15
+I1
+tp16
+a(I960
+S'start_time     : 1500014502\nlast_update    : 1500015463\nfuzzer_pid     : 15584\ncycles_done    : 0\nexecs_done     : 537309\nexecs_per_sec  : 534.14\npaths_total    : 110\npaths_favored  : 27\npaths_found    : 109\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 34\npending_favs   : 25\npending_total  : 105\nvariable_paths : 0\nbitmap_cvg     : 0.70%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500015391\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/online_job_application2/input -o /dev/shm/work/online_job_application2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/online_job_application2/online_job_application2.dict -- data/linux/processed-challenges/online_job_application2/bin/online_job_application2\n'
+p17
+I4
+tp18
+a(I1080
+S'start_time     : 1500014502\nlast_update    : 1500015583\nfuzzer_pid     : 15584\ncycles_done    : 0\nexecs_done     : 599694\nexecs_per_sec  : 530.57\npaths_total    : 114\npaths_favored  : 28\npaths_found    : 113\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 44\npending_favs   : 23\npending_total  : 106\nvariable_paths : 0\nbitmap_cvg     : 0.70%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500015568\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/online_job_application2/input -o /dev/shm/work/online_job_application2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/online_job_application2/online_job_application2.dict -- data/linux/processed-challenges/online_job_application2/bin/online_job_application2\n'
+p19
+I4
+tp20
+a(I1200
+S'start_time     : 1500014502\nlast_update    : 1500015703\nfuzzer_pid     : 15584\ncycles_done    : 0\nexecs_done     : 661808\nexecs_per_sec  : 481.87\npaths_total    : 116\npaths_favored  : 28\npaths_found    : 115\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 48\npending_favs   : 20\npending_total  : 105\nvariable_paths : 0\nbitmap_cvg     : 0.72%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500015687\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/online_job_application2/input -o /dev/shm/work/online_job_application2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/online_job_application2/online_job_application2.dict -- data/linux/processed-challenges/online_job_application2/bin/online_job_application2\n'
+p21
+I4
+tp22
+a(I1320
+S'start_time     : 1500014502\nlast_update    : 1500015824\nfuzzer_pid     : 15584\ncycles_done    : 0\nexecs_done     : 726670\nexecs_per_sec  : 544.82\npaths_total    : 122\npaths_favored  : 28\npaths_found    : 121\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 48\npending_favs   : 20\npending_total  : 111\nvariable_paths : 0\nbitmap_cvg     : 0.73%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500015808\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/online_job_application2/input -o /dev/shm/work/online_job_application2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/online_job_application2/online_job_application2.dict -- data/linux/processed-challenges/online_job_application2/bin/online_job_application2\n'
+p23
+I4
+tp24
+a(I1440
+S'start_time     : 1500014502\nlast_update    : 1500015944\nfuzzer_pid     : 15584\ncycles_done    : 0\nexecs_done     : 791440\nexecs_per_sec  : 539.81\npaths_total    : 122\npaths_favored  : 28\npaths_found    : 121\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 48\npending_favs   : 20\npending_total  : 111\nvariable_paths : 0\nbitmap_cvg     : 0.73%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500015808\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/online_job_application2/input -o /dev/shm/work/online_job_application2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/online_job_application2/online_job_application2.dict -- data/linux/processed-challenges/online_job_application2/bin/online_job_application2\n'
+p25
+I0
+tp26
+a(I1560
+S'start_time     : 1500014502\nlast_update    : 1500016064\nfuzzer_pid     : 15584\ncycles_done    : 0\nexecs_done     : 855602\nexecs_per_sec  : 497.30\npaths_total    : 126\npaths_favored  : 28\npaths_found    : 125\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 53\npending_favs   : 19\npending_total  : 113\nvariable_paths : 0\nbitmap_cvg     : 0.73%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500016057\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/online_job_application2/input -o /dev/shm/work/online_job_application2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/online_job_application2/online_job_application2.dict -- data/linux/processed-challenges/online_job_application2/bin/online_job_application2\n'
+p27
+I4
+tp28
+a(I1680
+S'start_time     : 1500014502\nlast_update    : 1500016184\nfuzzer_pid     : 15584\ncycles_done    : 0\nexecs_done     : 914443\nexecs_per_sec  : 535.38\npaths_total    : 130\npaths_favored  : 31\npaths_found    : 129\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 57\npending_favs   : 21\npending_total  : 115\nvariable_paths : 0\nbitmap_cvg     : 0.73%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500016128\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/online_job_application2/input -o /dev/shm/work/online_job_application2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/online_job_application2/online_job_application2.dict -- data/linux/processed-challenges/online_job_application2/bin/online_job_application2\n'
+p29
+I4
+tp30
+a(I1800
+S'start_time     : 1500014502\nlast_update    : 1500016304\nfuzzer_pid     : 15584\ncycles_done    : 0\nexecs_done     : 974307\nexecs_per_sec  : 487.75\npaths_total    : 131\npaths_favored  : 31\npaths_found    : 130\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 61\npending_favs   : 19\npending_total  : 114\nvariable_paths : 0\nbitmap_cvg     : 0.73%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500016213\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/online_job_application2/input -o /dev/shm/work/online_job_application2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/online_job_application2/online_job_application2.dict -- data/linux/processed-challenges/online_job_application2/bin/online_job_application2\n'
+p31
+I1
+tp32
+a(I1920
+S'start_time     : 1500014502\nlast_update    : 1500016425\nfuzzer_pid     : 15584\ncycles_done    : 0\nexecs_done     : 1035319\nexecs_per_sec  : 515.04\npaths_total    : 145\npaths_favored  : 31\npaths_found    : 144\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 91\npending_favs   : 18\npending_total  : 126\nvariable_paths : 0\nbitmap_cvg     : 0.78%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500016424\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/online_job_application2/input -o /dev/shm/work/online_job_application2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/online_job_application2/online_job_application2.dict -- data/linux/processed-challenges/online_job_application2/bin/online_job_application2\n'
+p33
+I14
+tp34
+a(I2040
+S'start_time     : 1500014502\nlast_update    : 1500016545\nfuzzer_pid     : 15584\ncycles_done    : 0\nexecs_done     : 1098339\nexecs_per_sec  : 529.89\npaths_total    : 152\npaths_favored  : 31\npaths_found    : 151\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 91\npending_favs   : 18\npending_total  : 133\nvariable_paths : 0\nbitmap_cvg     : 0.78%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500016506\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/online_job_application2/input -o /dev/shm/work/online_job_application2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/online_job_application2/online_job_application2.dict -- data/linux/processed-challenges/online_job_application2/bin/online_job_application2\n'
+p35
+I7
+tp36
+a(I2160
+S'start_time     : 1500014502\nlast_update    : 1500016665\nfuzzer_pid     : 15584\ncycles_done    : 0\nexecs_done     : 1161629\nexecs_per_sec  : 530.00\npaths_total    : 155\npaths_favored  : 31\npaths_found    : 154\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 91\npending_favs   : 18\npending_total  : 136\nvariable_paths : 0\nbitmap_cvg     : 0.79%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500016642\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/online_job_application2/input -o /dev/shm/work/online_job_application2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/online_job_application2/online_job_application2.dict -- data/linux/processed-challenges/online_job_application2/bin/online_job_application2\n'
+p37
+I3
+tp38
+a(I2280
+S'start_time     : 1500014502\nlast_update    : 1500016786\nfuzzer_pid     : 15584\ncycles_done    : 0\nexecs_done     : 1222750\nexecs_per_sec  : 494.51\npaths_total    : 155\npaths_favored  : 32\npaths_found    : 154\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 98\npending_favs   : 20\npending_total  : 134\nvariable_paths : 0\nbitmap_cvg     : 0.79%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500016642\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/online_job_application2/input -o /dev/shm/work/online_job_application2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/online_job_application2/online_job_application2.dict -- data/linux/processed-challenges/online_job_application2/bin/online_job_application2\n'
+p39
+I0
+tp40
+a(I2400
+S'start_time     : 1500014502\nlast_update    : 1500016906\nfuzzer_pid     : 15584\ncycles_done    : 0\nexecs_done     : 1284093\nexecs_per_sec  : 495.03\npaths_total    : 157\npaths_favored  : 32\npaths_found    : 156\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 110\npending_favs   : 17\npending_total  : 133\nvariable_paths : 0\nbitmap_cvg     : 0.79%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500016814\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/online_job_application2/input -o /dev/shm/work/online_job_application2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/online_job_application2/online_job_application2.dict -- data/linux/processed-challenges/online_job_application2/bin/online_job_application2\n'
+p41
+I2
+tp42
+a(I2520
+S'start_time     : 1500014502\nlast_update    : 1500017026\nfuzzer_pid     : 15584\ncycles_done    : 0\nexecs_done     : 1344948\nexecs_per_sec  : 473.51\npaths_total    : 157\npaths_favored  : 32\npaths_found    : 156\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 115\npending_favs   : 15\npending_total  : 131\nvariable_paths : 0\nbitmap_cvg     : 0.79%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500016814\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/online_job_application2/input -o /dev/shm/work/online_job_application2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/online_job_application2/online_job_application2.dict -- data/linux/processed-challenges/online_job_application2/bin/online_job_application2\n'
+p43
+I0
+tp44
+a(I2640
+S'start_time     : 1500014502\nlast_update    : 1500017146\nfuzzer_pid     : 15584\ncycles_done    : 0\nexecs_done     : 1405508\nexecs_per_sec  : 460.09\npaths_total    : 157\npaths_favored  : 31\npaths_found    : 156\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 124\npending_favs   : 13\npending_total  : 129\nvariable_paths : 0\nbitmap_cvg     : 0.79%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500016814\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/online_job_application2/input -o /dev/shm/work/online_job_application2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/online_job_application2/online_job_application2.dict -- data/linux/processed-challenges/online_job_application2/bin/online_job_application2\n'
+p45
+I0
+tp46
+a(I2760
+S'start_time     : 1500014502\nlast_update    : 1500017266\nfuzzer_pid     : 15584\ncycles_done    : 0\nexecs_done     : 1465316\nexecs_per_sec  : 529.10\npaths_total    : 157\npaths_favored  : 30\npaths_found    : 156\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 126\npending_favs   : 10\npending_total  : 127\nvariable_paths : 0\nbitmap_cvg     : 0.79%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500016814\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/online_job_application2/input -o /dev/shm/work/online_job_application2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/online_job_application2/online_job_application2.dict -- data/linux/processed-challenges/online_job_application2/bin/online_job_application2\n'
+p47
+I0
+tp48
+a(I2880
+S'start_time     : 1500014502\nlast_update    : 1500017387\nfuzzer_pid     : 15584\ncycles_done    : 0\nexecs_done     : 1528411\nexecs_per_sec  : 537.93\npaths_total    : 163\npaths_favored  : 30\npaths_found    : 162\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 127\npending_favs   : 9\npending_total  : 132\nvariable_paths : 0\nbitmap_cvg     : 0.79%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500017367\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/online_job_application2/input -o /dev/shm/work/online_job_application2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/online_job_application2/online_job_application2.dict -- data/linux/processed-challenges/online_job_application2/bin/online_job_application2\n'
+p49
+I6
+tp50
+a(I3000
+S'start_time     : 1500014502\nlast_update    : 1500017507\nfuzzer_pid     : 15584\ncycles_done    : 0\nexecs_done     : 1593631\nexecs_per_sec  : 537.53\npaths_total    : 163\npaths_favored  : 30\npaths_found    : 162\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 127\npending_favs   : 9\npending_total  : 132\nvariable_paths : 0\nbitmap_cvg     : 0.79%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500017367\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/online_job_application2/input -o /dev/shm/work/online_job_application2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/online_job_application2/online_job_application2.dict -- data/linux/processed-challenges/online_job_application2/bin/online_job_application2\n'
+p51
+I0
+tp52
+a(I3120
+S'start_time     : 1500014502\nlast_update    : 1500017627\nfuzzer_pid     : 15584\ncycles_done    : 0\nexecs_done     : 1655435\nexecs_per_sec  : 470.99\npaths_total    : 163\npaths_favored  : 30\npaths_found    : 162\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 128\npending_favs   : 8\npending_total  : 131\nvariable_paths : 0\nbitmap_cvg     : 0.79%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500017367\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/online_job_application2/input -o /dev/shm/work/online_job_application2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/online_job_application2/online_job_application2.dict -- data/linux/processed-challenges/online_job_application2/bin/online_job_application2\n'
+p53
+I0
+tp54
+a(I3240
+S'start_time     : 1500014502\nlast_update    : 1500017747\nfuzzer_pid     : 15584\ncycles_done    : 0\nexecs_done     : 1713502\nexecs_per_sec  : 406.33\npaths_total    : 177\npaths_favored  : 30\npaths_found    : 176\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 142\npending_favs   : 7\npending_total  : 144\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500017728\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/online_job_application2/input -o /dev/shm/work/online_job_application2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/online_job_application2/online_job_application2.dict -- data/linux/processed-challenges/online_job_application2/bin/online_job_application2\n'
+p55
+I14
+tp56
+a(I3360
+S'start_time     : 1500014502\nlast_update    : 1500017867\nfuzzer_pid     : 15584\ncycles_done    : 0\nexecs_done     : 1765600\nexecs_per_sec  : 484.29\npaths_total    : 187\npaths_favored  : 30\npaths_found    : 186\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 142\npending_favs   : 7\npending_total  : 154\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500017862\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/online_job_application2/input -o /dev/shm/work/online_job_application2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/online_job_application2/online_job_application2.dict -- data/linux/processed-challenges/online_job_application2/bin/online_job_application2\n'
+p57
+I10
+tp58
+a(I3480
+S'start_time     : 1500014502\nlast_update    : 1500017987\nfuzzer_pid     : 15584\ncycles_done    : 0\nexecs_done     : 1821851\nexecs_per_sec  : 462.77\npaths_total    : 188\npaths_favored  : 30\npaths_found    : 187\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 142\npending_favs   : 7\npending_total  : 155\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500017878\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/online_job_application2/input -o /dev/shm/work/online_job_application2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/online_job_application2/online_job_application2.dict -- data/linux/processed-challenges/online_job_application2/bin/online_job_application2\n'
+p59
+I1
+tp60
+a(I3600
+S'start_time     : 1500014502\nlast_update    : 1500018108\nfuzzer_pid     : 15584\ncycles_done    : 0\nexecs_done     : 1877817\nexecs_per_sec  : 451.43\npaths_total    : 188\npaths_favored  : 34\npaths_found    : 187\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 144\npending_favs   : 11\npending_total  : 154\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500017878\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/online_job_application2/input -o /dev/shm/work/online_job_application2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/online_job_application2/online_job_application2.dict -- data/linux/processed-challenges/online_job_application2/bin/online_job_application2\n'
+p61
+I0
+tp62
+a(I3720
+S'start_time     : 1500014502\nlast_update    : 1500018228\nfuzzer_pid     : 15584\ncycles_done    : 0\nexecs_done     : 1934739\nexecs_per_sec  : 512.81\npaths_total    : 188\npaths_favored  : 34\npaths_found    : 187\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 149\npending_favs   : 9\npending_total  : 152\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500017878\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/online_job_application2/input -o /dev/shm/work/online_job_application2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/online_job_application2/online_job_application2.dict -- data/linux/processed-challenges/online_job_application2/bin/online_job_application2\n'
+p63
+I0
+tp64
+a(I3840
+S'start_time     : 1500014502\nlast_update    : 1500018348\nfuzzer_pid     : 15584\ncycles_done    : 0\nexecs_done     : 1989964\nexecs_per_sec  : 485.06\npaths_total    : 188\npaths_favored  : 34\npaths_found    : 187\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 151\npending_favs   : 8\npending_total  : 151\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500017878\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/online_job_application2/input -o /dev/shm/work/online_job_application2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/online_job_application2/online_job_application2.dict -- data/linux/processed-challenges/online_job_application2/bin/online_job_application2\n'
+p65
+I0
+tp66
+a(I3960
+S'start_time     : 1500014502\nlast_update    : 1500018468\nfuzzer_pid     : 15584\ncycles_done    : 0\nexecs_done     : 2050699\nexecs_per_sec  : 403.75\npaths_total    : 192\npaths_favored  : 34\npaths_found    : 191\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 152\npending_favs   : 7\npending_total  : 154\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500018447\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/online_job_application2/input -o /dev/shm/work/online_job_application2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/online_job_application2/online_job_application2.dict -- data/linux/processed-challenges/online_job_application2/bin/online_job_application2\n'
+p67
+I4
+tp68
+a(I4080
+S'start_time     : 1500014502\nlast_update    : 1500018588\nfuzzer_pid     : 15584\ncycles_done    : 0\nexecs_done     : 2101684\nexecs_per_sec  : 478.31\npaths_total    : 195\npaths_favored  : 34\npaths_found    : 194\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 152\npending_favs   : 7\npending_total  : 157\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500018579\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/online_job_application2/input -o /dev/shm/work/online_job_application2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/online_job_application2/online_job_application2.dict -- data/linux/processed-challenges/online_job_application2/bin/online_job_application2\n'
+p69
+I3
+tp70
+a(I4200
+S'start_time     : 1500014502\nlast_update    : 1500018709\nfuzzer_pid     : 15584\ncycles_done    : 0\nexecs_done     : 2158450\nexecs_per_sec  : 465.48\npaths_total    : 198\npaths_favored  : 34\npaths_found    : 197\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 152\npending_favs   : 7\npending_total  : 160\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500018696\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/online_job_application2/input -o /dev/shm/work/online_job_application2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/online_job_application2/online_job_application2.dict -- data/linux/processed-challenges/online_job_application2/bin/online_job_application2\n'
+p71
+I3
+tp72
+a(I4320
+S'start_time     : 1500014502\nlast_update    : 1500018829\nfuzzer_pid     : 15584\ncycles_done    : 0\nexecs_done     : 2215144\nexecs_per_sec  : 478.80\npaths_total    : 201\npaths_favored  : 34\npaths_found    : 200\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 152\npending_favs   : 7\npending_total  : 163\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500018786\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/online_job_application2/input -o /dev/shm/work/online_job_application2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/online_job_application2/online_job_application2.dict -- data/linux/processed-challenges/online_job_application2/bin/online_job_application2\n'
+p73
+I3
+tp74
+a(I4440
+S'start_time     : 1500014502\nlast_update    : 1500018949\nfuzzer_pid     : 15584\ncycles_done    : 0\nexecs_done     : 2270448\nexecs_per_sec  : 453.18\npaths_total    : 202\npaths_favored  : 35\npaths_found    : 201\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 154\npending_favs   : 7\npending_total  : 163\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500018858\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/online_job_application2/input -o /dev/shm/work/online_job_application2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/online_job_application2/online_job_application2.dict -- data/linux/processed-challenges/online_job_application2/bin/online_job_application2\n'
+p75
+I1
+tp76
+a(I4560
+S'start_time     : 1500014502\nlast_update    : 1500019069\nfuzzer_pid     : 15584\ncycles_done    : 0\nexecs_done     : 2320718\nexecs_per_sec  : 399.31\npaths_total    : 203\npaths_favored  : 35\npaths_found    : 202\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 170\npending_favs   : 6\npending_total  : 163\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500018973\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/online_job_application2/input -o /dev/shm/work/online_job_application2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/online_job_application2/online_job_application2.dict -- data/linux/processed-challenges/online_job_application2/bin/online_job_application2\n'
+p77
+I1
+tp78
+a(I4680
+S'start_time     : 1500014502\nlast_update    : 1500019189\nfuzzer_pid     : 15584\ncycles_done    : 0\nexecs_done     : 2370547\nexecs_per_sec  : 397.79\npaths_total    : 203\npaths_favored  : 35\npaths_found    : 202\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 171\npending_favs   : 5\npending_total  : 162\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500018973\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/online_job_application2/input -o /dev/shm/work/online_job_application2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/online_job_application2/online_job_application2.dict -- data/linux/processed-challenges/online_job_application2/bin/online_job_application2\n'
+p79
+I0
+tp80
+a(I4800
+S'start_time     : 1500014502\nlast_update    : 1500019309\nfuzzer_pid     : 15584\ncycles_done    : 0\nexecs_done     : 2421043\nexecs_per_sec  : 417.98\npaths_total    : 204\npaths_favored  : 35\npaths_found    : 203\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 173\npending_favs   : 4\npending_total  : 162\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500019232\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/online_job_application2/input -o /dev/shm/work/online_job_application2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/online_job_application2/online_job_application2.dict -- data/linux/processed-challenges/online_job_application2/bin/online_job_application2\n'
+p81
+I1
+tp82
+a(I4920
+S'start_time     : 1500014502\nlast_update    : 1500019429\nfuzzer_pid     : 15584\ncycles_done    : 0\nexecs_done     : 2470718\nexecs_per_sec  : 412.36\npaths_total    : 204\npaths_favored  : 35\npaths_found    : 203\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 175\npending_favs   : 4\npending_total  : 161\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500019232\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/online_job_application2/input -o /dev/shm/work/online_job_application2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/online_job_application2/online_job_application2.dict -- data/linux/processed-challenges/online_job_application2/bin/online_job_application2\n'
+p83
+I0
+tp84
+a(I5040
+S'start_time     : 1500014502\nlast_update    : 1500019550\nfuzzer_pid     : 15584\ncycles_done    : 0\nexecs_done     : 2520683\nexecs_per_sec  : 381.50\npaths_total    : 204\npaths_favored  : 35\npaths_found    : 203\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 185\npending_favs   : 3\npending_total  : 160\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500019232\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/online_job_application2/input -o /dev/shm/work/online_job_application2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/online_job_application2/online_job_application2.dict -- data/linux/processed-challenges/online_job_application2/bin/online_job_application2\n'
+p85
+I0
+tp86
+a(I5160
+S'start_time     : 1500014502\nlast_update    : 1500019670\nfuzzer_pid     : 15584\ncycles_done    : 0\nexecs_done     : 2565883\nexecs_per_sec  : 364.64\npaths_total    : 204\npaths_favored  : 35\npaths_found    : 203\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 185\npending_favs   : 3\npending_total  : 160\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500019232\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/online_job_application2/input -o /dev/shm/work/online_job_application2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/online_job_application2/online_job_application2.dict -- data/linux/processed-challenges/online_job_application2/bin/online_job_application2\n'
+p87
+I0
+tp88
+a(I5280
+S'start_time     : 1500014502\nlast_update    : 1500019790\nfuzzer_pid     : 15584\ncycles_done    : 0\nexecs_done     : 2616377\nexecs_per_sec  : 445.02\npaths_total    : 206\npaths_favored  : 35\npaths_found    : 205\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 185\npending_favs   : 3\npending_total  : 162\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500019723\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/online_job_application2/input -o /dev/shm/work/online_job_application2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/online_job_application2/online_job_application2.dict -- data/linux/processed-challenges/online_job_application2/bin/online_job_application2\n'
+p89
+I2
+tp90
+a(I5400
+S'start_time     : 1500014502\nlast_update    : 1500019910\nfuzzer_pid     : 15584\ncycles_done    : 0\nexecs_done     : 2666285\nexecs_per_sec  : 481.13\npaths_total    : 206\npaths_favored  : 35\npaths_found    : 205\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 191\npending_favs   : 2\npending_total  : 161\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500019723\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/online_job_application2/input -o /dev/shm/work/online_job_application2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/online_job_application2/online_job_application2.dict -- data/linux/processed-challenges/online_job_application2/bin/online_job_application2\n'
+p91
+I0
+tp92
+a(I5520
+S'start_time     : 1500014502\nlast_update    : 1500020031\nfuzzer_pid     : 15584\ncycles_done    : 0\nexecs_done     : 2715576\nexecs_per_sec  : 407.10\npaths_total    : 206\npaths_favored  : 35\npaths_found    : 205\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 202\npending_favs   : 1\npending_total  : 160\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500019723\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/online_job_application2/input -o /dev/shm/work/online_job_application2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/online_job_application2/online_job_application2.dict -- data/linux/processed-challenges/online_job_application2/bin/online_job_application2\n'
+p93
+I0
+tp94
+a(I5640
+S'start_time     : 1500014502\nlast_update    : 1500020151\nfuzzer_pid     : 15584\ncycles_done    : 1\nexecs_done     : 2778484\nexecs_per_sec  : 464.42\npaths_total    : 206\npaths_favored  : 35\npaths_found    : 205\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 22\npending_favs   : 0\npending_total  : 155\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500019723\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/online_job_application2/input -o /dev/shm/work/online_job_application2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/online_job_application2/online_job_application2.dict -- data/linux/processed-challenges/online_job_application2/bin/online_job_application2\n'
+p95
+I0
+tp96
+a(I5760
+S'start_time     : 1500014502\nlast_update    : 1500020271\nfuzzer_pid     : 15584\ncycles_done    : 1\nexecs_done     : 2839553\nexecs_per_sec  : 548.61\npaths_total    : 206\npaths_favored  : 35\npaths_found    : 205\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 31\npending_favs   : 0\npending_total  : 152\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500019723\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/online_job_application2/input -o /dev/shm/work/online_job_application2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/online_job_application2/online_job_application2.dict -- data/linux/processed-challenges/online_job_application2/bin/online_job_application2\n'
+p97
+I0
+tp98
+a(I5880
+S'start_time     : 1500014502\nlast_update    : 1500020391\nfuzzer_pid     : 15584\ncycles_done    : 1\nexecs_done     : 2905405\nexecs_per_sec  : 508.11\npaths_total    : 206\npaths_favored  : 35\npaths_found    : 205\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 56\npending_favs   : 0\npending_total  : 150\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500019723\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/online_job_application2/input -o /dev/shm/work/online_job_application2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/online_job_application2/online_job_application2.dict -- data/linux/processed-challenges/online_job_application2/bin/online_job_application2\n'
+p99
+I0
+tp100
+a(I6000
+S'start_time     : 1500014502\nlast_update    : 1500020511\nfuzzer_pid     : 15584\ncycles_done    : 1\nexecs_done     : 2967717\nexecs_per_sec  : 493.40\npaths_total    : 206\npaths_favored  : 35\npaths_found    : 205\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 70\npending_favs   : 0\npending_total  : 148\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500019723\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/online_job_application2/input -o /dev/shm/work/online_job_application2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/online_job_application2/online_job_application2.dict -- data/linux/processed-challenges/online_job_application2/bin/online_job_application2\n'
+p101
+I0
+tp102
+a(I6120
+S'start_time     : 1500014502\nlast_update    : 1500020632\nfuzzer_pid     : 15584\ncycles_done    : 1\nexecs_done     : 3021109\nexecs_per_sec  : 478.58\npaths_total    : 206\npaths_favored  : 35\npaths_found    : 205\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 76\npending_favs   : 0\npending_total  : 147\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500019723\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/online_job_application2/input -o /dev/shm/work/online_job_application2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/online_job_application2/online_job_application2.dict -- data/linux/processed-challenges/online_job_application2/bin/online_job_application2\n'
+p103
+I0
+tp104
+a(I6240
+S'start_time     : 1500014502\nlast_update    : 1500020752\nfuzzer_pid     : 15584\ncycles_done    : 1\nexecs_done     : 3080900\nexecs_per_sec  : 485.33\npaths_total    : 210\npaths_favored  : 35\npaths_found    : 209\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 76\npending_favs   : 0\npending_total  : 151\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500020699\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/online_job_application2/input -o /dev/shm/work/online_job_application2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/online_job_application2/online_job_application2.dict -- data/linux/processed-challenges/online_job_application2/bin/online_job_application2\n'
+p105
+I4
+tp106
+a(I6360
+S'start_time     : 1500014502\nlast_update    : 1500020872\nfuzzer_pid     : 15584\ncycles_done    : 1\nexecs_done     : 3140514\nexecs_per_sec  : 559.43\npaths_total    : 211\npaths_favored  : 35\npaths_found    : 210\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 88\npending_favs   : 0\npending_total  : 150\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500020851\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/online_job_application2/input -o /dev/shm/work/online_job_application2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/online_job_application2/online_job_application2.dict -- data/linux/processed-challenges/online_job_application2/bin/online_job_application2\n'
+p107
+I1
+tp108
+a(I6480
+S'start_time     : 1500014502\nlast_update    : 1500020992\nfuzzer_pid     : 15584\ncycles_done    : 1\nexecs_done     : 3203952\nexecs_per_sec  : 488.63\npaths_total    : 211\npaths_favored  : 35\npaths_found    : 210\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 101\npending_favs   : 0\npending_total  : 148\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500020851\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/online_job_application2/input -o /dev/shm/work/online_job_application2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/online_job_application2/online_job_application2.dict -- data/linux/processed-challenges/online_job_application2/bin/online_job_application2\n'
+p109
+I0
+tp110
+a(I6600
+S'start_time     : 1500014502\nlast_update    : 1500021113\nfuzzer_pid     : 15584\ncycles_done    : 1\nexecs_done     : 3262338\nexecs_per_sec  : 513.12\npaths_total    : 212\npaths_favored  : 35\npaths_found    : 211\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 104\npending_favs   : 0\npending_total  : 147\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500021092\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/online_job_application2/input -o /dev/shm/work/online_job_application2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/online_job_application2/online_job_application2.dict -- data/linux/processed-challenges/online_job_application2/bin/online_job_application2\n'
+p111
+I1
+tp112
+a(I6720
+S'start_time     : 1500014502\nlast_update    : 1500021173\nfuzzer_pid     : 15584\ncycles_done    : 1\nexecs_done     : 3292163\nexecs_per_sec  : 396.01\npaths_total    : 212\npaths_favored  : 35\npaths_found    : 211\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 109\npending_favs   : 0\npending_total  : 146\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500021092\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/online_job_application2/input -o /dev/shm/work/online_job_application2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/online_job_application2/online_job_application2.dict -- data/linux/processed-challenges/online_job_application2/bin/online_job_application2\n'
+p113
+I0
+tp114
+a(I6840
+S'start_time     : 1500014502\nlast_update    : 1500021293\nfuzzer_pid     : 15584\ncycles_done    : 1\nexecs_done     : 3338255\nexecs_per_sec  : 382.27\npaths_total    : 212\npaths_favored  : 35\npaths_found    : 211\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 109\npending_favs   : 0\npending_total  : 146\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500021092\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/online_job_application2/input -o /dev/shm/work/online_job_application2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/online_job_application2/online_job_application2.dict -- data/linux/processed-challenges/online_job_application2/bin/online_job_application2\n'
+p115
+I0
+tp116
+a(I6960
+S'start_time     : 1500014502\nlast_update    : 1500021413\nfuzzer_pid     : 15584\ncycles_done    : 1\nexecs_done     : 3391367\nexecs_per_sec  : 548.68\npaths_total    : 213\npaths_favored  : 35\npaths_found    : 212\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 112\npending_favs   : 0\npending_total  : 146\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500021364\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/online_job_application2/input -o /dev/shm/work/online_job_application2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/online_job_application2/online_job_application2.dict -- data/linux/processed-challenges/online_job_application2/bin/online_job_application2\n'
+p117
+I2
+tp118
+a(I7080
+S'start_time     : 1500014502\nlast_update    : 1500021533\nfuzzer_pid     : 15584\ncycles_done    : 1\nexecs_done     : 3457633\nexecs_per_sec  : 546.71\npaths_total    : 215\npaths_favored  : 35\npaths_found    : 214\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 118\npending_favs   : 0\npending_total  : 147\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500021476\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/online_job_application2/input -o /dev/shm/work/online_job_application2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/online_job_application2/online_job_application2.dict -- data/linux/processed-challenges/online_job_application2/bin/online_job_application2\n'
+p119
+I3
+tp120
+a(I7200
+S'start_time     : 1500014502\nlast_update    : 1500021654\nfuzzer_pid     : 15584\ncycles_done    : 1\nexecs_done     : 3521979\nexecs_per_sec  : 538.51\npaths_total    : 217\npaths_favored  : 35\npaths_found    : 216\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 124\npending_favs   : 0\npending_total  : 148\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500021591\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/online_job_application2/input -o /dev/shm/work/online_job_application2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/online_job_application2/online_job_application2.dict -- data/linux/processed-challenges/online_job_application2/bin/online_job_application2\n'
+p121
+I1
+tp122
+a(I7320
+S'start_time     : 1500014502\nlast_update    : 1500021774\nfuzzer_pid     : 15584\ncycles_done    : 1\nexecs_done     : 3587969\nexecs_per_sec  : 530.84\npaths_total    : 219\npaths_favored  : 35\npaths_found    : 218\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 128\npending_favs   : 0\npending_total  : 150\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500021723\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/online_job_application2/input -o /dev/shm/work/online_job_application2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/online_job_application2/online_job_application2.dict -- data/linux/processed-challenges/online_job_application2/bin/online_job_application2\n'
+p123
+I1
+tp124
+a(I7440
+S'start_time     : 1500014502\nlast_update    : 1500021894\nfuzzer_pid     : 15584\ncycles_done    : 1\nexecs_done     : 3650196\nexecs_per_sec  : 527.49\npaths_total    : 221\npaths_favored  : 35\npaths_found    : 220\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 144\npending_favs   : 0\npending_total  : 151\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500021865\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/online_job_application2/input -o /dev/shm/work/online_job_application2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/online_job_application2/online_job_application2.dict -- data/linux/processed-challenges/online_job_application2/bin/online_job_application2\n'
+p125
+I3
+tp126
+a(I7560
+S'start_time     : 1500014502\nlast_update    : 1500022014\nfuzzer_pid     : 15584\ncycles_done    : 1\nexecs_done     : 3712437\nexecs_per_sec  : 495.41\npaths_total    : 223\npaths_favored  : 35\npaths_found    : 222\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 152\npending_favs   : 0\npending_total  : 153\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500022013\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/online_job_application2/input -o /dev/shm/work/online_job_application2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/online_job_application2/online_job_application2.dict -- data/linux/processed-challenges/online_job_application2/bin/online_job_application2\n'
+p127
+I1
+tp128
+a(I7680
+S'start_time     : 1500014502\nlast_update    : 1500022135\nfuzzer_pid     : 15584\ncycles_done    : 1\nexecs_done     : 3759125\nexecs_per_sec  : 307.55\npaths_total    : 223\npaths_favored  : 35\npaths_found    : 222\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 158\npending_favs   : 0\npending_total  : 153\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500022013\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/online_job_application2/input -o /dev/shm/work/online_job_application2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/online_job_application2/online_job_application2.dict -- data/linux/processed-challenges/online_job_application2/bin/online_job_application2\n'
+p129
+I3
+tp130
+a(I7800
+S'start_time     : 1500014502\nlast_update    : 1500022255\nfuzzer_pid     : 15584\ncycles_done    : 1\nexecs_done     : 3817145\nexecs_per_sec  : 479.41\npaths_total    : 227\npaths_favored  : 35\npaths_found    : 226\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 158\npending_favs   : 0\npending_total  : 157\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500022232\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/online_job_application2/input -o /dev/shm/work/online_job_application2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/online_job_application2/online_job_application2.dict -- data/linux/processed-challenges/online_job_application2/bin/online_job_application2\n'
+p131
+I1
+tp132
+a(I7920
+S'start_time     : 1500014502\nlast_update    : 1500022375\nfuzzer_pid     : 15584\ncycles_done    : 1\nexecs_done     : 3875843\nexecs_per_sec  : 485.37\npaths_total    : 227\npaths_favored  : 35\npaths_found    : 226\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 158\npending_favs   : 0\npending_total  : 157\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500022232\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/online_job_application2/input -o /dev/shm/work/online_job_application2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/online_job_application2/online_job_application2.dict -- data/linux/processed-challenges/online_job_application2/bin/online_job_application2\n'
+p133
+I1
+tp134
+a(I8040
+S'start_time     : 1500014502\nlast_update    : 1500022495\nfuzzer_pid     : 15584\ncycles_done    : 1\nexecs_done     : 3932077\nexecs_per_sec  : 447.88\npaths_total    : 229\npaths_favored  : 35\npaths_found    : 228\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 162\npending_favs   : 0\npending_total  : 158\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500022471\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/online_job_application2/input -o /dev/shm/work/online_job_application2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/online_job_application2/online_job_application2.dict -- data/linux/processed-challenges/online_job_application2/bin/online_job_application2\n'
+p135
+I1
+tp136
+a(I8160
+S'start_time     : 1500014502\nlast_update    : 1500022615\nfuzzer_pid     : 15584\ncycles_done    : 1\nexecs_done     : 3987523\nexecs_per_sec  : 481.45\npaths_total    : 231\npaths_favored  : 35\npaths_found    : 230\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 170\npending_favs   : 0\npending_total  : 159\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500022586\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/online_job_application2/input -o /dev/shm/work/online_job_application2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/online_job_application2/online_job_application2.dict -- data/linux/processed-challenges/online_job_application2/bin/online_job_application2\n'
+p137
+I2
+tp138
+a(I8280
+S'start_time     : 1500014502\nlast_update    : 1500022736\nfuzzer_pid     : 15584\ncycles_done    : 1\nexecs_done     : 4041878\nexecs_per_sec  : 401.52\npaths_total    : 231\npaths_favored  : 35\npaths_found    : 230\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 174\npending_favs   : 0\npending_total  : 159\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500022586\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/online_job_application2/input -o /dev/shm/work/online_job_application2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/online_job_application2/online_job_application2.dict -- data/linux/processed-challenges/online_job_application2/bin/online_job_application2\n'
+p139
+I0
+tp140
+a(I8400
+S'start_time     : 1500014502\nlast_update    : 1500022856\nfuzzer_pid     : 15584\ncycles_done    : 1\nexecs_done     : 4095761\nexecs_per_sec  : 497.21\npaths_total    : 232\npaths_favored  : 35\npaths_found    : 231\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 175\npending_favs   : 0\npending_total  : 159\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500022834\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/online_job_application2/input -o /dev/shm/work/online_job_application2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/online_job_application2/online_job_application2.dict -- data/linux/processed-challenges/online_job_application2/bin/online_job_application2\n'
+p141
+I1
+tp142
+a(I8520
+S'start_time     : 1500014502\nlast_update    : 1500022976\nfuzzer_pid     : 15584\ncycles_done    : 1\nexecs_done     : 4146913\nexecs_per_sec  : 392.31\npaths_total    : 232\npaths_favored  : 35\npaths_found    : 231\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 189\npending_favs   : 0\npending_total  : 159\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500022834\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/online_job_application2/input -o /dev/shm/work/online_job_application2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/online_job_application2/online_job_application2.dict -- data/linux/processed-challenges/online_job_application2/bin/online_job_application2\n'
+p143
+I2
+tp144
+a(I8640
+S'start_time     : 1500014502\nlast_update    : 1500023096\nfuzzer_pid     : 15584\ncycles_done    : 1\nexecs_done     : 4201941\nexecs_per_sec  : 480.93\npaths_total    : 234\npaths_favored  : 35\npaths_found    : 233\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 189\npending_favs   : 0\npending_total  : 161\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500023028\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/online_job_application2/input -o /dev/shm/work/online_job_application2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/online_job_application2/online_job_application2.dict -- data/linux/processed-challenges/online_job_application2/bin/online_job_application2\n'
+p145
+I2
+tp146
+a(I8760
+S'start_time     : 1500014502\nlast_update    : 1500023216\nfuzzer_pid     : 15584\ncycles_done    : 1\nexecs_done     : 4246606\nexecs_per_sec  : 337.46\npaths_total    : 236\npaths_favored  : 35\npaths_found    : 235\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 193\npending_favs   : 0\npending_total  : 162\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500023131\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/online_job_application2/input -o /dev/shm/work/online_job_application2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/online_job_application2/online_job_application2.dict -- data/linux/processed-challenges/online_job_application2/bin/online_job_application2\n'
+p147
+I0
+tp148
+a(I8880
+S'start_time     : 1500014502\nlast_update    : 1500023336\nfuzzer_pid     : 15584\ncycles_done    : 1\nexecs_done     : 4285342\nexecs_per_sec  : 313.35\npaths_total    : 236\npaths_favored  : 35\npaths_found    : 235\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 193\npending_favs   : 0\npending_total  : 162\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500023131\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/online_job_application2/input -o /dev/shm/work/online_job_application2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/online_job_application2/online_job_application2.dict -- data/linux/processed-challenges/online_job_application2/bin/online_job_application2\n'
+p149
+I3
+tp150
+a(I9000
+S'start_time     : 1500014502\nlast_update    : 1500023456\nfuzzer_pid     : 15584\ncycles_done    : 1\nexecs_done     : 4332030\nexecs_per_sec  : 407.13\npaths_total    : 240\npaths_favored  : 35\npaths_found    : 239\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 193\npending_favs   : 0\npending_total  : 166\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500023401\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/online_job_application2/input -o /dev/shm/work/online_job_application2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/online_job_application2/online_job_application2.dict -- data/linux/processed-challenges/online_job_application2/bin/online_job_application2\n'
+p151
+I2
+tp152
+a(I9120
+S'start_time     : 1500014502\nlast_update    : 1500023577\nfuzzer_pid     : 15584\ncycles_done    : 1\nexecs_done     : 4381818\nexecs_per_sec  : 421.33\npaths_total    : 242\npaths_favored  : 35\npaths_found    : 241\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 193\npending_favs   : 0\npending_total  : 168\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500023553\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/online_job_application2/input -o /dev/shm/work/online_job_application2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/online_job_application2/online_job_application2.dict -- data/linux/processed-challenges/online_job_application2/bin/online_job_application2\n'
+p153
+I1
+tp154
+a(I9240
+S'start_time     : 1500014502\nlast_update    : 1500023697\nfuzzer_pid     : 15584\ncycles_done    : 1\nexecs_done     : 4431770\nexecs_per_sec  : 419.33\npaths_total    : 242\npaths_favored  : 35\npaths_found    : 241\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 193\npending_favs   : 0\npending_total  : 168\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500023553\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/online_job_application2/input -o /dev/shm/work/online_job_application2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/online_job_application2/online_job_application2.dict -- data/linux/processed-challenges/online_job_application2/bin/online_job_application2\n'
+p155
+I0
+tp156
+a(I9360
+S'start_time     : 1500014502\nlast_update    : 1500023817\nfuzzer_pid     : 15584\ncycles_done    : 1\nexecs_done     : 4478703\nexecs_per_sec  : 379.13\npaths_total    : 242\npaths_favored  : 35\npaths_found    : 241\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 194\npending_favs   : 0\npending_total  : 167\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500023553\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/online_job_application2/input -o /dev/shm/work/online_job_application2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/online_job_application2/online_job_application2.dict -- data/linux/processed-challenges/online_job_application2/bin/online_job_application2\n'
+p157
+I0
+tp158
+a(I9480
+S'start_time     : 1500014502\nlast_update    : 1500023937\nfuzzer_pid     : 15584\ncycles_done    : 1\nexecs_done     : 4525401\nexecs_per_sec  : 426.23\npaths_total    : 242\npaths_favored  : 35\npaths_found    : 241\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 196\npending_favs   : 0\npending_total  : 166\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500023553\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/online_job_application2/input -o /dev/shm/work/online_job_application2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/online_job_application2/online_job_application2.dict -- data/linux/processed-challenges/online_job_application2/bin/online_job_application2\n'
+p159
+I0
+tp160
+a(I9600
+S'start_time     : 1500014502\nlast_update    : 1500024058\nfuzzer_pid     : 15584\ncycles_done    : 1\nexecs_done     : 4577099\nexecs_per_sec  : 510.55\npaths_total    : 242\npaths_favored  : 35\npaths_found    : 241\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 196\npending_favs   : 0\npending_total  : 166\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500023553\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/online_job_application2/input -o /dev/shm/work/online_job_application2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/online_job_application2/online_job_application2.dict -- data/linux/processed-challenges/online_job_application2/bin/online_job_application2\n'
+p161
+I0
+tp162
+a(I9720
+S'start_time     : 1500014502\nlast_update    : 1500024178\nfuzzer_pid     : 15584\ncycles_done    : 1\nexecs_done     : 4622703\nexecs_per_sec  : 353.82\npaths_total    : 242\npaths_favored  : 35\npaths_found    : 241\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 198\npending_favs   : 0\npending_total  : 165\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500023553\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/online_job_application2/input -o /dev/shm/work/online_job_application2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/online_job_application2/online_job_application2.dict -- data/linux/processed-challenges/online_job_application2/bin/online_job_application2\n'
+p163
+I1
+tp164
+a(I9840
+S'start_time     : 1500014502\nlast_update    : 1500024298\nfuzzer_pid     : 15584\ncycles_done    : 1\nexecs_done     : 4666326\nexecs_per_sec  : 312.11\npaths_total    : 243\npaths_favored  : 35\npaths_found    : 242\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 200\npending_favs   : 0\npending_total  : 165\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500024225\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/online_job_application2/input -o /dev/shm/work/online_job_application2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/online_job_application2/online_job_application2.dict -- data/linux/processed-challenges/online_job_application2/bin/online_job_application2\n'
+p165
+I0
+tp166
+a(I9960
+S'start_time     : 1500014502\nlast_update    : 1500024418\nfuzzer_pid     : 15584\ncycles_done    : 1\nexecs_done     : 4703947\nexecs_per_sec  : 315.73\npaths_total    : 243\npaths_favored  : 35\npaths_found    : 242\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 200\npending_favs   : 0\npending_total  : 165\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500024225\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/online_job_application2/input -o /dev/shm/work/online_job_application2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/online_job_application2/online_job_application2.dict -- data/linux/processed-challenges/online_job_application2/bin/online_job_application2\n'
+p167
+I0
+tp168
+a(I10080
+S'start_time     : 1500014502\nlast_update    : 1500024539\nfuzzer_pid     : 15584\ncycles_done    : 1\nexecs_done     : 4740857\nexecs_per_sec  : 306.25\npaths_total    : 243\npaths_favored  : 35\npaths_found    : 242\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 200\npending_favs   : 0\npending_total  : 165\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500024225\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/online_job_application2/input -o /dev/shm/work/online_job_application2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/online_job_application2/online_job_application2.dict -- data/linux/processed-challenges/online_job_application2/bin/online_job_application2\n'
+p169
+I0
+tp170
+a(I10200
+S'start_time     : 1500014502\nlast_update    : 1500024659\nfuzzer_pid     : 15584\ncycles_done    : 1\nexecs_done     : 4778501\nexecs_per_sec  : 388.14\npaths_total    : 243\npaths_favored  : 35\npaths_found    : 242\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 200\npending_favs   : 0\npending_total  : 165\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500024225\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/online_job_application2/input -o /dev/shm/work/online_job_application2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/online_job_application2/online_job_application2.dict -- data/linux/processed-challenges/online_job_application2/bin/online_job_application2\n'
+p171
+I0
+tp172
+a(I10320
+S'start_time     : 1500014502\nlast_update    : 1500024779\nfuzzer_pid     : 15584\ncycles_done    : 1\nexecs_done     : 4814717\nexecs_per_sec  : 247.89\npaths_total    : 243\npaths_favored  : 35\npaths_found    : 242\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 206\npending_favs   : 0\npending_total  : 164\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500024225\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/online_job_application2/input -o /dev/shm/work/online_job_application2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/online_job_application2/online_job_application2.dict -- data/linux/processed-challenges/online_job_application2/bin/online_job_application2\n'
+p173
+I0
+tp174
+a(I10440
+S'start_time     : 1500014502\nlast_update    : 1500024899\nfuzzer_pid     : 15584\ncycles_done    : 1\nexecs_done     : 4844692\nexecs_per_sec  : 248.74\npaths_total    : 243\npaths_favored  : 35\npaths_found    : 242\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 206\npending_favs   : 0\npending_total  : 164\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500024225\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/online_job_application2/input -o /dev/shm/work/online_job_application2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/online_job_application2/online_job_application2.dict -- data/linux/processed-challenges/online_job_application2/bin/online_job_application2\n'
+p175
+I0
+tp176
+a(I10560
+S'start_time     : 1500014502\nlast_update    : 1500025019\nfuzzer_pid     : 15584\ncycles_done    : 1\nexecs_done     : 4874769\nexecs_per_sec  : 248.08\npaths_total    : 243\npaths_favored  : 35\npaths_found    : 242\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 206\npending_favs   : 0\npending_total  : 164\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500024225\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/online_job_application2/input -o /dev/shm/work/online_job_application2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/online_job_application2/online_job_application2.dict -- data/linux/processed-challenges/online_job_application2/bin/online_job_application2\n'
+p177
+I0
+tp178
+a(I10680
+S'start_time     : 1500014502\nlast_update    : 1500025139\nfuzzer_pid     : 15584\ncycles_done    : 1\nexecs_done     : 4904218\nexecs_per_sec  : 243.13\npaths_total    : 243\npaths_favored  : 35\npaths_found    : 242\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 206\npending_favs   : 0\npending_total  : 164\nvariable_paths : 0\nbitmap_cvg     : 0.80%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500024225\nlast_crash     : 0\nlast_hang      : 1500015928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/online_job_application2/input -o /dev/shm/work/online_job_application2/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/online_job_application2/online_job_application2.dict -- data/linux/processed-challenges/online_job_application2/bin/online_job_application2\n'
+p179
+I0
+tp180
+a.

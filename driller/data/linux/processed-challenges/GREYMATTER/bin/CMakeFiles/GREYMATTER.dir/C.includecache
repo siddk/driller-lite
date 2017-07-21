@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/libcgc.h
+
+../processed-challenges/GREYMATTER/lib/libc.h
+libcgc.h
+-
+
+/vagrant/driller/data/linux/processed-challenges/GREYMATTER/lib/libc.c
+libc.h
+/vagrant/driller/data/linux/processed-challenges/GREYMATTER/lib/libc.h
+
+/vagrant/driller/data/linux/processed-challenges/GREYMATTER/lib/libc.h
+libcgc.h
+-
+
+/vagrant/driller/data/linux/processed-challenges/GREYMATTER/src/service.c
+service.h
+/vagrant/driller/data/linux/processed-challenges/GREYMATTER/src/service.h
+
+/vagrant/driller/data/linux/processed-challenges/GREYMATTER/src/service.h
+libcgc.h
+-
+libc.h
+/vagrant/driller/data/linux/processed-challenges/GREYMATTER/src/libc.h
+

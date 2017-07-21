@@ -1,0 +1,452 @@
+(lp0
+(I0
+S'start_time     : 1499971481\nlast_update    : 1499971481\nfuzzer_pid     : 18089\ncycles_done    : 0\nexecs_done     : 10\nexecs_per_sec  : 140.85\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 1\npending_total  : 1\nvariable_paths : 0\nbitmap_cvg     : 0.08%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Simple_Stack_Machine/input -o /dev/shm/work/Simple_Stack_Machine/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Simple_Stack_Machine/Simple_Stack_Machine.dict -- data/linux/processed-challenges/Simple_Stack_Machine/bin/Simple_Stack_Machine\n'
+p1
+I10
+tp2
+a(I120
+S'start_time     : 1499971481\nlast_update    : 1499971601\nfuzzer_pid     : 18089\ncycles_done    : 0\nexecs_done     : 101139\nexecs_per_sec  : 852.66\npaths_total    : 15\npaths_favored  : 1\npaths_found    : 14\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 1\npending_total  : 15\nvariable_paths : 0\nbitmap_cvg     : 0.16%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1499971587\nlast_crash     : 0\nlast_hang      : 1499971575\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Simple_Stack_Machine/input -o /dev/shm/work/Simple_Stack_Machine/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Simple_Stack_Machine/Simple_Stack_Machine.dict -- data/linux/processed-challenges/Simple_Stack_Machine/bin/Simple_Stack_Machine\n'
+p3
+I5
+tp4
+a(I240
+S'start_time     : 1499971481\nlast_update    : 1499971721\nfuzzer_pid     : 18089\ncycles_done    : 0\nexecs_done     : 201786\nexecs_per_sec  : 811.14\npaths_total    : 38\npaths_favored  : 12\npaths_found    : 37\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 8\npending_favs   : 9\npending_total  : 34\nvariable_paths : 0\nbitmap_cvg     : 0.24%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1499971721\nlast_crash     : 0\nlast_hang      : 1499971575\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Simple_Stack_Machine/input -o /dev/shm/work/Simple_Stack_Machine/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Simple_Stack_Machine/Simple_Stack_Machine.dict -- data/linux/processed-challenges/Simple_Stack_Machine/bin/Simple_Stack_Machine\n'
+p5
+I25
+tp6
+a(I360
+S'start_time     : 1499971481\nlast_update    : 1499971841\nfuzzer_pid     : 18089\ncycles_done    : 0\nexecs_done     : 300904\nexecs_per_sec  : 803.00\npaths_total    : 57\npaths_favored  : 12\npaths_found    : 56\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 8\npending_favs   : 9\npending_total  : 53\nvariable_paths : 0\nbitmap_cvg     : 0.27%\nunique_crashes : 0\nunique_hangs   : 7\nlast_path      : 1499971832\nlast_crash     : 0\nlast_hang      : 1499971824\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Simple_Stack_Machine/input -o /dev/shm/work/Simple_Stack_Machine/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Simple_Stack_Machine/Simple_Stack_Machine.dict -- data/linux/processed-challenges/Simple_Stack_Machine/bin/Simple_Stack_Machine\n'
+p7
+I17
+tp8
+a(I480
+S'start_time     : 1499971481\nlast_update    : 1499971962\nfuzzer_pid     : 18089\ncycles_done    : 0\nexecs_done     : 399217\nexecs_per_sec  : 814.07\npaths_total    : 63\npaths_favored  : 31\npaths_found    : 62\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 15\npending_favs   : 23\npending_total  : 54\nvariable_paths : 0\nbitmap_cvg     : 0.29%\nunique_crashes : 0\nunique_hangs   : 8\nlast_path      : 1499971957\nlast_crash     : 0\nlast_hang      : 1499971944\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Simple_Stack_Machine/input -o /dev/shm/work/Simple_Stack_Machine/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Simple_Stack_Machine/Simple_Stack_Machine.dict -- data/linux/processed-challenges/Simple_Stack_Machine/bin/Simple_Stack_Machine\n'
+p9
+I8
+tp10
+a(I600
+S'start_time     : 1499971481\nlast_update    : 1499972082\nfuzzer_pid     : 18089\ncycles_done    : 0\nexecs_done     : 502671\nexecs_per_sec  : 784.32\npaths_total    : 76\npaths_favored  : 31\npaths_found    : 75\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 15\npending_favs   : 23\npending_total  : 67\nvariable_paths : 0\nbitmap_cvg     : 0.30%\nunique_crashes : 0\nunique_hangs   : 8\nlast_path      : 1499972060\nlast_crash     : 0\nlast_hang      : 1499971944\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Simple_Stack_Machine/input -o /dev/shm/work/Simple_Stack_Machine/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Simple_Stack_Machine/Simple_Stack_Machine.dict -- data/linux/processed-challenges/Simple_Stack_Machine/bin/Simple_Stack_Machine\n'
+p11
+I11
+tp12
+a(I720
+S'start_time     : 1499971481\nlast_update    : 1499972202\nfuzzer_pid     : 18089\ncycles_done    : 0\nexecs_done     : 601836\nexecs_per_sec  : 816.40\npaths_total    : 80\npaths_favored  : 37\npaths_found    : 79\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 21\npending_favs   : 25\npending_total  : 66\nvariable_paths : 0\nbitmap_cvg     : 0.30%\nunique_crashes : 0\nunique_hangs   : 13\nlast_path      : 1499972183\nlast_crash     : 0\nlast_hang      : 1499972200\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Simple_Stack_Machine/input -o /dev/shm/work/Simple_Stack_Machine/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Simple_Stack_Machine/Simple_Stack_Machine.dict -- data/linux/processed-challenges/Simple_Stack_Machine/bin/Simple_Stack_Machine\n'
+p13
+I5
+tp14
+a(I840
+S'start_time     : 1499971481\nlast_update    : 1499972322\nfuzzer_pid     : 18089\ncycles_done    : 0\nexecs_done     : 697348\nexecs_per_sec  : 799.45\npaths_total    : 88\npaths_favored  : 43\npaths_found    : 87\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 44\npending_favs   : 24\npending_total  : 68\nvariable_paths : 0\nbitmap_cvg     : 0.31%\nunique_crashes : 0\nunique_hangs   : 18\nlast_path      : 1499972313\nlast_crash     : 0\nlast_hang      : 1499972317\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Simple_Stack_Machine/input -o /dev/shm/work/Simple_Stack_Machine/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Simple_Stack_Machine/Simple_Stack_Machine.dict -- data/linux/processed-challenges/Simple_Stack_Machine/bin/Simple_Stack_Machine\n'
+p15
+I7
+tp16
+a(I960
+S'start_time     : 1499971481\nlast_update    : 1499972442\nfuzzer_pid     : 18089\ncycles_done    : 0\nexecs_done     : 798168\nexecs_per_sec  : 838.64\npaths_total    : 103\npaths_favored  : 43\npaths_found    : 102\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 44\npending_favs   : 24\npending_total  : 83\nvariable_paths : 0\nbitmap_cvg     : 0.32%\nunique_crashes : 0\nunique_hangs   : 21\nlast_path      : 1499972442\nlast_crash     : 0\nlast_hang      : 1499972394\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Simple_Stack_Machine/input -o /dev/shm/work/Simple_Stack_Machine/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Simple_Stack_Machine/Simple_Stack_Machine.dict -- data/linux/processed-challenges/Simple_Stack_Machine/bin/Simple_Stack_Machine\n'
+p17
+I15
+tp18
+a(I1080
+S'start_time     : 1499971481\nlast_update    : 1499972562\nfuzzer_pid     : 18089\ncycles_done    : 0\nexecs_done     : 897659\nexecs_per_sec  : 860.99\npaths_total    : 104\npaths_favored  : 55\npaths_found    : 103\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 50\npending_favs   : 36\npending_total  : 82\nvariable_paths : 0\nbitmap_cvg     : 0.32%\nunique_crashes : 0\nunique_hangs   : 21\nlast_path      : 1499972513\nlast_crash     : 0\nlast_hang      : 1499972394\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Simple_Stack_Machine/input -o /dev/shm/work/Simple_Stack_Machine/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Simple_Stack_Machine/Simple_Stack_Machine.dict -- data/linux/processed-challenges/Simple_Stack_Machine/bin/Simple_Stack_Machine\n'
+p19
+I2
+tp20
+a(I1200
+S'start_time     : 1499971481\nlast_update    : 1499972683\nfuzzer_pid     : 18089\ncycles_done    : 0\nexecs_done     : 996862\nexecs_per_sec  : 831.16\npaths_total    : 109\npaths_favored  : 56\npaths_found    : 108\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 64\npending_favs   : 32\npending_total  : 80\nvariable_paths : 0\nbitmap_cvg     : 0.32%\nunique_crashes : 0\nunique_hangs   : 23\nlast_path      : 1499972656\nlast_crash     : 0\nlast_hang      : 1499972624\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Simple_Stack_Machine/input -o /dev/shm/work/Simple_Stack_Machine/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Simple_Stack_Machine/Simple_Stack_Machine.dict -- data/linux/processed-challenges/Simple_Stack_Machine/bin/Simple_Stack_Machine\n'
+p21
+I4
+tp22
+a(I1320
+S'start_time     : 1499971481\nlast_update    : 1499972803\nfuzzer_pid     : 18089\ncycles_done    : 0\nexecs_done     : 1097013\nexecs_per_sec  : 837.12\npaths_total    : 124\npaths_favored  : 57\npaths_found    : 123\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 67\npending_favs   : 32\npending_total  : 94\nvariable_paths : 0\nbitmap_cvg     : 0.33%\nunique_crashes : 0\nunique_hangs   : 23\nlast_path      : 1499972796\nlast_crash     : 0\nlast_hang      : 1499972624\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Simple_Stack_Machine/input -o /dev/shm/work/Simple_Stack_Machine/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Simple_Stack_Machine/Simple_Stack_Machine.dict -- data/linux/processed-challenges/Simple_Stack_Machine/bin/Simple_Stack_Machine\n'
+p23
+I15
+tp24
+a(I1440
+S'start_time     : 1499971481\nlast_update    : 1499972923\nfuzzer_pid     : 18089\ncycles_done    : 0\nexecs_done     : 1198019\nexecs_per_sec  : 836.19\npaths_total    : 127\npaths_favored  : 57\npaths_found    : 126\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 67\npending_favs   : 32\npending_total  : 97\nvariable_paths : 0\nbitmap_cvg     : 0.33%\nunique_crashes : 0\nunique_hangs   : 23\nlast_path      : 1499972852\nlast_crash     : 0\nlast_hang      : 1499972624\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Simple_Stack_Machine/input -o /dev/shm/work/Simple_Stack_Machine/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Simple_Stack_Machine/Simple_Stack_Machine.dict -- data/linux/processed-challenges/Simple_Stack_Machine/bin/Simple_Stack_Machine\n'
+p25
+I3
+tp26
+a(I1560
+S'start_time     : 1499971481\nlast_update    : 1499973043\nfuzzer_pid     : 18089\ncycles_done    : 0\nexecs_done     : 1298797\nexecs_per_sec  : 845.97\npaths_total    : 131\npaths_favored  : 59\npaths_found    : 130\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 73\npending_favs   : 30\npending_total  : 96\nvariable_paths : 0\nbitmap_cvg     : 0.33%\nunique_crashes : 0\nunique_hangs   : 23\nlast_path      : 1499973018\nlast_crash     : 0\nlast_hang      : 1499972624\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Simple_Stack_Machine/input -o /dev/shm/work/Simple_Stack_Machine/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Simple_Stack_Machine/Simple_Stack_Machine.dict -- data/linux/processed-challenges/Simple_Stack_Machine/bin/Simple_Stack_Machine\n'
+p27
+I4
+tp28
+a(I1680
+S'start_time     : 1499971481\nlast_update    : 1499973163\nfuzzer_pid     : 18089\ncycles_done    : 0\nexecs_done     : 1398455\nexecs_per_sec  : 848.30\npaths_total    : 135\npaths_favored  : 59\npaths_found    : 134\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 82\npending_favs   : 27\npending_total  : 96\nvariable_paths : 0\nbitmap_cvg     : 0.33%\nunique_crashes : 0\nunique_hangs   : 23\nlast_path      : 1499973155\nlast_crash     : 0\nlast_hang      : 1499972624\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Simple_Stack_Machine/input -o /dev/shm/work/Simple_Stack_Machine/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Simple_Stack_Machine/Simple_Stack_Machine.dict -- data/linux/processed-challenges/Simple_Stack_Machine/bin/Simple_Stack_Machine\n'
+p29
+I4
+tp30
+a(I1800
+S'start_time     : 1499971481\nlast_update    : 1499973283\nfuzzer_pid     : 18089\ncycles_done    : 0\nexecs_done     : 1501875\nexecs_per_sec  : 836.45\npaths_total    : 141\npaths_favored  : 59\npaths_found    : 140\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 82\npending_favs   : 27\npending_total  : 102\nvariable_paths : 0\nbitmap_cvg     : 0.33%\nunique_crashes : 0\nunique_hangs   : 23\nlast_path      : 1499973273\nlast_crash     : 0\nlast_hang      : 1499972624\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Simple_Stack_Machine/input -o /dev/shm/work/Simple_Stack_Machine/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Simple_Stack_Machine/Simple_Stack_Machine.dict -- data/linux/processed-challenges/Simple_Stack_Machine/bin/Simple_Stack_Machine\n'
+p31
+I6
+tp32
+a(I1920
+S'start_time     : 1499971481\nlast_update    : 1499973404\nfuzzer_pid     : 18089\ncycles_done    : 0\nexecs_done     : 1602176\nexecs_per_sec  : 804.26\npaths_total    : 142\npaths_favored  : 59\npaths_found    : 141\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 86\npending_favs   : 23\npending_total  : 100\nvariable_paths : 0\nbitmap_cvg     : 0.33%\nunique_crashes : 0\nunique_hangs   : 23\nlast_path      : 1499973295\nlast_crash     : 0\nlast_hang      : 1499972624\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Simple_Stack_Machine/input -o /dev/shm/work/Simple_Stack_Machine/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Simple_Stack_Machine/Simple_Stack_Machine.dict -- data/linux/processed-challenges/Simple_Stack_Machine/bin/Simple_Stack_Machine\n'
+p33
+I1
+tp34
+a(I2040
+S'start_time     : 1499971481\nlast_update    : 1499973524\nfuzzer_pid     : 18089\ncycles_done    : 0\nexecs_done     : 1701841\nexecs_per_sec  : 829.58\npaths_total    : 144\npaths_favored  : 59\npaths_found    : 143\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 91\npending_favs   : 20\npending_total  : 99\nvariable_paths : 0\nbitmap_cvg     : 0.33%\nunique_crashes : 0\nunique_hangs   : 25\nlast_path      : 1499973458\nlast_crash     : 0\nlast_hang      : 1499973491\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Simple_Stack_Machine/input -o /dev/shm/work/Simple_Stack_Machine/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Simple_Stack_Machine/Simple_Stack_Machine.dict -- data/linux/processed-challenges/Simple_Stack_Machine/bin/Simple_Stack_Machine\n'
+p35
+I2
+tp36
+a(I2160
+S'start_time     : 1499971481\nlast_update    : 1499973644\nfuzzer_pid     : 18089\ncycles_done    : 0\nexecs_done     : 1800931\nexecs_per_sec  : 808.23\npaths_total    : 147\npaths_favored  : 59\npaths_found    : 146\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 92\npending_favs   : 19\npending_total  : 101\nvariable_paths : 0\nbitmap_cvg     : 0.33%\nunique_crashes : 0\nunique_hangs   : 25\nlast_path      : 1499973637\nlast_crash     : 0\nlast_hang      : 1499973491\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Simple_Stack_Machine/input -o /dev/shm/work/Simple_Stack_Machine/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Simple_Stack_Machine/Simple_Stack_Machine.dict -- data/linux/processed-challenges/Simple_Stack_Machine/bin/Simple_Stack_Machine\n'
+p37
+I3
+tp38
+a(I2280
+S'start_time     : 1499971481\nlast_update    : 1499973764\nfuzzer_pid     : 18089\ncycles_done    : 0\nexecs_done     : 1900989\nexecs_per_sec  : 821.07\npaths_total    : 148\npaths_favored  : 59\npaths_found    : 147\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 92\npending_favs   : 19\npending_total  : 102\nvariable_paths : 0\nbitmap_cvg     : 0.33%\nunique_crashes : 0\nunique_hangs   : 25\nlast_path      : 1499973652\nlast_crash     : 0\nlast_hang      : 1499973491\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Simple_Stack_Machine/input -o /dev/shm/work/Simple_Stack_Machine/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Simple_Stack_Machine/Simple_Stack_Machine.dict -- data/linux/processed-challenges/Simple_Stack_Machine/bin/Simple_Stack_Machine\n'
+p39
+I1
+tp40
+a(I2400
+S'start_time     : 1499971481\nlast_update    : 1499973885\nfuzzer_pid     : 18089\ncycles_done    : 0\nexecs_done     : 2001409\nexecs_per_sec  : 842.28\npaths_total    : 148\npaths_favored  : 58\npaths_found    : 147\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 100\npending_favs   : 16\npending_total  : 99\nvariable_paths : 0\nbitmap_cvg     : 0.33%\nunique_crashes : 0\nunique_hangs   : 25\nlast_path      : 1499973652\nlast_crash     : 0\nlast_hang      : 1499973491\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Simple_Stack_Machine/input -o /dev/shm/work/Simple_Stack_Machine/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Simple_Stack_Machine/Simple_Stack_Machine.dict -- data/linux/processed-challenges/Simple_Stack_Machine/bin/Simple_Stack_Machine\n'
+p41
+I0
+tp42
+a(I2520
+S'start_time     : 1499971481\nlast_update    : 1499974005\nfuzzer_pid     : 18089\ncycles_done    : 0\nexecs_done     : 2099940\nexecs_per_sec  : 799.25\npaths_total    : 156\npaths_favored  : 58\npaths_found    : 155\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 102\npending_favs   : 15\npending_total  : 106\nvariable_paths : 0\nbitmap_cvg     : 0.34%\nunique_crashes : 16\nunique_hangs   : 31\nlast_path      : 1499974003\nlast_crash     : 1499973997\nlast_hang      : 1499974003\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Simple_Stack_Machine/input -o /dev/shm/work/Simple_Stack_Machine/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Simple_Stack_Machine/Simple_Stack_Machine.dict -- data/linux/processed-challenges/Simple_Stack_Machine/bin/Simple_Stack_Machine\n'
+p43
+I8
+tp44
+a(I2640
+S'start_time     : 1499971481\nlast_update    : 1499974125\nfuzzer_pid     : 18089\ncycles_done    : 0\nexecs_done     : 2200243\nexecs_per_sec  : 840.49\npaths_total    : 168\npaths_favored  : 60\npaths_found    : 167\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 108\npending_favs   : 16\npending_total  : 115\nvariable_paths : 0\nbitmap_cvg     : 0.35%\nunique_crashes : 19\nunique_hangs   : 32\nlast_path      : 1499974115\nlast_crash     : 1499974055\nlast_hang      : 1499974010\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Simple_Stack_Machine/input -o /dev/shm/work/Simple_Stack_Machine/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Simple_Stack_Machine/Simple_Stack_Machine.dict -- data/linux/processed-challenges/Simple_Stack_Machine/bin/Simple_Stack_Machine\n'
+p45
+I12
+tp46
+a(I2760
+S'start_time     : 1499971481\nlast_update    : 1499974246\nfuzzer_pid     : 18089\ncycles_done    : 0\nexecs_done     : 2301115\nexecs_per_sec  : 846.22\npaths_total    : 171\npaths_favored  : 67\npaths_found    : 170\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 109\npending_favs   : 22\npending_total  : 117\nvariable_paths : 0\nbitmap_cvg     : 0.35%\nunique_crashes : 19\nunique_hangs   : 32\nlast_path      : 1499974164\nlast_crash     : 1499974055\nlast_hang      : 1499974010\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Simple_Stack_Machine/input -o /dev/shm/work/Simple_Stack_Machine/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Simple_Stack_Machine/Simple_Stack_Machine.dict -- data/linux/processed-challenges/Simple_Stack_Machine/bin/Simple_Stack_Machine\n'
+p47
+I3
+tp48
+a(I2880
+S'start_time     : 1499971481\nlast_update    : 1499974366\nfuzzer_pid     : 18089\ncycles_done    : 0\nexecs_done     : 2401972\nexecs_per_sec  : 833.82\npaths_total    : 173\npaths_favored  : 67\npaths_found    : 172\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 127\npending_favs   : 19\npending_total  : 116\nvariable_paths : 0\nbitmap_cvg     : 0.35%\nunique_crashes : 19\nunique_hangs   : 33\nlast_path      : 1499974293\nlast_crash     : 1499974055\nlast_hang      : 1499974332\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Simple_Stack_Machine/input -o /dev/shm/work/Simple_Stack_Machine/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Simple_Stack_Machine/Simple_Stack_Machine.dict -- data/linux/processed-challenges/Simple_Stack_Machine/bin/Simple_Stack_Machine\n'
+p49
+I2
+tp50
+a(I3000
+S'start_time     : 1499971481\nlast_update    : 1499974486\nfuzzer_pid     : 18089\ncycles_done    : 0\nexecs_done     : 2500203\nexecs_per_sec  : 838.33\npaths_total    : 174\npaths_favored  : 67\npaths_found    : 173\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 134\npending_favs   : 16\npending_total  : 114\nvariable_paths : 0\nbitmap_cvg     : 0.35%\nunique_crashes : 19\nunique_hangs   : 35\nlast_path      : 1499974462\nlast_crash     : 1499974055\nlast_hang      : 1499974449\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Simple_Stack_Machine/input -o /dev/shm/work/Simple_Stack_Machine/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Simple_Stack_Machine/Simple_Stack_Machine.dict -- data/linux/processed-challenges/Simple_Stack_Machine/bin/Simple_Stack_Machine\n'
+p51
+I1
+tp52
+a(I3120
+S'start_time     : 1499971481\nlast_update    : 1499974606\nfuzzer_pid     : 18089\ncycles_done    : 0\nexecs_done     : 2600377\nexecs_per_sec  : 805.26\npaths_total    : 176\npaths_favored  : 67\npaths_found    : 175\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 147\npending_favs   : 14\npending_total  : 114\nvariable_paths : 0\nbitmap_cvg     : 0.35%\nunique_crashes : 19\nunique_hangs   : 35\nlast_path      : 1499974557\nlast_crash     : 1499974055\nlast_hang      : 1499974449\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Simple_Stack_Machine/input -o /dev/shm/work/Simple_Stack_Machine/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Simple_Stack_Machine/Simple_Stack_Machine.dict -- data/linux/processed-challenges/Simple_Stack_Machine/bin/Simple_Stack_Machine\n'
+p53
+I2
+tp54
+a(I3240
+S'start_time     : 1499971481\nlast_update    : 1499974727\nfuzzer_pid     : 18089\ncycles_done    : 0\nexecs_done     : 2700683\nexecs_per_sec  : 845.09\npaths_total    : 183\npaths_favored  : 67\npaths_found    : 182\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 147\npending_favs   : 14\npending_total  : 121\nvariable_paths : 0\nbitmap_cvg     : 0.35%\nunique_crashes : 19\nunique_hangs   : 35\nlast_path      : 1499974722\nlast_crash     : 1499974055\nlast_hang      : 1499974449\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Simple_Stack_Machine/input -o /dev/shm/work/Simple_Stack_Machine/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Simple_Stack_Machine/Simple_Stack_Machine.dict -- data/linux/processed-challenges/Simple_Stack_Machine/bin/Simple_Stack_Machine\n'
+p55
+I7
+tp56
+a(I3360
+S'start_time     : 1499971481\nlast_update    : 1499974847\nfuzzer_pid     : 18089\ncycles_done    : 0\nexecs_done     : 2796206\nexecs_per_sec  : 800.36\npaths_total    : 190\npaths_favored  : 67\npaths_found    : 189\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 151\npending_favs   : 13\npending_total  : 127\nvariable_paths : 0\nbitmap_cvg     : 0.35%\nunique_crashes : 21\nunique_hangs   : 35\nlast_path      : 1499974832\nlast_crash     : 1499974839\nlast_hang      : 1499974449\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Simple_Stack_Machine/input -o /dev/shm/work/Simple_Stack_Machine/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Simple_Stack_Machine/Simple_Stack_Machine.dict -- data/linux/processed-challenges/Simple_Stack_Machine/bin/Simple_Stack_Machine\n'
+p57
+I7
+tp58
+a(I3480
+S'start_time     : 1499971481\nlast_update    : 1499974967\nfuzzer_pid     : 18089\ncycles_done    : 0\nexecs_done     : 2883531\nexecs_per_sec  : 794.26\npaths_total    : 196\npaths_favored  : 65\npaths_found    : 195\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 153\npending_favs   : 12\npending_total  : 131\nvariable_paths : 0\nbitmap_cvg     : 0.36%\nunique_crashes : 26\nunique_hangs   : 37\nlast_path      : 1499974947\nlast_crash     : 1499974965\nlast_hang      : 1499974910\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Simple_Stack_Machine/input -o /dev/shm/work/Simple_Stack_Machine/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Simple_Stack_Machine/Simple_Stack_Machine.dict -- data/linux/processed-challenges/Simple_Stack_Machine/bin/Simple_Stack_Machine\n'
+p59
+I6
+tp60
+a(I3600
+S'start_time     : 1499971481\nlast_update    : 1499975087\nfuzzer_pid     : 18089\ncycles_done    : 0\nexecs_done     : 2984450\nexecs_per_sec  : 868.38\npaths_total    : 207\npaths_favored  : 67\npaths_found    : 206\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 159\npending_favs   : 16\npending_total  : 140\nvariable_paths : 0\nbitmap_cvg     : 0.37%\nunique_crashes : 31\nunique_hangs   : 41\nlast_path      : 1499975078\nlast_crash     : 1499975066\nlast_hang      : 1499975073\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Simple_Stack_Machine/input -o /dev/shm/work/Simple_Stack_Machine/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Simple_Stack_Machine/Simple_Stack_Machine.dict -- data/linux/processed-challenges/Simple_Stack_Machine/bin/Simple_Stack_Machine\n'
+p61
+I12
+tp62
+a(I3720
+S'start_time     : 1499971481\nlast_update    : 1499975207\nfuzzer_pid     : 18089\ncycles_done    : 0\nexecs_done     : 3084854\nexecs_per_sec  : 786.51\npaths_total    : 216\npaths_favored  : 67\npaths_found    : 215\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 159\npending_favs   : 16\npending_total  : 149\nvariable_paths : 0\nbitmap_cvg     : 0.37%\nunique_crashes : 33\nunique_hangs   : 42\nlast_path      : 1499975186\nlast_crash     : 1499975096\nlast_hang      : 1499975098\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Simple_Stack_Machine/input -o /dev/shm/work/Simple_Stack_Machine/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Simple_Stack_Machine/Simple_Stack_Machine.dict -- data/linux/processed-challenges/Simple_Stack_Machine/bin/Simple_Stack_Machine\n'
+p63
+I8
+tp64
+a(I3840
+S'start_time     : 1499971481\nlast_update    : 1499975328\nfuzzer_pid     : 18089\ncycles_done    : 0\nexecs_done     : 3183918\nexecs_per_sec  : 829.29\npaths_total    : 216\npaths_favored  : 70\npaths_found    : 215\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 162\npending_favs   : 21\npending_total  : 147\nvariable_paths : 0\nbitmap_cvg     : 0.37%\nunique_crashes : 34\nunique_hangs   : 42\nlast_path      : 1499975186\nlast_crash     : 1499975249\nlast_hang      : 1499975098\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Simple_Stack_Machine/input -o /dev/shm/work/Simple_Stack_Machine/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Simple_Stack_Machine/Simple_Stack_Machine.dict -- data/linux/processed-challenges/Simple_Stack_Machine/bin/Simple_Stack_Machine\n'
+p65
+I0
+tp66
+a(I3960
+S'start_time     : 1499971481\nlast_update    : 1499975448\nfuzzer_pid     : 18089\ncycles_done    : 0\nexecs_done     : 3283132\nexecs_per_sec  : 816.23\npaths_total    : 217\npaths_favored  : 70\npaths_found    : 216\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 167\npending_favs   : 16\npending_total  : 143\nvariable_paths : 0\nbitmap_cvg     : 0.37%\nunique_crashes : 34\nunique_hangs   : 42\nlast_path      : 1499975428\nlast_crash     : 1499975249\nlast_hang      : 1499975098\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Simple_Stack_Machine/input -o /dev/shm/work/Simple_Stack_Machine/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Simple_Stack_Machine/Simple_Stack_Machine.dict -- data/linux/processed-challenges/Simple_Stack_Machine/bin/Simple_Stack_Machine\n'
+p67
+I1
+tp68
+a(I4080
+S'start_time     : 1499971481\nlast_update    : 1499975568\nfuzzer_pid     : 18089\ncycles_done    : 0\nexecs_done     : 3359318\nexecs_per_sec  : 776.18\npaths_total    : 220\npaths_favored  : 70\npaths_found    : 219\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 190\npending_favs   : 14\npending_total  : 144\nvariable_paths : 0\nbitmap_cvg     : 0.37%\nunique_crashes : 35\nunique_hangs   : 48\nlast_path      : 1499975515\nlast_crash     : 1499975540\nlast_hang      : 1499975498\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Simple_Stack_Machine/input -o /dev/shm/work/Simple_Stack_Machine/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Simple_Stack_Machine/Simple_Stack_Machine.dict -- data/linux/processed-challenges/Simple_Stack_Machine/bin/Simple_Stack_Machine\n'
+p69
+I3
+tp70
+a(I4200
+S'start_time     : 1499971481\nlast_update    : 1499975688\nfuzzer_pid     : 18089\ncycles_done    : 0\nexecs_done     : 3440118\nexecs_per_sec  : 800.50\npaths_total    : 223\npaths_favored  : 70\npaths_found    : 222\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 192\npending_favs   : 12\npending_total  : 145\nvariable_paths : 0\nbitmap_cvg     : 0.37%\nunique_crashes : 35\nunique_hangs   : 50\nlast_path      : 1499975637\nlast_crash     : 1499975540\nlast_hang      : 1499975678\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Simple_Stack_Machine/input -o /dev/shm/work/Simple_Stack_Machine/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Simple_Stack_Machine/Simple_Stack_Machine.dict -- data/linux/processed-challenges/Simple_Stack_Machine/bin/Simple_Stack_Machine\n'
+p71
+I4
+tp72
+a(I4320
+S'start_time     : 1499971481\nlast_update    : 1499975809\nfuzzer_pid     : 18089\ncycles_done    : 0\nexecs_done     : 3538503\nexecs_per_sec  : 808.38\npaths_total    : 226\npaths_favored  : 70\npaths_found    : 225\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 198\npending_favs   : 10\npending_total  : 146\nvariable_paths : 0\nbitmap_cvg     : 0.37%\nunique_crashes : 36\nunique_hangs   : 51\nlast_path      : 1499975767\nlast_crash     : 1499975714\nlast_hang      : 1499975689\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Simple_Stack_Machine/input -o /dev/shm/work/Simple_Stack_Machine/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Simple_Stack_Machine/Simple_Stack_Machine.dict -- data/linux/processed-challenges/Simple_Stack_Machine/bin/Simple_Stack_Machine\n'
+p73
+I2
+tp74
+a(I4440
+S'start_time     : 1499971481\nlast_update    : 1499975929\nfuzzer_pid     : 18089\ncycles_done    : 0\nexecs_done     : 3638630\nexecs_per_sec  : 840.37\npaths_total    : 227\npaths_favored  : 70\npaths_found    : 226\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 203\npending_favs   : 7\npending_total  : 144\nvariable_paths : 0\nbitmap_cvg     : 0.37%\nunique_crashes : 37\nunique_hangs   : 52\nlast_path      : 1499975844\nlast_crash     : 1499975814\nlast_hang      : 1499975823\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Simple_Stack_Machine/input -o /dev/shm/work/Simple_Stack_Machine/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Simple_Stack_Machine/Simple_Stack_Machine.dict -- data/linux/processed-challenges/Simple_Stack_Machine/bin/Simple_Stack_Machine\n'
+p75
+I1
+tp76
+a(I4560
+S'start_time     : 1499971481\nlast_update    : 1499976049\nfuzzer_pid     : 18089\ncycles_done    : 0\nexecs_done     : 3738261\nexecs_per_sec  : 841.28\npaths_total    : 229\npaths_favored  : 70\npaths_found    : 228\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 228\npending_favs   : 3\npending_total  : 142\nvariable_paths : 0\nbitmap_cvg     : 0.37%\nunique_crashes : 38\nunique_hangs   : 52\nlast_path      : 1499976006\nlast_crash     : 1499976048\nlast_hang      : 1499975823\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Simple_Stack_Machine/input -o /dev/shm/work/Simple_Stack_Machine/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Simple_Stack_Machine/Simple_Stack_Machine.dict -- data/linux/processed-challenges/Simple_Stack_Machine/bin/Simple_Stack_Machine\n'
+p77
+I2
+tp78
+a(I4680
+S'start_time     : 1499971481\nlast_update    : 1499976170\nfuzzer_pid     : 18089\ncycles_done    : 0\nexecs_done     : 3838193\nexecs_per_sec  : 826.89\npaths_total    : 232\npaths_favored  : 70\npaths_found    : 231\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 228\npending_favs   : 3\npending_total  : 145\nvariable_paths : 0\nbitmap_cvg     : 0.37%\nunique_crashes : 39\nunique_hangs   : 53\nlast_path      : 1499976111\nlast_crash     : 1499976138\nlast_hang      : 1499976150\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Simple_Stack_Machine/input -o /dev/shm/work/Simple_Stack_Machine/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Simple_Stack_Machine/Simple_Stack_Machine.dict -- data/linux/processed-challenges/Simple_Stack_Machine/bin/Simple_Stack_Machine\n'
+p79
+I3
+tp80
+a(I4800
+S'start_time     : 1499971481\nlast_update    : 1499976290\nfuzzer_pid     : 18089\ncycles_done    : 1\nexecs_done     : 3937675\nexecs_per_sec  : 752.85\npaths_total    : 234\npaths_favored  : 70\npaths_found    : 233\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 112\npending_favs   : 1\npending_total  : 144\nvariable_paths : 0\nbitmap_cvg     : 0.37%\nunique_crashes : 39\nunique_hangs   : 53\nlast_path      : 1499976257\nlast_crash     : 1499976138\nlast_hang      : 1499976150\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Simple_Stack_Machine/input -o /dev/shm/work/Simple_Stack_Machine/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Simple_Stack_Machine/Simple_Stack_Machine.dict -- data/linux/processed-challenges/Simple_Stack_Machine/bin/Simple_Stack_Machine\n'
+p81
+I2
+tp82
+a(I4920
+S'start_time     : 1499971481\nlast_update    : 1499976410\nfuzzer_pid     : 18089\ncycles_done    : 1\nexecs_done     : 4034392\nexecs_per_sec  : 795.01\npaths_total    : 235\npaths_favored  : 70\npaths_found    : 234\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 119\npending_favs   : 0\npending_total  : 143\nvariable_paths : 0\nbitmap_cvg     : 0.37%\nunique_crashes : 39\nunique_hangs   : 53\nlast_path      : 1499976323\nlast_crash     : 1499976138\nlast_hang      : 1499976150\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Simple_Stack_Machine/input -o /dev/shm/work/Simple_Stack_Machine/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Simple_Stack_Machine/Simple_Stack_Machine.dict -- data/linux/processed-challenges/Simple_Stack_Machine/bin/Simple_Stack_Machine\n'
+p83
+I1
+tp84
+a(I5040
+S'start_time     : 1499971481\nlast_update    : 1499976530\nfuzzer_pid     : 18089\ncycles_done    : 1\nexecs_done     : 4130783\nexecs_per_sec  : 787.93\npaths_total    : 238\npaths_favored  : 70\npaths_found    : 237\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 122\npending_favs   : 0\npending_total  : 145\nvariable_paths : 0\nbitmap_cvg     : 0.37%\nunique_crashes : 39\nunique_hangs   : 53\nlast_path      : 1499976462\nlast_crash     : 1499976138\nlast_hang      : 1499976150\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Simple_Stack_Machine/input -o /dev/shm/work/Simple_Stack_Machine/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Simple_Stack_Machine/Simple_Stack_Machine.dict -- data/linux/processed-challenges/Simple_Stack_Machine/bin/Simple_Stack_Machine\n'
+p85
+I3
+tp86
+a(I5160
+S'start_time     : 1499971481\nlast_update    : 1499976650\nfuzzer_pid     : 18089\ncycles_done    : 1\nexecs_done     : 4228020\nexecs_per_sec  : 800.17\npaths_total    : 243\npaths_favored  : 70\npaths_found    : 242\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 122\npending_favs   : 0\npending_total  : 150\nvariable_paths : 0\nbitmap_cvg     : 0.37%\nunique_crashes : 39\nunique_hangs   : 53\nlast_path      : 1499976627\nlast_crash     : 1499976138\nlast_hang      : 1499976150\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Simple_Stack_Machine/input -o /dev/shm/work/Simple_Stack_Machine/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Simple_Stack_Machine/Simple_Stack_Machine.dict -- data/linux/processed-challenges/Simple_Stack_Machine/bin/Simple_Stack_Machine\n'
+p87
+I6
+tp88
+a(I5280
+S'start_time     : 1499971481\nlast_update    : 1499976771\nfuzzer_pid     : 18089\ncycles_done    : 1\nexecs_done     : 4324549\nexecs_per_sec  : 789.08\npaths_total    : 246\npaths_favored  : 70\npaths_found    : 245\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 122\npending_favs   : 0\npending_total  : 153\nvariable_paths : 0\nbitmap_cvg     : 0.37%\nunique_crashes : 39\nunique_hangs   : 53\nlast_path      : 1499976739\nlast_crash     : 1499976138\nlast_hang      : 1499976150\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Simple_Stack_Machine/input -o /dev/shm/work/Simple_Stack_Machine/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Simple_Stack_Machine/Simple_Stack_Machine.dict -- data/linux/processed-challenges/Simple_Stack_Machine/bin/Simple_Stack_Machine\n'
+p89
+I2
+tp90
+a(I5400
+S'start_time     : 1499971481\nlast_update    : 1499976891\nfuzzer_pid     : 18089\ncycles_done    : 1\nexecs_done     : 4420407\nexecs_per_sec  : 811.83\npaths_total    : 246\npaths_favored  : 70\npaths_found    : 245\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 140\npending_favs   : 0\npending_total  : 151\nvariable_paths : 0\nbitmap_cvg     : 0.37%\nunique_crashes : 39\nunique_hangs   : 53\nlast_path      : 1499976739\nlast_crash     : 1499976138\nlast_hang      : 1499976150\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Simple_Stack_Machine/input -o /dev/shm/work/Simple_Stack_Machine/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Simple_Stack_Machine/Simple_Stack_Machine.dict -- data/linux/processed-challenges/Simple_Stack_Machine/bin/Simple_Stack_Machine\n'
+p91
+I0
+tp92
+a(I5520
+S'start_time     : 1499971481\nlast_update    : 1499977011\nfuzzer_pid     : 18089\ncycles_done    : 1\nexecs_done     : 4520468\nexecs_per_sec  : 826.01\npaths_total    : 250\npaths_favored  : 70\npaths_found    : 249\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 140\npending_favs   : 0\npending_total  : 155\nvariable_paths : 0\nbitmap_cvg     : 0.37%\nunique_crashes : 39\nunique_hangs   : 53\nlast_path      : 1499977000\nlast_crash     : 1499976138\nlast_hang      : 1499976150\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Simple_Stack_Machine/input -o /dev/shm/work/Simple_Stack_Machine/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Simple_Stack_Machine/Simple_Stack_Machine.dict -- data/linux/processed-challenges/Simple_Stack_Machine/bin/Simple_Stack_Machine\n'
+p93
+I4
+tp94
+a(I5640
+S'start_time     : 1499971481\nlast_update    : 1499977132\nfuzzer_pid     : 18089\ncycles_done    : 1\nexecs_done     : 4622926\nexecs_per_sec  : 830.82\npaths_total    : 251\npaths_favored  : 70\npaths_found    : 250\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 145\npending_favs   : 0\npending_total  : 155\nvariable_paths : 0\nbitmap_cvg     : 0.37%\nunique_crashes : 39\nunique_hangs   : 53\nlast_path      : 1499977052\nlast_crash     : 1499976138\nlast_hang      : 1499976150\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Simple_Stack_Machine/input -o /dev/shm/work/Simple_Stack_Machine/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Simple_Stack_Machine/Simple_Stack_Machine.dict -- data/linux/processed-challenges/Simple_Stack_Machine/bin/Simple_Stack_Machine\n'
+p95
+I1
+tp96
+a(I5760
+S'start_time     : 1499971481\nlast_update    : 1499977252\nfuzzer_pid     : 18089\ncycles_done    : 1\nexecs_done     : 4724047\nexecs_per_sec  : 837.07\npaths_total    : 258\npaths_favored  : 70\npaths_found    : 257\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 146\npending_favs   : 0\npending_total  : 161\nvariable_paths : 0\nbitmap_cvg     : 0.37%\nunique_crashes : 39\nunique_hangs   : 53\nlast_path      : 1499977233\nlast_crash     : 1499976138\nlast_hang      : 1499976150\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Simple_Stack_Machine/input -o /dev/shm/work/Simple_Stack_Machine/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Simple_Stack_Machine/Simple_Stack_Machine.dict -- data/linux/processed-challenges/Simple_Stack_Machine/bin/Simple_Stack_Machine\n'
+p97
+I7
+tp98
+a(I5880
+S'start_time     : 1499971481\nlast_update    : 1499977372\nfuzzer_pid     : 18089\ncycles_done    : 1\nexecs_done     : 4824093\nexecs_per_sec  : 820.09\npaths_total    : 261\npaths_favored  : 70\npaths_found    : 260\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 146\npending_favs   : 0\npending_total  : 164\nvariable_paths : 0\nbitmap_cvg     : 0.37%\nunique_crashes : 39\nunique_hangs   : 54\nlast_path      : 1499977361\nlast_crash     : 1499976138\nlast_hang      : 1499977346\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Simple_Stack_Machine/input -o /dev/shm/work/Simple_Stack_Machine/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Simple_Stack_Machine/Simple_Stack_Machine.dict -- data/linux/processed-challenges/Simple_Stack_Machine/bin/Simple_Stack_Machine\n'
+p99
+I3
+tp100
+a(I6000
+S'start_time     : 1499971481\nlast_update    : 1499977492\nfuzzer_pid     : 18089\ncycles_done    : 1\nexecs_done     : 4924608\nexecs_per_sec  : 799.75\npaths_total    : 263\npaths_favored  : 70\npaths_found    : 262\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 152\npending_favs   : 0\npending_total  : 164\nvariable_paths : 0\nbitmap_cvg     : 0.37%\nunique_crashes : 39\nunique_hangs   : 54\nlast_path      : 1499977382\nlast_crash     : 1499976138\nlast_hang      : 1499977346\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Simple_Stack_Machine/input -o /dev/shm/work/Simple_Stack_Machine/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Simple_Stack_Machine/Simple_Stack_Machine.dict -- data/linux/processed-challenges/Simple_Stack_Machine/bin/Simple_Stack_Machine\n'
+p101
+I2
+tp102
+a(I6120
+S'start_time     : 1499971481\nlast_update    : 1499977612\nfuzzer_pid     : 18089\ncycles_done    : 1\nexecs_done     : 5020288\nexecs_per_sec  : 756.00\npaths_total    : 271\npaths_favored  : 70\npaths_found    : 270\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 156\npending_favs   : 0\npending_total  : 171\nvariable_paths : 0\nbitmap_cvg     : 0.37%\nunique_crashes : 42\nunique_hangs   : 54\nlast_path      : 1499977605\nlast_crash     : 1499977603\nlast_hang      : 1499977346\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Simple_Stack_Machine/input -o /dev/shm/work/Simple_Stack_Machine/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Simple_Stack_Machine/Simple_Stack_Machine.dict -- data/linux/processed-challenges/Simple_Stack_Machine/bin/Simple_Stack_Machine\n'
+p103
+I10
+tp104
+a(I6240
+S'start_time     : 1499971481\nlast_update    : 1499977733\nfuzzer_pid     : 18089\ncycles_done    : 1\nexecs_done     : 5116291\nexecs_per_sec  : 807.44\npaths_total    : 279\npaths_favored  : 71\npaths_found    : 278\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 268\npending_favs   : 2\npending_total  : 177\nvariable_paths : 0\nbitmap_cvg     : 0.37%\nunique_crashes : 43\nunique_hangs   : 56\nlast_path      : 1499977732\nlast_crash     : 1499977708\nlast_hang      : 1499977718\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Simple_Stack_Machine/input -o /dev/shm/work/Simple_Stack_Machine/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Simple_Stack_Machine/Simple_Stack_Machine.dict -- data/linux/processed-challenges/Simple_Stack_Machine/bin/Simple_Stack_Machine\n'
+p105
+I6
+tp106
+a(I6360
+S'start_time     : 1499971481\nlast_update    : 1499977853\nfuzzer_pid     : 18089\ncycles_done    : 1\nexecs_done     : 5212942\nexecs_per_sec  : 796.03\npaths_total    : 286\npaths_favored  : 71\npaths_found    : 285\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 268\npending_favs   : 2\npending_total  : 184\nvariable_paths : 0\nbitmap_cvg     : 0.37%\nunique_crashes : 46\nunique_hangs   : 56\nlast_path      : 1499977823\nlast_crash     : 1499977845\nlast_hang      : 1499977718\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Simple_Stack_Machine/input -o /dev/shm/work/Simple_Stack_Machine/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Simple_Stack_Machine/Simple_Stack_Machine.dict -- data/linux/processed-challenges/Simple_Stack_Machine/bin/Simple_Stack_Machine\n'
+p107
+I7
+tp108
+a(I6480
+S'start_time     : 1499971481\nlast_update    : 1499977973\nfuzzer_pid     : 18089\ncycles_done    : 1\nexecs_done     : 5307681\nexecs_per_sec  : 812.31\npaths_total    : 293\npaths_favored  : 70\npaths_found    : 292\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 274\npending_favs   : 1\npending_total  : 190\nvariable_paths : 0\nbitmap_cvg     : 0.37%\nunique_crashes : 49\nunique_hangs   : 57\nlast_path      : 1499977967\nlast_crash     : 1499977908\nlast_hang      : 1499977946\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Simple_Stack_Machine/input -o /dev/shm/work/Simple_Stack_Machine/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Simple_Stack_Machine/Simple_Stack_Machine.dict -- data/linux/processed-challenges/Simple_Stack_Machine/bin/Simple_Stack_Machine\n'
+p109
+I7
+tp110
+a(I6600
+S'start_time     : 1499971481\nlast_update    : 1499978093\nfuzzer_pid     : 18089\ncycles_done    : 1\nexecs_done     : 5406197\nexecs_per_sec  : 821.23\npaths_total    : 295\npaths_favored  : 70\npaths_found    : 294\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 274\npending_favs   : 1\npending_total  : 192\nvariable_paths : 0\nbitmap_cvg     : 0.37%\nunique_crashes : 49\nunique_hangs   : 57\nlast_path      : 1499978076\nlast_crash     : 1499977908\nlast_hang      : 1499977946\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Simple_Stack_Machine/input -o /dev/shm/work/Simple_Stack_Machine/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Simple_Stack_Machine/Simple_Stack_Machine.dict -- data/linux/processed-challenges/Simple_Stack_Machine/bin/Simple_Stack_Machine\n'
+p111
+I2
+tp112
+a(I6720
+S'start_time     : 1499971481\nlast_update    : 1499978213\nfuzzer_pid     : 18089\ncycles_done    : 1\nexecs_done     : 5503454\nexecs_per_sec  : 795.13\npaths_total    : 305\npaths_favored  : 70\npaths_found    : 304\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 277\npending_favs   : 0\npending_total  : 201\nvariable_paths : 0\nbitmap_cvg     : 0.37%\nunique_crashes : 49\nunique_hangs   : 58\nlast_path      : 1499978200\nlast_crash     : 1499977908\nlast_hang      : 1499978194\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Simple_Stack_Machine/input -o /dev/shm/work/Simple_Stack_Machine/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Simple_Stack_Machine/Simple_Stack_Machine.dict -- data/linux/processed-challenges/Simple_Stack_Machine/bin/Simple_Stack_Machine\n'
+p113
+I10
+tp114
+a(I6840
+S'start_time     : 1499971481\nlast_update    : 1499978333\nfuzzer_pid     : 18089\ncycles_done    : 1\nexecs_done     : 5604169\nexecs_per_sec  : 841.68\npaths_total    : 310\npaths_favored  : 70\npaths_found    : 309\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 277\npending_favs   : 0\npending_total  : 206\nvariable_paths : 0\nbitmap_cvg     : 0.37%\nunique_crashes : 49\nunique_hangs   : 59\nlast_path      : 1499978325\nlast_crash     : 1499977908\nlast_hang      : 1499978278\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Simple_Stack_Machine/input -o /dev/shm/work/Simple_Stack_Machine/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Simple_Stack_Machine/Simple_Stack_Machine.dict -- data/linux/processed-challenges/Simple_Stack_Machine/bin/Simple_Stack_Machine\n'
+p115
+I5
+tp116
+a(I6960
+S'start_time     : 1499971481\nlast_update    : 1499978454\nfuzzer_pid     : 18089\ncycles_done    : 1\nexecs_done     : 5687406\nexecs_per_sec  : 762.10\npaths_total    : 322\npaths_favored  : 70\npaths_found    : 321\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 281\npending_favs   : 0\npending_total  : 217\nvariable_paths : 0\nbitmap_cvg     : 0.37%\nunique_crashes : 49\nunique_hangs   : 59\nlast_path      : 1499978453\nlast_crash     : 1499977908\nlast_hang      : 1499978278\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Simple_Stack_Machine/input -o /dev/shm/work/Simple_Stack_Machine/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Simple_Stack_Machine/Simple_Stack_Machine.dict -- data/linux/processed-challenges/Simple_Stack_Machine/bin/Simple_Stack_Machine\n'
+p117
+I12
+tp118
+a(I7080
+S'start_time     : 1499971481\nlast_update    : 1499978514\nfuzzer_pid     : 18089\ncycles_done    : 1\nexecs_done     : 5733661\nexecs_per_sec  : 783.92\npaths_total    : 323\npaths_favored  : 70\npaths_found    : 322\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 281\npending_favs   : 0\npending_total  : 218\nvariable_paths : 0\nbitmap_cvg     : 0.37%\nunique_crashes : 49\nunique_hangs   : 60\nlast_path      : 1499978491\nlast_crash     : 1499977908\nlast_hang      : 1499978463\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Simple_Stack_Machine/input -o /dev/shm/work/Simple_Stack_Machine/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Simple_Stack_Machine/Simple_Stack_Machine.dict -- data/linux/processed-challenges/Simple_Stack_Machine/bin/Simple_Stack_Machine\n'
+p119
+I1
+tp120
+a(I7200
+S'start_time     : 1499971481\nlast_update    : 1499978634\nfuzzer_pid     : 18089\ncycles_done    : 1\nexecs_done     : 5825646\nexecs_per_sec  : 736.08\npaths_total    : 329\npaths_favored  : 70\npaths_found    : 328\npaths_imported : 0\nmax_depth      : 8\ncur_path       : 284\npending_favs   : 0\npending_total  : 223\nvariable_paths : 0\nbitmap_cvg     : 0.37%\nunique_crashes : 49\nunique_hangs   : 60\nlast_path      : 1499978632\nlast_crash     : 1499977908\nlast_hang      : 1499978463\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Simple_Stack_Machine/input -o /dev/shm/work/Simple_Stack_Machine/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Simple_Stack_Machine/Simple_Stack_Machine.dict -- data/linux/processed-challenges/Simple_Stack_Machine/bin/Simple_Stack_Machine\n'
+p121
+I7
+tp122
+a(I7320
+S'start_time     : 1499971481\nlast_update    : 1499978754\nfuzzer_pid     : 18089\ncycles_done    : 1\nexecs_done     : 5918170\nexecs_per_sec  : 863.63\npaths_total    : 331\npaths_favored  : 70\npaths_found    : 330\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 288\npending_favs   : 0\npending_total  : 224\nvariable_paths : 0\nbitmap_cvg     : 0.37%\nunique_crashes : 49\nunique_hangs   : 60\nlast_path      : 1499978739\nlast_crash     : 1499977908\nlast_hang      : 1499978463\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Simple_Stack_Machine/input -o /dev/shm/work/Simple_Stack_Machine/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Simple_Stack_Machine/Simple_Stack_Machine.dict -- data/linux/processed-challenges/Simple_Stack_Machine/bin/Simple_Stack_Machine\n'
+p123
+I1
+tp124
+a(I7440
+S'start_time     : 1499971481\nlast_update    : 1499978874\nfuzzer_pid     : 18089\ncycles_done    : 1\nexecs_done     : 6005762\nexecs_per_sec  : 807.34\npaths_total    : 336\npaths_favored  : 70\npaths_found    : 335\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 292\npending_favs   : 0\npending_total  : 228\nvariable_paths : 0\nbitmap_cvg     : 0.37%\nunique_crashes : 49\nunique_hangs   : 60\nlast_path      : 1499978870\nlast_crash     : 1499977908\nlast_hang      : 1499978463\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Simple_Stack_Machine/input -o /dev/shm/work/Simple_Stack_Machine/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Simple_Stack_Machine/Simple_Stack_Machine.dict -- data/linux/processed-challenges/Simple_Stack_Machine/bin/Simple_Stack_Machine\n'
+p125
+I6
+tp126
+a(I7560
+S'start_time     : 1499971481\nlast_update    : 1499978994\nfuzzer_pid     : 18089\ncycles_done    : 1\nexecs_done     : 6099453\nexecs_per_sec  : 796.87\npaths_total    : 337\npaths_favored  : 70\npaths_found    : 336\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 292\npending_favs   : 0\npending_total  : 229\nvariable_paths : 0\nbitmap_cvg     : 0.37%\nunique_crashes : 49\nunique_hangs   : 60\nlast_path      : 1499978898\nlast_crash     : 1499977908\nlast_hang      : 1499978463\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Simple_Stack_Machine/input -o /dev/shm/work/Simple_Stack_Machine/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Simple_Stack_Machine/Simple_Stack_Machine.dict -- data/linux/processed-challenges/Simple_Stack_Machine/bin/Simple_Stack_Machine\n'
+p127
+I1
+tp128
+a(I7680
+S'start_time     : 1499971481\nlast_update    : 1499979115\nfuzzer_pid     : 18089\ncycles_done    : 1\nexecs_done     : 6178291\nexecs_per_sec  : 756.18\npaths_total    : 338\npaths_favored  : 70\npaths_found    : 337\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 293\npending_favs   : 0\npending_total  : 229\nvariable_paths : 0\nbitmap_cvg     : 0.37%\nunique_crashes : 49\nunique_hangs   : 61\nlast_path      : 1499979016\nlast_crash     : 1499977908\nlast_hang      : 1499979016\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Simple_Stack_Machine/input -o /dev/shm/work/Simple_Stack_Machine/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Simple_Stack_Machine/Simple_Stack_Machine.dict -- data/linux/processed-challenges/Simple_Stack_Machine/bin/Simple_Stack_Machine\n'
+p129
+I0
+tp130
+a(I7800
+S'start_time     : 1499971481\nlast_update    : 1499979235\nfuzzer_pid     : 18089\ncycles_done    : 1\nexecs_done     : 6261817\nexecs_per_sec  : 428.29\npaths_total    : 338\npaths_favored  : 70\npaths_found    : 337\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 299\npending_favs   : 0\npending_total  : 227\nvariable_paths : 0\nbitmap_cvg     : 0.37%\nunique_crashes : 49\nunique_hangs   : 61\nlast_path      : 1499979016\nlast_crash     : 1499977908\nlast_hang      : 1499979016\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Simple_Stack_Machine/input -o /dev/shm/work/Simple_Stack_Machine/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Simple_Stack_Machine/Simple_Stack_Machine.dict -- data/linux/processed-challenges/Simple_Stack_Machine/bin/Simple_Stack_Machine\n'
+p131
+I1
+tp132
+a(I7920
+S'start_time     : 1499971481\nlast_update    : 1499979355\nfuzzer_pid     : 18089\ncycles_done    : 1\nexecs_done     : 6355153\nexecs_per_sec  : 638.74\npaths_total    : 339\npaths_favored  : 70\npaths_found    : 338\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 306\npending_favs   : 0\npending_total  : 227\nvariable_paths : 0\nbitmap_cvg     : 0.37%\nunique_crashes : 51\nunique_hangs   : 61\nlast_path      : 1499979288\nlast_crash     : 1499979339\nlast_hang      : 1499979016\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Simple_Stack_Machine/input -o /dev/shm/work/Simple_Stack_Machine/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Simple_Stack_Machine/Simple_Stack_Machine.dict -- data/linux/processed-challenges/Simple_Stack_Machine/bin/Simple_Stack_Machine\n'
+p133
+I3
+tp134
+a(I8040
+S'start_time     : 1499971481\nlast_update    : 1499979475\nfuzzer_pid     : 18089\ncycles_done    : 1\nexecs_done     : 6449415\nexecs_per_sec  : 769.16\npaths_total    : 343\npaths_favored  : 70\npaths_found    : 342\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 306\npending_favs   : 0\npending_total  : 231\nvariable_paths : 0\nbitmap_cvg     : 0.37%\nunique_crashes : 51\nunique_hangs   : 61\nlast_path      : 1499979472\nlast_crash     : 1499979339\nlast_hang      : 1499979016\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Simple_Stack_Machine/input -o /dev/shm/work/Simple_Stack_Machine/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Simple_Stack_Machine/Simple_Stack_Machine.dict -- data/linux/processed-challenges/Simple_Stack_Machine/bin/Simple_Stack_Machine\n'
+p135
+I1
+tp136
+a(I8160
+S'start_time     : 1499971481\nlast_update    : 1499979596\nfuzzer_pid     : 18089\ncycles_done    : 1\nexecs_done     : 6540407\nexecs_per_sec  : 684.70\npaths_total    : 343\npaths_favored  : 70\npaths_found    : 342\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 308\npending_favs   : 0\npending_total  : 230\nvariable_paths : 0\nbitmap_cvg     : 0.37%\nunique_crashes : 51\nunique_hangs   : 61\nlast_path      : 1499979472\nlast_crash     : 1499979339\nlast_hang      : 1499979016\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Simple_Stack_Machine/input -o /dev/shm/work/Simple_Stack_Machine/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Simple_Stack_Machine/Simple_Stack_Machine.dict -- data/linux/processed-challenges/Simple_Stack_Machine/bin/Simple_Stack_Machine\n'
+p137
+I2
+tp138
+a(I8280
+S'start_time     : 1499971481\nlast_update    : 1499979716\nfuzzer_pid     : 18089\ncycles_done    : 1\nexecs_done     : 6634196\nexecs_per_sec  : 808.12\npaths_total    : 345\npaths_favored  : 70\npaths_found    : 344\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 308\npending_favs   : 0\npending_total  : 232\nvariable_paths : 0\nbitmap_cvg     : 0.37%\nunique_crashes : 52\nunique_hangs   : 61\nlast_path      : 1499979645\nlast_crash     : 1499979706\nlast_hang      : 1499979016\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Simple_Stack_Machine/input -o /dev/shm/work/Simple_Stack_Machine/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Simple_Stack_Machine/Simple_Stack_Machine.dict -- data/linux/processed-challenges/Simple_Stack_Machine/bin/Simple_Stack_Machine\n'
+p139
+I3
+tp140
+a(I8400
+S'start_time     : 1499971481\nlast_update    : 1499979836\nfuzzer_pid     : 18089\ncycles_done    : 1\nexecs_done     : 6726075\nexecs_per_sec  : 780.23\npaths_total    : 353\npaths_favored  : 70\npaths_found    : 352\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 316\npending_favs   : 0\npending_total  : 239\nvariable_paths : 0\nbitmap_cvg     : 0.37%\nunique_crashes : 54\nunique_hangs   : 61\nlast_path      : 1499979832\nlast_crash     : 1499979774\nlast_hang      : 1499979016\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Simple_Stack_Machine/input -o /dev/shm/work/Simple_Stack_Machine/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Simple_Stack_Machine/Simple_Stack_Machine.dict -- data/linux/processed-challenges/Simple_Stack_Machine/bin/Simple_Stack_Machine\n'
+p141
+I6
+tp142
+a(I8520
+S'start_time     : 1499971481\nlast_update    : 1499979957\nfuzzer_pid     : 18089\ncycles_done    : 1\nexecs_done     : 6820705\nexecs_per_sec  : 773.59\npaths_total    : 354\npaths_favored  : 70\npaths_found    : 353\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 316\npending_favs   : 0\npending_total  : 240\nvariable_paths : 0\nbitmap_cvg     : 0.37%\nunique_crashes : 55\nunique_hangs   : 62\nlast_path      : 1499979881\nlast_crash     : 1499979868\nlast_hang      : 1499979921\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Simple_Stack_Machine/input -o /dev/shm/work/Simple_Stack_Machine/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Simple_Stack_Machine/Simple_Stack_Machine.dict -- data/linux/processed-challenges/Simple_Stack_Machine/bin/Simple_Stack_Machine\n'
+p143
+I2
+tp144
+a(I8640
+S'start_time     : 1499971481\nlast_update    : 1499980077\nfuzzer_pid     : 18089\ncycles_done    : 1\nexecs_done     : 6905490\nexecs_per_sec  : 387.32\npaths_total    : 356\npaths_favored  : 70\npaths_found    : 355\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 317\npending_favs   : 0\npending_total  : 241\nvariable_paths : 0\nbitmap_cvg     : 0.37%\nunique_crashes : 56\nunique_hangs   : 65\nlast_path      : 1499980013\nlast_crash     : 1499979969\nlast_hang      : 1499980060\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Simple_Stack_Machine/input -o /dev/shm/work/Simple_Stack_Machine/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Simple_Stack_Machine/Simple_Stack_Machine.dict -- data/linux/processed-challenges/Simple_Stack_Machine/bin/Simple_Stack_Machine\n'
+p145
+I0
+tp146
+a(I8760
+S'start_time     : 1499971481\nlast_update    : 1499980197\nfuzzer_pid     : 18089\ncycles_done    : 1\nexecs_done     : 6989825\nexecs_per_sec  : 732.44\npaths_total    : 357\npaths_favored  : 70\npaths_found    : 356\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 323\npending_favs   : 0\npending_total  : 241\nvariable_paths : 0\nbitmap_cvg     : 0.37%\nunique_crashes : 56\nunique_hangs   : 65\nlast_path      : 1499980138\nlast_crash     : 1499979969\nlast_hang      : 1499980060\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Simple_Stack_Machine/input -o /dev/shm/work/Simple_Stack_Machine/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Simple_Stack_Machine/Simple_Stack_Machine.dict -- data/linux/processed-challenges/Simple_Stack_Machine/bin/Simple_Stack_Machine\n'
+p147
+I3
+tp148
+a(I8880
+S'start_time     : 1499971481\nlast_update    : 1499980317\nfuzzer_pid     : 18089\ncycles_done    : 1\nexecs_done     : 7082768\nexecs_per_sec  : 787.47\npaths_total    : 360\npaths_favored  : 70\npaths_found    : 359\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 323\npending_favs   : 0\npending_total  : 244\nvariable_paths : 0\nbitmap_cvg     : 0.37%\nunique_crashes : 56\nunique_hangs   : 65\nlast_path      : 1499980278\nlast_crash     : 1499979969\nlast_hang      : 1499980060\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Simple_Stack_Machine/input -o /dev/shm/work/Simple_Stack_Machine/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Simple_Stack_Machine/Simple_Stack_Machine.dict -- data/linux/processed-challenges/Simple_Stack_Machine/bin/Simple_Stack_Machine\n'
+p149
+I1
+tp150
+a(I9000
+S'start_time     : 1499971481\nlast_update    : 1499980437\nfuzzer_pid     : 18089\ncycles_done    : 1\nexecs_done     : 7168714\nexecs_per_sec  : 370.88\npaths_total    : 361\npaths_favored  : 70\npaths_found    : 360\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 324\npending_favs   : 0\npending_total  : 244\nvariable_paths : 0\nbitmap_cvg     : 0.37%\nunique_crashes : 56\nunique_hangs   : 65\nlast_path      : 1499980378\nlast_crash     : 1499979969\nlast_hang      : 1499980060\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Simple_Stack_Machine/input -o /dev/shm/work/Simple_Stack_Machine/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Simple_Stack_Machine/Simple_Stack_Machine.dict -- data/linux/processed-challenges/Simple_Stack_Machine/bin/Simple_Stack_Machine\n'
+p151
+I1
+tp152
+a(I9120
+S'start_time     : 1499971481\nlast_update    : 1499980558\nfuzzer_pid     : 18089\ncycles_done    : 1\nexecs_done     : 7247757\nexecs_per_sec  : 637.12\npaths_total    : 361\npaths_favored  : 70\npaths_found    : 360\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 325\npending_favs   : 0\npending_total  : 243\nvariable_paths : 0\nbitmap_cvg     : 0.37%\nunique_crashes : 56\nunique_hangs   : 65\nlast_path      : 1499980378\nlast_crash     : 1499979969\nlast_hang      : 1499980060\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Simple_Stack_Machine/input -o /dev/shm/work/Simple_Stack_Machine/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Simple_Stack_Machine/Simple_Stack_Machine.dict -- data/linux/processed-challenges/Simple_Stack_Machine/bin/Simple_Stack_Machine\n'
+p153
+I0
+tp154
+a(I9240
+S'start_time     : 1499971481\nlast_update    : 1499980678\nfuzzer_pid     : 18089\ncycles_done    : 1\nexecs_done     : 7340010\nexecs_per_sec  : 810.36\npaths_total    : 362\npaths_favored  : 70\npaths_found    : 361\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 329\npending_favs   : 0\npending_total  : 243\nvariable_paths : 0\nbitmap_cvg     : 0.37%\nunique_crashes : 56\nunique_hangs   : 65\nlast_path      : 1499980677\nlast_crash     : 1499979969\nlast_hang      : 1499980060\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Simple_Stack_Machine/input -o /dev/shm/work/Simple_Stack_Machine/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Simple_Stack_Machine/Simple_Stack_Machine.dict -- data/linux/processed-challenges/Simple_Stack_Machine/bin/Simple_Stack_Machine\n'
+p155
+I2
+tp156
+a(I9360
+S'start_time     : 1499971481\nlast_update    : 1499980798\nfuzzer_pid     : 18089\ncycles_done    : 1\nexecs_done     : 7439774\nexecs_per_sec  : 830.60\npaths_total    : 364\npaths_favored  : 70\npaths_found    : 363\npaths_imported : 0\nmax_depth      : 9\ncur_path       : 329\npending_favs   : 0\npending_total  : 245\nvariable_paths : 0\nbitmap_cvg     : 0.37%\nunique_crashes : 56\nunique_hangs   : 65\nlast_path      : 1499980758\nlast_crash     : 1499979969\nlast_hang      : 1499980060\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Simple_Stack_Machine/input -o /dev/shm/work/Simple_Stack_Machine/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Simple_Stack_Machine/Simple_Stack_Machine.dict -- data/linux/processed-challenges/Simple_Stack_Machine/bin/Simple_Stack_Machine\n'
+p157
+I1
+tp158
+a(I9480
+S'start_time     : 1499971481\nlast_update    : 1499980918\nfuzzer_pid     : 18089\ncycles_done    : 1\nexecs_done     : 7529979\nexecs_per_sec  : 767.16\npaths_total    : 366\npaths_favored  : 70\npaths_found    : 365\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 333\npending_favs   : 0\npending_total  : 246\nvariable_paths : 0\nbitmap_cvg     : 0.37%\nunique_crashes : 57\nunique_hangs   : 67\nlast_path      : 1499980898\nlast_crash     : 1499980799\nlast_hang      : 1499980869\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Simple_Stack_Machine/input -o /dev/shm/work/Simple_Stack_Machine/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Simple_Stack_Machine/Simple_Stack_Machine.dict -- data/linux/processed-challenges/Simple_Stack_Machine/bin/Simple_Stack_Machine\n'
+p159
+I3
+tp160
+a(I9600
+S'start_time     : 1499971481\nlast_update    : 1499981039\nfuzzer_pid     : 18089\ncycles_done    : 1\nexecs_done     : 7621265\nexecs_per_sec  : 527.27\npaths_total    : 367\npaths_favored  : 70\npaths_found    : 366\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 337\npending_favs   : 0\npending_total  : 246\nvariable_paths : 0\nbitmap_cvg     : 0.37%\nunique_crashes : 57\nunique_hangs   : 67\nlast_path      : 1499980923\nlast_crash     : 1499980799\nlast_hang      : 1499980869\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Simple_Stack_Machine/input -o /dev/shm/work/Simple_Stack_Machine/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Simple_Stack_Machine/Simple_Stack_Machine.dict -- data/linux/processed-challenges/Simple_Stack_Machine/bin/Simple_Stack_Machine\n'
+p161
+I2
+tp162
+a(I9720
+S'start_time     : 1499971481\nlast_update    : 1499981159\nfuzzer_pid     : 18089\ncycles_done    : 1\nexecs_done     : 7687614\nexecs_per_sec  : 664.86\npaths_total    : 369\npaths_favored  : 70\npaths_found    : 368\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 337\npending_favs   : 0\npending_total  : 248\nvariable_paths : 0\nbitmap_cvg     : 0.37%\nunique_crashes : 57\nunique_hangs   : 67\nlast_path      : 1499981091\nlast_crash     : 1499980799\nlast_hang      : 1499980869\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Simple_Stack_Machine/input -o /dev/shm/work/Simple_Stack_Machine/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Simple_Stack_Machine/Simple_Stack_Machine.dict -- data/linux/processed-challenges/Simple_Stack_Machine/bin/Simple_Stack_Machine\n'
+p163
+I0
+tp164
+a(I9840
+S'start_time     : 1499971481\nlast_update    : 1499981279\nfuzzer_pid     : 18089\ncycles_done    : 1\nexecs_done     : 7769054\nexecs_per_sec  : 770.06\npaths_total    : 370\npaths_favored  : 70\npaths_found    : 369\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 341\npending_favs   : 0\npending_total  : 248\nvariable_paths : 0\nbitmap_cvg     : 0.37%\nunique_crashes : 57\nunique_hangs   : 68\nlast_path      : 1499981227\nlast_crash     : 1499980799\nlast_hang      : 1499981251\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Simple_Stack_Machine/input -o /dev/shm/work/Simple_Stack_Machine/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Simple_Stack_Machine/Simple_Stack_Machine.dict -- data/linux/processed-challenges/Simple_Stack_Machine/bin/Simple_Stack_Machine\n'
+p165
+I1
+tp166
+a(I9960
+S'start_time     : 1499971481\nlast_update    : 1499981399\nfuzzer_pid     : 18089\ncycles_done    : 1\nexecs_done     : 7859947\nexecs_per_sec  : 806.88\npaths_total    : 371\npaths_favored  : 70\npaths_found    : 370\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 345\npending_favs   : 0\npending_total  : 248\nvariable_paths : 0\nbitmap_cvg     : 0.37%\nunique_crashes : 57\nunique_hangs   : 68\nlast_path      : 1499981388\nlast_crash     : 1499980799\nlast_hang      : 1499981251\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Simple_Stack_Machine/input -o /dev/shm/work/Simple_Stack_Machine/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Simple_Stack_Machine/Simple_Stack_Machine.dict -- data/linux/processed-challenges/Simple_Stack_Machine/bin/Simple_Stack_Machine\n'
+p167
+I1
+tp168
+a(I10080
+S'start_time     : 1499971481\nlast_update    : 1499981519\nfuzzer_pid     : 18089\ncycles_done    : 1\nexecs_done     : 7953290\nexecs_per_sec  : 813.03\npaths_total    : 371\npaths_favored  : 70\npaths_found    : 370\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 349\npending_favs   : 0\npending_total  : 247\nvariable_paths : 0\nbitmap_cvg     : 0.37%\nunique_crashes : 57\nunique_hangs   : 68\nlast_path      : 1499981388\nlast_crash     : 1499980799\nlast_hang      : 1499981251\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Simple_Stack_Machine/input -o /dev/shm/work/Simple_Stack_Machine/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Simple_Stack_Machine/Simple_Stack_Machine.dict -- data/linux/processed-challenges/Simple_Stack_Machine/bin/Simple_Stack_Machine\n'
+p169
+I1
+tp170
+a(I10200
+S'start_time     : 1499971481\nlast_update    : 1499981639\nfuzzer_pid     : 18089\ncycles_done    : 1\nexecs_done     : 8051630\nexecs_per_sec  : 805.87\npaths_total    : 373\npaths_favored  : 70\npaths_found    : 372\npaths_imported : 0\nmax_depth      : 10\ncur_path       : 349\npending_favs   : 0\npending_total  : 249\nvariable_paths : 0\nbitmap_cvg     : 0.37%\nunique_crashes : 57\nunique_hangs   : 68\nlast_path      : 1499981598\nlast_crash     : 1499980799\nlast_hang      : 1499981251\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Simple_Stack_Machine/input -o /dev/shm/work/Simple_Stack_Machine/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Simple_Stack_Machine/Simple_Stack_Machine.dict -- data/linux/processed-challenges/Simple_Stack_Machine/bin/Simple_Stack_Machine\n'
+p171
+I1
+tp172
+a(I10320
+S'start_time     : 1499971481\nlast_update    : 1499981760\nfuzzer_pid     : 18089\ncycles_done    : 1\nexecs_done     : 8134359\nexecs_per_sec  : 521.26\npaths_total    : 378\npaths_favored  : 70\npaths_found    : 377\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 364\npending_favs   : 0\npending_total  : 253\nvariable_paths : 0\nbitmap_cvg     : 0.37%\nunique_crashes : 57\nunique_hangs   : 68\nlast_path      : 1499981757\nlast_crash     : 1499980799\nlast_hang      : 1499981251\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Simple_Stack_Machine/input -o /dev/shm/work/Simple_Stack_Machine/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Simple_Stack_Machine/Simple_Stack_Machine.dict -- data/linux/processed-challenges/Simple_Stack_Machine/bin/Simple_Stack_Machine\n'
+p173
+I6
+tp174
+a(I10440
+S'start_time     : 1499971481\nlast_update    : 1499981880\nfuzzer_pid     : 18089\ncycles_done    : 1\nexecs_done     : 8225204\nexecs_per_sec  : 756.52\npaths_total    : 381\npaths_favored  : 70\npaths_found    : 380\npaths_imported : 0\nmax_depth      : 11\ncur_path       : 364\npending_favs   : 0\npending_total  : 256\nvariable_paths : 0\nbitmap_cvg     : 0.37%\nunique_crashes : 57\nunique_hangs   : 68\nlast_path      : 1499981874\nlast_crash     : 1499980799\nlast_hang      : 1499981251\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Simple_Stack_Machine/input -o /dev/shm/work/Simple_Stack_Machine/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Simple_Stack_Machine/Simple_Stack_Machine.dict -- data/linux/processed-challenges/Simple_Stack_Machine/bin/Simple_Stack_Machine\n'
+p175
+I3
+tp176
+a(I10560
+S'start_time     : 1499971481\nlast_update    : 1499982000\nfuzzer_pid     : 18089\ncycles_done    : 1\nexecs_done     : 8312746\nexecs_per_sec  : 593.73\npaths_total    : 386\npaths_favored  : 70\npaths_found    : 385\npaths_imported : 0\nmax_depth      : 12\ncur_path       : 374\npending_favs   : 0\npending_total  : 260\nvariable_paths : 0\nbitmap_cvg     : 0.37%\nunique_crashes : 57\nunique_hangs   : 68\nlast_path      : 1499981979\nlast_crash     : 1499980799\nlast_hang      : 1499981251\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Simple_Stack_Machine/input -o /dev/shm/work/Simple_Stack_Machine/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Simple_Stack_Machine/Simple_Stack_Machine.dict -- data/linux/processed-challenges/Simple_Stack_Machine/bin/Simple_Stack_Machine\n'
+p177
+I4
+tp178
+a(I10680
+S'start_time     : 1499971481\nlast_update    : 1499982120\nfuzzer_pid     : 18089\ncycles_done    : 1\nexecs_done     : 8391222\nexecs_per_sec  : 473.20\npaths_total    : 388\npaths_favored  : 70\npaths_found    : 387\npaths_imported : 0\nmax_depth      : 12\ncur_path       : 375\npending_favs   : 0\npending_total  : 261\nvariable_paths : 0\nbitmap_cvg     : 0.37%\nunique_crashes : 57\nunique_hangs   : 68\nlast_path      : 1499982114\nlast_crash     : 1499980799\nlast_hang      : 1499981251\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Simple_Stack_Machine/input -o /dev/shm/work/Simple_Stack_Machine/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Simple_Stack_Machine/Simple_Stack_Machine.dict -- data/linux/processed-challenges/Simple_Stack_Machine/bin/Simple_Stack_Machine\n'
+p179
+I4
+tp180
+a.

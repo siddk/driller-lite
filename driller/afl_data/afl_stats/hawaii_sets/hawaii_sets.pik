@@ -1,0 +1,452 @@
+(lp0
+(I0
+S'start_time     : 1500090194\nlast_update    : 1500090194\nfuzzer_pid     : 3018\ncycles_done    : 0\nexecs_done     : 10\nexecs_per_sec  : 204.08\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 1\npending_total  : 1\nvariable_paths : 0\nbitmap_cvg     : 0.08%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/hawaii_sets/input -o /dev/shm/work/hawaii_sets/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/hawaii_sets/hawaii_sets.dict -- data/linux/processed-challenges/hawaii_sets/bin/hawaii_sets\n'
+p1
+I32
+tp2
+a(I120
+S'start_time     : 1500090194\nlast_update    : 1500090314\nfuzzer_pid     : 3018\ncycles_done    : 0\nexecs_done     : 161387\nexecs_per_sec  : 1302.22\npaths_total    : 46\npaths_favored  : 1\npaths_found    : 45\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 1\npending_total  : 46\nvariable_paths : 0\nbitmap_cvg     : 0.52%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500090308\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/hawaii_sets/input -o /dev/shm/work/hawaii_sets/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/hawaii_sets/hawaii_sets.dict -- data/linux/processed-challenges/hawaii_sets/bin/hawaii_sets\n'
+p3
+I20
+tp4
+a(I240
+S'start_time     : 1500090194\nlast_update    : 1500090434\nfuzzer_pid     : 3018\ncycles_done    : 0\nexecs_done     : 300387\nexecs_per_sec  : 1170.17\npaths_total    : 121\npaths_favored  : 30\npaths_found    : 120\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 14\npending_favs   : 26\npending_total  : 116\nvariable_paths : 0\nbitmap_cvg     : 0.98%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500090429\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/hawaii_sets/input -o /dev/shm/work/hawaii_sets/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/hawaii_sets/hawaii_sets.dict -- data/linux/processed-challenges/hawaii_sets/bin/hawaii_sets\n'
+p5
+I70
+tp6
+a(I360
+S'start_time     : 1500090194\nlast_update    : 1500090555\nfuzzer_pid     : 3018\ncycles_done    : 0\nexecs_done     : 436234\nexecs_per_sec  : 1277.04\npaths_total    : 145\npaths_favored  : 63\npaths_found    : 144\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 31\npending_favs   : 58\npending_total  : 135\nvariable_paths : 0\nbitmap_cvg     : 1.12%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500090554\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/hawaii_sets/input -o /dev/shm/work/hawaii_sets/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/hawaii_sets/hawaii_sets.dict -- data/linux/processed-challenges/hawaii_sets/bin/hawaii_sets\n'
+p7
+I23
+tp8
+a(I480
+S'start_time     : 1500090194\nlast_update    : 1500090675\nfuzzer_pid     : 3018\ncycles_done    : 0\nexecs_done     : 573418\nexecs_per_sec  : 1228.11\npaths_total    : 152\npaths_favored  : 70\npaths_found    : 151\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 49\npending_favs   : 55\npending_total  : 132\nvariable_paths : 0\nbitmap_cvg     : 1.13%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500090664\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/hawaii_sets/input -o /dev/shm/work/hawaii_sets/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/hawaii_sets/hawaii_sets.dict -- data/linux/processed-challenges/hawaii_sets/bin/hawaii_sets\n'
+p9
+I8
+tp10
+a(I600
+S'start_time     : 1500090194\nlast_update    : 1500090795\nfuzzer_pid     : 3018\ncycles_done    : 0\nexecs_done     : 724245\nexecs_per_sec  : 1281.08\npaths_total    : 179\npaths_favored  : 73\npaths_found    : 178\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 55\npending_favs   : 55\npending_total  : 156\nvariable_paths : 0\nbitmap_cvg     : 1.26%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500090791\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/hawaii_sets/input -o /dev/shm/work/hawaii_sets/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/hawaii_sets/hawaii_sets.dict -- data/linux/processed-challenges/hawaii_sets/bin/hawaii_sets\n'
+p11
+I27
+tp12
+a(I720
+S'start_time     : 1500090194\nlast_update    : 1500090915\nfuzzer_pid     : 3018\ncycles_done    : 0\nexecs_done     : 856407\nexecs_per_sec  : 1151.80\npaths_total    : 188\npaths_favored  : 87\npaths_found    : 187\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 75\npending_favs   : 69\npending_total  : 160\nvariable_paths : 0\nbitmap_cvg     : 1.28%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500090909\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/hawaii_sets/input -o /dev/shm/work/hawaii_sets/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/hawaii_sets/hawaii_sets.dict -- data/linux/processed-challenges/hawaii_sets/bin/hawaii_sets\n'
+p13
+I8
+tp14
+a(I840
+S'start_time     : 1500090194\nlast_update    : 1500091035\nfuzzer_pid     : 3018\ncycles_done    : 0\nexecs_done     : 987595\nexecs_per_sec  : 1024.12\npaths_total    : 194\npaths_favored  : 91\npaths_found    : 193\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 84\npending_favs   : 70\npending_total  : 161\nvariable_paths : 0\nbitmap_cvg     : 1.30%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500091030\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/hawaii_sets/input -o /dev/shm/work/hawaii_sets/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/hawaii_sets/hawaii_sets.dict -- data/linux/processed-challenges/hawaii_sets/bin/hawaii_sets\n'
+p15
+I7
+tp16
+a(I960
+S'start_time     : 1500090194\nlast_update    : 1500091156\nfuzzer_pid     : 3018\ncycles_done    : 0\nexecs_done     : 1121140\nexecs_per_sec  : 1006.93\npaths_total    : 201\npaths_favored  : 94\npaths_found    : 200\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 95\npending_favs   : 70\npending_total  : 164\nvariable_paths : 0\nbitmap_cvg     : 1.31%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500091156\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/hawaii_sets/input -o /dev/shm/work/hawaii_sets/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/hawaii_sets/hawaii_sets.dict -- data/linux/processed-challenges/hawaii_sets/bin/hawaii_sets\n'
+p17
+I7
+tp18
+a(I1080
+S'start_time     : 1500090194\nlast_update    : 1500091276\nfuzzer_pid     : 3018\ncycles_done    : 0\nexecs_done     : 1252035\nexecs_per_sec  : 1153.31\npaths_total    : 224\npaths_favored  : 98\npaths_found    : 223\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 104\npending_favs   : 72\npending_total  : 183\nvariable_paths : 0\nbitmap_cvg     : 1.34%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500091268\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/hawaii_sets/input -o /dev/shm/work/hawaii_sets/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/hawaii_sets/hawaii_sets.dict -- data/linux/processed-challenges/hawaii_sets/bin/hawaii_sets\n'
+p19
+I22
+tp20
+a(I1200
+S'start_time     : 1500090194\nlast_update    : 1500091396\nfuzzer_pid     : 3018\ncycles_done    : 0\nexecs_done     : 1385604\nexecs_per_sec  : 957.04\npaths_total    : 237\npaths_favored  : 101\npaths_found    : 236\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 110\npending_favs   : 76\npending_total  : 194\nvariable_paths : 0\nbitmap_cvg     : 1.43%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500091395\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/hawaii_sets/input -o /dev/shm/work/hawaii_sets/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/hawaii_sets/hawaii_sets.dict -- data/linux/processed-challenges/hawaii_sets/bin/hawaii_sets\n'
+p21
+I15
+tp22
+a(I1320
+S'start_time     : 1500090194\nlast_update    : 1500091516\nfuzzer_pid     : 3018\ncycles_done    : 0\nexecs_done     : 1512523\nexecs_per_sec  : 1123.31\npaths_total    : 256\npaths_favored  : 109\npaths_found    : 255\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 118\npending_favs   : 82\npending_total  : 211\nvariable_paths : 0\nbitmap_cvg     : 1.49%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500091514\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/hawaii_sets/input -o /dev/shm/work/hawaii_sets/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/hawaii_sets/hawaii_sets.dict -- data/linux/processed-challenges/hawaii_sets/bin/hawaii_sets\n'
+p23
+I20
+tp24
+a(I1440
+S'start_time     : 1500090194\nlast_update    : 1500091637\nfuzzer_pid     : 3018\ncycles_done    : 0\nexecs_done     : 1641220\nexecs_per_sec  : 780.06\npaths_total    : 261\npaths_favored  : 117\npaths_found    : 260\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 121\npending_favs   : 91\npending_total  : 214\nvariable_paths : 0\nbitmap_cvg     : 1.57%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500091566\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/hawaii_sets/input -o /dev/shm/work/hawaii_sets/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/hawaii_sets/hawaii_sets.dict -- data/linux/processed-challenges/hawaii_sets/bin/hawaii_sets\n'
+p25
+I2
+tp26
+a(I1560
+S'start_time     : 1500090194\nlast_update    : 1500091757\nfuzzer_pid     : 3018\ncycles_done    : 0\nexecs_done     : 1737696\nexecs_per_sec  : 908.49\npaths_total    : 269\npaths_favored  : 117\npaths_found    : 268\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 122\npending_favs   : 90\npending_total  : 221\nvariable_paths : 0\nbitmap_cvg     : 1.60%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500091754\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/hawaii_sets/input -o /dev/shm/work/hawaii_sets/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/hawaii_sets/hawaii_sets.dict -- data/linux/processed-challenges/hawaii_sets/bin/hawaii_sets\n'
+p27
+I15
+tp28
+a(I1680
+S'start_time     : 1500090194\nlast_update    : 1500091877\nfuzzer_pid     : 3018\ncycles_done    : 0\nexecs_done     : 1866309\nexecs_per_sec  : 1081.94\npaths_total    : 295\npaths_favored  : 117\npaths_found    : 294\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 122\npending_favs   : 90\npending_total  : 247\nvariable_paths : 0\nbitmap_cvg     : 1.71%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500091856\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/hawaii_sets/input -o /dev/shm/work/hawaii_sets/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/hawaii_sets/hawaii_sets.dict -- data/linux/processed-challenges/hawaii_sets/bin/hawaii_sets\n'
+p29
+I19
+tp30
+a(I1800
+S'start_time     : 1500090194\nlast_update    : 1500091997\nfuzzer_pid     : 3018\ncycles_done    : 0\nexecs_done     : 1992878\nexecs_per_sec  : 1119.43\npaths_total    : 306\npaths_favored  : 139\npaths_found    : 305\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 135\npending_favs   : 107\npending_total  : 251\nvariable_paths : 0\nbitmap_cvg     : 1.71%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500091997\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/hawaii_sets/input -o /dev/shm/work/hawaii_sets/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/hawaii_sets/hawaii_sets.dict -- data/linux/processed-challenges/hawaii_sets/bin/hawaii_sets\n'
+p31
+I11
+tp32
+a(I1920
+S'start_time     : 1500090194\nlast_update    : 1500092118\nfuzzer_pid     : 3018\ncycles_done    : 0\nexecs_done     : 2136708\nexecs_per_sec  : 1232.87\npaths_total    : 310\npaths_favored  : 139\npaths_found    : 309\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 135\npending_favs   : 107\npending_total  : 255\nvariable_paths : 0\nbitmap_cvg     : 1.71%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500092111\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/hawaii_sets/input -o /dev/shm/work/hawaii_sets/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/hawaii_sets/hawaii_sets.dict -- data/linux/processed-challenges/hawaii_sets/bin/hawaii_sets\n'
+p33
+I4
+tp34
+a(I2040
+S'start_time     : 1500090194\nlast_update    : 1500092238\nfuzzer_pid     : 3018\ncycles_done    : 0\nexecs_done     : 2271151\nexecs_per_sec  : 1063.44\npaths_total    : 317\npaths_favored  : 142\npaths_found    : 316\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 139\npending_favs   : 107\npending_total  : 259\nvariable_paths : 0\nbitmap_cvg     : 1.72%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500092234\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/hawaii_sets/input -o /dev/shm/work/hawaii_sets/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/hawaii_sets/hawaii_sets.dict -- data/linux/processed-challenges/hawaii_sets/bin/hawaii_sets\n'
+p35
+I8
+tp36
+a(I2160
+S'start_time     : 1500090194\nlast_update    : 1500092358\nfuzzer_pid     : 3018\ncycles_done    : 0\nexecs_done     : 2405997\nexecs_per_sec  : 1116.97\npaths_total    : 322\npaths_favored  : 142\npaths_found    : 321\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 139\npending_favs   : 107\npending_total  : 264\nvariable_paths : 0\nbitmap_cvg     : 1.72%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500092353\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/hawaii_sets/input -o /dev/shm/work/hawaii_sets/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/hawaii_sets/hawaii_sets.dict -- data/linux/processed-challenges/hawaii_sets/bin/hawaii_sets\n'
+p37
+I4
+tp38
+a(I2280
+S'start_time     : 1500090194\nlast_update    : 1500092478\nfuzzer_pid     : 3018\ncycles_done    : 0\nexecs_done     : 2533461\nexecs_per_sec  : 1066.58\npaths_total    : 326\npaths_favored  : 143\npaths_found    : 325\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 151\npending_favs   : 100\npending_total  : 261\nvariable_paths : 0\nbitmap_cvg     : 1.72%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500092473\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/hawaii_sets/input -o /dev/shm/work/hawaii_sets/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/hawaii_sets/hawaii_sets.dict -- data/linux/processed-challenges/hawaii_sets/bin/hawaii_sets\n'
+p39
+I5
+tp40
+a(I2400
+S'start_time     : 1500090194\nlast_update    : 1500092598\nfuzzer_pid     : 3018\ncycles_done    : 0\nexecs_done     : 2668551\nexecs_per_sec  : 1235.51\npaths_total    : 332\npaths_favored  : 143\npaths_found    : 331\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 156\npending_favs   : 96\npending_total  : 263\nvariable_paths : 0\nbitmap_cvg     : 1.73%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500092598\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/hawaii_sets/input -o /dev/shm/work/hawaii_sets/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/hawaii_sets/hawaii_sets.dict -- data/linux/processed-challenges/hawaii_sets/bin/hawaii_sets\n'
+p41
+I6
+tp42
+a(I2520
+S'start_time     : 1500090194\nlast_update    : 1500092719\nfuzzer_pid     : 3018\ncycles_done    : 0\nexecs_done     : 2817705\nexecs_per_sec  : 1163.78\npaths_total    : 337\npaths_favored  : 149\npaths_found    : 336\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 158\npending_favs   : 101\npending_total  : 267\nvariable_paths : 0\nbitmap_cvg     : 1.76%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500092717\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/hawaii_sets/input -o /dev/shm/work/hawaii_sets/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/hawaii_sets/hawaii_sets.dict -- data/linux/processed-challenges/hawaii_sets/bin/hawaii_sets\n'
+p43
+I4
+tp44
+a(I2640
+S'start_time     : 1500090194\nlast_update    : 1500092839\nfuzzer_pid     : 3018\ncycles_done    : 0\nexecs_done     : 2965520\nexecs_per_sec  : 1229.66\npaths_total    : 343\npaths_favored  : 149\npaths_found    : 342\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 158\npending_favs   : 101\npending_total  : 273\nvariable_paths : 0\nbitmap_cvg     : 1.77%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500092817\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/hawaii_sets/input -o /dev/shm/work/hawaii_sets/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/hawaii_sets/hawaii_sets.dict -- data/linux/processed-challenges/hawaii_sets/bin/hawaii_sets\n'
+p45
+I6
+tp46
+a(I2760
+S'start_time     : 1500090194\nlast_update    : 1500092959\nfuzzer_pid     : 3018\ncycles_done    : 0\nexecs_done     : 3107488\nexecs_per_sec  : 1206.76\npaths_total    : 349\npaths_favored  : 153\npaths_found    : 348\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 167\npending_favs   : 103\npending_total  : 276\nvariable_paths : 0\nbitmap_cvg     : 1.78%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500092932\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/hawaii_sets/input -o /dev/shm/work/hawaii_sets/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/hawaii_sets/hawaii_sets.dict -- data/linux/processed-challenges/hawaii_sets/bin/hawaii_sets\n'
+p47
+I6
+tp48
+a(I2880
+S'start_time     : 1500090194\nlast_update    : 1500093079\nfuzzer_pid     : 3018\ncycles_done    : 0\nexecs_done     : 3245609\nexecs_per_sec  : 1109.61\npaths_total    : 361\npaths_favored  : 158\npaths_found    : 360\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 176\npending_favs   : 103\npending_total  : 283\nvariable_paths : 0\nbitmap_cvg     : 1.80%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500093078\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/hawaii_sets/input -o /dev/shm/work/hawaii_sets/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/hawaii_sets/hawaii_sets.dict -- data/linux/processed-challenges/hawaii_sets/bin/hawaii_sets\n'
+p49
+I14
+tp50
+a(I3000
+S'start_time     : 1500090194\nlast_update    : 1500093199\nfuzzer_pid     : 3018\ncycles_done    : 0\nexecs_done     : 3388381\nexecs_per_sec  : 1208.22\npaths_total    : 367\npaths_favored  : 158\npaths_found    : 366\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 176\npending_favs   : 103\npending_total  : 289\nvariable_paths : 0\nbitmap_cvg     : 1.82%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500093173\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/hawaii_sets/input -o /dev/shm/work/hawaii_sets/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/hawaii_sets/hawaii_sets.dict -- data/linux/processed-challenges/hawaii_sets/bin/hawaii_sets\n'
+p51
+I4
+tp52
+a(I3120
+S'start_time     : 1500090194\nlast_update    : 1500093320\nfuzzer_pid     : 3018\ncycles_done    : 0\nexecs_done     : 3514861\nexecs_per_sec  : 1109.10\npaths_total    : 374\npaths_favored  : 157\npaths_found    : 373\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 185\npending_favs   : 104\npending_total  : 291\nvariable_paths : 0\nbitmap_cvg     : 1.82%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500093272\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/hawaii_sets/input -o /dev/shm/work/hawaii_sets/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/hawaii_sets/hawaii_sets.dict -- data/linux/processed-challenges/hawaii_sets/bin/hawaii_sets\n'
+p53
+I7
+tp54
+a(I3240
+S'start_time     : 1500090194\nlast_update    : 1500093440\nfuzzer_pid     : 3018\ncycles_done    : 0\nexecs_done     : 3647649\nexecs_per_sec  : 1175.62\npaths_total    : 382\npaths_favored  : 157\npaths_found    : 381\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 193\npending_favs   : 101\npending_total  : 296\nvariable_paths : 0\nbitmap_cvg     : 1.84%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500093436\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/hawaii_sets/input -o /dev/shm/work/hawaii_sets/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/hawaii_sets/hawaii_sets.dict -- data/linux/processed-challenges/hawaii_sets/bin/hawaii_sets\n'
+p55
+I8
+tp56
+a(I3360
+S'start_time     : 1500090194\nlast_update    : 1500093560\nfuzzer_pid     : 3018\ncycles_done    : 0\nexecs_done     : 3781587\nexecs_per_sec  : 1106.64\npaths_total    : 389\npaths_favored  : 164\npaths_found    : 388\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 196\npending_favs   : 106\npending_total  : 300\nvariable_paths : 0\nbitmap_cvg     : 1.85%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500093530\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/hawaii_sets/input -o /dev/shm/work/hawaii_sets/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/hawaii_sets/hawaii_sets.dict -- data/linux/processed-challenges/hawaii_sets/bin/hawaii_sets\n'
+p57
+I7
+tp58
+a(I3480
+S'start_time     : 1500090194\nlast_update    : 1500093680\nfuzzer_pid     : 3018\ncycles_done    : 0\nexecs_done     : 3916935\nexecs_per_sec  : 1120.18\npaths_total    : 398\npaths_favored  : 167\npaths_found    : 397\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 199\npending_favs   : 109\npending_total  : 308\nvariable_paths : 0\nbitmap_cvg     : 1.87%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500093663\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/hawaii_sets/input -o /dev/shm/work/hawaii_sets/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/hawaii_sets/hawaii_sets.dict -- data/linux/processed-challenges/hawaii_sets/bin/hawaii_sets\n'
+p59
+I9
+tp60
+a(I3600
+S'start_time     : 1500090194\nlast_update    : 1500093800\nfuzzer_pid     : 3018\ncycles_done    : 0\nexecs_done     : 4043451\nexecs_per_sec  : 1099.53\npaths_total    : 407\npaths_favored  : 167\npaths_found    : 406\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 205\npending_favs   : 106\npending_total  : 313\nvariable_paths : 0\nbitmap_cvg     : 1.87%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500093794\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/hawaii_sets/input -o /dev/shm/work/hawaii_sets/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/hawaii_sets/hawaii_sets.dict -- data/linux/processed-challenges/hawaii_sets/bin/hawaii_sets\n'
+p61
+I9
+tp62
+a(I3720
+S'start_time     : 1500090194\nlast_update    : 1500093921\nfuzzer_pid     : 3018\ncycles_done    : 0\nexecs_done     : 4170502\nexecs_per_sec  : 857.80\npaths_total    : 415\npaths_favored  : 172\npaths_found    : 414\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 212\npending_favs   : 110\npending_total  : 319\nvariable_paths : 0\nbitmap_cvg     : 1.89%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500093915\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/hawaii_sets/input -o /dev/shm/work/hawaii_sets/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/hawaii_sets/hawaii_sets.dict -- data/linux/processed-challenges/hawaii_sets/bin/hawaii_sets\n'
+p63
+I10
+tp64
+a(I3840
+S'start_time     : 1500090194\nlast_update    : 1500094041\nfuzzer_pid     : 3018\ncycles_done    : 0\nexecs_done     : 4299453\nexecs_per_sec  : 906.50\npaths_total    : 434\npaths_favored  : 185\npaths_found    : 433\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 216\npending_favs   : 124\npending_total  : 337\nvariable_paths : 0\nbitmap_cvg     : 1.91%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500094016\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/hawaii_sets/input -o /dev/shm/work/hawaii_sets/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/hawaii_sets/hawaii_sets.dict -- data/linux/processed-challenges/hawaii_sets/bin/hawaii_sets\n'
+p65
+I17
+tp66
+a(I3960
+S'start_time     : 1500090194\nlast_update    : 1500094161\nfuzzer_pid     : 3018\ncycles_done    : 0\nexecs_done     : 4433259\nexecs_per_sec  : 1141.68\npaths_total    : 444\npaths_favored  : 188\npaths_found    : 443\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 222\npending_favs   : 125\npending_total  : 345\nvariable_paths : 0\nbitmap_cvg     : 1.93%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500094141\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/hawaii_sets/input -o /dev/shm/work/hawaii_sets/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/hawaii_sets/hawaii_sets.dict -- data/linux/processed-challenges/hawaii_sets/bin/hawaii_sets\n'
+p67
+I10
+tp68
+a(I4080
+S'start_time     : 1500090194\nlast_update    : 1500094281\nfuzzer_pid     : 3018\ncycles_done    : 0\nexecs_done     : 4565543\nexecs_per_sec  : 1095.02\npaths_total    : 453\npaths_favored  : 191\npaths_found    : 452\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 223\npending_favs   : 128\npending_total  : 353\nvariable_paths : 0\nbitmap_cvg     : 1.93%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500094252\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/hawaii_sets/input -o /dev/shm/work/hawaii_sets/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/hawaii_sets/hawaii_sets.dict -- data/linux/processed-challenges/hawaii_sets/bin/hawaii_sets\n'
+p69
+I9
+tp70
+a(I4200
+S'start_time     : 1500090194\nlast_update    : 1500094401\nfuzzer_pid     : 3018\ncycles_done    : 0\nexecs_done     : 4695253\nexecs_per_sec  : 1070.04\npaths_total    : 460\npaths_favored  : 200\npaths_found    : 459\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 224\npending_favs   : 136\npending_total  : 359\nvariable_paths : 0\nbitmap_cvg     : 1.94%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500094397\nlast_crash     : 0\nlast_hang      : 1500094345\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/hawaii_sets/input -o /dev/shm/work/hawaii_sets/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/hawaii_sets/hawaii_sets.dict -- data/linux/processed-challenges/hawaii_sets/bin/hawaii_sets\n'
+p71
+I7
+tp72
+a(I4320
+S'start_time     : 1500090194\nlast_update    : 1500094521\nfuzzer_pid     : 3018\ncycles_done    : 0\nexecs_done     : 4822432\nexecs_per_sec  : 1110.33\npaths_total    : 467\npaths_favored  : 201\npaths_found    : 466\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 229\npending_favs   : 135\npending_total  : 364\nvariable_paths : 0\nbitmap_cvg     : 1.96%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500094514\nlast_crash     : 0\nlast_hang      : 1500094345\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/hawaii_sets/input -o /dev/shm/work/hawaii_sets/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/hawaii_sets/hawaii_sets.dict -- data/linux/processed-challenges/hawaii_sets/bin/hawaii_sets\n'
+p73
+I7
+tp74
+a(I4440
+S'start_time     : 1500090194\nlast_update    : 1500094642\nfuzzer_pid     : 3018\ncycles_done    : 0\nexecs_done     : 4951041\nexecs_per_sec  : 956.00\npaths_total    : 472\npaths_favored  : 208\npaths_found    : 471\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 237\npending_favs   : 142\npending_total  : 366\nvariable_paths : 0\nbitmap_cvg     : 1.99%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500094618\nlast_crash     : 0\nlast_hang      : 1500094345\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/hawaii_sets/input -o /dev/shm/work/hawaii_sets/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/hawaii_sets/hawaii_sets.dict -- data/linux/processed-challenges/hawaii_sets/bin/hawaii_sets\n'
+p75
+I5
+tp76
+a(I4560
+S'start_time     : 1500090194\nlast_update    : 1500094762\nfuzzer_pid     : 3018\ncycles_done    : 0\nexecs_done     : 5079630\nexecs_per_sec  : 1106.19\npaths_total    : 478\npaths_favored  : 208\npaths_found    : 477\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 237\npending_favs   : 142\npending_total  : 372\nvariable_paths : 0\nbitmap_cvg     : 2.01%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500094753\nlast_crash     : 0\nlast_hang      : 1500094345\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/hawaii_sets/input -o /dev/shm/work/hawaii_sets/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/hawaii_sets/hawaii_sets.dict -- data/linux/processed-challenges/hawaii_sets/bin/hawaii_sets\n'
+p77
+I6
+tp78
+a(I4680
+S'start_time     : 1500090194\nlast_update    : 1500094882\nfuzzer_pid     : 3018\ncycles_done    : 0\nexecs_done     : 5197458\nexecs_per_sec  : 1033.04\npaths_total    : 489\npaths_favored  : 211\npaths_found    : 488\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 240\npending_favs   : 143\npending_total  : 381\nvariable_paths : 0\nbitmap_cvg     : 2.03%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500094869\nlast_crash     : 0\nlast_hang      : 1500094345\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/hawaii_sets/input -o /dev/shm/work/hawaii_sets/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/hawaii_sets/hawaii_sets.dict -- data/linux/processed-challenges/hawaii_sets/bin/hawaii_sets\n'
+p79
+I11
+tp80
+a(I4800
+S'start_time     : 1500090194\nlast_update    : 1500095002\nfuzzer_pid     : 3018\ncycles_done    : 0\nexecs_done     : 5322276\nexecs_per_sec  : 1087.29\npaths_total    : 492\npaths_favored  : 217\npaths_found    : 491\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 246\npending_favs   : 149\npending_total  : 381\nvariable_paths : 0\nbitmap_cvg     : 2.03%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500094977\nlast_crash     : 0\nlast_hang      : 1500094345\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/hawaii_sets/input -o /dev/shm/work/hawaii_sets/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/hawaii_sets/hawaii_sets.dict -- data/linux/processed-challenges/hawaii_sets/bin/hawaii_sets\n'
+p81
+I3
+tp82
+a(I4920
+S'start_time     : 1500090194\nlast_update    : 1500095122\nfuzzer_pid     : 3018\ncycles_done    : 0\nexecs_done     : 5443448\nexecs_per_sec  : 1072.41\npaths_total    : 506\npaths_favored  : 220\npaths_found    : 505\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 250\npending_favs   : 150\npending_total  : 391\nvariable_paths : 0\nbitmap_cvg     : 2.05%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500095117\nlast_crash     : 0\nlast_hang      : 1500094345\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/hawaii_sets/input -o /dev/shm/work/hawaii_sets/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/hawaii_sets/hawaii_sets.dict -- data/linux/processed-challenges/hawaii_sets/bin/hawaii_sets\n'
+p83
+I15
+tp84
+a(I5040
+S'start_time     : 1500090194\nlast_update    : 1500095243\nfuzzer_pid     : 3018\ncycles_done    : 0\nexecs_done     : 5576098\nexecs_per_sec  : 1096.34\npaths_total    : 522\npaths_favored  : 220\npaths_found    : 521\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 250\npending_favs   : 150\npending_total  : 407\nvariable_paths : 0\nbitmap_cvg     : 2.06%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500095237\nlast_crash     : 0\nlast_hang      : 1500094345\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/hawaii_sets/input -o /dev/shm/work/hawaii_sets/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/hawaii_sets/hawaii_sets.dict -- data/linux/processed-challenges/hawaii_sets/bin/hawaii_sets\n'
+p85
+I15
+tp86
+a(I5160
+S'start_time     : 1500090194\nlast_update    : 1500095363\nfuzzer_pid     : 3018\ncycles_done    : 0\nexecs_done     : 5698633\nexecs_per_sec  : 1079.78\npaths_total    : 535\npaths_favored  : 231\npaths_found    : 534\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 253\npending_favs   : 160\npending_total  : 418\nvariable_paths : 0\nbitmap_cvg     : 2.08%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500095362\nlast_crash     : 0\nlast_hang      : 1500094345\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/hawaii_sets/input -o /dev/shm/work/hawaii_sets/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/hawaii_sets/hawaii_sets.dict -- data/linux/processed-challenges/hawaii_sets/bin/hawaii_sets\n'
+p87
+I13
+tp88
+a(I5280
+S'start_time     : 1500090194\nlast_update    : 1500095483\nfuzzer_pid     : 3018\ncycles_done    : 0\nexecs_done     : 5823624\nexecs_per_sec  : 918.61\npaths_total    : 542\npaths_favored  : 240\npaths_found    : 541\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 257\npending_favs   : 169\npending_total  : 424\nvariable_paths : 0\nbitmap_cvg     : 2.09%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500095460\nlast_crash     : 0\nlast_hang      : 1500094345\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/hawaii_sets/input -o /dev/shm/work/hawaii_sets/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/hawaii_sets/hawaii_sets.dict -- data/linux/processed-challenges/hawaii_sets/bin/hawaii_sets\n'
+p89
+I7
+tp90
+a(I5400
+S'start_time     : 1500090194\nlast_update    : 1500095603\nfuzzer_pid     : 3018\ncycles_done    : 0\nexecs_done     : 5947587\nexecs_per_sec  : 1093.35\npaths_total    : 569\npaths_favored  : 241\npaths_found    : 568\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 259\npending_favs   : 168\npending_total  : 449\nvariable_paths : 0\nbitmap_cvg     : 2.13%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500095595\nlast_crash     : 0\nlast_hang      : 1500094345\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/hawaii_sets/input -o /dev/shm/work/hawaii_sets/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/hawaii_sets/hawaii_sets.dict -- data/linux/processed-challenges/hawaii_sets/bin/hawaii_sets\n'
+p91
+I27
+tp92
+a(I5520
+S'start_time     : 1500090194\nlast_update    : 1500095723\nfuzzer_pid     : 3018\ncycles_done    : 0\nexecs_done     : 6075380\nexecs_per_sec  : 929.80\npaths_total    : 579\npaths_favored  : 248\npaths_found    : 578\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 264\npending_favs   : 177\npending_total  : 457\nvariable_paths : 0\nbitmap_cvg     : 2.14%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500095723\nlast_crash     : 0\nlast_hang      : 1500094345\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/hawaii_sets/input -o /dev/shm/work/hawaii_sets/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/hawaii_sets/hawaii_sets.dict -- data/linux/processed-challenges/hawaii_sets/bin/hawaii_sets\n'
+p93
+I10
+tp94
+a(I5640
+S'start_time     : 1500090194\nlast_update    : 1500095844\nfuzzer_pid     : 3018\ncycles_done    : 0\nexecs_done     : 6201941\nexecs_per_sec  : 951.30\npaths_total    : 584\npaths_favored  : 252\npaths_found    : 583\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 269\npending_favs   : 180\npending_total  : 460\nvariable_paths : 0\nbitmap_cvg     : 2.15%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500095837\nlast_crash     : 0\nlast_hang      : 1500094345\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/hawaii_sets/input -o /dev/shm/work/hawaii_sets/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/hawaii_sets/hawaii_sets.dict -- data/linux/processed-challenges/hawaii_sets/bin/hawaii_sets\n'
+p95
+I5
+tp96
+a(I5760
+S'start_time     : 1500090194\nlast_update    : 1500095964\nfuzzer_pid     : 3018\ncycles_done    : 0\nexecs_done     : 6320024\nexecs_per_sec  : 1074.76\npaths_total    : 587\npaths_favored  : 253\npaths_found    : 586\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 276\npending_favs   : 178\npending_total  : 460\nvariable_paths : 0\nbitmap_cvg     : 2.15%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500095946\nlast_crash     : 0\nlast_hang      : 1500094345\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/hawaii_sets/input -o /dev/shm/work/hawaii_sets/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/hawaii_sets/hawaii_sets.dict -- data/linux/processed-challenges/hawaii_sets/bin/hawaii_sets\n'
+p97
+I3
+tp98
+a(I5880
+S'start_time     : 1500090194\nlast_update    : 1500096084\nfuzzer_pid     : 3018\ncycles_done    : 0\nexecs_done     : 6441982\nexecs_per_sec  : 1097.68\npaths_total    : 596\npaths_favored  : 251\npaths_found    : 595\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 287\npending_favs   : 174\npending_total  : 466\nvariable_paths : 0\nbitmap_cvg     : 2.17%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500096071\nlast_crash     : 0\nlast_hang      : 1500094345\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/hawaii_sets/input -o /dev/shm/work/hawaii_sets/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/hawaii_sets/hawaii_sets.dict -- data/linux/processed-challenges/hawaii_sets/bin/hawaii_sets\n'
+p99
+I9
+tp100
+a(I6000
+S'start_time     : 1500090194\nlast_update    : 1500096204\nfuzzer_pid     : 3018\ncycles_done    : 0\nexecs_done     : 6571468\nexecs_per_sec  : 1137.29\npaths_total    : 601\npaths_favored  : 259\npaths_found    : 600\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 289\npending_favs   : 181\npending_total  : 469\nvariable_paths : 0\nbitmap_cvg     : 2.18%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500096193\nlast_crash     : 0\nlast_hang      : 1500094345\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/hawaii_sets/input -o /dev/shm/work/hawaii_sets/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/hawaii_sets/hawaii_sets.dict -- data/linux/processed-challenges/hawaii_sets/bin/hawaii_sets\n'
+p101
+I5
+tp102
+a(I6120
+S'start_time     : 1500090194\nlast_update    : 1500096325\nfuzzer_pid     : 3018\ncycles_done    : 0\nexecs_done     : 6699908\nexecs_per_sec  : 1102.95\npaths_total    : 616\npaths_favored  : 259\npaths_found    : 615\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 291\npending_favs   : 181\npending_total  : 483\nvariable_paths : 0\nbitmap_cvg     : 2.19%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500096318\nlast_crash     : 0\nlast_hang      : 1500094345\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/hawaii_sets/input -o /dev/shm/work/hawaii_sets/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/hawaii_sets/hawaii_sets.dict -- data/linux/processed-challenges/hawaii_sets/bin/hawaii_sets\n'
+p103
+I15
+tp104
+a(I6240
+S'start_time     : 1500090194\nlast_update    : 1500096445\nfuzzer_pid     : 3018\ncycles_done    : 0\nexecs_done     : 6827267\nexecs_per_sec  : 1087.29\npaths_total    : 626\npaths_favored  : 269\npaths_found    : 625\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 293\npending_favs   : 190\npending_total  : 492\nvariable_paths : 0\nbitmap_cvg     : 2.20%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500096439\nlast_crash     : 0\nlast_hang      : 1500094345\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/hawaii_sets/input -o /dev/shm/work/hawaii_sets/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/hawaii_sets/hawaii_sets.dict -- data/linux/processed-challenges/hawaii_sets/bin/hawaii_sets\n'
+p105
+I10
+tp106
+a(I6360
+S'start_time     : 1500090194\nlast_update    : 1500096565\nfuzzer_pid     : 3018\ncycles_done    : 0\nexecs_done     : 6956633\nexecs_per_sec  : 934.61\npaths_total    : 628\npaths_favored  : 271\npaths_found    : 627\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 314\npending_favs   : 188\npending_total  : 490\nvariable_paths : 0\nbitmap_cvg     : 2.20%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500096527\nlast_crash     : 0\nlast_hang      : 1500094345\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/hawaii_sets/input -o /dev/shm/work/hawaii_sets/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/hawaii_sets/hawaii_sets.dict -- data/linux/processed-challenges/hawaii_sets/bin/hawaii_sets\n'
+p107
+I2
+tp108
+a(I6480
+S'start_time     : 1500090194\nlast_update    : 1500096685\nfuzzer_pid     : 3018\ncycles_done    : 0\nexecs_done     : 7086572\nexecs_per_sec  : 1118.50\npaths_total    : 633\npaths_favored  : 271\npaths_found    : 632\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 327\npending_favs   : 186\npending_total  : 493\nvariable_paths : 0\nbitmap_cvg     : 2.20%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500096680\nlast_crash     : 0\nlast_hang      : 1500094345\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/hawaii_sets/input -o /dev/shm/work/hawaii_sets/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/hawaii_sets/hawaii_sets.dict -- data/linux/processed-challenges/hawaii_sets/bin/hawaii_sets\n'
+p109
+I5
+tp110
+a(I6600
+S'start_time     : 1500090194\nlast_update    : 1500096805\nfuzzer_pid     : 3018\ncycles_done    : 0\nexecs_done     : 7215886\nexecs_per_sec  : 1081.07\npaths_total    : 671\npaths_favored  : 271\npaths_found    : 670\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 334\npending_favs   : 186\npending_total  : 529\nvariable_paths : 0\nbitmap_cvg     : 2.32%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500096796\nlast_crash     : 0\nlast_hang      : 1500094345\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/hawaii_sets/input -o /dev/shm/work/hawaii_sets/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/hawaii_sets/hawaii_sets.dict -- data/linux/processed-challenges/hawaii_sets/bin/hawaii_sets\n'
+p111
+I38
+tp112
+a(I6720
+S'start_time     : 1500090194\nlast_update    : 1500096925\nfuzzer_pid     : 3018\ncycles_done    : 0\nexecs_done     : 7349560\nexecs_per_sec  : 1236.41\npaths_total    : 689\npaths_favored  : 276\npaths_found    : 688\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 335\npending_favs   : 202\npending_total  : 546\nvariable_paths : 0\nbitmap_cvg     : 2.35%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500096925\nlast_crash     : 0\nlast_hang      : 1500094345\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/hawaii_sets/input -o /dev/shm/work/hawaii_sets/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/hawaii_sets/hawaii_sets.dict -- data/linux/processed-challenges/hawaii_sets/bin/hawaii_sets\n'
+p113
+I18
+tp114
+a(I6840
+S'start_time     : 1500090194\nlast_update    : 1500096985\nfuzzer_pid     : 3018\ncycles_done    : 0\nexecs_done     : 7420983\nexecs_per_sec  : 1171.80\npaths_total    : 693\npaths_favored  : 276\npaths_found    : 692\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 335\npending_favs   : 202\npending_total  : 550\nvariable_paths : 0\nbitmap_cvg     : 2.35%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500096968\nlast_crash     : 0\nlast_hang      : 1500094345\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/hawaii_sets/input -o /dev/shm/work/hawaii_sets/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/hawaii_sets/hawaii_sets.dict -- data/linux/processed-challenges/hawaii_sets/bin/hawaii_sets\n'
+p115
+I9
+tp116
+a(I6960
+S'start_time     : 1500090194\nlast_update    : 1500097106\nfuzzer_pid     : 3018\ncycles_done    : 0\nexecs_done     : 7559276\nexecs_per_sec  : 1189.66\npaths_total    : 701\npaths_favored  : 282\npaths_found    : 700\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 338\npending_favs   : 207\npending_total  : 556\nvariable_paths : 0\nbitmap_cvg     : 2.37%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500097069\nlast_crash     : 0\nlast_hang      : 1500094345\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/hawaii_sets/input -o /dev/shm/work/hawaii_sets/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/hawaii_sets/hawaii_sets.dict -- data/linux/processed-challenges/hawaii_sets/bin/hawaii_sets\n'
+p117
+I8
+tp118
+a(I7080
+S'start_time     : 1500090194\nlast_update    : 1500097226\nfuzzer_pid     : 3018\ncycles_done    : 0\nexecs_done     : 7690786\nexecs_per_sec  : 1016.82\npaths_total    : 709\npaths_favored  : 283\npaths_found    : 708\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 348\npending_favs   : 207\npending_total  : 559\nvariable_paths : 0\nbitmap_cvg     : 2.37%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500097219\nlast_crash     : 0\nlast_hang      : 1500097124\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/hawaii_sets/input -o /dev/shm/work/hawaii_sets/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/hawaii_sets/hawaii_sets.dict -- data/linux/processed-challenges/hawaii_sets/bin/hawaii_sets\n'
+p119
+I5
+tp120
+a(I7200
+S'start_time     : 1500090194\nlast_update    : 1500097346\nfuzzer_pid     : 3018\ncycles_done    : 0\nexecs_done     : 7824866\nexecs_per_sec  : 1207.18\npaths_total    : 712\npaths_favored  : 283\npaths_found    : 711\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 354\npending_favs   : 205\npending_total  : 559\nvariable_paths : 0\nbitmap_cvg     : 2.38%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1500097300\nlast_crash     : 0\nlast_hang      : 1500097124\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/hawaii_sets/input -o /dev/shm/work/hawaii_sets/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/hawaii_sets/hawaii_sets.dict -- data/linux/processed-challenges/hawaii_sets/bin/hawaii_sets\n'
+p121
+I2
+tp122
+a(I7320
+S'start_time     : 1500090194\nlast_update    : 1500097466\nfuzzer_pid     : 3018\ncycles_done    : 0\nexecs_done     : 7962078\nexecs_per_sec  : 1029.52\npaths_total    : 715\npaths_favored  : 284\npaths_found    : 714\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 362\npending_favs   : 202\npending_total  : 557\nvariable_paths : 0\nbitmap_cvg     : 2.39%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500097422\nlast_crash     : 0\nlast_hang      : 1500097426\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/hawaii_sets/input -o /dev/shm/work/hawaii_sets/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/hawaii_sets/hawaii_sets.dict -- data/linux/processed-challenges/hawaii_sets/bin/hawaii_sets\n'
+p123
+I10
+tp124
+a(I7440
+S'start_time     : 1500090194\nlast_update    : 1500097586\nfuzzer_pid     : 3018\ncycles_done    : 0\nexecs_done     : 8092645\nexecs_per_sec  : 1129.87\npaths_total    : 730\npaths_favored  : 286\npaths_found    : 729\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 365\npending_favs   : 202\npending_total  : 570\nvariable_paths : 0\nbitmap_cvg     : 2.41%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500097581\nlast_crash     : 0\nlast_hang      : 1500097426\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/hawaii_sets/input -o /dev/shm/work/hawaii_sets/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/hawaii_sets/hawaii_sets.dict -- data/linux/processed-challenges/hawaii_sets/bin/hawaii_sets\n'
+p125
+I8
+tp126
+a(I7560
+S'start_time     : 1500090194\nlast_update    : 1500097707\nfuzzer_pid     : 3018\ncycles_done    : 0\nexecs_done     : 8224037\nexecs_per_sec  : 1008.21\npaths_total    : 732\npaths_favored  : 291\npaths_found    : 731\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 370\npending_favs   : 205\npending_total  : 568\nvariable_paths : 0\nbitmap_cvg     : 2.41%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500097657\nlast_crash     : 0\nlast_hang      : 1500097426\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/hawaii_sets/input -o /dev/shm/work/hawaii_sets/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/hawaii_sets/hawaii_sets.dict -- data/linux/processed-challenges/hawaii_sets/bin/hawaii_sets\n'
+p127
+I2
+tp128
+a(I7680
+S'start_time     : 1500090194\nlast_update    : 1500097827\nfuzzer_pid     : 3018\ncycles_done    : 0\nexecs_done     : 8345981\nexecs_per_sec  : 1032.64\npaths_total    : 739\npaths_favored  : 292\npaths_found    : 738\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 378\npending_favs   : 201\npending_total  : 570\nvariable_paths : 0\nbitmap_cvg     : 2.42%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500097824\nlast_crash     : 0\nlast_hang      : 1500097426\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/hawaii_sets/input -o /dev/shm/work/hawaii_sets/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/hawaii_sets/hawaii_sets.dict -- data/linux/processed-challenges/hawaii_sets/bin/hawaii_sets\n'
+p129
+I10
+tp130
+a(I7800
+S'start_time     : 1500090194\nlast_update    : 1500097947\nfuzzer_pid     : 3018\ncycles_done    : 0\nexecs_done     : 8476937\nexecs_per_sec  : 1099.66\npaths_total    : 746\npaths_favored  : 292\npaths_found    : 745\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 378\npending_favs   : 201\npending_total  : 577\nvariable_paths : 0\nbitmap_cvg     : 2.43%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500097936\nlast_crash     : 0\nlast_hang      : 1500097426\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/hawaii_sets/input -o /dev/shm/work/hawaii_sets/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/hawaii_sets/hawaii_sets.dict -- data/linux/processed-challenges/hawaii_sets/bin/hawaii_sets\n'
+p131
+I11
+tp132
+a(I7920
+S'start_time     : 1500090194\nlast_update    : 1500098067\nfuzzer_pid     : 3018\ncycles_done    : 0\nexecs_done     : 8603822\nexecs_per_sec  : 1077.77\npaths_total    : 764\npaths_favored  : 295\npaths_found    : 763\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 382\npending_favs   : 206\npending_total  : 593\nvariable_paths : 0\nbitmap_cvg     : 2.45%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500098051\nlast_crash     : 0\nlast_hang      : 1500098051\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/hawaii_sets/input -o /dev/shm/work/hawaii_sets/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/hawaii_sets/hawaii_sets.dict -- data/linux/processed-challenges/hawaii_sets/bin/hawaii_sets\n'
+p133
+I14
+tp134
+a(I8040
+S'start_time     : 1500090194\nlast_update    : 1500098188\nfuzzer_pid     : 3018\ncycles_done    : 0\nexecs_done     : 8730016\nexecs_per_sec  : 833.89\npaths_total    : 770\npaths_favored  : 302\npaths_found    : 769\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 385\npending_favs   : 211\npending_total  : 597\nvariable_paths : 0\nbitmap_cvg     : 2.45%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500098182\nlast_crash     : 0\nlast_hang      : 1500098051\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/hawaii_sets/input -o /dev/shm/work/hawaii_sets/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/hawaii_sets/hawaii_sets.dict -- data/linux/processed-challenges/hawaii_sets/bin/hawaii_sets\n'
+p135
+I5
+tp136
+a(I8160
+S'start_time     : 1500090194\nlast_update    : 1500098308\nfuzzer_pid     : 3018\ncycles_done    : 0\nexecs_done     : 8849741\nexecs_per_sec  : 1094.82\npaths_total    : 776\npaths_favored  : 304\npaths_found    : 775\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 394\npending_favs   : 212\npending_total  : 599\nvariable_paths : 0\nbitmap_cvg     : 2.46%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500098278\nlast_crash     : 0\nlast_hang      : 1500098051\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/hawaii_sets/input -o /dev/shm/work/hawaii_sets/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/hawaii_sets/hawaii_sets.dict -- data/linux/processed-challenges/hawaii_sets/bin/hawaii_sets\n'
+p137
+I4
+tp138
+a(I8280
+S'start_time     : 1500090194\nlast_update    : 1500098428\nfuzzer_pid     : 3018\ncycles_done    : 0\nexecs_done     : 8964750\nexecs_per_sec  : 850.47\npaths_total    : 779\npaths_favored  : 304\npaths_found    : 778\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 407\npending_favs   : 208\npending_total  : 597\nvariable_paths : 0\nbitmap_cvg     : 2.46%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500098428\nlast_crash     : 0\nlast_hang      : 1500098051\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/hawaii_sets/input -o /dev/shm/work/hawaii_sets/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/hawaii_sets/hawaii_sets.dict -- data/linux/processed-challenges/hawaii_sets/bin/hawaii_sets\n'
+p139
+I7
+tp140
+a(I8400
+S'start_time     : 1500090194\nlast_update    : 1500098549\nfuzzer_pid     : 3018\ncycles_done    : 0\nexecs_done     : 9087252\nexecs_per_sec  : 1009.16\npaths_total    : 786\npaths_favored  : 304\npaths_found    : 785\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 407\npending_favs   : 208\npending_total  : 604\nvariable_paths : 0\nbitmap_cvg     : 2.46%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500098529\nlast_crash     : 0\nlast_hang      : 1500098051\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/hawaii_sets/input -o /dev/shm/work/hawaii_sets/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/hawaii_sets/hawaii_sets.dict -- data/linux/processed-challenges/hawaii_sets/bin/hawaii_sets\n'
+p141
+I2
+tp142
+a(I8520
+S'start_time     : 1500090194\nlast_update    : 1500098669\nfuzzer_pid     : 3018\ncycles_done    : 0\nexecs_done     : 9207099\nexecs_per_sec  : 960.16\npaths_total    : 788\npaths_favored  : 306\npaths_found    : 787\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 414\npending_favs   : 206\npending_total  : 602\nvariable_paths : 0\nbitmap_cvg     : 2.46%\nunique_crashes : 0\nunique_hangs   : 4\nlast_path      : 1500098666\nlast_crash     : 0\nlast_hang      : 1500098051\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/hawaii_sets/input -o /dev/shm/work/hawaii_sets/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/hawaii_sets/hawaii_sets.dict -- data/linux/processed-challenges/hawaii_sets/bin/hawaii_sets\n'
+p143
+I8
+tp144
+a(I8640
+S'start_time     : 1500090194\nlast_update    : 1500098789\nfuzzer_pid     : 3018\ncycles_done    : 0\nexecs_done     : 9322476\nexecs_per_sec  : 1030.25\npaths_total    : 795\npaths_favored  : 306\npaths_found    : 794\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 417\npending_favs   : 205\npending_total  : 608\nvariable_paths : 0\nbitmap_cvg     : 2.47%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500098752\nlast_crash     : 0\nlast_hang      : 1500098782\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/hawaii_sets/input -o /dev/shm/work/hawaii_sets/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/hawaii_sets/hawaii_sets.dict -- data/linux/processed-challenges/hawaii_sets/bin/hawaii_sets\n'
+p145
+I2
+tp146
+a(I8760
+S'start_time     : 1500090194\nlast_update    : 1500098909\nfuzzer_pid     : 3018\ncycles_done    : 0\nexecs_done     : 9442973\nexecs_per_sec  : 1074.82\npaths_total    : 799\npaths_favored  : 307\npaths_found    : 798\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 419\npending_favs   : 207\npending_total  : 610\nvariable_paths : 0\nbitmap_cvg     : 2.47%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500098905\nlast_crash     : 0\nlast_hang      : 1500098782\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/hawaii_sets/input -o /dev/shm/work/hawaii_sets/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/hawaii_sets/hawaii_sets.dict -- data/linux/processed-challenges/hawaii_sets/bin/hawaii_sets\n'
+p147
+I5
+tp148
+a(I8880
+S'start_time     : 1500090194\nlast_update    : 1500099029\nfuzzer_pid     : 3018\ncycles_done    : 0\nexecs_done     : 9567366\nexecs_per_sec  : 1029.77\npaths_total    : 803\npaths_favored  : 309\npaths_found    : 802\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 420\npending_favs   : 208\npending_total  : 613\nvariable_paths : 0\nbitmap_cvg     : 2.48%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500099002\nlast_crash     : 0\nlast_hang      : 1500098782\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/hawaii_sets/input -o /dev/shm/work/hawaii_sets/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/hawaii_sets/hawaii_sets.dict -- data/linux/processed-challenges/hawaii_sets/bin/hawaii_sets\n'
+p149
+I7
+tp150
+a(I9000
+S'start_time     : 1500090194\nlast_update    : 1500099150\nfuzzer_pid     : 3018\ncycles_done    : 0\nexecs_done     : 9691231\nexecs_per_sec  : 876.26\npaths_total    : 809\npaths_favored  : 311\npaths_found    : 808\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 421\npending_favs   : 211\npending_total  : 618\nvariable_paths : 0\nbitmap_cvg     : 2.49%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500099133\nlast_crash     : 0\nlast_hang      : 1500098782\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/hawaii_sets/input -o /dev/shm/work/hawaii_sets/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/hawaii_sets/hawaii_sets.dict -- data/linux/processed-challenges/hawaii_sets/bin/hawaii_sets\n'
+p151
+I3
+tp152
+a(I9120
+S'start_time     : 1500090194\nlast_update    : 1500099270\nfuzzer_pid     : 3018\ncycles_done    : 0\nexecs_done     : 9803312\nexecs_per_sec  : 1043.86\npaths_total    : 817\npaths_favored  : 311\npaths_found    : 816\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 426\npending_favs   : 210\npending_total  : 624\nvariable_paths : 0\nbitmap_cvg     : 2.49%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500099267\nlast_crash     : 0\nlast_hang      : 1500098782\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/hawaii_sets/input -o /dev/shm/work/hawaii_sets/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/hawaii_sets/hawaii_sets.dict -- data/linux/processed-challenges/hawaii_sets/bin/hawaii_sets\n'
+p153
+I9
+tp154
+a(I9240
+S'start_time     : 1500090194\nlast_update    : 1500099390\nfuzzer_pid     : 3018\ncycles_done    : 0\nexecs_done     : 9920287\nexecs_per_sec  : 829.88\npaths_total    : 820\npaths_favored  : 314\npaths_found    : 819\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 431\npending_favs   : 212\npending_total  : 625\nvariable_paths : 0\nbitmap_cvg     : 2.49%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500099325\nlast_crash     : 0\nlast_hang      : 1500098782\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/hawaii_sets/input -o /dev/shm/work/hawaii_sets/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/hawaii_sets/hawaii_sets.dict -- data/linux/processed-challenges/hawaii_sets/bin/hawaii_sets\n'
+p155
+I1
+tp156
+a(I9360
+S'start_time     : 1500090194\nlast_update    : 1500099510\nfuzzer_pid     : 3018\ncycles_done    : 0\nexecs_done     : 10040559\nexecs_per_sec  : 1081.75\npaths_total    : 830\npaths_favored  : 314\npaths_found    : 829\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 436\npending_favs   : 210\npending_total  : 631\nvariable_paths : 0\nbitmap_cvg     : 2.51%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500099503\nlast_crash     : 0\nlast_hang      : 1500098782\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/hawaii_sets/input -o /dev/shm/work/hawaii_sets/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/hawaii_sets/hawaii_sets.dict -- data/linux/processed-challenges/hawaii_sets/bin/hawaii_sets\n'
+p157
+I12
+tp158
+a(I9480
+S'start_time     : 1500090194\nlast_update    : 1500099630\nfuzzer_pid     : 3018\ncycles_done    : 0\nexecs_done     : 10164747\nexecs_per_sec  : 1085.02\npaths_total    : 837\npaths_favored  : 320\npaths_found    : 836\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 442\npending_favs   : 214\npending_total  : 634\nvariable_paths : 0\nbitmap_cvg     : 2.51%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500099600\nlast_crash     : 0\nlast_hang      : 1500098782\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/hawaii_sets/input -o /dev/shm/work/hawaii_sets/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/hawaii_sets/hawaii_sets.dict -- data/linux/processed-challenges/hawaii_sets/bin/hawaii_sets\n'
+p159
+I7
+tp160
+a(I9600
+S'start_time     : 1500090194\nlast_update    : 1500099751\nfuzzer_pid     : 3018\ncycles_done    : 0\nexecs_done     : 10296812\nexecs_per_sec  : 1158.03\npaths_total    : 841\npaths_favored  : 322\npaths_found    : 840\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 443\npending_favs   : 216\npending_total  : 637\nvariable_paths : 0\nbitmap_cvg     : 2.51%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500099690\nlast_crash     : 0\nlast_hang      : 1500098782\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/hawaii_sets/input -o /dev/shm/work/hawaii_sets/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/hawaii_sets/hawaii_sets.dict -- data/linux/processed-challenges/hawaii_sets/bin/hawaii_sets\n'
+p161
+I3
+tp162
+a(I9720
+S'start_time     : 1500090194\nlast_update    : 1500099871\nfuzzer_pid     : 3018\ncycles_done    : 0\nexecs_done     : 10418313\nexecs_per_sec  : 972.09\npaths_total    : 844\npaths_favored  : 324\npaths_found    : 843\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 452\npending_favs   : 213\npending_total  : 635\nvariable_paths : 0\nbitmap_cvg     : 2.52%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500099819\nlast_crash     : 0\nlast_hang      : 1500098782\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/hawaii_sets/input -o /dev/shm/work/hawaii_sets/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/hawaii_sets/hawaii_sets.dict -- data/linux/processed-challenges/hawaii_sets/bin/hawaii_sets\n'
+p163
+I6
+tp164
+a(I9840
+S'start_time     : 1500090194\nlast_update    : 1500099991\nfuzzer_pid     : 3018\ncycles_done    : 0\nexecs_done     : 10552770\nexecs_per_sec  : 1178.85\npaths_total    : 849\npaths_favored  : 324\npaths_found    : 848\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 453\npending_favs   : 212\npending_total  : 639\nvariable_paths : 0\nbitmap_cvg     : 2.52%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500099908\nlast_crash     : 0\nlast_hang      : 1500098782\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/hawaii_sets/input -o /dev/shm/work/hawaii_sets/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/hawaii_sets/hawaii_sets.dict -- data/linux/processed-challenges/hawaii_sets/bin/hawaii_sets\n'
+p165
+I0
+tp166
+a(I9960
+S'start_time     : 1500090194\nlast_update    : 1500100111\nfuzzer_pid     : 3018\ncycles_done    : 0\nexecs_done     : 10675692\nexecs_per_sec  : 940.95\npaths_total    : 850\npaths_favored  : 325\npaths_found    : 849\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 458\npending_favs   : 211\npending_total  : 637\nvariable_paths : 0\nbitmap_cvg     : 2.52%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500100100\nlast_crash     : 0\nlast_hang      : 1500098782\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/hawaii_sets/input -o /dev/shm/work/hawaii_sets/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/hawaii_sets/hawaii_sets.dict -- data/linux/processed-challenges/hawaii_sets/bin/hawaii_sets\n'
+p167
+I2
+tp168
+a(I10080
+S'start_time     : 1500090194\nlast_update    : 1500100232\nfuzzer_pid     : 3018\ncycles_done    : 0\nexecs_done     : 10796939\nexecs_per_sec  : 1121.09\npaths_total    : 854\npaths_favored  : 326\npaths_found    : 853\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 461\npending_favs   : 210\npending_total  : 639\nvariable_paths : 0\nbitmap_cvg     : 2.52%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500100197\nlast_crash     : 0\nlast_hang      : 1500098782\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/hawaii_sets/input -o /dev/shm/work/hawaii_sets/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/hawaii_sets/hawaii_sets.dict -- data/linux/processed-challenges/hawaii_sets/bin/hawaii_sets\n'
+p169
+I4
+tp170
+a(I10200
+S'start_time     : 1500090194\nlast_update    : 1500100352\nfuzzer_pid     : 3018\ncycles_done    : 0\nexecs_done     : 10921432\nexecs_per_sec  : 819.64\npaths_total    : 856\npaths_favored  : 325\npaths_found    : 855\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 468\npending_favs   : 207\npending_total  : 639\nvariable_paths : 0\nbitmap_cvg     : 2.53%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500100338\nlast_crash     : 0\nlast_hang      : 1500098782\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/hawaii_sets/input -o /dev/shm/work/hawaii_sets/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/hawaii_sets/hawaii_sets.dict -- data/linux/processed-challenges/hawaii_sets/bin/hawaii_sets\n'
+p171
+I6
+tp172
+a(I10320
+S'start_time     : 1500090194\nlast_update    : 1500100472\nfuzzer_pid     : 3018\ncycles_done    : 0\nexecs_done     : 11038782\nexecs_per_sec  : 1083.69\npaths_total    : 868\npaths_favored  : 326\npaths_found    : 867\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 469\npending_favs   : 207\npending_total  : 650\nvariable_paths : 0\nbitmap_cvg     : 2.55%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500100458\nlast_crash     : 0\nlast_hang      : 1500098782\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/hawaii_sets/input -o /dev/shm/work/hawaii_sets/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/hawaii_sets/hawaii_sets.dict -- data/linux/processed-challenges/hawaii_sets/bin/hawaii_sets\n'
+p173
+I8
+tp174
+a(I10440
+S'start_time     : 1500090194\nlast_update    : 1500100592\nfuzzer_pid     : 3018\ncycles_done    : 0\nexecs_done     : 11156866\nexecs_per_sec  : 949.50\npaths_total    : 869\npaths_favored  : 327\npaths_found    : 868\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 472\npending_favs   : 207\npending_total  : 648\nvariable_paths : 0\nbitmap_cvg     : 2.55%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500100479\nlast_crash     : 0\nlast_hang      : 1500098782\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/hawaii_sets/input -o /dev/shm/work/hawaii_sets/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/hawaii_sets/hawaii_sets.dict -- data/linux/processed-challenges/hawaii_sets/bin/hawaii_sets\n'
+p175
+I1
+tp176
+a(I10560
+S'start_time     : 1500090194\nlast_update    : 1500100712\nfuzzer_pid     : 3018\ncycles_done    : 0\nexecs_done     : 11268774\nexecs_per_sec  : 822.02\npaths_total    : 871\npaths_favored  : 328\npaths_found    : 870\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 477\npending_favs   : 205\npending_total  : 647\nvariable_paths : 0\nbitmap_cvg     : 2.55%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1500100678\nlast_crash     : 0\nlast_hang      : 1500098782\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/hawaii_sets/input -o /dev/shm/work/hawaii_sets/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/hawaii_sets/hawaii_sets.dict -- data/linux/processed-challenges/hawaii_sets/bin/hawaii_sets\n'
+p177
+I2
+tp178
+a(I10680
+S'start_time     : 1500090194\nlast_update    : 1500100833\nfuzzer_pid     : 3018\ncycles_done    : 0\nexecs_done     : 11378613\nexecs_per_sec  : 930.17\npaths_total    : 873\npaths_favored  : 328\npaths_found    : 872\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 482\npending_favs   : 203\npending_total  : 646\nvariable_paths : 0\nbitmap_cvg     : 2.55%\nunique_crashes : 0\nunique_hangs   : 6\nlast_path      : 1500100786\nlast_crash     : 0\nlast_hang      : 1500100808\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/hawaii_sets/input -o /dev/shm/work/hawaii_sets/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/hawaii_sets/hawaii_sets.dict -- data/linux/processed-challenges/hawaii_sets/bin/hawaii_sets\n'
+p179
+I1
+tp180
+a.

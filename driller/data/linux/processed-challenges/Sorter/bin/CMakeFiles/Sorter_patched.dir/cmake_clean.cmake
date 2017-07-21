@@ -1,0 +1,43 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/Sorter_patched.dir/lib/calloc.c.o"
+  "CMakeFiles/Sorter_patched.dir/lib/ctype.c.o"
+  "CMakeFiles/Sorter_patched.dir/lib/exit.c.o"
+  "CMakeFiles/Sorter_patched.dir/lib/fflush.c.o"
+  "CMakeFiles/Sorter_patched.dir/lib/fread.c.o"
+  "CMakeFiles/Sorter_patched.dir/lib/free.c.o"
+  "CMakeFiles/Sorter_patched.dir/lib/fwrite.c.o"
+  "CMakeFiles/Sorter_patched.dir/lib/fxlat.c.o"
+  "CMakeFiles/Sorter_patched.dir/lib/malloc.c.o"
+  "CMakeFiles/Sorter_patched.dir/lib/malloc_common.c.o"
+  "CMakeFiles/Sorter_patched.dir/lib/memchr.c.o"
+  "CMakeFiles/Sorter_patched.dir/lib/memcmp.c.o"
+  "CMakeFiles/Sorter_patched.dir/lib/memcpy.c.o"
+  "CMakeFiles/Sorter_patched.dir/lib/memmove.c.o"
+  "CMakeFiles/Sorter_patched.dir/lib/memset.c.o"
+  "CMakeFiles/Sorter_patched.dir/lib/printf.c.o"
+  "CMakeFiles/Sorter_patched.dir/lib/realloc.c.o"
+  "CMakeFiles/Sorter_patched.dir/lib/stdio.c.o"
+  "CMakeFiles/Sorter_patched.dir/lib/strcasecmp.c.o"
+  "CMakeFiles/Sorter_patched.dir/lib/strcasestr.c.o"
+  "CMakeFiles/Sorter_patched.dir/lib/strchr.c.o"
+  "CMakeFiles/Sorter_patched.dir/lib/strcmp.c.o"
+  "CMakeFiles/Sorter_patched.dir/lib/strcpy.c.o"
+  "CMakeFiles/Sorter_patched.dir/lib/strdup.c.o"
+  "CMakeFiles/Sorter_patched.dir/lib/strlen.c.o"
+  "CMakeFiles/Sorter_patched.dir/lib/strncasecmp.c.o"
+  "CMakeFiles/Sorter_patched.dir/lib/strncpy.c.o"
+  "CMakeFiles/Sorter_patched.dir/lib/strndup.c.o"
+  "CMakeFiles/Sorter_patched.dir/lib/strsep.c.o"
+  "CMakeFiles/Sorter_patched.dir/lib/strstr.c.o"
+  "CMakeFiles/Sorter_patched.dir/lib/strtol.c.o"
+  "CMakeFiles/Sorter_patched.dir/lib/strtoul.c.o"
+  "CMakeFiles/Sorter_patched.dir/src/service.c.o"
+  "CMakeFiles/Sorter_patched.dir/src/sort.c.o"
+  "Sorter_patched.pdb"
+  "Sorter_patched"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang C)
+  include(CMakeFiles/Sorter_patched.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

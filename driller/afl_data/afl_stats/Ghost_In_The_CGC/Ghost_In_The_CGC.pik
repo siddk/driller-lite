@@ -1,0 +1,452 @@
+(lp0
+(I0
+S'start_time     : 1499971193\nlast_update    : 1499971193\nfuzzer_pid     : 23321\ncycles_done    : 0\nexecs_done     : 10\nexecs_per_sec  : 200.00\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 1\npending_total  : 1\nvariable_paths : 0\nbitmap_cvg     : 0.05%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Ghost_In_The_CGC/input -o /dev/shm/work/Ghost_In_The_CGC/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Ghost_In_The_CGC/Ghost_In_The_CGC.dict -- data/linux/processed-challenges/Ghost_In_The_CGC/bin/Ghost_In_The_CGC\n'
+p1
+I1
+tp2
+a(I120
+S'start_time     : 1499971193\nlast_update    : 1499971314\nfuzzer_pid     : 23321\ncycles_done    : 30\nexecs_done     : 157277\nexecs_per_sec  : 1297.83\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.05%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 1499971240\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Ghost_In_The_CGC/input -o /dev/shm/work/Ghost_In_The_CGC/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Ghost_In_The_CGC/Ghost_In_The_CGC.dict -- data/linux/processed-challenges/Ghost_In_The_CGC/bin/Ghost_In_The_CGC\n'
+p3
+I0
+tp4
+a(I240
+S'start_time     : 1499971193\nlast_update    : 1499971434\nfuzzer_pid     : 23321\ncycles_done    : 61\nexecs_done     : 312002\nexecs_per_sec  : 1259.16\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.05%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 1499971240\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Ghost_In_The_CGC/input -o /dev/shm/work/Ghost_In_The_CGC/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Ghost_In_The_CGC/Ghost_In_The_CGC.dict -- data/linux/processed-challenges/Ghost_In_The_CGC/bin/Ghost_In_The_CGC\n'
+p5
+I0
+tp6
+a(I360
+S'start_time     : 1499971193\nlast_update    : 1499971554\nfuzzer_pid     : 23321\ncycles_done    : 91\nexecs_done     : 462411\nexecs_per_sec  : 1215.03\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.05%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 1499971524\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Ghost_In_The_CGC/input -o /dev/shm/work/Ghost_In_The_CGC/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Ghost_In_The_CGC/Ghost_In_The_CGC.dict -- data/linux/processed-challenges/Ghost_In_The_CGC/bin/Ghost_In_The_CGC\n'
+p7
+I0
+tp8
+a(I480
+S'start_time     : 1499971193\nlast_update    : 1499971674\nfuzzer_pid     : 23321\ncycles_done    : 121\nexecs_done     : 611643\nexecs_per_sec  : 1231.50\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.05%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 1499971524\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Ghost_In_The_CGC/input -o /dev/shm/work/Ghost_In_The_CGC/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Ghost_In_The_CGC/Ghost_In_The_CGC.dict -- data/linux/processed-challenges/Ghost_In_The_CGC/bin/Ghost_In_The_CGC\n'
+p9
+I0
+tp10
+a(I600
+S'start_time     : 1499971193\nlast_update    : 1499971794\nfuzzer_pid     : 23321\ncycles_done    : 151\nexecs_done     : 759651\nexecs_per_sec  : 1238.40\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.05%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 1499971524\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Ghost_In_The_CGC/input -o /dev/shm/work/Ghost_In_The_CGC/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Ghost_In_The_CGC/Ghost_In_The_CGC.dict -- data/linux/processed-challenges/Ghost_In_The_CGC/bin/Ghost_In_The_CGC\n'
+p11
+I0
+tp12
+a(I720
+S'start_time     : 1499971193\nlast_update    : 1499971915\nfuzzer_pid     : 23321\ncycles_done    : 180\nexecs_done     : 906355\nexecs_per_sec  : 1201.25\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.05%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 1499971524\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Ghost_In_The_CGC/input -o /dev/shm/work/Ghost_In_The_CGC/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Ghost_In_The_CGC/Ghost_In_The_CGC.dict -- data/linux/processed-challenges/Ghost_In_The_CGC/bin/Ghost_In_The_CGC\n'
+p13
+I0
+tp14
+a(I840
+S'start_time     : 1499971193\nlast_update    : 1499972035\nfuzzer_pid     : 23321\ncycles_done    : 210\nexecs_done     : 1054963\nexecs_per_sec  : 1286.10\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.05%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 1499971524\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Ghost_In_The_CGC/input -o /dev/shm/work/Ghost_In_The_CGC/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Ghost_In_The_CGC/Ghost_In_The_CGC.dict -- data/linux/processed-challenges/Ghost_In_The_CGC/bin/Ghost_In_The_CGC\n'
+p15
+I0
+tp16
+a(I960
+S'start_time     : 1499971193\nlast_update    : 1499972155\nfuzzer_pid     : 23321\ncycles_done    : 239\nexecs_done     : 1203731\nexecs_per_sec  : 1236.94\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.05%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 1499971524\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Ghost_In_The_CGC/input -o /dev/shm/work/Ghost_In_The_CGC/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Ghost_In_The_CGC/Ghost_In_The_CGC.dict -- data/linux/processed-challenges/Ghost_In_The_CGC/bin/Ghost_In_The_CGC\n'
+p17
+I0
+tp18
+a(I1080
+S'start_time     : 1499971193\nlast_update    : 1499972275\nfuzzer_pid     : 23321\ncycles_done    : 268\nexecs_done     : 1348995\nexecs_per_sec  : 1218.02\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.05%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 1499971524\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Ghost_In_The_CGC/input -o /dev/shm/work/Ghost_In_The_CGC/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Ghost_In_The_CGC/Ghost_In_The_CGC.dict -- data/linux/processed-challenges/Ghost_In_The_CGC/bin/Ghost_In_The_CGC\n'
+p19
+I0
+tp20
+a(I1200
+S'start_time     : 1499971193\nlast_update    : 1499972396\nfuzzer_pid     : 23321\ncycles_done    : 298\nexecs_done     : 1496979\nexecs_per_sec  : 1218.12\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.05%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 1499971524\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Ghost_In_The_CGC/input -o /dev/shm/work/Ghost_In_The_CGC/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Ghost_In_The_CGC/Ghost_In_The_CGC.dict -- data/linux/processed-challenges/Ghost_In_The_CGC/bin/Ghost_In_The_CGC\n'
+p21
+I0
+tp22
+a(I1320
+S'start_time     : 1499971193\nlast_update    : 1499972516\nfuzzer_pid     : 23321\ncycles_done    : 328\nexecs_done     : 1645702\nexecs_per_sec  : 1262.80\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.05%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 1499971524\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Ghost_In_The_CGC/input -o /dev/shm/work/Ghost_In_The_CGC/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Ghost_In_The_CGC/Ghost_In_The_CGC.dict -- data/linux/processed-challenges/Ghost_In_The_CGC/bin/Ghost_In_The_CGC\n'
+p23
+I0
+tp24
+a(I1440
+S'start_time     : 1499971193\nlast_update    : 1499972636\nfuzzer_pid     : 23321\ncycles_done    : 358\nexecs_done     : 1794267\nexecs_per_sec  : 1223.50\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.05%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 1499971524\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Ghost_In_The_CGC/input -o /dev/shm/work/Ghost_In_The_CGC/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Ghost_In_The_CGC/Ghost_In_The_CGC.dict -- data/linux/processed-challenges/Ghost_In_The_CGC/bin/Ghost_In_The_CGC\n'
+p25
+I0
+tp26
+a(I1560
+S'start_time     : 1499971193\nlast_update    : 1499972756\nfuzzer_pid     : 23321\ncycles_done    : 387\nexecs_done     : 1941931\nexecs_per_sec  : 1213.83\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.05%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 1499971524\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Ghost_In_The_CGC/input -o /dev/shm/work/Ghost_In_The_CGC/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Ghost_In_The_CGC/Ghost_In_The_CGC.dict -- data/linux/processed-challenges/Ghost_In_The_CGC/bin/Ghost_In_The_CGC\n'
+p27
+I0
+tp28
+a(I1680
+S'start_time     : 1499971193\nlast_update    : 1499972876\nfuzzer_pid     : 23321\ncycles_done    : 417\nexecs_done     : 2090827\nexecs_per_sec  : 1220.50\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.05%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 1499971524\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Ghost_In_The_CGC/input -o /dev/shm/work/Ghost_In_The_CGC/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Ghost_In_The_CGC/Ghost_In_The_CGC.dict -- data/linux/processed-challenges/Ghost_In_The_CGC/bin/Ghost_In_The_CGC\n'
+p29
+I0
+tp30
+a(I1800
+S'start_time     : 1499971193\nlast_update    : 1499972996\nfuzzer_pid     : 23321\ncycles_done    : 447\nexecs_done     : 2239387\nexecs_per_sec  : 1223.55\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.05%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 1499971524\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Ghost_In_The_CGC/input -o /dev/shm/work/Ghost_In_The_CGC/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Ghost_In_The_CGC/Ghost_In_The_CGC.dict -- data/linux/processed-challenges/Ghost_In_The_CGC/bin/Ghost_In_The_CGC\n'
+p31
+I0
+tp32
+a(I1920
+S'start_time     : 1499971193\nlast_update    : 1499973116\nfuzzer_pid     : 23321\ncycles_done    : 476\nexecs_done     : 2387363\nexecs_per_sec  : 1224.46\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.05%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 1499971524\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Ghost_In_The_CGC/input -o /dev/shm/work/Ghost_In_The_CGC/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Ghost_In_The_CGC/Ghost_In_The_CGC.dict -- data/linux/processed-challenges/Ghost_In_The_CGC/bin/Ghost_In_The_CGC\n'
+p33
+I0
+tp34
+a(I2040
+S'start_time     : 1499971193\nlast_update    : 1499973237\nfuzzer_pid     : 23321\ncycles_done    : 506\nexecs_done     : 2537459\nexecs_per_sec  : 1241.68\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.05%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 1499971524\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Ghost_In_The_CGC/input -o /dev/shm/work/Ghost_In_The_CGC/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Ghost_In_The_CGC/Ghost_In_The_CGC.dict -- data/linux/processed-challenges/Ghost_In_The_CGC/bin/Ghost_In_The_CGC\n'
+p35
+I0
+tp36
+a(I2160
+S'start_time     : 1499971193\nlast_update    : 1499973357\nfuzzer_pid     : 23321\ncycles_done    : 536\nexecs_done     : 2686763\nexecs_per_sec  : 1228.28\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.05%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 1499971524\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Ghost_In_The_CGC/input -o /dev/shm/work/Ghost_In_The_CGC/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Ghost_In_The_CGC/Ghost_In_The_CGC.dict -- data/linux/processed-challenges/Ghost_In_The_CGC/bin/Ghost_In_The_CGC\n'
+p37
+I0
+tp38
+a(I2280
+S'start_time     : 1499971193\nlast_update    : 1499973477\nfuzzer_pid     : 23321\ncycles_done    : 566\nexecs_done     : 2834579\nexecs_per_sec  : 1212.90\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.05%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 1499971524\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Ghost_In_The_CGC/input -o /dev/shm/work/Ghost_In_The_CGC/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Ghost_In_The_CGC/Ghost_In_The_CGC.dict -- data/linux/processed-challenges/Ghost_In_The_CGC/bin/Ghost_In_The_CGC\n'
+p39
+I0
+tp40
+a(I2400
+S'start_time     : 1499971193\nlast_update    : 1499973597\nfuzzer_pid     : 23321\ncycles_done    : 595\nexecs_done     : 2982555\nexecs_per_sec  : 1226.97\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.05%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 1499971524\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Ghost_In_The_CGC/input -o /dev/shm/work/Ghost_In_The_CGC/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Ghost_In_The_CGC/Ghost_In_The_CGC.dict -- data/linux/processed-challenges/Ghost_In_The_CGC/bin/Ghost_In_The_CGC\n'
+p41
+I0
+tp42
+a(I2520
+S'start_time     : 1499971193\nlast_update    : 1499973717\nfuzzer_pid     : 23321\ncycles_done    : 625\nexecs_done     : 3130227\nexecs_per_sec  : 1222.61\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.05%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 1499971524\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Ghost_In_The_CGC/input -o /dev/shm/work/Ghost_In_The_CGC/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Ghost_In_The_CGC/Ghost_In_The_CGC.dict -- data/linux/processed-challenges/Ghost_In_The_CGC/bin/Ghost_In_The_CGC\n'
+p43
+I0
+tp44
+a(I2640
+S'start_time     : 1499971193\nlast_update    : 1499973838\nfuzzer_pid     : 23321\ncycles_done    : 654\nexecs_done     : 3278851\nexecs_per_sec  : 1234.31\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.05%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 1499971524\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Ghost_In_The_CGC/input -o /dev/shm/work/Ghost_In_The_CGC/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Ghost_In_The_CGC/Ghost_In_The_CGC.dict -- data/linux/processed-challenges/Ghost_In_The_CGC/bin/Ghost_In_The_CGC\n'
+p45
+I0
+tp46
+a(I2760
+S'start_time     : 1499971193\nlast_update    : 1499973958\nfuzzer_pid     : 23321\ncycles_done    : 684\nexecs_done     : 3428102\nexecs_per_sec  : 1259.30\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.05%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 1499971524\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Ghost_In_The_CGC/input -o /dev/shm/work/Ghost_In_The_CGC/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Ghost_In_The_CGC/Ghost_In_The_CGC.dict -- data/linux/processed-challenges/Ghost_In_The_CGC/bin/Ghost_In_The_CGC\n'
+p47
+I0
+tp48
+a(I2880
+S'start_time     : 1499971193\nlast_update    : 1499974078\nfuzzer_pid     : 23321\ncycles_done    : 714\nexecs_done     : 3576043\nexecs_per_sec  : 1244.00\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.05%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 1499971524\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Ghost_In_The_CGC/input -o /dev/shm/work/Ghost_In_The_CGC/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Ghost_In_The_CGC/Ghost_In_The_CGC.dict -- data/linux/processed-challenges/Ghost_In_The_CGC/bin/Ghost_In_The_CGC\n'
+p49
+I0
+tp50
+a(I3000
+S'start_time     : 1499971193\nlast_update    : 1499974198\nfuzzer_pid     : 23321\ncycles_done    : 744\nexecs_done     : 3725251\nexecs_per_sec  : 1231.92\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.05%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 1499971524\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Ghost_In_The_CGC/input -o /dev/shm/work/Ghost_In_The_CGC/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Ghost_In_The_CGC/Ghost_In_The_CGC.dict -- data/linux/processed-challenges/Ghost_In_The_CGC/bin/Ghost_In_The_CGC\n'
+p51
+I0
+tp52
+a(I3120
+S'start_time     : 1499971193\nlast_update    : 1499974319\nfuzzer_pid     : 23321\ncycles_done    : 774\nexecs_done     : 3874402\nexecs_per_sec  : 1274.38\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.05%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 1499971524\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Ghost_In_The_CGC/input -o /dev/shm/work/Ghost_In_The_CGC/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Ghost_In_The_CGC/Ghost_In_The_CGC.dict -- data/linux/processed-challenges/Ghost_In_The_CGC/bin/Ghost_In_The_CGC\n'
+p53
+I0
+tp54
+a(I3240
+S'start_time     : 1499971193\nlast_update    : 1499974439\nfuzzer_pid     : 23321\ncycles_done    : 803\nexecs_done     : 4023923\nexecs_per_sec  : 1215.12\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.05%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 1499971524\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Ghost_In_The_CGC/input -o /dev/shm/work/Ghost_In_The_CGC/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Ghost_In_The_CGC/Ghost_In_The_CGC.dict -- data/linux/processed-challenges/Ghost_In_The_CGC/bin/Ghost_In_The_CGC\n'
+p55
+I0
+tp56
+a(I3360
+S'start_time     : 1499971193\nlast_update    : 1499974559\nfuzzer_pid     : 23321\ncycles_done    : 833\nexecs_done     : 4171259\nexecs_per_sec  : 1239.52\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.05%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 1499971524\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Ghost_In_The_CGC/input -o /dev/shm/work/Ghost_In_The_CGC/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Ghost_In_The_CGC/Ghost_In_The_CGC.dict -- data/linux/processed-challenges/Ghost_In_The_CGC/bin/Ghost_In_The_CGC\n'
+p57
+I0
+tp58
+a(I3480
+S'start_time     : 1499971193\nlast_update    : 1499974679\nfuzzer_pid     : 23321\ncycles_done    : 863\nexecs_done     : 4320277\nexecs_per_sec  : 1265.60\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.05%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 1499971524\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Ghost_In_The_CGC/input -o /dev/shm/work/Ghost_In_The_CGC/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Ghost_In_The_CGC/Ghost_In_The_CGC.dict -- data/linux/processed-challenges/Ghost_In_The_CGC/bin/Ghost_In_The_CGC\n'
+p59
+I0
+tp60
+a(I3600
+S'start_time     : 1499971193\nlast_update    : 1499974799\nfuzzer_pid     : 23321\ncycles_done    : 892\nexecs_done     : 4468299\nexecs_per_sec  : 1227.37\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.05%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 1499971524\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Ghost_In_The_CGC/input -o /dev/shm/work/Ghost_In_The_CGC/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Ghost_In_The_CGC/Ghost_In_The_CGC.dict -- data/linux/processed-challenges/Ghost_In_The_CGC/bin/Ghost_In_The_CGC\n'
+p61
+I0
+tp62
+a(I3720
+S'start_time     : 1499971193\nlast_update    : 1499974920\nfuzzer_pid     : 23321\ncycles_done    : 922\nexecs_done     : 4617771\nexecs_per_sec  : 1226.16\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.05%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 1499971524\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Ghost_In_The_CGC/input -o /dev/shm/work/Ghost_In_The_CGC/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Ghost_In_The_CGC/Ghost_In_The_CGC.dict -- data/linux/processed-challenges/Ghost_In_The_CGC/bin/Ghost_In_The_CGC\n'
+p63
+I0
+tp64
+a(I3840
+S'start_time     : 1499971193\nlast_update    : 1499975040\nfuzzer_pid     : 23321\ncycles_done    : 952\nexecs_done     : 4767152\nexecs_per_sec  : 1260.26\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.05%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 1499971524\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Ghost_In_The_CGC/input -o /dev/shm/work/Ghost_In_The_CGC/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Ghost_In_The_CGC/Ghost_In_The_CGC.dict -- data/linux/processed-challenges/Ghost_In_The_CGC/bin/Ghost_In_The_CGC\n'
+p65
+I0
+tp66
+a(I3960
+S'start_time     : 1499971193\nlast_update    : 1499975160\nfuzzer_pid     : 23321\ncycles_done    : 982\nexecs_done     : 4916527\nexecs_per_sec  : 1258.41\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.05%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 1499971524\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Ghost_In_The_CGC/input -o /dev/shm/work/Ghost_In_The_CGC/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Ghost_In_The_CGC/Ghost_In_The_CGC.dict -- data/linux/processed-challenges/Ghost_In_The_CGC/bin/Ghost_In_The_CGC\n'
+p67
+I0
+tp68
+a(I4080
+S'start_time     : 1499971193\nlast_update    : 1499975280\nfuzzer_pid     : 23321\ncycles_done    : 1012\nexecs_done     : 5065683\nexecs_per_sec  : 1225.73\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.05%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 1499971524\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Ghost_In_The_CGC/input -o /dev/shm/work/Ghost_In_The_CGC/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Ghost_In_The_CGC/Ghost_In_The_CGC.dict -- data/linux/processed-challenges/Ghost_In_The_CGC/bin/Ghost_In_The_CGC\n'
+p69
+I0
+tp70
+a(I4200
+S'start_time     : 1499971193\nlast_update    : 1499975401\nfuzzer_pid     : 23321\ncycles_done    : 1041\nexecs_done     : 5213203\nexecs_per_sec  : 1227.02\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.05%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 1499971524\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Ghost_In_The_CGC/input -o /dev/shm/work/Ghost_In_The_CGC/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Ghost_In_The_CGC/Ghost_In_The_CGC.dict -- data/linux/processed-challenges/Ghost_In_The_CGC/bin/Ghost_In_The_CGC\n'
+p71
+I0
+tp72
+a(I4320
+S'start_time     : 1499971193\nlast_update    : 1499975521\nfuzzer_pid     : 23321\ncycles_done    : 1071\nexecs_done     : 5361727\nexecs_per_sec  : 1246.95\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.05%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 1499971524\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Ghost_In_The_CGC/input -o /dev/shm/work/Ghost_In_The_CGC/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Ghost_In_The_CGC/Ghost_In_The_CGC.dict -- data/linux/processed-challenges/Ghost_In_The_CGC/bin/Ghost_In_The_CGC\n'
+p73
+I0
+tp74
+a(I4440
+S'start_time     : 1499971193\nlast_update    : 1499975641\nfuzzer_pid     : 23321\ncycles_done    : 1101\nexecs_done     : 5511152\nexecs_per_sec  : 1283.99\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.05%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 1499971524\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Ghost_In_The_CGC/input -o /dev/shm/work/Ghost_In_The_CGC/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Ghost_In_The_CGC/Ghost_In_The_CGC.dict -- data/linux/processed-challenges/Ghost_In_The_CGC/bin/Ghost_In_The_CGC\n'
+p75
+I0
+tp76
+a(I4560
+S'start_time     : 1499971193\nlast_update    : 1499975761\nfuzzer_pid     : 23321\ncycles_done    : 1131\nexecs_done     : 5659555\nexecs_per_sec  : 1218.57\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.05%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 1499971524\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Ghost_In_The_CGC/input -o /dev/shm/work/Ghost_In_The_CGC/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Ghost_In_The_CGC/Ghost_In_The_CGC.dict -- data/linux/processed-challenges/Ghost_In_The_CGC/bin/Ghost_In_The_CGC\n'
+p77
+I0
+tp78
+a(I4680
+S'start_time     : 1499971193\nlast_update    : 1499975881\nfuzzer_pid     : 23321\ncycles_done    : 1160\nexecs_done     : 5807252\nexecs_per_sec  : 1258.40\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.05%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 1499971524\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Ghost_In_The_CGC/input -o /dev/shm/work/Ghost_In_The_CGC/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Ghost_In_The_CGC/Ghost_In_The_CGC.dict -- data/linux/processed-challenges/Ghost_In_The_CGC/bin/Ghost_In_The_CGC\n'
+p79
+I0
+tp80
+a(I4800
+S'start_time     : 1499971193\nlast_update    : 1499976002\nfuzzer_pid     : 23321\ncycles_done    : 1190\nexecs_done     : 5955936\nexecs_per_sec  : 1187.77\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.05%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 1499971524\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Ghost_In_The_CGC/input -o /dev/shm/work/Ghost_In_The_CGC/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Ghost_In_The_CGC/Ghost_In_The_CGC.dict -- data/linux/processed-challenges/Ghost_In_The_CGC/bin/Ghost_In_The_CGC\n'
+p81
+I0
+tp82
+a(I4920
+S'start_time     : 1499971193\nlast_update    : 1499976122\nfuzzer_pid     : 23321\ncycles_done    : 1220\nexecs_done     : 6104483\nexecs_per_sec  : 1236.08\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.05%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 1499971524\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Ghost_In_The_CGC/input -o /dev/shm/work/Ghost_In_The_CGC/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Ghost_In_The_CGC/Ghost_In_The_CGC.dict -- data/linux/processed-challenges/Ghost_In_The_CGC/bin/Ghost_In_The_CGC\n'
+p83
+I0
+tp84
+a(I5040
+S'start_time     : 1499971193\nlast_update    : 1499976242\nfuzzer_pid     : 23321\ncycles_done    : 1250\nexecs_done     : 6254243\nexecs_per_sec  : 1244.60\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.05%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 1499971524\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Ghost_In_The_CGC/input -o /dev/shm/work/Ghost_In_The_CGC/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Ghost_In_The_CGC/Ghost_In_The_CGC.dict -- data/linux/processed-challenges/Ghost_In_The_CGC/bin/Ghost_In_The_CGC\n'
+p85
+I0
+tp86
+a(I5160
+S'start_time     : 1499971193\nlast_update    : 1499976362\nfuzzer_pid     : 23321\ncycles_done    : 1279\nexecs_done     : 6399188\nexecs_per_sec  : 1181.98\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.05%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 1499971524\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Ghost_In_The_CGC/input -o /dev/shm/work/Ghost_In_The_CGC/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Ghost_In_The_CGC/Ghost_In_The_CGC.dict -- data/linux/processed-challenges/Ghost_In_The_CGC/bin/Ghost_In_The_CGC\n'
+p87
+I0
+tp88
+a(I5280
+S'start_time     : 1499971193\nlast_update    : 1499976483\nfuzzer_pid     : 23321\ncycles_done    : 1307\nexecs_done     : 6544018\nexecs_per_sec  : 1195.39\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.05%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 1499971524\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Ghost_In_The_CGC/input -o /dev/shm/work/Ghost_In_The_CGC/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Ghost_In_The_CGC/Ghost_In_The_CGC.dict -- data/linux/processed-challenges/Ghost_In_The_CGC/bin/Ghost_In_The_CGC\n'
+p89
+I0
+tp90
+a(I5400
+S'start_time     : 1499971193\nlast_update    : 1499976603\nfuzzer_pid     : 23321\ncycles_done    : 1336\nexecs_done     : 6688788\nexecs_per_sec  : 1167.43\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.05%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 1499971524\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Ghost_In_The_CGC/input -o /dev/shm/work/Ghost_In_The_CGC/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Ghost_In_The_CGC/Ghost_In_The_CGC.dict -- data/linux/processed-challenges/Ghost_In_The_CGC/bin/Ghost_In_The_CGC\n'
+p91
+I0
+tp92
+a(I5520
+S'start_time     : 1499971193\nlast_update    : 1499976723\nfuzzer_pid     : 23321\ncycles_done    : 1365\nexecs_done     : 6833673\nexecs_per_sec  : 1182.30\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.05%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 1499971524\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Ghost_In_The_CGC/input -o /dev/shm/work/Ghost_In_The_CGC/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Ghost_In_The_CGC/Ghost_In_The_CGC.dict -- data/linux/processed-challenges/Ghost_In_The_CGC/bin/Ghost_In_The_CGC\n'
+p93
+I0
+tp94
+a(I5640
+S'start_time     : 1499971193\nlast_update    : 1499976843\nfuzzer_pid     : 23321\ncycles_done    : 1394\nexecs_done     : 6977293\nexecs_per_sec  : 1182.68\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.05%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 1499971524\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Ghost_In_The_CGC/input -o /dev/shm/work/Ghost_In_The_CGC/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Ghost_In_The_CGC/Ghost_In_The_CGC.dict -- data/linux/processed-challenges/Ghost_In_The_CGC/bin/Ghost_In_The_CGC\n'
+p95
+I0
+tp96
+a(I5760
+S'start_time     : 1499971193\nlast_update    : 1499976963\nfuzzer_pid     : 23321\ncycles_done    : 1423\nexecs_done     : 7123371\nexecs_per_sec  : 1221.16\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.05%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 1499971524\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Ghost_In_The_CGC/input -o /dev/shm/work/Ghost_In_The_CGC/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Ghost_In_The_CGC/Ghost_In_The_CGC.dict -- data/linux/processed-challenges/Ghost_In_The_CGC/bin/Ghost_In_The_CGC\n'
+p97
+I0
+tp98
+a(I5880
+S'start_time     : 1499971193\nlast_update    : 1499977084\nfuzzer_pid     : 23321\ncycles_done    : 1453\nexecs_done     : 7272795\nexecs_per_sec  : 1225.39\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.05%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 1499971524\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Ghost_In_The_CGC/input -o /dev/shm/work/Ghost_In_The_CGC/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Ghost_In_The_CGC/Ghost_In_The_CGC.dict -- data/linux/processed-challenges/Ghost_In_The_CGC/bin/Ghost_In_The_CGC\n'
+p99
+I0
+tp100
+a(I6000
+S'start_time     : 1499971193\nlast_update    : 1499977204\nfuzzer_pid     : 23321\ncycles_done    : 1483\nexecs_done     : 7423131\nexecs_per_sec  : 1207.52\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.05%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 1499971524\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Ghost_In_The_CGC/input -o /dev/shm/work/Ghost_In_The_CGC/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Ghost_In_The_CGC/Ghost_In_The_CGC.dict -- data/linux/processed-challenges/Ghost_In_The_CGC/bin/Ghost_In_The_CGC\n'
+p101
+I0
+tp102
+a(I6120
+S'start_time     : 1499971193\nlast_update    : 1499977324\nfuzzer_pid     : 23321\ncycles_done    : 1513\nexecs_done     : 7572527\nexecs_per_sec  : 1267.47\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.05%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 1499971524\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Ghost_In_The_CGC/input -o /dev/shm/work/Ghost_In_The_CGC/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Ghost_In_The_CGC/Ghost_In_The_CGC.dict -- data/linux/processed-challenges/Ghost_In_The_CGC/bin/Ghost_In_The_CGC\n'
+p103
+I0
+tp104
+a(I6240
+S'start_time     : 1499971193\nlast_update    : 1499977444\nfuzzer_pid     : 23321\ncycles_done    : 1543\nexecs_done     : 7722579\nexecs_per_sec  : 1241.41\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.05%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 1499971524\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Ghost_In_The_CGC/input -o /dev/shm/work/Ghost_In_The_CGC/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Ghost_In_The_CGC/Ghost_In_The_CGC.dict -- data/linux/processed-challenges/Ghost_In_The_CGC/bin/Ghost_In_The_CGC\n'
+p105
+I0
+tp106
+a(I6360
+S'start_time     : 1499971193\nlast_update    : 1499977565\nfuzzer_pid     : 23321\ncycles_done    : 1573\nexecs_done     : 7870923\nexecs_per_sec  : 1236.57\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.05%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 1499971524\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Ghost_In_The_CGC/input -o /dev/shm/work/Ghost_In_The_CGC/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Ghost_In_The_CGC/Ghost_In_The_CGC.dict -- data/linux/processed-challenges/Ghost_In_The_CGC/bin/Ghost_In_The_CGC\n'
+p107
+I0
+tp108
+a(I6480
+S'start_time     : 1499971193\nlast_update    : 1499977685\nfuzzer_pid     : 23321\ncycles_done    : 1603\nexecs_done     : 8020083\nexecs_per_sec  : 1238.95\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.05%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 1499971524\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Ghost_In_The_CGC/input -o /dev/shm/work/Ghost_In_The_CGC/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Ghost_In_The_CGC/Ghost_In_The_CGC.dict -- data/linux/processed-challenges/Ghost_In_The_CGC/bin/Ghost_In_The_CGC\n'
+p109
+I0
+tp110
+a(I6600
+S'start_time     : 1499971193\nlast_update    : 1499977805\nfuzzer_pid     : 23321\ncycles_done    : 1632\nexecs_done     : 8168515\nexecs_per_sec  : 1212.34\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.05%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 1499971524\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Ghost_In_The_CGC/input -o /dev/shm/work/Ghost_In_The_CGC/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Ghost_In_The_CGC/Ghost_In_The_CGC.dict -- data/linux/processed-challenges/Ghost_In_The_CGC/bin/Ghost_In_The_CGC\n'
+p111
+I0
+tp112
+a(I6720
+S'start_time     : 1499971193\nlast_update    : 1499977925\nfuzzer_pid     : 23321\ncycles_done    : 1662\nexecs_done     : 8317027\nexecs_per_sec  : 1225.56\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.05%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 1499971524\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Ghost_In_The_CGC/input -o /dev/shm/work/Ghost_In_The_CGC/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Ghost_In_The_CGC/Ghost_In_The_CGC.dict -- data/linux/processed-challenges/Ghost_In_The_CGC/bin/Ghost_In_The_CGC\n'
+p113
+I0
+tp114
+a(I6840
+S'start_time     : 1499971193\nlast_update    : 1499978045\nfuzzer_pid     : 23321\ncycles_done    : 1692\nexecs_done     : 8465419\nexecs_per_sec  : 1249.60\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.05%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 1499971524\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Ghost_In_The_CGC/input -o /dev/shm/work/Ghost_In_The_CGC/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Ghost_In_The_CGC/Ghost_In_The_CGC.dict -- data/linux/processed-challenges/Ghost_In_The_CGC/bin/Ghost_In_The_CGC\n'
+p115
+I0
+tp116
+a(I6960
+S'start_time     : 1499971193\nlast_update    : 1499978166\nfuzzer_pid     : 23321\ncycles_done    : 1722\nexecs_done     : 8616102\nexecs_per_sec  : 1247.65\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.05%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 1499971524\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Ghost_In_The_CGC/input -o /dev/shm/work/Ghost_In_The_CGC/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Ghost_In_The_CGC/Ghost_In_The_CGC.dict -- data/linux/processed-challenges/Ghost_In_The_CGC/bin/Ghost_In_The_CGC\n'
+p117
+I0
+tp118
+a(I7080
+S'start_time     : 1499971193\nlast_update    : 1499978286\nfuzzer_pid     : 23321\ncycles_done    : 1752\nexecs_done     : 8766752\nexecs_per_sec  : 1257.01\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.05%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 1499971524\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Ghost_In_The_CGC/input -o /dev/shm/work/Ghost_In_The_CGC/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Ghost_In_The_CGC/Ghost_In_The_CGC.dict -- data/linux/processed-challenges/Ghost_In_The_CGC/bin/Ghost_In_The_CGC\n'
+p119
+I0
+tp120
+a(I7200
+S'start_time     : 1499971193\nlast_update    : 1499978346\nfuzzer_pid     : 23321\ncycles_done    : 1767\nexecs_done     : 8842827\nexecs_per_sec  : 1253.49\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.05%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 1499971524\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Ghost_In_The_CGC/input -o /dev/shm/work/Ghost_In_The_CGC/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Ghost_In_The_CGC/Ghost_In_The_CGC.dict -- data/linux/processed-challenges/Ghost_In_The_CGC/bin/Ghost_In_The_CGC\n'
+p121
+I0
+tp122
+a(I7320
+S'start_time     : 1499971193\nlast_update    : 1499978466\nfuzzer_pid     : 23321\ncycles_done    : 1797\nexecs_done     : 8992939\nexecs_per_sec  : 1241.06\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.05%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 1499971524\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Ghost_In_The_CGC/input -o /dev/shm/work/Ghost_In_The_CGC/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Ghost_In_The_CGC/Ghost_In_The_CGC.dict -- data/linux/processed-challenges/Ghost_In_The_CGC/bin/Ghost_In_The_CGC\n'
+p123
+I0
+tp124
+a(I7440
+S'start_time     : 1499971193\nlast_update    : 1499978586\nfuzzer_pid     : 23321\ncycles_done    : 1827\nexecs_done     : 9143127\nexecs_per_sec  : 1247.10\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.05%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 1499971524\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Ghost_In_The_CGC/input -o /dev/shm/work/Ghost_In_The_CGC/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Ghost_In_The_CGC/Ghost_In_The_CGC.dict -- data/linux/processed-challenges/Ghost_In_The_CGC/bin/Ghost_In_The_CGC\n'
+p125
+I0
+tp126
+a(I7560
+S'start_time     : 1499971193\nlast_update    : 1499978706\nfuzzer_pid     : 23321\ncycles_done    : 1857\nexecs_done     : 9291727\nexecs_per_sec  : 1261.99\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.05%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 1499971524\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Ghost_In_The_CGC/input -o /dev/shm/work/Ghost_In_The_CGC/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Ghost_In_The_CGC/Ghost_In_The_CGC.dict -- data/linux/processed-challenges/Ghost_In_The_CGC/bin/Ghost_In_The_CGC\n'
+p127
+I0
+tp128
+a(I7680
+S'start_time     : 1499971193\nlast_update    : 1499978827\nfuzzer_pid     : 23321\ncycles_done    : 1887\nexecs_done     : 9441763\nexecs_per_sec  : 1244.17\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.05%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 1499971524\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Ghost_In_The_CGC/input -o /dev/shm/work/Ghost_In_The_CGC/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Ghost_In_The_CGC/Ghost_In_The_CGC.dict -- data/linux/processed-challenges/Ghost_In_The_CGC/bin/Ghost_In_The_CGC\n'
+p129
+I0
+tp130
+a(I7800
+S'start_time     : 1499971193\nlast_update    : 1499978947\nfuzzer_pid     : 23321\ncycles_done    : 1917\nexecs_done     : 9591859\nexecs_per_sec  : 1201.92\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.05%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 1499971524\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Ghost_In_The_CGC/input -o /dev/shm/work/Ghost_In_The_CGC/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Ghost_In_The_CGC/Ghost_In_The_CGC.dict -- data/linux/processed-challenges/Ghost_In_The_CGC/bin/Ghost_In_The_CGC\n'
+p131
+I0
+tp132
+a(I7920
+S'start_time     : 1499971193\nlast_update    : 1499979067\nfuzzer_pid     : 23321\ncycles_done    : 1947\nexecs_done     : 9741787\nexecs_per_sec  : 1230.92\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.05%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 1499971524\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Ghost_In_The_CGC/input -o /dev/shm/work/Ghost_In_The_CGC/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Ghost_In_The_CGC/Ghost_In_The_CGC.dict -- data/linux/processed-challenges/Ghost_In_The_CGC/bin/Ghost_In_The_CGC\n'
+p133
+I0
+tp134
+a(I8040
+S'start_time     : 1499971193\nlast_update    : 1499979188\nfuzzer_pid     : 23321\ncycles_done    : 1977\nexecs_done     : 9892171\nexecs_per_sec  : 1251.78\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.05%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 1499971524\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Ghost_In_The_CGC/input -o /dev/shm/work/Ghost_In_The_CGC/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Ghost_In_The_CGC/Ghost_In_The_CGC.dict -- data/linux/processed-challenges/Ghost_In_The_CGC/bin/Ghost_In_The_CGC\n'
+p135
+I0
+tp136
+a(I8160
+S'start_time     : 1499971193\nlast_update    : 1499979308\nfuzzer_pid     : 23321\ncycles_done    : 2007\nexecs_done     : 10041977\nexecs_per_sec  : 1282.30\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.05%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 1499971524\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Ghost_In_The_CGC/input -o /dev/shm/work/Ghost_In_The_CGC/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Ghost_In_The_CGC/Ghost_In_The_CGC.dict -- data/linux/processed-challenges/Ghost_In_The_CGC/bin/Ghost_In_The_CGC\n'
+p137
+I0
+tp138
+a(I8280
+S'start_time     : 1499971193\nlast_update    : 1499979428\nfuzzer_pid     : 23321\ncycles_done    : 2037\nexecs_done     : 10192003\nexecs_per_sec  : 1240.55\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.05%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 1499971524\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Ghost_In_The_CGC/input -o /dev/shm/work/Ghost_In_The_CGC/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Ghost_In_The_CGC/Ghost_In_The_CGC.dict -- data/linux/processed-challenges/Ghost_In_The_CGC/bin/Ghost_In_The_CGC\n'
+p139
+I0
+tp140
+a(I8400
+S'start_time     : 1499971193\nlast_update    : 1499979548\nfuzzer_pid     : 23321\ncycles_done    : 2067\nexecs_done     : 10340227\nexecs_per_sec  : 1227.17\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.05%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 1499971524\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Ghost_In_The_CGC/input -o /dev/shm/work/Ghost_In_The_CGC/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Ghost_In_The_CGC/Ghost_In_The_CGC.dict -- data/linux/processed-challenges/Ghost_In_The_CGC/bin/Ghost_In_The_CGC\n'
+p141
+I0
+tp142
+a(I8520
+S'start_time     : 1499971193\nlast_update    : 1499979668\nfuzzer_pid     : 23321\ncycles_done    : 2097\nexecs_done     : 10489915\nexecs_per_sec  : 1233.02\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.05%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 1499971524\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Ghost_In_The_CGC/input -o /dev/shm/work/Ghost_In_The_CGC/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Ghost_In_The_CGC/Ghost_In_The_CGC.dict -- data/linux/processed-challenges/Ghost_In_The_CGC/bin/Ghost_In_The_CGC\n'
+p143
+I0
+tp144
+a(I8640
+S'start_time     : 1499971193\nlast_update    : 1499979789\nfuzzer_pid     : 23321\ncycles_done    : 2127\nexecs_done     : 10639952\nexecs_per_sec  : 1268.40\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.05%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 1499971524\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Ghost_In_The_CGC/input -o /dev/shm/work/Ghost_In_The_CGC/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Ghost_In_The_CGC/Ghost_In_The_CGC.dict -- data/linux/processed-challenges/Ghost_In_The_CGC/bin/Ghost_In_The_CGC\n'
+p145
+I0
+tp146
+a(I8760
+S'start_time     : 1499971193\nlast_update    : 1499979909\nfuzzer_pid     : 23321\ncycles_done    : 2156\nexecs_done     : 10788059\nexecs_per_sec  : 1205.38\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.05%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 1499971524\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Ghost_In_The_CGC/input -o /dev/shm/work/Ghost_In_The_CGC/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Ghost_In_The_CGC/Ghost_In_The_CGC.dict -- data/linux/processed-challenges/Ghost_In_The_CGC/bin/Ghost_In_The_CGC\n'
+p147
+I0
+tp148
+a(I8880
+S'start_time     : 1499971193\nlast_update    : 1499980029\nfuzzer_pid     : 23321\ncycles_done    : 2186\nexecs_done     : 10936355\nexecs_per_sec  : 1234.20\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.05%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 1499971524\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Ghost_In_The_CGC/input -o /dev/shm/work/Ghost_In_The_CGC/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Ghost_In_The_CGC/Ghost_In_The_CGC.dict -- data/linux/processed-challenges/Ghost_In_The_CGC/bin/Ghost_In_The_CGC\n'
+p149
+I0
+tp150
+a(I9000
+S'start_time     : 1499971193\nlast_update    : 1499980149\nfuzzer_pid     : 23321\ncycles_done    : 2216\nexecs_done     : 11085539\nexecs_per_sec  : 1228.47\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.05%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 1499971524\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Ghost_In_The_CGC/input -o /dev/shm/work/Ghost_In_The_CGC/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Ghost_In_The_CGC/Ghost_In_The_CGC.dict -- data/linux/processed-challenges/Ghost_In_The_CGC/bin/Ghost_In_The_CGC\n'
+p151
+I0
+tp152
+a(I9120
+S'start_time     : 1499971193\nlast_update    : 1499980270\nfuzzer_pid     : 23321\ncycles_done    : 2246\nexecs_done     : 11235107\nexecs_per_sec  : 1231.63\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.05%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 1499971524\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Ghost_In_The_CGC/input -o /dev/shm/work/Ghost_In_The_CGC/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Ghost_In_The_CGC/Ghost_In_The_CGC.dict -- data/linux/processed-challenges/Ghost_In_The_CGC/bin/Ghost_In_The_CGC\n'
+p153
+I0
+tp154
+a(I9240
+S'start_time     : 1499971193\nlast_update    : 1499980390\nfuzzer_pid     : 23321\ncycles_done    : 2276\nexecs_done     : 11384099\nexecs_per_sec  : 1240.71\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.05%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 1499971524\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Ghost_In_The_CGC/input -o /dev/shm/work/Ghost_In_The_CGC/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Ghost_In_The_CGC/Ghost_In_The_CGC.dict -- data/linux/processed-challenges/Ghost_In_The_CGC/bin/Ghost_In_The_CGC\n'
+p155
+I0
+tp156
+a(I9360
+S'start_time     : 1499971193\nlast_update    : 1499980510\nfuzzer_pid     : 23321\ncycles_done    : 2306\nexecs_done     : 11534051\nexecs_per_sec  : 1241.12\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.05%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 1499971524\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Ghost_In_The_CGC/input -o /dev/shm/work/Ghost_In_The_CGC/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Ghost_In_The_CGC/Ghost_In_The_CGC.dict -- data/linux/processed-challenges/Ghost_In_The_CGC/bin/Ghost_In_The_CGC\n'
+p157
+I0
+tp158
+a(I9480
+S'start_time     : 1499971193\nlast_update    : 1499980630\nfuzzer_pid     : 23321\ncycles_done    : 2335\nexecs_done     : 11683602\nexecs_per_sec  : 1274.15\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.05%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 1499971524\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Ghost_In_The_CGC/input -o /dev/shm/work/Ghost_In_The_CGC/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Ghost_In_The_CGC/Ghost_In_The_CGC.dict -- data/linux/processed-challenges/Ghost_In_The_CGC/bin/Ghost_In_The_CGC\n'
+p159
+I0
+tp160
+a(I9600
+S'start_time     : 1499971193\nlast_update    : 1499980750\nfuzzer_pid     : 23321\ncycles_done    : 2365\nexecs_done     : 11833927\nexecs_per_sec  : 1247.88\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.05%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 1499971524\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Ghost_In_The_CGC/input -o /dev/shm/work/Ghost_In_The_CGC/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Ghost_In_The_CGC/Ghost_In_The_CGC.dict -- data/linux/processed-challenges/Ghost_In_The_CGC/bin/Ghost_In_The_CGC\n'
+p161
+I0
+tp162
+a(I9720
+S'start_time     : 1499971193\nlast_update    : 1499980870\nfuzzer_pid     : 23321\ncycles_done    : 2396\nexecs_done     : 11984603\nexecs_per_sec  : 1237.80\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.05%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 1499971524\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Ghost_In_The_CGC/input -o /dev/shm/work/Ghost_In_The_CGC/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Ghost_In_The_CGC/Ghost_In_The_CGC.dict -- data/linux/processed-challenges/Ghost_In_The_CGC/bin/Ghost_In_The_CGC\n'
+p163
+I0
+tp164
+a(I9840
+S'start_time     : 1499971193\nlast_update    : 1499980991\nfuzzer_pid     : 23321\ncycles_done    : 2425\nexecs_done     : 12133707\nexecs_per_sec  : 1215.08\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.05%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 1499971524\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Ghost_In_The_CGC/input -o /dev/shm/work/Ghost_In_The_CGC/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Ghost_In_The_CGC/Ghost_In_The_CGC.dict -- data/linux/processed-challenges/Ghost_In_The_CGC/bin/Ghost_In_The_CGC\n'
+p165
+I0
+tp166
+a(I9960
+S'start_time     : 1499971193\nlast_update    : 1499981111\nfuzzer_pid     : 23321\ncycles_done    : 2456\nexecs_done     : 12284227\nexecs_per_sec  : 1249.58\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.05%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 1499971524\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Ghost_In_The_CGC/input -o /dev/shm/work/Ghost_In_The_CGC/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Ghost_In_The_CGC/Ghost_In_The_CGC.dict -- data/linux/processed-challenges/Ghost_In_The_CGC/bin/Ghost_In_The_CGC\n'
+p167
+I0
+tp168
+a(I10080
+S'start_time     : 1499971193\nlast_update    : 1499981231\nfuzzer_pid     : 23321\ncycles_done    : 2485\nexecs_done     : 12433995\nexecs_per_sec  : 1211.91\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.05%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 1499971524\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Ghost_In_The_CGC/input -o /dev/shm/work/Ghost_In_The_CGC/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Ghost_In_The_CGC/Ghost_In_The_CGC.dict -- data/linux/processed-challenges/Ghost_In_The_CGC/bin/Ghost_In_The_CGC\n'
+p169
+I0
+tp170
+a(I10200
+S'start_time     : 1499971193\nlast_update    : 1499981351\nfuzzer_pid     : 23321\ncycles_done    : 2516\nexecs_done     : 12585371\nexecs_per_sec  : 1242.99\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.05%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 1499971524\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Ghost_In_The_CGC/input -o /dev/shm/work/Ghost_In_The_CGC/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Ghost_In_The_CGC/Ghost_In_The_CGC.dict -- data/linux/processed-challenges/Ghost_In_The_CGC/bin/Ghost_In_The_CGC\n'
+p171
+I0
+tp172
+a(I10320
+S'start_time     : 1499971193\nlast_update    : 1499981471\nfuzzer_pid     : 23321\ncycles_done    : 2546\nexecs_done     : 12736115\nexecs_per_sec  : 1241.69\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.05%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 1499971524\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Ghost_In_The_CGC/input -o /dev/shm/work/Ghost_In_The_CGC/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Ghost_In_The_CGC/Ghost_In_The_CGC.dict -- data/linux/processed-challenges/Ghost_In_The_CGC/bin/Ghost_In_The_CGC\n'
+p173
+I0
+tp174
+a(I10440
+S'start_time     : 1499971193\nlast_update    : 1499981592\nfuzzer_pid     : 23321\ncycles_done    : 2576\nexecs_done     : 12886977\nexecs_per_sec  : 1257.86\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.05%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 1499971524\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Ghost_In_The_CGC/input -o /dev/shm/work/Ghost_In_The_CGC/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Ghost_In_The_CGC/Ghost_In_The_CGC.dict -- data/linux/processed-challenges/Ghost_In_The_CGC/bin/Ghost_In_The_CGC\n'
+p175
+I0
+tp176
+a(I10560
+S'start_time     : 1499971193\nlast_update    : 1499981712\nfuzzer_pid     : 23321\ncycles_done    : 2606\nexecs_done     : 13037195\nexecs_per_sec  : 1223.22\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.05%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 1499971524\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Ghost_In_The_CGC/input -o /dev/shm/work/Ghost_In_The_CGC/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Ghost_In_The_CGC/Ghost_In_The_CGC.dict -- data/linux/processed-challenges/Ghost_In_The_CGC/bin/Ghost_In_The_CGC\n'
+p177
+I0
+tp178
+a(I10680
+S'start_time     : 1499971193\nlast_update    : 1499981832\nfuzzer_pid     : 23321\ncycles_done    : 2636\nexecs_done     : 13188052\nexecs_per_sec  : 1264.18\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 0\npending_total  : 0\nvariable_paths : 0\nbitmap_cvg     : 0.05%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 1499971524\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Ghost_In_The_CGC/input -o /dev/shm/work/Ghost_In_The_CGC/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Ghost_In_The_CGC/Ghost_In_The_CGC.dict -- data/linux/processed-challenges/Ghost_In_The_CGC/bin/Ghost_In_The_CGC\n'
+p179
+I0
+tp180
+a.

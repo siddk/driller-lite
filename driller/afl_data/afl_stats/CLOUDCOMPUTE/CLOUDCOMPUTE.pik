@@ -1,0 +1,452 @@
+(lp0
+(I0
+S'start_time     : 1500122660\nlast_update    : 1500122660\nfuzzer_pid     : 7814\ncycles_done    : 0\nexecs_done     : 10\nexecs_per_sec  : 161.29\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 1\npending_total  : 1\nvariable_paths : 0\nbitmap_cvg     : 0.14%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CLOUDCOMPUTE/input -o /dev/shm/work/CLOUDCOMPUTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CLOUDCOMPUTE/CLOUDCOMPUTE.dict -- data/linux/processed-challenges/CLOUDCOMPUTE/bin/CLOUDCOMPUTE\n'
+p1
+I20
+tp2
+a(I120
+S'start_time     : 1500122660\nlast_update    : 1500122780\nfuzzer_pid     : 7814\ncycles_done    : 0\nexecs_done     : 54181\nexecs_per_sec  : 455.41\npaths_total    : 26\npaths_favored  : 1\npaths_found    : 25\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 1\npending_total  : 26\nvariable_paths : 0\nbitmap_cvg     : 0.21%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500122750\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CLOUDCOMPUTE/input -o /dev/shm/work/CLOUDCOMPUTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CLOUDCOMPUTE/CLOUDCOMPUTE.dict -- data/linux/processed-challenges/CLOUDCOMPUTE/bin/CLOUDCOMPUTE\n'
+p3
+I6
+tp4
+a(I240
+S'start_time     : 1500122660\nlast_update    : 1500122900\nfuzzer_pid     : 7814\ncycles_done    : 0\nexecs_done     : 108463\nexecs_per_sec  : 455.13\npaths_total    : 29\npaths_favored  : 1\npaths_found    : 28\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 1\npending_total  : 29\nvariable_paths : 0\nbitmap_cvg     : 0.21%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500122868\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CLOUDCOMPUTE/input -o /dev/shm/work/CLOUDCOMPUTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CLOUDCOMPUTE/CLOUDCOMPUTE.dict -- data/linux/processed-challenges/CLOUDCOMPUTE/bin/CLOUDCOMPUTE\n'
+p5
+I3
+tp6
+a(I360
+S'start_time     : 1500122660\nlast_update    : 1500123021\nfuzzer_pid     : 7814\ncycles_done    : 0\nexecs_done     : 163374\nexecs_per_sec  : 467.33\npaths_total    : 30\npaths_favored  : 9\npaths_found    : 29\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 1\npending_favs   : 9\npending_total  : 29\nvariable_paths : 0\nbitmap_cvg     : 0.21%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1500122992\nlast_crash     : 0\nlast_hang      : 1500122934\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CLOUDCOMPUTE/input -o /dev/shm/work/CLOUDCOMPUTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CLOUDCOMPUTE/CLOUDCOMPUTE.dict -- data/linux/processed-challenges/CLOUDCOMPUTE/bin/CLOUDCOMPUTE\n'
+p7
+I1
+tp8
+a(I480
+S'start_time     : 1500122660\nlast_update    : 1500123141\nfuzzer_pid     : 7814\ncycles_done    : 0\nexecs_done     : 203965\nexecs_per_sec  : 212.14\npaths_total    : 32\npaths_favored  : 9\npaths_found    : 31\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 15\npending_favs   : 5\npending_total  : 26\nvariable_paths : 0\nbitmap_cvg     : 0.21%\nunique_crashes : 0\nunique_hangs   : 3\nlast_path      : 1500123134\nlast_crash     : 0\nlast_hang      : 1500123139\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CLOUDCOMPUTE/input -o /dev/shm/work/CLOUDCOMPUTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CLOUDCOMPUTE/CLOUDCOMPUTE.dict -- data/linux/processed-challenges/CLOUDCOMPUTE/bin/CLOUDCOMPUTE\n'
+p9
+I3
+tp10
+a(I600
+S'start_time     : 1500122660\nlast_update    : 1500123261\nfuzzer_pid     : 7814\ncycles_done    : 0\nexecs_done     : 231039\nexecs_per_sec  : 218.01\npaths_total    : 35\npaths_favored  : 9\npaths_found    : 34\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 15\npending_favs   : 5\npending_total  : 29\nvariable_paths : 0\nbitmap_cvg     : 0.21%\nunique_crashes : 0\nunique_hangs   : 7\nlast_path      : 1500123243\nlast_crash     : 0\nlast_hang      : 1500123207\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CLOUDCOMPUTE/input -o /dev/shm/work/CLOUDCOMPUTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CLOUDCOMPUTE/CLOUDCOMPUTE.dict -- data/linux/processed-challenges/CLOUDCOMPUTE/bin/CLOUDCOMPUTE\n'
+p11
+I2
+tp12
+a(I720
+S'start_time     : 1500122660\nlast_update    : 1500123381\nfuzzer_pid     : 7814\ncycles_done    : 0\nexecs_done     : 258243\nexecs_per_sec  : 224.50\npaths_total    : 35\npaths_favored  : 9\npaths_found    : 34\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 15\npending_favs   : 5\npending_total  : 29\nvariable_paths : 0\nbitmap_cvg     : 0.21%\nunique_crashes : 0\nunique_hangs   : 9\nlast_path      : 1500123243\nlast_crash     : 0\nlast_hang      : 1500123313\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CLOUDCOMPUTE/input -o /dev/shm/work/CLOUDCOMPUTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CLOUDCOMPUTE/CLOUDCOMPUTE.dict -- data/linux/processed-challenges/CLOUDCOMPUTE/bin/CLOUDCOMPUTE\n'
+p13
+I0
+tp14
+a(I840
+S'start_time     : 1500122660\nlast_update    : 1500123502\nfuzzer_pid     : 7814\ncycles_done    : 0\nexecs_done     : 285797\nexecs_per_sec  : 228.92\npaths_total    : 36\npaths_favored  : 9\npaths_found    : 35\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 15\npending_favs   : 5\npending_total  : 30\nvariable_paths : 0\nbitmap_cvg     : 0.21%\nunique_crashes : 0\nunique_hangs   : 11\nlast_path      : 1500123475\nlast_crash     : 0\nlast_hang      : 1500123468\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CLOUDCOMPUTE/input -o /dev/shm/work/CLOUDCOMPUTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CLOUDCOMPUTE/CLOUDCOMPUTE.dict -- data/linux/processed-challenges/CLOUDCOMPUTE/bin/CLOUDCOMPUTE\n'
+p15
+I1
+tp16
+a(I960
+S'start_time     : 1500122660\nlast_update    : 1500123622\nfuzzer_pid     : 7814\ncycles_done    : 0\nexecs_done     : 313145\nexecs_per_sec  : 236.23\npaths_total    : 36\npaths_favored  : 9\npaths_found    : 35\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 15\npending_favs   : 5\npending_total  : 30\nvariable_paths : 0\nbitmap_cvg     : 0.21%\nunique_crashes : 0\nunique_hangs   : 11\nlast_path      : 1500123475\nlast_crash     : 0\nlast_hang      : 1500123468\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CLOUDCOMPUTE/input -o /dev/shm/work/CLOUDCOMPUTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CLOUDCOMPUTE/CLOUDCOMPUTE.dict -- data/linux/processed-challenges/CLOUDCOMPUTE/bin/CLOUDCOMPUTE\n'
+p17
+I0
+tp18
+a(I1080
+S'start_time     : 1500122660\nlast_update    : 1500123742\nfuzzer_pid     : 7814\ncycles_done    : 0\nexecs_done     : 340627\nexecs_per_sec  : 233.95\npaths_total    : 37\npaths_favored  : 9\npaths_found    : 36\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 15\npending_favs   : 5\npending_total  : 31\nvariable_paths : 0\nbitmap_cvg     : 0.21%\nunique_crashes : 0\nunique_hangs   : 12\nlast_path      : 1500123695\nlast_crash     : 0\nlast_hang      : 1500123680\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CLOUDCOMPUTE/input -o /dev/shm/work/CLOUDCOMPUTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CLOUDCOMPUTE/CLOUDCOMPUTE.dict -- data/linux/processed-challenges/CLOUDCOMPUTE/bin/CLOUDCOMPUTE\n'
+p19
+I1
+tp20
+a(I1200
+S'start_time     : 1500122660\nlast_update    : 1500123862\nfuzzer_pid     : 7814\ncycles_done    : 0\nexecs_done     : 369789\nexecs_per_sec  : 329.06\npaths_total    : 38\npaths_favored  : 10\npaths_found    : 37\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 16\npending_favs   : 5\npending_total  : 31\nvariable_paths : 0\nbitmap_cvg     : 0.21%\nunique_crashes : 0\nunique_hangs   : 12\nlast_path      : 1500123833\nlast_crash     : 0\nlast_hang      : 1500123680\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CLOUDCOMPUTE/input -o /dev/shm/work/CLOUDCOMPUTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CLOUDCOMPUTE/CLOUDCOMPUTE.dict -- data/linux/processed-challenges/CLOUDCOMPUTE/bin/CLOUDCOMPUTE\n'
+p21
+I1
+tp22
+a(I1320
+S'start_time     : 1500122660\nlast_update    : 1500123982\nfuzzer_pid     : 7814\ncycles_done    : 0\nexecs_done     : 405127\nexecs_per_sec  : 165.67\npaths_total    : 38\npaths_favored  : 10\npaths_found    : 37\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 36\npending_favs   : 1\npending_total  : 27\nvariable_paths : 0\nbitmap_cvg     : 0.21%\nunique_crashes : 0\nunique_hangs   : 12\nlast_path      : 1500123833\nlast_crash     : 0\nlast_hang      : 1500123680\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CLOUDCOMPUTE/input -o /dev/shm/work/CLOUDCOMPUTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CLOUDCOMPUTE/CLOUDCOMPUTE.dict -- data/linux/processed-challenges/CLOUDCOMPUTE/bin/CLOUDCOMPUTE\n'
+p23
+I0
+tp24
+a(I1440
+S'start_time     : 1500122660\nlast_update    : 1500124103\nfuzzer_pid     : 7814\ncycles_done    : 1\nexecs_done     : 446935\nexecs_per_sec  : 249.98\npaths_total    : 39\npaths_favored  : 10\npaths_found    : 38\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 13\npending_favs   : 0\npending_total  : 27\nvariable_paths : 0\nbitmap_cvg     : 0.21%\nunique_crashes : 0\nunique_hangs   : 12\nlast_path      : 1500124000\nlast_crash     : 0\nlast_hang      : 1500123680\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CLOUDCOMPUTE/input -o /dev/shm/work/CLOUDCOMPUTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CLOUDCOMPUTE/CLOUDCOMPUTE.dict -- data/linux/processed-challenges/CLOUDCOMPUTE/bin/CLOUDCOMPUTE\n'
+p25
+I1
+tp26
+a(I1560
+S'start_time     : 1500122660\nlast_update    : 1500124223\nfuzzer_pid     : 7814\ncycles_done    : 1\nexecs_done     : 475880\nexecs_per_sec  : 102.31\npaths_total    : 39\npaths_favored  : 10\npaths_found    : 38\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 19\npending_favs   : 0\npending_total  : 26\nvariable_paths : 0\nbitmap_cvg     : 0.21%\nunique_crashes : 0\nunique_hangs   : 12\nlast_path      : 1500124000\nlast_crash     : 0\nlast_hang      : 1500123680\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CLOUDCOMPUTE/input -o /dev/shm/work/CLOUDCOMPUTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CLOUDCOMPUTE/CLOUDCOMPUTE.dict -- data/linux/processed-challenges/CLOUDCOMPUTE/bin/CLOUDCOMPUTE\n'
+p27
+I0
+tp28
+a(I1680
+S'start_time     : 1500122660\nlast_update    : 1500124343\nfuzzer_pid     : 7814\ncycles_done    : 1\nexecs_done     : 494870\nexecs_per_sec  : 242.54\npaths_total    : 39\npaths_favored  : 10\npaths_found    : 38\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 26\npending_favs   : 0\npending_total  : 25\nvariable_paths : 0\nbitmap_cvg     : 0.21%\nunique_crashes : 0\nunique_hangs   : 12\nlast_path      : 1500124000\nlast_crash     : 0\nlast_hang      : 1500123680\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CLOUDCOMPUTE/input -o /dev/shm/work/CLOUDCOMPUTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CLOUDCOMPUTE/CLOUDCOMPUTE.dict -- data/linux/processed-challenges/CLOUDCOMPUTE/bin/CLOUDCOMPUTE\n'
+p29
+I0
+tp30
+a(I1800
+S'start_time     : 1500122660\nlast_update    : 1500124463\nfuzzer_pid     : 7814\ncycles_done    : 1\nexecs_done     : 518040\nexecs_per_sec  : 65.06\npaths_total    : 40\npaths_favored  : 10\npaths_found    : 39\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 30\npending_favs   : 0\npending_total  : 25\nvariable_paths : 0\nbitmap_cvg     : 0.21%\nunique_crashes : 0\nunique_hangs   : 13\nlast_path      : 1500124406\nlast_crash     : 0\nlast_hang      : 1500124426\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CLOUDCOMPUTE/input -o /dev/shm/work/CLOUDCOMPUTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CLOUDCOMPUTE/CLOUDCOMPUTE.dict -- data/linux/processed-challenges/CLOUDCOMPUTE/bin/CLOUDCOMPUTE\n'
+p31
+I1
+tp32
+a(I1920
+S'start_time     : 1500122660\nlast_update    : 1500124583\nfuzzer_pid     : 7814\ncycles_done    : 1\nexecs_done     : 525819\nexecs_per_sec  : 65.11\npaths_total    : 40\npaths_favored  : 10\npaths_found    : 39\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 30\npending_favs   : 0\npending_total  : 25\nvariable_paths : 0\nbitmap_cvg     : 0.21%\nunique_crashes : 0\nunique_hangs   : 13\nlast_path      : 1500124406\nlast_crash     : 0\nlast_hang      : 1500124426\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CLOUDCOMPUTE/input -o /dev/shm/work/CLOUDCOMPUTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CLOUDCOMPUTE/CLOUDCOMPUTE.dict -- data/linux/processed-challenges/CLOUDCOMPUTE/bin/CLOUDCOMPUTE\n'
+p33
+I0
+tp34
+a(I2040
+S'start_time     : 1500122660\nlast_update    : 1500124704\nfuzzer_pid     : 7814\ncycles_done    : 1\nexecs_done     : 533624\nexecs_per_sec  : 65.39\npaths_total    : 40\npaths_favored  : 10\npaths_found    : 39\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 30\npending_favs   : 0\npending_total  : 25\nvariable_paths : 0\nbitmap_cvg     : 0.21%\nunique_crashes : 0\nunique_hangs   : 13\nlast_path      : 1500124406\nlast_crash     : 0\nlast_hang      : 1500124426\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CLOUDCOMPUTE/input -o /dev/shm/work/CLOUDCOMPUTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CLOUDCOMPUTE/CLOUDCOMPUTE.dict -- data/linux/processed-challenges/CLOUDCOMPUTE/bin/CLOUDCOMPUTE\n'
+p35
+I0
+tp36
+a(I2160
+S'start_time     : 1500122660\nlast_update    : 1500124824\nfuzzer_pid     : 7814\ncycles_done    : 1\nexecs_done     : 544338\nexecs_per_sec  : 116.19\npaths_total    : 40\npaths_favored  : 10\npaths_found    : 39\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 32\npending_favs   : 0\npending_total  : 24\nvariable_paths : 0\nbitmap_cvg     : 0.21%\nunique_crashes : 0\nunique_hangs   : 13\nlast_path      : 1500124406\nlast_crash     : 0\nlast_hang      : 1500124426\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CLOUDCOMPUTE/input -o /dev/shm/work/CLOUDCOMPUTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CLOUDCOMPUTE/CLOUDCOMPUTE.dict -- data/linux/processed-challenges/CLOUDCOMPUTE/bin/CLOUDCOMPUTE\n'
+p37
+I0
+tp38
+a(I2280
+S'start_time     : 1500122660\nlast_update    : 1500124944\nfuzzer_pid     : 7814\ncycles_done    : 1\nexecs_done     : 558401\nexecs_per_sec  : 75.74\npaths_total    : 40\npaths_favored  : 10\npaths_found    : 39\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 35\npending_favs   : 0\npending_total  : 23\nvariable_paths : 0\nbitmap_cvg     : 0.21%\nunique_crashes : 0\nunique_hangs   : 13\nlast_path      : 1500124406\nlast_crash     : 0\nlast_hang      : 1500124426\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CLOUDCOMPUTE/input -o /dev/shm/work/CLOUDCOMPUTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CLOUDCOMPUTE/CLOUDCOMPUTE.dict -- data/linux/processed-challenges/CLOUDCOMPUTE/bin/CLOUDCOMPUTE\n'
+p39
+I0
+tp40
+a(I2400
+S'start_time     : 1500122660\nlast_update    : 1500125064\nfuzzer_pid     : 7814\ncycles_done    : 1\nexecs_done     : 567469\nexecs_per_sec  : 76.74\npaths_total    : 40\npaths_favored  : 10\npaths_found    : 39\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 35\npending_favs   : 0\npending_total  : 23\nvariable_paths : 0\nbitmap_cvg     : 0.21%\nunique_crashes : 0\nunique_hangs   : 13\nlast_path      : 1500124406\nlast_crash     : 0\nlast_hang      : 1500124426\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CLOUDCOMPUTE/input -o /dev/shm/work/CLOUDCOMPUTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CLOUDCOMPUTE/CLOUDCOMPUTE.dict -- data/linux/processed-challenges/CLOUDCOMPUTE/bin/CLOUDCOMPUTE\n'
+p41
+I0
+tp42
+a(I2520
+S'start_time     : 1500122660\nlast_update    : 1500125184\nfuzzer_pid     : 7814\ncycles_done    : 1\nexecs_done     : 576557\nexecs_per_sec  : 96.79\npaths_total    : 40\npaths_favored  : 10\npaths_found    : 39\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 35\npending_favs   : 0\npending_total  : 23\nvariable_paths : 0\nbitmap_cvg     : 0.21%\nunique_crashes : 0\nunique_hangs   : 13\nlast_path      : 1500124406\nlast_crash     : 0\nlast_hang      : 1500124426\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CLOUDCOMPUTE/input -o /dev/shm/work/CLOUDCOMPUTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CLOUDCOMPUTE/CLOUDCOMPUTE.dict -- data/linux/processed-challenges/CLOUDCOMPUTE/bin/CLOUDCOMPUTE\n'
+p43
+I1
+tp44
+a(I2640
+S'start_time     : 1500122660\nlast_update    : 1500125305\nfuzzer_pid     : 7814\ncycles_done    : 1\nexecs_done     : 600364\nexecs_per_sec  : 238.88\npaths_total    : 43\npaths_favored  : 10\npaths_found    : 42\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 36\npending_favs   : 0\npending_total  : 25\nvariable_paths : 0\nbitmap_cvg     : 0.21%\nunique_crashes : 0\nunique_hangs   : 15\nlast_path      : 1500125253\nlast_crash     : 0\nlast_hang      : 1500125230\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CLOUDCOMPUTE/input -o /dev/shm/work/CLOUDCOMPUTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CLOUDCOMPUTE/CLOUDCOMPUTE.dict -- data/linux/processed-challenges/CLOUDCOMPUTE/bin/CLOUDCOMPUTE\n'
+p45
+I2
+tp46
+a(I2760
+S'start_time     : 1500122660\nlast_update    : 1500125425\nfuzzer_pid     : 7814\ncycles_done    : 1\nexecs_done     : 612674\nexecs_per_sec  : 97.56\npaths_total    : 43\npaths_favored  : 10\npaths_found    : 42\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 37\npending_favs   : 0\npending_total  : 25\nvariable_paths : 0\nbitmap_cvg     : 0.21%\nunique_crashes : 0\nunique_hangs   : 15\nlast_path      : 1500125253\nlast_crash     : 0\nlast_hang      : 1500125230\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CLOUDCOMPUTE/input -o /dev/shm/work/CLOUDCOMPUTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CLOUDCOMPUTE/CLOUDCOMPUTE.dict -- data/linux/processed-challenges/CLOUDCOMPUTE/bin/CLOUDCOMPUTE\n'
+p47
+I0
+tp48
+a(I2880
+S'start_time     : 1500122660\nlast_update    : 1500125545\nfuzzer_pid     : 7814\ncycles_done    : 1\nexecs_done     : 625593\nexecs_per_sec  : 98.12\npaths_total    : 43\npaths_favored  : 10\npaths_found    : 42\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 38\npending_favs   : 0\npending_total  : 24\nvariable_paths : 0\nbitmap_cvg     : 0.21%\nunique_crashes : 0\nunique_hangs   : 15\nlast_path      : 1500125253\nlast_crash     : 0\nlast_hang      : 1500125230\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CLOUDCOMPUTE/input -o /dev/shm/work/CLOUDCOMPUTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CLOUDCOMPUTE/CLOUDCOMPUTE.dict -- data/linux/processed-challenges/CLOUDCOMPUTE/bin/CLOUDCOMPUTE\n'
+p49
+I0
+tp50
+a(I3000
+S'start_time     : 1500122660\nlast_update    : 1500125666\nfuzzer_pid     : 7814\ncycles_done    : 1\nexecs_done     : 637202\nexecs_per_sec  : 91.23\npaths_total    : 43\npaths_favored  : 10\npaths_found    : 42\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 38\npending_favs   : 0\npending_total  : 24\nvariable_paths : 0\nbitmap_cvg     : 0.21%\nunique_crashes : 0\nunique_hangs   : 15\nlast_path      : 1500125253\nlast_crash     : 0\nlast_hang      : 1500125230\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CLOUDCOMPUTE/input -o /dev/shm/work/CLOUDCOMPUTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CLOUDCOMPUTE/CLOUDCOMPUTE.dict -- data/linux/processed-challenges/CLOUDCOMPUTE/bin/CLOUDCOMPUTE\n'
+p51
+I0
+tp52
+a(I3120
+S'start_time     : 1500122660\nlast_update    : 1500125786\nfuzzer_pid     : 7814\ncycles_done    : 1\nexecs_done     : 651315\nexecs_per_sec  : 152.61\npaths_total    : 43\npaths_favored  : 10\npaths_found    : 42\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 39\npending_favs   : 0\npending_total  : 23\nvariable_paths : 0\nbitmap_cvg     : 0.21%\nunique_crashes : 0\nunique_hangs   : 15\nlast_path      : 1500125253\nlast_crash     : 0\nlast_hang      : 1500125230\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CLOUDCOMPUTE/input -o /dev/shm/work/CLOUDCOMPUTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CLOUDCOMPUTE/CLOUDCOMPUTE.dict -- data/linux/processed-challenges/CLOUDCOMPUTE/bin/CLOUDCOMPUTE\n'
+p53
+I0
+tp54
+a(I3240
+S'start_time     : 1500122660\nlast_update    : 1500125906\nfuzzer_pid     : 7814\ncycles_done    : 1\nexecs_done     : 671431\nexecs_per_sec  : 198.12\npaths_total    : 43\npaths_favored  : 10\npaths_found    : 42\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 39\npending_favs   : 0\npending_total  : 23\nvariable_paths : 0\nbitmap_cvg     : 0.21%\nunique_crashes : 0\nunique_hangs   : 15\nlast_path      : 1500125253\nlast_crash     : 0\nlast_hang      : 1500125230\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CLOUDCOMPUTE/input -o /dev/shm/work/CLOUDCOMPUTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CLOUDCOMPUTE/CLOUDCOMPUTE.dict -- data/linux/processed-challenges/CLOUDCOMPUTE/bin/CLOUDCOMPUTE\n'
+p55
+I0
+tp56
+a(I3360
+S'start_time     : 1500122660\nlast_update    : 1500126026\nfuzzer_pid     : 7814\ncycles_done    : 1\nexecs_done     : 694722\nexecs_per_sec  : 184.08\npaths_total    : 45\npaths_favored  : 10\npaths_found    : 44\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 39\npending_favs   : 0\npending_total  : 25\nvariable_paths : 0\nbitmap_cvg     : 0.22%\nunique_crashes : 0\nunique_hangs   : 16\nlast_path      : 1500125911\nlast_crash     : 0\nlast_hang      : 1500125946\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CLOUDCOMPUTE/input -o /dev/shm/work/CLOUDCOMPUTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CLOUDCOMPUTE/CLOUDCOMPUTE.dict -- data/linux/processed-challenges/CLOUDCOMPUTE/bin/CLOUDCOMPUTE\n'
+p57
+I2
+tp58
+a(I3480
+S'start_time     : 1500122660\nlast_update    : 1500126146\nfuzzer_pid     : 7814\ncycles_done    : 1\nexecs_done     : 708819\nexecs_per_sec  : 55.94\npaths_total    : 45\npaths_favored  : 10\npaths_found    : 44\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 44\npending_favs   : 1\npending_total  : 24\nvariable_paths : 0\nbitmap_cvg     : 0.22%\nunique_crashes : 0\nunique_hangs   : 16\nlast_path      : 1500125911\nlast_crash     : 0\nlast_hang      : 1500125946\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CLOUDCOMPUTE/input -o /dev/shm/work/CLOUDCOMPUTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CLOUDCOMPUTE/CLOUDCOMPUTE.dict -- data/linux/processed-challenges/CLOUDCOMPUTE/bin/CLOUDCOMPUTE\n'
+p59
+I0
+tp60
+a(I3600
+S'start_time     : 1500122660\nlast_update    : 1500126266\nfuzzer_pid     : 7814\ncycles_done    : 1\nexecs_done     : 715606\nexecs_per_sec  : 56.46\npaths_total    : 45\npaths_favored  : 10\npaths_found    : 44\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 44\npending_favs   : 1\npending_total  : 24\nvariable_paths : 0\nbitmap_cvg     : 0.22%\nunique_crashes : 0\nunique_hangs   : 16\nlast_path      : 1500125911\nlast_crash     : 0\nlast_hang      : 1500125946\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CLOUDCOMPUTE/input -o /dev/shm/work/CLOUDCOMPUTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CLOUDCOMPUTE/CLOUDCOMPUTE.dict -- data/linux/processed-challenges/CLOUDCOMPUTE/bin/CLOUDCOMPUTE\n'
+p61
+I0
+tp62
+a(I3720
+S'start_time     : 1500122660\nlast_update    : 1500126387\nfuzzer_pid     : 7814\ncycles_done    : 1\nexecs_done     : 722409\nexecs_per_sec  : 56.49\npaths_total    : 45\npaths_favored  : 10\npaths_found    : 44\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 44\npending_favs   : 1\npending_total  : 24\nvariable_paths : 0\nbitmap_cvg     : 0.22%\nunique_crashes : 0\nunique_hangs   : 16\nlast_path      : 1500125911\nlast_crash     : 0\nlast_hang      : 1500125946\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CLOUDCOMPUTE/input -o /dev/shm/work/CLOUDCOMPUTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CLOUDCOMPUTE/CLOUDCOMPUTE.dict -- data/linux/processed-challenges/CLOUDCOMPUTE/bin/CLOUDCOMPUTE\n'
+p63
+I0
+tp64
+a(I3840
+S'start_time     : 1500122660\nlast_update    : 1500126507\nfuzzer_pid     : 7814\ncycles_done    : 1\nexecs_done     : 729187\nexecs_per_sec  : 55.75\npaths_total    : 45\npaths_favored  : 10\npaths_found    : 44\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 44\npending_favs   : 1\npending_total  : 24\nvariable_paths : 0\nbitmap_cvg     : 0.22%\nunique_crashes : 0\nunique_hangs   : 16\nlast_path      : 1500125911\nlast_crash     : 0\nlast_hang      : 1500125946\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CLOUDCOMPUTE/input -o /dev/shm/work/CLOUDCOMPUTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CLOUDCOMPUTE/CLOUDCOMPUTE.dict -- data/linux/processed-challenges/CLOUDCOMPUTE/bin/CLOUDCOMPUTE\n'
+p65
+I0
+tp66
+a(I3960
+S'start_time     : 1500122660\nlast_update    : 1500126627\nfuzzer_pid     : 7814\ncycles_done    : 1\nexecs_done     : 736038\nexecs_per_sec  : 57.56\npaths_total    : 45\npaths_favored  : 10\npaths_found    : 44\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 44\npending_favs   : 1\npending_total  : 24\nvariable_paths : 0\nbitmap_cvg     : 0.22%\nunique_crashes : 0\nunique_hangs   : 16\nlast_path      : 1500125911\nlast_crash     : 0\nlast_hang      : 1500125946\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CLOUDCOMPUTE/input -o /dev/shm/work/CLOUDCOMPUTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CLOUDCOMPUTE/CLOUDCOMPUTE.dict -- data/linux/processed-challenges/CLOUDCOMPUTE/bin/CLOUDCOMPUTE\n'
+p67
+I0
+tp68
+a(I4080
+S'start_time     : 1500122660\nlast_update    : 1500126748\nfuzzer_pid     : 7814\ncycles_done    : 1\nexecs_done     : 742836\nexecs_per_sec  : 56.97\npaths_total    : 45\npaths_favored  : 10\npaths_found    : 44\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 44\npending_favs   : 1\npending_total  : 24\nvariable_paths : 0\nbitmap_cvg     : 0.22%\nunique_crashes : 0\nunique_hangs   : 16\nlast_path      : 1500125911\nlast_crash     : 0\nlast_hang      : 1500125946\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CLOUDCOMPUTE/input -o /dev/shm/work/CLOUDCOMPUTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CLOUDCOMPUTE/CLOUDCOMPUTE.dict -- data/linux/processed-challenges/CLOUDCOMPUTE/bin/CLOUDCOMPUTE\n'
+p69
+I0
+tp70
+a(I4200
+S'start_time     : 1500122660\nlast_update    : 1500126868\nfuzzer_pid     : 7814\ncycles_done    : 1\nexecs_done     : 750326\nexecs_per_sec  : 74.66\npaths_total    : 48\npaths_favored  : 10\npaths_found    : 47\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 44\npending_favs   : 1\npending_total  : 27\nvariable_paths : 0\nbitmap_cvg     : 0.22%\nunique_crashes : 0\nunique_hangs   : 18\nlast_path      : 1500126844\nlast_crash     : 0\nlast_hang      : 1500126830\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CLOUDCOMPUTE/input -o /dev/shm/work/CLOUDCOMPUTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CLOUDCOMPUTE/CLOUDCOMPUTE.dict -- data/linux/processed-challenges/CLOUDCOMPUTE/bin/CLOUDCOMPUTE\n'
+p71
+I3
+tp72
+a(I4320
+S'start_time     : 1500122660\nlast_update    : 1500126988\nfuzzer_pid     : 7814\ncycles_done    : 1\nexecs_done     : 759647\nexecs_per_sec  : 78.56\npaths_total    : 50\npaths_favored  : 10\npaths_found    : 49\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 44\npending_favs   : 1\npending_total  : 29\nvariable_paths : 0\nbitmap_cvg     : 0.22%\nunique_crashes : 0\nunique_hangs   : 18\nlast_path      : 1500126908\nlast_crash     : 0\nlast_hang      : 1500126830\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CLOUDCOMPUTE/input -o /dev/shm/work/CLOUDCOMPUTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CLOUDCOMPUTE/CLOUDCOMPUTE.dict -- data/linux/processed-challenges/CLOUDCOMPUTE/bin/CLOUDCOMPUTE\n'
+p73
+I2
+tp74
+a(I4440
+S'start_time     : 1500122660\nlast_update    : 1500127108\nfuzzer_pid     : 7814\ncycles_done    : 1\nexecs_done     : 768807\nexecs_per_sec  : 75.11\npaths_total    : 50\npaths_favored  : 10\npaths_found    : 49\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 44\npending_favs   : 1\npending_total  : 29\nvariable_paths : 0\nbitmap_cvg     : 0.22%\nunique_crashes : 0\nunique_hangs   : 18\nlast_path      : 1500126908\nlast_crash     : 0\nlast_hang      : 1500126830\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CLOUDCOMPUTE/input -o /dev/shm/work/CLOUDCOMPUTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CLOUDCOMPUTE/CLOUDCOMPUTE.dict -- data/linux/processed-challenges/CLOUDCOMPUTE/bin/CLOUDCOMPUTE\n'
+p75
+I0
+tp76
+a(I4560
+S'start_time     : 1500122660\nlast_update    : 1500127229\nfuzzer_pid     : 7814\ncycles_done    : 1\nexecs_done     : 778120\nexecs_per_sec  : 82.68\npaths_total    : 50\npaths_favored  : 10\npaths_found    : 49\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 44\npending_favs   : 1\npending_total  : 29\nvariable_paths : 0\nbitmap_cvg     : 0.22%\nunique_crashes : 0\nunique_hangs   : 18\nlast_path      : 1500126908\nlast_crash     : 0\nlast_hang      : 1500126830\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CLOUDCOMPUTE/input -o /dev/shm/work/CLOUDCOMPUTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CLOUDCOMPUTE/CLOUDCOMPUTE.dict -- data/linux/processed-challenges/CLOUDCOMPUTE/bin/CLOUDCOMPUTE\n'
+p77
+I0
+tp78
+a(I4680
+S'start_time     : 1500122660\nlast_update    : 1500127349\nfuzzer_pid     : 7814\ncycles_done    : 1\nexecs_done     : 787360\nexecs_per_sec  : 78.52\npaths_total    : 51\npaths_favored  : 10\npaths_found    : 50\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 44\npending_favs   : 1\npending_total  : 30\nvariable_paths : 0\nbitmap_cvg     : 0.22%\nunique_crashes : 0\nunique_hangs   : 18\nlast_path      : 1500127342\nlast_crash     : 0\nlast_hang      : 1500126830\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CLOUDCOMPUTE/input -o /dev/shm/work/CLOUDCOMPUTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CLOUDCOMPUTE/CLOUDCOMPUTE.dict -- data/linux/processed-challenges/CLOUDCOMPUTE/bin/CLOUDCOMPUTE\n'
+p79
+I1
+tp80
+a(I4800
+S'start_time     : 1500122660\nlast_update    : 1500127469\nfuzzer_pid     : 7814\ncycles_done    : 1\nexecs_done     : 796531\nexecs_per_sec  : 75.72\npaths_total    : 51\npaths_favored  : 10\npaths_found    : 50\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 44\npending_favs   : 1\npending_total  : 30\nvariable_paths : 0\nbitmap_cvg     : 0.22%\nunique_crashes : 0\nunique_hangs   : 18\nlast_path      : 1500127342\nlast_crash     : 0\nlast_hang      : 1500126830\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CLOUDCOMPUTE/input -o /dev/shm/work/CLOUDCOMPUTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CLOUDCOMPUTE/CLOUDCOMPUTE.dict -- data/linux/processed-challenges/CLOUDCOMPUTE/bin/CLOUDCOMPUTE\n'
+p81
+I0
+tp82
+a(I4920
+S'start_time     : 1500122660\nlast_update    : 1500127589\nfuzzer_pid     : 7814\ncycles_done    : 1\nexecs_done     : 805800\nexecs_per_sec  : 77.54\npaths_total    : 51\npaths_favored  : 10\npaths_found    : 50\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 44\npending_favs   : 1\npending_total  : 30\nvariable_paths : 0\nbitmap_cvg     : 0.22%\nunique_crashes : 0\nunique_hangs   : 18\nlast_path      : 1500127342\nlast_crash     : 0\nlast_hang      : 1500126830\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CLOUDCOMPUTE/input -o /dev/shm/work/CLOUDCOMPUTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CLOUDCOMPUTE/CLOUDCOMPUTE.dict -- data/linux/processed-challenges/CLOUDCOMPUTE/bin/CLOUDCOMPUTE\n'
+p83
+I0
+tp84
+a(I5040
+S'start_time     : 1500122660\nlast_update    : 1500127709\nfuzzer_pid     : 7814\ncycles_done    : 1\nexecs_done     : 815063\nexecs_per_sec  : 75.88\npaths_total    : 51\npaths_favored  : 10\npaths_found    : 50\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 44\npending_favs   : 1\npending_total  : 30\nvariable_paths : 0\nbitmap_cvg     : 0.22%\nunique_crashes : 0\nunique_hangs   : 18\nlast_path      : 1500127342\nlast_crash     : 0\nlast_hang      : 1500126830\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CLOUDCOMPUTE/input -o /dev/shm/work/CLOUDCOMPUTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CLOUDCOMPUTE/CLOUDCOMPUTE.dict -- data/linux/processed-challenges/CLOUDCOMPUTE/bin/CLOUDCOMPUTE\n'
+p85
+I0
+tp86
+a(I5160
+S'start_time     : 1500122660\nlast_update    : 1500127830\nfuzzer_pid     : 7814\ncycles_done    : 1\nexecs_done     : 824291\nexecs_per_sec  : 75.91\npaths_total    : 51\npaths_favored  : 10\npaths_found    : 50\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 44\npending_favs   : 1\npending_total  : 30\nvariable_paths : 0\nbitmap_cvg     : 0.22%\nunique_crashes : 0\nunique_hangs   : 18\nlast_path      : 1500127342\nlast_crash     : 0\nlast_hang      : 1500126830\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CLOUDCOMPUTE/input -o /dev/shm/work/CLOUDCOMPUTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CLOUDCOMPUTE/CLOUDCOMPUTE.dict -- data/linux/processed-challenges/CLOUDCOMPUTE/bin/CLOUDCOMPUTE\n'
+p87
+I0
+tp88
+a(I5280
+S'start_time     : 1500122660\nlast_update    : 1500127950\nfuzzer_pid     : 7814\ncycles_done    : 1\nexecs_done     : 833620\nexecs_per_sec  : 80.27\npaths_total    : 51\npaths_favored  : 10\npaths_found    : 50\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 44\npending_favs   : 1\npending_total  : 30\nvariable_paths : 0\nbitmap_cvg     : 0.22%\nunique_crashes : 0\nunique_hangs   : 18\nlast_path      : 1500127342\nlast_crash     : 0\nlast_hang      : 1500126830\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CLOUDCOMPUTE/input -o /dev/shm/work/CLOUDCOMPUTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CLOUDCOMPUTE/CLOUDCOMPUTE.dict -- data/linux/processed-challenges/CLOUDCOMPUTE/bin/CLOUDCOMPUTE\n'
+p89
+I0
+tp90
+a(I5400
+S'start_time     : 1500122660\nlast_update    : 1500128070\nfuzzer_pid     : 7814\ncycles_done    : 1\nexecs_done     : 842945\nexecs_per_sec  : 77.42\npaths_total    : 51\npaths_favored  : 10\npaths_found    : 50\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 44\npending_favs   : 1\npending_total  : 30\nvariable_paths : 0\nbitmap_cvg     : 0.22%\nunique_crashes : 0\nunique_hangs   : 18\nlast_path      : 1500127342\nlast_crash     : 0\nlast_hang      : 1500126830\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CLOUDCOMPUTE/input -o /dev/shm/work/CLOUDCOMPUTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CLOUDCOMPUTE/CLOUDCOMPUTE.dict -- data/linux/processed-challenges/CLOUDCOMPUTE/bin/CLOUDCOMPUTE\n'
+p91
+I0
+tp92
+a(I5520
+S'start_time     : 1500122660\nlast_update    : 1500128190\nfuzzer_pid     : 7814\ncycles_done    : 1\nexecs_done     : 852288\nexecs_per_sec  : 77.11\npaths_total    : 51\npaths_favored  : 10\npaths_found    : 50\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 44\npending_favs   : 1\npending_total  : 30\nvariable_paths : 0\nbitmap_cvg     : 0.22%\nunique_crashes : 0\nunique_hangs   : 18\nlast_path      : 1500127342\nlast_crash     : 0\nlast_hang      : 1500126830\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CLOUDCOMPUTE/input -o /dev/shm/work/CLOUDCOMPUTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CLOUDCOMPUTE/CLOUDCOMPUTE.dict -- data/linux/processed-challenges/CLOUDCOMPUTE/bin/CLOUDCOMPUTE\n'
+p93
+I0
+tp94
+a(I5640
+S'start_time     : 1500122660\nlast_update    : 1500128310\nfuzzer_pid     : 7814\ncycles_done    : 1\nexecs_done     : 861476\nexecs_per_sec  : 76.57\npaths_total    : 51\npaths_favored  : 10\npaths_found    : 50\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 44\npending_favs   : 1\npending_total  : 30\nvariable_paths : 0\nbitmap_cvg     : 0.22%\nunique_crashes : 0\nunique_hangs   : 18\nlast_path      : 1500127342\nlast_crash     : 0\nlast_hang      : 1500126830\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CLOUDCOMPUTE/input -o /dev/shm/work/CLOUDCOMPUTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CLOUDCOMPUTE/CLOUDCOMPUTE.dict -- data/linux/processed-challenges/CLOUDCOMPUTE/bin/CLOUDCOMPUTE\n'
+p95
+I0
+tp96
+a(I5760
+S'start_time     : 1500122660\nlast_update    : 1500128430\nfuzzer_pid     : 7814\ncycles_done    : 1\nexecs_done     : 870809\nexecs_per_sec  : 74.22\npaths_total    : 51\npaths_favored  : 10\npaths_found    : 50\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 44\npending_favs   : 1\npending_total  : 30\nvariable_paths : 0\nbitmap_cvg     : 0.22%\nunique_crashes : 0\nunique_hangs   : 18\nlast_path      : 1500127342\nlast_crash     : 0\nlast_hang      : 1500126830\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CLOUDCOMPUTE/input -o /dev/shm/work/CLOUDCOMPUTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CLOUDCOMPUTE/CLOUDCOMPUTE.dict -- data/linux/processed-challenges/CLOUDCOMPUTE/bin/CLOUDCOMPUTE\n'
+p97
+I0
+tp98
+a(I5880
+S'start_time     : 1500122660\nlast_update    : 1500128551\nfuzzer_pid     : 7814\ncycles_done    : 1\nexecs_done     : 880159\nexecs_per_sec  : 78.99\npaths_total    : 51\npaths_favored  : 10\npaths_found    : 50\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 44\npending_favs   : 1\npending_total  : 30\nvariable_paths : 0\nbitmap_cvg     : 0.22%\nunique_crashes : 0\nunique_hangs   : 18\nlast_path      : 1500127342\nlast_crash     : 0\nlast_hang      : 1500126830\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CLOUDCOMPUTE/input -o /dev/shm/work/CLOUDCOMPUTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CLOUDCOMPUTE/CLOUDCOMPUTE.dict -- data/linux/processed-challenges/CLOUDCOMPUTE/bin/CLOUDCOMPUTE\n'
+p99
+I0
+tp100
+a(I6000
+S'start_time     : 1500122660\nlast_update    : 1500128671\nfuzzer_pid     : 7814\ncycles_done    : 1\nexecs_done     : 889446\nexecs_per_sec  : 75.77\npaths_total    : 51\npaths_favored  : 10\npaths_found    : 50\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 44\npending_favs   : 1\npending_total  : 30\nvariable_paths : 0\nbitmap_cvg     : 0.22%\nunique_crashes : 0\nunique_hangs   : 18\nlast_path      : 1500127342\nlast_crash     : 0\nlast_hang      : 1500126830\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CLOUDCOMPUTE/input -o /dev/shm/work/CLOUDCOMPUTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CLOUDCOMPUTE/CLOUDCOMPUTE.dict -- data/linux/processed-challenges/CLOUDCOMPUTE/bin/CLOUDCOMPUTE\n'
+p101
+I0
+tp102
+a(I6120
+S'start_time     : 1500122660\nlast_update    : 1500128791\nfuzzer_pid     : 7814\ncycles_done    : 1\nexecs_done     : 898603\nexecs_per_sec  : 78.72\npaths_total    : 51\npaths_favored  : 10\npaths_found    : 50\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 44\npending_favs   : 1\npending_total  : 30\nvariable_paths : 0\nbitmap_cvg     : 0.22%\nunique_crashes : 0\nunique_hangs   : 18\nlast_path      : 1500127342\nlast_crash     : 0\nlast_hang      : 1500126830\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CLOUDCOMPUTE/input -o /dev/shm/work/CLOUDCOMPUTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CLOUDCOMPUTE/CLOUDCOMPUTE.dict -- data/linux/processed-challenges/CLOUDCOMPUTE/bin/CLOUDCOMPUTE\n'
+p103
+I0
+tp104
+a(I6240
+S'start_time     : 1500122660\nlast_update    : 1500128911\nfuzzer_pid     : 7814\ncycles_done    : 1\nexecs_done     : 907711\nexecs_per_sec  : 64.36\npaths_total    : 51\npaths_favored  : 10\npaths_found    : 50\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 46\npending_favs   : 1\npending_total  : 29\nvariable_paths : 0\nbitmap_cvg     : 0.22%\nunique_crashes : 0\nunique_hangs   : 18\nlast_path      : 1500127342\nlast_crash     : 0\nlast_hang      : 1500126830\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CLOUDCOMPUTE/input -o /dev/shm/work/CLOUDCOMPUTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CLOUDCOMPUTE/CLOUDCOMPUTE.dict -- data/linux/processed-challenges/CLOUDCOMPUTE/bin/CLOUDCOMPUTE\n'
+p105
+I0
+tp106
+a(I6360
+S'start_time     : 1500122660\nlast_update    : 1500129031\nfuzzer_pid     : 7814\ncycles_done    : 1\nexecs_done     : 914695\nexecs_per_sec  : 58.17\npaths_total    : 51\npaths_favored  : 10\npaths_found    : 50\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 46\npending_favs   : 1\npending_total  : 29\nvariable_paths : 0\nbitmap_cvg     : 0.22%\nunique_crashes : 0\nunique_hangs   : 18\nlast_path      : 1500127342\nlast_crash     : 0\nlast_hang      : 1500126830\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CLOUDCOMPUTE/input -o /dev/shm/work/CLOUDCOMPUTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CLOUDCOMPUTE/CLOUDCOMPUTE.dict -- data/linux/processed-challenges/CLOUDCOMPUTE/bin/CLOUDCOMPUTE\n'
+p107
+I0
+tp108
+a(I6480
+S'start_time     : 1500122660\nlast_update    : 1500129152\nfuzzer_pid     : 7814\ncycles_done    : 1\nexecs_done     : 921681\nexecs_per_sec  : 58.02\npaths_total    : 51\npaths_favored  : 10\npaths_found    : 50\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 46\npending_favs   : 1\npending_total  : 29\nvariable_paths : 0\nbitmap_cvg     : 0.22%\nunique_crashes : 0\nunique_hangs   : 18\nlast_path      : 1500127342\nlast_crash     : 0\nlast_hang      : 1500126830\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CLOUDCOMPUTE/input -o /dev/shm/work/CLOUDCOMPUTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CLOUDCOMPUTE/CLOUDCOMPUTE.dict -- data/linux/processed-challenges/CLOUDCOMPUTE/bin/CLOUDCOMPUTE\n'
+p109
+I0
+tp110
+a(I6600
+S'start_time     : 1500122660\nlast_update    : 1500129272\nfuzzer_pid     : 7814\ncycles_done    : 1\nexecs_done     : 928707\nexecs_per_sec  : 57.78\npaths_total    : 51\npaths_favored  : 10\npaths_found    : 50\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 46\npending_favs   : 1\npending_total  : 29\nvariable_paths : 0\nbitmap_cvg     : 0.22%\nunique_crashes : 0\nunique_hangs   : 18\nlast_path      : 1500127342\nlast_crash     : 0\nlast_hang      : 1500126830\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CLOUDCOMPUTE/input -o /dev/shm/work/CLOUDCOMPUTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CLOUDCOMPUTE/CLOUDCOMPUTE.dict -- data/linux/processed-challenges/CLOUDCOMPUTE/bin/CLOUDCOMPUTE\n'
+p111
+I0
+tp112
+a(I6720
+S'start_time     : 1500122660\nlast_update    : 1500129332\nfuzzer_pid     : 7814\ncycles_done    : 1\nexecs_done     : 932224\nexecs_per_sec  : 58.15\npaths_total    : 51\npaths_favored  : 10\npaths_found    : 50\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 46\npending_favs   : 1\npending_total  : 29\nvariable_paths : 0\nbitmap_cvg     : 0.22%\nunique_crashes : 0\nunique_hangs   : 18\nlast_path      : 1500127342\nlast_crash     : 0\nlast_hang      : 1500126830\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CLOUDCOMPUTE/input -o /dev/shm/work/CLOUDCOMPUTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CLOUDCOMPUTE/CLOUDCOMPUTE.dict -- data/linux/processed-challenges/CLOUDCOMPUTE/bin/CLOUDCOMPUTE\n'
+p113
+I0
+tp114
+a(I6840
+S'start_time     : 1500122660\nlast_update    : 1500129452\nfuzzer_pid     : 7814\ncycles_done    : 1\nexecs_done     : 939237\nexecs_per_sec  : 58.66\npaths_total    : 51\npaths_favored  : 10\npaths_found    : 50\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 46\npending_favs   : 1\npending_total  : 29\nvariable_paths : 0\nbitmap_cvg     : 0.22%\nunique_crashes : 0\nunique_hangs   : 18\nlast_path      : 1500127342\nlast_crash     : 0\nlast_hang      : 1500126830\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CLOUDCOMPUTE/input -o /dev/shm/work/CLOUDCOMPUTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CLOUDCOMPUTE/CLOUDCOMPUTE.dict -- data/linux/processed-challenges/CLOUDCOMPUTE/bin/CLOUDCOMPUTE\n'
+p115
+I0
+tp116
+a(I6960
+S'start_time     : 1500122660\nlast_update    : 1500129572\nfuzzer_pid     : 7814\ncycles_done    : 1\nexecs_done     : 946213\nexecs_per_sec  : 57.50\npaths_total    : 51\npaths_favored  : 10\npaths_found    : 50\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 46\npending_favs   : 1\npending_total  : 29\nvariable_paths : 0\nbitmap_cvg     : 0.22%\nunique_crashes : 0\nunique_hangs   : 18\nlast_path      : 1500127342\nlast_crash     : 0\nlast_hang      : 1500126830\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CLOUDCOMPUTE/input -o /dev/shm/work/CLOUDCOMPUTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CLOUDCOMPUTE/CLOUDCOMPUTE.dict -- data/linux/processed-challenges/CLOUDCOMPUTE/bin/CLOUDCOMPUTE\n'
+p117
+I0
+tp118
+a(I7080
+S'start_time     : 1500122660\nlast_update    : 1500129692\nfuzzer_pid     : 7814\ncycles_done    : 1\nexecs_done     : 954446\nexecs_per_sec  : 76.77\npaths_total    : 51\npaths_favored  : 10\npaths_found    : 50\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 46\npending_favs   : 1\npending_total  : 29\nvariable_paths : 0\nbitmap_cvg     : 0.22%\nunique_crashes : 0\nunique_hangs   : 18\nlast_path      : 1500127342\nlast_crash     : 0\nlast_hang      : 1500126830\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CLOUDCOMPUTE/input -o /dev/shm/work/CLOUDCOMPUTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CLOUDCOMPUTE/CLOUDCOMPUTE.dict -- data/linux/processed-challenges/CLOUDCOMPUTE/bin/CLOUDCOMPUTE\n'
+p119
+I0
+tp120
+a(I7200
+S'start_time     : 1500122660\nlast_update    : 1500129813\nfuzzer_pid     : 7814\ncycles_done    : 1\nexecs_done     : 963707\nexecs_per_sec  : 76.04\npaths_total    : 51\npaths_favored  : 10\npaths_found    : 50\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 46\npending_favs   : 1\npending_total  : 29\nvariable_paths : 0\nbitmap_cvg     : 0.22%\nunique_crashes : 0\nunique_hangs   : 18\nlast_path      : 1500127342\nlast_crash     : 0\nlast_hang      : 1500126830\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CLOUDCOMPUTE/input -o /dev/shm/work/CLOUDCOMPUTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CLOUDCOMPUTE/CLOUDCOMPUTE.dict -- data/linux/processed-challenges/CLOUDCOMPUTE/bin/CLOUDCOMPUTE\n'
+p121
+I0
+tp122
+a(I7320
+S'start_time     : 1500122660\nlast_update    : 1500129933\nfuzzer_pid     : 7814\ncycles_done    : 2\nexecs_done     : 1009415\nexecs_per_sec  : 480.08\npaths_total    : 51\npaths_favored  : 10\npaths_found    : 50\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 6\npending_favs   : 0\npending_total  : 27\nvariable_paths : 0\nbitmap_cvg     : 0.22%\nunique_crashes : 0\nunique_hangs   : 18\nlast_path      : 1500127342\nlast_crash     : 0\nlast_hang      : 1500126830\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CLOUDCOMPUTE/input -o /dev/shm/work/CLOUDCOMPUTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CLOUDCOMPUTE/CLOUDCOMPUTE.dict -- data/linux/processed-challenges/CLOUDCOMPUTE/bin/CLOUDCOMPUTE\n'
+p123
+I0
+tp124
+a(I7440
+S'start_time     : 1500122660\nlast_update    : 1500130053\nfuzzer_pid     : 7814\ncycles_done    : 2\nexecs_done     : 1042703\nexecs_per_sec  : 260.88\npaths_total    : 51\npaths_favored  : 10\npaths_found    : 50\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 15\npending_favs   : 0\npending_total  : 25\nvariable_paths : 0\nbitmap_cvg     : 0.22%\nunique_crashes : 0\nunique_hangs   : 18\nlast_path      : 1500127342\nlast_crash     : 0\nlast_hang      : 1500126830\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CLOUDCOMPUTE/input -o /dev/shm/work/CLOUDCOMPUTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CLOUDCOMPUTE/CLOUDCOMPUTE.dict -- data/linux/processed-challenges/CLOUDCOMPUTE/bin/CLOUDCOMPUTE\n'
+p125
+I0
+tp126
+a(I7560
+S'start_time     : 1500122660\nlast_update    : 1500130173\nfuzzer_pid     : 7814\ncycles_done    : 2\nexecs_done     : 1076493\nexecs_per_sec  : 110.80\npaths_total    : 51\npaths_favored  : 10\npaths_found    : 50\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 25\npending_favs   : 0\npending_total  : 25\nvariable_paths : 0\nbitmap_cvg     : 0.22%\nunique_crashes : 0\nunique_hangs   : 18\nlast_path      : 1500127342\nlast_crash     : 0\nlast_hang      : 1500126830\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CLOUDCOMPUTE/input -o /dev/shm/work/CLOUDCOMPUTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CLOUDCOMPUTE/CLOUDCOMPUTE.dict -- data/linux/processed-challenges/CLOUDCOMPUTE/bin/CLOUDCOMPUTE\n'
+p127
+I0
+tp128
+a(I7680
+S'start_time     : 1500122660\nlast_update    : 1500130293\nfuzzer_pid     : 7814\ncycles_done    : 2\nexecs_done     : 1092294\nexecs_per_sec  : 171.11\npaths_total    : 51\npaths_favored  : 10\npaths_found    : 50\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 33\npending_favs   : 0\npending_total  : 24\nvariable_paths : 0\nbitmap_cvg     : 0.22%\nunique_crashes : 0\nunique_hangs   : 18\nlast_path      : 1500127342\nlast_crash     : 0\nlast_hang      : 1500126830\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CLOUDCOMPUTE/input -o /dev/shm/work/CLOUDCOMPUTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CLOUDCOMPUTE/CLOUDCOMPUTE.dict -- data/linux/processed-challenges/CLOUDCOMPUTE/bin/CLOUDCOMPUTE\n'
+p129
+I0
+tp130
+a(I7800
+S'start_time     : 1500122660\nlast_update    : 1500130413\nfuzzer_pid     : 7814\ncycles_done    : 2\nexecs_done     : 1112392\nexecs_per_sec  : 76.58\npaths_total    : 51\npaths_favored  : 10\npaths_found    : 50\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 41\npending_favs   : 0\npending_total  : 23\nvariable_paths : 0\nbitmap_cvg     : 0.22%\nunique_crashes : 0\nunique_hangs   : 18\nlast_path      : 1500127342\nlast_crash     : 0\nlast_hang      : 1500126830\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CLOUDCOMPUTE/input -o /dev/shm/work/CLOUDCOMPUTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CLOUDCOMPUTE/CLOUDCOMPUTE.dict -- data/linux/processed-challenges/CLOUDCOMPUTE/bin/CLOUDCOMPUTE\n'
+p131
+I0
+tp132
+a(I7920
+S'start_time     : 1500122660\nlast_update    : 1500130534\nfuzzer_pid     : 7814\ncycles_done    : 2\nexecs_done     : 1121458\nexecs_per_sec  : 75.75\npaths_total    : 51\npaths_favored  : 10\npaths_found    : 50\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 41\npending_favs   : 0\npending_total  : 23\nvariable_paths : 0\nbitmap_cvg     : 0.22%\nunique_crashes : 0\nunique_hangs   : 18\nlast_path      : 1500127342\nlast_crash     : 0\nlast_hang      : 1500126830\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CLOUDCOMPUTE/input -o /dev/shm/work/CLOUDCOMPUTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CLOUDCOMPUTE/CLOUDCOMPUTE.dict -- data/linux/processed-challenges/CLOUDCOMPUTE/bin/CLOUDCOMPUTE\n'
+p133
+I0
+tp134
+a(I8040
+S'start_time     : 1500122660\nlast_update    : 1500130654\nfuzzer_pid     : 7814\ncycles_done    : 2\nexecs_done     : 1130429\nexecs_per_sec  : 75.75\npaths_total    : 51\npaths_favored  : 10\npaths_found    : 50\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 41\npending_favs   : 0\npending_total  : 23\nvariable_paths : 0\nbitmap_cvg     : 0.22%\nunique_crashes : 0\nunique_hangs   : 18\nlast_path      : 1500127342\nlast_crash     : 0\nlast_hang      : 1500126830\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CLOUDCOMPUTE/input -o /dev/shm/work/CLOUDCOMPUTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CLOUDCOMPUTE/CLOUDCOMPUTE.dict -- data/linux/processed-challenges/CLOUDCOMPUTE/bin/CLOUDCOMPUTE\n'
+p135
+I0
+tp136
+a(I8160
+S'start_time     : 1500122660\nlast_update    : 1500130774\nfuzzer_pid     : 7814\ncycles_done    : 2\nexecs_done     : 1144633\nexecs_per_sec  : 124.39\npaths_total    : 51\npaths_favored  : 10\npaths_found    : 50\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 41\npending_favs   : 0\npending_total  : 23\nvariable_paths : 0\nbitmap_cvg     : 0.22%\nunique_crashes : 0\nunique_hangs   : 18\nlast_path      : 1500127342\nlast_crash     : 0\nlast_hang      : 1500126830\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CLOUDCOMPUTE/input -o /dev/shm/work/CLOUDCOMPUTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CLOUDCOMPUTE/CLOUDCOMPUTE.dict -- data/linux/processed-challenges/CLOUDCOMPUTE/bin/CLOUDCOMPUTE\n'
+p137
+I0
+tp138
+a(I8280
+S'start_time     : 1500122660\nlast_update    : 1500130894\nfuzzer_pid     : 7814\ncycles_done    : 2\nexecs_done     : 1153091\nexecs_per_sec  : 60.59\npaths_total    : 51\npaths_favored  : 10\npaths_found    : 50\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 42\npending_favs   : 0\npending_total  : 22\nvariable_paths : 0\nbitmap_cvg     : 0.22%\nunique_crashes : 0\nunique_hangs   : 18\nlast_path      : 1500127342\nlast_crash     : 0\nlast_hang      : 1500126830\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CLOUDCOMPUTE/input -o /dev/shm/work/CLOUDCOMPUTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CLOUDCOMPUTE/CLOUDCOMPUTE.dict -- data/linux/processed-challenges/CLOUDCOMPUTE/bin/CLOUDCOMPUTE\n'
+p139
+I0
+tp140
+a(I8400
+S'start_time     : 1500122660\nlast_update    : 1500131014\nfuzzer_pid     : 7814\ncycles_done    : 2\nexecs_done     : 1160354\nexecs_per_sec  : 60.62\npaths_total    : 51\npaths_favored  : 10\npaths_found    : 50\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 42\npending_favs   : 0\npending_total  : 22\nvariable_paths : 0\nbitmap_cvg     : 0.22%\nunique_crashes : 0\nunique_hangs   : 18\nlast_path      : 1500127342\nlast_crash     : 0\nlast_hang      : 1500126830\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CLOUDCOMPUTE/input -o /dev/shm/work/CLOUDCOMPUTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CLOUDCOMPUTE/CLOUDCOMPUTE.dict -- data/linux/processed-challenges/CLOUDCOMPUTE/bin/CLOUDCOMPUTE\n'
+p141
+I0
+tp142
+a(I8520
+S'start_time     : 1500122660\nlast_update    : 1500131135\nfuzzer_pid     : 7814\ncycles_done    : 2\nexecs_done     : 1167473\nexecs_per_sec  : 60.04\npaths_total    : 51\npaths_favored  : 10\npaths_found    : 50\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 42\npending_favs   : 0\npending_total  : 22\nvariable_paths : 0\nbitmap_cvg     : 0.22%\nunique_crashes : 0\nunique_hangs   : 18\nlast_path      : 1500127342\nlast_crash     : 0\nlast_hang      : 1500126830\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CLOUDCOMPUTE/input -o /dev/shm/work/CLOUDCOMPUTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CLOUDCOMPUTE/CLOUDCOMPUTE.dict -- data/linux/processed-challenges/CLOUDCOMPUTE/bin/CLOUDCOMPUTE\n'
+p143
+I0
+tp144
+a(I8640
+S'start_time     : 1500122660\nlast_update    : 1500131255\nfuzzer_pid     : 7814\ncycles_done    : 2\nexecs_done     : 1174943\nexecs_per_sec  : 95.20\npaths_total    : 51\npaths_favored  : 10\npaths_found    : 50\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 42\npending_favs   : 0\npending_total  : 22\nvariable_paths : 0\nbitmap_cvg     : 0.22%\nunique_crashes : 0\nunique_hangs   : 18\nlast_path      : 1500127342\nlast_crash     : 0\nlast_hang      : 1500126830\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CLOUDCOMPUTE/input -o /dev/shm/work/CLOUDCOMPUTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CLOUDCOMPUTE/CLOUDCOMPUTE.dict -- data/linux/processed-challenges/CLOUDCOMPUTE/bin/CLOUDCOMPUTE\n'
+p145
+I0
+tp146
+a(I8760
+S'start_time     : 1500122660\nlast_update    : 1500131375\nfuzzer_pid     : 7814\ncycles_done    : 2\nexecs_done     : 1187373\nexecs_per_sec  : 105.29\npaths_total    : 51\npaths_favored  : 10\npaths_found    : 50\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 42\npending_favs   : 0\npending_total  : 22\nvariable_paths : 0\nbitmap_cvg     : 0.22%\nunique_crashes : 0\nunique_hangs   : 18\nlast_path      : 1500127342\nlast_crash     : 0\nlast_hang      : 1500126830\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CLOUDCOMPUTE/input -o /dev/shm/work/CLOUDCOMPUTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CLOUDCOMPUTE/CLOUDCOMPUTE.dict -- data/linux/processed-challenges/CLOUDCOMPUTE/bin/CLOUDCOMPUTE\n'
+p147
+I0
+tp148
+a(I8880
+S'start_time     : 1500122660\nlast_update    : 1500131495\nfuzzer_pid     : 7814\ncycles_done    : 3\nexecs_done     : 1207393\nexecs_per_sec  : 342.24\npaths_total    : 51\npaths_favored  : 10\npaths_found    : 50\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 1\npending_favs   : 0\npending_total  : 21\nvariable_paths : 0\nbitmap_cvg     : 0.22%\nunique_crashes : 0\nunique_hangs   : 19\nlast_path      : 1500127342\nlast_crash     : 0\nlast_hang      : 1500131385\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CLOUDCOMPUTE/input -o /dev/shm/work/CLOUDCOMPUTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CLOUDCOMPUTE/CLOUDCOMPUTE.dict -- data/linux/processed-challenges/CLOUDCOMPUTE/bin/CLOUDCOMPUTE\n'
+p149
+I0
+tp150
+a(I9000
+S'start_time     : 1500122660\nlast_update    : 1500131616\nfuzzer_pid     : 7814\ncycles_done    : 3\nexecs_done     : 1237961\nexecs_per_sec  : 318.21\npaths_total    : 51\npaths_favored  : 10\npaths_found    : 50\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 2\npending_favs   : 0\npending_total  : 21\nvariable_paths : 0\nbitmap_cvg     : 0.22%\nunique_crashes : 0\nunique_hangs   : 19\nlast_path      : 1500127342\nlast_crash     : 0\nlast_hang      : 1500131385\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CLOUDCOMPUTE/input -o /dev/shm/work/CLOUDCOMPUTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CLOUDCOMPUTE/CLOUDCOMPUTE.dict -- data/linux/processed-challenges/CLOUDCOMPUTE/bin/CLOUDCOMPUTE\n'
+p151
+I0
+tp152
+a(I9120
+S'start_time     : 1500122660\nlast_update    : 1500131736\nfuzzer_pid     : 7814\ncycles_done    : 3\nexecs_done     : 1263624\nexecs_per_sec  : 482.57\npaths_total    : 51\npaths_favored  : 10\npaths_found    : 50\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 3\npending_favs   : 0\npending_total  : 21\nvariable_paths : 0\nbitmap_cvg     : 0.22%\nunique_crashes : 0\nunique_hangs   : 19\nlast_path      : 1500127342\nlast_crash     : 0\nlast_hang      : 1500131385\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CLOUDCOMPUTE/input -o /dev/shm/work/CLOUDCOMPUTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CLOUDCOMPUTE/CLOUDCOMPUTE.dict -- data/linux/processed-challenges/CLOUDCOMPUTE/bin/CLOUDCOMPUTE\n'
+p153
+I0
+tp154
+a(I9240
+S'start_time     : 1500122660\nlast_update    : 1500131856\nfuzzer_pid     : 7814\ncycles_done    : 3\nexecs_done     : 1303915\nexecs_per_sec  : 76.84\npaths_total    : 51\npaths_favored  : 10\npaths_found    : 50\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 12\npending_favs   : 0\npending_total  : 21\nvariable_paths : 0\nbitmap_cvg     : 0.22%\nunique_crashes : 0\nunique_hangs   : 19\nlast_path      : 1500127342\nlast_crash     : 0\nlast_hang      : 1500131385\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CLOUDCOMPUTE/input -o /dev/shm/work/CLOUDCOMPUTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CLOUDCOMPUTE/CLOUDCOMPUTE.dict -- data/linux/processed-challenges/CLOUDCOMPUTE/bin/CLOUDCOMPUTE\n'
+p155
+I0
+tp156
+a(I9360
+S'start_time     : 1500122660\nlast_update    : 1500131976\nfuzzer_pid     : 7814\ncycles_done    : 3\nexecs_done     : 1326426\nexecs_per_sec  : 107.35\npaths_total    : 51\npaths_favored  : 10\npaths_found    : 50\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 15\npending_favs   : 0\npending_total  : 20\nvariable_paths : 0\nbitmap_cvg     : 0.22%\nunique_crashes : 0\nunique_hangs   : 19\nlast_path      : 1500127342\nlast_crash     : 0\nlast_hang      : 1500131385\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CLOUDCOMPUTE/input -o /dev/shm/work/CLOUDCOMPUTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CLOUDCOMPUTE/CLOUDCOMPUTE.dict -- data/linux/processed-challenges/CLOUDCOMPUTE/bin/CLOUDCOMPUTE\n'
+p157
+I0
+tp158
+a(I9480
+S'start_time     : 1500122660\nlast_update    : 1500132097\nfuzzer_pid     : 7814\ncycles_done    : 3\nexecs_done     : 1349509\nexecs_per_sec  : 187.78\npaths_total    : 52\npaths_favored  : 10\npaths_found    : 51\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 16\npending_favs   : 0\npending_total  : 21\nvariable_paths : 0\nbitmap_cvg     : 0.22%\nunique_crashes : 0\nunique_hangs   : 19\nlast_path      : 1500132057\nlast_crash     : 0\nlast_hang      : 1500131385\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CLOUDCOMPUTE/input -o /dev/shm/work/CLOUDCOMPUTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CLOUDCOMPUTE/CLOUDCOMPUTE.dict -- data/linux/processed-challenges/CLOUDCOMPUTE/bin/CLOUDCOMPUTE\n'
+p159
+I1
+tp160
+a(I9600
+S'start_time     : 1500122660\nlast_update    : 1500132217\nfuzzer_pid     : 7814\ncycles_done    : 3\nexecs_done     : 1376970\nexecs_per_sec  : 183.03\npaths_total    : 52\npaths_favored  : 10\npaths_found    : 51\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 17\npending_favs   : 0\npending_total  : 21\nvariable_paths : 0\nbitmap_cvg     : 0.22%\nunique_crashes : 0\nunique_hangs   : 19\nlast_path      : 1500132057\nlast_crash     : 0\nlast_hang      : 1500131385\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CLOUDCOMPUTE/input -o /dev/shm/work/CLOUDCOMPUTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CLOUDCOMPUTE/CLOUDCOMPUTE.dict -- data/linux/processed-challenges/CLOUDCOMPUTE/bin/CLOUDCOMPUTE\n'
+p161
+I0
+tp162
+a(I9720
+S'start_time     : 1500122660\nlast_update    : 1500132337\nfuzzer_pid     : 7814\ncycles_done    : 3\nexecs_done     : 1403418\nexecs_per_sec  : 192.65\npaths_total    : 52\npaths_favored  : 10\npaths_found    : 51\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 20\npending_favs   : 0\npending_total  : 21\nvariable_paths : 0\nbitmap_cvg     : 0.22%\nunique_crashes : 0\nunique_hangs   : 19\nlast_path      : 1500132057\nlast_crash     : 0\nlast_hang      : 1500131385\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CLOUDCOMPUTE/input -o /dev/shm/work/CLOUDCOMPUTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CLOUDCOMPUTE/CLOUDCOMPUTE.dict -- data/linux/processed-challenges/CLOUDCOMPUTE/bin/CLOUDCOMPUTE\n'
+p163
+I0
+tp164
+a(I9840
+S'start_time     : 1500122660\nlast_update    : 1500132457\nfuzzer_pid     : 7814\ncycles_done    : 3\nexecs_done     : 1426512\nexecs_per_sec  : 140.75\npaths_total    : 52\npaths_favored  : 10\npaths_found    : 51\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 21\npending_favs   : 0\npending_total  : 21\nvariable_paths : 0\nbitmap_cvg     : 0.22%\nunique_crashes : 0\nunique_hangs   : 19\nlast_path      : 1500132057\nlast_crash     : 0\nlast_hang      : 1500131385\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CLOUDCOMPUTE/input -o /dev/shm/work/CLOUDCOMPUTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CLOUDCOMPUTE/CLOUDCOMPUTE.dict -- data/linux/processed-challenges/CLOUDCOMPUTE/bin/CLOUDCOMPUTE\n'
+p165
+I0
+tp166
+a(I9960
+S'start_time     : 1500122660\nlast_update    : 1500132577\nfuzzer_pid     : 7814\ncycles_done    : 3\nexecs_done     : 1448370\nexecs_per_sec  : 246.94\npaths_total    : 52\npaths_favored  : 10\npaths_found    : 51\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 27\npending_favs   : 0\npending_total  : 20\nvariable_paths : 0\nbitmap_cvg     : 0.22%\nunique_crashes : 0\nunique_hangs   : 19\nlast_path      : 1500132057\nlast_crash     : 0\nlast_hang      : 1500131385\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CLOUDCOMPUTE/input -o /dev/shm/work/CLOUDCOMPUTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CLOUDCOMPUTE/CLOUDCOMPUTE.dict -- data/linux/processed-challenges/CLOUDCOMPUTE/bin/CLOUDCOMPUTE\n'
+p167
+I0
+tp168
+a(I10080
+S'start_time     : 1500122660\nlast_update    : 1500132698\nfuzzer_pid     : 7814\ncycles_done    : 3\nexecs_done     : 1459988\nexecs_per_sec  : 61.60\npaths_total    : 52\npaths_favored  : 10\npaths_found    : 51\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 31\npending_favs   : 0\npending_total  : 19\nvariable_paths : 0\nbitmap_cvg     : 0.22%\nunique_crashes : 0\nunique_hangs   : 19\nlast_path      : 1500132057\nlast_crash     : 0\nlast_hang      : 1500131385\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CLOUDCOMPUTE/input -o /dev/shm/work/CLOUDCOMPUTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CLOUDCOMPUTE/CLOUDCOMPUTE.dict -- data/linux/processed-challenges/CLOUDCOMPUTE/bin/CLOUDCOMPUTE\n'
+p169
+I0
+tp170
+a(I10200
+S'start_time     : 1500122660\nlast_update    : 1500132818\nfuzzer_pid     : 7814\ncycles_done    : 3\nexecs_done     : 1467280\nexecs_per_sec  : 60.49\npaths_total    : 52\npaths_favored  : 10\npaths_found    : 51\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 31\npending_favs   : 0\npending_total  : 19\nvariable_paths : 0\nbitmap_cvg     : 0.22%\nunique_crashes : 0\nunique_hangs   : 19\nlast_path      : 1500132057\nlast_crash     : 0\nlast_hang      : 1500131385\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CLOUDCOMPUTE/input -o /dev/shm/work/CLOUDCOMPUTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CLOUDCOMPUTE/CLOUDCOMPUTE.dict -- data/linux/processed-challenges/CLOUDCOMPUTE/bin/CLOUDCOMPUTE\n'
+p171
+I0
+tp172
+a(I10320
+S'start_time     : 1500122660\nlast_update    : 1500132938\nfuzzer_pid     : 7814\ncycles_done    : 3\nexecs_done     : 1484985\nexecs_per_sec  : 262.85\npaths_total    : 52\npaths_favored  : 10\npaths_found    : 51\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 36\npending_favs   : 0\npending_total  : 18\nvariable_paths : 0\nbitmap_cvg     : 0.22%\nunique_crashes : 0\nunique_hangs   : 19\nlast_path      : 1500132057\nlast_crash     : 0\nlast_hang      : 1500131385\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CLOUDCOMPUTE/input -o /dev/shm/work/CLOUDCOMPUTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CLOUDCOMPUTE/CLOUDCOMPUTE.dict -- data/linux/processed-challenges/CLOUDCOMPUTE/bin/CLOUDCOMPUTE\n'
+p173
+I0
+tp174
+a(I10440
+S'start_time     : 1500122660\nlast_update    : 1500133058\nfuzzer_pid     : 7814\ncycles_done    : 3\nexecs_done     : 1499162\nexecs_per_sec  : 80.34\npaths_total    : 52\npaths_favored  : 10\npaths_found    : 51\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 43\npending_favs   : 0\npending_total  : 18\nvariable_paths : 0\nbitmap_cvg     : 0.22%\nunique_crashes : 0\nunique_hangs   : 19\nlast_path      : 1500132057\nlast_crash     : 0\nlast_hang      : 1500131385\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CLOUDCOMPUTE/input -o /dev/shm/work/CLOUDCOMPUTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CLOUDCOMPUTE/CLOUDCOMPUTE.dict -- data/linux/processed-challenges/CLOUDCOMPUTE/bin/CLOUDCOMPUTE\n'
+p175
+I0
+tp176
+a(I10560
+S'start_time     : 1500122660\nlast_update    : 1500133179\nfuzzer_pid     : 7814\ncycles_done    : 3\nexecs_done     : 1508395\nexecs_per_sec  : 77.03\npaths_total    : 52\npaths_favored  : 10\npaths_found    : 51\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 43\npending_favs   : 0\npending_total  : 18\nvariable_paths : 0\nbitmap_cvg     : 0.22%\nunique_crashes : 0\nunique_hangs   : 19\nlast_path      : 1500132057\nlast_crash     : 0\nlast_hang      : 1500131385\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CLOUDCOMPUTE/input -o /dev/shm/work/CLOUDCOMPUTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CLOUDCOMPUTE/CLOUDCOMPUTE.dict -- data/linux/processed-challenges/CLOUDCOMPUTE/bin/CLOUDCOMPUTE\n'
+p177
+I0
+tp178
+a(I10680
+S'start_time     : 1500122660\nlast_update    : 1500133299\nfuzzer_pid     : 7814\ncycles_done    : 3\nexecs_done     : 1517687\nexecs_per_sec  : 78.19\npaths_total    : 52\npaths_favored  : 10\npaths_found    : 51\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 43\npending_favs   : 0\npending_total  : 18\nvariable_paths : 0\nbitmap_cvg     : 0.22%\nunique_crashes : 0\nunique_hangs   : 19\nlast_path      : 1500132057\nlast_crash     : 0\nlast_hang      : 1500131385\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/CLOUDCOMPUTE/input -o /dev/shm/work/CLOUDCOMPUTE/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/CLOUDCOMPUTE/CLOUDCOMPUTE.dict -- data/linux/processed-challenges/CLOUDCOMPUTE/bin/CLOUDCOMPUTE\n'
+p179
+I0
+tp180
+a.

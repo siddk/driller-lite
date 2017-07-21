@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/libcgc.h
+
+../processed-challenges/Palindrome/lib/libc.h
+
+/vagrant/driller/data/linux/processed-challenges/Palindrome/lib/libc.c
+libcgc.h
+-
+libc.h
+/vagrant/driller/data/linux/processed-challenges/Palindrome/lib/libc.h
+
+/vagrant/driller/data/linux/processed-challenges/Palindrome/lib/libc.h
+
+/vagrant/driller/data/linux/processed-challenges/Palindrome/src/service.c
+libcgc.h
+-
+libc.h
+/vagrant/driller/data/linux/processed-challenges/Palindrome/src/libc.h
+

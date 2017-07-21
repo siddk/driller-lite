@@ -1,0 +1,452 @@
+(lp0
+(I0
+S'start_time     : 1500025322\nlast_update    : 1500025322\nfuzzer_pid     : 8822\ncycles_done    : 0\nexecs_done     : 10\nexecs_per_sec  : 151.52\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 1\npending_total  : 1\nvariable_paths : 0\nbitmap_cvg     : 1.66%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/On_Sale/input -o /dev/shm/work/On_Sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/On_Sale/On_Sale.dict -- data/linux/processed-challenges/On_Sale/bin/On_Sale\n'
+p1
+I26
+tp2
+a(I120
+S'start_time     : 1500025322\nlast_update    : 1500025442\nfuzzer_pid     : 8822\ncycles_done    : 0\nexecs_done     : 64253\nexecs_per_sec  : 530.54\npaths_total    : 36\npaths_favored  : 1\npaths_found    : 35\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 1\npending_total  : 36\nvariable_paths : 0\nbitmap_cvg     : 1.77%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500025417\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/On_Sale/input -o /dev/shm/work/On_Sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/On_Sale/On_Sale.dict -- data/linux/processed-challenges/On_Sale/bin/On_Sale\n'
+p3
+I10
+tp4
+a(I240
+S'start_time     : 1500025322\nlast_update    : 1500025562\nfuzzer_pid     : 8822\ncycles_done    : 0\nexecs_done     : 128238\nexecs_per_sec  : 559.46\npaths_total    : 37\npaths_favored  : 1\npaths_found    : 36\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 1\npending_total  : 37\nvariable_paths : 0\nbitmap_cvg     : 1.77%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500025507\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/On_Sale/input -o /dev/shm/work/On_Sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/On_Sale/On_Sale.dict -- data/linux/processed-challenges/On_Sale/bin/On_Sale\n'
+p5
+I1
+tp6
+a(I360
+S'start_time     : 1500025322\nlast_update    : 1500025682\nfuzzer_pid     : 8822\ncycles_done    : 0\nexecs_done     : 198000\nexecs_per_sec  : 564.01\npaths_total    : 37\npaths_favored  : 17\npaths_found    : 36\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 21\npending_favs   : 11\npending_total  : 30\nvariable_paths : 0\nbitmap_cvg     : 1.77%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500025507\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/On_Sale/input -o /dev/shm/work/On_Sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/On_Sale/On_Sale.dict -- data/linux/processed-challenges/On_Sale/bin/On_Sale\n'
+p7
+I0
+tp8
+a(I480
+S'start_time     : 1500025322\nlast_update    : 1500025802\nfuzzer_pid     : 8822\ncycles_done    : 0\nexecs_done     : 267763\nexecs_per_sec  : 610.81\npaths_total    : 37\npaths_favored  : 17\npaths_found    : 36\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 36\npending_favs   : 1\npending_total  : 20\nvariable_paths : 0\nbitmap_cvg     : 1.77%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500025507\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/On_Sale/input -o /dev/shm/work/On_Sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/On_Sale/On_Sale.dict -- data/linux/processed-challenges/On_Sale/bin/On_Sale\n'
+p9
+I1
+tp10
+a(I600
+S'start_time     : 1500025322\nlast_update    : 1500025922\nfuzzer_pid     : 8822\ncycles_done    : 0\nexecs_done     : 338516\nexecs_per_sec  : 572.30\npaths_total    : 49\npaths_favored  : 17\npaths_found    : 48\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 36\npending_favs   : 1\npending_total  : 32\nvariable_paths : 0\nbitmap_cvg     : 1.80%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500025859\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/On_Sale/input -o /dev/shm/work/On_Sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/On_Sale/On_Sale.dict -- data/linux/processed-challenges/On_Sale/bin/On_Sale\n'
+p11
+I11
+tp12
+a(I720
+S'start_time     : 1500025322\nlast_update    : 1500026043\nfuzzer_pid     : 8822\ncycles_done    : 0\nexecs_done     : 408181\nexecs_per_sec  : 540.10\npaths_total    : 52\npaths_favored  : 18\npaths_found    : 51\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 50\npending_favs   : 2\npending_total  : 33\nvariable_paths : 0\nbitmap_cvg     : 1.80%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500025985\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/On_Sale/input -o /dev/shm/work/On_Sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/On_Sale/On_Sale.dict -- data/linux/processed-challenges/On_Sale/bin/On_Sale\n'
+p13
+I3
+tp14
+a(I840
+S'start_time     : 1500025322\nlast_update    : 1500026163\nfuzzer_pid     : 8822\ncycles_done    : 1\nexecs_done     : 479642\nexecs_per_sec  : 644.49\npaths_total    : 53\npaths_favored  : 18\npaths_found    : 52\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 4\npending_favs   : 0\npending_total  : 32\nvariable_paths : 0\nbitmap_cvg     : 1.80%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500026052\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/On_Sale/input -o /dev/shm/work/On_Sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/On_Sale/On_Sale.dict -- data/linux/processed-challenges/On_Sale/bin/On_Sale\n'
+p15
+I1
+tp16
+a(I960
+S'start_time     : 1500025322\nlast_update    : 1500026283\nfuzzer_pid     : 8822\ncycles_done    : 1\nexecs_done     : 551416\nexecs_per_sec  : 581.35\npaths_total    : 53\npaths_favored  : 18\npaths_found    : 52\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 22\npending_favs   : 0\npending_total  : 30\nvariable_paths : 0\nbitmap_cvg     : 1.80%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500026052\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/On_Sale/input -o /dev/shm/work/On_Sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/On_Sale/On_Sale.dict -- data/linux/processed-challenges/On_Sale/bin/On_Sale\n'
+p17
+I0
+tp18
+a(I1080
+S'start_time     : 1500025322\nlast_update    : 1500026403\nfuzzer_pid     : 8822\ncycles_done    : 1\nexecs_done     : 621894\nexecs_per_sec  : 562.78\npaths_total    : 57\npaths_favored  : 18\npaths_found    : 56\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 22\npending_favs   : 0\npending_total  : 34\nvariable_paths : 0\nbitmap_cvg     : 1.80%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500026340\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/On_Sale/input -o /dev/shm/work/On_Sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/On_Sale/On_Sale.dict -- data/linux/processed-challenges/On_Sale/bin/On_Sale\n'
+p19
+I4
+tp20
+a(I1200
+S'start_time     : 1500025322\nlast_update    : 1500026524\nfuzzer_pid     : 8822\ncycles_done    : 1\nexecs_done     : 694357\nexecs_per_sec  : 589.33\npaths_total    : 57\npaths_favored  : 18\npaths_found    : 56\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 38\npending_favs   : 0\npending_total  : 33\nvariable_paths : 0\nbitmap_cvg     : 1.80%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500026340\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/On_Sale/input -o /dev/shm/work/On_Sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/On_Sale/On_Sale.dict -- data/linux/processed-challenges/On_Sale/bin/On_Sale\n'
+p21
+I0
+tp22
+a(I1320
+S'start_time     : 1500025322\nlast_update    : 1500026644\nfuzzer_pid     : 8822\ncycles_done    : 1\nexecs_done     : 765090\nexecs_per_sec  : 602.31\npaths_total    : 57\npaths_favored  : 18\npaths_found    : 56\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 39\npending_favs   : 0\npending_total  : 32\nvariable_paths : 0\nbitmap_cvg     : 1.80%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500026340\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/On_Sale/input -o /dev/shm/work/On_Sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/On_Sale/On_Sale.dict -- data/linux/processed-challenges/On_Sale/bin/On_Sale\n'
+p23
+I0
+tp24
+a(I1440
+S'start_time     : 1500025322\nlast_update    : 1500026764\nfuzzer_pid     : 8822\ncycles_done    : 1\nexecs_done     : 836353\nexecs_per_sec  : 600.92\npaths_total    : 59\npaths_favored  : 18\npaths_found    : 58\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 50\npending_favs   : 0\npending_total  : 32\nvariable_paths : 0\nbitmap_cvg     : 1.80%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500026738\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/On_Sale/input -o /dev/shm/work/On_Sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/On_Sale/On_Sale.dict -- data/linux/processed-challenges/On_Sale/bin/On_Sale\n'
+p25
+I2
+tp26
+a(I1560
+S'start_time     : 1500025322\nlast_update    : 1500026884\nfuzzer_pid     : 8822\ncycles_done    : 1\nexecs_done     : 898867\nexecs_per_sec  : 463.39\npaths_total    : 59\npaths_favored  : 18\npaths_found    : 58\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 53\npending_favs   : 0\npending_total  : 32\nvariable_paths : 0\nbitmap_cvg     : 1.80%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500026738\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/On_Sale/input -o /dev/shm/work/On_Sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/On_Sale/On_Sale.dict -- data/linux/processed-challenges/On_Sale/bin/On_Sale\n'
+p27
+I0
+tp28
+a(I1680
+S'start_time     : 1500025322\nlast_update    : 1500027005\nfuzzer_pid     : 8822\ncycles_done    : 1\nexecs_done     : 955934\nexecs_per_sec  : 489.71\npaths_total    : 59\npaths_favored  : 18\npaths_found    : 58\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 53\npending_favs   : 0\npending_total  : 32\nvariable_paths : 0\nbitmap_cvg     : 1.80%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500026738\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/On_Sale/input -o /dev/shm/work/On_Sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/On_Sale/On_Sale.dict -- data/linux/processed-challenges/On_Sale/bin/On_Sale\n'
+p29
+I0
+tp30
+a(I1800
+S'start_time     : 1500025322\nlast_update    : 1500027125\nfuzzer_pid     : 8822\ncycles_done    : 1\nexecs_done     : 1019711\nexecs_per_sec  : 533.39\npaths_total    : 59\npaths_favored  : 18\npaths_found    : 58\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 54\npending_favs   : 0\npending_total  : 31\nvariable_paths : 0\nbitmap_cvg     : 1.80%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500026738\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/On_Sale/input -o /dev/shm/work/On_Sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/On_Sale/On_Sale.dict -- data/linux/processed-challenges/On_Sale/bin/On_Sale\n'
+p31
+I0
+tp32
+a(I1920
+S'start_time     : 1500025322\nlast_update    : 1500027245\nfuzzer_pid     : 8822\ncycles_done    : 2\nexecs_done     : 1092776\nexecs_per_sec  : 598.45\npaths_total    : 59\npaths_favored  : 18\npaths_found    : 58\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 16\npending_favs   : 0\npending_total  : 26\nvariable_paths : 0\nbitmap_cvg     : 1.80%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500026738\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/On_Sale/input -o /dev/shm/work/On_Sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/On_Sale/On_Sale.dict -- data/linux/processed-challenges/On_Sale/bin/On_Sale\n'
+p33
+I0
+tp34
+a(I2040
+S'start_time     : 1500025322\nlast_update    : 1500027366\nfuzzer_pid     : 8822\ncycles_done    : 2\nexecs_done     : 1167351\nexecs_per_sec  : 639.01\npaths_total    : 59\npaths_favored  : 18\npaths_found    : 58\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 33\npending_favs   : 0\npending_total  : 24\nvariable_paths : 0\nbitmap_cvg     : 1.80%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500026738\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/On_Sale/input -o /dev/shm/work/On_Sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/On_Sale/On_Sale.dict -- data/linux/processed-challenges/On_Sale/bin/On_Sale\n'
+p35
+I0
+tp36
+a(I2160
+S'start_time     : 1500025322\nlast_update    : 1500027486\nfuzzer_pid     : 8822\ncycles_done    : 2\nexecs_done     : 1241129\nexecs_per_sec  : 609.00\npaths_total    : 59\npaths_favored  : 18\npaths_found    : 58\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 49\npending_favs   : 0\npending_total  : 23\nvariable_paths : 0\nbitmap_cvg     : 1.80%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500026738\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/On_Sale/input -o /dev/shm/work/On_Sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/On_Sale/On_Sale.dict -- data/linux/processed-challenges/On_Sale/bin/On_Sale\n'
+p37
+I0
+tp38
+a(I2280
+S'start_time     : 1500025322\nlast_update    : 1500027606\nfuzzer_pid     : 8822\ncycles_done    : 2\nexecs_done     : 1304272\nexecs_per_sec  : 482.05\npaths_total    : 59\npaths_favored  : 19\npaths_found    : 58\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 55\npending_favs   : 0\npending_total  : 22\nvariable_paths : 0\nbitmap_cvg     : 1.80%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500026738\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/On_Sale/input -o /dev/shm/work/On_Sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/On_Sale/On_Sale.dict -- data/linux/processed-challenges/On_Sale/bin/On_Sale\n'
+p39
+I0
+tp40
+a(I2400
+S'start_time     : 1500025322\nlast_update    : 1500027726\nfuzzer_pid     : 8822\ncycles_done    : 2\nexecs_done     : 1365023\nexecs_per_sec  : 569.08\npaths_total    : 62\npaths_favored  : 19\npaths_found    : 61\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 55\npending_favs   : 0\npending_total  : 25\nvariable_paths : 0\nbitmap_cvg     : 1.80%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500027700\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/On_Sale/input -o /dev/shm/work/On_Sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/On_Sale/On_Sale.dict -- data/linux/processed-challenges/On_Sale/bin/On_Sale\n'
+p41
+I3
+tp42
+a(I2520
+S'start_time     : 1500025322\nlast_update    : 1500027847\nfuzzer_pid     : 8822\ncycles_done    : 2\nexecs_done     : 1430015\nexecs_per_sec  : 524.36\npaths_total    : 64\npaths_favored  : 19\npaths_found    : 63\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 55\npending_favs   : 0\npending_total  : 27\nvariable_paths : 0\nbitmap_cvg     : 1.80%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500027803\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/On_Sale/input -o /dev/shm/work/On_Sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/On_Sale/On_Sale.dict -- data/linux/processed-challenges/On_Sale/bin/On_Sale\n'
+p43
+I2
+tp44
+a(I2640
+S'start_time     : 1500025322\nlast_update    : 1500027967\nfuzzer_pid     : 8822\ncycles_done    : 2\nexecs_done     : 1495445\nexecs_per_sec  : 533.32\npaths_total    : 64\npaths_favored  : 19\npaths_found    : 63\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 55\npending_favs   : 0\npending_total  : 27\nvariable_paths : 0\nbitmap_cvg     : 1.80%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500027803\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/On_Sale/input -o /dev/shm/work/On_Sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/On_Sale/On_Sale.dict -- data/linux/processed-challenges/On_Sale/bin/On_Sale\n'
+p45
+I0
+tp46
+a(I2760
+S'start_time     : 1500025322\nlast_update    : 1500028087\nfuzzer_pid     : 8822\ncycles_done    : 2\nexecs_done     : 1523698\nexecs_per_sec  : 183.08\npaths_total    : 64\npaths_favored  : 19\npaths_found    : 63\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 63\npending_favs   : 0\npending_total  : 26\nvariable_paths : 0\nbitmap_cvg     : 1.80%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500027803\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/On_Sale/input -o /dev/shm/work/On_Sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/On_Sale/On_Sale.dict -- data/linux/processed-challenges/On_Sale/bin/On_Sale\n'
+p47
+I0
+tp48
+a(I2880
+S'start_time     : 1500025322\nlast_update    : 1500028207\nfuzzer_pid     : 8822\ncycles_done    : 2\nexecs_done     : 1546296\nexecs_per_sec  : 187.87\npaths_total    : 64\npaths_favored  : 19\npaths_found    : 63\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 63\npending_favs   : 0\npending_total  : 26\nvariable_paths : 0\nbitmap_cvg     : 1.80%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500027803\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/On_Sale/input -o /dev/shm/work/On_Sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/On_Sale/On_Sale.dict -- data/linux/processed-challenges/On_Sale/bin/On_Sale\n'
+p49
+I0
+tp50
+a(I3000
+S'start_time     : 1500025322\nlast_update    : 1500028327\nfuzzer_pid     : 8822\ncycles_done    : 2\nexecs_done     : 1568503\nexecs_per_sec  : 187.18\npaths_total    : 64\npaths_favored  : 19\npaths_found    : 63\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 63\npending_favs   : 0\npending_total  : 26\nvariable_paths : 0\nbitmap_cvg     : 1.80%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500027803\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/On_Sale/input -o /dev/shm/work/On_Sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/On_Sale/On_Sale.dict -- data/linux/processed-challenges/On_Sale/bin/On_Sale\n'
+p51
+I0
+tp52
+a(I3120
+S'start_time     : 1500025322\nlast_update    : 1500028448\nfuzzer_pid     : 8822\ncycles_done    : 2\nexecs_done     : 1590718\nexecs_per_sec  : 177.40\npaths_total    : 64\npaths_favored  : 19\npaths_found    : 63\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 63\npending_favs   : 0\npending_total  : 26\nvariable_paths : 0\nbitmap_cvg     : 1.80%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500027803\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/On_Sale/input -o /dev/shm/work/On_Sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/On_Sale/On_Sale.dict -- data/linux/processed-challenges/On_Sale/bin/On_Sale\n'
+p53
+I0
+tp54
+a(I3240
+S'start_time     : 1500025322\nlast_update    : 1500028568\nfuzzer_pid     : 8822\ncycles_done    : 2\nexecs_done     : 1612969\nexecs_per_sec  : 187.45\npaths_total    : 64\npaths_favored  : 19\npaths_found    : 63\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 63\npending_favs   : 0\npending_total  : 26\nvariable_paths : 0\nbitmap_cvg     : 1.80%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500027803\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/On_Sale/input -o /dev/shm/work/On_Sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/On_Sale/On_Sale.dict -- data/linux/processed-challenges/On_Sale/bin/On_Sale\n'
+p55
+I0
+tp56
+a(I3360
+S'start_time     : 1500025322\nlast_update    : 1500028688\nfuzzer_pid     : 8822\ncycles_done    : 2\nexecs_done     : 1635309\nexecs_per_sec  : 189.77\npaths_total    : 64\npaths_favored  : 19\npaths_found    : 63\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 63\npending_favs   : 0\npending_total  : 26\nvariable_paths : 0\nbitmap_cvg     : 1.80%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500027803\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/On_Sale/input -o /dev/shm/work/On_Sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/On_Sale/On_Sale.dict -- data/linux/processed-challenges/On_Sale/bin/On_Sale\n'
+p57
+I0
+tp58
+a(I3480
+S'start_time     : 1500025322\nlast_update    : 1500028808\nfuzzer_pid     : 8822\ncycles_done    : 2\nexecs_done     : 1657843\nexecs_per_sec  : 186.27\npaths_total    : 64\npaths_favored  : 19\npaths_found    : 63\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 63\npending_favs   : 0\npending_total  : 26\nvariable_paths : 0\nbitmap_cvg     : 1.80%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500027803\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/On_Sale/input -o /dev/shm/work/On_Sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/On_Sale/On_Sale.dict -- data/linux/processed-challenges/On_Sale/bin/On_Sale\n'
+p59
+I0
+tp60
+a(I3600
+S'start_time     : 1500025322\nlast_update    : 1500028928\nfuzzer_pid     : 8822\ncycles_done    : 2\nexecs_done     : 1680492\nexecs_per_sec  : 184.94\npaths_total    : 64\npaths_favored  : 19\npaths_found    : 63\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 63\npending_favs   : 0\npending_total  : 26\nvariable_paths : 0\nbitmap_cvg     : 1.80%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500027803\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/On_Sale/input -o /dev/shm/work/On_Sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/On_Sale/On_Sale.dict -- data/linux/processed-challenges/On_Sale/bin/On_Sale\n'
+p61
+I0
+tp62
+a(I3720
+S'start_time     : 1500025322\nlast_update    : 1500029049\nfuzzer_pid     : 8822\ncycles_done    : 2\nexecs_done     : 1703116\nexecs_per_sec  : 186.91\npaths_total    : 67\npaths_favored  : 19\npaths_found    : 66\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 63\npending_favs   : 0\npending_total  : 29\nvariable_paths : 0\nbitmap_cvg     : 1.80%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500029000\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/On_Sale/input -o /dev/shm/work/On_Sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/On_Sale/On_Sale.dict -- data/linux/processed-challenges/On_Sale/bin/On_Sale\n'
+p63
+I3
+tp64
+a(I3840
+S'start_time     : 1500025322\nlast_update    : 1500029169\nfuzzer_pid     : 8822\ncycles_done    : 2\nexecs_done     : 1725730\nexecs_per_sec  : 188.84\npaths_total    : 67\npaths_favored  : 19\npaths_found    : 66\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 63\npending_favs   : 0\npending_total  : 29\nvariable_paths : 0\nbitmap_cvg     : 1.80%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500029000\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/On_Sale/input -o /dev/shm/work/On_Sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/On_Sale/On_Sale.dict -- data/linux/processed-challenges/On_Sale/bin/On_Sale\n'
+p65
+I0
+tp66
+a(I3960
+S'start_time     : 1500025322\nlast_update    : 1500029289\nfuzzer_pid     : 8822\ncycles_done    : 2\nexecs_done     : 1747996\nexecs_per_sec  : 179.13\npaths_total    : 67\npaths_favored  : 19\npaths_found    : 66\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 63\npending_favs   : 0\npending_total  : 29\nvariable_paths : 0\nbitmap_cvg     : 1.80%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500029000\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/On_Sale/input -o /dev/shm/work/On_Sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/On_Sale/On_Sale.dict -- data/linux/processed-challenges/On_Sale/bin/On_Sale\n'
+p67
+I0
+tp68
+a(I4080
+S'start_time     : 1500025322\nlast_update    : 1500029409\nfuzzer_pid     : 8822\ncycles_done    : 2\nexecs_done     : 1770511\nexecs_per_sec  : 187.75\npaths_total    : 67\npaths_favored  : 19\npaths_found    : 66\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 63\npending_favs   : 0\npending_total  : 29\nvariable_paths : 0\nbitmap_cvg     : 1.80%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500029000\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/On_Sale/input -o /dev/shm/work/On_Sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/On_Sale/On_Sale.dict -- data/linux/processed-challenges/On_Sale/bin/On_Sale\n'
+p69
+I0
+tp70
+a(I4200
+S'start_time     : 1500025322\nlast_update    : 1500029470\nfuzzer_pid     : 8822\ncycles_done    : 2\nexecs_done     : 1781767\nexecs_per_sec  : 190.06\npaths_total    : 67\npaths_favored  : 19\npaths_found    : 66\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 63\npending_favs   : 0\npending_total  : 29\nvariable_paths : 0\nbitmap_cvg     : 1.80%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500029000\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/On_Sale/input -o /dev/shm/work/On_Sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/On_Sale/On_Sale.dict -- data/linux/processed-challenges/On_Sale/bin/On_Sale\n'
+p71
+I0
+tp72
+a(I4320
+S'start_time     : 1500025322\nlast_update    : 1500029590\nfuzzer_pid     : 8822\ncycles_done    : 2\nexecs_done     : 1804180\nexecs_per_sec  : 187.67\npaths_total    : 67\npaths_favored  : 19\npaths_found    : 66\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 63\npending_favs   : 0\npending_total  : 29\nvariable_paths : 0\nbitmap_cvg     : 1.80%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500029000\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/On_Sale/input -o /dev/shm/work/On_Sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/On_Sale/On_Sale.dict -- data/linux/processed-challenges/On_Sale/bin/On_Sale\n'
+p73
+I0
+tp74
+a(I4440
+S'start_time     : 1500025322\nlast_update    : 1500029710\nfuzzer_pid     : 8822\ncycles_done    : 2\nexecs_done     : 1826659\nexecs_per_sec  : 190.06\npaths_total    : 67\npaths_favored  : 19\npaths_found    : 66\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 63\npending_favs   : 0\npending_total  : 29\nvariable_paths : 0\nbitmap_cvg     : 1.80%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500029000\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/On_Sale/input -o /dev/shm/work/On_Sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/On_Sale/On_Sale.dict -- data/linux/processed-challenges/On_Sale/bin/On_Sale\n'
+p75
+I0
+tp76
+a(I4560
+S'start_time     : 1500025322\nlast_update    : 1500029830\nfuzzer_pid     : 8822\ncycles_done    : 2\nexecs_done     : 1849159\nexecs_per_sec  : 188.44\npaths_total    : 67\npaths_favored  : 19\npaths_found    : 66\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 63\npending_favs   : 0\npending_total  : 29\nvariable_paths : 0\nbitmap_cvg     : 1.80%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500029000\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/On_Sale/input -o /dev/shm/work/On_Sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/On_Sale/On_Sale.dict -- data/linux/processed-challenges/On_Sale/bin/On_Sale\n'
+p77
+I0
+tp78
+a(I4680
+S'start_time     : 1500025322\nlast_update    : 1500029950\nfuzzer_pid     : 8822\ncycles_done    : 2\nexecs_done     : 1871687\nexecs_per_sec  : 186.86\npaths_total    : 67\npaths_favored  : 19\npaths_found    : 66\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 63\npending_favs   : 0\npending_total  : 29\nvariable_paths : 0\nbitmap_cvg     : 1.80%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500029000\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/On_Sale/input -o /dev/shm/work/On_Sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/On_Sale/On_Sale.dict -- data/linux/processed-challenges/On_Sale/bin/On_Sale\n'
+p79
+I0
+tp80
+a(I4800
+S'start_time     : 1500025322\nlast_update    : 1500030071\nfuzzer_pid     : 8822\ncycles_done    : 2\nexecs_done     : 1893998\nexecs_per_sec  : 184.65\npaths_total    : 67\npaths_favored  : 19\npaths_found    : 66\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 63\npending_favs   : 0\npending_total  : 29\nvariable_paths : 0\nbitmap_cvg     : 1.80%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500029000\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/On_Sale/input -o /dev/shm/work/On_Sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/On_Sale/On_Sale.dict -- data/linux/processed-challenges/On_Sale/bin/On_Sale\n'
+p81
+I0
+tp82
+a(I4920
+S'start_time     : 1500025322\nlast_update    : 1500030191\nfuzzer_pid     : 8822\ncycles_done    : 2\nexecs_done     : 1916600\nexecs_per_sec  : 190.26\npaths_total    : 67\npaths_favored  : 19\npaths_found    : 66\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 63\npending_favs   : 0\npending_total  : 29\nvariable_paths : 0\nbitmap_cvg     : 1.80%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500029000\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/On_Sale/input -o /dev/shm/work/On_Sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/On_Sale/On_Sale.dict -- data/linux/processed-challenges/On_Sale/bin/On_Sale\n'
+p83
+I0
+tp84
+a(I5040
+S'start_time     : 1500025322\nlast_update    : 1500030311\nfuzzer_pid     : 8822\ncycles_done    : 2\nexecs_done     : 1938941\nexecs_per_sec  : 189.05\npaths_total    : 67\npaths_favored  : 19\npaths_found    : 66\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 63\npending_favs   : 0\npending_total  : 29\nvariable_paths : 0\nbitmap_cvg     : 1.80%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500029000\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/On_Sale/input -o /dev/shm/work/On_Sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/On_Sale/On_Sale.dict -- data/linux/processed-challenges/On_Sale/bin/On_Sale\n'
+p85
+I0
+tp86
+a(I5160
+S'start_time     : 1500025322\nlast_update    : 1500030431\nfuzzer_pid     : 8822\ncycles_done    : 2\nexecs_done     : 1961156\nexecs_per_sec  : 188.14\npaths_total    : 67\npaths_favored  : 19\npaths_found    : 66\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 63\npending_favs   : 0\npending_total  : 29\nvariable_paths : 0\nbitmap_cvg     : 1.80%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500029000\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/On_Sale/input -o /dev/shm/work/On_Sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/On_Sale/On_Sale.dict -- data/linux/processed-challenges/On_Sale/bin/On_Sale\n'
+p87
+I0
+tp88
+a(I5280
+S'start_time     : 1500025322\nlast_update    : 1500030552\nfuzzer_pid     : 8822\ncycles_done    : 2\nexecs_done     : 1983578\nexecs_per_sec  : 182.58\npaths_total    : 67\npaths_favored  : 19\npaths_found    : 66\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 63\npending_favs   : 0\npending_total  : 29\nvariable_paths : 0\nbitmap_cvg     : 1.80%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500029000\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/On_Sale/input -o /dev/shm/work/On_Sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/On_Sale/On_Sale.dict -- data/linux/processed-challenges/On_Sale/bin/On_Sale\n'
+p89
+I0
+tp90
+a(I5400
+S'start_time     : 1500025322\nlast_update    : 1500030672\nfuzzer_pid     : 8822\ncycles_done    : 2\nexecs_done     : 2005820\nexecs_per_sec  : 184.85\npaths_total    : 67\npaths_favored  : 19\npaths_found    : 66\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 63\npending_favs   : 0\npending_total  : 29\nvariable_paths : 0\nbitmap_cvg     : 1.80%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500029000\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/On_Sale/input -o /dev/shm/work/On_Sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/On_Sale/On_Sale.dict -- data/linux/processed-challenges/On_Sale/bin/On_Sale\n'
+p91
+I0
+tp92
+a(I5520
+S'start_time     : 1500025322\nlast_update    : 1500030792\nfuzzer_pid     : 8822\ncycles_done    : 2\nexecs_done     : 2028050\nexecs_per_sec  : 188.44\npaths_total    : 67\npaths_favored  : 19\npaths_found    : 66\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 63\npending_favs   : 0\npending_total  : 29\nvariable_paths : 0\nbitmap_cvg     : 1.80%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500029000\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/On_Sale/input -o /dev/shm/work/On_Sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/On_Sale/On_Sale.dict -- data/linux/processed-challenges/On_Sale/bin/On_Sale\n'
+p93
+I0
+tp94
+a(I5640
+S'start_time     : 1500025322\nlast_update    : 1500030912\nfuzzer_pid     : 8822\ncycles_done    : 2\nexecs_done     : 2050346\nexecs_per_sec  : 187.11\npaths_total    : 67\npaths_favored  : 19\npaths_found    : 66\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 63\npending_favs   : 0\npending_total  : 29\nvariable_paths : 0\nbitmap_cvg     : 1.80%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500029000\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/On_Sale/input -o /dev/shm/work/On_Sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/On_Sale/On_Sale.dict -- data/linux/processed-challenges/On_Sale/bin/On_Sale\n'
+p95
+I0
+tp96
+a(I5760
+S'start_time     : 1500025322\nlast_update    : 1500031032\nfuzzer_pid     : 8822\ncycles_done    : 2\nexecs_done     : 2072822\nexecs_per_sec  : 185.57\npaths_total    : 67\npaths_favored  : 19\npaths_found    : 66\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 63\npending_favs   : 0\npending_total  : 29\nvariable_paths : 0\nbitmap_cvg     : 1.80%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500029000\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/On_Sale/input -o /dev/shm/work/On_Sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/On_Sale/On_Sale.dict -- data/linux/processed-challenges/On_Sale/bin/On_Sale\n'
+p97
+I0
+tp98
+a(I5880
+S'start_time     : 1500025322\nlast_update    : 1500031153\nfuzzer_pid     : 8822\ncycles_done    : 2\nexecs_done     : 2095193\nexecs_per_sec  : 187.79\npaths_total    : 67\npaths_favored  : 19\npaths_found    : 66\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 63\npending_favs   : 0\npending_total  : 29\nvariable_paths : 0\nbitmap_cvg     : 1.80%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500029000\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/On_Sale/input -o /dev/shm/work/On_Sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/On_Sale/On_Sale.dict -- data/linux/processed-challenges/On_Sale/bin/On_Sale\n'
+p99
+I0
+tp100
+a(I6000
+S'start_time     : 1500025322\nlast_update    : 1500031273\nfuzzer_pid     : 8822\ncycles_done    : 2\nexecs_done     : 2117654\nexecs_per_sec  : 184.37\npaths_total    : 67\npaths_favored  : 19\npaths_found    : 66\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 63\npending_favs   : 0\npending_total  : 29\nvariable_paths : 0\nbitmap_cvg     : 1.80%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500029000\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/On_Sale/input -o /dev/shm/work/On_Sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/On_Sale/On_Sale.dict -- data/linux/processed-challenges/On_Sale/bin/On_Sale\n'
+p101
+I0
+tp102
+a(I6120
+S'start_time     : 1500025322\nlast_update    : 1500031393\nfuzzer_pid     : 8822\ncycles_done    : 2\nexecs_done     : 2140106\nexecs_per_sec  : 184.46\npaths_total    : 67\npaths_favored  : 19\npaths_found    : 66\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 63\npending_favs   : 0\npending_total  : 29\nvariable_paths : 0\nbitmap_cvg     : 1.80%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500029000\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/On_Sale/input -o /dev/shm/work/On_Sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/On_Sale/On_Sale.dict -- data/linux/processed-challenges/On_Sale/bin/On_Sale\n'
+p103
+I0
+tp104
+a(I6240
+S'start_time     : 1500025322\nlast_update    : 1500031513\nfuzzer_pid     : 8822\ncycles_done    : 2\nexecs_done     : 2162708\nexecs_per_sec  : 186.33\npaths_total    : 67\npaths_favored  : 19\npaths_found    : 66\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 63\npending_favs   : 0\npending_total  : 29\nvariable_paths : 0\nbitmap_cvg     : 1.80%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500029000\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/On_Sale/input -o /dev/shm/work/On_Sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/On_Sale/On_Sale.dict -- data/linux/processed-challenges/On_Sale/bin/On_Sale\n'
+p105
+I0
+tp106
+a(I6360
+S'start_time     : 1500025322\nlast_update    : 1500031633\nfuzzer_pid     : 8822\ncycles_done    : 2\nexecs_done     : 2185139\nexecs_per_sec  : 190.29\npaths_total    : 67\npaths_favored  : 19\npaths_found    : 66\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 63\npending_favs   : 0\npending_total  : 29\nvariable_paths : 0\nbitmap_cvg     : 1.80%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500029000\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/On_Sale/input -o /dev/shm/work/On_Sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/On_Sale/On_Sale.dict -- data/linux/processed-challenges/On_Sale/bin/On_Sale\n'
+p107
+I0
+tp108
+a(I6480
+S'start_time     : 1500025322\nlast_update    : 1500031754\nfuzzer_pid     : 8822\ncycles_done    : 2\nexecs_done     : 2207564\nexecs_per_sec  : 185.41\npaths_total    : 67\npaths_favored  : 19\npaths_found    : 66\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 63\npending_favs   : 0\npending_total  : 29\nvariable_paths : 0\nbitmap_cvg     : 1.80%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500029000\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/On_Sale/input -o /dev/shm/work/On_Sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/On_Sale/On_Sale.dict -- data/linux/processed-challenges/On_Sale/bin/On_Sale\n'
+p109
+I0
+tp110
+a(I6600
+S'start_time     : 1500025322\nlast_update    : 1500031874\nfuzzer_pid     : 8822\ncycles_done    : 2\nexecs_done     : 2229785\nexecs_per_sec  : 182.72\npaths_total    : 67\npaths_favored  : 19\npaths_found    : 66\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 63\npending_favs   : 0\npending_total  : 29\nvariable_paths : 0\nbitmap_cvg     : 1.80%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500029000\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/On_Sale/input -o /dev/shm/work/On_Sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/On_Sale/On_Sale.dict -- data/linux/processed-challenges/On_Sale/bin/On_Sale\n'
+p111
+I0
+tp112
+a(I6720
+S'start_time     : 1500025322\nlast_update    : 1500031994\nfuzzer_pid     : 8822\ncycles_done    : 2\nexecs_done     : 2252240\nexecs_per_sec  : 189.15\npaths_total    : 67\npaths_favored  : 19\npaths_found    : 66\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 63\npending_favs   : 0\npending_total  : 29\nvariable_paths : 0\nbitmap_cvg     : 1.80%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500029000\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/On_Sale/input -o /dev/shm/work/On_Sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/On_Sale/On_Sale.dict -- data/linux/processed-challenges/On_Sale/bin/On_Sale\n'
+p113
+I0
+tp114
+a(I6840
+S'start_time     : 1500025322\nlast_update    : 1500032114\nfuzzer_pid     : 8822\ncycles_done    : 2\nexecs_done     : 2275006\nexecs_per_sec  : 220.94\npaths_total    : 68\npaths_favored  : 19\npaths_found    : 67\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 63\npending_favs   : 0\npending_total  : 30\nvariable_paths : 0\nbitmap_cvg     : 1.80%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500032105\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/On_Sale/input -o /dev/shm/work/On_Sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/On_Sale/On_Sale.dict -- data/linux/processed-challenges/On_Sale/bin/On_Sale\n'
+p115
+I1
+tp116
+a(I6960
+S'start_time     : 1500025322\nlast_update    : 1500032234\nfuzzer_pid     : 8822\ncycles_done    : 3\nexecs_done     : 2317054\nexecs_per_sec  : 628.59\npaths_total    : 68\npaths_favored  : 19\npaths_found    : 67\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 19\npending_favs   : 0\npending_total  : 29\nvariable_paths : 0\nbitmap_cvg     : 1.80%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500032105\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/On_Sale/input -o /dev/shm/work/On_Sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/On_Sale/On_Sale.dict -- data/linux/processed-challenges/On_Sale/bin/On_Sale\n'
+p117
+I0
+tp118
+a(I7080
+S'start_time     : 1500025322\nlast_update    : 1500032355\nfuzzer_pid     : 8822\ncycles_done    : 3\nexecs_done     : 2390383\nexecs_per_sec  : 544.57\npaths_total    : 68\npaths_favored  : 19\npaths_found    : 67\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 48\npending_favs   : 0\npending_total  : 29\nvariable_paths : 0\nbitmap_cvg     : 1.80%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500032105\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/On_Sale/input -o /dev/shm/work/On_Sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/On_Sale/On_Sale.dict -- data/linux/processed-challenges/On_Sale/bin/On_Sale\n'
+p119
+I0
+tp120
+a(I7200
+S'start_time     : 1500025322\nlast_update    : 1500032475\nfuzzer_pid     : 8822\ncycles_done    : 3\nexecs_done     : 2460945\nexecs_per_sec  : 566.43\npaths_total    : 68\npaths_favored  : 19\npaths_found    : 67\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 54\npending_favs   : 0\npending_total  : 28\nvariable_paths : 0\nbitmap_cvg     : 1.80%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500032105\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/On_Sale/input -o /dev/shm/work/On_Sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/On_Sale/On_Sale.dict -- data/linux/processed-challenges/On_Sale/bin/On_Sale\n'
+p121
+I0
+tp122
+a(I7320
+S'start_time     : 1500025322\nlast_update    : 1500032595\nfuzzer_pid     : 8822\ncycles_done    : 3\nexecs_done     : 2479647\nexecs_per_sec  : 152.96\npaths_total    : 68\npaths_favored  : 19\npaths_found    : 67\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 60\npending_favs   : 0\npending_total  : 28\nvariable_paths : 0\nbitmap_cvg     : 1.80%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500032105\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/On_Sale/input -o /dev/shm/work/On_Sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/On_Sale/On_Sale.dict -- data/linux/processed-challenges/On_Sale/bin/On_Sale\n'
+p123
+I0
+tp124
+a(I7440
+S'start_time     : 1500025322\nlast_update    : 1500032715\nfuzzer_pid     : 8822\ncycles_done    : 3\nexecs_done     : 2497976\nexecs_per_sec  : 153.71\npaths_total    : 68\npaths_favored  : 19\npaths_found    : 67\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 60\npending_favs   : 0\npending_total  : 28\nvariable_paths : 0\nbitmap_cvg     : 1.80%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500032105\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/On_Sale/input -o /dev/shm/work/On_Sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/On_Sale/On_Sale.dict -- data/linux/processed-challenges/On_Sale/bin/On_Sale\n'
+p125
+I0
+tp126
+a(I7560
+S'start_time     : 1500025322\nlast_update    : 1500032835\nfuzzer_pid     : 8822\ncycles_done    : 3\nexecs_done     : 2515931\nexecs_per_sec  : 153.62\npaths_total    : 68\npaths_favored  : 19\npaths_found    : 67\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 60\npending_favs   : 0\npending_total  : 28\nvariable_paths : 0\nbitmap_cvg     : 1.80%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500032105\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/On_Sale/input -o /dev/shm/work/On_Sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/On_Sale/On_Sale.dict -- data/linux/processed-challenges/On_Sale/bin/On_Sale\n'
+p127
+I0
+tp128
+a(I7680
+S'start_time     : 1500025322\nlast_update    : 1500032956\nfuzzer_pid     : 8822\ncycles_done    : 3\nexecs_done     : 2534277\nexecs_per_sec  : 153.31\npaths_total    : 68\npaths_favored  : 19\npaths_found    : 67\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 60\npending_favs   : 0\npending_total  : 28\nvariable_paths : 0\nbitmap_cvg     : 1.80%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500032105\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/On_Sale/input -o /dev/shm/work/On_Sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/On_Sale/On_Sale.dict -- data/linux/processed-challenges/On_Sale/bin/On_Sale\n'
+p129
+I0
+tp130
+a(I7800
+S'start_time     : 1500025322\nlast_update    : 1500033076\nfuzzer_pid     : 8822\ncycles_done    : 3\nexecs_done     : 2552440\nexecs_per_sec  : 149.53\npaths_total    : 68\npaths_favored  : 19\npaths_found    : 67\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 60\npending_favs   : 0\npending_total  : 28\nvariable_paths : 0\nbitmap_cvg     : 1.80%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500032105\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/On_Sale/input -o /dev/shm/work/On_Sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/On_Sale/On_Sale.dict -- data/linux/processed-challenges/On_Sale/bin/On_Sale\n'
+p131
+I0
+tp132
+a(I7920
+S'start_time     : 1500025322\nlast_update    : 1500033196\nfuzzer_pid     : 8822\ncycles_done    : 3\nexecs_done     : 2570653\nexecs_per_sec  : 157.87\npaths_total    : 68\npaths_favored  : 19\npaths_found    : 67\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 60\npending_favs   : 0\npending_total  : 28\nvariable_paths : 0\nbitmap_cvg     : 1.80%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500032105\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/On_Sale/input -o /dev/shm/work/On_Sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/On_Sale/On_Sale.dict -- data/linux/processed-challenges/On_Sale/bin/On_Sale\n'
+p133
+I0
+tp134
+a(I8040
+S'start_time     : 1500025322\nlast_update    : 1500033316\nfuzzer_pid     : 8822\ncycles_done    : 3\nexecs_done     : 2589052\nexecs_per_sec  : 153.21\npaths_total    : 68\npaths_favored  : 19\npaths_found    : 67\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 60\npending_favs   : 0\npending_total  : 28\nvariable_paths : 0\nbitmap_cvg     : 1.80%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500032105\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/On_Sale/input -o /dev/shm/work/On_Sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/On_Sale/On_Sale.dict -- data/linux/processed-challenges/On_Sale/bin/On_Sale\n'
+p135
+I0
+tp136
+a(I8160
+S'start_time     : 1500025322\nlast_update    : 1500033437\nfuzzer_pid     : 8822\ncycles_done    : 3\nexecs_done     : 2607466\nexecs_per_sec  : 155.37\npaths_total    : 68\npaths_favored  : 19\npaths_found    : 67\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 60\npending_favs   : 0\npending_total  : 28\nvariable_paths : 0\nbitmap_cvg     : 1.80%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500032105\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/On_Sale/input -o /dev/shm/work/On_Sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/On_Sale/On_Sale.dict -- data/linux/processed-challenges/On_Sale/bin/On_Sale\n'
+p137
+I0
+tp138
+a(I8280
+S'start_time     : 1500025322\nlast_update    : 1500033557\nfuzzer_pid     : 8822\ncycles_done    : 3\nexecs_done     : 2625842\nexecs_per_sec  : 149.35\npaths_total    : 68\npaths_favored  : 19\npaths_found    : 67\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 60\npending_favs   : 0\npending_total  : 28\nvariable_paths : 0\nbitmap_cvg     : 1.80%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500032105\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/On_Sale/input -o /dev/shm/work/On_Sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/On_Sale/On_Sale.dict -- data/linux/processed-challenges/On_Sale/bin/On_Sale\n'
+p139
+I0
+tp140
+a(I8400
+S'start_time     : 1500025322\nlast_update    : 1500033677\nfuzzer_pid     : 8822\ncycles_done    : 3\nexecs_done     : 2644088\nexecs_per_sec  : 153.03\npaths_total    : 68\npaths_favored  : 19\npaths_found    : 67\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 60\npending_favs   : 0\npending_total  : 28\nvariable_paths : 0\nbitmap_cvg     : 1.80%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500032105\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/On_Sale/input -o /dev/shm/work/On_Sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/On_Sale/On_Sale.dict -- data/linux/processed-challenges/On_Sale/bin/On_Sale\n'
+p141
+I0
+tp142
+a(I8520
+S'start_time     : 1500025322\nlast_update    : 1500033797\nfuzzer_pid     : 8822\ncycles_done    : 3\nexecs_done     : 2662622\nexecs_per_sec  : 150.33\npaths_total    : 68\npaths_favored  : 19\npaths_found    : 67\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 60\npending_favs   : 0\npending_total  : 28\nvariable_paths : 0\nbitmap_cvg     : 1.80%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500032105\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/On_Sale/input -o /dev/shm/work/On_Sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/On_Sale/On_Sale.dict -- data/linux/processed-challenges/On_Sale/bin/On_Sale\n'
+p143
+I0
+tp144
+a(I8640
+S'start_time     : 1500025322\nlast_update    : 1500033917\nfuzzer_pid     : 8822\ncycles_done    : 3\nexecs_done     : 2681023\nexecs_per_sec  : 154.78\npaths_total    : 68\npaths_favored  : 19\npaths_found    : 67\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 60\npending_favs   : 0\npending_total  : 28\nvariable_paths : 0\nbitmap_cvg     : 1.80%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500032105\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/On_Sale/input -o /dev/shm/work/On_Sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/On_Sale/On_Sale.dict -- data/linux/processed-challenges/On_Sale/bin/On_Sale\n'
+p145
+I0
+tp146
+a(I8760
+S'start_time     : 1500025322\nlast_update    : 1500034038\nfuzzer_pid     : 8822\ncycles_done    : 3\nexecs_done     : 2699568\nexecs_per_sec  : 157.13\npaths_total    : 68\npaths_favored  : 19\npaths_found    : 67\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 60\npending_favs   : 0\npending_total  : 28\nvariable_paths : 0\nbitmap_cvg     : 1.80%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500032105\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/On_Sale/input -o /dev/shm/work/On_Sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/On_Sale/On_Sale.dict -- data/linux/processed-challenges/On_Sale/bin/On_Sale\n'
+p147
+I0
+tp148
+a(I8880
+S'start_time     : 1500025322\nlast_update    : 1500034158\nfuzzer_pid     : 8822\ncycles_done    : 3\nexecs_done     : 2717851\nexecs_per_sec  : 148.36\npaths_total    : 68\npaths_favored  : 19\npaths_found    : 67\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 60\npending_favs   : 0\npending_total  : 28\nvariable_paths : 0\nbitmap_cvg     : 1.80%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500032105\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/On_Sale/input -o /dev/shm/work/On_Sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/On_Sale/On_Sale.dict -- data/linux/processed-challenges/On_Sale/bin/On_Sale\n'
+p149
+I0
+tp150
+a(I9000
+S'start_time     : 1500025322\nlast_update    : 1500034278\nfuzzer_pid     : 8822\ncycles_done    : 3\nexecs_done     : 2736054\nexecs_per_sec  : 153.84\npaths_total    : 68\npaths_favored  : 19\npaths_found    : 67\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 60\npending_favs   : 0\npending_total  : 28\nvariable_paths : 0\nbitmap_cvg     : 1.80%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500032105\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/On_Sale/input -o /dev/shm/work/On_Sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/On_Sale/On_Sale.dict -- data/linux/processed-challenges/On_Sale/bin/On_Sale\n'
+p151
+I0
+tp152
+a(I9120
+S'start_time     : 1500025322\nlast_update    : 1500034398\nfuzzer_pid     : 8822\ncycles_done    : 3\nexecs_done     : 2754458\nexecs_per_sec  : 152.31\npaths_total    : 68\npaths_favored  : 19\npaths_found    : 67\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 60\npending_favs   : 0\npending_total  : 28\nvariable_paths : 0\nbitmap_cvg     : 1.80%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500032105\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/On_Sale/input -o /dev/shm/work/On_Sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/On_Sale/On_Sale.dict -- data/linux/processed-challenges/On_Sale/bin/On_Sale\n'
+p153
+I0
+tp154
+a(I9240
+S'start_time     : 1500025322\nlast_update    : 1500034518\nfuzzer_pid     : 8822\ncycles_done    : 3\nexecs_done     : 2772806\nexecs_per_sec  : 146.76\npaths_total    : 68\npaths_favored  : 19\npaths_found    : 67\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 60\npending_favs   : 0\npending_total  : 28\nvariable_paths : 0\nbitmap_cvg     : 1.80%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500032105\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/On_Sale/input -o /dev/shm/work/On_Sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/On_Sale/On_Sale.dict -- data/linux/processed-challenges/On_Sale/bin/On_Sale\n'
+p155
+I0
+tp156
+a(I9360
+S'start_time     : 1500025322\nlast_update    : 1500034639\nfuzzer_pid     : 8822\ncycles_done    : 3\nexecs_done     : 2791151\nexecs_per_sec  : 157.50\npaths_total    : 68\npaths_favored  : 19\npaths_found    : 67\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 60\npending_favs   : 0\npending_total  : 28\nvariable_paths : 0\nbitmap_cvg     : 1.80%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500032105\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/On_Sale/input -o /dev/shm/work/On_Sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/On_Sale/On_Sale.dict -- data/linux/processed-challenges/On_Sale/bin/On_Sale\n'
+p157
+I0
+tp158
+a(I9480
+S'start_time     : 1500025322\nlast_update    : 1500034759\nfuzzer_pid     : 8822\ncycles_done    : 3\nexecs_done     : 2809619\nexecs_per_sec  : 154.61\npaths_total    : 68\npaths_favored  : 19\npaths_found    : 67\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 60\npending_favs   : 0\npending_total  : 28\nvariable_paths : 0\nbitmap_cvg     : 1.80%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500032105\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/On_Sale/input -o /dev/shm/work/On_Sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/On_Sale/On_Sale.dict -- data/linux/processed-challenges/On_Sale/bin/On_Sale\n'
+p159
+I0
+tp160
+a(I9600
+S'start_time     : 1500025322\nlast_update    : 1500034879\nfuzzer_pid     : 8822\ncycles_done    : 3\nexecs_done     : 2828186\nexecs_per_sec  : 153.14\npaths_total    : 68\npaths_favored  : 19\npaths_found    : 67\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 60\npending_favs   : 0\npending_total  : 28\nvariable_paths : 0\nbitmap_cvg     : 1.80%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500032105\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/On_Sale/input -o /dev/shm/work/On_Sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/On_Sale/On_Sale.dict -- data/linux/processed-challenges/On_Sale/bin/On_Sale\n'
+p161
+I0
+tp162
+a(I9720
+S'start_time     : 1500025322\nlast_update    : 1500034999\nfuzzer_pid     : 8822\ncycles_done    : 3\nexecs_done     : 2846636\nexecs_per_sec  : 155.70\npaths_total    : 68\npaths_favored  : 19\npaths_found    : 67\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 60\npending_favs   : 0\npending_total  : 28\nvariable_paths : 0\nbitmap_cvg     : 1.80%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500032105\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/On_Sale/input -o /dev/shm/work/On_Sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/On_Sale/On_Sale.dict -- data/linux/processed-challenges/On_Sale/bin/On_Sale\n'
+p163
+I0
+tp164
+a(I9840
+S'start_time     : 1500025322\nlast_update    : 1500035119\nfuzzer_pid     : 8822\ncycles_done    : 3\nexecs_done     : 2865041\nexecs_per_sec  : 152.21\npaths_total    : 68\npaths_favored  : 19\npaths_found    : 67\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 60\npending_favs   : 0\npending_total  : 28\nvariable_paths : 0\nbitmap_cvg     : 1.80%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500032105\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/On_Sale/input -o /dev/shm/work/On_Sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/On_Sale/On_Sale.dict -- data/linux/processed-challenges/On_Sale/bin/On_Sale\n'
+p165
+I0
+tp166
+a(I9960
+S'start_time     : 1500025322\nlast_update    : 1500035240\nfuzzer_pid     : 8822\ncycles_done    : 3\nexecs_done     : 2883330\nexecs_per_sec  : 148.55\npaths_total    : 68\npaths_favored  : 19\npaths_found    : 67\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 60\npending_favs   : 0\npending_total  : 28\nvariable_paths : 0\nbitmap_cvg     : 1.80%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500032105\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/On_Sale/input -o /dev/shm/work/On_Sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/On_Sale/On_Sale.dict -- data/linux/processed-challenges/On_Sale/bin/On_Sale\n'
+p167
+I0
+tp168
+a(I10080
+S'start_time     : 1500025322\nlast_update    : 1500035360\nfuzzer_pid     : 8822\ncycles_done    : 3\nexecs_done     : 2901770\nexecs_per_sec  : 150.24\npaths_total    : 68\npaths_favored  : 19\npaths_found    : 67\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 60\npending_favs   : 0\npending_total  : 28\nvariable_paths : 0\nbitmap_cvg     : 1.80%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500032105\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/On_Sale/input -o /dev/shm/work/On_Sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/On_Sale/On_Sale.dict -- data/linux/processed-challenges/On_Sale/bin/On_Sale\n'
+p169
+I0
+tp170
+a(I10200
+S'start_time     : 1500025322\nlast_update    : 1500035480\nfuzzer_pid     : 8822\ncycles_done    : 3\nexecs_done     : 2920160\nexecs_per_sec  : 152.39\npaths_total    : 68\npaths_favored  : 19\npaths_found    : 67\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 60\npending_favs   : 0\npending_total  : 28\nvariable_paths : 0\nbitmap_cvg     : 1.80%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500032105\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/On_Sale/input -o /dev/shm/work/On_Sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/On_Sale/On_Sale.dict -- data/linux/processed-challenges/On_Sale/bin/On_Sale\n'
+p171
+I0
+tp172
+a(I10320
+S'start_time     : 1500025322\nlast_update    : 1500035600\nfuzzer_pid     : 8822\ncycles_done    : 3\nexecs_done     : 2938508\nexecs_per_sec  : 149.78\npaths_total    : 68\npaths_favored  : 19\npaths_found    : 67\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 60\npending_favs   : 0\npending_total  : 28\nvariable_paths : 0\nbitmap_cvg     : 1.80%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500032105\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/On_Sale/input -o /dev/shm/work/On_Sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/On_Sale/On_Sale.dict -- data/linux/processed-challenges/On_Sale/bin/On_Sale\n'
+p173
+I0
+tp174
+a(I10440
+S'start_time     : 1500025322\nlast_update    : 1500035721\nfuzzer_pid     : 8822\ncycles_done    : 3\nexecs_done     : 2957021\nexecs_per_sec  : 158.57\npaths_total    : 68\npaths_favored  : 19\npaths_found    : 67\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 60\npending_favs   : 0\npending_total  : 28\nvariable_paths : 0\nbitmap_cvg     : 1.80%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500032105\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/On_Sale/input -o /dev/shm/work/On_Sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/On_Sale/On_Sale.dict -- data/linux/processed-challenges/On_Sale/bin/On_Sale\n'
+p175
+I0
+tp176
+a(I10560
+S'start_time     : 1500025322\nlast_update    : 1500035841\nfuzzer_pid     : 8822\ncycles_done    : 3\nexecs_done     : 2975404\nexecs_per_sec  : 154.26\npaths_total    : 68\npaths_favored  : 19\npaths_found    : 67\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 60\npending_favs   : 0\npending_total  : 28\nvariable_paths : 0\nbitmap_cvg     : 1.80%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500032105\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/On_Sale/input -o /dev/shm/work/On_Sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/On_Sale/On_Sale.dict -- data/linux/processed-challenges/On_Sale/bin/On_Sale\n'
+p177
+I0
+tp178
+a(I10680
+S'start_time     : 1500025322\nlast_update    : 1500035961\nfuzzer_pid     : 8822\ncycles_done    : 3\nexecs_done     : 2993893\nexecs_per_sec  : 156.29\npaths_total    : 68\npaths_favored  : 19\npaths_found    : 67\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 60\npending_favs   : 0\npending_total  : 28\nvariable_paths : 0\nbitmap_cvg     : 1.80%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1500032105\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/On_Sale/input -o /dev/shm/work/On_Sale/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/On_Sale/On_Sale.dict -- data/linux/processed-challenges/On_Sale/bin/On_Sale\n'
+p179
+I0
+tp180
+a.

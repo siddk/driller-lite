@@ -1,0 +1,5 @@
+set( SERVICE_ID "00003" )
+set( AUTHOR_ID "CADET" )
+add_compile_options( -O0 -g -Wno-overlength-strings -Wno-packed )
+set( VULN_COUNT "1" )
+buildCB()

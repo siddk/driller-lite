@@ -1,0 +1,452 @@
+(lp0
+(I0
+S'start_time     : 1499939027\nlast_update    : 1499939028\nfuzzer_pid     : 3228\ncycles_done    : 0\nexecs_done     : 10\nexecs_per_sec  : 192.31\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 1\npending_total  : 1\nvariable_paths : 0\nbitmap_cvg     : 0.28%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simple_integer_calculator/input -o /dev/shm/work/simple_integer_calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simple_integer_calculator/simple_integer_calculator.dict -- data/linux/processed-challenges/simple_integer_calculator/bin/simple_integer_calculator\n'
+p1
+I27
+tp2
+a(I120
+S'start_time     : 1499939027\nlast_update    : 1499939148\nfuzzer_pid     : 3228\ncycles_done    : 0\nexecs_done     : 137891\nexecs_per_sec  : 1146.81\npaths_total    : 53\npaths_favored  : 1\npaths_found    : 52\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 1\npending_total  : 53\nvariable_paths : 0\nbitmap_cvg     : 1.01%\nunique_crashes : 7\nunique_hangs   : 0\nlast_path      : 1499939146\nlast_crash     : 1499939106\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simple_integer_calculator/input -o /dev/shm/work/simple_integer_calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simple_integer_calculator/simple_integer_calculator.dict -- data/linux/processed-challenges/simple_integer_calculator/bin/simple_integer_calculator\n'
+p3
+I28
+tp4
+a(I240
+S'start_time     : 1499939027\nlast_update    : 1499939268\nfuzzer_pid     : 3228\ncycles_done    : 0\nexecs_done     : 257071\nexecs_per_sec  : 1005.59\npaths_total    : 161\npaths_favored  : 28\npaths_found    : 160\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 10\npending_favs   : 28\npending_total  : 160\nvariable_paths : 0\nbitmap_cvg     : 1.44%\nunique_crashes : 59\nunique_hangs   : 0\nlast_path      : 1499939267\nlast_crash     : 1499939266\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simple_integer_calculator/input -o /dev/shm/work/simple_integer_calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simple_integer_calculator/simple_integer_calculator.dict -- data/linux/processed-challenges/simple_integer_calculator/bin/simple_integer_calculator\n'
+p5
+I106
+tp6
+a(I360
+S'start_time     : 1499939027\nlast_update    : 1499939388\nfuzzer_pid     : 3228\ncycles_done    : 0\nexecs_done     : 377935\nexecs_per_sec  : 988.73\npaths_total    : 170\npaths_favored  : 70\npaths_found    : 169\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 33\npending_favs   : 68\npending_total  : 165\nvariable_paths : 0\nbitmap_cvg     : 1.46%\nunique_crashes : 70\nunique_hangs   : 0\nlast_path      : 1499939363\nlast_crash     : 1499939348\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simple_integer_calculator/input -o /dev/shm/work/simple_integer_calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simple_integer_calculator/simple_integer_calculator.dict -- data/linux/processed-challenges/simple_integer_calculator/bin/simple_integer_calculator\n'
+p7
+I9
+tp8
+a(I480
+S'start_time     : 1499939027\nlast_update    : 1499939508\nfuzzer_pid     : 3228\ncycles_done    : 0\nexecs_done     : 509962\nexecs_per_sec  : 1104.17\npaths_total    : 185\npaths_favored  : 70\npaths_found    : 184\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 35\npending_favs   : 68\npending_total  : 179\nvariable_paths : 0\nbitmap_cvg     : 1.50%\nunique_crashes : 72\nunique_hangs   : 0\nlast_path      : 1499939493\nlast_crash     : 1499939427\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simple_integer_calculator/input -o /dev/shm/work/simple_integer_calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simple_integer_calculator/simple_integer_calculator.dict -- data/linux/processed-challenges/simple_integer_calculator/bin/simple_integer_calculator\n'
+p9
+I15
+tp10
+a(I600
+S'start_time     : 1499939027\nlast_update    : 1499939629\nfuzzer_pid     : 3228\ncycles_done    : 0\nexecs_done     : 639578\nexecs_per_sec  : 1085.73\npaths_total    : 201\npaths_favored  : 68\npaths_found    : 200\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 45\npending_favs   : 59\npending_total  : 189\nvariable_paths : 0\nbitmap_cvg     : 1.52%\nunique_crashes : 75\nunique_hangs   : 0\nlast_path      : 1499939624\nlast_crash     : 1499939627\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simple_integer_calculator/input -o /dev/shm/work/simple_integer_calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simple_integer_calculator/simple_integer_calculator.dict -- data/linux/processed-challenges/simple_integer_calculator/bin/simple_integer_calculator\n'
+p11
+I16
+tp12
+a(I720
+S'start_time     : 1499939027\nlast_update    : 1499939749\nfuzzer_pid     : 3228\ncycles_done    : 0\nexecs_done     : 771803\nexecs_per_sec  : 1091.12\npaths_total    : 204\npaths_favored  : 68\npaths_found    : 203\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 45\npending_favs   : 59\npending_total  : 192\nvariable_paths : 0\nbitmap_cvg     : 1.53%\nunique_crashes : 81\nunique_hangs   : 0\nlast_path      : 1499939707\nlast_crash     : 1499939712\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simple_integer_calculator/input -o /dev/shm/work/simple_integer_calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simple_integer_calculator/simple_integer_calculator.dict -- data/linux/processed-challenges/simple_integer_calculator/bin/simple_integer_calculator\n'
+p13
+I3
+tp14
+a(I840
+S'start_time     : 1499939027\nlast_update    : 1499939869\nfuzzer_pid     : 3228\ncycles_done    : 0\nexecs_done     : 894555\nexecs_per_sec  : 1035.22\npaths_total    : 214\npaths_favored  : 67\npaths_found    : 213\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 54\npending_favs   : 56\npending_total  : 199\nvariable_paths : 0\nbitmap_cvg     : 1.54%\nunique_crashes : 83\nunique_hangs   : 0\nlast_path      : 1499939862\nlast_crash     : 1499939840\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simple_integer_calculator/input -o /dev/shm/work/simple_integer_calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simple_integer_calculator/simple_integer_calculator.dict -- data/linux/processed-challenges/simple_integer_calculator/bin/simple_integer_calculator\n'
+p15
+I10
+tp16
+a(I960
+S'start_time     : 1499939027\nlast_update    : 1499939989\nfuzzer_pid     : 3228\ncycles_done    : 0\nexecs_done     : 1015054\nexecs_per_sec  : 854.23\npaths_total    : 221\npaths_favored  : 71\npaths_found    : 220\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 66\npending_favs   : 59\npending_total  : 203\nvariable_paths : 0\nbitmap_cvg     : 1.55%\nunique_crashes : 84\nunique_hangs   : 0\nlast_path      : 1499939931\nlast_crash     : 1499939979\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simple_integer_calculator/input -o /dev/shm/work/simple_integer_calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simple_integer_calculator/simple_integer_calculator.dict -- data/linux/processed-challenges/simple_integer_calculator/bin/simple_integer_calculator\n'
+p17
+I7
+tp18
+a(I1080
+S'start_time     : 1499939027\nlast_update    : 1499940109\nfuzzer_pid     : 3228\ncycles_done    : 0\nexecs_done     : 1124146\nexecs_per_sec  : 989.66\npaths_total    : 225\npaths_favored  : 73\npaths_found    : 224\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 78\npending_favs   : 57\npending_total  : 202\nvariable_paths : 0\nbitmap_cvg     : 1.56%\nunique_crashes : 85\nunique_hangs   : 0\nlast_path      : 1499940079\nlast_crash     : 1499940025\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simple_integer_calculator/input -o /dev/shm/work/simple_integer_calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simple_integer_calculator/simple_integer_calculator.dict -- data/linux/processed-challenges/simple_integer_calculator/bin/simple_integer_calculator\n'
+p19
+I4
+tp20
+a(I1200
+S'start_time     : 1499939027\nlast_update    : 1499940229\nfuzzer_pid     : 3228\ncycles_done    : 0\nexecs_done     : 1237980\nexecs_per_sec  : 1019.64\npaths_total    : 237\npaths_favored  : 75\npaths_found    : 236\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 93\npending_favs   : 55\npending_total  : 210\nvariable_paths : 0\nbitmap_cvg     : 1.63%\nunique_crashes : 88\nunique_hangs   : 0\nlast_path      : 1499940215\nlast_crash     : 1499940224\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simple_integer_calculator/input -o /dev/shm/work/simple_integer_calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simple_integer_calculator/simple_integer_calculator.dict -- data/linux/processed-challenges/simple_integer_calculator/bin/simple_integer_calculator\n'
+p21
+I12
+tp22
+a(I1320
+S'start_time     : 1499939027\nlast_update    : 1499940350\nfuzzer_pid     : 3228\ncycles_done    : 0\nexecs_done     : 1360210\nexecs_per_sec  : 1031.11\npaths_total    : 240\npaths_favored  : 75\npaths_found    : 239\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 93\npending_favs   : 55\npending_total  : 213\nvariable_paths : 0\nbitmap_cvg     : 1.64%\nunique_crashes : 91\nunique_hangs   : 0\nlast_path      : 1499940302\nlast_crash     : 1499940345\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simple_integer_calculator/input -o /dev/shm/work/simple_integer_calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simple_integer_calculator/simple_integer_calculator.dict -- data/linux/processed-challenges/simple_integer_calculator/bin/simple_integer_calculator\n'
+p23
+I3
+tp24
+a(I1440
+S'start_time     : 1499939027\nlast_update    : 1499940470\nfuzzer_pid     : 3228\ncycles_done    : 0\nexecs_done     : 1482000\nexecs_per_sec  : 1026.79\npaths_total    : 248\npaths_favored  : 79\npaths_found    : 247\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 94\npending_favs   : 59\npending_total  : 220\nvariable_paths : 0\nbitmap_cvg     : 1.65%\nunique_crashes : 97\nunique_hangs   : 0\nlast_path      : 1499940423\nlast_crash     : 1499940448\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simple_integer_calculator/input -o /dev/shm/work/simple_integer_calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simple_integer_calculator/simple_integer_calculator.dict -- data/linux/processed-challenges/simple_integer_calculator/bin/simple_integer_calculator\n'
+p25
+I8
+tp26
+a(I1560
+S'start_time     : 1499939027\nlast_update    : 1499940590\nfuzzer_pid     : 3228\ncycles_done    : 0\nexecs_done     : 1599606\nexecs_per_sec  : 852.06\npaths_total    : 252\npaths_favored  : 82\npaths_found    : 251\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 120\npending_favs   : 60\npending_total  : 221\nvariable_paths : 0\nbitmap_cvg     : 1.66%\nunique_crashes : 99\nunique_hangs   : 0\nlast_path      : 1499940581\nlast_crash     : 1499940514\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simple_integer_calculator/input -o /dev/shm/work/simple_integer_calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simple_integer_calculator/simple_integer_calculator.dict -- data/linux/processed-challenges/simple_integer_calculator/bin/simple_integer_calculator\n'
+p27
+I4
+tp28
+a(I1680
+S'start_time     : 1499939027\nlast_update    : 1499940710\nfuzzer_pid     : 3228\ncycles_done    : 0\nexecs_done     : 1700165\nexecs_per_sec  : 893.91\npaths_total    : 260\npaths_favored  : 83\npaths_found    : 259\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 130\npending_favs   : 60\npending_total  : 228\nvariable_paths : 0\nbitmap_cvg     : 1.74%\nunique_crashes : 101\nunique_hangs   : 0\nlast_path      : 1499940691\nlast_crash     : 1499940703\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simple_integer_calculator/input -o /dev/shm/work/simple_integer_calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simple_integer_calculator/simple_integer_calculator.dict -- data/linux/processed-challenges/simple_integer_calculator/bin/simple_integer_calculator\n'
+p29
+I8
+tp30
+a(I1800
+S'start_time     : 1499939027\nlast_update    : 1499940831\nfuzzer_pid     : 3228\ncycles_done    : 0\nexecs_done     : 1806965\nexecs_per_sec  : 892.95\npaths_total    : 264\npaths_favored  : 83\npaths_found    : 263\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 130\npending_favs   : 60\npending_total  : 232\nvariable_paths : 0\nbitmap_cvg     : 1.74%\nunique_crashes : 101\nunique_hangs   : 0\nlast_path      : 1499940825\nlast_crash     : 1499940703\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simple_integer_calculator/input -o /dev/shm/work/simple_integer_calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simple_integer_calculator/simple_integer_calculator.dict -- data/linux/processed-challenges/simple_integer_calculator/bin/simple_integer_calculator\n'
+p31
+I5
+tp32
+a(I1920
+S'start_time     : 1499939027\nlast_update    : 1499940951\nfuzzer_pid     : 3228\ncycles_done    : 0\nexecs_done     : 1913096\nexecs_per_sec  : 927.84\npaths_total    : 276\npaths_favored  : 89\npaths_found    : 275\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 134\npending_favs   : 66\npending_total  : 243\nvariable_paths : 0\nbitmap_cvg     : 1.74%\nunique_crashes : 105\nunique_hangs   : 0\nlast_path      : 1499940945\nlast_crash     : 1499940902\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simple_integer_calculator/input -o /dev/shm/work/simple_integer_calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simple_integer_calculator/simple_integer_calculator.dict -- data/linux/processed-challenges/simple_integer_calculator/bin/simple_integer_calculator\n'
+p33
+I11
+tp34
+a(I2040
+S'start_time     : 1499939027\nlast_update    : 1499941071\nfuzzer_pid     : 3228\ncycles_done    : 0\nexecs_done     : 2022371\nexecs_per_sec  : 860.54\npaths_total    : 287\npaths_favored  : 92\npaths_found    : 286\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 142\npending_favs   : 68\npending_total  : 252\nvariable_paths : 0\nbitmap_cvg     : 1.76%\nunique_crashes : 107\nunique_hangs   : 0\nlast_path      : 1499941034\nlast_crash     : 1499940978\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simple_integer_calculator/input -o /dev/shm/work/simple_integer_calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simple_integer_calculator/simple_integer_calculator.dict -- data/linux/processed-challenges/simple_integer_calculator/bin/simple_integer_calculator\n'
+p35
+I12
+tp36
+a(I2160
+S'start_time     : 1499939027\nlast_update    : 1499941191\nfuzzer_pid     : 3228\ncycles_done    : 0\nexecs_done     : 2133767\nexecs_per_sec  : 998.75\npaths_total    : 298\npaths_favored  : 92\npaths_found    : 297\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 154\npending_favs   : 66\npending_total  : 260\nvariable_paths : 0\nbitmap_cvg     : 1.77%\nunique_crashes : 117\nunique_hangs   : 0\nlast_path      : 1499941181\nlast_crash     : 1499941183\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simple_integer_calculator/input -o /dev/shm/work/simple_integer_calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simple_integer_calculator/simple_integer_calculator.dict -- data/linux/processed-challenges/simple_integer_calculator/bin/simple_integer_calculator\n'
+p37
+I10
+tp38
+a(I2280
+S'start_time     : 1499939027\nlast_update    : 1499941311\nfuzzer_pid     : 3228\ncycles_done    : 0\nexecs_done     : 2243463\nexecs_per_sec  : 1030.34\npaths_total    : 305\npaths_favored  : 92\npaths_found    : 304\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 162\npending_favs   : 65\npending_total  : 264\nvariable_paths : 0\nbitmap_cvg     : 1.77%\nunique_crashes : 119\nunique_hangs   : 0\nlast_path      : 1499941305\nlast_crash     : 1499941311\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simple_integer_calculator/input -o /dev/shm/work/simple_integer_calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simple_integer_calculator/simple_integer_calculator.dict -- data/linux/processed-challenges/simple_integer_calculator/bin/simple_integer_calculator\n'
+p39
+I7
+tp40
+a(I2400
+S'start_time     : 1499939027\nlast_update    : 1499941432\nfuzzer_pid     : 3228\ncycles_done    : 0\nexecs_done     : 2360005\nexecs_per_sec  : 973.34\npaths_total    : 328\npaths_favored  : 92\npaths_found    : 327\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 167\npending_favs   : 64\npending_total  : 286\nvariable_paths : 0\nbitmap_cvg     : 1.84%\nunique_crashes : 126\nunique_hangs   : 0\nlast_path      : 1499941416\nlast_crash     : 1499941430\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simple_integer_calculator/input -o /dev/shm/work/simple_integer_calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simple_integer_calculator/simple_integer_calculator.dict -- data/linux/processed-challenges/simple_integer_calculator/bin/simple_integer_calculator\n'
+p41
+I23
+tp42
+a(I2520
+S'start_time     : 1499939027\nlast_update    : 1499941552\nfuzzer_pid     : 3228\ncycles_done    : 0\nexecs_done     : 2474490\nexecs_per_sec  : 913.46\npaths_total    : 336\npaths_favored  : 102\npaths_found    : 335\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 173\npending_favs   : 73\npending_total  : 291\nvariable_paths : 0\nbitmap_cvg     : 1.93%\nunique_crashes : 127\nunique_hangs   : 0\nlast_path      : 1499941552\nlast_crash     : 1499941544\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simple_integer_calculator/input -o /dev/shm/work/simple_integer_calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simple_integer_calculator/simple_integer_calculator.dict -- data/linux/processed-challenges/simple_integer_calculator/bin/simple_integer_calculator\n'
+p43
+I8
+tp44
+a(I2640
+S'start_time     : 1499939027\nlast_update    : 1499941672\nfuzzer_pid     : 3228\ncycles_done    : 0\nexecs_done     : 2601704\nexecs_per_sec  : 1045.51\npaths_total    : 349\npaths_favored  : 102\npaths_found    : 348\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 173\npending_favs   : 73\npending_total  : 304\nvariable_paths : 0\nbitmap_cvg     : 1.96%\nunique_crashes : 129\nunique_hangs   : 0\nlast_path      : 1499941639\nlast_crash     : 1499941608\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simple_integer_calculator/input -o /dev/shm/work/simple_integer_calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simple_integer_calculator/simple_integer_calculator.dict -- data/linux/processed-challenges/simple_integer_calculator/bin/simple_integer_calculator\n'
+p45
+I13
+tp46
+a(I2760
+S'start_time     : 1499939027\nlast_update    : 1499941792\nfuzzer_pid     : 3228\ncycles_done    : 0\nexecs_done     : 2728887\nexecs_per_sec  : 1054.47\npaths_total    : 357\npaths_favored  : 102\npaths_found    : 356\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 179\npending_favs   : 73\npending_total  : 309\nvariable_paths : 0\nbitmap_cvg     : 1.97%\nunique_crashes : 131\nunique_hangs   : 0\nlast_path      : 1499941761\nlast_crash     : 1499941743\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simple_integer_calculator/input -o /dev/shm/work/simple_integer_calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simple_integer_calculator/simple_integer_calculator.dict -- data/linux/processed-challenges/simple_integer_calculator/bin/simple_integer_calculator\n'
+p47
+I8
+tp48
+a(I2880
+S'start_time     : 1499939027\nlast_update    : 1499941913\nfuzzer_pid     : 3228\ncycles_done    : 0\nexecs_done     : 2856248\nexecs_per_sec  : 1003.26\npaths_total    : 360\npaths_favored  : 103\npaths_found    : 359\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 187\npending_favs   : 72\npending_total  : 310\nvariable_paths : 0\nbitmap_cvg     : 1.97%\nunique_crashes : 131\nunique_hangs   : 0\nlast_path      : 1499941897\nlast_crash     : 1499941743\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simple_integer_calculator/input -o /dev/shm/work/simple_integer_calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simple_integer_calculator/simple_integer_calculator.dict -- data/linux/processed-challenges/simple_integer_calculator/bin/simple_integer_calculator\n'
+p49
+I3
+tp50
+a(I3000
+S'start_time     : 1499939027\nlast_update    : 1499942033\nfuzzer_pid     : 3228\ncycles_done    : 0\nexecs_done     : 2978881\nexecs_per_sec  : 1007.54\npaths_total    : 367\npaths_favored  : 103\npaths_found    : 366\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 188\npending_favs   : 71\npending_total  : 316\nvariable_paths : 0\nbitmap_cvg     : 1.97%\nunique_crashes : 135\nunique_hangs   : 0\nlast_path      : 1499942012\nlast_crash     : 1499941987\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simple_integer_calculator/input -o /dev/shm/work/simple_integer_calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simple_integer_calculator/simple_integer_calculator.dict -- data/linux/processed-challenges/simple_integer_calculator/bin/simple_integer_calculator\n'
+p51
+I7
+tp52
+a(I3120
+S'start_time     : 1499939027\nlast_update    : 1499942153\nfuzzer_pid     : 3228\ncycles_done    : 0\nexecs_done     : 3101445\nexecs_per_sec  : 1060.91\npaths_total    : 373\npaths_favored  : 105\npaths_found    : 372\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 204\npending_favs   : 67\npending_total  : 314\nvariable_paths : 0\nbitmap_cvg     : 1.97%\nunique_crashes : 138\nunique_hangs   : 0\nlast_path      : 1499942139\nlast_crash     : 1499942144\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simple_integer_calculator/input -o /dev/shm/work/simple_integer_calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simple_integer_calculator/simple_integer_calculator.dict -- data/linux/processed-challenges/simple_integer_calculator/bin/simple_integer_calculator\n'
+p53
+I6
+tp54
+a(I3240
+S'start_time     : 1499939027\nlast_update    : 1499942273\nfuzzer_pid     : 3228\ncycles_done    : 0\nexecs_done     : 3215081\nexecs_per_sec  : 981.72\npaths_total    : 381\npaths_favored  : 105\npaths_found    : 380\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 215\npending_favs   : 63\npending_total  : 318\nvariable_paths : 0\nbitmap_cvg     : 1.98%\nunique_crashes : 139\nunique_hangs   : 0\nlast_path      : 1499942248\nlast_crash     : 1499942208\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simple_integer_calculator/input -o /dev/shm/work/simple_integer_calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simple_integer_calculator/simple_integer_calculator.dict -- data/linux/processed-challenges/simple_integer_calculator/bin/simple_integer_calculator\n'
+p55
+I8
+tp56
+a(I3360
+S'start_time     : 1499939027\nlast_update    : 1499942393\nfuzzer_pid     : 3228\ncycles_done    : 0\nexecs_done     : 3330110\nexecs_per_sec  : 980.23\npaths_total    : 386\npaths_favored  : 107\npaths_found    : 385\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 216\npending_favs   : 66\npending_total  : 322\nvariable_paths : 0\nbitmap_cvg     : 1.98%\nunique_crashes : 140\nunique_hangs   : 0\nlast_path      : 1499942382\nlast_crash     : 1499942382\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simple_integer_calculator/input -o /dev/shm/work/simple_integer_calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simple_integer_calculator/simple_integer_calculator.dict -- data/linux/processed-challenges/simple_integer_calculator/bin/simple_integer_calculator\n'
+p57
+I6
+tp58
+a(I3480
+S'start_time     : 1499939027\nlast_update    : 1499942513\nfuzzer_pid     : 3228\ncycles_done    : 0\nexecs_done     : 3434563\nexecs_per_sec  : 890.72\npaths_total    : 396\npaths_favored  : 107\npaths_found    : 395\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 217\npending_favs   : 65\npending_total  : 331\nvariable_paths : 0\nbitmap_cvg     : 1.98%\nunique_crashes : 142\nunique_hangs   : 0\nlast_path      : 1499942489\nlast_crash     : 1499942438\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simple_integer_calculator/input -o /dev/shm/work/simple_integer_calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simple_integer_calculator/simple_integer_calculator.dict -- data/linux/processed-challenges/simple_integer_calculator/bin/simple_integer_calculator\n'
+p59
+I9
+tp60
+a(I3600
+S'start_time     : 1499939027\nlast_update    : 1499942634\nfuzzer_pid     : 3228\ncycles_done    : 0\nexecs_done     : 3544103\nexecs_per_sec  : 981.00\npaths_total    : 401\npaths_favored  : 107\npaths_found    : 400\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 220\npending_favs   : 63\npending_total  : 334\nvariable_paths : 0\nbitmap_cvg     : 1.98%\nunique_crashes : 143\nunique_hangs   : 0\nlast_path      : 1499942628\nlast_crash     : 1499942607\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simple_integer_calculator/input -o /dev/shm/work/simple_integer_calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simple_integer_calculator/simple_integer_calculator.dict -- data/linux/processed-challenges/simple_integer_calculator/bin/simple_integer_calculator\n'
+p61
+I5
+tp62
+a(I3720
+S'start_time     : 1499939027\nlast_update    : 1499942754\nfuzzer_pid     : 3228\ncycles_done    : 0\nexecs_done     : 3656340\nexecs_per_sec  : 997.96\npaths_total    : 406\npaths_favored  : 107\npaths_found    : 405\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 228\npending_favs   : 61\npending_total  : 336\nvariable_paths : 0\nbitmap_cvg     : 2.00%\nunique_crashes : 145\nunique_hangs   : 0\nlast_path      : 1499942748\nlast_crash     : 1499942744\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simple_integer_calculator/input -o /dev/shm/work/simple_integer_calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simple_integer_calculator/simple_integer_calculator.dict -- data/linux/processed-challenges/simple_integer_calculator/bin/simple_integer_calculator\n'
+p63
+I5
+tp64
+a(I3840
+S'start_time     : 1499939027\nlast_update    : 1499942874\nfuzzer_pid     : 3228\ncycles_done    : 0\nexecs_done     : 3768735\nexecs_per_sec  : 935.82\npaths_total    : 413\npaths_favored  : 107\npaths_found    : 412\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 233\npending_favs   : 60\npending_total  : 341\nvariable_paths : 0\nbitmap_cvg     : 2.00%\nunique_crashes : 146\nunique_hangs   : 0\nlast_path      : 1499942865\nlast_crash     : 1499942811\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simple_integer_calculator/input -o /dev/shm/work/simple_integer_calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simple_integer_calculator/simple_integer_calculator.dict -- data/linux/processed-challenges/simple_integer_calculator/bin/simple_integer_calculator\n'
+p65
+I8
+tp66
+a(I3960
+S'start_time     : 1499939027\nlast_update    : 1499942994\nfuzzer_pid     : 3228\ncycles_done    : 0\nexecs_done     : 3882367\nexecs_per_sec  : 942.99\npaths_total    : 420\npaths_favored  : 107\npaths_found    : 419\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 233\npending_favs   : 60\npending_total  : 348\nvariable_paths : 0\nbitmap_cvg     : 2.00%\nunique_crashes : 146\nunique_hangs   : 0\nlast_path      : 1499942970\nlast_crash     : 1499942811\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simple_integer_calculator/input -o /dev/shm/work/simple_integer_calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simple_integer_calculator/simple_integer_calculator.dict -- data/linux/processed-challenges/simple_integer_calculator/bin/simple_integer_calculator\n'
+p67
+I6
+tp68
+a(I4080
+S'start_time     : 1499939027\nlast_update    : 1499943114\nfuzzer_pid     : 3228\ncycles_done    : 0\nexecs_done     : 3995267\nexecs_per_sec  : 828.02\npaths_total    : 423\npaths_favored  : 108\npaths_found    : 422\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 239\npending_favs   : 60\npending_total  : 348\nvariable_paths : 0\nbitmap_cvg     : 2.00%\nunique_crashes : 147\nunique_hangs   : 0\nlast_path      : 1499943091\nlast_crash     : 1499943070\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simple_integer_calculator/input -o /dev/shm/work/simple_integer_calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simple_integer_calculator/simple_integer_calculator.dict -- data/linux/processed-challenges/simple_integer_calculator/bin/simple_integer_calculator\n'
+p69
+I3
+tp70
+a(I4200
+S'start_time     : 1499939027\nlast_update    : 1499943234\nfuzzer_pid     : 3228\ncycles_done    : 0\nexecs_done     : 4104730\nexecs_per_sec  : 1042.99\npaths_total    : 428\npaths_favored  : 109\npaths_found    : 427\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 242\npending_favs   : 59\npending_total  : 351\nvariable_paths : 0\nbitmap_cvg     : 2.00%\nunique_crashes : 148\nunique_hangs   : 0\nlast_path      : 1499943234\nlast_crash     : 1499943202\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simple_integer_calculator/input -o /dev/shm/work/simple_integer_calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simple_integer_calculator/simple_integer_calculator.dict -- data/linux/processed-challenges/simple_integer_calculator/bin/simple_integer_calculator\n'
+p71
+I5
+tp72
+a(I4320
+S'start_time     : 1499939027\nlast_update    : 1499943355\nfuzzer_pid     : 3228\ncycles_done    : 0\nexecs_done     : 4226384\nexecs_per_sec  : 1039.07\npaths_total    : 434\npaths_favored  : 109\npaths_found    : 433\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 242\npending_favs   : 59\npending_total  : 357\nvariable_paths : 0\nbitmap_cvg     : 2.00%\nunique_crashes : 148\nunique_hangs   : 0\nlast_path      : 1499943348\nlast_crash     : 1499943202\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simple_integer_calculator/input -o /dev/shm/work/simple_integer_calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simple_integer_calculator/simple_integer_calculator.dict -- data/linux/processed-challenges/simple_integer_calculator/bin/simple_integer_calculator\n'
+p73
+I6
+tp74
+a(I4440
+S'start_time     : 1499939027\nlast_update    : 1499943475\nfuzzer_pid     : 3228\ncycles_done    : 0\nexecs_done     : 4343253\nexecs_per_sec  : 794.26\npaths_total    : 437\npaths_favored  : 110\npaths_found    : 436\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 250\npending_favs   : 60\npending_total  : 358\nvariable_paths : 0\nbitmap_cvg     : 2.00%\nunique_crashes : 152\nunique_hangs   : 0\nlast_path      : 1499943427\nlast_crash     : 1499943472\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simple_integer_calculator/input -o /dev/shm/work/simple_integer_calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simple_integer_calculator/simple_integer_calculator.dict -- data/linux/processed-challenges/simple_integer_calculator/bin/simple_integer_calculator\n'
+p75
+I3
+tp76
+a(I4560
+S'start_time     : 1499939027\nlast_update    : 1499943595\nfuzzer_pid     : 3228\ncycles_done    : 0\nexecs_done     : 4451270\nexecs_per_sec  : 997.57\npaths_total    : 457\npaths_favored  : 110\npaths_found    : 456\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 255\npending_favs   : 59\npending_total  : 377\nvariable_paths : 0\nbitmap_cvg     : 2.02%\nunique_crashes : 156\nunique_hangs   : 0\nlast_path      : 1499943590\nlast_crash     : 1499943549\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simple_integer_calculator/input -o /dev/shm/work/simple_integer_calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simple_integer_calculator/simple_integer_calculator.dict -- data/linux/processed-challenges/simple_integer_calculator/bin/simple_integer_calculator\n'
+p77
+I20
+tp78
+a(I4680
+S'start_time     : 1499939027\nlast_update    : 1499943715\nfuzzer_pid     : 3228\ncycles_done    : 0\nexecs_done     : 4570129\nexecs_per_sec  : 812.23\npaths_total    : 467\npaths_favored  : 114\npaths_found    : 466\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 256\npending_favs   : 63\npending_total  : 386\nvariable_paths : 0\nbitmap_cvg     : 2.11%\nunique_crashes : 159\nunique_hangs   : 0\nlast_path      : 1499943714\nlast_crash     : 1499943703\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simple_integer_calculator/input -o /dev/shm/work/simple_integer_calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simple_integer_calculator/simple_integer_calculator.dict -- data/linux/processed-challenges/simple_integer_calculator/bin/simple_integer_calculator\n'
+p79
+I10
+tp80
+a(I4800
+S'start_time     : 1499939027\nlast_update    : 1499943835\nfuzzer_pid     : 3228\ncycles_done    : 0\nexecs_done     : 4681344\nexecs_per_sec  : 942.47\npaths_total    : 497\npaths_favored  : 114\npaths_found    : 496\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 256\npending_favs   : 63\npending_total  : 416\nvariable_paths : 0\nbitmap_cvg     : 2.18%\nunique_crashes : 163\nunique_hangs   : 0\nlast_path      : 1499943826\nlast_crash     : 1499943807\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simple_integer_calculator/input -o /dev/shm/work/simple_integer_calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simple_integer_calculator/simple_integer_calculator.dict -- data/linux/processed-challenges/simple_integer_calculator/bin/simple_integer_calculator\n'
+p81
+I30
+tp82
+a(I4920
+S'start_time     : 1499939027\nlast_update    : 1499943956\nfuzzer_pid     : 3228\ncycles_done    : 0\nexecs_done     : 4785690\nexecs_per_sec  : 822.88\npaths_total    : 502\npaths_favored  : 132\npaths_found    : 501\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 275\npending_favs   : 84\npending_total  : 419\nvariable_paths : 0\nbitmap_cvg     : 2.20%\nunique_crashes : 167\nunique_hangs   : 0\nlast_path      : 1499943932\nlast_crash     : 1499943954\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simple_integer_calculator/input -o /dev/shm/work/simple_integer_calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simple_integer_calculator/simple_integer_calculator.dict -- data/linux/processed-challenges/simple_integer_calculator/bin/simple_integer_calculator\n'
+p83
+I5
+tp84
+a(I5040
+S'start_time     : 1499939027\nlast_update    : 1499944076\nfuzzer_pid     : 3228\ncycles_done    : 0\nexecs_done     : 4889944\nexecs_per_sec  : 890.72\npaths_total    : 507\npaths_favored  : 132\npaths_found    : 506\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 275\npending_favs   : 84\npending_total  : 424\nvariable_paths : 0\nbitmap_cvg     : 2.20%\nunique_crashes : 168\nunique_hangs   : 0\nlast_path      : 1499944031\nlast_crash     : 1499944050\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simple_integer_calculator/input -o /dev/shm/work/simple_integer_calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simple_integer_calculator/simple_integer_calculator.dict -- data/linux/processed-challenges/simple_integer_calculator/bin/simple_integer_calculator\n'
+p85
+I5
+tp86
+a(I5160
+S'start_time     : 1499939027\nlast_update    : 1499944196\nfuzzer_pid     : 3228\ncycles_done    : 0\nexecs_done     : 4993744\nexecs_per_sec  : 883.65\npaths_total    : 509\npaths_favored  : 133\npaths_found    : 508\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 278\npending_favs   : 84\npending_total  : 425\nvariable_paths : 0\nbitmap_cvg     : 2.20%\nunique_crashes : 169\nunique_hangs   : 0\nlast_path      : 1499944191\nlast_crash     : 1499944158\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simple_integer_calculator/input -o /dev/shm/work/simple_integer_calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simple_integer_calculator/simple_integer_calculator.dict -- data/linux/processed-challenges/simple_integer_calculator/bin/simple_integer_calculator\n'
+p87
+I2
+tp88
+a(I5280
+S'start_time     : 1499939027\nlast_update    : 1499944316\nfuzzer_pid     : 3228\ncycles_done    : 0\nexecs_done     : 5104047\nexecs_per_sec  : 1070.38\npaths_total    : 513\npaths_favored  : 133\npaths_found    : 512\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 291\npending_favs   : 82\npending_total  : 427\nvariable_paths : 0\nbitmap_cvg     : 2.20%\nunique_crashes : 170\nunique_hangs   : 0\nlast_path      : 1499944309\nlast_crash     : 1499944288\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simple_integer_calculator/input -o /dev/shm/work/simple_integer_calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simple_integer_calculator/simple_integer_calculator.dict -- data/linux/processed-challenges/simple_integer_calculator/bin/simple_integer_calculator\n'
+p89
+I4
+tp90
+a(I5400
+S'start_time     : 1499939027\nlast_update    : 1499944436\nfuzzer_pid     : 3228\ncycles_done    : 0\nexecs_done     : 5214591\nexecs_per_sec  : 814.67\npaths_total    : 516\npaths_favored  : 133\npaths_found    : 515\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 297\npending_favs   : 78\npending_total  : 426\nvariable_paths : 0\nbitmap_cvg     : 2.20%\nunique_crashes : 171\nunique_hangs   : 0\nlast_path      : 1499944434\nlast_crash     : 1499944364\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simple_integer_calculator/input -o /dev/shm/work/simple_integer_calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simple_integer_calculator/simple_integer_calculator.dict -- data/linux/processed-challenges/simple_integer_calculator/bin/simple_integer_calculator\n'
+p91
+I3
+tp92
+a(I5520
+S'start_time     : 1499939027\nlast_update    : 1499944557\nfuzzer_pid     : 3228\ncycles_done    : 0\nexecs_done     : 5321733\nexecs_per_sec  : 901.61\npaths_total    : 521\npaths_favored  : 133\npaths_found    : 520\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 297\npending_favs   : 78\npending_total  : 431\nvariable_paths : 0\nbitmap_cvg     : 2.20%\nunique_crashes : 171\nunique_hangs   : 0\nlast_path      : 1499944514\nlast_crash     : 1499944364\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simple_integer_calculator/input -o /dev/shm/work/simple_integer_calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simple_integer_calculator/simple_integer_calculator.dict -- data/linux/processed-challenges/simple_integer_calculator/bin/simple_integer_calculator\n'
+p93
+I5
+tp94
+a(I5640
+S'start_time     : 1499939027\nlast_update    : 1499944677\nfuzzer_pid     : 3228\ncycles_done    : 0\nexecs_done     : 5426780\nexecs_per_sec  : 783.86\npaths_total    : 521\npaths_favored  : 133\npaths_found    : 520\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 308\npending_favs   : 76\npending_total  : 429\nvariable_paths : 0\nbitmap_cvg     : 2.20%\nunique_crashes : 171\nunique_hangs   : 0\nlast_path      : 1499944514\nlast_crash     : 1499944364\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simple_integer_calculator/input -o /dev/shm/work/simple_integer_calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simple_integer_calculator/simple_integer_calculator.dict -- data/linux/processed-challenges/simple_integer_calculator/bin/simple_integer_calculator\n'
+p95
+I0
+tp96
+a(I5760
+S'start_time     : 1499939027\nlast_update    : 1499944797\nfuzzer_pid     : 3228\ncycles_done    : 0\nexecs_done     : 5548275\nexecs_per_sec  : 1043.72\npaths_total    : 526\npaths_favored  : 133\npaths_found    : 525\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 309\npending_favs   : 75\npending_total  : 433\nvariable_paths : 0\nbitmap_cvg     : 2.21%\nunique_crashes : 175\nunique_hangs   : 0\nlast_path      : 1499944785\nlast_crash     : 1499944714\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simple_integer_calculator/input -o /dev/shm/work/simple_integer_calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simple_integer_calculator/simple_integer_calculator.dict -- data/linux/processed-challenges/simple_integer_calculator/bin/simple_integer_calculator\n'
+p97
+I5
+tp98
+a(I5880
+S'start_time     : 1499939027\nlast_update    : 1499944917\nfuzzer_pid     : 3228\ncycles_done    : 0\nexecs_done     : 5670282\nexecs_per_sec  : 1026.67\npaths_total    : 533\npaths_favored  : 134\npaths_found    : 532\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 310\npending_favs   : 77\npending_total  : 439\nvariable_paths : 0\nbitmap_cvg     : 2.25%\nunique_crashes : 179\nunique_hangs   : 0\nlast_path      : 1499944897\nlast_crash     : 1499944874\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simple_integer_calculator/input -o /dev/shm/work/simple_integer_calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simple_integer_calculator/simple_integer_calculator.dict -- data/linux/processed-challenges/simple_integer_calculator/bin/simple_integer_calculator\n'
+p99
+I7
+tp100
+a(I6000
+S'start_time     : 1499939027\nlast_update    : 1499945038\nfuzzer_pid     : 3228\ncycles_done    : 0\nexecs_done     : 5793678\nexecs_per_sec  : 905.25\npaths_total    : 533\npaths_favored  : 135\npaths_found    : 532\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 311\npending_favs   : 78\npending_total  : 438\nvariable_paths : 0\nbitmap_cvg     : 2.25%\nunique_crashes : 182\nunique_hangs   : 0\nlast_path      : 1499944897\nlast_crash     : 1499944990\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simple_integer_calculator/input -o /dev/shm/work/simple_integer_calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simple_integer_calculator/simple_integer_calculator.dict -- data/linux/processed-challenges/simple_integer_calculator/bin/simple_integer_calculator\n'
+p101
+I0
+tp102
+a(I6120
+S'start_time     : 1499939027\nlast_update    : 1499945158\nfuzzer_pid     : 3228\ncycles_done    : 0\nexecs_done     : 5911487\nexecs_per_sec  : 876.25\npaths_total    : 537\npaths_favored  : 138\npaths_found    : 536\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 313\npending_favs   : 78\npending_total  : 440\nvariable_paths : 0\nbitmap_cvg     : 2.26%\nunique_crashes : 185\nunique_hangs   : 0\nlast_path      : 1499945136\nlast_crash     : 1499945130\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simple_integer_calculator/input -o /dev/shm/work/simple_integer_calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simple_integer_calculator/simple_integer_calculator.dict -- data/linux/processed-challenges/simple_integer_calculator/bin/simple_integer_calculator\n'
+p103
+I4
+tp104
+a(I6240
+S'start_time     : 1499939027\nlast_update    : 1499945218\nfuzzer_pid     : 3228\ncycles_done    : 0\nexecs_done     : 5961590\nexecs_per_sec  : 926.15\npaths_total    : 538\npaths_favored  : 138\npaths_found    : 537\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 315\npending_favs   : 77\npending_total  : 440\nvariable_paths : 0\nbitmap_cvg     : 2.26%\nunique_crashes : 185\nunique_hangs   : 0\nlast_path      : 1499945213\nlast_crash     : 1499945130\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simple_integer_calculator/input -o /dev/shm/work/simple_integer_calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simple_integer_calculator/simple_integer_calculator.dict -- data/linux/processed-challenges/simple_integer_calculator/bin/simple_integer_calculator\n'
+p105
+I2
+tp106
+a(I6360
+S'start_time     : 1499939027\nlast_update    : 1499945338\nfuzzer_pid     : 3228\ncycles_done    : 0\nexecs_done     : 6065095\nexecs_per_sec  : 757.91\npaths_total    : 541\npaths_favored  : 138\npaths_found    : 540\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 329\npending_favs   : 75\npending_total  : 440\nvariable_paths : 0\nbitmap_cvg     : 2.26%\nunique_crashes : 186\nunique_hangs   : 0\nlast_path      : 1499945324\nlast_crash     : 1499945273\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simple_integer_calculator/input -o /dev/shm/work/simple_integer_calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simple_integer_calculator/simple_integer_calculator.dict -- data/linux/processed-challenges/simple_integer_calculator/bin/simple_integer_calculator\n'
+p107
+I11
+tp108
+a(I6480
+S'start_time     : 1499939027\nlast_update    : 1499945458\nfuzzer_pid     : 3228\ncycles_done    : 0\nexecs_done     : 6166728\nexecs_per_sec  : 936.55\npaths_total    : 552\npaths_favored  : 145\npaths_found    : 551\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 333\npending_favs   : 82\npending_total  : 448\nvariable_paths : 0\nbitmap_cvg     : 2.29%\nunique_crashes : 192\nunique_hangs   : 0\nlast_path      : 1499945404\nlast_crash     : 1499945438\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simple_integer_calculator/input -o /dev/shm/work/simple_integer_calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simple_integer_calculator/simple_integer_calculator.dict -- data/linux/processed-challenges/simple_integer_calculator/bin/simple_integer_calculator\n'
+p109
+I5
+tp110
+a(I6600
+S'start_time     : 1499939027\nlast_update    : 1499945579\nfuzzer_pid     : 3228\ncycles_done    : 0\nexecs_done     : 6273364\nexecs_per_sec  : 893.34\npaths_total    : 560\npaths_favored  : 145\npaths_found    : 559\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 338\npending_favs   : 80\npending_total  : 454\nvariable_paths : 0\nbitmap_cvg     : 2.30%\nunique_crashes : 196\nunique_hangs   : 0\nlast_path      : 1499945569\nlast_crash     : 1499945571\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simple_integer_calculator/input -o /dev/shm/work/simple_integer_calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simple_integer_calculator/simple_integer_calculator.dict -- data/linux/processed-challenges/simple_integer_calculator/bin/simple_integer_calculator\n'
+p111
+I6
+tp112
+a(I6720
+S'start_time     : 1499939027\nlast_update    : 1499945699\nfuzzer_pid     : 3228\ncycles_done    : 0\nexecs_done     : 6380495\nexecs_per_sec  : 885.39\npaths_total    : 565\npaths_favored  : 143\npaths_found    : 564\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 339\npending_favs   : 78\npending_total  : 458\nvariable_paths : 0\nbitmap_cvg     : 2.32%\nunique_crashes : 197\nunique_hangs   : 0\nlast_path      : 1499945691\nlast_crash     : 1499945622\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simple_integer_calculator/input -o /dev/shm/work/simple_integer_calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simple_integer_calculator/simple_integer_calculator.dict -- data/linux/processed-challenges/simple_integer_calculator/bin/simple_integer_calculator\n'
+p113
+I7
+tp114
+a(I6840
+S'start_time     : 1499939027\nlast_update    : 1499945819\nfuzzer_pid     : 3228\ncycles_done    : 0\nexecs_done     : 6491951\nexecs_per_sec  : 1023.01\npaths_total    : 576\npaths_favored  : 143\npaths_found    : 575\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 344\npending_favs   : 77\npending_total  : 467\nvariable_paths : 0\nbitmap_cvg     : 2.35%\nunique_crashes : 199\nunique_hangs   : 0\nlast_path      : 1499945817\nlast_crash     : 1499945774\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simple_integer_calculator/input -o /dev/shm/work/simple_integer_calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simple_integer_calculator/simple_integer_calculator.dict -- data/linux/processed-challenges/simple_integer_calculator/bin/simple_integer_calculator\n'
+p115
+I9
+tp116
+a(I6960
+S'start_time     : 1499939027\nlast_update    : 1499945940\nfuzzer_pid     : 3228\ncycles_done    : 0\nexecs_done     : 6615020\nexecs_per_sec  : 933.74\npaths_total    : 579\npaths_favored  : 145\npaths_found    : 578\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 356\npending_favs   : 79\npending_total  : 469\nvariable_paths : 0\nbitmap_cvg     : 2.35%\nunique_crashes : 199\nunique_hangs   : 0\nlast_path      : 1499945933\nlast_crash     : 1499945774\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simple_integer_calculator/input -o /dev/shm/work/simple_integer_calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simple_integer_calculator/simple_integer_calculator.dict -- data/linux/processed-challenges/simple_integer_calculator/bin/simple_integer_calculator\n'
+p117
+I5
+tp118
+a(I7080
+S'start_time     : 1499939027\nlast_update    : 1499946060\nfuzzer_pid     : 3228\ncycles_done    : 0\nexecs_done     : 6738890\nexecs_per_sec  : 1055.93\npaths_total    : 584\npaths_favored  : 145\npaths_found    : 583\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 364\npending_favs   : 78\npending_total  : 473\nvariable_paths : 0\nbitmap_cvg     : 2.35%\nunique_crashes : 201\nunique_hangs   : 0\nlast_path      : 1499946028\nlast_crash     : 1499945968\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simple_integer_calculator/input -o /dev/shm/work/simple_integer_calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simple_integer_calculator/simple_integer_calculator.dict -- data/linux/processed-challenges/simple_integer_calculator/bin/simple_integer_calculator\n'
+p119
+I2
+tp120
+a(I7200
+S'start_time     : 1499939027\nlast_update    : 1499946180\nfuzzer_pid     : 3228\ncycles_done    : 0\nexecs_done     : 6862518\nexecs_per_sec  : 897.51\npaths_total    : 585\npaths_favored  : 145\npaths_found    : 584\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 374\npending_favs   : 74\npending_total  : 470\nvariable_paths : 0\nbitmap_cvg     : 2.35%\nunique_crashes : 201\nunique_hangs   : 0\nlast_path      : 1499946132\nlast_crash     : 1499945968\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simple_integer_calculator/input -o /dev/shm/work/simple_integer_calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simple_integer_calculator/simple_integer_calculator.dict -- data/linux/processed-challenges/simple_integer_calculator/bin/simple_integer_calculator\n'
+p121
+I3
+tp122
+a(I7320
+S'start_time     : 1499939027\nlast_update    : 1499946300\nfuzzer_pid     : 3228\ncycles_done    : 0\nexecs_done     : 6971895\nexecs_per_sec  : 914.20\npaths_total    : 589\npaths_favored  : 145\npaths_found    : 588\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 381\npending_favs   : 72\npending_total  : 472\nvariable_paths : 0\nbitmap_cvg     : 2.35%\nunique_crashes : 204\nunique_hangs   : 0\nlast_path      : 1499946261\nlast_crash     : 1499946235\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simple_integer_calculator/input -o /dev/shm/work/simple_integer_calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simple_integer_calculator/simple_integer_calculator.dict -- data/linux/processed-challenges/simple_integer_calculator/bin/simple_integer_calculator\n'
+p123
+I3
+tp124
+a(I7440
+S'start_time     : 1499939027\nlast_update    : 1499946421\nfuzzer_pid     : 3228\ncycles_done    : 0\nexecs_done     : 7084219\nexecs_per_sec  : 805.37\npaths_total    : 593\npaths_favored  : 145\npaths_found    : 592\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 408\npending_favs   : 70\npending_total  : 472\nvariable_paths : 0\nbitmap_cvg     : 2.36%\nunique_crashes : 206\nunique_hangs   : 0\nlast_path      : 1499946380\nlast_crash     : 1499946379\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simple_integer_calculator/input -o /dev/shm/work/simple_integer_calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simple_integer_calculator/simple_integer_calculator.dict -- data/linux/processed-challenges/simple_integer_calculator/bin/simple_integer_calculator\n'
+p125
+I8
+tp126
+a(I7560
+S'start_time     : 1499939027\nlast_update    : 1499946541\nfuzzer_pid     : 3228\ncycles_done    : 0\nexecs_done     : 7186637\nexecs_per_sec  : 894.97\npaths_total    : 598\npaths_favored  : 145\npaths_found    : 597\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 416\npending_favs   : 69\npending_total  : 476\nvariable_paths : 0\nbitmap_cvg     : 2.36%\nunique_crashes : 206\nunique_hangs   : 0\nlast_path      : 1499946476\nlast_crash     : 1499946379\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simple_integer_calculator/input -o /dev/shm/work/simple_integer_calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simple_integer_calculator/simple_integer_calculator.dict -- data/linux/processed-challenges/simple_integer_calculator/bin/simple_integer_calculator\n'
+p127
+I0
+tp128
+a(I7680
+S'start_time     : 1499939027\nlast_update    : 1499946661\nfuzzer_pid     : 3228\ncycles_done    : 0\nexecs_done     : 7293639\nexecs_per_sec  : 862.97\npaths_total    : 598\npaths_favored  : 145\npaths_found    : 597\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 420\npending_favs   : 70\npending_total  : 475\nvariable_paths : 0\nbitmap_cvg     : 2.36%\nunique_crashes : 206\nunique_hangs   : 0\nlast_path      : 1499946476\nlast_crash     : 1499946379\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simple_integer_calculator/input -o /dev/shm/work/simple_integer_calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simple_integer_calculator/simple_integer_calculator.dict -- data/linux/processed-challenges/simple_integer_calculator/bin/simple_integer_calculator\n'
+p129
+I7
+tp130
+a(I7800
+S'start_time     : 1499939027\nlast_update    : 1499946781\nfuzzer_pid     : 3228\ncycles_done    : 0\nexecs_done     : 7407745\nexecs_per_sec  : 971.53\npaths_total    : 607\npaths_favored  : 145\npaths_found    : 606\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 426\npending_favs   : 69\npending_total  : 483\nvariable_paths : 0\nbitmap_cvg     : 2.36%\nunique_crashes : 206\nunique_hangs   : 0\nlast_path      : 1499946744\nlast_crash     : 1499946379\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simple_integer_calculator/input -o /dev/shm/work/simple_integer_calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simple_integer_calculator/simple_integer_calculator.dict -- data/linux/processed-challenges/simple_integer_calculator/bin/simple_integer_calculator\n'
+p131
+I3
+tp132
+a(I7920
+S'start_time     : 1499939027\nlast_update    : 1499946902\nfuzzer_pid     : 3228\ncycles_done    : 0\nexecs_done     : 7523974\nexecs_per_sec  : 1015.52\npaths_total    : 608\npaths_favored  : 145\npaths_found    : 607\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 437\npending_favs   : 69\npending_total  : 482\nvariable_paths : 0\nbitmap_cvg     : 2.36%\nunique_crashes : 207\nunique_hangs   : 0\nlast_path      : 1499946789\nlast_crash     : 1499946795\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simple_integer_calculator/input -o /dev/shm/work/simple_integer_calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simple_integer_calculator/simple_integer_calculator.dict -- data/linux/processed-challenges/simple_integer_calculator/bin/simple_integer_calculator\n'
+p133
+I11
+tp134
+a(I8040
+S'start_time     : 1499939027\nlast_update    : 1499947022\nfuzzer_pid     : 3228\ncycles_done    : 0\nexecs_done     : 7645546\nexecs_per_sec  : 1028.60\npaths_total    : 622\npaths_favored  : 145\npaths_found    : 621\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 439\npending_favs   : 68\npending_total  : 495\nvariable_paths : 0\nbitmap_cvg     : 2.41%\nunique_crashes : 213\nunique_hangs   : 0\nlast_path      : 1499947017\nlast_crash     : 1499947018\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simple_integer_calculator/input -o /dev/shm/work/simple_integer_calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simple_integer_calculator/simple_integer_calculator.dict -- data/linux/processed-challenges/simple_integer_calculator/bin/simple_integer_calculator\n'
+p135
+I4
+tp136
+a(I8160
+S'start_time     : 1499939027\nlast_update    : 1499947142\nfuzzer_pid     : 3228\ncycles_done    : 0\nexecs_done     : 7760484\nexecs_per_sec  : 836.00\npaths_total    : 623\npaths_favored  : 151\npaths_found    : 622\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 444\npending_favs   : 71\npending_total  : 493\nvariable_paths : 0\nbitmap_cvg     : 2.41%\nunique_crashes : 214\nunique_hangs   : 0\nlast_path      : 1499947034\nlast_crash     : 1499947120\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simple_integer_calculator/input -o /dev/shm/work/simple_integer_calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simple_integer_calculator/simple_integer_calculator.dict -- data/linux/processed-challenges/simple_integer_calculator/bin/simple_integer_calculator\n'
+p137
+I1
+tp138
+a(I8280
+S'start_time     : 1499939027\nlast_update    : 1499947262\nfuzzer_pid     : 3228\ncycles_done    : 0\nexecs_done     : 7862292\nexecs_per_sec  : 890.21\npaths_total    : 632\npaths_favored  : 150\npaths_found    : 631\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 451\npending_favs   : 70\npending_total  : 501\nvariable_paths : 0\nbitmap_cvg     : 2.41%\nunique_crashes : 216\nunique_hangs   : 0\nlast_path      : 1499947224\nlast_crash     : 1499947183\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simple_integer_calculator/input -o /dev/shm/work/simple_integer_calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simple_integer_calculator/simple_integer_calculator.dict -- data/linux/processed-challenges/simple_integer_calculator/bin/simple_integer_calculator\n'
+p139
+I9
+tp140
+a(I8400
+S'start_time     : 1499939027\nlast_update    : 1499947382\nfuzzer_pid     : 3228\ncycles_done    : 0\nexecs_done     : 7968671\nexecs_per_sec  : 876.84\npaths_total    : 633\npaths_favored  : 150\npaths_found    : 632\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 451\npending_favs   : 70\npending_total  : 502\nvariable_paths : 0\nbitmap_cvg     : 2.41%\nunique_crashes : 216\nunique_hangs   : 0\nlast_path      : 1499947272\nlast_crash     : 1499947183\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simple_integer_calculator/input -o /dev/shm/work/simple_integer_calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simple_integer_calculator/simple_integer_calculator.dict -- data/linux/processed-challenges/simple_integer_calculator/bin/simple_integer_calculator\n'
+p141
+I1
+tp142
+a(I8520
+S'start_time     : 1499939027\nlast_update    : 1499947503\nfuzzer_pid     : 3228\ncycles_done    : 0\nexecs_done     : 8072558\nexecs_per_sec  : 948.09\npaths_total    : 638\npaths_favored  : 151\npaths_found    : 637\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 458\npending_favs   : 70\npending_total  : 505\nvariable_paths : 0\nbitmap_cvg     : 2.42%\nunique_crashes : 219\nunique_hangs   : 0\nlast_path      : 1499947484\nlast_crash     : 1499947474\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simple_integer_calculator/input -o /dev/shm/work/simple_integer_calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simple_integer_calculator/simple_integer_calculator.dict -- data/linux/processed-challenges/simple_integer_calculator/bin/simple_integer_calculator\n'
+p143
+I4
+tp144
+a(I8640
+S'start_time     : 1499939027\nlast_update    : 1499947623\nfuzzer_pid     : 3228\ncycles_done    : 0\nexecs_done     : 8175689\nexecs_per_sec  : 930.78\npaths_total    : 639\npaths_favored  : 152\npaths_found    : 638\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 463\npending_favs   : 70\npending_total  : 504\nvariable_paths : 0\nbitmap_cvg     : 2.42%\nunique_crashes : 220\nunique_hangs   : 0\nlast_path      : 1499947566\nlast_crash     : 1499947611\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simple_integer_calculator/input -o /dev/shm/work/simple_integer_calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simple_integer_calculator/simple_integer_calculator.dict -- data/linux/processed-challenges/simple_integer_calculator/bin/simple_integer_calculator\n'
+p145
+I8
+tp146
+a(I8760
+S'start_time     : 1499939027\nlast_update    : 1499947743\nfuzzer_pid     : 3228\ncycles_done    : 0\nexecs_done     : 8290677\nexecs_per_sec  : 986.22\npaths_total    : 648\npaths_favored  : 152\npaths_found    : 647\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 465\npending_favs   : 69\npending_total  : 512\nvariable_paths : 0\nbitmap_cvg     : 2.44%\nunique_crashes : 221\nunique_hangs   : 0\nlast_path      : 1499947698\nlast_crash     : 1499947738\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simple_integer_calculator/input -o /dev/shm/work/simple_integer_calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simple_integer_calculator/simple_integer_calculator.dict -- data/linux/processed-challenges/simple_integer_calculator/bin/simple_integer_calculator\n'
+p147
+I3
+tp148
+a(I8880
+S'start_time     : 1499939027\nlast_update    : 1499947863\nfuzzer_pid     : 3228\ncycles_done    : 0\nexecs_done     : 8401660\nexecs_per_sec  : 882.80\npaths_total    : 649\npaths_favored  : 152\npaths_found    : 648\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 467\npending_favs   : 69\npending_total  : 511\nvariable_paths : 0\nbitmap_cvg     : 2.44%\nunique_crashes : 223\nunique_hangs   : 0\nlast_path      : 1499947772\nlast_crash     : 1499947840\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simple_integer_calculator/input -o /dev/shm/work/simple_integer_calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simple_integer_calculator/simple_integer_calculator.dict -- data/linux/processed-challenges/simple_integer_calculator/bin/simple_integer_calculator\n'
+p149
+I4
+tp150
+a(I9000
+S'start_time     : 1499939027\nlast_update    : 1499947984\nfuzzer_pid     : 3228\ncycles_done    : 0\nexecs_done     : 8517608\nexecs_per_sec  : 950.14\npaths_total    : 654\npaths_favored  : 152\npaths_found    : 653\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 467\npending_favs   : 69\npending_total  : 516\nvariable_paths : 0\nbitmap_cvg     : 2.44%\nunique_crashes : 223\nunique_hangs   : 0\nlast_path      : 1499947937\nlast_crash     : 1499947840\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simple_integer_calculator/input -o /dev/shm/work/simple_integer_calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simple_integer_calculator/simple_integer_calculator.dict -- data/linux/processed-challenges/simple_integer_calculator/bin/simple_integer_calculator\n'
+p151
+I1
+tp152
+a(I9120
+S'start_time     : 1499939027\nlast_update    : 1499948104\nfuzzer_pid     : 3228\ncycles_done    : 0\nexecs_done     : 8621724\nexecs_per_sec  : 927.88\npaths_total    : 659\npaths_favored  : 151\npaths_found    : 658\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 470\npending_favs   : 68\npending_total  : 519\nvariable_paths : 0\nbitmap_cvg     : 2.44%\nunique_crashes : 228\nunique_hangs   : 0\nlast_path      : 1499948102\nlast_crash     : 1499948103\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simple_integer_calculator/input -o /dev/shm/work/simple_integer_calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simple_integer_calculator/simple_integer_calculator.dict -- data/linux/processed-challenges/simple_integer_calculator/bin/simple_integer_calculator\n'
+p153
+I13
+tp154
+a(I9240
+S'start_time     : 1499939027\nlast_update    : 1499948224\nfuzzer_pid     : 3228\ncycles_done    : 0\nexecs_done     : 8732228\nexecs_per_sec  : 921.01\npaths_total    : 670\npaths_favored  : 151\npaths_found    : 669\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 470\npending_favs   : 68\npending_total  : 530\nvariable_paths : 0\nbitmap_cvg     : 2.44%\nunique_crashes : 229\nunique_hangs   : 0\nlast_path      : 1499948182\nlast_crash     : 1499948108\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simple_integer_calculator/input -o /dev/shm/work/simple_integer_calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simple_integer_calculator/simple_integer_calculator.dict -- data/linux/processed-challenges/simple_integer_calculator/bin/simple_integer_calculator\n'
+p155
+I4
+tp156
+a(I9360
+S'start_time     : 1499939027\nlast_update    : 1499948344\nfuzzer_pid     : 3228\ncycles_done    : 0\nexecs_done     : 8846761\nexecs_per_sec  : 988.12\npaths_total    : 677\npaths_favored  : 146\npaths_found    : 676\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 471\npending_favs   : 67\npending_total  : 536\nvariable_paths : 0\nbitmap_cvg     : 2.44%\nunique_crashes : 235\nunique_hangs   : 0\nlast_path      : 1499948341\nlast_crash     : 1499948337\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simple_integer_calculator/input -o /dev/shm/work/simple_integer_calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simple_integer_calculator/simple_integer_calculator.dict -- data/linux/processed-challenges/simple_integer_calculator/bin/simple_integer_calculator\n'
+p157
+I8
+tp158
+a(I9480
+S'start_time     : 1499939027\nlast_update    : 1499948464\nfuzzer_pid     : 3228\ncycles_done    : 0\nexecs_done     : 8962551\nexecs_per_sec  : 801.76\npaths_total    : 679\npaths_favored  : 145\npaths_found    : 678\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 472\npending_favs   : 65\npending_total  : 537\nvariable_paths : 0\nbitmap_cvg     : 2.45%\nunique_crashes : 236\nunique_hangs   : 0\nlast_path      : 1499948381\nlast_crash     : 1499948446\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simple_integer_calculator/input -o /dev/shm/work/simple_integer_calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simple_integer_calculator/simple_integer_calculator.dict -- data/linux/processed-challenges/simple_integer_calculator/bin/simple_integer_calculator\n'
+p159
+I3
+tp160
+a(I9600
+S'start_time     : 1499939027\nlast_update    : 1499948585\nfuzzer_pid     : 3228\ncycles_done    : 0\nexecs_done     : 9071413\nexecs_per_sec  : 875.34\npaths_total    : 683\npaths_favored  : 145\npaths_found    : 682\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 486\npending_favs   : 64\npending_total  : 540\nvariable_paths : 0\nbitmap_cvg     : 2.45%\nunique_crashes : 236\nunique_hangs   : 0\nlast_path      : 1499948580\nlast_crash     : 1499948446\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simple_integer_calculator/input -o /dev/shm/work/simple_integer_calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simple_integer_calculator/simple_integer_calculator.dict -- data/linux/processed-challenges/simple_integer_calculator/bin/simple_integer_calculator\n'
+p161
+I3
+tp162
+a(I9720
+S'start_time     : 1499939027\nlast_update    : 1499948705\nfuzzer_pid     : 3228\ncycles_done    : 0\nexecs_done     : 9182781\nexecs_per_sec  : 946.26\npaths_total    : 688\npaths_favored  : 145\npaths_found    : 687\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 486\npending_favs   : 64\npending_total  : 545\nvariable_paths : 0\nbitmap_cvg     : 2.45%\nunique_crashes : 236\nunique_hangs   : 0\nlast_path      : 1499948695\nlast_crash     : 1499948446\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simple_integer_calculator/input -o /dev/shm/work/simple_integer_calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simple_integer_calculator/simple_integer_calculator.dict -- data/linux/processed-challenges/simple_integer_calculator/bin/simple_integer_calculator\n'
+p163
+I6
+tp164
+a(I9840
+S'start_time     : 1499939027\nlast_update    : 1499948825\nfuzzer_pid     : 3228\ncycles_done    : 0\nexecs_done     : 9287838\nexecs_per_sec  : 867.85\npaths_total    : 691\npaths_favored  : 147\npaths_found    : 690\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 497\npending_favs   : 61\npending_total  : 545\nvariable_paths : 0\nbitmap_cvg     : 2.45%\nunique_crashes : 236\nunique_hangs   : 0\nlast_path      : 1499948749\nlast_crash     : 1499948446\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simple_integer_calculator/input -o /dev/shm/work/simple_integer_calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simple_integer_calculator/simple_integer_calculator.dict -- data/linux/processed-challenges/simple_integer_calculator/bin/simple_integer_calculator\n'
+p165
+I0
+tp166
+a(I9960
+S'start_time     : 1499939027\nlast_update    : 1499948945\nfuzzer_pid     : 3228\ncycles_done    : 0\nexecs_done     : 9381393\nexecs_per_sec  : 861.13\npaths_total    : 693\npaths_favored  : 147\npaths_found    : 692\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 501\npending_favs   : 59\npending_total  : 545\nvariable_paths : 0\nbitmap_cvg     : 2.45%\nunique_crashes : 238\nunique_hangs   : 0\nlast_path      : 1499948937\nlast_crash     : 1499948934\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simple_integer_calculator/input -o /dev/shm/work/simple_integer_calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simple_integer_calculator/simple_integer_calculator.dict -- data/linux/processed-challenges/simple_integer_calculator/bin/simple_integer_calculator\n'
+p167
+I4
+tp168
+a(I10080
+S'start_time     : 1499939027\nlast_update    : 1499949065\nfuzzer_pid     : 3228\ncycles_done    : 0\nexecs_done     : 9487362\nexecs_per_sec  : 991.01\npaths_total    : 697\npaths_favored  : 144\npaths_found    : 696\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 526\npending_favs   : 54\npending_total  : 546\nvariable_paths : 0\nbitmap_cvg     : 2.45%\nunique_crashes : 241\nunique_hangs   : 0\nlast_path      : 1499949064\nlast_crash     : 1499949053\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simple_integer_calculator/input -o /dev/shm/work/simple_integer_calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simple_integer_calculator/simple_integer_calculator.dict -- data/linux/processed-challenges/simple_integer_calculator/bin/simple_integer_calculator\n'
+p169
+I4
+tp170
+a(I10200
+S'start_time     : 1499939027\nlast_update    : 1499949186\nfuzzer_pid     : 3228\ncycles_done    : 0\nexecs_done     : 9607074\nexecs_per_sec  : 1030.22\npaths_total    : 704\npaths_favored  : 144\npaths_found    : 703\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 530\npending_favs   : 53\npending_total  : 551\nvariable_paths : 0\nbitmap_cvg     : 2.46%\nunique_crashes : 244\nunique_hangs   : 0\nlast_path      : 1499949180\nlast_crash     : 1499949173\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simple_integer_calculator/input -o /dev/shm/work/simple_integer_calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simple_integer_calculator/simple_integer_calculator.dict -- data/linux/processed-challenges/simple_integer_calculator/bin/simple_integer_calculator\n'
+p171
+I6
+tp172
+a(I10320
+S'start_time     : 1499939027\nlast_update    : 1499949306\nfuzzer_pid     : 3228\ncycles_done    : 0\nexecs_done     : 9729204\nexecs_per_sec  : 1034.22\npaths_total    : 705\npaths_favored  : 144\npaths_found    : 704\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 530\npending_favs   : 53\npending_total  : 552\nvariable_paths : 0\nbitmap_cvg     : 2.46%\nunique_crashes : 244\nunique_hangs   : 0\nlast_path      : 1499949219\nlast_crash     : 1499949173\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simple_integer_calculator/input -o /dev/shm/work/simple_integer_calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simple_integer_calculator/simple_integer_calculator.dict -- data/linux/processed-challenges/simple_integer_calculator/bin/simple_integer_calculator\n'
+p173
+I6
+tp174
+a(I10440
+S'start_time     : 1499939027\nlast_update    : 1499949426\nfuzzer_pid     : 3228\ncycles_done    : 0\nexecs_done     : 9841238\nexecs_per_sec  : 947.60\npaths_total    : 713\npaths_favored  : 143\npaths_found    : 712\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 533\npending_favs   : 54\npending_total  : 559\nvariable_paths : 0\nbitmap_cvg     : 2.46%\nunique_crashes : 245\nunique_hangs   : 0\nlast_path      : 1499949403\nlast_crash     : 1499949324\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simple_integer_calculator/input -o /dev/shm/work/simple_integer_calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simple_integer_calculator/simple_integer_calculator.dict -- data/linux/processed-challenges/simple_integer_calculator/bin/simple_integer_calculator\n'
+p175
+I2
+tp176
+a(I10560
+S'start_time     : 1499939027\nlast_update    : 1499949546\nfuzzer_pid     : 3228\ncycles_done    : 0\nexecs_done     : 9945916\nexecs_per_sec  : 646.42\npaths_total    : 714\npaths_favored  : 145\npaths_found    : 713\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 534\npending_favs   : 56\npending_total  : 559\nvariable_paths : 0\nbitmap_cvg     : 2.46%\nunique_crashes : 245\nunique_hangs   : 0\nlast_path      : 1499949522\nlast_crash     : 1499949324\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simple_integer_calculator/input -o /dev/shm/work/simple_integer_calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simple_integer_calculator/simple_integer_calculator.dict -- data/linux/processed-challenges/simple_integer_calculator/bin/simple_integer_calculator\n'
+p177
+I4
+tp178
+a(I10680
+S'start_time     : 1499939027\nlast_update    : 1499949666\nfuzzer_pid     : 3228\ncycles_done    : 0\nexecs_done     : 10028882\nexecs_per_sec  : 718.18\npaths_total    : 719\npaths_favored  : 145\npaths_found    : 718\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 534\npending_favs   : 56\npending_total  : 564\nvariable_paths : 0\nbitmap_cvg     : 2.46%\nunique_crashes : 246\nunique_hangs   : 0\nlast_path      : 1499949641\nlast_crash     : 1499949620\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/simple_integer_calculator/input -o /dev/shm/work/simple_integer_calculator/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/simple_integer_calculator/simple_integer_calculator.dict -- data/linux/processed-challenges/simple_integer_calculator/bin/simple_integer_calculator\n'
+p179
+I3
+tp180
+a.

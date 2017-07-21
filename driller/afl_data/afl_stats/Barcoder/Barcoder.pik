@@ -1,0 +1,452 @@
+(lp0
+(I0
+S'start_time     : 1499895430\nlast_update    : 1499895430\nfuzzer_pid     : 8422\ncycles_done    : 0\nexecs_done     : 10\nexecs_per_sec  : 196.08\npaths_total    : 1\npaths_favored  : 1\npaths_found    : 0\npaths_imported : 0\nmax_depth      : 1\ncur_path       : 0\npending_favs   : 1\npending_total  : 1\nvariable_paths : 0\nbitmap_cvg     : 0.24%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 0\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Barcoder/input -o /dev/shm/work/Barcoder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Barcoder/Barcoder.dict -- data/linux/processed-challenges/Barcoder/bin/Barcoder\n'
+p1
+I24
+tp2
+a(I120
+S'start_time     : 1499895430\nlast_update    : 1499895550\nfuzzer_pid     : 8422\ncycles_done    : 0\nexecs_done     : 143986\nexecs_per_sec  : 1143.60\npaths_total    : 36\npaths_favored  : 1\npaths_found    : 35\npaths_imported : 0\nmax_depth      : 2\ncur_path       : 0\npending_favs   : 1\npending_total  : 36\nvariable_paths : 0\nbitmap_cvg     : 0.47%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499895539\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Barcoder/input -o /dev/shm/work/Barcoder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Barcoder/Barcoder.dict -- data/linux/processed-challenges/Barcoder/bin/Barcoder\n'
+p3
+I13
+tp4
+a(I240
+S'start_time     : 1499895430\nlast_update    : 1499895671\nfuzzer_pid     : 8422\ncycles_done    : 0\nexecs_done     : 279079\nexecs_per_sec  : 1095.38\npaths_total    : 69\npaths_favored  : 17\npaths_found    : 68\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 7\npending_favs   : 16\npending_total  : 67\nvariable_paths : 0\nbitmap_cvg     : 0.62%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499895661\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Barcoder/input -o /dev/shm/work/Barcoder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Barcoder/Barcoder.dict -- data/linux/processed-challenges/Barcoder/bin/Barcoder\n'
+p5
+I33
+tp6
+a(I360
+S'start_time     : 1499895430\nlast_update    : 1499895791\nfuzzer_pid     : 8422\ncycles_done    : 0\nexecs_done     : 411756\nexecs_per_sec  : 1100.56\npaths_total    : 96\npaths_favored  : 25\npaths_found    : 95\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 11\npending_favs   : 24\npending_total  : 93\nvariable_paths : 0\nbitmap_cvg     : 0.70%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499895789\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Barcoder/input -o /dev/shm/work/Barcoder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Barcoder/Barcoder.dict -- data/linux/processed-challenges/Barcoder/bin/Barcoder\n'
+p7
+I27
+tp8
+a(I480
+S'start_time     : 1499895430\nlast_update    : 1499895911\nfuzzer_pid     : 8422\ncycles_done    : 0\nexecs_done     : 542688\nexecs_per_sec  : 1077.19\npaths_total    : 116\npaths_favored  : 36\npaths_found    : 115\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 14\npending_favs   : 34\npending_total  : 112\nvariable_paths : 0\nbitmap_cvg     : 0.90%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499895909\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Barcoder/input -o /dev/shm/work/Barcoder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Barcoder/Barcoder.dict -- data/linux/processed-challenges/Barcoder/bin/Barcoder\n'
+p9
+I19
+tp10
+a(I600
+S'start_time     : 1499895430\nlast_update    : 1499896031\nfuzzer_pid     : 8422\ncycles_done    : 0\nexecs_done     : 673606\nexecs_per_sec  : 1105.57\npaths_total    : 123\npaths_favored  : 36\npaths_found    : 122\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 14\npending_favs   : 34\npending_total  : 119\nvariable_paths : 0\nbitmap_cvg     : 1.07%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499896012\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Barcoder/input -o /dev/shm/work/Barcoder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Barcoder/Barcoder.dict -- data/linux/processed-challenges/Barcoder/bin/Barcoder\n'
+p11
+I7
+tp12
+a(I720
+S'start_time     : 1499895430\nlast_update    : 1499896151\nfuzzer_pid     : 8422\ncycles_done    : 0\nexecs_done     : 796793\nexecs_per_sec  : 1019.60\npaths_total    : 134\npaths_favored  : 49\npaths_found    : 133\npaths_imported : 0\nmax_depth      : 3\ncur_path       : 37\npending_favs   : 43\npending_total  : 126\nvariable_paths : 0\nbitmap_cvg     : 1.09%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499896151\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Barcoder/input -o /dev/shm/work/Barcoder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Barcoder/Barcoder.dict -- data/linux/processed-challenges/Barcoder/bin/Barcoder\n'
+p13
+I11
+tp14
+a(I840
+S'start_time     : 1499895430\nlast_update    : 1499896271\nfuzzer_pid     : 8422\ncycles_done    : 0\nexecs_done     : 921206\nexecs_per_sec  : 1024.14\npaths_total    : 140\npaths_favored  : 51\npaths_found    : 139\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 46\npending_favs   : 42\npending_total  : 129\nvariable_paths : 0\nbitmap_cvg     : 1.12%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499896265\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Barcoder/input -o /dev/shm/work/Barcoder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Barcoder/Barcoder.dict -- data/linux/processed-challenges/Barcoder/bin/Barcoder\n'
+p15
+I6
+tp16
+a(I960
+S'start_time     : 1499895430\nlast_update    : 1499896391\nfuzzer_pid     : 8422\ncycles_done    : 0\nexecs_done     : 1050022\nexecs_per_sec  : 1102.32\npaths_total    : 150\npaths_favored  : 53\npaths_found    : 149\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 54\npending_favs   : 43\npending_total  : 137\nvariable_paths : 0\nbitmap_cvg     : 1.13%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499896308\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Barcoder/input -o /dev/shm/work/Barcoder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Barcoder/Barcoder.dict -- data/linux/processed-challenges/Barcoder/bin/Barcoder\n'
+p17
+I10
+tp18
+a(I1080
+S'start_time     : 1499895430\nlast_update    : 1499896512\nfuzzer_pid     : 8422\ncycles_done    : 0\nexecs_done     : 1172752\nexecs_per_sec  : 1037.18\npaths_total    : 162\npaths_favored  : 59\npaths_found    : 161\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 67\npending_favs   : 46\npending_total  : 146\nvariable_paths : 0\nbitmap_cvg     : 1.15%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499896511\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Barcoder/input -o /dev/shm/work/Barcoder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Barcoder/Barcoder.dict -- data/linux/processed-challenges/Barcoder/bin/Barcoder\n'
+p19
+I13
+tp20
+a(I1200
+S'start_time     : 1499895430\nlast_update    : 1499896632\nfuzzer_pid     : 8422\ncycles_done    : 0\nexecs_done     : 1297002\nexecs_per_sec  : 1044.17\npaths_total    : 167\npaths_favored  : 59\npaths_found    : 166\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 67\npending_favs   : 46\npending_total  : 151\nvariable_paths : 0\nbitmap_cvg     : 1.22%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499896596\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Barcoder/input -o /dev/shm/work/Barcoder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Barcoder/Barcoder.dict -- data/linux/processed-challenges/Barcoder/bin/Barcoder\n'
+p21
+I4
+tp22
+a(I1320
+S'start_time     : 1499895430\nlast_update    : 1499896752\nfuzzer_pid     : 8422\ncycles_done    : 0\nexecs_done     : 1424229\nexecs_per_sec  : 1111.22\npaths_total    : 172\npaths_favored  : 63\npaths_found    : 171\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 74\npending_favs   : 45\npending_total  : 151\nvariable_paths : 0\nbitmap_cvg     : 1.22%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499896728\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Barcoder/input -o /dev/shm/work/Barcoder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Barcoder/Barcoder.dict -- data/linux/processed-challenges/Barcoder/bin/Barcoder\n'
+p23
+I5
+tp24
+a(I1440
+S'start_time     : 1499895430\nlast_update    : 1499896872\nfuzzer_pid     : 8422\ncycles_done    : 0\nexecs_done     : 1544972\nexecs_per_sec  : 940.28\npaths_total    : 173\npaths_favored  : 63\npaths_found    : 172\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 77\npending_favs   : 44\npending_total  : 150\nvariable_paths : 0\nbitmap_cvg     : 1.22%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499896757\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Barcoder/input -o /dev/shm/work/Barcoder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Barcoder/Barcoder.dict -- data/linux/processed-challenges/Barcoder/bin/Barcoder\n'
+p25
+I1
+tp26
+a(I1560
+S'start_time     : 1499895430\nlast_update    : 1499896993\nfuzzer_pid     : 8422\ncycles_done    : 0\nexecs_done     : 1671342\nexecs_per_sec  : 1069.63\npaths_total    : 184\npaths_favored  : 63\npaths_found    : 183\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 86\npending_favs   : 43\npending_total  : 160\nvariable_paths : 0\nbitmap_cvg     : 1.23%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499896985\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Barcoder/input -o /dev/shm/work/Barcoder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Barcoder/Barcoder.dict -- data/linux/processed-challenges/Barcoder/bin/Barcoder\n'
+p27
+I11
+tp28
+a(I1680
+S'start_time     : 1499895430\nlast_update    : 1499897113\nfuzzer_pid     : 8422\ncycles_done    : 0\nexecs_done     : 1785112\nexecs_per_sec  : 918.60\npaths_total    : 201\npaths_favored  : 66\npaths_found    : 200\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 94\npending_favs   : 45\npending_total  : 175\nvariable_paths : 0\nbitmap_cvg     : 1.23%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499897105\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Barcoder/input -o /dev/shm/work/Barcoder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Barcoder/Barcoder.dict -- data/linux/processed-challenges/Barcoder/bin/Barcoder\n'
+p29
+I17
+tp30
+a(I1800
+S'start_time     : 1499895430\nlast_update    : 1499897233\nfuzzer_pid     : 8422\ncycles_done    : 0\nexecs_done     : 1896386\nexecs_per_sec  : 943.47\npaths_total    : 208\npaths_favored  : 66\npaths_found    : 207\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 94\npending_favs   : 45\npending_total  : 182\nvariable_paths : 0\nbitmap_cvg     : 1.26%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499897210\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Barcoder/input -o /dev/shm/work/Barcoder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Barcoder/Barcoder.dict -- data/linux/processed-challenges/Barcoder/bin/Barcoder\n'
+p31
+I8
+tp32
+a(I1920
+S'start_time     : 1499895430\nlast_update    : 1499897353\nfuzzer_pid     : 8422\ncycles_done    : 0\nexecs_done     : 2011358\nexecs_per_sec  : 991.55\npaths_total    : 222\npaths_favored  : 70\npaths_found    : 221\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 96\npending_favs   : 51\npending_total  : 195\nvariable_paths : 0\nbitmap_cvg     : 1.27%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499897348\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Barcoder/input -o /dev/shm/work/Barcoder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Barcoder/Barcoder.dict -- data/linux/processed-challenges/Barcoder/bin/Barcoder\n'
+p33
+I13
+tp34
+a(I2040
+S'start_time     : 1499895430\nlast_update    : 1499897473\nfuzzer_pid     : 8422\ncycles_done    : 0\nexecs_done     : 2131676\nexecs_per_sec  : 1006.47\npaths_total    : 247\npaths_favored  : 77\npaths_found    : 246\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 101\npending_favs   : 59\npending_total  : 219\nvariable_paths : 0\nbitmap_cvg     : 1.30%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499897473\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Barcoder/input -o /dev/shm/work/Barcoder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Barcoder/Barcoder.dict -- data/linux/processed-challenges/Barcoder/bin/Barcoder\n'
+p35
+I25
+tp36
+a(I2160
+S'start_time     : 1499895430\nlast_update    : 1499897593\nfuzzer_pid     : 8422\ncycles_done    : 0\nexecs_done     : 2254566\nexecs_per_sec  : 1017.56\npaths_total    : 256\npaths_favored  : 77\npaths_found    : 255\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 101\npending_favs   : 59\npending_total  : 228\nvariable_paths : 0\nbitmap_cvg     : 1.30%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499897556\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Barcoder/input -o /dev/shm/work/Barcoder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Barcoder/Barcoder.dict -- data/linux/processed-challenges/Barcoder/bin/Barcoder\n'
+p37
+I9
+tp38
+a(I2280
+S'start_time     : 1499895430\nlast_update    : 1499897714\nfuzzer_pid     : 8422\ncycles_done    : 0\nexecs_done     : 2371703\nexecs_per_sec  : 1043.54\npaths_total    : 261\npaths_favored  : 84\npaths_found    : 260\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 109\npending_favs   : 63\npending_total  : 229\nvariable_paths : 0\nbitmap_cvg     : 1.39%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499897713\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Barcoder/input -o /dev/shm/work/Barcoder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Barcoder/Barcoder.dict -- data/linux/processed-challenges/Barcoder/bin/Barcoder\n'
+p39
+I5
+tp40
+a(I2400
+S'start_time     : 1499895430\nlast_update    : 1499897834\nfuzzer_pid     : 8422\ncycles_done    : 0\nexecs_done     : 2496393\nexecs_per_sec  : 1014.96\npaths_total    : 268\npaths_favored  : 84\npaths_found    : 267\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 109\npending_favs   : 63\npending_total  : 236\nvariable_paths : 0\nbitmap_cvg     : 1.41%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499897798\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Barcoder/input -o /dev/shm/work/Barcoder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Barcoder/Barcoder.dict -- data/linux/processed-challenges/Barcoder/bin/Barcoder\n'
+p41
+I7
+tp42
+a(I2520
+S'start_time     : 1499895430\nlast_update    : 1499897954\nfuzzer_pid     : 8422\ncycles_done    : 0\nexecs_done     : 2611057\nexecs_per_sec  : 766.63\npaths_total    : 271\npaths_favored  : 85\npaths_found    : 270\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 122\npending_favs   : 60\npending_total  : 234\nvariable_paths : 0\nbitmap_cvg     : 1.41%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499897953\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Barcoder/input -o /dev/shm/work/Barcoder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Barcoder/Barcoder.dict -- data/linux/processed-challenges/Barcoder/bin/Barcoder\n'
+p43
+I5
+tp44
+a(I2640
+S'start_time     : 1499895430\nlast_update    : 1499898074\nfuzzer_pid     : 8422\ncycles_done    : 0\nexecs_done     : 2724925\nexecs_per_sec  : 912.24\npaths_total    : 277\npaths_favored  : 88\npaths_found    : 276\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 131\npending_favs   : 59\npending_total  : 236\nvariable_paths : 0\nbitmap_cvg     : 1.43%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499898062\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Barcoder/input -o /dev/shm/work/Barcoder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Barcoder/Barcoder.dict -- data/linux/processed-challenges/Barcoder/bin/Barcoder\n'
+p45
+I4
+tp46
+a(I2760
+S'start_time     : 1499895430\nlast_update    : 1499898194\nfuzzer_pid     : 8422\ncycles_done    : 0\nexecs_done     : 2847853\nexecs_per_sec  : 1026.83\npaths_total    : 284\npaths_favored  : 88\npaths_found    : 283\npaths_imported : 0\nmax_depth      : 4\ncur_path       : 131\npending_favs   : 59\npending_total  : 243\nvariable_paths : 0\nbitmap_cvg     : 1.45%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499898190\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Barcoder/input -o /dev/shm/work/Barcoder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Barcoder/Barcoder.dict -- data/linux/processed-challenges/Barcoder/bin/Barcoder\n'
+p47
+I7
+tp48
+a(I2880
+S'start_time     : 1499895430\nlast_update    : 1499898314\nfuzzer_pid     : 8422\ncycles_done    : 0\nexecs_done     : 2967189\nexecs_per_sec  : 906.71\npaths_total    : 287\npaths_favored  : 92\npaths_found    : 286\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 148\npending_favs   : 60\npending_total  : 242\nvariable_paths : 0\nbitmap_cvg     : 1.45%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499898254\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Barcoder/input -o /dev/shm/work/Barcoder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Barcoder/Barcoder.dict -- data/linux/processed-challenges/Barcoder/bin/Barcoder\n'
+p49
+I3
+tp50
+a(I3000
+S'start_time     : 1499895430\nlast_update    : 1499898434\nfuzzer_pid     : 8422\ncycles_done    : 0\nexecs_done     : 3079650\nexecs_per_sec  : 890.67\npaths_total    : 289\npaths_favored  : 92\npaths_found    : 288\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 158\npending_favs   : 55\npending_total  : 239\nvariable_paths : 0\nbitmap_cvg     : 1.46%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499898428\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Barcoder/input -o /dev/shm/work/Barcoder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Barcoder/Barcoder.dict -- data/linux/processed-challenges/Barcoder/bin/Barcoder\n'
+p51
+I2
+tp52
+a(I3120
+S'start_time     : 1499895430\nlast_update    : 1499898555\nfuzzer_pid     : 8422\ncycles_done    : 0\nexecs_done     : 3199018\nexecs_per_sec  : 1001.00\npaths_total    : 306\npaths_favored  : 92\npaths_found    : 305\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 158\npending_favs   : 55\npending_total  : 256\nvariable_paths : 0\nbitmap_cvg     : 1.47%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499898554\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Barcoder/input -o /dev/shm/work/Barcoder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Barcoder/Barcoder.dict -- data/linux/processed-challenges/Barcoder/bin/Barcoder\n'
+p53
+I17
+tp54
+a(I3240
+S'start_time     : 1499895430\nlast_update    : 1499898675\nfuzzer_pid     : 8422\ncycles_done    : 0\nexecs_done     : 3314143\nexecs_per_sec  : 895.79\npaths_total    : 308\npaths_favored  : 98\npaths_found    : 307\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 163\npending_favs   : 60\npending_total  : 255\nvariable_paths : 0\nbitmap_cvg     : 1.47%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499898606\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Barcoder/input -o /dev/shm/work/Barcoder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Barcoder/Barcoder.dict -- data/linux/processed-challenges/Barcoder/bin/Barcoder\n'
+p55
+I2
+tp56
+a(I3360
+S'start_time     : 1499895430\nlast_update    : 1499898795\nfuzzer_pid     : 8422\ncycles_done    : 0\nexecs_done     : 3412376\nexecs_per_sec  : 830.26\npaths_total    : 334\npaths_favored  : 99\npaths_found    : 333\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 164\npending_favs   : 59\npending_total  : 280\nvariable_paths : 0\nbitmap_cvg     : 1.77%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499898784\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Barcoder/input -o /dev/shm/work/Barcoder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Barcoder/Barcoder.dict -- data/linux/processed-challenges/Barcoder/bin/Barcoder\n'
+p57
+I27
+tp58
+a(I3480
+S'start_time     : 1499895430\nlast_update    : 1499898915\nfuzzer_pid     : 8422\ncycles_done    : 0\nexecs_done     : 3511166\nexecs_per_sec  : 928.90\npaths_total    : 345\npaths_favored  : 105\npaths_found    : 344\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 170\npending_favs   : 69\npending_total  : 289\nvariable_paths : 0\nbitmap_cvg     : 1.83%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499898862\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Barcoder/input -o /dev/shm/work/Barcoder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Barcoder/Barcoder.dict -- data/linux/processed-challenges/Barcoder/bin/Barcoder\n'
+p59
+I10
+tp60
+a(I3600
+S'start_time     : 1499895430\nlast_update    : 1499899036\nfuzzer_pid     : 8422\ncycles_done    : 0\nexecs_done     : 3634852\nexecs_per_sec  : 1068.31\npaths_total    : 348\npaths_favored  : 105\npaths_found    : 347\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 176\npending_favs   : 67\npending_total  : 290\nvariable_paths : 0\nbitmap_cvg     : 1.84%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499898977\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Barcoder/input -o /dev/shm/work/Barcoder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Barcoder/Barcoder.dict -- data/linux/processed-challenges/Barcoder/bin/Barcoder\n'
+p61
+I3
+tp62
+a(I3720
+S'start_time     : 1499895430\nlast_update    : 1499899156\nfuzzer_pid     : 8422\ncycles_done    : 0\nexecs_done     : 3740541\nexecs_per_sec  : 882.41\npaths_total    : 352\npaths_favored  : 107\npaths_found    : 350\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 201\npending_favs   : 66\npending_total  : 291\nvariable_paths : 0\nbitmap_cvg     : 1.85%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499899156\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Barcoder/input -o /dev/shm/work/Barcoder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Barcoder/Barcoder.dict -- data/linux/processed-challenges/Barcoder/bin/Barcoder\n'
+p63
+I4
+tp64
+a(I3840
+S'start_time     : 1499895430\nlast_update    : 1499899276\nfuzzer_pid     : 8422\ncycles_done    : 0\nexecs_done     : 3848809\nexecs_per_sec  : 877.79\npaths_total    : 353\npaths_favored  : 107\npaths_found    : 352\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 201\npending_favs   : 66\npending_total  : 292\nvariable_paths : 0\nbitmap_cvg     : 1.85%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499899195\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Barcoder/input -o /dev/shm/work/Barcoder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Barcoder/Barcoder.dict -- data/linux/processed-challenges/Barcoder/bin/Barcoder\n'
+p65
+I1
+tp66
+a(I3960
+S'start_time     : 1499895430\nlast_update    : 1499899396\nfuzzer_pid     : 8422\ncycles_done    : 0\nexecs_done     : 3955926\nexecs_per_sec  : 933.88\npaths_total    : 354\npaths_favored  : 109\npaths_found    : 353\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 205\npending_favs   : 67\npending_total  : 291\nvariable_paths : 0\nbitmap_cvg     : 1.85%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499899283\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Barcoder/input -o /dev/shm/work/Barcoder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Barcoder/Barcoder.dict -- data/linux/processed-challenges/Barcoder/bin/Barcoder\n'
+p67
+I1
+tp68
+a(I4080
+S'start_time     : 1499895430\nlast_update    : 1499899517\nfuzzer_pid     : 8422\ncycles_done    : 0\nexecs_done     : 4037672\nexecs_per_sec  : 926.85\npaths_total    : 355\npaths_favored  : 109\npaths_found    : 354\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 207\npending_favs   : 66\npending_total  : 290\nvariable_paths : 0\nbitmap_cvg     : 1.85%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499899405\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Barcoder/input -o /dev/shm/work/Barcoder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Barcoder/Barcoder.dict -- data/linux/processed-challenges/Barcoder/bin/Barcoder\n'
+p69
+I1
+tp70
+a(I4200
+S'start_time     : 1499895430\nlast_update    : 1499899637\nfuzzer_pid     : 8422\ncycles_done    : 0\nexecs_done     : 4151500\nexecs_per_sec  : 758.77\npaths_total    : 359\npaths_favored  : 111\npaths_found    : 358\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 212\npending_favs   : 70\npending_total  : 292\nvariable_paths : 0\nbitmap_cvg     : 1.86%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499899561\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Barcoder/input -o /dev/shm/work/Barcoder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Barcoder/Barcoder.dict -- data/linux/processed-challenges/Barcoder/bin/Barcoder\n'
+p71
+I4
+tp72
+a(I4320
+S'start_time     : 1499895430\nlast_update    : 1499899757\nfuzzer_pid     : 8422\ncycles_done    : 0\nexecs_done     : 4261766\nexecs_per_sec  : 873.11\npaths_total    : 363\npaths_favored  : 113\npaths_found    : 362\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 219\npending_favs   : 70\npending_total  : 294\nvariable_paths : 0\nbitmap_cvg     : 1.86%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499899680\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Barcoder/input -o /dev/shm/work/Barcoder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Barcoder/Barcoder.dict -- data/linux/processed-challenges/Barcoder/bin/Barcoder\n'
+p73
+I4
+tp74
+a(I4440
+S'start_time     : 1499895430\nlast_update    : 1499899877\nfuzzer_pid     : 8422\ncycles_done    : 0\nexecs_done     : 4358876\nexecs_per_sec  : 822.35\npaths_total    : 363\npaths_favored  : 113\npaths_found    : 362\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 226\npending_favs   : 67\npending_total  : 291\nvariable_paths : 0\nbitmap_cvg     : 1.86%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499899680\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Barcoder/input -o /dev/shm/work/Barcoder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Barcoder/Barcoder.dict -- data/linux/processed-challenges/Barcoder/bin/Barcoder\n'
+p75
+I0
+tp76
+a(I4560
+S'start_time     : 1499895430\nlast_update    : 1499899997\nfuzzer_pid     : 8422\ncycles_done    : 0\nexecs_done     : 4466416\nexecs_per_sec  : 868.55\npaths_total    : 364\npaths_favored  : 112\npaths_found    : 363\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 230\npending_favs   : 63\npending_total  : 288\nvariable_paths : 0\nbitmap_cvg     : 1.86%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499899983\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Barcoder/input -o /dev/shm/work/Barcoder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Barcoder/Barcoder.dict -- data/linux/processed-challenges/Barcoder/bin/Barcoder\n'
+p77
+I1
+tp78
+a(I4680
+S'start_time     : 1499895430\nlast_update    : 1499900118\nfuzzer_pid     : 8422\ncycles_done    : 0\nexecs_done     : 4560248\nexecs_per_sec  : 422.84\npaths_total    : 364\npaths_favored  : 112\npaths_found    : 363\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 234\npending_favs   : 60\npending_total  : 285\nvariable_paths : 0\nbitmap_cvg     : 1.86%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499899983\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Barcoder/input -o /dev/shm/work/Barcoder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Barcoder/Barcoder.dict -- data/linux/processed-challenges/Barcoder/bin/Barcoder\n'
+p79
+I0
+tp80
+a(I4800
+S'start_time     : 1499895430\nlast_update    : 1499900238\nfuzzer_pid     : 8422\ncycles_done    : 0\nexecs_done     : 4663701\nexecs_per_sec  : 832.80\npaths_total    : 366\npaths_favored  : 112\npaths_found    : 365\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 247\npending_favs   : 57\npending_total  : 284\nvariable_paths : 0\nbitmap_cvg     : 1.86%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499900236\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Barcoder/input -o /dev/shm/work/Barcoder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Barcoder/Barcoder.dict -- data/linux/processed-challenges/Barcoder/bin/Barcoder\n'
+p81
+I2
+tp82
+a(I4920
+S'start_time     : 1499895430\nlast_update    : 1499900358\nfuzzer_pid     : 8422\ncycles_done    : 0\nexecs_done     : 4753298\nexecs_per_sec  : 757.15\npaths_total    : 367\npaths_favored  : 113\npaths_found    : 366\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 255\npending_favs   : 55\npending_total  : 282\nvariable_paths : 0\nbitmap_cvg     : 1.86%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499900334\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Barcoder/input -o /dev/shm/work/Barcoder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Barcoder/Barcoder.dict -- data/linux/processed-challenges/Barcoder/bin/Barcoder\n'
+p83
+I1
+tp84
+a(I5040
+S'start_time     : 1499895430\nlast_update    : 1499900478\nfuzzer_pid     : 8422\ncycles_done    : 0\nexecs_done     : 4860100\nexecs_per_sec  : 778.19\npaths_total    : 367\npaths_favored  : 113\npaths_found    : 366\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 263\npending_favs   : 52\npending_total  : 279\nvariable_paths : 0\nbitmap_cvg     : 1.86%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499900334\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Barcoder/input -o /dev/shm/work/Barcoder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Barcoder/Barcoder.dict -- data/linux/processed-challenges/Barcoder/bin/Barcoder\n'
+p85
+I0
+tp86
+a(I5160
+S'start_time     : 1499895430\nlast_update    : 1499900599\nfuzzer_pid     : 8422\ncycles_done    : 0\nexecs_done     : 4954661\nexecs_per_sec  : 853.07\npaths_total    : 377\npaths_favored  : 113\npaths_found    : 376\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 263\npending_favs   : 52\npending_total  : 289\nvariable_paths : 0\nbitmap_cvg     : 1.88%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499900593\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Barcoder/input -o /dev/shm/work/Barcoder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Barcoder/Barcoder.dict -- data/linux/processed-challenges/Barcoder/bin/Barcoder\n'
+p87
+I10
+tp88
+a(I5280
+S'start_time     : 1499895430\nlast_update    : 1499900719\nfuzzer_pid     : 8422\ncycles_done    : 0\nexecs_done     : 5057956\nexecs_per_sec  : 910.57\npaths_total    : 378\npaths_favored  : 117\npaths_found    : 377\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 264\npending_favs   : 56\npending_total  : 289\nvariable_paths : 0\nbitmap_cvg     : 1.88%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499900671\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Barcoder/input -o /dev/shm/work/Barcoder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Barcoder/Barcoder.dict -- data/linux/processed-challenges/Barcoder/bin/Barcoder\n'
+p89
+I1
+tp90
+a(I5400
+S'start_time     : 1499895430\nlast_update    : 1499900779\nfuzzer_pid     : 8422\ncycles_done    : 0\nexecs_done     : 5109760\nexecs_per_sec  : 908.08\npaths_total    : 379\npaths_favored  : 117\npaths_found    : 378\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 265\npending_favs   : 55\npending_total  : 289\nvariable_paths : 0\nbitmap_cvg     : 1.88%\nunique_crashes : 0\nunique_hangs   : 0\nlast_path      : 1499900764\nlast_crash     : 0\nlast_hang      : 0\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Barcoder/input -o /dev/shm/work/Barcoder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Barcoder/Barcoder.dict -- data/linux/processed-challenges/Barcoder/bin/Barcoder\n'
+p91
+I1
+tp92
+a(I5520
+S'start_time     : 1499895430\nlast_update    : 1499900899\nfuzzer_pid     : 8422\ncycles_done    : 0\nexecs_done     : 5222665\nexecs_per_sec  : 1048.66\npaths_total    : 384\npaths_favored  : 117\npaths_found    : 383\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 276\npending_favs   : 52\npending_total  : 290\nvariable_paths : 0\nbitmap_cvg     : 1.88%\nunique_crashes : 0\nunique_hangs   : 1\nlast_path      : 1499900899\nlast_crash     : 0\nlast_hang      : 1499900837\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Barcoder/input -o /dev/shm/work/Barcoder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Barcoder/Barcoder.dict -- data/linux/processed-challenges/Barcoder/bin/Barcoder\n'
+p93
+I6
+tp94
+a(I5640
+S'start_time     : 1499895430\nlast_update    : 1499901019\nfuzzer_pid     : 8422\ncycles_done    : 0\nexecs_done     : 5347325\nexecs_per_sec  : 1027.97\npaths_total    : 386\npaths_favored  : 117\npaths_found    : 385\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 276\npending_favs   : 52\npending_total  : 292\nvariable_paths : 0\nbitmap_cvg     : 1.89%\nunique_crashes : 0\nunique_hangs   : 2\nlast_path      : 1499900995\nlast_crash     : 0\nlast_hang      : 1499900925\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Barcoder/input -o /dev/shm/work/Barcoder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Barcoder/Barcoder.dict -- data/linux/processed-challenges/Barcoder/bin/Barcoder\n'
+p95
+I1
+tp96
+a(I5760
+S'start_time     : 1499895430\nlast_update    : 1499901140\nfuzzer_pid     : 8422\ncycles_done    : 0\nexecs_done     : 5447446\nexecs_per_sec  : 909.72\npaths_total    : 387\npaths_favored  : 123\npaths_found    : 386\npaths_imported : 0\nmax_depth      : 5\ncur_path       : 283\npending_favs   : 56\npending_total  : 290\nvariable_paths : 0\nbitmap_cvg     : 1.89%\nunique_crashes : 0\nunique_hangs   : 5\nlast_path      : 1499901082\nlast_crash     : 0\nlast_hang      : 1499901119\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Barcoder/input -o /dev/shm/work/Barcoder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Barcoder/Barcoder.dict -- data/linux/processed-challenges/Barcoder/bin/Barcoder\n'
+p97
+I1
+tp98
+a(I5880
+S'start_time     : 1499895430\nlast_update    : 1499901260\nfuzzer_pid     : 8422\ncycles_done    : 0\nexecs_done     : 5560950\nexecs_per_sec  : 986.83\npaths_total    : 390\npaths_favored  : 123\npaths_found    : 389\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 288\npending_favs   : 54\npending_total  : 291\nvariable_paths : 0\nbitmap_cvg     : 1.89%\nunique_crashes : 0\nunique_hangs   : 11\nlast_path      : 1499901226\nlast_crash     : 0\nlast_hang      : 1499901244\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Barcoder/input -o /dev/shm/work/Barcoder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Barcoder/Barcoder.dict -- data/linux/processed-challenges/Barcoder/bin/Barcoder\n'
+p99
+I3
+tp100
+a(I6000
+S'start_time     : 1499895430\nlast_update    : 1499901380\nfuzzer_pid     : 8422\ncycles_done    : 0\nexecs_done     : 5661686\nexecs_per_sec  : 790.96\npaths_total    : 392\npaths_favored  : 126\npaths_found    : 391\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 299\npending_favs   : 55\npending_total  : 291\nvariable_paths : 0\nbitmap_cvg     : 1.89%\nunique_crashes : 0\nunique_hangs   : 16\nlast_path      : 1499901376\nlast_crash     : 0\nlast_hang      : 1499901372\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Barcoder/input -o /dev/shm/work/Barcoder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Barcoder/Barcoder.dict -- data/linux/processed-challenges/Barcoder/bin/Barcoder\n'
+p101
+I7
+tp102
+a(I6120
+S'start_time     : 1499895430\nlast_update    : 1499901500\nfuzzer_pid     : 8422\ncycles_done    : 0\nexecs_done     : 5756735\nexecs_per_sec  : 796.10\npaths_total    : 401\npaths_favored  : 126\npaths_found    : 400\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 299\npending_favs   : 55\npending_total  : 300\nvariable_paths : 0\nbitmap_cvg     : 1.89%\nunique_crashes : 0\nunique_hangs   : 17\nlast_path      : 1499901479\nlast_crash     : 0\nlast_hang      : 1499901420\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Barcoder/input -o /dev/shm/work/Barcoder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Barcoder/Barcoder.dict -- data/linux/processed-challenges/Barcoder/bin/Barcoder\n'
+p103
+I4
+tp104
+a(I6240
+S'start_time     : 1499895430\nlast_update    : 1499901620\nfuzzer_pid     : 8422\ncycles_done    : 0\nexecs_done     : 5852038\nexecs_per_sec  : 855.24\npaths_total    : 402\npaths_favored  : 124\npaths_found    : 401\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 301\npending_favs   : 54\npending_total  : 299\nvariable_paths : 0\nbitmap_cvg     : 1.89%\nunique_crashes : 0\nunique_hangs   : 18\nlast_path      : 1499901594\nlast_crash     : 0\nlast_hang      : 1499901574\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Barcoder/input -o /dev/shm/work/Barcoder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Barcoder/Barcoder.dict -- data/linux/processed-challenges/Barcoder/bin/Barcoder\n'
+p105
+I1
+tp106
+a(I6360
+S'start_time     : 1499895430\nlast_update    : 1499901740\nfuzzer_pid     : 8422\ncycles_done    : 0\nexecs_done     : 5945272\nexecs_per_sec  : 378.99\npaths_total    : 403\npaths_favored  : 124\npaths_found    : 402\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 312\npending_favs   : 51\npending_total  : 297\nvariable_paths : 0\nbitmap_cvg     : 1.89%\nunique_crashes : 0\nunique_hangs   : 21\nlast_path      : 1499901728\nlast_crash     : 0\nlast_hang      : 1499901712\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Barcoder/input -o /dev/shm/work/Barcoder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Barcoder/Barcoder.dict -- data/linux/processed-challenges/Barcoder/bin/Barcoder\n'
+p107
+I3
+tp108
+a(I6480
+S'start_time     : 1499895430\nlast_update    : 1499901861\nfuzzer_pid     : 8422\ncycles_done    : 0\nexecs_done     : 6017278\nexecs_per_sec  : 697.59\npaths_total    : 408\npaths_favored  : 124\npaths_found    : 407\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 312\npending_favs   : 51\npending_total  : 302\nvariable_paths : 0\nbitmap_cvg     : 1.90%\nunique_crashes : 0\nunique_hangs   : 21\nlast_path      : 1499901860\nlast_crash     : 0\nlast_hang      : 1499901712\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Barcoder/input -o /dev/shm/work/Barcoder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Barcoder/Barcoder.dict -- data/linux/processed-challenges/Barcoder/bin/Barcoder\n'
+p109
+I7
+tp110
+a(I6600
+S'start_time     : 1499895430\nlast_update    : 1499901981\nfuzzer_pid     : 8422\ncycles_done    : 0\nexecs_done     : 6099697\nexecs_per_sec  : 744.07\npaths_total    : 415\npaths_favored  : 126\npaths_found    : 414\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 313\npending_favs   : 53\npending_total  : 308\nvariable_paths : 0\nbitmap_cvg     : 1.90%\nunique_crashes : 0\nunique_hangs   : 21\nlast_path      : 1499901980\nlast_crash     : 0\nlast_hang      : 1499901712\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Barcoder/input -o /dev/shm/work/Barcoder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Barcoder/Barcoder.dict -- data/linux/processed-challenges/Barcoder/bin/Barcoder\n'
+p111
+I7
+tp112
+a(I6720
+S'start_time     : 1499895430\nlast_update    : 1499902101\nfuzzer_pid     : 8422\ncycles_done    : 0\nexecs_done     : 6192141\nexecs_per_sec  : 776.73\npaths_total    : 420\npaths_favored  : 126\npaths_found    : 419\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 313\npending_favs   : 53\npending_total  : 313\nvariable_paths : 0\nbitmap_cvg     : 1.91%\nunique_crashes : 0\nunique_hangs   : 22\nlast_path      : 1499902044\nlast_crash     : 0\nlast_hang      : 1499901989\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Barcoder/input -o /dev/shm/work/Barcoder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Barcoder/Barcoder.dict -- data/linux/processed-challenges/Barcoder/bin/Barcoder\n'
+p113
+I1
+tp114
+a(I6840
+S'start_time     : 1499895430\nlast_update    : 1499902221\nfuzzer_pid     : 8422\ncycles_done    : 0\nexecs_done     : 6245024\nexecs_per_sec  : 574.41\npaths_total    : 425\npaths_favored  : 126\npaths_found    : 424\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 322\npending_favs   : 52\npending_total  : 317\nvariable_paths : 0\nbitmap_cvg     : 1.92%\nunique_crashes : 0\nunique_hangs   : 22\nlast_path      : 1499902208\nlast_crash     : 0\nlast_hang      : 1499901989\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Barcoder/input -o /dev/shm/work/Barcoder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Barcoder/Barcoder.dict -- data/linux/processed-challenges/Barcoder/bin/Barcoder\n'
+p115
+I10
+tp116
+a(I6960
+S'start_time     : 1499895430\nlast_update    : 1499902341\nfuzzer_pid     : 8422\ncycles_done    : 0\nexecs_done     : 6313666\nexecs_per_sec  : 565.91\npaths_total    : 434\npaths_favored  : 126\npaths_found    : 433\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 322\npending_favs   : 52\npending_total  : 326\nvariable_paths : 0\nbitmap_cvg     : 1.92%\nunique_crashes : 0\nunique_hangs   : 22\nlast_path      : 1499902329\nlast_crash     : 0\nlast_hang      : 1499901989\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Barcoder/input -o /dev/shm/work/Barcoder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Barcoder/Barcoder.dict -- data/linux/processed-challenges/Barcoder/bin/Barcoder\n'
+p117
+I6
+tp118
+a(I7080
+S'start_time     : 1499895430\nlast_update    : 1499902462\nfuzzer_pid     : 8422\ncycles_done    : 0\nexecs_done     : 6377062\nexecs_per_sec  : 367.96\npaths_total    : 436\npaths_favored  : 128\npaths_found    : 435\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 326\npending_favs   : 55\npending_total  : 326\nvariable_paths : 0\nbitmap_cvg     : 1.92%\nunique_crashes : 0\nunique_hangs   : 23\nlast_path      : 1499902350\nlast_crash     : 0\nlast_hang      : 1499902381\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Barcoder/input -o /dev/shm/work/Barcoder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Barcoder/Barcoder.dict -- data/linux/processed-challenges/Barcoder/bin/Barcoder\n'
+p119
+I2
+tp120
+a(I7200
+S'start_time     : 1499895430\nlast_update    : 1499902582\nfuzzer_pid     : 8422\ncycles_done    : 0\nexecs_done     : 6441012\nexecs_per_sec  : 585.05\npaths_total    : 441\npaths_favored  : 128\npaths_found    : 440\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 326\npending_favs   : 55\npending_total  : 331\nvariable_paths : 0\nbitmap_cvg     : 1.92%\nunique_crashes : 0\nunique_hangs   : 24\nlast_path      : 1499902571\nlast_crash     : 0\nlast_hang      : 1499902518\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Barcoder/input -o /dev/shm/work/Barcoder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Barcoder/Barcoder.dict -- data/linux/processed-challenges/Barcoder/bin/Barcoder\n'
+p121
+I6
+tp122
+a(I7320
+S'start_time     : 1499895430\nlast_update    : 1499902702\nfuzzer_pid     : 8422\ncycles_done    : 0\nexecs_done     : 6492101\nexecs_per_sec  : 218.63\npaths_total    : 446\npaths_favored  : 129\npaths_found    : 445\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 331\npending_favs   : 55\npending_total  : 335\nvariable_paths : 0\nbitmap_cvg     : 1.93%\nunique_crashes : 0\nunique_hangs   : 26\nlast_path      : 1499902696\nlast_crash     : 0\nlast_hang      : 1499902696\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Barcoder/input -o /dev/shm/work/Barcoder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Barcoder/Barcoder.dict -- data/linux/processed-challenges/Barcoder/bin/Barcoder\n'
+p123
+I3
+tp124
+a(I7440
+S'start_time     : 1499895430\nlast_update    : 1499902822\nfuzzer_pid     : 8422\ncycles_done    : 0\nexecs_done     : 6549854\nexecs_per_sec  : 710.04\npaths_total    : 453\npaths_favored  : 130\npaths_found    : 452\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 336\npending_favs   : 55\npending_total  : 341\nvariable_paths : 0\nbitmap_cvg     : 1.93%\nunique_crashes : 0\nunique_hangs   : 27\nlast_path      : 1499902808\nlast_crash     : 0\nlast_hang      : 1499902822\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Barcoder/input -o /dev/shm/work/Barcoder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Barcoder/Barcoder.dict -- data/linux/processed-challenges/Barcoder/bin/Barcoder\n'
+p125
+I6
+tp126
+a(I7560
+S'start_time     : 1499895430\nlast_update    : 1499902942\nfuzzer_pid     : 8422\ncycles_done    : 0\nexecs_done     : 6633379\nexecs_per_sec  : 689.76\npaths_total    : 454\npaths_favored  : 130\npaths_found    : 453\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 336\npending_favs   : 55\npending_total  : 342\nvariable_paths : 0\nbitmap_cvg     : 1.93%\nunique_crashes : 0\nunique_hangs   : 27\nlast_path      : 1499902895\nlast_crash     : 0\nlast_hang      : 1499902822\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Barcoder/input -o /dev/shm/work/Barcoder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Barcoder/Barcoder.dict -- data/linux/processed-challenges/Barcoder/bin/Barcoder\n'
+p127
+I1
+tp128
+a(I7680
+S'start_time     : 1499895430\nlast_update    : 1499903063\nfuzzer_pid     : 8422\ncycles_done    : 0\nexecs_done     : 6670750\nexecs_per_sec  : 134.46\npaths_total    : 455\npaths_favored  : 130\npaths_found    : 454\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 338\npending_favs   : 54\npending_total  : 342\nvariable_paths : 0\nbitmap_cvg     : 1.93%\nunique_crashes : 0\nunique_hangs   : 28\nlast_path      : 1499903037\nlast_crash     : 0\nlast_hang      : 1499903040\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Barcoder/input -o /dev/shm/work/Barcoder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Barcoder/Barcoder.dict -- data/linux/processed-challenges/Barcoder/bin/Barcoder\n'
+p129
+I1
+tp130
+a(I7800
+S'start_time     : 1499895430\nlast_update    : 1499903183\nfuzzer_pid     : 8422\ncycles_done    : 0\nexecs_done     : 6716580\nexecs_per_sec  : 334.04\npaths_total    : 455\npaths_favored  : 130\npaths_found    : 454\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 340\npending_favs   : 53\npending_total  : 341\nvariable_paths : 0\nbitmap_cvg     : 1.93%\nunique_crashes : 0\nunique_hangs   : 29\nlast_path      : 1499903037\nlast_crash     : 0\nlast_hang      : 1499903081\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Barcoder/input -o /dev/shm/work/Barcoder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Barcoder/Barcoder.dict -- data/linux/processed-challenges/Barcoder/bin/Barcoder\n'
+p131
+I1
+tp132
+a(I7920
+S'start_time     : 1499895430\nlast_update    : 1499903303\nfuzzer_pid     : 8422\ncycles_done    : 0\nexecs_done     : 6778742\nexecs_per_sec  : 132.87\npaths_total    : 456\npaths_favored  : 130\npaths_found    : 455\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 342\npending_favs   : 51\npending_total  : 340\nvariable_paths : 0\nbitmap_cvg     : 1.93%\nunique_crashes : 0\nunique_hangs   : 29\nlast_path      : 1499903204\nlast_crash     : 0\nlast_hang      : 1499903081\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Barcoder/input -o /dev/shm/work/Barcoder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Barcoder/Barcoder.dict -- data/linux/processed-challenges/Barcoder/bin/Barcoder\n'
+p133
+I0
+tp134
+a(I8040
+S'start_time     : 1499895430\nlast_update    : 1499903423\nfuzzer_pid     : 8422\ncycles_done    : 0\nexecs_done     : 6796234\nexecs_per_sec  : 154.18\npaths_total    : 456\npaths_favored  : 130\npaths_found    : 455\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 342\npending_favs   : 51\npending_total  : 340\nvariable_paths : 0\nbitmap_cvg     : 1.93%\nunique_crashes : 0\nunique_hangs   : 32\nlast_path      : 1499903204\nlast_crash     : 0\nlast_hang      : 1499903403\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Barcoder/input -o /dev/shm/work/Barcoder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Barcoder/Barcoder.dict -- data/linux/processed-challenges/Barcoder/bin/Barcoder\n'
+p135
+I1
+tp136
+a(I8160
+S'start_time     : 1499895430\nlast_update    : 1499903543\nfuzzer_pid     : 8422\ncycles_done    : 0\nexecs_done     : 6865880\nexecs_per_sec  : 871.39\npaths_total    : 459\npaths_favored  : 131\npaths_found    : 458\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 348\npending_favs   : 49\npending_total  : 340\nvariable_paths : 0\nbitmap_cvg     : 1.94%\nunique_crashes : 0\nunique_hangs   : 35\nlast_path      : 1499903540\nlast_crash     : 0\nlast_hang      : 1499903536\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Barcoder/input -o /dev/shm/work/Barcoder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Barcoder/Barcoder.dict -- data/linux/processed-challenges/Barcoder/bin/Barcoder\n'
+p137
+I4
+tp138
+a(I8280
+S'start_time     : 1499895430\nlast_update    : 1499903664\nfuzzer_pid     : 8422\ncycles_done    : 0\nexecs_done     : 6959538\nexecs_per_sec  : 686.01\npaths_total    : 461\npaths_favored  : 131\npaths_found    : 460\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 350\npending_favs   : 49\npending_total  : 341\nvariable_paths : 0\nbitmap_cvg     : 1.95%\nunique_crashes : 0\nunique_hangs   : 37\nlast_path      : 1499903601\nlast_crash     : 0\nlast_hang      : 1499903637\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Barcoder/input -o /dev/shm/work/Barcoder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Barcoder/Barcoder.dict -- data/linux/processed-challenges/Barcoder/bin/Barcoder\n'
+p139
+I0
+tp140
+a(I8400
+S'start_time     : 1499895430\nlast_update    : 1499903784\nfuzzer_pid     : 8422\ncycles_done    : 0\nexecs_done     : 7038274\nexecs_per_sec  : 644.46\npaths_total    : 461\npaths_favored  : 131\npaths_found    : 460\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 354\npending_favs   : 48\npending_total  : 340\nvariable_paths : 0\nbitmap_cvg     : 1.95%\nunique_crashes : 0\nunique_hangs   : 38\nlast_path      : 1499903601\nlast_crash     : 0\nlast_hang      : 1499903756\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Barcoder/input -o /dev/shm/work/Barcoder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Barcoder/Barcoder.dict -- data/linux/processed-challenges/Barcoder/bin/Barcoder\n'
+p141
+I0
+tp142
+a(I8520
+S'start_time     : 1499895430\nlast_update    : 1499903904\nfuzzer_pid     : 8422\ncycles_done    : 0\nexecs_done     : 7146214\nexecs_per_sec  : 1026.02\npaths_total    : 461\npaths_favored  : 131\npaths_found    : 460\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 357\npending_favs   : 45\npending_total  : 337\nvariable_paths : 0\nbitmap_cvg     : 1.95%\nunique_crashes : 0\nunique_hangs   : 40\nlast_path      : 1499903601\nlast_crash     : 0\nlast_hang      : 1499903888\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Barcoder/input -o /dev/shm/work/Barcoder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Barcoder/Barcoder.dict -- data/linux/processed-challenges/Barcoder/bin/Barcoder\n'
+p143
+I3
+tp144
+a(I8640
+S'start_time     : 1499895430\nlast_update    : 1499904024\nfuzzer_pid     : 8422\ncycles_done    : 0\nexecs_done     : 7252473\nexecs_per_sec  : 907.50\npaths_total    : 465\npaths_favored  : 131\npaths_found    : 464\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 358\npending_favs   : 44\npending_total  : 340\nvariable_paths : 0\nbitmap_cvg     : 1.95%\nunique_crashes : 0\nunique_hangs   : 41\nlast_path      : 1499903962\nlast_crash     : 0\nlast_hang      : 1499903921\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Barcoder/input -o /dev/shm/work/Barcoder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Barcoder/Barcoder.dict -- data/linux/processed-challenges/Barcoder/bin/Barcoder\n'
+p145
+I1
+tp146
+a(I8760
+S'start_time     : 1499895430\nlast_update    : 1499904145\nfuzzer_pid     : 8422\ncycles_done    : 0\nexecs_done     : 7360241\nexecs_per_sec  : 945.16\npaths_total    : 465\npaths_favored  : 135\npaths_found    : 464\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 359\npending_favs   : 47\npending_total  : 339\nvariable_paths : 0\nbitmap_cvg     : 1.95%\nunique_crashes : 0\nunique_hangs   : 43\nlast_path      : 1499903962\nlast_crash     : 0\nlast_hang      : 1499904137\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Barcoder/input -o /dev/shm/work/Barcoder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Barcoder/Barcoder.dict -- data/linux/processed-challenges/Barcoder/bin/Barcoder\n'
+p147
+I0
+tp148
+a(I8880
+S'start_time     : 1499895430\nlast_update    : 1499904265\nfuzzer_pid     : 8422\ncycles_done    : 0\nexecs_done     : 7416175\nexecs_per_sec  : 945.59\npaths_total    : 467\npaths_favored  : 135\npaths_found    : 466\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 365\npending_favs   : 45\npending_total  : 339\nvariable_paths : 0\nbitmap_cvg     : 1.96%\nunique_crashes : 0\nunique_hangs   : 46\nlast_path      : 1499904261\nlast_crash     : 0\nlast_hang      : 1499904250\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Barcoder/input -o /dev/shm/work/Barcoder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Barcoder/Barcoder.dict -- data/linux/processed-challenges/Barcoder/bin/Barcoder\n'
+p149
+I2
+tp150
+a(I9000
+S'start_time     : 1499895430\nlast_update    : 1499904385\nfuzzer_pid     : 8422\ncycles_done    : 0\nexecs_done     : 7504391\nexecs_per_sec  : 823.85\npaths_total    : 468\npaths_favored  : 136\npaths_found    : 467\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 368\npending_favs   : 44\npending_total  : 338\nvariable_paths : 0\nbitmap_cvg     : 1.96%\nunique_crashes : 0\nunique_hangs   : 48\nlast_path      : 1499904324\nlast_crash     : 0\nlast_hang      : 1499904373\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Barcoder/input -o /dev/shm/work/Barcoder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Barcoder/Barcoder.dict -- data/linux/processed-challenges/Barcoder/bin/Barcoder\n'
+p151
+I2
+tp152
+a(I9120
+S'start_time     : 1499895430\nlast_update    : 1499904505\nfuzzer_pid     : 8422\ncycles_done    : 0\nexecs_done     : 7590850\nexecs_per_sec  : 775.54\npaths_total    : 472\npaths_favored  : 137\npaths_found    : 471\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 372\npending_favs   : 42\npending_total  : 339\nvariable_paths : 0\nbitmap_cvg     : 1.96%\nunique_crashes : 0\nunique_hangs   : 50\nlast_path      : 1499904457\nlast_crash     : 0\nlast_hang      : 1499904441\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Barcoder/input -o /dev/shm/work/Barcoder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Barcoder/Barcoder.dict -- data/linux/processed-challenges/Barcoder/bin/Barcoder\n'
+p153
+I4
+tp154
+a(I9240
+S'start_time     : 1499895430\nlast_update    : 1499904626\nfuzzer_pid     : 8422\ncycles_done    : 0\nexecs_done     : 7673919\nexecs_per_sec  : 741.03\npaths_total    : 475\npaths_favored  : 137\npaths_found    : 474\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 375\npending_favs   : 41\npending_total  : 341\nvariable_paths : 0\nbitmap_cvg     : 1.96%\nunique_crashes : 0\nunique_hangs   : 50\nlast_path      : 1499904619\nlast_crash     : 0\nlast_hang      : 1499904441\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Barcoder/input -o /dev/shm/work/Barcoder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Barcoder/Barcoder.dict -- data/linux/processed-challenges/Barcoder/bin/Barcoder\n'
+p155
+I2
+tp156
+a(I9360
+S'start_time     : 1499895430\nlast_update    : 1499904746\nfuzzer_pid     : 8422\ncycles_done    : 0\nexecs_done     : 7739058\nexecs_per_sec  : 716.66\npaths_total    : 479\npaths_favored  : 136\npaths_found    : 478\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 377\npending_favs   : 41\npending_total  : 344\nvariable_paths : 0\nbitmap_cvg     : 1.96%\nunique_crashes : 0\nunique_hangs   : 51\nlast_path      : 1499904745\nlast_crash     : 0\nlast_hang      : 1499904676\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Barcoder/input -o /dev/shm/work/Barcoder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Barcoder/Barcoder.dict -- data/linux/processed-challenges/Barcoder/bin/Barcoder\n'
+p157
+I4
+tp158
+a(I9480
+S'start_time     : 1499895430\nlast_update    : 1499904866\nfuzzer_pid     : 8422\ncycles_done    : 0\nexecs_done     : 7840187\nexecs_per_sec  : 873.18\npaths_total    : 479\npaths_favored  : 137\npaths_found    : 478\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 381\npending_favs   : 39\npending_total  : 341\nvariable_paths : 0\nbitmap_cvg     : 1.96%\nunique_crashes : 0\nunique_hangs   : 51\nlast_path      : 1499904745\nlast_crash     : 0\nlast_hang      : 1499904676\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Barcoder/input -o /dev/shm/work/Barcoder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Barcoder/Barcoder.dict -- data/linux/processed-challenges/Barcoder/bin/Barcoder\n'
+p159
+I0
+tp160
+a(I9600
+S'start_time     : 1499895430\nlast_update    : 1499904986\nfuzzer_pid     : 8422\ncycles_done    : 0\nexecs_done     : 7952490\nexecs_per_sec  : 891.51\npaths_total    : 479\npaths_favored  : 137\npaths_found    : 478\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 385\npending_favs   : 35\npending_total  : 337\nvariable_paths : 0\nbitmap_cvg     : 1.96%\nunique_crashes : 0\nunique_hangs   : 54\nlast_path      : 1499904745\nlast_crash     : 0\nlast_hang      : 1499904955\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Barcoder/input -o /dev/shm/work/Barcoder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Barcoder/Barcoder.dict -- data/linux/processed-challenges/Barcoder/bin/Barcoder\n'
+p161
+I0
+tp162
+a(I9720
+S'start_time     : 1499895430\nlast_update    : 1499905106\nfuzzer_pid     : 8422\ncycles_done    : 0\nexecs_done     : 8059055\nexecs_per_sec  : 955.93\npaths_total    : 479\npaths_favored  : 136\npaths_found    : 478\npaths_imported : 0\nmax_depth      : 6\ncur_path       : 389\npending_favs   : 32\npending_total  : 334\nvariable_paths : 0\nbitmap_cvg     : 1.96%\nunique_crashes : 0\nunique_hangs   : 57\nlast_path      : 1499904745\nlast_crash     : 0\nlast_hang      : 1499905077\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Barcoder/input -o /dev/shm/work/Barcoder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Barcoder/Barcoder.dict -- data/linux/processed-challenges/Barcoder/bin/Barcoder\n'
+p163
+I1
+tp164
+a(I9840
+S'start_time     : 1499895430\nlast_update    : 1499905226\nfuzzer_pid     : 8422\ncycles_done    : 0\nexecs_done     : 8116311\nexecs_per_sec  : 618.70\npaths_total    : 485\npaths_favored  : 136\npaths_found    : 484\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 392\npending_favs   : 31\npending_total  : 339\nvariable_paths : 0\nbitmap_cvg     : 1.97%\nunique_crashes : 0\nunique_hangs   : 57\nlast_path      : 1499905204\nlast_crash     : 0\nlast_hang      : 1499905077\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Barcoder/input -o /dev/shm/work/Barcoder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Barcoder/Barcoder.dict -- data/linux/processed-challenges/Barcoder/bin/Barcoder\n'
+p165
+I5
+tp166
+a(I9960
+S'start_time     : 1499895430\nlast_update    : 1499905347\nfuzzer_pid     : 8422\ncycles_done    : 0\nexecs_done     : 8184710\nexecs_per_sec  : 370.67\npaths_total    : 485\npaths_favored  : 137\npaths_found    : 484\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 400\npending_favs   : 32\npending_total  : 338\nvariable_paths : 0\nbitmap_cvg     : 1.97%\nunique_crashes : 0\nunique_hangs   : 58\nlast_path      : 1499905204\nlast_crash     : 0\nlast_hang      : 1499905268\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Barcoder/input -o /dev/shm/work/Barcoder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Barcoder/Barcoder.dict -- data/linux/processed-challenges/Barcoder/bin/Barcoder\n'
+p167
+I2
+tp168
+a(I10080
+S'start_time     : 1499895430\nlast_update    : 1499905467\nfuzzer_pid     : 8422\ncycles_done    : 0\nexecs_done     : 8261208\nexecs_per_sec  : 710.25\npaths_total    : 488\npaths_favored  : 137\npaths_found    : 487\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 400\npending_favs   : 32\npending_total  : 341\nvariable_paths : 0\nbitmap_cvg     : 1.97%\nunique_crashes : 0\nunique_hangs   : 58\nlast_path      : 1499905409\nlast_crash     : 0\nlast_hang      : 1499905268\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Barcoder/input -o /dev/shm/work/Barcoder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Barcoder/Barcoder.dict -- data/linux/processed-challenges/Barcoder/bin/Barcoder\n'
+p169
+I1
+tp170
+a(I10200
+S'start_time     : 1499895430\nlast_update    : 1499905587\nfuzzer_pid     : 8422\ncycles_done    : 0\nexecs_done     : 8346793\nexecs_per_sec  : 540.46\npaths_total    : 489\npaths_favored  : 137\npaths_found    : 488\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 405\npending_favs   : 30\npending_total  : 340\nvariable_paths : 0\nbitmap_cvg     : 1.97%\nunique_crashes : 0\nunique_hangs   : 58\nlast_path      : 1499905572\nlast_crash     : 0\nlast_hang      : 1499905268\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Barcoder/input -o /dev/shm/work/Barcoder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Barcoder/Barcoder.dict -- data/linux/processed-challenges/Barcoder/bin/Barcoder\n'
+p171
+I1
+tp172
+a(I10320
+S'start_time     : 1499895430\nlast_update    : 1499905707\nfuzzer_pid     : 8422\ncycles_done    : 0\nexecs_done     : 8414843\nexecs_per_sec  : 697.66\npaths_total    : 492\npaths_favored  : 137\npaths_found    : 491\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 405\npending_favs   : 30\npending_total  : 343\nvariable_paths : 0\nbitmap_cvg     : 1.97%\nunique_crashes : 0\nunique_hangs   : 58\nlast_path      : 1499905661\nlast_crash     : 0\nlast_hang      : 1499905268\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Barcoder/input -o /dev/shm/work/Barcoder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Barcoder/Barcoder.dict -- data/linux/processed-challenges/Barcoder/bin/Barcoder\n'
+p173
+I5
+tp174
+a(I10440
+S'start_time     : 1499895430\nlast_update    : 1499905828\nfuzzer_pid     : 8422\ncycles_done    : 0\nexecs_done     : 8466252\nexecs_per_sec  : 174.42\npaths_total    : 495\npaths_favored  : 136\npaths_found    : 494\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 407\npending_favs   : 29\npending_total  : 345\nvariable_paths : 0\nbitmap_cvg     : 1.97%\nunique_crashes : 0\nunique_hangs   : 59\nlast_path      : 1499905768\nlast_crash     : 0\nlast_hang      : 1499905805\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Barcoder/input -o /dev/shm/work/Barcoder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Barcoder/Barcoder.dict -- data/linux/processed-challenges/Barcoder/bin/Barcoder\n'
+p175
+I1
+tp176
+a(I10560
+S'start_time     : 1499895430\nlast_update    : 1499905948\nfuzzer_pid     : 8422\ncycles_done    : 0\nexecs_done     : 8489704\nexecs_per_sec  : 373.95\npaths_total    : 495\npaths_favored  : 136\npaths_found    : 494\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 408\npending_favs   : 28\npending_total  : 344\nvariable_paths : 0\nbitmap_cvg     : 1.97%\nunique_crashes : 0\nunique_hangs   : 60\nlast_path      : 1499905768\nlast_crash     : 0\nlast_hang      : 1499905928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Barcoder/input -o /dev/shm/work/Barcoder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Barcoder/Barcoder.dict -- data/linux/processed-challenges/Barcoder/bin/Barcoder\n'
+p177
+I0
+tp178
+a(I10680
+S'start_time     : 1499895430\nlast_update    : 1499906068\nfuzzer_pid     : 8422\ncycles_done    : 0\nexecs_done     : 8555978\nexecs_per_sec  : 869.09\npaths_total    : 496\npaths_favored  : 136\npaths_found    : 495\npaths_imported : 0\nmax_depth      : 7\ncur_path       : 412\npending_favs   : 27\npending_total  : 344\nvariable_paths : 0\nbitmap_cvg     : 1.98%\nunique_crashes : 0\nunique_hangs   : 60\nlast_path      : 1499906050\nlast_crash     : 0\nlast_hang      : 1499905928\nexec_timeout   : 20\nafl_banner     : fuzzer-master\nafl_version    : 1.85b\ncommand_line   : /home/skaramcheti/.virtualenvs/afl/bin/afl-unix/afl-fuzz -i /dev/shm/work/Barcoder/input -o /dev/shm/work/Barcoder/sync -m 4G -Q -M fuzzer-master -x /dev/shm/work/Barcoder/Barcoder.dict -- data/linux/processed-challenges/Barcoder/bin/Barcoder\n'
+p179
+I1
+tp180
+a.

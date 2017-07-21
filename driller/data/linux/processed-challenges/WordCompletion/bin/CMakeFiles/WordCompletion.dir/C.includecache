@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/libcgc.h
+
+/vagrant/driller/data/linux/processed-challenges/WordCompletion/src/main.c
+libcgc.h
+-
+words.h
+/vagrant/driller/data/linux/processed-challenges/WordCompletion/src/words.h
+
+/vagrant/driller/data/linux/processed-challenges/WordCompletion/src/words.h
+

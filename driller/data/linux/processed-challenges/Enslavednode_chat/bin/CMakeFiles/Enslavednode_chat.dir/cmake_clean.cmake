@@ -1,0 +1,40 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/Enslavednode_chat.dir/lib/calloc.c.o"
+  "CMakeFiles/Enslavednode_chat.dir/lib/ctype.c.o"
+  "CMakeFiles/Enslavednode_chat.dir/lib/free.c.o"
+  "CMakeFiles/Enslavednode_chat.dir/lib/malloc.c.o"
+  "CMakeFiles/Enslavednode_chat.dir/lib/malloc_common.c.o"
+  "CMakeFiles/Enslavednode_chat.dir/lib/memchr.c.o"
+  "CMakeFiles/Enslavednode_chat.dir/lib/memcmp.c.o"
+  "CMakeFiles/Enslavednode_chat.dir/lib/memcpy.c.o"
+  "CMakeFiles/Enslavednode_chat.dir/lib/memmove.c.o"
+  "CMakeFiles/Enslavednode_chat.dir/lib/memset.c.o"
+  "CMakeFiles/Enslavednode_chat.dir/lib/printf.c.o"
+  "CMakeFiles/Enslavednode_chat.dir/lib/realloc.c.o"
+  "CMakeFiles/Enslavednode_chat.dir/lib/strcasecmp.c.o"
+  "CMakeFiles/Enslavednode_chat.dir/lib/strcat.c.o"
+  "CMakeFiles/Enslavednode_chat.dir/lib/strchr.c.o"
+  "CMakeFiles/Enslavednode_chat.dir/lib/strcmp.c.o"
+  "CMakeFiles/Enslavednode_chat.dir/lib/strcpy.c.o"
+  "CMakeFiles/Enslavednode_chat.dir/lib/strdup.c.o"
+  "CMakeFiles/Enslavednode_chat.dir/lib/strlen.c.o"
+  "CMakeFiles/Enslavednode_chat.dir/lib/strncasecmp.c.o"
+  "CMakeFiles/Enslavednode_chat.dir/lib/strncmp.c.o"
+  "CMakeFiles/Enslavednode_chat.dir/lib/strncpy.c.o"
+  "CMakeFiles/Enslavednode_chat.dir/lib/strsep.c.o"
+  "CMakeFiles/Enslavednode_chat.dir/lib/strtol.c.o"
+  "CMakeFiles/Enslavednode_chat.dir/src/common.c.o"
+  "CMakeFiles/Enslavednode_chat.dir/src/error.c.o"
+  "CMakeFiles/Enslavednode_chat.dir/src/list.c.o"
+  "CMakeFiles/Enslavednode_chat.dir/src/main.c.o"
+  "CMakeFiles/Enslavednode_chat.dir/src/string.c.o"
+  "CMakeFiles/Enslavednode_chat.dir/src/tree.c.o"
+  "CMakeFiles/Enslavednode_chat.dir/src/wl.c.o"
+  "Enslavednode_chat.pdb"
+  "Enslavednode_chat"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang C)
+  include(CMakeFiles/Enslavednode_chat.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
