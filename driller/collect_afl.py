@@ -9,8 +9,8 @@ import pickle
 import sys
 import time
 
-TIMEOUT = 60 * 60 * 3       # Timeout (in seconds) => 3 hours
-COLLECT_EVERY = 60 * 2      # Collect every x seconds => 2 minutes
+TIMEOUT = 60 * 60 * 24      # Timeout (in seconds) => 24 hours
+COLLECT_EVERY = 60 * 3      # Collect every x seconds => 3 minutes
 
 
 def fuzz(bin_name):
