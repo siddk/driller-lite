@@ -6,9 +6,9 @@ Run the shellphuzz script on a given binary for the set amount of time, collecti
 from subprocess import Popen
 import os
 import cPickle as pickle
+import random
 import sys
 import time
-import numpy as np
 
 TIMEOUT = 60 * 60 * 24      # Timeout (in seconds) => 24 hours
 COLLECT_EVERY = 60 * 3      # Collect every x seconds => 3 minutes
@@ -50,7 +50,7 @@ def fuzz(bin_name):
             # Persist Loop:
             sampled_inputs = []
             for i in range(0, COLLECT_EVERY, 2):
-                f_name = np.random.choice(NUM_PERSIST)
+                f_name = (2 * random.randint(0, (NUM_PERSIST / 2) - 1)) + 1
                 with open('/dev/shm/work/%s/sync/fuzzer-master/persist_%d' % (bin_name, f_name), 'rb') as f:
                     sampled_inputs.append(f.read())
                 time.sleep(SAMPLE_RATE)
