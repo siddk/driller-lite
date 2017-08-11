@@ -231,7 +231,6 @@ def parse(obs):
         return None
 
 
-
 if __name__ == "__main__":
     args = sys.argv
     binary_name, mode = args[1], args[2]
