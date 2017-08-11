@@ -234,7 +234,7 @@ def parse(obs):
 
 if __name__ == "__main__":
     args = sys.argv
-    binary_name, mode = args[0], args[1]
+    binary_name, mode = args[1], args[2]
 
     if mode == 'VANILLA':
         fuzz_vanilla(binary_name)
