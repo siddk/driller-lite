@@ -38,6 +38,7 @@ def fuzz(bin_name):
             time.sleep(COLLECT_EVERY)
 
             # Kill Processes
+            print 'KILLING PROCESSES'
             vanilla_process.kill()
             havoc_process.kill()
 
@@ -63,7 +64,7 @@ def fuzz(bin_name):
 
             if num_vanilla > num_havoc:
                 # Append items to data
-                data.append((idx, vanilla_obs, havoc_obs, num_vanilla - n_queue, 'VANILLA'))
+                data.append((idx, vanilla_obs, havoc_obs, num_vanilla - n_queue, num_havoc - n_queue, 'VANILLA'))
 
                 # Remove Havoc Directory
                 subprocess.call(["rm", "-rf", "/home/ubuntu/Havoc/%s" % bin_name])
@@ -75,7 +76,7 @@ def fuzz(bin_name):
                 n_queue = num_vanilla
             else:
                 # Append items to data
-                data.append((idx, vanilla_obs, havoc_obs, num_havoc - n_queue, 'HAVOC'))
+                data.append((idx, vanilla_obs, havoc_obs, num_vanilla - n_queue, num_havoc - n_queue, 'HAVOC'))
 
                 # Remove Vanilla Directory
                 subprocess.call(["rm", "-rf", "/home/ubuntu/Vanilla/%s" % bin_name])
