@@ -10,7 +10,7 @@ import random
 import sys
 import time
 
-TIMEOUT = 60 * 60 * 24      # Timeout (in seconds) => 24 hours
+TIMEOUT = 60 * 60 * 12      # Timeout (in seconds) => 12 hours
 COLLECT_EVERY = 60 * 3      # Collect every x seconds => 3 minutes
 NUM_PERSIST = 5000          # Number of AFL Persisted Samples => 5000
 SAMPLE_RATE = 2             # Sample Rate => 2 seconds

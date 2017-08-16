@@ -12,7 +12,7 @@ VANILLA_PATH = "/home/ubuntu/Vanilla/"
 RANDOM_PATH = "/home/ubuntu/Random/"
 BOOSTED_PATH = "/home/ubuntu/Boosted/"
 
-TIMEOUT = 60 * 60 * 24      # Timeout (in seconds) => 24 hours
+TIMEOUT = 60 * 60 * 12      # Timeout (in seconds) => 24 hours
 COLLECT_EVERY = 60 * 3      # Collect every x seconds => 3 minutes
 
 FEATURES = ['start_time', 'last_update', 'cycles_done', 'execs_done', 'execs_per_sec', 'paths_total',
@@ -192,6 +192,69 @@ def fuzz_boosted(bin_name):
             # Get Model Prediction
             prediction = model.predict([parsed_obs])[0]
             if prediction == 1:
+                do_vanilla = True
+            else:
+                do_vanilla = False
+
+            # Update Book-Keeping
+            n_queue = num_items
+
+    finally:
+        # Write Data to file
+        with open('/vagrant/driller/afl_data/afl_stats/%s/%s_Boosted.pik' % (bin_name, bin_name), 'w') as f:
+            pickle.dump(data, f)
+
+
+def fuzz_dual_boost(bin_name):
+    # Create Data Directory
+    if not os.path.exists('/vagrant/driller/afl_data/afl_stats/%s' % bin_name):
+        os.mkdir('/vagrant/driller/afl_data/afl_stats/%s' % bin_name)
+
+    # Start Statistics
+    n_queue, data = 1, []  # AFL Queue starts with 1 meaningful input (seed)
+
+    # Load Model
+    with open('/vagrant/driller/HAVOC_BOOST.pik', 'r') as f:
+        havoc_model = pickle.load(f)
+
+    with open('/vagrant/driller/VANILLA_BOOST.pik', 'r') as f:
+        vanilla_model  = pickle.load(f)
+
+    do_vanilla = False
+    try:
+        for idx in range(0, TIMEOUT, COLLECT_EVERY):
+            # Fuzz
+            if do_vanilla:
+                subprocess.call(['/vagrant/driller/shellphuzz', '-c', '1', '-t', str(COLLECT_EVERY), '-w', BOOSTED_PATH,
+                                 '/vagrant/driller/data/linux/processed-challenges/%s/bin/%s' % (bin_name, bin_name)])
+            else:
+                subprocess.call(['/vagrant/driller/shellphuzz', '-c', '1', '-t', str(COLLECT_EVERY), '-havoc', 'True',
+                                 '-w', BOOSTED_PATH,
+                                 '/vagrant/driller/data/linux/processed-challenges/%s/bin/%s' % (bin_name, bin_name)])
+
+            # Wait (Just in Case)
+            time.sleep(10)
+
+            # Get Current Observation
+            if os.path.exists(BOOSTED_PATH + "%s/sync/fuzzer-0/fuzzer_stats" % bin_name):
+                with open(BOOSTED_PATH + "%s/sync/fuzzer-0/fuzzer_stats" % bin_name, 'r') as f:
+                    obs = f.read()
+            else:
+                obs = None
+
+            # Get number of items in queue
+            num_items = len(os.listdir(BOOSTED_PATH + "%s/sync/fuzzer-0/queue" % bin_name))
+
+            # Append items to data
+            data.append((idx, obs, num_items - n_queue, 'VANILLA' if do_vanilla else 'HAVOC'))
+
+            # Parse Observation into Vector
+            parsed_obs = parse(obs)
+
+            # Get Model Prediction
+            vanilla_p = vanilla_model.predict_proba([parsed_obs])[0]
+            havoc_p = havoc_model.predict_proba([parsed_obs])[0]
+            if vanilla_p[1] > havoc_p[1]:
                 do_vanilla = True
             else:
                 do_vanilla = False
