@@ -12,7 +12,7 @@ HAVOC_PATH = "/home/ubuntu/Havoc/"
 VANILLA_PATH = "/home/ubuntu/Vanilla/"
 
 TIMEOUT = 60 * 60 * 12      # Timeout (in seconds) => 24 hours
-COLLECT_EVERY = 60 * 3      # Collect every x seconds => 3 minutes
+COLLECT_EVERY = 60 * 1      # Collect every x seconds => 3 minutes
 
 
 def fuzz(bin_name):
@@ -38,8 +38,8 @@ def fuzz(bin_name):
             time.sleep(COLLECT_EVERY)
 
             # Kill Processes
-            vanilla_process.terminate()
-            havoc_process.terminate()
+            vanilla_process.kill()
+            havoc_process.kill()
 
             # Wait (Just in Case)
             time.sleep(10)
