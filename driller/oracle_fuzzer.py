@@ -35,7 +35,7 @@ def fuzz(bin_name):
                                    % (bin_name, bin_name)])
 
             # Sleep Collect Every
-            time.sleep(COLLECT_EVERY)
+            time.sleep(COLLECT_EVERY + 10)
 
             # Kill Processes
             print 'KILLING PROCESSES'
