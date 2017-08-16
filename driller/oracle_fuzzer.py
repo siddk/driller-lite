@@ -34,16 +34,12 @@ def fuzz(bin_name):
                                    '-w', HAVOC_PATH, '/vagrant/driller/data/linux/processed-challenges/%s/bin/%s'
                                    % (bin_name, bin_name)])
 
-            # Sleep Collect Every
-            time.sleep(COLLECT_EVERY + 10)
-
-            # Kill Processes
-            print 'KILLING PROCESSES'
-            vanilla_process.kill()
-            havoc_process.kill()
+            # Wait until both processes have finished
+            vanilla_process.wait()
+            havoc_process.wait()
 
             # Wait (Just in Case)
-            time.sleep(10)
+            time.sleep(3)
 
             # Get Current Observations
             if os.path.exists(VANILLA_PATH + "%s/sync/fuzzer-0/fuzzer_stats" % bin_name):
