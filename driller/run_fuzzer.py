@@ -12,7 +12,7 @@ VANILLA_PATH = "/home/ubuntu/Vanilla/"
 RANDOM_PATH = "/home/ubuntu/Random/"
 BOOSTED_PATH = "/home/ubuntu/Boosted/"
 
-TIMEOUT = 60 * 60 * 12      # Timeout (in seconds) => 24 hours
+TIMEOUT = 60 * 60 * 2      # Timeout (in seconds) => 24 hours
 COLLECT_EVERY = 60 * 3      # Collect every x seconds => 3 minutes
 
 FEATURES = ['start_time', 'last_update', 'cycles_done', 'execs_done', 'execs_per_sec', 'paths_total',
