@@ -48,7 +48,7 @@ def fuzz(bin_name):
             else:
                 vanilla_obs = None
 
-            if os.path.exists(HAVOC_PATH + "%s/sync/fuzzer-0/fuzzer-stats" % bin_name):
+            if os.path.exists(HAVOC_PATH + "%s/sync/fuzzer-0/fuzzer_stats" % bin_name):
                 with open(HAVOC_PATH + "%s/sync/fuzzer-0/fuzzer_stats" % bin_name, 'r') as f:
                     havoc_obs = f.read()
             else:
